@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 30,
-  "translation": "Û tu yê wî bi zêrê paqij bipêçî ⟨אתו⟩: serê wî û dîwarên wî dora wî û qornên wî ⟨את⟩ ⟨את⟩ ⟨את⟩; û tu yê ji re zêreke dora wî çêkî.",
+  "translation": "Wê ⟨את⟩ wê bi zêrê paqij bipêçî — ⟨את⟩ serê wê û ⟨את⟩ dîwarên wê li dora wê, û ⟨את⟩ qerên wê; û ji bo wê zêrekî zêrê çêkî li dora wê.",
   "tokens": [
     {
-      "surface": "וצפית",
-      "gloss": "Û …bipêçî"
+      "surface": "וצצפית",
+      "gloss": "wê bipêçî"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "wî"
+      "marks": "wê"
     },
     {
       "surface": "זהב",
@@ -27,33 +27,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "serê wî"
+      "marks": "serê wê"
     },
     {
       "surface": "גגו",
-      "gloss": "serê wî"
+      "gloss": "serê wê"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "dîwarên wî"
+      "marks": "dîwarên wê"
     },
     {
       "surface": "קירתיו",
-      "gloss": "dîwarên wî"
+      "gloss": "dîwarên wê"
     },
     {
       "surface": "סביב",
-      "gloss": "dora wî"
+      "gloss": "li dora wê"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "qornên wî"
+      "marks": "qerên wê"
     },
     {
       "surface": "קרנתיו",
-      "gloss": "qornên wî"
+      "gloss": "qerên wê"
     },
     {
       "surface": "ועשית",
@@ -61,21 +61,21 @@
     },
     {
       "surface": "לו",
-      "gloss": "ji re"
+      "gloss": "ji bo wê"
     },
     {
       "surface": "זר",
-      "gloss": "zêrek"
+      "gloss": "zêrekî"
     },
     {
       "surface": "זהב",
-      "gloss": "zêr"
+      "gloss": "zêrê"
     },
     {
       "surface": "סביב",
-      "gloss": "dora wî"
+      "gloss": "li dora wê"
     }
   ],
-  "timestamp": "2026-08-29T18:16:04.469451698Z",
+  "timestamp": "2026-08-30T07:26:06.880378889Z",
   "model": "glm-5.3"
 }

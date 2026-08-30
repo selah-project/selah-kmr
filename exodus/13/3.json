@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 13,
-  "translation": "Û Moşe ji gel re got: «Bîr bînin ⟨את⟩ vê rojê ku hûn ji Mîtsrayim derketin, ji mala koletiyê; çimkî bi destê bihêz Yahwe hûn ⟨אתכם⟩ ji vir derxist; û hevirî nayê xwarin.»",
+  "translation": "Û Moşe ji gel re got: \"Vê rojê bi bîr bînin ku hûn ji Mîtsrayimê derketin, ji mala koletiyê, ji ber ku Yahwe bi hêza destê xwe we ji vir derxist — û tiştê hêvîrandî nayê xwarin.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "got"
+      "gloss": "û got"
     },
     {
       "surface": "משה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "זכור",
-      "gloss": "Bîr bînin"
+      "gloss": "bi bîr bînin"
     },
     {
       "surface": "את",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "יצאתם",
-      "gloss": "derketin"
+      "gloss": "hûn derketin"
     },
     {
       "surface": "ממצרים",
-      "gloss": "ji Mîtsrayim"
+      "gloss": "ji Mîtsrayimê"
     },
     {
       "surface": "מבית",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "çimkî"
+      "gloss": "ji ber ku"
     },
     {
       "surface": "בחזק",
-      "gloss": "bi bihêzî"
+      "gloss": "bi hêza"
     },
     {
       "surface": "יד",
@@ -82,8 +82,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ hûn",
-      "marks": "hûn (ji vir)"
+      "gloss": "⟨את⟩ we"
     },
     {
       "surface": "מזה",
@@ -95,13 +94,13 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "nayê xwarin"
+      "gloss": "tê xwarin"
     },
     {
       "surface": "חמץ",
-      "gloss": "hevirî"
+      "gloss": "tiştê hêvîrandî"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.837706215Z",
+  "timestamp": "2026-08-30T07:25:33.080967962Z",
   "model": "glm-5.3"
 }

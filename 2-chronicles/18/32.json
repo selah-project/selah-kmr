@@ -5,23 +5,23 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Û çawa bû, gava serên ⟨ה⟩ ← ⟨את⟩ → rehewananan → dîtin ku ew ne keyê Yisraêl bû, ji pey wê vegeriyan.",
+  "translation": "Çawa ku serdarên sentenceyan dît ku ew ne şahê Yisraêl bû, ew ji pey wê vegeriyan.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "çawa bû"
+      "gloss": "çawa ku"
     },
     {
       "surface": "כראות",
-      "gloss": "gava dîtin"
+      "gloss": "dît"
     },
     {
       "surface": "שרי",
-      "gloss": "serên"
+      "gloss": "serdarên"
     },
     {
       "surface": "הרכב",
-      "gloss": "rehewananan"
+      "gloss": "sentenceyan"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "keyê"
+      "gloss": "şahê"
     },
     {
       "surface": "ישראל",
@@ -52,6 +52,6 @@
       "gloss": "ji pey wê"
     }
   ],
-  "timestamp": "2026-08-30T07:01:01.882631470Z",
+  "timestamp": "2026-08-30T07:36:45.480539660Z",
   "model": "glm-5.3"
 }

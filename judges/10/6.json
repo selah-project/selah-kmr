@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "kmr",
   "chapter": 10,
-  "translation": "Û zarokên Îsraêlî dîsa kirin ⟨the⟩ xerabî di çavên Yahwe de, û xizmet kirin ⟨את⟩ Baalan û ⟨את⟩ Aştêrotan û ⟨את⟩ xudayên Aramê û ⟨את⟩ xudayên Sîdonê û ⟨את⟩ xudayên Moabê û ⟨את⟩ xudayên zarokên Emon û ⟨את⟩ xudayên Fîlîstînan, û berda Yahwe û wî nekarîn.",
+  "translation": "Kurên Îsraêlê dîsa zêde kirin kirina xerabî di çavên Yahwe de, û xizmet kirin ⟨את⟩ Baʿalan, ⟨את⟩ Aştoretan, ⟨את⟩ xwediyên Aramê, ⟨את⟩ xwediyên Sîdonê, ⟨את⟩ xwediyên Moabê, ⟨את⟩ xwediyên kurên Emmonê, û ⟨את⟩ xwediyên Filistînan; û ⟨את⟩ Yahwe berdan û wî ne xizmet kirin.",
   "tokens": [
     {
       "surface": "ויספו",
-      "gloss": "dîsa kirin"
+      "gloss": "dîsa zêde kirin"
     },
     {
       "surface": "בני",
-      "gloss": "zarokên"
+      "gloss": "kurên"
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêlî"
+      "gloss": "Îsraêlê"
     },
     {
       "surface": "לעשות",
-      "gloss": "kirin"
+      "gloss": "kirina"
     },
     {
       "surface": "הרע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "di çavên"
+      "gloss": "di çavên … de"
     },
     {
       "surface": "יהוה",
@@ -37,34 +37,34 @@
     },
     {
       "surface": "ויעבדו",
-      "gloss": "xizmet kirin"
+      "gloss": "û xizmet kirin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Baalan"
+      "marks": "Baʿalan"
     },
     {
       "surface": "הבעלים",
-      "gloss": "Baalan"
+      "gloss": "Baʿalan"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Aştêrotan"
+      "marks": "Aştoretan"
     },
     {
       "surface": "העשתרות",
-      "gloss": "Aştêrotan"
+      "gloss": "Aştoretan"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "xudayên Aramê"
+      "marks": "xwediyên Aramê"
     },
     {
       "surface": "אלהי",
-      "gloss": "xudayên"
+      "gloss": "xwediyên"
     },
     {
       "surface": "ארם",
@@ -73,11 +73,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "xudayên Sîdonê"
+      "marks": "xwediyên Sîdonê"
     },
     {
       "surface": "אלהי",
-      "gloss": "xudayên"
+      "gloss": "xwediyên"
     },
     {
       "surface": "צידון",
@@ -86,11 +86,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "xudayên Moabê"
+      "marks": "xwediyên Moabê"
     },
     {
       "surface": "אלהי",
-      "gloss": "xudayên"
+      "gloss": "xwediyên"
     },
     {
       "surface": "מואב",
@@ -99,36 +99,36 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "xudayên zarokên Emon"
+      "marks": "xwediyên kurên Emmonê"
     },
     {
       "surface": "אלהי",
-      "gloss": "xudayên"
+      "gloss": "xwediyên"
     },
     {
       "surface": "בני",
-      "gloss": "zarokên"
+      "gloss": "kurên"
     },
     {
       "surface": "עמון",
-      "gloss": "Emon"
+      "gloss": "Emmonê"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "xudayên Fîlîstînan"
+      "marks": "xwediyên Filistînan"
     },
     {
       "surface": "אלהי",
-      "gloss": "xudayên"
+      "gloss": "xwediyên"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Fîlîstînan"
+      "gloss": "Filistînan"
     },
     {
       "surface": "ויעזבו",
-      "gloss": "berda"
+      "gloss": "û berdan"
     },
     {
       "surface": "את",
@@ -145,9 +145,9 @@
     },
     {
       "surface": "עבדוהו",
-      "gloss": "wî nekarîn"
+      "gloss": "wî xizmet kirin"
     }
   ],
-  "timestamp": "2026-08-29T19:29:23.351864326Z",
+  "timestamp": "2026-08-30T07:30:28.199774787Z",
   "model": "glm-5.3"
 }

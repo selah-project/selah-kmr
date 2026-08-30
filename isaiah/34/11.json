@@ -5,43 +5,51 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 34,
-  "translation": "Wê bi dest bistînin pelîkan û kervok; kund û qijik lê dijîn; û li ser wê xetkêşên valahiyê û kevirên bêaweyê hatine kişandin.",
+  "translation": "Wê pelîkan û kîrmêjok wê bigirin, kund û qijik wê tê de bihunin; û wê ser wê xetekî valahî û kevirên valayiyê dirêj bike.",
   "tokens": [
     {
       "surface": "וירשוה",
-      "gloss": "wê bi dest bistînin"
+      "gloss": "wê bigirin"
     },
     {
       "surface": "קאת",
       "gloss": "pelîkan"
     },
     {
-      "surface": "וינשוף û וקפוד",
-      "gloss": "kund û qijik"
+      "surface": "וקפוד",
+      "gloss": "û kîrmêjok"
+    },
+    {
+      "surface": "וינשוף",
+      "gloss": "kund"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "û qijik"
     },
     {
       "surface": "ישכנו",
-      "gloss": "dijîn"
+      "gloss": "wê bihunin"
     },
     {
       "surface": "בה",
-      "gloss": "lê"
+      "gloss": "tê de"
     },
     {
       "surface": "ונטה",
-      "gloss": "û hatine kişandin"
+      "gloss": "wê dirêj bike"
     },
     {
       "surface": "עליה",
-      "gloss": "li ser wê"
+      "gloss": "ser wê"
     },
     {
       "surface": "קו",
-      "gloss": "xetkêşên"
+      "gloss": "xetekî"
     },
     {
       "surface": "תהו",
-      "gloss": "valahiyê"
+      "gloss": "valahî"
     },
     {
       "surface": "ואבני",
@@ -49,9 +57,9 @@
     },
     {
       "surface": "בהו",
-      "gloss": "bêaweyê"
+      "gloss": "valayiyê"
     }
   ],
-  "timestamp": "2026-08-29T20:38:06.587502259Z",
+  "timestamp": "2026-08-30T07:22:48.995502899Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 37,
-  "translation": "Wan wî girt û wî ⟨את⟩ ⟨אתו⟩ avêt nav çalê; çal vala bû, ⟨ava⟩ di wî de tune bû.",
+  "translation": "Wî girtin û wî avêtin ⟨את⟩ wî çalê; çal vala bû, di wî de av tune bû.",
   "tokens": [
     {
       "surface": "ויקחהו",
-      "gloss": "wan wî girt"
+      "gloss": "wî girtin"
     },
     {
       "surface": "וישלכו",
-      "gloss": "avêt"
+      "gloss": "wî avêtin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî"
+      "gloss": "⟨את⟩",
+      "marks": "wî çalê"
     },
     {
       "surface": "הברה",
-      "gloss": "nav çalê"
+      "gloss": "çalê"
     },
     {
       "surface": "והבור",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "tune bû"
+      "gloss": "tune"
     },
     {
       "surface": "בו",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "מים",
-      "gloss": "ava"
+      "gloss": "av"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.823949459Z",
+  "timestamp": "2026-08-30T07:25:31.810760568Z",
   "model": "glm-5.3"
 }

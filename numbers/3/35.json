@@ -5,8 +5,61 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Serokayê mala bavê ji malbatên Merarî Tsuriyêl kurê Avîhayil ⟨bû⟩; li aliyê bakurê Melanie wê li bakur bijîn.",
-  "tokens": [],
-  "timestamp": "2026-08-29T18:38:40.205156892Z",
+  "translation": "Serokê mala bavî ji malbatên Merarî Tsuriël kurê Avîhayil bû; li aliyê bakur êrîşgehê bivê cih digirin (li hember lingê rojhilat ê qutbûnê çêdibin).",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Serokê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bavî"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ji malbatên"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarî"
+    },
+    {
+      "surface": "צוריאל",
+      "gloss": "Tsuriël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "Avîhayil"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "aliyê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "êrîşgehê"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "cih digirin"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "li bakur"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:12.375366773Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 27,
-  "translation": "Û tu qerên wî li ser çar goşeyên wî çêkî; ji wî bi xwe bin qerên wî, û tu wî bi paxir ⟨את⟩ ⟨אתו⟩ bipêçe.",
+  "translation": "Û tu qertikên wê li ser çar goşeyên wê çêkî; ji wê bi xwe qertikên wê bin; û tu wê bi paxir ⟨את⟩ bipêçî.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "Û tu çêkî"
+      "gloss": "û tu çêkî"
     },
     {
       "surface": "קרנתיו",
-      "gloss": "qerên wî"
+      "gloss": "qertikên wê"
     },
     {
       "surface": "על",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "פנתיו",
-      "gloss": "goşeyên wî"
+      "gloss": "goşeyên wê"
     },
     {
       "surface": "ממנו",
-      "gloss": "ji wî bi xwe"
+      "gloss": "ji wê"
     },
     {
       "surface": "תהיין",
@@ -37,22 +37,22 @@
     },
     {
       "surface": "קרנתיו",
-      "gloss": "qerên wî"
+      "gloss": "qertikên wê"
     },
     {
       "surface": "וצפית",
-      "gloss": "Û tu bipêçe"
+      "gloss": "û tu bipêçî"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî"
+      "gloss": "⟨את⟩",
+      "marks": "wê (bi paxir)"
     },
     {
       "surface": "נחשת",
-      "gloss": "paxir"
+      "gloss": "bi paxir"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.835519053Z",
+  "timestamp": "2026-08-30T07:25:51.724799168Z",
   "model": "glm-5.3"
 }

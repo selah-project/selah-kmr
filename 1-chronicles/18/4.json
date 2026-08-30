@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Û Dawid ji wî hezar rekeb, heft hezar siwar û bîst hezar mêrên pesî girt; û Dawid ‹את› hemû rekeban seqet kir û ji wan tenê sed rekeb hîşt.",
+  "translation": "Dawid ji wî rezdarê wî hezar siwaran û heft hezar hespsivan û bîst hezar şervanên pêyî girt; Dawid ⟨את⟩ hemû siwaran(qitir) lal kir û ji wan sed siwaran bi cih hêla.",
   "tokens": [
     {
       "surface": "וילכד",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "רכב",
-      "gloss": "rekeb"
+      "gloss": "siwaran(qitir)"
     },
     {
       "surface": "ושבעת",
-      "gloss": "heft"
+      "gloss": "û heft"
     },
     {
       "surface": "אלפים",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "פרשים",
-      "gloss": "siwar"
+      "gloss": "hespsivan"
     },
     {
       "surface": "ועשרים",
-      "gloss": "bîst"
+      "gloss": "û bîst"
     },
     {
       "surface": "אלף",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "mêrên"
+      "gloss": "şervanên"
     },
     {
       "surface": "רגלי",
-      "gloss": "pesî"
+      "gloss": "pêyî"
     },
     {
       "surface": "ויעקר",
-      "gloss": "seqet kir"
+      "gloss": "lal kir (çepand)"
     },
     {
       "surface": "דויד",
@@ -66,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hemû rekeb"
+      "marks": "hemû siwaran"
     },
     {
       "surface": "כל",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "הרכב",
-      "gloss": "rekeban"
+      "gloss": "siwaran"
     },
     {
       "surface": "ויותר",
-      "gloss": "hîşt"
+      "gloss": "bi cih hêla"
     },
     {
       "surface": "ממנו",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "רכב",
-      "gloss": "rekeb"
+      "gloss": "siwaran"
     }
   ],
-  "timestamp": "2026-08-30T06:39:07.773217551Z",
+  "timestamp": "2026-08-30T07:36:31.664085705Z",
   "model": "glm-5.3"
 }

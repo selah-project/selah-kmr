@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 22,
-  "translation": "Û ji wî ⟨את⟩ ⟨אתו⟩ sed dirhêm zîvîn ceza bigirin û bidin bavê wê keçikê, ji ber ku ew navê xerab li ser keçeke Îsraêlî belav kiriye; û ew ê bibe jina wî — wê nikaribe hemû rojên jiyanê xwe wê bişîne.",
+  "translation": "Wê ⟨את⟩ bi sed diravên zîv ceza bikin û bidin bavê keçikê, ji ber ku ew navê xerab derxistiye ser keçika\/bûka Yisraêlê; û ew ê bibe jina wî, nikare wê bişîne tevahiya rojên xwe.",
   "tokens": [
     {
       "surface": "וענשו",
-      "gloss": "Û … ceza bigirin"
+      "gloss": "ceza bikin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî (zilamî)"
+      "gloss": "⟨את⟩",
+      "marks": "bi sed diravên zîv"
     },
     {
       "surface": "מאה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "dirhêm zîvîn"
+      "gloss": "diravên zîv"
     },
     {
       "surface": "ונתנו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנערה",
-      "gloss": "wê keçikê"
+      "gloss": "keçikê"
     },
     {
       "surface": "כי",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "belav kiriye"
+      "gloss": "derxistiye"
     },
     {
       "surface": "שם",
-      "gloss": "nav"
+      "gloss": "navê"
     },
     {
       "surface": "רע",
@@ -54,23 +54,23 @@
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "ser"
     },
     {
       "surface": "בתולת",
-      "gloss": "keçeke"
+      "gloss": "bûka"
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêlî"
+      "gloss": "Yisraêlê"
     },
     {
       "surface": "ולו",
-      "gloss": "Û ji wî re"
+      "gloss": "û ji bo wî"
     },
     {
       "surface": "תהיה",
-      "gloss": "ê bibe"
+      "gloss": "bibe"
     },
     {
       "surface": "לאשה",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "nê"
+      "gloss": "nike"
     },
     {
       "surface": "יוכל",
-      "gloss": "nikaribe"
+      "gloss": "nikare"
     },
     {
       "surface": "לשלחה",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "hemû"
+      "gloss": "tevahiya"
     },
     {
       "surface": "ימיו",
-      "gloss": "rojên jiyanê wî"
+      "gloss": "rojên xwe"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.844488276Z",
+  "timestamp": "2026-08-30T07:28:54.558576732Z",
   "model": "glm-5.3"
 }

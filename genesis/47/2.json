@@ -5,15 +5,11 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 47,
-  "translation": "Û ji dawiya birayên xwe pênc mêr hildan û wan li ber Paroh rûnişand.",
+  "translation": "Ji nav birayên xwe pênc mêr girt û li ber Fîrʿawn rê da wan.",
   "tokens": [
     {
-      "surface": "ויצגם-placeholder",
-      "gloss": ""
-    },
-    {
       "surface": "ומקצה",
-      "gloss": "Û ji dawiya"
+      "gloss": "ji nav"
     },
     {
       "surface": "אחיו",
@@ -21,7 +17,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "hildan"
+      "gloss": "girt"
     },
     {
       "surface": "חמשה",
@@ -29,13 +25,21 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "mêran"
+      "gloss": "mêr"
     },
     {
       "surface": "ויצגם",
-      "gloss": "û wan rûnişand"
+      "gloss": "rê da wan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fîrʿawn"
     }
   ],
-  "timestamp": "2026-08-29T17:59:06.755608266Z",
+  "timestamp": "2026-08-30T07:22:21.236230454Z",
   "model": "glm-5.3"
 }

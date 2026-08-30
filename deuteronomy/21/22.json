@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 21,
-  "translation": "Û ger di mêrekî de gunehê ku daraza mirinê lê hebe û ew bête kuştin, û tu wî ⟨את⟩ ⟨אתו⟩ li ser darekî dalî.",
+  "translation": "Û ger di mirovekî de gunehekî doza mirinê hebe, û ew were kuştin, û tu wî ⟨את⟩ li ser darekê bidarîkî:",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "באיש",
-      "gloss": "di mêrekî de"
+      "gloss": "di mirovekî de"
     },
     {
       "surface": "חטא",
-      "gloss": "gunehê"
+      "gloss": "guneh"
     },
     {
       "surface": "משפט",
-      "gloss": "daraza"
+      "gloss": "doza"
     },
     {
       "surface": "מות",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "והומת",
-      "gloss": "û ew bête kuştin"
+      "gloss": "û ew were kuştin"
     },
     {
       "surface": "ותלית",
-      "gloss": "û tu ... dalî"
+      "gloss": "û tu bidarîkî"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "wî"
     },
     {
@@ -50,9 +50,9 @@
     },
     {
       "surface": "עץ",
-      "gloss": "darekî"
+      "gloss": "darekê"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.843230486Z",
+  "timestamp": "2026-08-30T07:28:34.732785667Z",
   "model": "glm-5.3"
 }

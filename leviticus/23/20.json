@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Û kahîn wan ⟨את wan⟩ dinihêrîne (tahnûf) — bi nanê pêşînan re, tahnûfek li pêşber Yahwe, bi du beranan re; ew ê pîroz bin ji bo Yahwe, ji bo kahîn.",
+  "translation": "Û kahîn ⟨את⟩ wan bi nanê yekemînan wek tenûfayekê li pêş Yahwe dileyze, ligel du beran; ew ê pîroz bibin ji bo Yahwe, ji bo kahîn.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "û-dinihêrîne"
+      "gloss": "Û … dileyze"
     },
     {
       "surface": "הכהן",
@@ -18,27 +18,27 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nanê-pêşînan-û-du-beranan (wan)"
+      "marks": "wan (du beran û herdu nan)"
     },
     {
       "surface": "על",
-      "gloss": "bi…re"
+      "gloss": "ligel"
     },
     {
       "surface": "לחם",
-      "gloss": "nan"
+      "gloss": "nanê"
     },
     {
       "surface": "הבכורים",
-      "gloss": "pêşînan"
+      "gloss": "yekemînan"
     },
     {
       "surface": "תנופה",
-      "gloss": "tahnûf"
+      "gloss": "tenûfayekê"
     },
     {
       "surface": "לפני",
-      "gloss": "li-pêşber"
+      "gloss": "li pêş"
     },
     {
       "surface": "יהוה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "על",
-      "gloss": "bi…re"
+      "gloss": "ligel"
     },
     {
       "surface": "שני",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "bila-bibin"
+      "gloss": "bibin"
     },
     {
       "surface": "ליהוה",
-      "gloss": "ji-bo-Yahwe"
+      "gloss": "ji bo Yahwe"
     },
     {
       "surface": "לכהן",
-      "gloss": "ji-bo-kahîn"
+      "gloss": "ji bo kahîn"
     }
   ],
-  "timestamp": "2026-08-29T18:35:08.162471104Z",
+  "timestamp": "2026-08-30T07:26:31.253760213Z",
   "model": "glm-5.3"
 }

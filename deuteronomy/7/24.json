@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 7,
-  "translation": "Û keyên wan dide destê te, û tu navê wan ji bin ezmanan winda bikî; tu kes li ber te nabise, heta tu wan ⟨את⟩ biqedînî.",
+  "translation": "Û ew ê padîşahên wan bide destê te, û tu ê navê wan ji bin ezmanan bihelîneî; tu kesî naye ser piyan berdeviya te, heta tu wan bihelîne.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "dide"
+      "gloss": "Û ew ê bide"
     },
     {
       "surface": "מלכיהם",
-      "gloss": "keyên wan"
+      "gloss": "padîşahên wan"
     },
     {
       "surface": "בידך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והאבדת",
-      "gloss": "winda bikî"
+      "gloss": "û tu ê bihelîneî"
     },
     {
       "surface": "את",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "naye"
     },
     {
       "surface": "יתיצב",
-      "gloss": "nabise"
+      "gloss": "ser piyan"
     },
     {
       "surface": "איש",
-      "gloss": "tu kes"
+      "gloss": "tu kesî"
     },
     {
       "surface": "בפניך",
-      "gloss": "li ber te"
+      "gloss": "berdeviya te"
     },
     {
       "surface": "עד",
@@ -62,14 +62,14 @@
     },
     {
       "surface": "השמדך",
-      "gloss": "tu… biqedînî"
+      "gloss": "tu bihelîne"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "wan"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.843642579Z",
+  "timestamp": "2026-08-30T07:28:08.138292617Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,45 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Û ji bo te dê destekî ⟨li derve⟩ ji kampê hebe, û tu yê wir derve derkevî.",
+  "translation": "Û ⟨dê⟩ destek ji te re ⟨hebê⟩ derveyî kampê, û tu wê derê derkevî — derve.",
   "tokens": [
     {
-      "surface": "ותהיה",
-      "gloss": "û dê hebe"
+      "surface": "ולך",
+      "gloss": "Û"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destek"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨dê⟩…⟨hebê⟩"
     },
     {
       "surface": "לך",
-      "gloss": "ji bo te"
+      "gloss": "ji te re"
     },
     {
       "surface": "מחוץ",
-      "gloss": "li derve"
+      "gloss": "derveyî"
     },
     {
       "surface": "למחנה",
-      "gloss": "ji kampê"
+      "gloss": "kampê"
     },
     {
-      "surface": "ויצאת",
-      "gloss": "û tu yê derkevî"
+      "surface": "ולקחת",
+      "gloss": "û tu wê derê derkevî"
     },
     {
-      "surface": "שמה",
-      "gloss": "wir"
+      "surface": "שם",
+      "gloss": "derê"
     },
     {
       "surface": "חוץ",
       "gloss": "derve"
     }
   ],
-  "timestamp": "2026-08-30T03:31:54.517366086Z",
+  "timestamp": "2026-08-30T07:22:35.801012935Z",
   "model": "glm-5.3"
 }

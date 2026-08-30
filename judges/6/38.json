@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "Û ew qas bû; sibeha dinê ew zû rabû û destmalê זֵr kir, ji destmalê şîm derxist — tije avê qedehekê.",
+  "translation": "Wusa bû; sibeha dinê wî radest bû, feleyê ⟨את⟩ cûtkir û ji cûtkirinê şîmêş derxist — tije kaseyê avê.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "ew qas"
+      "gloss": "wusa"
     },
     {
       "surface": "וישכם",
-      "gloss": "zû rabû"
+      "gloss": "radest bû"
     },
     {
       "surface": "ממחרת",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ויזר",
-      "gloss": "זֵr kir"
+      "gloss": "cûtkir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "destmalê"
+      "marks": "cût"
     },
     {
       "surface": "הגזה",
-      "gloss": "destmalê"
+      "gloss": "cût"
     },
     {
       "surface": "וימץ",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "טל",
-      "gloss": "şîm"
+      "gloss": "şîmêş"
     },
     {
       "surface": "מן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הגזה",
-      "gloss": "destmalê"
+      "gloss": "cûtkirinê"
     },
     {
       "surface": "מלוא",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "הספל",
-      "gloss": "qedehekê"
+      "gloss": "kaseyê"
     },
     {
       "surface": "מים",
       "gloss": "avê"
     }
   ],
-  "timestamp": "2026-08-29T19:26:55.360228021Z",
+  "timestamp": "2026-08-30T07:50:39.666719422Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Û derbarê ⟨the⟩ peyvê ku ez û tu pê axaftin — vê ne, Yahwe di navbera min û te de ye heta hertimî.",
+  "translation": "Û ew peyva ku min û te axaftîye, hingê Yahwe di navbera min û te de ye heta hertimî.",
   "tokens": [
     {
       "surface": "והדבר",
-      "gloss": "û peyv"
+      "gloss": "Û ew peyva"
     },
     {
       "surface": "אשר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "דברנו",
-      "gloss": "axaftin"
+      "gloss": "axaftîye"
     },
     {
       "surface": "אני",
-      "gloss": "ez"
+      "gloss": "min"
     },
     {
       "surface": "ואתה",
-      "gloss": "û tu"
+      "gloss": "û te"
     },
     {
       "surface": "הנה",
-      "gloss": "vê ne"
+      "gloss": "hingê"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ביני",
-      "gloss": "di navbera min de"
+      "gloss": "di navbera min"
     },
     {
       "surface": "ובינך",
-      "gloss": "û di navbera te de"
+      "gloss": "û te de"
     },
     {
       "surface": "עד",
@@ -52,6 +52,6 @@
       "gloss": "hertimî"
     }
   ],
-  "timestamp": "2026-08-30T03:35:55.752183858Z",
+  "timestamp": "2026-08-30T07:30:27.031675185Z",
   "model": "glm-5.3"
 }

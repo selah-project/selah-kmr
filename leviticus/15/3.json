@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 15,
-  "translation": "Û ev ê paqijîyê di dêriya (zavê) wî de dibe: goştê wî ⟨את⟩ dêriya wî diherikîne, an jî goştê wî ji dêriya wî tê girtin — <paqijîya wî ev e>.",
+  "translation": "Ev ⟨ev⟩ nepakiya wî ⟨ye⟩ di cûdabûna wî de: goştê wî bi ⟨את⟩ cûdabûna wî ve diherike, an jî goştê wî ji cûdabûna wî tê girtin — nepakiya wî ⟨ev⟩ e.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "Û ev"
+      "gloss": "û ev"
     },
     {
       "surface": "תהיה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "טמאתו",
-      "gloss": "nêpaqîya wî"
+      "gloss": "nepakiya wî"
     },
     {
       "surface": "בזובו",
-      "gloss": "di zavê wî de"
+      "gloss": "di cûdabûna wî de"
     },
     {
       "surface": "רר",
-      "gloss": "diherikîne"
+      "gloss": "diherike"
     },
     {
       "surface": "בשרו",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zavê wî"
+      "marks": "cûdabûna wî"
     },
     {
       "surface": "זובו",
-      "gloss": "zavê wî"
+      "gloss": "cûdabûna wî"
     },
     {
       "surface": "או",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "החתים",
-      "gloss": "tê girtin\/mohrdan"
+      "gloss": "tê girtin"
     },
     {
       "surface": "בשרו",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "מזובו",
-      "gloss": "ji zavê wî"
+      "gloss": "ji cûdabûna wî"
     },
     {
       "surface": "טמאתו",
-      "gloss": "nêpaqîya wî"
+      "gloss": "nepakiya wî"
     },
     {
       "surface": "הוא",
-      "gloss": "ew"
+      "gloss": "ev e"
     }
   ],
-  "timestamp": "2026-08-29T18:29:41.955072331Z",
+  "timestamp": "2026-08-30T07:26:52.019503560Z",
   "model": "glm-5.3"
 }

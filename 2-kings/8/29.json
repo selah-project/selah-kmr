@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Û Yoram ⟨⟨the⟩⟩ key vegeriya ji bo ku li Yizreêlê were xweşkirinê ji birînên ku Eramî li Ramahê lê dabûn, dema ku ew di şer de ⟨את⟩ Chazaêl keyê Eramê dît. Û Ahazyahu kurê Yehoram keyê Yehudayê daket ji bo ku ⟨את⟩ Yoram kurê Ahav li Yizreêlê bibîne, ji ber ku ew nexweş bû.",
+  "translation": "Û Yoramê key vegeriya bo ku li Yizreêlê ji birînên ku Aramiyan dabûn wî were xweriskirin, wan li Ramayê birîndar kiribûn dema ew bi Xezaêlê keyê Aram re şer dikir; û Ehazyayû kurê Yehoramê keyê Yehudayê daketî bû da ku Yoramê kurê Ahab ⟨את⟩ bibîne li Yizreêlê, çimkî nexweş bû.",
   "tokens": [
     {
       "surface": "וישב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "להתרפא",
-      "gloss": "ji bo ku were xweşkirinê"
+      "gloss": "were xweriskirin"
     },
     {
       "surface": "ביזרעאל",
@@ -41,28 +41,28 @@
     },
     {
       "surface": "יכהו",
-      "gloss": "lew dabûn"
+      "gloss": "birîndar kiribûn wî"
     },
     {
       "surface": "ארמים",
-      "gloss": "Eramî"
+      "gloss": "Aramiyan"
     },
     {
       "surface": "ברמה",
-      "gloss": "li Ramahê"
+      "gloss": "li Ramayê"
     },
     {
       "surface": "בהלחמו",
-      "gloss": "dema ku ew di şer de"
+      "gloss": "dema ew şer dikir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Chazaêl keyê Eramê"
+      "marks": "Xezaêlê keyê Aram"
     },
     {
       "surface": "חזהאל",
-      "gloss": "Chazaêl"
+      "gloss": "Xezaêl"
     },
     {
       "surface": "מלך",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Eramê"
+      "gloss": "Aram"
     },
     {
       "surface": "ואחזיהו",
-      "gloss": "Û Ahazyahu"
+      "gloss": "û Ehazyayû"
     },
     {
       "surface": "בן",
@@ -94,16 +94,16 @@
     },
     {
       "surface": "ירד",
-      "gloss": "daket"
+      "gloss": "daketî bû"
     },
     {
       "surface": "לראות",
-      "gloss": "ji bo ku bibîne"
+      "gloss": "da ku bibîne"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yoram kurê Ahav"
+      "marks": "Yoramê kurê Ahab"
     },
     {
       "surface": "יורם",
@@ -115,7 +115,7 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahav"
+      "gloss": "Ahab"
     },
     {
       "surface": "ביזרעאל",
@@ -123,7 +123,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ji ber ku"
+      "gloss": "çimkî"
     },
     {
       "surface": "חלה",
@@ -134,6 +134,6 @@
       "gloss": "ew"
     }
   ],
-  "timestamp": "2026-08-29T20:17:23.206767445Z",
+  "timestamp": "2026-08-30T07:31:53.599842286Z",
   "model": "glm-5.3"
 }

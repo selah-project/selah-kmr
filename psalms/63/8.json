@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 63,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-30T05:22:17.507051051Z",
+  "translation": "Ji ber ku te alîkariya min kiriye, di siya baskên te de ez bilind dibejnim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "היית",
+      "gloss": "te ... kiriye"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "alîkarî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "di siya"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baskên te"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ez bilind dibejnim"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:41.928409726Z",
   "model": "glm-5.3"
 }

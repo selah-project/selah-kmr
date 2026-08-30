@@ -5,27 +5,23 @@
   "book": "job",
   "lang": "kmr",
   "chapter": 22,
-  "translation": "Ma xerabiya te mezin nîne, û dawî ji gunehên te re tune?",
+  "translation": "Ma ne xerabî ya te mezin e, û ji gunehên te re dawî tune ye?",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "Ma"
+      "gloss": "Ma ne"
     },
     {
       "surface": "רעתך",
-      "gloss": "xerabiya te"
+      "gloss": "xerabî ya te"
     },
     {
       "surface": "רבה",
-      "gloss": "mezin"
+      "gloss": "mezin e"
     },
     {
-      "surface": "ו",
-      "gloss": "û"
-    },
-    {
-      "surface": "אין",
-      "gloss": "tune"
+      "surface": "ואין",
+      "gloss": "û … tune"
     },
     {
       "surface": "קץ",
@@ -36,6 +32,6 @@
       "gloss": "ji gunehên te re"
     }
   ],
-  "timestamp": "2026-08-30T05:57:06.890790476Z",
+  "timestamp": "2026-08-30T07:22:49.337700758Z",
   "model": "glm-5.3"
 }

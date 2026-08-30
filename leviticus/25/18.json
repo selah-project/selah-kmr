@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 25,
-  "translation": "Û hûn ⟨את⟩ biryarên min dikin û ⟨את⟩ dadên min diparêzin û ⟨את⟩ wan dikin; û hûn bi ewlehî li ser ⟨the⟩ erdê rûdinin.",
+  "translation": "Hûn ê ⟨את⟩ biryarên min bikin û ⟨את⟩ hukmên min biparêzin û wan bikin, û hûn ê welêr bin li ser erdê bi ewlehî.",
   "tokens": [
     {
       "surface": "ועשיתם",
-      "gloss": "û hûn dikin"
+      "gloss": "hûn ê bikin"
     },
     {
       "surface": "את",
@@ -22,28 +22,29 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "dadên min"
+      "gloss": "û ⟨את⟩",
+      "marks": "hukmên min"
     },
     {
       "surface": "משפטי",
-      "gloss": "dadên min"
+      "gloss": "hukmên min"
     },
     {
       "surface": "תשמרו",
-      "gloss": "diparêzin"
+      "gloss": "hûn biparêzin"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "û hûn dikin"
+      "gloss": "û hûn bikin"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ wan"
+      "gloss": "⟨את⟩ wan",
+      "marks": "biryarên min û hukmên min"
     },
     {
       "surface": "וישבתם",
-      "gloss": "û hûn rûdinin"
+      "gloss": "û hûn ê welêr bin"
     },
     {
       "surface": "על",
@@ -58,6 +59,6 @@
       "gloss": "bi ewlehî"
     }
   ],
-  "timestamp": "2026-08-29T18:35:36.953024126Z",
+  "timestamp": "2026-08-30T07:27:13.202707012Z",
   "model": "glm-5.3"
 }

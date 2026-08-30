@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 40,
-  "translation": "Dirêjahiya hemberanê bîst后面 cûbit bû — Dirêjahiya hemberê bîst mêzînan bû û firehî wê yazdeh mêzînan bû; bi pêlên ku tê bihata bilindkirin ⟨ku ew pê digihiştin wî⟩, û stûn li cem êlên deriyê bûn, yek ji vir û yek ji wir.",
+  "translation": "Dirêjahiya hêlînikê bîstêsî be, û firehî wê yazdehêsî be; û bi mergeyên ku tê bilindkirin ⟨bê⟩ ⟨li⟩ wî, û stûn li ber êlên deriyan ⟨bûn⟩ — yek ji vir û yek ji wir.",
   "tokens": [
     {
       "surface": "ארך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "האלם",
-      "gloss": "hemberê"
+      "gloss": "hêlînikê"
     },
     {
       "surface": "עשרים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "mêzînan"
+      "gloss": "êsî"
     },
     {
       "surface": "ורחב",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "—yazdeh"
+      "gloss": "êsî"
     },
     {
       "surface": "אמה",
-      "gloss": "mêzînan"
+      "gloss": "êsî"
     },
     {
       "surface": "ובמעלות",
-      "gloss": "û bi pêlan"
+      "gloss": "û bi mergeyan"
     },
     {
       "surface": "אשר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "יעלו",
-      "gloss": "digihiştin"
+      "gloss": "tê bilindkirin"
     },
     {
       "surface": "אליו",
-      "gloss": "bi wî"
+      "gloss": "⟨li⟩ wî"
     },
     {
       "surface": "ועמדים",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "li cem"
+      "gloss": "li ber"
     },
     {
       "surface": "האילים",
-      "gloss": "ên êl"
+      "gloss": "êlên deriyan"
     },
     {
       "surface": "אחד",
@@ -84,6 +84,6 @@
       "gloss": "ji wir"
     }
   ],
-  "timestamp": "2026-08-30T03:59:22.473501631Z",
+  "timestamp": "2026-08-30T07:34:05.919361801Z",
   "model": "glm-5.3"
 }

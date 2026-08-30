@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 10,
-  "translation": "Dadê ⟨the⟩ sêwî û ⟨the⟩ bîbanan dike, û hegerî evî dike — ji bo ku jê re nan û çakêt bide.",
+  "translation": "Yê ku ji bo sêwî û jiné-biyane dadayî dike, û hecihê digire evînê, ku ji wî re nan û kino bidin.",
   "tokens": [
     {
       "surface": "עשה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "משפט",
-      "gloss": "Dadê"
+      "gloss": "dadayî"
     },
     {
       "surface": "יתום",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "ואלמנה",
-      "gloss": "û bîbanan"
+      "gloss": "û jiné-biyane"
     },
     {
       "surface": "ואהב",
-      "gloss": "û evî dike"
+      "gloss": "û digire evînê"
     },
     {
       "surface": "גר",
-      "gloss": "hegerî"
+      "gloss": "hecih"
     },
     {
       "surface": "לתת",
-      "gloss": "ji bo ku... bide"
+      "gloss": "ku bidin"
     },
     {
       "surface": "לו",
-      "gloss": "jê re"
+      "gloss": "ji wî re"
     },
     {
       "surface": "לחם",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "ושמלה",
-      "gloss": "û çakêt"
+      "gloss": "û kino"
     }
   ],
-  "timestamp": "2026-08-29T19:03:13.072110391Z",
+  "timestamp": "2026-08-30T07:28:08.098541226Z",
   "model": "glm-5.3"
 }

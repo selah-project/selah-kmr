@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 19,
-  "translation": "Cîranê xwe ⟨את⟩ nesitîne û negrobe; keda karkirosekî ji te re nehêle ⟨אתך⟩ heta sibehê.",
+  "translation": "Ne hevalê xwe bindest nekî û ji wî ranegirî; xelata karmendê bi karê rojanî li cem te şêvî nemîne, heta sibê.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "תעשק",
-      "gloss": "nesitîne"
+      "gloss": "bindest nekî"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cîranê xwe"
+      "marks": "hevalê te"
     },
     {
       "surface": "רעך",
-      "gloss": "cîranê xwe"
+      "gloss": "hevalê te"
     },
     {
       "surface": "ולא",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "תגזל",
-      "gloss": "negrobe"
+      "gloss": "ranegirî"
     },
     {
       "surface": "לא",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "תלין",
-      "gloss": "nehêle (nemîne)"
+      "gloss": "nemîne"
     },
     {
       "surface": "פעלת",
-      "gloss": "keda"
+      "gloss": "xelata karan"
     },
     {
       "surface": "שכיר",
-      "gloss": "karkirosekî"
+      "gloss": "karmendê bi karê rojanî"
     },
     {
       "surface": "אתך",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "בקר",
-      "gloss": "sibehê"
+      "gloss": "sibê"
     }
   ],
-  "timestamp": "2026-08-29T18:33:20.868194764Z",
+  "timestamp": "2026-08-30T07:26:28.937878894Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 22,
-  "translation": "Û hûn mêrên pîroz ên min bin; goştê ku di zeviyê de hatiye cibirandin naxwin — wê ⟨את⟩ ⟨אתו⟩ ji kûçik re bavêjin.",
+  "translation": "Hûn ê ji bo min mêrên pîroz bin, û goştê ku di çolê de hatiye dirandin hûn naxwin — hûn ê wî ji kûçik re bavêjin ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואנשי",
-      "gloss": "Û mêrên"
+      "gloss": "û mêrên"
     },
     {
       "surface": "קדש",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "תהיון",
-      "gloss": "bin"
+      "gloss": "hûn ê bin"
     },
     {
       "surface": "לי",
-      "gloss": "ên min"
+      "gloss": "ji bo min"
     },
     {
       "surface": "ובשר",
-      "gloss": "goştê"
+      "gloss": "û goştê"
     },
     {
       "surface": "בשדה",
-      "gloss": "di zeviyê de"
+      "gloss": "di çolê de"
     },
     {
       "surface": "טרפה",
-      "gloss": "hatiye cibirandin"
+      "gloss": "hatiye dirandin"
     },
     {
       "surface": "לא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "xwin"
+      "gloss": "hûn dixwin"
     },
     {
       "surface": "לכלב",
@@ -49,14 +49,14 @@
     },
     {
       "surface": "תשלכון",
-      "gloss": "bavêjin"
+      "gloss": "hûn ê bavêjin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wê (goştê cibirandî)"
+      "gloss": "⟨את⟩",
+      "marks": "wî (goştê dirandî)"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.833270147Z",
+  "timestamp": "2026-08-30T07:26:17.826119455Z",
   "model": "glm-5.3"
 }

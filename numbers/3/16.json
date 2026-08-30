@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Û Moşe wan ⟨את⟩ ⟨אתם⟩ li ser devê Yahwe bijmêrî, wekî ku ⟨hatibû⟩ emir kirin.",
+  "translation": "Moşe wan li gorî dawiya Yahwe jimart, wekî ku hat ferman kirin.",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "bijmêrî"
+      "gloss": "jimart"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wan (Lêwî)"
+      "gloss": "⟨את⟩",
+      "marks": "wan"
     },
     {
       "surface": "משה",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "li gorî"
     },
     {
       "surface": "פי",
-      "gloss": "devê"
+      "gloss": "dawiya"
     },
     {
       "surface": "יהוה",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "צוה",
-      "gloss": "hatibû emir kirin"
+      "gloss": "ferman kirin"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.855737765Z",
+  "timestamp": "2026-08-30T07:27:07.471382738Z",
   "model": "glm-5.3"
 }

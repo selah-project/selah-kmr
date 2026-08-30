@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Wekî kirinên welatê Mîtsrayim, ku hûn tê de dijiyan, nakin; û wekî kirinên welatê Kenaan, ku ez ê ⟨את⟩ ⟨אתכם⟩ tê de bihebînim, nakin; û bi hugûrên wan re nerewin.",
+  "translation": "Wekî kirinê welatê Mîtsrayim ku hûn tê de rûniştine, wê nekin; û wekî kirinê welatê Kenaan ku ez ⟨את⟩ we tînim wê derê, wê nekin; û di dadikên wan de nemeşin.",
   "tokens": [
     {
       "surface": "כמעשה",
-      "gloss": "wekî kirinên"
+      "gloss": "Wekî kirinê"
     },
     {
       "surface": "ארץ",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישבתם",
-      "gloss": "hûn dijiyan"
+      "gloss": "hûn rûniştine"
     },
     {
       "surface": "בה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "na"
+      "gloss": "ne"
     },
     {
       "surface": "תעשו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וכמעשה",
-      "gloss": "û wekî kirinên"
+      "gloss": "û wekî kirinê"
     },
     {
       "surface": "ארץ",
@@ -61,20 +61,20 @@
     },
     {
       "surface": "מביא",
-      "gloss": "ê… bihebînim"
+      "gloss": "tînim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ we",
       "marks": "we"
     },
     {
       "surface": "שמה",
-      "gloss": "tê de"
+      "gloss": "wê derê"
     },
     {
       "surface": "לא",
-      "gloss": "na"
+      "gloss": "ne"
     },
     {
       "surface": "תעשו",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "ובחקתיהם",
-      "gloss": "bi hugûrên wan re"
+      "gloss": "û di dadikên wan de"
     },
     {
       "surface": "לא",
-      "gloss": "na"
+      "gloss": "ne"
     },
     {
       "surface": "תלכו",
-      "gloss": "rewin"
+      "gloss": "meşin"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.853988119Z",
+  "timestamp": "2026-08-30T07:26:59.874671160Z",
   "model": "glm-5.3"
 }

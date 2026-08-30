@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 13,
-  "translation": "Û Yehowaş kurê Yehowahaz vegeriya û ⟨את⟩ bajaran ji destê Ben-Hedad kurê Hazaêl girt — ên ku ew ji destê Yehowahaz bavê wî di şer de girtibûn. Sê caran Yoş wî xist û ⟨את⟩ bajarên Îsraêl vegerand.",
+  "translation": "Û Yehoajş, kurê Yehoahaz, vegeriya û ⟨את⟩ bajaran ji destê Ben-Hedad, kurê Hazael, vegerand — ên ku ew ji destê Yehoahaz, bavê wî, di şer de girtibû. Sê caran Yoaş li wî xist û ⟨את⟩ bajarên Îsraêl vegerand.",
   "tokens": [
     {
       "surface": "וישב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יהואש",
-      "gloss": "Yehowaş"
+      "gloss": "Yehoajş"
     },
     {
       "surface": "בן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יהואחז",
-      "gloss": "Yehowahaz"
+      "gloss": "Yehoahaz"
     },
     {
       "surface": "ויקח",
-      "gloss": "girt"
+      "gloss": "û girt"
     },
     {
       "surface": "את",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "Ben-"
+      "gloss": "kurê"
     },
     {
       "surface": "הדד",
-      "gloss": "Hadad"
+      "gloss": "Ben-Hedad"
     },
     {
       "surface": "בן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "חזאל",
-      "gloss": "Hazaêl"
+      "gloss": "Hazael"
     },
     {
       "surface": "אשר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "girtibûn"
+      "gloss": "girtibû"
     },
     {
       "surface": "מיד",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "יהואחז",
-      "gloss": "Yehowahaz"
+      "gloss": "Yehoahaz"
     },
     {
       "surface": "אביו",
@@ -90,15 +90,15 @@
     },
     {
       "surface": "הכהו",
-      "gloss": "wî xist"
+      "gloss": "li wî xist"
     },
     {
       "surface": "יואש",
-      "gloss": "Yoş"
+      "gloss": "Yoaş"
     },
     {
       "surface": "וישב",
-      "gloss": "vegerand"
+      "gloss": "û vegerand"
     },
     {
       "surface": "את",
@@ -114,6 +114,6 @@
       "gloss": "Îsraêl"
     }
   ],
-  "timestamp": "2026-08-29T20:19:26.933876418Z",
+  "timestamp": "2026-08-30T07:32:07.476442358Z",
   "model": "glm-5.3"
 }

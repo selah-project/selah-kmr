@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 11,
-  "translation": "Û ev bû ⟨the⟩ sedemê ku ew dest hildabû li ser padîşah: Şelomo ⟨את⟩ Milloyê ava kir, ⟨את⟩ kêriyên bajarê Dawid, bavê xwe, girt.",
+  "translation": "Û ev ⟨ew⟩ bû sedema ku Yarovam dest hildabû li dijî Şelomo key: Şelomo ⟨את⟩ Mîloyê çêkiribû, ⟨ew⟩ konika rêhna Bajarê Dawid bavê xwe girtibû.",
   "tokens": [
     {
       "surface": "וזה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "peywîn\/sedem"
+      "gloss": "bû sedema"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "במלך",
-      "gloss": "li ser padîşah"
+      "gloss": "li dijî key"
     },
     {
       "surface": "שלמה",
@@ -37,33 +37,33 @@
     },
     {
       "surface": "בנה",
-      "gloss": "ava kir"
+      "gloss": "çêkiribû"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Milloyê"
+      "marks": "Mîloyê"
     },
     {
       "surface": "המלוא",
-      "gloss": "Milloyê"
+      "gloss": "Mîloyê"
     },
     {
       "surface": "סגר",
-      "gloss": "girt"
+      "gloss": "girtibû"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kêriyên"
+      "marks": "konika rêhna"
     },
     {
       "surface": "פרץ",
-      "gloss": "kêriyên"
+      "gloss": "rêhna"
     },
     {
       "surface": "עיר",
-      "gloss": "bajarê"
+      "gloss": "Bajarê"
     },
     {
       "surface": "דוד",
@@ -74,6 +74,6 @@
       "gloss": "bavê xwe"
     }
   ],
-  "timestamp": "2026-08-29T20:07:06.093013848Z",
+  "timestamp": "2026-08-30T07:31:15.505980222Z",
   "model": "glm-5.3"
 }

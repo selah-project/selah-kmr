@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 37,
-  "translation": "Rûbên jê re got: «Xwîn nericînin; wî ⟨אתו⟩ bavêjin vê çalê ku di çolê de ye, û destê xwe jê re derîne.» Ji bo ku wî ⟨אתו⟩ ji destên wan rizgar bike û vegerîne ba bavê wî.",
+  "translation": "Reûben ji wan re got: \"Xwîn nêrin; ⟨את⟩ wî bavêjin nav vê çalê ya di çolê de, û dest nede wî\" — da ku ⟨את⟩ wî ji destê wan rizgar bike, ji bo vegerandina wî bal bavê wî.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "jê re"
+      "gloss": "ji wan re"
     },
     {
       "surface": "ראובן",
-      "gloss": "Rûbên"
+      "gloss": "Reûben"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תשפכו",
-      "gloss": "nericînin"
+      "gloss": "nêrin"
     },
     {
       "surface": "דם",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "wî"
     },
     {
       "surface": "אל",
-      "gloss": "bo"
+      "gloss": "nav"
     },
     {
       "surface": "הבור",
-      "gloss": "vê çalê"
+      "gloss": "çalê"
     },
     {
       "surface": "הזה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ויד",
-      "gloss": "û destê"
+      "gloss": "û dest"
     },
     {
       "surface": "אל",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "תשלחו",
-      "gloss": "derîne"
+      "gloss": "nede"
     },
     {
       "surface": "בו",
-      "gloss": "jê re"
+      "gloss": "wî"
     },
     {
       "surface": "למען",
-      "gloss": "ji bo ku"
+      "gloss": "da ku"
     },
     {
       "surface": "הציל",
@@ -86,26 +86,26 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî"
+      "gloss": "⟨את⟩",
+      "marks": "ji destê wan"
     },
     {
       "surface": "מידם",
-      "gloss": "ji destên wan"
+      "gloss": "ji destê wan"
     },
     {
       "surface": "להשיבו",
-      "gloss": "vegerîne"
+      "gloss": "vegerandina wî"
     },
     {
       "surface": "אל",
-      "gloss": "ba"
+      "gloss": "bal"
     },
     {
       "surface": "אביו",
       "gloss": "bavê wî"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.823531919Z",
+  "timestamp": "2026-08-30T07:25:24.913468434Z",
   "model": "glm-5.3"
 }

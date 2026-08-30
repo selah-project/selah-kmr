@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "kmr",
   "chapter": 9,
-  "translation": "Lê ew û bav û kalên me serkêşî kirin û ⟨את]] stûyên xwe rijand û guh neda fermanên te.",
+  "translation": "Lê ew û bavên me serkêşî kirin, milan xurt kirin ⟨את⟩, û guh neda fermanên te.",
   "tokens": [
     {
       "surface": "והם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ואבתינו",
-      "gloss": "û bav û kalên me"
+      "gloss": "û bavên me"
     },
     {
       "surface": "הזידו",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "ויקשו",
-      "gloss": "û rijand"
+      "gloss": "milan xurt kirin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "stûyên xwe"
+      "marks": "milan (ערפם — stû\/milên wan)"
     },
     {
       "surface": "ערפם",
-      "gloss": "stûyên xwe"
+      "gloss": "milên wan"
     },
     {
       "surface": "ולא",
-      "gloss": "û ne"
+      "gloss": "û … neda"
     },
     {
       "surface": "שמעו",
@@ -49,6 +49,6 @@
       "gloss": "fermanên te"
     }
   ],
-  "timestamp": "2026-08-30T06:28:54.965699354Z",
+  "timestamp": "2026-08-30T07:36:08.086627033Z",
   "model": "glm-5.3"
 }

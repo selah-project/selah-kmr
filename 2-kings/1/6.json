@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û wan ji wî re got: \"Mêrekî bilind bû pêşber me û ji me re got: 'Here, veger bal padîşahê ku we şand, û ji wî re bêje:\"‎כה אמר Yahwe: Ma ji ber ku Elohîm tune ye di Yisraêl de, tu dişînî bigeri balyoz Xwedayê Eqrônê? Ji ber wê yekê ji rûniştinê (rûnê) ku te bilind bûye wê nayî xwarê, ji ber ku tu bi rastî wê bimirî.'\"",
+  "translation": "Û ew jê re gotin: „Mêrekî bilind bû û hat pêşwaziya me, û ji me re got: Hûn herin, vegerin bal key ku ⟨את⟩ we şand û jê re bibêjin: Va Yahwe dibêje: Ma ji ber ku Elohîm tune ye di Îsraêlê de, tu şandî ku li Baal-Zebûb, xwedayê Eqronê bipirsî? Ji ber wê doşeka ku te bilind kir, tu ji wê dernakevî, ji ber ku tu bi rastî yê bidî mirinê.”",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "û wan got"
+      "gloss": "û ew gotin"
     },
     {
       "surface": "אליו",
-      "gloss": "ji wî re"
+      "gloss": "jê re"
     },
     {
       "surface": "איש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לקראתנו",
-      "gloss": "pêşber me"
+      "gloss": "hat pêşwaziya me"
     },
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לכו",
-      "gloss": "herin"
+      "gloss": "hûn herin"
     },
     {
       "surface": "שובו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "padîşah"
+      "gloss": "key"
     },
     {
       "surface": "אשר",
@@ -62,23 +62,23 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "we"
+      "marks": "we (hûn)"
     },
     {
       "surface": "ודברתם",
-      "gloss": "û hûn wê bêjin"
+      "gloss": "û bibêjin"
     },
     {
       "surface": "אליו",
-      "gloss": "ji wî re"
+      "gloss": "jê re"
     },
     {
       "surface": "כה",
-      "gloss": "waha"
+      "gloss": "va"
     },
     {
       "surface": "אמר",
-      "gloss": "got"
+      "gloss": "dibêje"
     },
     {
       "surface": "יהוה",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "המבלי",
-      "gloss": "ma ji ber ku… tune"
+      "gloss": "ma ji ber ku"
     },
     {
       "surface": "אין",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "di Yisraêl de"
+      "gloss": "di Îsraêlê de"
     },
     {
       "surface": "אתה",
@@ -106,35 +106,35 @@
     },
     {
       "surface": "שלח",
-      "gloss": "dişînî"
+      "gloss": "şandî"
     },
     {
       "surface": "לדרש",
-      "gloss": "bigeri"
+      "gloss": "ku bipirsî"
     },
     {
       "surface": "בבעל",
-      "gloss": "balyoz Baal"
+      "gloss": "li Baal"
     },
     {
       "surface": "זבוב",
-      "gloss": "Zebub"
+      "gloss": "Zebûb"
     },
     {
       "surface": "אלהי",
-      "gloss": "Xwedayê"
+      "gloss": "xwedayê"
     },
     {
       "surface": "עקרון",
-      "gloss": "Eqrônê"
+      "gloss": "Eqronê"
     },
     {
       "surface": "לכן",
-      "gloss": "ji ber wê yekê"
+      "gloss": "ji ber wê"
     },
     {
       "surface": "המטה",
-      "gloss": "rûnê"
+      "gloss": "doşeka"
     },
     {
       "surface": "אשר",
@@ -146,15 +146,15 @@
     },
     {
       "surface": "שם",
-      "gloss": "wê (tê de)"
+      "gloss": "li ser wê"
     },
     {
       "surface": "לא",
-      "gloss": "nâ"
+      "gloss": "na"
     },
     {
       "surface": "תרד",
-      "gloss": "wê nayî xwarê"
+      "gloss": "dernakevî"
     },
     {
       "surface": "ממנה",
@@ -166,13 +166,13 @@
     },
     {
       "surface": "מות",
-      "gloss": "mirin"
+      "gloss": "mirinê"
     },
     {
       "surface": "תמות",
-      "gloss": "wê bimirî"
+      "gloss": "yê bidî"
     }
   ],
-  "timestamp": "2026-08-30T03:35:41.203050821Z",
+  "timestamp": "2026-08-30T07:32:00.480779424Z",
   "model": "glm-5.3"
 }

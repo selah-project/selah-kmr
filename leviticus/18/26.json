@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Û hûn bi xwe fermandên min ⟨את⟩ û hukmên min ⟨את⟩ biparêzin, û ji van hemû tiştên netirs yên han nekin — ne xwecihiyê ⟨the⟩ û ne mêvanê ku di nava we de dimîne.",
+  "translation": "Hûn ê ⟨את⟩ destûrên min û ⟨את⟩ hukmên min biparêzin, û ji van hemû tiştên netirsî tu yekê nekin — ne xwecih û ne jî mêvanê ku di nav we de diajîne.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Û … biparêzin"
+      "gloss": "biparêzin"
     },
     {
       "surface": "אתם",
-      "gloss": "hûn bi xwe"
+      "gloss": "hûn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fermandên min"
+      "marks": "destûrên min"
     },
     {
       "surface": "חקתי",
-      "gloss": "fermandên min"
+      "gloss": "destûrên min"
     },
     {
       "surface": "ואת",
-      "gloss": "û ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "hukmên min"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "û … ne"
+      "gloss": "û ... ne"
     },
     {
       "surface": "תעשו",
@@ -47,29 +47,29 @@
     },
     {
       "surface": "התועבת",
-      "gloss": "tiştên netirs"
+      "gloss": "tiştên netirsî"
     },
     {
       "surface": "האלה",
-      "gloss": "yên han"
+      "gloss": "van"
     },
     {
       "surface": "האזרח",
-      "gloss": "xwecihiyê"
+      "gloss": "xwecih"
     },
     {
       "surface": "והגר",
-      "gloss": "û mêvanê"
+      "gloss": "û mêvan"
     },
     {
       "surface": "הגר",
-      "gloss": "ku dimîne"
+      "gloss": "ku diajîne"
     },
     {
       "surface": "בתוככם",
-      "gloss": "di nava we de"
+      "gloss": "di nav we de"
     }
   ],
-  "timestamp": "2026-08-29T18:31:50.147492927Z",
+  "timestamp": "2026-08-30T07:26:48.722050751Z",
   "model": "glm-5.3"
 }

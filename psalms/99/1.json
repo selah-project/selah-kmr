@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 99,
-  "translation": "Yahwe ketiye ser text — gel dilerizin; yê rûniştî li ser keruban, ⟨⟨erd⟩> bila bilerize.",
+  "translation": "Yahwe hatiye ser text; bila gel dicirifin; yê rûniştiye ser kerûban — bila erd bizivre.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "ketiye ser text"
+      "gloss": "hatiye ser text"
     },
     {
       "surface": "ירגזו",
-      "gloss": "dilerizin"
+      "gloss": "bila dicirifin"
     },
     {
       "surface": "עמים",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "ישב",
-      "gloss": "yê rûniştî"
+      "gloss": "yê rûniştiye"
     },
     {
       "surface": "כרובים",
-      "gloss": "li ser keruban"
+      "gloss": "ser kerûban"
     },
     {
       "surface": "תנוט",
-      "gloss": "bila bilerize"
+      "gloss": "bila bizivre"
     },
     {
       "surface": "הארץ",
       "gloss": "erd"
     }
   ],
-  "timestamp": "2026-08-30T05:30:57.040841187Z",
+  "timestamp": "2026-08-30T07:34:40.599271170Z",
   "model": "glm-5.3"
 }

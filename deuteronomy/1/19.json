@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û em ji Chorevê rakeftin û me ⟨את⟩ wî çolê mezin û tirsûk ê ku we dîtibû, bi rêça çiyayê Emoriyîyan — wekî ku Yahwe, Elohîmê me, ⟨אתנו⟩ ferman dabû — geriya; û em hatin heta Qadeş-Barnea.",
+  "translation": "Û me ji Horêb rê çû û me bi rêya çiyayê Emorî ji ⟨את⟩ hemû wî çolê mezin û tirsnak derbas bû — yê ku we dîtin — wekî ku Yahwe Elohîmê me ferman da ⟨את⟩ me; û me heta Qedêş Barnea hat.",
   "tokens": [
     {
       "surface": "ונסע",
-      "gloss": "û em rakeftin"
+      "gloss": "rê çû"
     },
     {
       "surface": "מחרב",
-      "gloss": "ji Chorevê"
+      "gloss": "ji Horêb"
     },
     {
       "surface": "ונלך",
-      "gloss": "û me geriya"
+      "gloss": "derbas bû"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wî çolê mezin û tirsûk"
+      "marks": "hemû wî çolê"
     },
     {
       "surface": "כל",
-      "gloss": "wî\/hemû"
+      "gloss": "hemû"
     },
     {
       "surface": "המדבר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "והנורא",
-      "gloss": "û tirsûk"
+      "gloss": "û tirsnak"
     },
     {
       "surface": "ההוא",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ku"
+      "gloss": "yê ku"
     },
     {
       "surface": "ראיתם",
-      "gloss": "we dîtibû"
+      "gloss": "we dîtin"
     },
     {
       "surface": "דרך",
-      "gloss": "bi rêça"
+      "gloss": "bi rêya"
     },
     {
       "surface": "הר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emoriyîyan"
+      "gloss": "Emorî"
     },
     {
       "surface": "כאשר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ferman dabû"
+      "gloss": "ferman da"
     },
     {
       "surface": "יהוה",
@@ -82,12 +82,12 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
-      "marks": "me"
+      "gloss": "⟨את⟩ me",
+      "marks": "me (koma rê çûn)"
     },
     {
       "surface": "ונבא",
-      "gloss": "û em hatin"
+      "gloss": "hat"
     },
     {
       "surface": "עד",
@@ -95,13 +95,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "Qadeş"
+      "gloss": "Qedêş"
     },
     {
       "surface": "ברנע",
       "gloss": "Barnea"
     }
   ],
-  "timestamp": "2026-08-29T18:57:37.796310215Z",
+  "timestamp": "2026-08-30T07:27:54.983560356Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,39 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 14,
-  "translation": "Û xulamê min Kaleb — ji ber ku bi wî re ruhêke din bû û bi tevahî şopiyê min — êz ê wî bînim bo wê erdê ku ew çû wê, û zêdeyî wî dê wê miras bigire.",
+  "translation": "Û xulamê min Kaleb — ji ber ku ruhê yê din bi wî re bû û bi temamî şopand min — êdî ez ê wî bînim bicihê ku wî lê geriya, û nijada wî wê ⟨את⟩ wê bicihê bigire.",
   "tokens": [
     {
+      "surface": "ועבדי",
+      "gloss": "Û xulamê min"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhê"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "yê din"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
       "surface": "וימלא",
-      "gloss": "bi tevahî şopî"
+      "gloss": "û bi temamî şopand"
     },
     {
       "surface": "אחרי",
@@ -17,15 +45,15 @@
     },
     {
       "surface": "והביאתיו",
-      "gloss": "ez ê wî bînim"
+      "gloss": "êdî ez ê wî bînim"
     },
     {
       "surface": "אל",
-      "gloss": "bo"
+      "gloss": "bicihê"
     },
     {
       "surface": "הארץ",
-      "gloss": "wê erdê"
+      "gloss": "ku wî lê geriya"
     },
     {
       "surface": "אשר",
@@ -33,7 +61,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "çû"
+      "gloss": "wî çû"
     },
     {
       "surface": "שמה",
@@ -41,13 +69,13 @@
     },
     {
       "surface": "וזרעו",
-      "gloss": "û zêdeyî wî"
+      "gloss": "û nijada wî"
     },
     {
       "surface": "יורשנה",
-      "gloss": "dê wê miras bigire"
+      "gloss": "wê wê werbigire"
     }
   ],
-  "timestamp": "2026-08-29T18:45:41.340035172Z",
+  "timestamp": "2026-08-30T07:22:33.889581787Z",
   "model": "glm-5.3"
 }

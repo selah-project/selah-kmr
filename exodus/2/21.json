@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Moşe razî bû ku bi ⟨the⟩ zilam re bimîne, û zilam ⟨את⟩ Tsipporah keça xwe ji Moşe re da.",
+  "translation": "Moşe razî bû ku li cem ⟨את⟩ wî mêrî bimîne, û ew ⟨את⟩ Tsîpora keça xwe da Moşe.",
   "tokens": [
     {
       "surface": "ויואל",
@@ -22,24 +22,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zilam"
+      "marks": "wî mêrî"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ zilam"
+      "gloss": "wî mêrî"
     },
     {
       "surface": "ויתן",
-      "gloss": "da"
+      "gloss": "û ew da"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsipporah"
+      "marks": "Tsîpora"
     },
     {
       "surface": "צפרה",
-      "gloss": "Tsipporah"
+      "gloss": "Tsîpora"
     },
     {
       "surface": "בתו",
@@ -47,9 +47,9 @@
     },
     {
       "surface": "למשה",
-      "gloss": "ji Moşe re"
+      "gloss": "Moşe"
     }
   ],
-  "timestamp": "2026-08-29T18:01:38.091023810Z",
+  "timestamp": "2026-08-30T07:25:15.863829860Z",
   "model": "glm-5.3"
 }

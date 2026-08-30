@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 5,
-  "translation": "Û hûn gotin: Va ye, Yahwe Elohîmê me ⟨את⟩ rûmeta xwe û ⟨את⟩ mezinahiya xwe nîşan me da, û ⟨את⟩ dengê wî me ji nava ⟨the⟩ agir bihîst; îro me dît ku Elohîm ⟨את⟩ mirov dipeyive û ⟨he⟩ dijî.",
+  "translation": "Û gotin: Hûn dibînin! Yahwe Elohîmê me ⟨את⟩ rûmetê û ⟨את⟩ mezinahiya wî nîşan me da, û dengê wî ji nav agirê bihîst; îro me dît ku Elohîm bi ⟨את⟩ mirov diaxife — û ew dijî.",
   "tokens": [
     {
       "surface": "ותאמרו",
-      "gloss": "û hûn gotin"
+      "gloss": "û gotin"
     },
     {
       "surface": "הן",
-      "gloss": "va ye"
+      "gloss": "hûn dibînin"
     },
     {
       "surface": "הראנו",
@@ -30,20 +30,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rûmeta xwe"
+      "marks": "rûmetê"
     },
     {
       "surface": "כבדו",
-      "gloss": "rûmeta xwe"
+      "gloss": "rûmetê"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "mezinahiya xwe"
+      "marks": "mezinahiya wî"
     },
     {
       "surface": "גדלו",
-      "gloss": "mezinahiya xwe"
+      "gloss": "mezinahiya wî"
     },
     {
       "surface": "ואת",
@@ -56,15 +56,15 @@
     },
     {
       "surface": "שמענו",
-      "gloss": "me bihîst"
+      "gloss": "bihîst"
     },
     {
       "surface": "מתוך",
-      "gloss": "ji nava"
+      "gloss": "ji nav"
     },
     {
       "surface": "האש",
-      "gloss": "agir"
+      "gloss": "agirê"
     },
     {
       "surface": "היום",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "dipeyive"
+      "gloss": "diaxife"
     },
     {
       "surface": "אלהים",
@@ -104,6 +104,6 @@
       "gloss": "û ew dijî"
     }
   ],
-  "timestamp": "2026-08-29T19:00:57.496055075Z",
+  "timestamp": "2026-08-30T07:27:58.889308469Z",
   "model": "glm-5.3"
 }

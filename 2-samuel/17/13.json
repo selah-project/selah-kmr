@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 17,
-  "translation": "Û ger ew xwe vekişîne nav bajarekî, tevahiya Îsraêlê reşan bîne wê bajarî, û em ê wê ⟨אתו⟩ bidin kişandin heta newalê, heta ku li wir tu kevirikî jî peyda nebe.",
+  "translation": "Û ger ew were civiya nav bajarekî, wê hemû Yîsraêl ji bo wê bajarî rîsan bilînin, û em ê ⟨את⟩ wê bihesînin heya newalê, heta ku li wir ji kevirikekî neyê dîtin.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "û ger"
+      "gloss": "Û ger"
     },
     {
       "surface": "אל",
-      "gloss": "ber bi"
+      "gloss": "nav"
     },
     {
       "surface": "עיר",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "יאסף",
-      "gloss": "xwe vekişîne"
+      "gloss": "civiya"
     },
     {
       "surface": "והשיאו",
-      "gloss": "bîne"
+      "gloss": "bilînin"
     },
     {
       "surface": "כל",
-      "gloss": "tevahiya"
+      "gloss": "hemû"
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Yîsraêl"
     },
     {
       "surface": "אל",
-      "gloss": "ber bi"
+      "gloss": "ji bo"
     },
     {
       "surface": "העיר",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "חבלים",
-      "gloss": "reşan"
+      "gloss": "rîsan"
     },
     {
       "surface": "וסחבנו",
-      "gloss": "û em ê bidin kişandin"
+      "gloss": "bihesînin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ wê",
-      "marks": "wê bajarî"
+      "gloss": "⟨את⟩",
+      "marks": "wê (bajar)"
     },
     {
       "surface": "עד",
-      "gloss": "heta"
+      "gloss": "heya"
     },
     {
       "surface": "הנחל",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "peyda bibe"
+      "gloss": "neyê dîtin"
     },
     {
       "surface": "שם",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "גם",
-      "gloss": "tu"
+      "gloss": "ji"
     },
     {
       "surface": "צרור",
-      "gloss": "kevirikî jî"
+      "gloss": "kevirikekî"
     }
   ],
-  "timestamp": "2026-08-29T19:56:03.082154704Z",
+  "timestamp": "2026-08-30T07:31:05.849240415Z",
   "model": "glm-5.3"
 }

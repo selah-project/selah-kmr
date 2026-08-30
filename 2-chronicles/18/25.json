@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Û şahê Îsraêl got: Hûn Mîxayehû bigirin ⟨את⟩ û wî bizivirînin bal Amon, serokê ⟨the⟩ bajarî, û bal Yoşaş kurê ⟨the⟩ şah.",
+  "translation": "Û şahê Îsraêlê got: «Mîkayehu bigirin û wî vegerînin bal Amon, serokê ⟨bajarê⟩, û bal Yoşaş, kurê şah.»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "û got"
+      "gloss": "got"
     },
     {
       "surface": "מלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Îsraêlê"
     },
     {
       "surface": "קחו",
@@ -26,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mîxayehû"
+      "marks": "Mîkayehu"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mîxayehû"
+      "gloss": "Mîkayehu"
     },
     {
       "surface": "והשיבהו",
-      "gloss": "û wî bizivirînin"
+      "gloss": "û wî vegerînin"
     },
     {
       "surface": "אל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "bajarî"
+      "gloss": "bajarê"
     },
     {
       "surface": "ואל",
@@ -69,6 +69,6 @@
       "gloss": "şah"
     }
   ],
-  "timestamp": "2026-08-30T06:49:18.845239389Z",
+  "timestamp": "2026-08-30T07:50:37.831858282Z",
   "model": "glm-5.3"
 }

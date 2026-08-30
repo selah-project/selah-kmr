@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Û gava min wan bir bo ⟨האָרץ⟩ welêt ku min ⟨את⟩ destê xwe hilgirtibû da ku wê bidim wan, ew her gişta bilind û her dara bi tîr dîtin, û li wir ⟨את⟩ qurbanên xwe sererast kirin, û li wir hêrsîtiya pêşkeşa xwe dan, û li wir bêhna xweş a xwe dan, û li wir ⟨את⟩ libasyonên xwe rijandin.",
+  "translation": "Min ew anî ser erdê ku min ⟨את⟩ destê xwe hildabû da wê bidima wan; ew her girê bilind û her dara pêçdar dîtin, û li wir ⟨את⟩ qurbanên xwe qurban kirin, û li wir hêrsê qurbana xwe dan, û li wir bêhna xweş a xwe dan, û li wir ⟨את⟩ rêjên xwe rijandin.",
   "tokens": [
     {
       "surface": "ואביאם",
-      "gloss": "min... bir"
+      "gloss": "min ew anî"
     },
     {
       "surface": "אל",
-      "gloss": "bo"
+      "gloss": "ser"
     },
     {
       "surface": "הארץ",
-      "gloss": "welêt"
+      "gloss": "erdê"
     },
     {
       "surface": "אשר",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "hilgirtibûm"
+      "gloss": "min hilda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "destê xwe"
+      "marks": "destê min"
     },
     {
       "surface": "ידי",
-      "gloss": "destê xwe"
+      "gloss": "destê min"
     },
     {
       "surface": "לתת",
-      "gloss": "da ku bidim"
+      "gloss": "da bidim"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "wê (welêt)"
+      "gloss": "⟨את⟩wê",
+      "marks": "erdê (wê)"
     },
     {
       "surface": "להם",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ויראו",
-      "gloss": "dîtin"
+      "gloss": "û dîtin"
     },
     {
       "surface": "כל",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "גבעה",
-      "gloss": "gişta"
+      "gloss": "gir"
     },
     {
       "surface": "רמה",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "עבת",
-      "gloss": "bi tîr"
+      "gloss": "pêçdar"
     },
     {
       "surface": "ויזבחו",
-      "gloss": "qurban sererast kirin"
+      "gloss": "û qurban kirin"
     },
     {
       "surface": "שם",
@@ -88,15 +88,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qurbanên xwe"
+      "marks": "qurbanên wan"
     },
     {
       "surface": "זבחיהם",
-      "gloss": "qurbanên xwe"
+      "gloss": "qurbanên wan"
     },
     {
       "surface": "ויתנו",
-      "gloss": "dan"
+      "gloss": "û dan"
     },
     {
       "surface": "שם",
@@ -104,15 +104,15 @@
     },
     {
       "surface": "כעס",
-      "gloss": "hêrsîtî"
+      "gloss": "hêrsê"
     },
     {
       "surface": "קרבנם",
-      "gloss": "pêşkeşa wan"
+      "gloss": "qurbana wan"
     },
     {
       "surface": "וישימו",
-      "gloss": "dan"
+      "gloss": "û dan"
     },
     {
       "surface": "שם",
@@ -120,15 +120,15 @@
     },
     {
       "surface": "ריח",
-      "gloss": "bêhna"
+      "gloss": "bêhn"
     },
     {
       "surface": "ניחוחיהם",
-      "gloss": "xweş a wan"
+      "gloss": "ya xweş a wan"
     },
     {
       "surface": "ויסיכו",
-      "gloss": "rijandin"
+      "gloss": "û rijandin"
     },
     {
       "surface": "שם",
@@ -137,13 +137,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "libasyonên xwe"
+      "marks": "rêjên wan"
     },
     {
       "surface": "נסכיהם",
-      "gloss": "libasyonên xwe"
+      "gloss": "rêjên wan"
     }
   ],
-  "timestamp": "2026-08-30T03:51:27.267900350Z",
+  "timestamp": "2026-08-30T07:33:54.147750616Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 21,
-  "translation": "Û Dawid hat ♦bo♦ Nob, cem Ahimelex kahîn; û Ahimelex ditirsa wextê ku rastî Dawid hat, û ji wî re got: “Çima tu tenê yî, û kesekî ♦bi te re♦ ⟨את⟩ nîne?”",
+  "translation": "Dawid çû Nobe, bal Ahîmelek ê kahîn; Ahîmelek di pêşwaziya Dawid de tirsî û ji wî re got: \"Çima tu bi tenê yî, û tu kes bi te re ⟨את⟩ nîne?\"",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "hat"
+      "gloss": "çû"
     },
     {
       "surface": "דוד",
@@ -17,35 +17,31 @@
     },
     {
       "surface": "נבה",
-      "gloss": "bo Nob"
+      "gloss": "Nobe"
     },
     {
       "surface": "אל",
-      "gloss": "cem"
+      "gloss": "bal"
     },
     {
       "surface": "אחימלך",
-      "gloss": "Ahimelex"
+      "gloss": "Ahîmelek"
     },
     {
       "surface": "הכהן",
-      "gloss": "kahîn"
+      "gloss": "ê kahîn"
     },
     {
       "surface": "ויחרד",
-      "gloss": "ditirsa"
+      "gloss": "tirsî"
     },
     {
       "surface": "אחימלך",
-      "gloss": "Ahimelex"
+      "gloss": "Ahîmelek"
     },
     {
       "surface": "לקראת",
-      "gloss": "wextê ku rastî"
-    },
-    {
-      "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "di pêşwaziya… de"
     },
     {
       "surface": "דוד",
@@ -53,15 +49,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "û re got"
+      "gloss": "got"
     },
     {
       "surface": "לו",
-      "gloss": "ji wî"
+      "gloss": "ji wî re"
     },
     {
       "surface": "מדוע",
-      "gloss": "Çima"
+      "gloss": "çima"
     },
     {
       "surface": "אתה",
@@ -69,21 +65,22 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "tenê yî"
+      "gloss": "bi tenê yî"
     },
     {
       "surface": "ואיש",
-      "gloss": "û kesekî"
+      "gloss": "û tu kes"
     },
     {
       "surface": "אין",
-      "gloss": "⟨את⟩ nîne"
+      "gloss": "nîne"
     },
     {
       "surface": "אתך",
-      "gloss": "♦bi te re♦"
+      "gloss": "⟨את⟩ bi te re",
+      "marks": "bi te re"
     }
   ],
-  "timestamp": "2026-08-29T19:44:15.863570598Z",
+  "timestamp": "2026-08-30T07:22:32.362879212Z",
   "model": "glm-5.3"
 }

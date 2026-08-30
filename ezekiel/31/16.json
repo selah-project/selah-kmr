@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 31,
-  "translation": "Ji dengê ketina wî min gelan lerzand, gava min ⟨את⟩ ⟨אתו⟩ daxist Şeolê, ⟨את⟩ yên dadikevin çalê; û hemû darên Edenê — bijarte û başên Libnanê, hemû vexwarên avê — di erda jêrîn de hatin tesellîkirin.",
+  "translation": "Bi dengê ketina wî ez gelan lerizandim, dema ez ⟨את⟩ wî daxist Şeolê, ligel ⟨את⟩ wanên dadikevin çalê; û di erda jêrîn de hemû darên Êdênê, hilbijartî û baştirîn ên Libnanê, hemû yên avê vedixwin, xwe aram kirin.",
   "tokens": [
     {
       "surface": "מקול",
-      "gloss": "ji dengê"
+      "gloss": "bi dengê"
     },
     {
       "surface": "מפלתו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הרעשתי",
-      "gloss": "min lerzand"
+      "gloss": "ez lerizandim"
     },
     {
       "surface": "גוים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בהורדי",
-      "gloss": "gava min daxist"
+      "gloss": "dema ez daxistim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "wî"
     },
     {
@@ -39,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yên dadikevin çalê"
+      "marks": "wanên dadikevin çalê"
     },
     {
       "surface": "יורדי",
-      "gloss": "yên dadikevin"
+      "gloss": "wanên dadikevin"
     },
     {
       "surface": "בור",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "וינחמו",
-      "gloss": "û hatin tesellîkirin"
+      "gloss": "û xwe aram kirin"
     },
     {
       "surface": "בארץ",
-      "gloss": "di erd"
+      "gloss": "di erdê"
     },
     {
       "surface": "תחתית",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "עדן",
-      "gloss": "Edenê"
+      "gloss": "Êdênê"
     },
     {
       "surface": "מבחר",
-      "gloss": "bijarte"
+      "gloss": "hilbijartî"
     },
     {
       "surface": "וטוב",
-      "gloss": "û başên"
+      "gloss": "û baştirîn"
     },
     {
       "surface": "לבנון",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "שתי",
-      "gloss": "vexwarên"
+      "gloss": "yên vedixwin"
     },
     {
       "surface": "מים",
       "gloss": "avê"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.849114116Z",
+  "timestamp": "2026-08-30T07:47:33.219359289Z",
   "model": "glm-5.3"
 }

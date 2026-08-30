@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 66,
-  "translation": "Û ⟨ez⟩ — karên wan û ramanên wan ⟨dizanim⟩; ⟨dem> tê ku ⟨ez⟩ ⟨את⟩ hemû gelan û zimanên bihevcivandim, û ewê werin û ⟨את⟩ rûmeta min bibînin.",
+  "translation": "Û ez — kirinên wan û ramanên wan ⟨dinasim⟩; ⟨dem⟩ tê ku ez hemû gelan û zimanán kom bikim, û ew ê werin û ⟨את⟩ rûmeta min bibînin.",
   "tokens": [
     {
       "surface": "ואנכי",
-      "gloss": "Û ez"
+      "gloss": "û ez"
     },
     {
       "surface": "מעשיהם",
-      "gloss": "karên wan"
+      "gloss": "kirinên wan"
     },
     {
       "surface": "ומחשבתיהם",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "לקבץ",
-      "gloss": "ji bo civandinê"
+      "gloss": "kom bikim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hemû gelan û ziman"
+      "marks": "hemû gelan"
     },
     {
       "surface": "כל",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "והלשנות",
-      "gloss": "û ziman"
+      "gloss": "û zimanán"
     },
     {
       "surface": "ובאו",
-      "gloss": "û ewê werin"
+      "gloss": "û ew ê werin"
     },
     {
       "surface": "וראו",
-      "gloss": "û bibînin"
+      "gloss": "bibînin"
     },
     {
       "surface": "את",
@@ -62,6 +62,6 @@
       "gloss": "rûmeta min"
     }
   ],
-  "timestamp": "2026-08-29T20:48:54.981474212Z",
+  "timestamp": "2026-08-30T07:32:25.030951008Z",
   "model": "glm-5.3"
 }

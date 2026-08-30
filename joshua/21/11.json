@@ -5,20 +5,20 @@
   "book": "joshua",
   "lang": "kmr",
   "chapter": 21,
-  "translation": "Û ji wan re ⟨את⟩ Qiryat-Arba, bavê ⟨הענוק⟩ Enaq — ew Hebron e, li çiyayê Yehuda — û ⟨את⟩ merayên wê yên dora wê dan.",
+  "translation": "Û ew dan wan ⟨את⟩ Qiryat-Erba′ (Arba yê bavê Enaq) — ew bi xwe Xebron e — di çiyayê Yehûda de, û ⟨את⟩ zeviyên wê derdora wê.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "dan"
+      "gloss": "dan wan"
     },
     {
       "surface": "להם",
-      "gloss": "ji wan re"
+      "gloss": "ji bo wan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Qiryat-Arba"
+      "marks": "Qiryat-Erba′"
     },
     {
       "surface": "קרית",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ארבע",
-      "gloss": "Arba"
+      "gloss": "Erba′"
     },
     {
       "surface": "אבי",
@@ -34,38 +34,38 @@
     },
     {
       "surface": "הענוק",
-      "gloss": "Enaq"
+      "gloss": "yê Enaq"
     },
     {
       "surface": "היא",
-      "gloss": "ew"
+      "gloss": "ew bi xwe"
     },
     {
       "surface": "חברון",
-      "gloss": "Hebron"
+      "gloss": "Xebron"
     },
     {
       "surface": "בהר",
-      "gloss": "li çiyayê"
+      "gloss": "di çiyayê"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehûda"
     },
     {
       "surface": "ואת",
       "gloss": "û ⟨את⟩",
-      "marks": "merayên wê"
+      "marks": "zeviyên wê (mîgrşa)"
     },
     {
       "surface": "מגרשה",
-      "gloss": "merayên wê"
+      "gloss": "zeviyên wê"
     },
     {
       "surface": "סביבתיה",
-      "gloss": "dora wê"
+      "gloss": "derdora wê"
     }
   ],
-  "timestamp": "2026-08-29T19:22:33.407534731Z",
+  "timestamp": "2026-08-30T07:29:56.714228296Z",
   "model": "glm-5.3"
 }

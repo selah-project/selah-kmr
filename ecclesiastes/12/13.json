@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "kmr",
   "chapter": 12,
-  "translation": "Dawiya hemû peyvê hatiye bihîstin: ji ⟨את⟩ Elohîm bitirse û ⟨את⟩ fermanên wî biparêze, çinko ev hemûyî ⟨ה⟩ mirov e.",
+  "translation": "Dawiya peyvê, hemû hat bihîstin: ji Elohîm bitirse û ⟨את⟩ fermanên wî biparêze, çimkî ev hemû mirov e.",
   "tokens": [
     {
       "surface": "סוף",
-      "gloss": "dawiya"
+      "gloss": "Dawiya"
     },
     {
       "surface": "דבר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נשמע",
-      "gloss": "hatiye bihîstin"
+      "gloss": "hat bihîstin"
     },
     {
       "surface": "את",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "çinko"
+      "gloss": "çimkî"
     },
     {
       "surface": "זה",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "hemûyî"
+      "gloss": "hemû"
     },
     {
       "surface": "האדם",
       "gloss": "mirov"
     }
   ],
-  "timestamp": "2026-08-30T06:11:27.285280953Z",
+  "timestamp": "2026-08-30T07:35:45.525728247Z",
   "model": "glm-5.3"
 }

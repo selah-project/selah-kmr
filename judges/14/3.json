@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "kmr",
   "chapter": 14,
-  "translation": "Û bavê wî û diya wî jê re gotin: «Ma di keçên birayên te de û di hemû gelê min de jin tune ye, ku tu diçe ji Fîlîştiyên bê-beratan jin bigirî?» Û Şîmşon ji bavê xwe re got: «⟨אותה⟩ ji min bigre, ji ber ku ew di çavên min de rast e.»",
+  "translation": "Bavê wî û diya wî jê re gotin: Ma di keçên birayên te de û di hemû gelê min de jin tuneye, ku tu diçî ji Filistîneyên bêgerdan jin bigirî? Şîmşon ji bavê xwe re got: ⟨את⟩ wê ji bo min bigre, çimkî ew di çavên min de rast e.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האין",
-      "gloss": "tune ye"
+      "gloss": "Ma… tuneye"
     },
     {
       "surface": "בבנות",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הולך",
-      "gloss": "diçe"
+      "gloss": "diçî"
     },
     {
       "surface": "לקחת",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "מפלשתים",
-      "gloss": "ji Fîlîstiyan"
+      "gloss": "ji Filistîneyan"
     },
     {
       "surface": "הערלים",
-      "gloss": "bê-beratan"
+      "gloss": "bêgerdan"
     },
     {
       "surface": "ויאמר",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ji … re"
+      "gloss": "ji"
     },
     {
       "surface": "אביו",
-      "gloss": "bavê xwe"
+      "gloss": "bavê xwe re"
     },
     {
       "surface": "אותה",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "ji min"
+      "gloss": "ji bo min"
     },
     {
       "surface": "כי",
-      "gloss": "ji ber ku"
+      "gloss": "çimkî"
     },
     {
       "surface": "היא",
@@ -121,6 +121,6 @@
       "gloss": "di çavên min de"
     }
   ],
-  "timestamp": "2026-08-29T19:30:49.636599728Z",
+  "timestamp": "2026-08-30T07:30:09.387205557Z",
   "model": "glm-5.3"
 }

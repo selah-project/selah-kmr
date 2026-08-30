@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 28,
-  "translation": "Zengilek zêr û hêkalek, zengilek zêr û hêkalek, li ser binemalê mestê, li dora wê.",
+  "translation": "Zengileke zêrîn û hinar, zengileke zêrîn û hinar, li ser dilopên mantoyê, dorber.",
   "tokens": [
     {
       "surface": "פעמן",
@@ -13,13 +13,41 @@
     },
     {
       "surface": "זהב",
-      "gloss": "zêr"
+      "gloss": "zêrîn"
     },
     {
-      "surface": "וימון",
-      "gloss": ""
+      "surface": "ורמון",
+      "gloss": "û hinar"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "zengilek"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrîn"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "û hinar"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "dilopên"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "mantoyê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dorber"
     }
   ],
-  "timestamp": "2026-08-29T18:14:41.029339354Z",
+  "timestamp": "2026-08-30T07:22:16.099013445Z",
   "model": "glm-5.3"
 }

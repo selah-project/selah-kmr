@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 30,
-  "translation": "Ji bo ku rûmeta min jê re ⟨⟨את⟩⟩ nebêje — na, rûmet bê stranan ji te re straneke xweş bêje û bêdeng nemîne. Yahwe, Elohîmê min, heta ebedê tu yê biparêzim û spasdarîya te bikim.",
-  "tokens": [],
-  "timestamp": "2026-08-30T05:14:36.051355838Z",
+  "translation": "Ji bo ku rûmet ⟨⟨את⟩⟩-yê te bizemirîne û ne bêdeng bimîne, Yahwe Elohîmê min, heta hertimî ez ê şukirî te bikim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "bizemirîne te"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "bêdeng bimîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ez ê şukirî te bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:40.150180875Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,69 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Û Çadirê Civînê digel êrîşa Lewiyan di navbera êrîşan de ber bi cihê xwe yê bilind dibe — çawa ew dizewicin alavên xwe, wusa digihîjin cih û warên xwe, her kesî digel ya xwe, bi al û topanên xwe.",
-  "tokens": [],
-  "timestamp": "2026-08-29T18:37:54.725511056Z",
+  "translation": "“Çadira Civînê û kampa Lûwiyan di nava kampên din de dimeşin; çawa kamp digirin, wusa jî dimeşin — her kes li aliyê xwe, bin alên xwe.”",
+  "tokens": [
+    {
+      "surface": "וְנָסַע",
+      "gloss": "û ... dimeşe"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "Çadira"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "Civînê"
+    },
+    {
+      "surface": "מַחֲנֵה",
+      "gloss": "kampa"
+    },
+    {
+      "surface": "הַלְוִיִּם",
+      "gloss": "Lûwiyan"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "הַֽמַּחֲנֹת",
+      "gloss": "kampên din"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "יַחֲנוּ",
+      "gloss": "kamp digirin"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "יִסָּעוּ",
+      "gloss": "dimeşin"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "li aliyê"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "xwe"
+    },
+    {
+      "surface": "לְדִגְלֵיהֶם",
+      "gloss": "bin alên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:37.114509552Z",
   "model": "glm-5.3"
 }

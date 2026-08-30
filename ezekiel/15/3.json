@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 15,
-  "translation": "Ma ji wê re dar tê girtin ku karekî were kirin? An ji wê re mîxekî digirin ku her amanekî li wir bide daliqandin?",
+  "translation": "Ma çima jê dar were girtin ku karekî were kirin? An jê mî were girtin ku tu amasî lê were daliqandin?",
   "tokens": [
     {
       "surface": "היקח",
-      "gloss": "Ma … tê girtin"
+      "gloss": "Ma… were girtin"
     },
     {
       "surface": "ממנו",
-      "gloss": "ji wê"
+      "gloss": "jê"
     },
     {
       "surface": "עץ",
@@ -21,7 +21,11 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ku karekî were kirin"
+      "gloss": "were kirin"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "karekî"
     },
     {
       "surface": "אם",
@@ -29,33 +33,33 @@
     },
     {
       "surface": "יקחו",
-      "gloss": "digirin"
+      "gloss": "were girtin"
     },
     {
       "surface": "ממנו",
-      "gloss": "ji wê"
+      "gloss": "jê"
     },
     {
       "surface": "יתד",
-      "gloss": "mîxekî"
+      "gloss": "mî"
     },
     {
       "surface": "לתלות",
-      "gloss": "bidin daliqandin"
+      "gloss": "were daliqandin"
     },
     {
       "surface": "עליו",
-      "gloss": "li wî re"
+      "gloss": "lê"
     },
     {
       "surface": "כל",
-      "gloss": "her"
+      "gloss": "tu"
     },
     {
       "surface": "כלי",
-      "gloss": "amanekî"
+      "gloss": "amasî"
     }
   ],
-  "timestamp": "2026-08-30T05:04:12.951109872Z",
+  "timestamp": "2026-08-30T07:22:45.013604529Z",
   "model": "glm-5.3"
 }

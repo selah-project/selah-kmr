@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 37,
-  "translation": "Û ⟨את⟩ amûrên ku li ser masê ne çêkir — ⟨את⟩ tasên wê, ⟨את⟩ kovanên wê, ⟨את⟩ çînanên wê, ⟨את⟩ qepên wê — yên ku bi wan tê rijandin — ji zêrê paqij.",
+  "translation": "û ew çêkir ⟨את⟩ amûrên ku li ser sifreyî ne — ⟨את⟩ texsîyên wî û ⟨את⟩ kefkên wî û ⟨את⟩ tasên wî û ⟨את⟩ bergiriyên wî, ku tê de tê rijandin — zêrê paqij.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "çêkir"
+      "gloss": "û ew çêkir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amûrên"
+      "marks": "amûrên ku li ser sifreyî ne"
     },
     {
       "surface": "הכלים",
@@ -30,47 +30,43 @@
     },
     {
       "surface": "השלחן",
-      "gloss": "masê"
+      "gloss": "sifreyî"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tasên wê"
+      "marks": "texsîyên wî"
     },
     {
       "surface": "קערתיו",
-      "gloss": "tasên wê"
-    },
-    {
-      "surface": "ויתן כפתיו-placeholder",
-      "gloss": "⟨את⟩"
+      "gloss": "texsîyên wî"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kovanên wê"
+      "gloss": "û ⟨את⟩",
+      "marks": "kefkên wî"
     },
     {
       "surface": "כפתיו",
-      "gloss": "⟨את⟩ kovanên wê"
+      "gloss": "kefkên wî"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "çînanên wê"
+      "gloss": "û ⟨את⟩",
+      "marks": "tasên wî"
     },
     {
       "surface": "מנקיתיו",
-      "gloss": "⟨את⟩ çînanên wê"
+      "gloss": "tasên wî"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "qepên wê"
+      "gloss": "û ⟨את⟩",
+      "marks": "bergiriyên wî"
     },
     {
       "surface": "הקשות",
-      "gloss": "qepên wê"
+      "gloss": "bergiriyên wî"
     },
     {
       "surface": "אשר",
@@ -82,17 +78,17 @@
     },
     {
       "surface": "בהן",
-      "gloss": "bi wan"
+      "gloss": "tê de"
     },
     {
       "surface": "זהב",
-      "gloss": "zêr"
+      "gloss": "zêrê"
     },
     {
       "surface": "טהור",
       "gloss": "paqij"
     }
   ],
-  "timestamp": "2026-08-29T18:20:12.908609436Z",
+  "timestamp": "2026-08-30T07:22:25.817839985Z",
   "model": "glm-5.3"
 }

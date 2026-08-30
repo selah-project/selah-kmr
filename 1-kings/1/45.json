@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û Tsadok kahîn û Natan pêxember wî ji bo keyîtîê li Gihonî mesh kirin, û ji wir bi şahî çûn bilind, û bajar hatê tevlihevkirin — ew ⟨deng⟩ e ku we bihîst.",
+  "translation": "Û Tsadok kahan û Natan pêxember ⟨את⟩ wî wek key rûnand li Gîhonê; û ji wir bilind bûn bi şahiyê, û bajêr tev li hej ket — ew deng e ku hûn bihîstine.",
   "tokens": [
     {
       "surface": "וימשחו",
-      "gloss": "mesh kirin"
+      "gloss": "rûnandin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî (Şelomo)"
+      "gloss": "⟨את⟩",
+      "marks": "wî"
     },
     {
       "surface": "צדוק",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kahîn"
+      "gloss": "kahan"
     },
     {
       "surface": "ונתן",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "למלך",
-      "gloss": "ji bo keyîtîê"
+      "gloss": "wek key"
     },
     {
       "surface": "בגחון",
-      "gloss": "li Gihonî"
+      "gloss": "li Gîhonê"
     },
     {
       "surface": "ויעלו",
-      "gloss": "çûn bilind"
+      "gloss": "bilind bûn"
     },
     {
       "surface": "משם",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "שמחים",
-      "gloss": "bi şahî"
+      "gloss": "bi şahiyê"
     },
     {
       "surface": "ותהם",
-      "gloss": "hatê tevlihevkirin"
+      "gloss": "li hej ket"
     },
     {
       "surface": "הקריה",
-      "gloss": "bajar"
+      "gloss": "bajêr tev"
     },
     {
       "surface": "הוא",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "we bihîst"
+      "gloss": "hûn bihîstine"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.858818190Z",
+  "timestamp": "2026-08-30T07:31:40.044295703Z",
   "model": "glm-5.3"
 }

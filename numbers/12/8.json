@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 12,
-  "translation": "Dev bi dev bi wî diaxivim, û bi rûberî, ne bi vaçewtîyan (חידות); û şiklê Yahwe dinêre. Û çima hûn lê nedîtin ku hûn li dijî xulamê min, li dijî Moşe biaxivin?",
+  "translation": "Dev bi dev bi wî diaxivim, û ⟨bi⟩ dîdarî, û ne bi xeylanokan; û temsîla Yahwe ew dibîne; û çima hûn netirsiyan ku li dijî xulamê min, li dijî Moşe biaxivin?",
   "tokens": [
     {
       "surface": "פה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומראה",
-      "gloss": "û bi rûberî"
+      "gloss": "û bi dîdarî"
     },
     {
       "surface": "ולא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בחידת",
-      "gloss": "bi vaçewtîyan"
+      "gloss": "bi xeylanokan"
     },
     {
       "surface": "ותמנת",
-      "gloss": "û şiklê"
+      "gloss": "û temsîla"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יביט",
-      "gloss": "dinêre"
+      "gloss": "ew dibîne"
     },
     {
       "surface": "ומדוע",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יראתם",
-      "gloss": "dîtin (lê nedîtin)"
+      "gloss": "hûn netirsiyan"
     },
     {
       "surface": "לדבר",
@@ -76,6 +76,6 @@
       "gloss": "li dijî Moşe"
     }
   ],
-  "timestamp": "2026-08-29T18:45:37.795364502Z",
+  "timestamp": "2026-08-30T07:27:35.053324105Z",
   "model": "glm-5.3"
 }

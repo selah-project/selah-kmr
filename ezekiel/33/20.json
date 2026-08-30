@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 33,
-  "translation": "Û hûn dibêjin: Rêya Adonay nayê wekhevkirin. Her yekî ji we bi rêyên xwe, ez ê bidarim, malbata Yisraêl ⟨אתכם⟩.",
+  "translation": "Û hûn dibêjin: «Riya Adonay nayê têkildarkirin.» Bi riya xwe ez ê ⟨את⟩ we bidarim, malbata Yisraêl.",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "na"
+      "gloss": "nayê"
     },
     {
       "surface": "יתכן",
-      "gloss": "nayê wekhevkirin"
+      "gloss": "têkildarkirin"
     },
     {
       "surface": "דרך",
-      "gloss": "rêya"
+      "gloss": "riya"
     },
     {
       "surface": "אדני",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "her yekî"
+      "gloss": "kesî"
     },
     {
       "surface": "כדרכיו",
-      "gloss": "bi rêyên xwe"
+      "gloss": "bi riya xwe"
     },
     {
       "surface": "אשפוט",
@@ -42,7 +42,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "hûn \/ malbata Yisraêl"
+      "marks": "we (malbata Yisraêl)"
     },
     {
       "surface": "בית",
@@ -53,6 +53,6 @@
       "gloss": "Yisraêl"
     }
   ],
-  "timestamp": "2026-08-30T03:55:13.960373581Z",
+  "timestamp": "2026-08-30T07:33:49.190334709Z",
   "model": "glm-5.3"
 }

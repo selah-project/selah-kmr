@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Û Yîşay kurê xwe yê yekem ⟨את⟩ Elîab bû danûstendin da û Ebnadab ⟨⟨א⟩⟩ê yê duyem û Şîma yê sêyem.",
+  "translation": "Û Yîşay ⟨את⟩ yekem zarokê xwe, ⟨את⟩ Elîab, bû bavê wî; Ebnadab yê duyem, û Şima yê sêyem.",
   "tokens": [
     {
       "surface": "ואישי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "bû danûstendin da"
+      "gloss": "bû bavê wî"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kurê xwe yê yekem"
+      "marks": "yekem zarokê xwe"
     },
     {
       "surface": "בכרו",
-      "gloss": "kurê xwe yê yekem"
+      "gloss": "yekem zarokê xwe"
     },
     {
       "surface": "את",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "ואבינדב",
-      "gloss": "Û Ebnadab"
+      "gloss": "û Ebnadab"
     },
     {
       "surface": "השני",
@@ -43,13 +43,13 @@
     },
     {
       "surface": "ושמעא",
-      "gloss": "Û Şîma"
+      "gloss": "û Şima"
     },
     {
       "surface": "השלישי",
       "gloss": "yê sêyem"
     }
   ],
-  "timestamp": "2026-08-30T06:31:10.975751262Z",
+  "timestamp": "2026-08-30T07:36:04.729013597Z",
   "model": "glm-5.3"
 }

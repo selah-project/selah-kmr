@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Dawid şandî şand li bal mêrên Yaveyşê Gîleadê û ji wan re got: \"Hûn ji hêla Yahwe ve bîrebav in, ku hûn ev xesed bi axayê xwe re — bi Şaul re kir, û hûn ⟨את⟩ ⟨אתו⟩ veşartin.\"",
+  "translation": "Dawid şande şande bi cîranên Yaveş-Gîlead re û got: Hûn ji aliyê Yahwe ve bêrûket in, ku hûn ev xesed bi serdevayê xwe re, bi Şaul re kir, û hûn ⟨את⟩ wî veşartin.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "şand"
+      "gloss": "şande"
     },
     {
       "surface": "דוד",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "מלאכים",
-      "gloss": "şandî"
+      "gloss": "şande"
     },
     {
       "surface": "אל",
-      "gloss": "li bal"
+      "gloss": "bi…re"
     },
     {
       "surface": "אנשי",
-      "gloss": "mêrên"
+      "gloss": "cîvanên"
     },
     {
       "surface": "יביש",
-      "gloss": "Yaveyşê"
+      "gloss": "Yaveş"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gîleadê"
+      "gloss": "Gîlead"
     },
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ברכים",
-      "gloss": "bîrebav"
+      "gloss": "bêrûket in"
     },
     {
       "surface": "אתם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "ji Yahwe"
+      "gloss": "ji aliyê Yahwe ve"
     },
     {
       "surface": "אשר",
@@ -73,30 +73,30 @@
     },
     {
       "surface": "עם",
-      "gloss": "bi"
+      "gloss": "bi…re"
     },
     {
       "surface": "אדניכם",
-      "gloss": "axayê we"
+      "gloss": "serdevayê we"
     },
     {
       "surface": "עם",
-      "gloss": "bi"
+      "gloss": "bi…re"
     },
     {
       "surface": "שאול",
       "gloss": "Şaul"
     },
     {
-      "surface": "ותקברו",
+      "surface": "ויתקברו",
       "gloss": "veşartin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "wî (Şaul)"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.816724085Z",
+  "timestamp": "2026-08-30T07:30:37.784802234Z",
   "model": "glm-5.3"
 }

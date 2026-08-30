@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 63,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-30T05:22:17.506905279Z",
+  "translation": "Gava ku min tu li ser rişkan û di şevparêzîyan de ji te re hay li te çê kir, ez li ser te difikirîm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "gava ku min"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "tu bi bîr anî \/ hay li te çê kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "rişkan û"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "di şevparêzîyan de"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ez ji te re difikirîm \/ axivîm"
+    },
+    {
+      "surface": "בך",
+      "gloss": "li ser te"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:40.357869584Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 24,
-  "translation": "Û ger merivek canê ⟨the⟩ mirovekî bibije, ew ê bi mirinê bê kuştin.",
+  "translation": "Û ger kesekî ⟨את⟩ her canê mirov bitikîne, bi mirinê bê kuştin.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Û ger merivek"
+      "gloss": "Û ger kesekî"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יכה",
-      "gloss": "bibije"
+      "gloss": "bitikîne"
     },
     {
       "surface": "כל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "mirovekî"
+      "gloss": "mirov"
     },
     {
       "surface": "מות",
@@ -40,6 +40,6 @@
       "gloss": "bê kuştin"
     }
   ],
-  "timestamp": "2026-08-29T18:35:04.085127761Z",
+  "timestamp": "2026-08-30T07:26:45.436414090Z",
   "model": "glm-5.3"
 }

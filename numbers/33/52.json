@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 33,
-  "translation": "Û hûn ê ⟨את⟩ hemû niştecihên ⟨the⟩ erdê ji ber we derbidin, û ⟨את⟩ hemû wêneyên xêzkirî yên wan bi tevahî hilweşînin, û ⟨את⟩ hemû pûtên rijandî yên wan rakin, û ⟨את⟩ hemû cihên bilind ên wan bê Koçekîhêlin.",
+  "translation": "Hûn ji ber xwe re dê hemû niştecihên ⟨את⟩ erdê bidin der û dê ⟨את⟩ hemû wêneyên xelekî yên wan winda bikin, û ⟨את⟩ hemû pûtanên êrîxistî yên wan dê hilweşînin û ⟨את⟩ hemû bilindahiyên wan dê bi ser danîn.",
   "tokens": [
     {
       "surface": "והורשתם",
-      "gloss": "derbidin"
+      "gloss": "dê hûn derxin"
     },
     {
       "surface": "את",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "ji ber we"
+      "gloss": "ji ber xwe re"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "bi tevahî hilweşînin"
+      "gloss": "winda bikin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hemû wêneyên xêzkirî yên wan"
+      "marks": "hemû wêneyên xelekî"
     },
     {
       "surface": "כל",
@@ -47,12 +47,12 @@
     },
     {
       "surface": "משכיתם",
-      "gloss": "wêneyên xêzkirî yên wan"
+      "gloss": "wêneyên xelekî"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "hemû pûtên rijandî yên wan"
+      "marks": "hemû pûtanên êrîxistî"
     },
     {
       "surface": "כל",
@@ -60,20 +60,20 @@
     },
     {
       "surface": "צלמי",
-      "gloss": "pûtên rijandî yên wan"
+      "gloss": "pûten"
     },
     {
       "surface": "מסכתם",
-      "gloss": "pûtên rijandî"
+      "gloss": "ên êrîxistî"
     },
     {
       "surface": "תאבדו",
-      "gloss": "rakin"
+      "gloss": "hilweşînin"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "hemû cihên bilind ên wan"
+      "marks": "hemû bilindahî"
     },
     {
       "surface": "כל",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "במתם",
-      "gloss": "cihên bilind ên wan"
+      "gloss": "bilindahiyên wan"
     },
     {
       "surface": "תשמידו",
-      "gloss": "bê Koçekîhêlin"
+      "gloss": "bi ser danîn"
     }
   ],
-  "timestamp": "2026-08-29T18:56:07.295621651Z",
+  "timestamp": "2026-08-30T07:47:15.239066550Z",
   "model": "glm-5.3"
 }

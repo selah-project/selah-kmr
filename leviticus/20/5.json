@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Û ez ê rûyê xwe li ser wî zilamî û li ser malbata wî deynim, û ⟨אתו⟩ wî û ⟨ואת⟩ hemû yên ku dizinin piştî wî, ji bo zinkirinê piştî Molex, ji nav gelê wan bibirrim.",
+  "translation": "Wê ez ⟨את⟩ rûyê xwe li dijî wî zilamî û li dijî malbata wî deynim, û wê ez ⟨את⟩ ewî û ⟨את⟩ hemû zînakerên paşê wî, ku da ku paşê Molech zînayî bikin diçin, ji nav gelê wan bibirimin.",
   "tokens": [
     {
       "surface": "ושמתי",
-      "gloss": "ez ê deynim"
+      "gloss": "wê ez … deynim"
     },
     {
       "surface": "אני",
@@ -22,33 +22,33 @@
     },
     {
       "surface": "פני",
-      "gloss": "rûyê"
+      "gloss": "rûyê min"
     },
     {
       "surface": "באיש",
-      "gloss": "li ser wî zilamî"
+      "gloss": "li dijî zilamî"
     },
     {
       "surface": "ההוא",
-      "gloss": "ew"
+      "gloss": "wî"
     },
     {
       "surface": "ובמשפחתו",
-      "gloss": "û li ser malbata wî"
+      "gloss": "û li dijî malbata wî"
     },
     {
       "surface": "והכרתי",
-      "gloss": "û ez ê bibirrim"
+      "gloss": "û wê ez … bibirimin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "wî"
+      "gloss": "⟨את⟩ ewî",
+      "marks": "ewî (zilam)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "hemû"
+      "marks": "hemû zînakerên"
     },
     {
       "surface": "כל",
@@ -56,23 +56,23 @@
     },
     {
       "surface": "הזנים",
-      "gloss": "yên ku dizinin"
+      "gloss": "zînakerên"
     },
     {
       "surface": "אחריו",
-      "gloss": "piştî wî"
+      "gloss": "paşê wî"
     },
     {
       "surface": "לזנות",
-      "gloss": "ji bo zinkirinê"
+      "gloss": "da ku zînayî bikin"
     },
     {
       "surface": "אחרי",
-      "gloss": "piştî"
+      "gloss": "paşê"
     },
     {
       "surface": "המלך",
-      "gloss": "Molex"
+      "gloss": "Molech"
     },
     {
       "surface": "מקרב",
@@ -83,6 +83,6 @@
       "gloss": "gelê wan"
     }
   ],
-  "timestamp": "2026-08-29T18:33:13.441865241Z",
+  "timestamp": "2026-08-30T07:47:04.474874558Z",
   "model": "glm-5.3"
 }

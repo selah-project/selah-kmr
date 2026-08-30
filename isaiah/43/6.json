@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 43,
-  "translation": "Ez ê ji bakûr re bibêjim: \"Bide!\" û ji başûr re: \"Negirê!\"; kurên min ji dûr ve bîne û keçên min ji kêleka ⟨the⟩ erdê.",
+  "translation": "Ez ê ji bakur bibêjim: «Bide!» û ji başûr: «Girê ne!» Kurên min ji dûr ve bîne, û keçên min ji dawiya erdê bîne.",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "Ez ê bibêjim"
+      "gloss": "bibêjim"
     },
     {
       "surface": "לצפון",
-      "gloss": "ji bakûr re"
+      "gloss": "ji bakur"
     },
     {
       "surface": "תני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ולתימן",
-      "gloss": "û ji başûr re"
+      "gloss": "û ji başûr"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תכלאי",
-      "gloss": "negirê"
+      "gloss": "Girê"
     },
     {
       "surface": "הביאי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "kurên min"
+      "gloss": "Kurên min"
     },
     {
       "surface": "מרחוק",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "ji kêleka"
+      "gloss": "ji dawiya"
     },
     {
       "surface": "הארץ",
       "gloss": "erdê"
     }
   ],
-  "timestamp": "2026-08-29T20:41:31.196209601Z",
+  "timestamp": "2026-08-30T07:32:22.996794807Z",
   "model": "glm-5.3"
 }

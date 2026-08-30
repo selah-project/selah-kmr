@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Û hûn ê cudahiyê bikin navbera çêlawê ⟨⟨the⟩⟩ paqij û yê nexwas, û navbera balafirên nexwas û yên paqij; û hûn ê ⟨את⟩ nefesên xwe nexeribînin bi çêlawî, bi balafiran û bi her tiştê ku di erdê de dilerize, ê ku min ji we re wekî nexwas cudahî kiribû.",
+  "translation": "Û hûn cudahiyê bikin di navbera çêlala paqij û ⟨ya⟩ nepaqij, û di navbera balîfa nepaqij û ya paqij; û hûn ⟨את⟩ nefesên xwe jidilhatî nekin bi çêlalan, bi balîfan û bi her tiştê ku li erdê dixime, ⟨tiştê⟩ ku ez ê ji we re wekî nepaqij cuda kirime.",
   "tokens": [
     {
       "surface": "והבדלתם",
-      "gloss": "hûn ê cudahiyê bikin"
+      "gloss": "û hûn cudahiyê bikin"
     },
     {
       "surface": "בין",
-      "gloss": "navbera"
+      "gloss": "di navbera"
     },
     {
       "surface": "הבהמה",
-      "gloss": "çêlawê"
+      "gloss": "çêlala paqij"
     },
     {
       "surface": "הטהרה",
@@ -25,36 +25,36 @@
     },
     {
       "surface": "לטמאה",
-      "gloss": "nexwas"
+      "gloss": "û ya nepaqij"
     },
     {
       "surface": "ובין",
-      "gloss": "û navbera"
+      "gloss": "û di navbera"
     },
     {
       "surface": "העוף",
-      "gloss": "balafirên"
+      "gloss": "balîfa nepaqij"
     },
     {
       "surface": "הטמא",
-      "gloss": "nexwas"
+      "gloss": "nepaqij"
     },
     {
       "surface": "לטהר",
-      "gloss": "paqij"
+      "gloss": "û ya paqij"
     },
     {
       "surface": "ולא",
-      "gloss": "û na"
+      "gloss": "û hûn nekin"
     },
     {
       "surface": "תשקצו",
-      "gloss": "hûn ê nexeribînin"
+      "gloss": "jidilhatî"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nefesên xwe"
+      "marks": "nefesên xwe (נפשתיכם)"
     },
     {
       "surface": "נפשתיכם",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "בבהמה",
-      "gloss": "bi çêlawî"
+      "gloss": "bi çêlalan"
     },
     {
       "surface": "ובעוף",
-      "gloss": "bi balafiran"
+      "gloss": "bi balîfan"
     },
     {
       "surface": "ובכל",
-      "gloss": "û bi her"
+      "gloss": "û bi her tiştê"
     },
     {
       "surface": "אשר",
@@ -78,19 +78,19 @@
     },
     {
       "surface": "תרמש",
-      "gloss": "dilerize"
+      "gloss": "li erdê dixime"
     },
     {
       "surface": "האדמה",
-      "gloss": "erdê"
+      "gloss": "erd"
     },
     {
       "surface": "אשר",
-      "gloss": "ê ku"
+      "gloss": "ku"
     },
     {
       "surface": "הבדלתי",
-      "gloss": "min cudahî kiribû"
+      "gloss": "ez cuda kirime"
     },
     {
       "surface": "לכם",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "לטמא",
-      "gloss": "wekî nexwas"
+      "gloss": "wekî nepaqij"
     }
   ],
-  "timestamp": "2026-08-29T18:32:54.032113605Z",
+  "timestamp": "2026-08-30T07:27:05.512421863Z",
   "model": "glm-5.3"
 }

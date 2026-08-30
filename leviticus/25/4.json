@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 25,
-  "translation": "Û di ⟨the⟩ sala heftemîn de dê şabat, şabat-a-sekinînê, ji bo ⟨the⟩ erdê be — şabat ji bo Yahwe: tarîya xwe nede datîn û tirîya xwe neşûne.",
+  "translation": "Û di salê heftem de şabat, şabaton ji bo erdê bibe — şabat ji bo Yahwe; zevîya te nayê çandin û tirîya te nayê birîn.",
   "tokens": [
     {
       "surface": "ובשנה",
-      "gloss": "û di sala"
+      "gloss": "Û di salê"
     },
     {
       "surface": "השביעת",
-      "gloss": "heftemîn de"
+      "gloss": "heftem"
     },
     {
       "surface": "שבת",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "şabat-a-sekinînê"
+      "gloss": "şabaton"
     },
     {
       "surface": "יהיה",
-      "gloss": "dê be"
+      "gloss": "bibe"
     },
     {
       "surface": "לארץ",
@@ -41,29 +41,29 @@
     },
     {
       "surface": "שדך",
-      "gloss": "tarîya xwe"
+      "gloss": "zevîya te"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nayê"
     },
     {
       "surface": "תזרע",
-      "gloss": "nede datîn"
+      "gloss": "çandin"
     },
     {
       "surface": "וכרמך",
-      "gloss": "û tirîya xwe"
+      "gloss": "û tirîya te"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nayê"
     },
     {
       "surface": "תזמר",
-      "gloss": "neşûne"
+      "gloss": "birîn"
     }
   ],
-  "timestamp": "2026-08-29T18:36:16.537335134Z",
+  "timestamp": "2026-08-30T07:27:21.340799142Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 14,
-  "translation": "«Û tu, asta ⟨את⟩ çêwî xwe rake û destê xwe li ser ⟨the⟩ deryayê dirêj bike û wê veke; û zarokên Îsraêl êdî di nava ⟨the⟩ deryayê de, di ser bejayî de, derbas bibin.»",
+  "translation": "Û tu, bilind bike ⟨את⟩ darika xwe û destê xwe dirêj bike ser deryayê û wê qelîşîne, û bînên Îsraêl wê di nava deryayê de bi erzişîkî derbas bibin.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "הרם",
-      "gloss": "rake"
+      "gloss": "bilind bike"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "çêwî te"
+      "marks": "darika xwe"
     },
     {
       "surface": "מטך",
-      "gloss": "çêwî te"
+      "gloss": "darika xwe"
     },
     {
       "surface": "ונטה",
@@ -31,15 +31,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "destê te"
+      "marks": "destê xwe"
     },
     {
       "surface": "ידך",
-      "gloss": "destê te"
+      "gloss": "destê xwe"
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "ser"
     },
     {
       "surface": "הים",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "ובקעהו",
-      "gloss": "û wê veke"
+      "gloss": "û wê qelîşîne"
     },
     {
       "surface": "ויבאו",
-      "gloss": "û … derbas bibin"
+      "gloss": "û wê derbas bibin"
     },
     {
       "surface": "בני",
-      "gloss": "zarokên"
+      "gloss": "bînên"
     },
     {
       "surface": "ישראל",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "ביבשה",
-      "gloss": "di ser bejayî de"
+      "gloss": "bi erzişîkî"
     }
   ],
-  "timestamp": "2026-08-29T18:07:49.777595236Z",
+  "timestamp": "2026-08-30T07:25:25.718086486Z",
   "model": "glm-5.3"
 }

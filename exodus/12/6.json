@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 12,
-  "translation": "Û ji we re be ji bo parastinê heta roja çardehem a vê mehê; û tevahiya civata cemaeta Yisraêl wî ⟨את⟩ ⟨אתו⟩ di navbera êvaran de serjê bike.",
+  "translation": "Û ew ê ji bo we bibe tiştê parastinê heta roja çardehê ya vê mehê; û tevahiya civata komê Yisraêl ê wê ⟨את⟩ wî di navbera êvaran de serjê bike.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Û be"
+      "gloss": "û ew ê bibe"
     },
     {
       "surface": "לכם",
-      "gloss": "ji we re"
+      "gloss": "ji bo we"
     },
     {
       "surface": "למשמרת",
-      "gloss": "ji bo parastinê"
+      "gloss": "tiştê parastinê"
     },
     {
       "surface": "עד",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "עשר",
-      "gloss": "deh"
+      "gloss": "deh (çardeh)"
     },
     {
       "surface": "יום",
-      "gloss": "roja"
+      "gloss": "roj"
     },
     {
       "surface": "לחדש",
-      "gloss": "a vê mehê"
+      "gloss": "ya vê mehê"
     },
     {
       "surface": "הזה",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "ושחטו",
-      "gloss": "û serjê bike"
+      "gloss": "û ê serjê bikin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî"
+      "gloss": "⟨את⟩",
+      "marks": "wî (beramberê כל קהל עדת ישראל)"
     },
     {
       "surface": "כל",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "עדת",
-      "gloss": "cemaeta"
+      "gloss": "komê"
     },
     {
       "surface": "ישראל",
@@ -77,6 +77,6 @@
       "gloss": "êvaran de"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.834182757Z",
+  "timestamp": "2026-08-30T07:25:26.002609609Z",
   "model": "glm-5.3"
 }

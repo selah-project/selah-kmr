@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 22,
-  "translation": "Û pîrên wê bajêrî ⟨את⟩ wî zilamî bigirin û wî ⟨את⟩ ⟨אתו⟩ bisîzin.",
+  "translation": "Û pîremêrdên wê bajêrî wê ⟨את⟩ mêrî hildin û ⟨את⟩ wî sûd bikin.",
   "tokens": [
     {
       "surface": "ולקחו",
-      "gloss": "Û … bigirin"
+      "gloss": "hildin"
     },
     {
       "surface": "זקני",
-      "gloss": "pîrên"
+      "gloss": "pîremêrdên"
     },
     {
       "surface": "העיר",
-      "gloss": "bajêr"
+      "gloss": "bajêrî"
     },
     {
       "surface": "ההוא",
@@ -26,22 +26,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wî zilamî"
+      "marks": "mêrî"
     },
     {
       "surface": "האיש",
-      "gloss": "zilamî"
+      "gloss": "mêrî"
     },
     {
       "surface": "ויסרו",
-      "gloss": "û … bisîzin"
+      "gloss": "sûd bikin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî (zilamî)"
+      "gloss": "⟨את⟩ wî"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.844022891Z",
+  "timestamp": "2026-08-30T07:28:27.670300849Z",
   "model": "glm-5.3"
 }

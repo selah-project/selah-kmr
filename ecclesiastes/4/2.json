@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "kmr",
   "chapter": 4,
-  "translation": "Û ez ê pesnê ⟨את⟩ miriyên ku berê mirine bida, ji ⟨the⟩ yên zindî, ku ew hîn zindî ne, heta niha.",
+  "translation": "Û ez pesnê didim miriyan ⟨את⟩, yên ku berê mirine, ji zindiyên ku hîn zindî ne.",
   "tokens": [
     {
       "surface": "ושבח",
-      "gloss": "û ez ê pesnê bida"
+      "gloss": "û ez pesnê didim"
     },
     {
       "surface": "אני",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miriyên"
+      "marks": "miriyan"
     },
     {
       "surface": "המתים",
-      "gloss": "miriyên"
+      "gloss": "miriyan"
     },
     {
       "surface": "שכבר",
-      "gloss": "ku berê"
+      "gloss": "berê"
     },
     {
       "surface": "מתו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "החיים",
-      "gloss": "yên zindî"
+      "gloss": "zindiyên"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "המה",
-      "gloss": "ew"
+      "gloss": "hîn"
     },
     {
       "surface": "חיים",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "עדנה",
-      "gloss": "heta niha"
+      "gloss": "hîn"
     }
   ],
-  "timestamp": "2026-08-30T06:08:34.447412698Z",
+  "timestamp": "2026-08-30T07:35:42.285451993Z",
   "model": "glm-5.3"
 }

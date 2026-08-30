@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 28,
-  "translation": "Yahwe dê ⟨את⟩ bendewarî bi te re ferman bike — li ser cehilên te û li ser her tiştê ku destê te dirêj dike — û wê te di ⟨ה⟩ erdê ku Yahwe Elohîmê te dide te de bide bendewarkirinê.",
+  "translation": "Yahwe dê ⟨את⟩ berekêtê bi te re ferman bike — di cezên te de û di hemû şandina destê te de — û dê te di erdê ku Yahwe Elohîmê te dide te de birûmet bike.",
   "tokens": [
     {
       "surface": "יצו",
-      "gloss": "ferman bike"
+      "gloss": "dê ferman bike"
     },
     {
       "surface": "יהוה",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ bi te re"
+      "gloss": "bi te re ⟨את⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bendewarî"
+      "marks": "berekêtê"
     },
     {
       "surface": "הברכה",
-      "gloss": "bendewarî"
+      "gloss": "berekêtê"
     },
     {
       "surface": "באסמיך",
-      "gloss": "li ser cehilên te"
+      "gloss": "di cezên te de"
     },
     {
       "surface": "ובכל",
-      "gloss": "û li ser her"
+      "gloss": "û di hemû"
     },
     {
       "surface": "משלח",
-      "gloss": "tiştê dirêjkirinê"
+      "gloss": "şandina"
     },
     {
       "surface": "ידך",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "וברכך",
-      "gloss": "û bide te bendewarkirinê"
+      "gloss": "û dê te birûmet bike"
     },
     {
       "surface": "בארץ",
-      "gloss": "di erdê de"
+      "gloss": "di erdê"
     },
     {
       "surface": "אשר",
@@ -73,6 +73,6 @@
       "gloss": "te"
     }
   ],
-  "timestamp": "2026-08-29T19:09:52.220829876Z",
+  "timestamp": "2026-08-30T07:29:00.974623477Z",
   "model": "glm-5.3"
 }

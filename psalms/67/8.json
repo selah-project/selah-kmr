@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 67,
-  "translation": "Elohîm me dybareke; û hemû dawiyên erdê ⟨אתו⟩ bitirsin.",
+  "translation": "Elohîm dê me bilitîne, û hemû dawiyên erdê wî bitirsin ⟨את⟩.",
   "tokens": [
     {
       "surface": "יברכנו",
-      "gloss": "me dybareke"
+      "gloss": "dê me bilitîne"
     },
     {
       "surface": "אלהים",
@@ -22,7 +22,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hemû dawiyên erdê"
+      "marks": "wî (Elohîm)"
     },
     {
       "surface": "כל",
@@ -37,6 +37,6 @@
       "gloss": "erdê"
     }
   ],
-  "timestamp": "2026-08-30T05:23:29.503214231Z",
+  "timestamp": "2026-08-30T07:34:43.991993782Z",
   "model": "glm-5.3"
 }

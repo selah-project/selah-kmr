@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 7,
-  "translation": "Sî û sed şeqel ⟨the⟩ dixwe ⟨de⟩ her siniyek zîv, û heftê her kelasek; hemû zîvê amuran du hezar û çar sed şeqel bû, bi şeqelê pîroz.",
+  "translation": "Sî û sed şikil sîniya zîvê ya yekê, û heftê şikil kaseya yekê; hemû zîvê amuran du hezar û çar sed şikil ⟨bû⟩, bi şikela pîroziyê.",
   "tokens": [
     {
       "surface": "שלשים",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "הקערה",
-      "gloss": "sini"
+      "gloss": "sîniya"
     },
     {
       "surface": "האחת",
-      "gloss": "yek"
+      "gloss": "ya yekê"
     },
     {
       "surface": "כסף",
-      "gloss": "zîv"
+      "gloss": "zîvê"
     },
     {
       "surface": "ושבעים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "המזרק",
-      "gloss": "kelas"
+      "gloss": "kaseya"
     },
     {
       "surface": "האחד",
-      "gloss": "yek"
+      "gloss": "ya yekê"
     },
     {
       "surface": "כל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "כסף",
-      "gloss": "zîv"
+      "gloss": "zîvê"
     },
     {
       "surface": "הכלים",
-      "gloss": "amûr"
+      "gloss": "amuran"
     },
     {
       "surface": "אלפים",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "בשקל",
-      "gloss": "bi şeqelê"
+      "gloss": "bi şikela"
     },
     {
       "surface": "הקדש",
-      "gloss": "pîroz"
+      "gloss": "pîroziyê"
     }
   ],
-  "timestamp": "2026-08-29T18:43:11.492403698Z",
+  "timestamp": "2026-08-30T07:27:23.596825473Z",
   "model": "glm-5.3"
 }

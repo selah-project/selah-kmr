@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 30,
-  "translation": "Niha were, wê li ser tabletê binivîsîne ⟨את⟩ ⟨אתם⟩, û li ser pirtûkê bihovane binivîse, da ku bibe ji bo roja dawîn şahidî heta domdariyê, heta hertî û hertî.",
+  "translation": "Niha were, wê li ser tabloyekê binivîsîne, ⟨את⟩ bi wan re, û wê li pirtûkekê hûk bikî, û ew bibe ji bo roja dawî şahidî, ji bo hertimê, heta eraqê.",
   "tokens": [
     {
       "surface": "עתה",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "לוח",
-      "gloss": "tabletê"
+      "gloss": "tabloyekê"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "bi wan re (li pêş wan)"
+      "gloss": "⟨את⟩",
+      "marks": "bi wan re"
     },
     {
       "surface": "ועל",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "ספר",
-      "gloss": "pirtûkê"
+      "gloss": "pirtûkekê"
     },
     {
       "surface": "חקה",
-      "gloss": "bihovane binivîse"
+      "gloss": "hûk bikî"
     },
     {
       "surface": "ותהי",
-      "gloss": "da ku bibe"
+      "gloss": "û ew bibe"
     },
     {
       "surface": "ליום",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "אחרון",
-      "gloss": "dawîn"
+      "gloss": "dawî"
     },
     {
       "surface": "לעד",
-      "gloss": "heta domdariyê"
+      "gloss": "şahidî, ji bo hertimê"
     },
     {
       "surface": "עד",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "hertî û hertî"
+      "gloss": "eraqê"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.854414041Z",
+  "timestamp": "2026-08-30T07:32:39.637856531Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "kmr",
   "chapter": 11,
-  "translation": "Ew bi Dawid re li Pas-Damim bû, û Filistî li wir ji bo şer kom bûn, û beşekî ⟨the⟩ zeviyê ji cehan tijî bû, û gel ji ber Filistiyan reviya.",
+  "translation": "Ew bi Dawid re li Paş-Damîm bû, û Fîlîştî li wir kom bûn ji bo şer, û beşekî zeviyê ji cehalan tijî bû, û gel ji ber Fîlîştiyan reviyan.",
   "tokens": [
     {
       "surface": "הוא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "bi…re"
+      "gloss": "re"
     },
     {
       "surface": "דויד",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "בפס",
-      "gloss": "li Pas-"
+      "gloss": "li Paş-"
     },
     {
       "surface": "דמים",
-      "gloss": "Damim"
+      "gloss": "Damîm"
     },
     {
       "surface": "והפלשתים",
-      "gloss": "û Filistî"
+      "gloss": "û Fîlîştî"
     },
     {
       "surface": "נאספו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "û…bû"
+      "gloss": "û … bû"
     },
     {
       "surface": "חלקת",
-      "gloss": "beşekî zeviyê"
+      "gloss": "beşekî"
     },
     {
       "surface": "השדה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "מלאה",
-      "gloss": "tijî"
+      "gloss": "tijî bû"
     },
     {
       "surface": "שעורים",
-      "gloss": "ji cehan"
+      "gloss": "ji cehalan"
     },
     {
       "surface": "והעם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "נסו",
-      "gloss": "reviya"
+      "gloss": "reviyan"
     },
     {
       "surface": "מפני",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistiyan"
+      "gloss": "Fîlîştiyan"
     }
   ],
-  "timestamp": "2026-08-30T06:35:19.548571455Z",
+  "timestamp": "2026-08-30T07:36:19.628904061Z",
   "model": "glm-5.3"
 }

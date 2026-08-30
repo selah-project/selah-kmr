@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "«Û niha ez yek daxwaz ji ⟨את⟩ te dikim: rûyê min neguherîne.» Û ⟨wê⟩ got bal wî: «Bêje.»",
+  "translation": "Û niha ez ji te yek daxwazê dixwazim — rûyê min bernede ⟨את⟩. Û ew jê re got: »Bêje.«",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שאלה",
-      "gloss": "daxwaz"
+      "gloss": "daxwazê"
     },
     {
       "surface": "אחת",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "שאל",
-      "gloss": "dikim"
+      "gloss": "dixwazim"
     },
     {
       "surface": "מאתך",
-      "gloss": "ji ⟨את⟩ te"
+      "gloss": "ji te ⟨את⟩"
     },
     {
       "surface": "אל",
-      "gloss": "ne"
+      "gloss": "—"
     },
     {
       "surface": "תשבי",
-      "gloss": "neguherîne"
+      "gloss": "bernede"
     },
     {
       "surface": "את",
@@ -49,14 +49,18 @@
       "gloss": "rûyê min"
     },
     {
-      "surface": "ותאמר אליו",
-      "gloss": "Û ⟨wê⟩ got bal wî"
+      "surface": "ותאמר",
+      "gloss": "Û ... got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
     },
     {
       "surface": "דבר",
       "gloss": "Bêje"
     }
   ],
-  "timestamp": "2026-08-29T20:01:45.042717595Z",
+  "timestamp": "2026-08-30T07:22:28.820162042Z",
   "model": "glm-5.3"
 }

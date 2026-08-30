@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Ev in peyvên ku hûn dê bikin: Rastiyê biaxivin, her kesî bi hevalê xwe re ⟨את רֵעֵהוּ⟩ rastî, û dadmendiya aşitiyê li deriyên we bila were darvekirin.",
+  "translation": "Ev in wan gotinan ku hûn bikin: rastiyê biaxivin, her kesî bi ⟨את⟩ cîranê xwe, rastiyê; û doza aştîyê di deriyên xwe de bikin.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ev"
+      "gloss": "Ev"
     },
     {
       "surface": "הדברים",
-      "gloss": "peyvên"
+      "gloss": "gotinan"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "hûn dê bikin"
+      "gloss": "hûn bikin"
     },
     {
       "surface": "דברו",
@@ -38,33 +38,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hevalê xwe"
+      "marks": "cîranê xwe"
     },
     {
       "surface": "רעהו",
-      "gloss": "hevalê xwe"
+      "gloss": "cîranê xwe"
     },
     {
       "surface": "אמת",
-      "gloss": "rastî"
+      "gloss": "rastiyê"
     },
     {
       "surface": "ומשפט",
-      "gloss": "û dadmendiyê"
+      "gloss": "û doza"
     },
     {
       "surface": "שלום",
-      "gloss": "aşitiyê"
+      "gloss": "aştîyê"
     },
     {
       "surface": "שפטו",
-      "gloss": "bala were darvekirin"
+      "gloss": "bikin"
     },
     {
       "surface": "בשעריכם",
-      "gloss": "li deriyên we"
+      "gloss": "di deriyên xwe de"
     }
   ],
-  "timestamp": "2026-08-30T05:08:24.200544284Z",
+  "timestamp": "2026-08-30T07:34:39.521281108Z",
   "model": "glm-5.3"
 }

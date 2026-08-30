@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 10,
-  "translation": "Û êdî, Îsraêl, Yahwe, Elohîmê te, ji te re çi dixwaze — ji bilî ku tu ji Yahwe, Elohîmê xwe, bitirsî, di hemû rêyên wî de bigerî, wî ⟨את⟩ hez bikî û Yahwe, Elohîmê xwe, bi hemû dilê xwe û bi hemû canê xwe ⟨את⟩ bi xizmetê re bixizmetî?",
+  "translation": "Û niha, Îsraêl, Yahwe Elohîmê te ji te çi dixwaze? Ji bilî vê tu tirsîya Yahwe ⟨את⟩ Elohîmê te, rêwîtîya di hemû rêyên wî de, hezkirina wî, û xizmetkirina Yahwe ⟨את⟩ Elohîmê te bi hemû dilê te û bi hemû canê te.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Û êdî"
+      "gloss": "Û niha"
     },
     {
       "surface": "ישראל",
@@ -33,24 +33,24 @@
     },
     {
       "surface": "מעמך",
-      "gloss": "ji te re"
+      "gloss": "ji te"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ji bilî vê"
     },
     {
       "surface": "אם",
-      "gloss": "ji bilî ku"
+      "gloss": ""
     },
     {
       "surface": "ליראה",
-      "gloss": "bitirsî"
+      "gloss": "tirsîya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "marks": "Yahwe Elohîmê te"
     },
     {
       "surface": "יהוה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohîmê xwe"
+      "gloss": "Elohîmê te"
     },
     {
       "surface": "ללכת",
-      "gloss": "bigerî"
+      "gloss": "rêwîtîya"
     },
     {
       "surface": "בכל",
@@ -74,20 +74,21 @@
     },
     {
       "surface": "ולאהבה",
-      "gloss": "hez bikî"
+      "gloss": "hezkirina wî"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩"
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Elohîmê te)"
     },
     {
       "surface": "ולעבד",
-      "gloss": "bixizmetî"
+      "gloss": "û xizmetkirina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "marks": "Yahwe Elohîmê te"
     },
     {
       "surface": "יהוה",
@@ -95,7 +96,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohîmê xwe"
+      "gloss": "Elohîmê te"
     },
     {
       "surface": "בכל",
@@ -103,7 +104,7 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "dilê xwe"
+      "gloss": "dilê te"
     },
     {
       "surface": "ובכל",
@@ -111,9 +112,9 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "canê xwe"
+      "gloss": "canê te"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.842427815Z",
+  "timestamp": "2026-08-30T07:46:56.079369946Z",
   "model": "glm-5.3"
 }

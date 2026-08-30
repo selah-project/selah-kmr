@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 35,
-  "translation": "Û Moşe ⟨את⟩ tevahiya civata zaranê Îsraêlî kom kir û ji wan re got: \"Ev ew gotinan in ku Yahwe ferman kir ku ⟨את⟩ ⟨אתם⟩ bên kirîn.\"",
+  "translation": "Moşe tevahiya civata zarokên Yîsraêl kom kir û ji wan re got: “Ev in peywirên ku Yahwe ferman kir ku ⟨את⟩ wan bikin.”",
   "tokens": [
     {
       "surface": "ויקהל",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tevahiya civata zaranê Îsraêlî"
+      "marks": "tevahiya civata zarokên Yîsraêl"
     },
     {
       "surface": "כל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "zaranê"
+      "gloss": "zarokên"
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêlî"
+      "gloss": "Yîsraêl"
     },
     {
       "surface": "ויאמר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "אלה",
-      "gloss": "ev"
+      "gloss": "ev in"
     },
     {
       "surface": "הדברים",
-      "gloss": "ew gotinan"
+      "gloss": "peywirên"
     },
     {
       "surface": "אשר",
@@ -66,14 +66,14 @@
     },
     {
       "surface": "לעשת",
-      "gloss": "ku bên kirîn"
+      "gloss": "bikin"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ew gotinan"
+      "gloss": "⟨את⟩ wan",
+      "marks": "peywirên"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.831865681Z",
+  "timestamp": "2026-08-30T07:46:41.692600527Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 5,
-  "translation": "Û Paroh got: “Va, niha gelek in gelê ⟨ה⟩ erdê, û hûn wan ji barên wan sekinandine.”",
+  "translation": "Û Paroh got: «Hûn dibînin, niha gelî erdê pir in, û hûn wan ji barên wan didin rawestandin ⟨את⟩!»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הן",
-      "gloss": "va"
+      "gloss": "hûn dibînin"
     },
     {
       "surface": "רבים",
-      "gloss": "gelek in"
+      "gloss": "pir in"
     },
     {
       "surface": "עתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "gel"
+      "gloss": "gelî"
     },
     {
       "surface": "הארץ",
@@ -37,18 +37,18 @@
     },
     {
       "surface": "והשבתם",
-      "gloss": "û hûn sekinandine"
+      "gloss": "û hûn didin rawestandin"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wan"
+      "marks": "barên wan"
     },
     {
       "surface": "מסבלתם",
       "gloss": "ji barên wan"
     }
   ],
-  "timestamp": "2026-08-29T18:02:31.066224920Z",
+  "timestamp": "2026-08-30T07:25:34.238738631Z",
   "model": "glm-5.3"
 }

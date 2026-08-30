@@ -5,15 +5,16 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 34,
-  "translation": "Û hûn ⟨את⟩ me re bi cih bin, û erd ⟨is⟩ li ber we be; bi cih bin, wê bazirganî bikin û di wê de xwe bi cih bikin.",
+  "translation": "Û hûn ⟨את⟩ me bi cî bibin, û erd li ber we be; bi cî bibin, wê bazirganî bikin û xwe ⟨bi⟩ wê girêdin.",
   "tokens": [
     {
       "surface": "ואתנו",
-      "gloss": "⟨את⟩ me re"
+      "gloss": "û ⟨את⟩ me",
+      "marks": "me"
     },
     {
       "surface": "תשבו",
-      "gloss": "bi cih bin"
+      "gloss": "bi cî bibin"
     },
     {
       "surface": "והארץ",
@@ -29,7 +30,7 @@
     },
     {
       "surface": "שבו",
-      "gloss": "bi cih bin"
+      "gloss": "bi cî bibin"
     },
     {
       "surface": "וסחרוה",
@@ -37,13 +38,13 @@
     },
     {
       "surface": "והאחזו",
-      "gloss": "xwe bi cih bikin"
+      "gloss": "û xwe girêdin"
     },
     {
       "surface": "בה",
-      "gloss": "di wê de"
+      "gloss": "⟨bi⟩ wê"
     }
   ],
-  "timestamp": "2026-08-29T17:52:31.941490520Z",
+  "timestamp": "2026-08-30T07:25:02.730543354Z",
   "model": "glm-5.3"
 }

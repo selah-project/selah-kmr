@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 15,
-  "translation": "Û ew derket pêşya Asa û jê re got: “Guhdarî min bikin, Asa û tevî Yehuda û Binyamin! Yahwe bi we re ye dema hûn bi wî re bin; û ger hûn wî bigerin, wê ji we re were dîtin; û ger hûn wî bihêlin, wê we bihêle ⟨את⟩ ⟨אתכם⟩.”",
+  "translation": "Ew derket pêşiya Asa û ji wî re got: Guh bidinê min, Asa û hemû Yehûda û Binyamîn! Yahwe bi we re ye, dema ku hûn bi wî re bin; û ger hûn wî bigerin, ew ê ji we re were dîtin; û ger hûn wî berdin, ew ê ⟨את⟩ we berde.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Û ew derket"
+      "gloss": "derket"
     },
     {
       "surface": "לפני",
-      "gloss": "pêşya"
+      "gloss": "pêşiya"
     },
     {
       "surface": "אסא",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "û jê re got"
+      "gloss": "û…got"
     },
     {
       "surface": "לו",
-      "gloss": "jê re"
+      "gloss": "ji wî re"
     },
     {
       "surface": "שמעוני",
-      "gloss": "Guhdarî min bikin"
+      "gloss": "Guh bidinê min"
     },
     {
       "surface": "אסא",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "û tevî"
+      "gloss": "û hemû"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehûda"
     },
     {
       "surface": "ובנימן",
-      "gloss": "û Binyamin"
+      "gloss": "û Binyamîn"
     },
     {
       "surface": "יהוה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בהיותכם",
-      "gloss": "dema hûn bin"
+      "gloss": "dema ku hûn bin"
     },
     {
       "surface": "עמו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ואם",
-      "gloss": "Û ger"
+      "gloss": "û ger"
     },
     {
       "surface": "תדרשהו",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "wê were dîtin"
+      "gloss": "ew ê…were dîtin"
     },
     {
       "surface": "לכם",
@@ -81,22 +81,22 @@
     },
     {
       "surface": "ואם",
-      "gloss": "Û ger"
+      "gloss": "û ger"
     },
     {
       "surface": "תעזבהו",
-      "gloss": "hûn wî bihêlin"
+      "gloss": "hûn wî berdin"
     },
     {
       "surface": "יעזב",
-      "gloss": "wê bihêle"
+      "gloss": "ew ê berde"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩ we",
+      "marks": "we (koma bênengan — hûn)"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.841406035Z",
+  "timestamp": "2026-08-30T07:36:58.057588616Z",
   "model": "glm-5.3"
 }

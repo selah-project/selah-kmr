@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Û naha bila destên we xurt bibin û bila hûn bibin kurên hêzê, çimkî axayê we Şaul mir, û malbata Yehûda jî min ⟨את⟩ ⟨אתי⟩ wek key li ser wan meshand.",
+  "translation": "Û niha bila destên we bihêz bibin û hûn bibin kurên xurtiyê, ji ber ku Adonayê we Şaul mirîye, û malbata Yehûdayê jî ⟨את⟩ min bi rûnê pîroz mexsî kir ji bo ku ez bibim key li ser wan.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "û naha"
+      "gloss": "Û niha"
     },
     {
       "surface": "תחזקנה",
-      "gloss": "xurt bibin"
+      "gloss": "bibin bihêz"
     },
     {
       "surface": "ידיכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והיו",
-      "gloss": "bibin"
+      "gloss": "û hûn bibin"
     },
     {
       "surface": "לבני",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "חיל",
-      "gloss": "hêzê"
+      "gloss": "xurtiyê"
     },
     {
       "surface": "כי",
-      "gloss": "çimkî"
+      "gloss": "ji ber ku"
     },
     {
       "surface": "מת",
-      "gloss": "mir"
+      "gloss": "mirîye"
     },
     {
       "surface": "אדניכם",
-      "gloss": "axayê we"
+      "gloss": "Adonayê we"
     },
     {
       "surface": "שאול",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨אתי⟩",
-      "marks": "min (meshand)"
+      "gloss": "⟨את⟩",
+      "marks": "min"
     },
     {
       "surface": "משחו",
-      "gloss": "meshand"
+      "gloss": "bi rûnê pîroz mexsî kir"
     },
     {
       "surface": "בית",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehûda"
+      "gloss": "Yehûdayê"
     },
     {
       "surface": "למלך",
-      "gloss": "wek key"
+      "gloss": "ji bo keyîtîyê"
     },
     {
       "surface": "עליהם",
       "gloss": "li ser wan"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.815915197Z",
+  "timestamp": "2026-08-30T07:30:43.949752883Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û Rût got: Ji min nexwaze ku ez te bihêlim û ji piştî te vegerim; çimkî ba ku derê tu diçî, ez diçim, û li ku derê tu ravanî, ez ravenim; gelê te gelê ⟨min e⟩ û Elohîmê te Elohîmê ⟨min e⟩.",
+  "translation": "Rût got: «Li min meke ku ez te bihêlim an ji peya te vegérim, çiku tû derê diçî ez ê diçim, û tû cihê rûdînî ez ê rûdinim; gelê te gelê min e, û Elohîmên te Elohîmên min in.»",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "û got"
+      "gloss": "got"
     },
     {
       "surface": "רות",
@@ -17,11 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ne"
+      "gloss": "me"
     },
     {
-      "surface": "תפגעי בי",
-      "gloss": "ji min nexwaze"
+      "surface": "תפגעי",
+      "gloss": "li min meke"
+    },
+    {
+      "surface": "בי",
+      "gloss": "li min"
     },
     {
       "surface": "לעזבך",
@@ -29,43 +33,43 @@
     },
     {
       "surface": "לשוב",
-      "gloss": "vegerim"
+      "gloss": "an vegérim"
     },
     {
       "surface": "מאחריך",
-      "gloss": "ji piştî te"
+      "gloss": "ji peya te"
     },
     {
       "surface": "כי",
-      "gloss": "çimkî"
+      "gloss": "çiku"
     },
     {
       "surface": "אל",
-      "gloss": "ba"
+      "gloss": "derê"
     },
     {
       "surface": "אשר",
-      "gloss": "ku derê"
+      "gloss": "ku"
     },
     {
       "surface": "תלכי",
-      "gloss": "tu diçî"
+      "gloss": "tû diçî"
     },
     {
       "surface": "אלך",
-      "gloss": "ez diçim"
+      "gloss": "ez ê diçim"
     },
     {
       "surface": "ובאשר",
-      "gloss": "û li ku derê"
+      "gloss": "û cihekî ku"
     },
     {
       "surface": "תליני",
-      "gloss": "tu ravanî"
+      "gloss": "tû rûdinî"
     },
     {
       "surface": "אלין",
-      "gloss": "ez ravenim"
+      "gloss": "ez ê rûdinim"
     },
     {
       "surface": "עמך",
@@ -77,13 +81,13 @@
     },
     {
       "surface": "ואלהיך",
-      "gloss": "û Elohîmê te"
+      "gloss": "û Elohîmên te"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohîmê min"
+      "gloss": "Elohîmên min"
     }
   ],
-  "timestamp": "2026-08-30T06:59:26.612722034Z",
+  "timestamp": "2026-08-30T07:22:52.501140615Z",
   "model": "glm-5.3"
 }

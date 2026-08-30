@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 145,
-  "translation": "Tesbîta Dawîd. Ez te bilind dikim, Elohîmê min, ⟨⟨the⟩⟩ padîşah, û navê te dê ji bo hertim û hertim pîroz bikim.",
+  "translation": "Tesbîh; ji Dawid re. Ez te bilind dikim, Elohayê min, key, û navê te bibêrîkim heta hertim û hertim.",
   "tokens": [
     {
       "surface": "תהלה",
-      "gloss": "Tesbît"
+      "gloss": "Tesbîh"
     },
     {
       "surface": "לדוד",
-      "gloss": "a Dawîd"
+      "gloss": "ji Dawid re"
     },
     {
       "surface": "ארוממך",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אלוהי",
-      "gloss": "Elohîmê min"
+      "gloss": "Elohayê min"
     },
     {
       "surface": "המלך",
-      "gloss": "padîşah"
+      "gloss": "key"
     },
     {
       "surface": "ואברכה",
-      "gloss": "û dê pîroz bikim"
+      "gloss": "û ... bibêrîkim"
     },
     {
       "surface": "שמך",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "ji bo hertim"
+      "gloss": "heta hertim"
     },
     {
       "surface": "ועד",
       "gloss": "û hertim"
     }
   ],
-  "timestamp": "2026-08-30T05:39:16.500454234Z",
+  "timestamp": "2026-08-30T07:35:04.164582302Z",
   "model": "glm-5.3"
 }

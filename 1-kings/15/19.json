@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 15,
-  "translation": "Peyman ⟨is⟩ di navbera min û te, di navbera bavê min û bavê te; binêre, ez ⟨את⟩ şandim ji te re destpêşxuyanek — zîv û zêr; here, ⟨את⟩ peymana xwe ya bi Başa, padîşahê Îsraêl, bişikîne, da ku ew ji ser min rake.",
+  "translation": "Peymanek ⟨heye⟩ di navbera min û te de, di navbera bavê min û bavê te de; binêre, min ji te re ⟨את⟩ diyarîyek zîv û zêr şand; here, ⟨את⟩ peymana xwe ya bi Başa padîşahê Îsraêl betal bike, û ew ji ser min hilde.",
   "tokens": [
     {
       "surface": "ברית",
-      "gloss": "peyman"
+      "gloss": "peymanek"
     },
     {
       "surface": "ביני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ובינך",
-      "gloss": "û te"
+      "gloss": "û te de"
     },
     {
       "surface": "בין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אביך",
-      "gloss": "bavê te"
+      "gloss": "bavê te de"
     },
     {
       "surface": "הנה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שלחתי",
-      "gloss": "ez şandim"
+      "gloss": "min şand"
     },
     {
       "surface": "לך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שחד",
-      "gloss": "destpêşxuyanek"
+      "gloss": "diyarîyek"
     },
     {
       "surface": "כסף",
@@ -65,21 +65,21 @@
     },
     {
       "surface": "הפרה",
-      "gloss": "bişikîne"
+      "gloss": "betal bike"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "peymana xwe"
+      "marks": "peymana te"
     },
     {
       "surface": "בריתך",
-      "gloss": "peymana xwe"
+      "gloss": "peymana te"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bi Başa"
+      "marks": "Başa"
     },
     {
       "surface": "בעשא",
@@ -94,14 +94,14 @@
       "gloss": "Îsraêl"
     },
     {
-      "surface": "ויעלה",
-      "gloss": "da ku ew rake"
+      "surface": "ועלה",
+      "gloss": "û ew hilde"
     },
     {
       "surface": "מעלי",
       "gloss": "ji ser min"
     }
   ],
-  "timestamp": "2026-08-29T20:10:18.994855588Z",
+  "timestamp": "2026-08-30T07:50:46.271844864Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,74 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 16,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-29T20:09:43.754885585Z",
+  "translation": "Û gelê ku piştî Omrî bû serdest bû li ser ⟨את⟩ gelê ku piştî Tîbnî kurê Gînat bû; Tîbnî mir û Omrî bû key.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "serdest bû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê ku piştî Tîbnî kurê Gînat bû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tîbnî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Gînat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tîbnî"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "bû key"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrî"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:27.750103553Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 11,
-  "translation": "Bi şûr wê hûn bikevin; li ser sînorê Yisraêl ez ê we bibê daraz, û hûn ê bizanibin ku ez im Yahwe.",
+  "translation": "Bi şûrê hûn bikevin; li ser sînorê Yîsraêl ez ê ⟨את⟩ we bibême dad û hûn ê bizanbin ku ez im Yahwe.",
   "tokens": [
     {
       "surface": "בחרב",
-      "gloss": "bi şûr"
+      "gloss": "bi şûrê"
     },
     {
       "surface": "תפלו",
-      "gloss": "hûn ê bikevin"
+      "gloss": "hûn bikevin"
     },
     {
       "surface": "על",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraêl"
+      "gloss": "Yîsraêl"
     },
     {
       "surface": "אשפוט",
-      "gloss": "ez ê bibê daraz"
+      "gloss": "ez ê bibême dad"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ we",
-      "marks": "we (bibê daraz)"
+      "gloss": "⟨את⟩",
+      "marks": "we"
     },
     {
       "surface": "וידעתם",
-      "gloss": "û hûn ê bizanibin"
+      "gloss": "û hûn ê bizanbin"
     },
     {
       "surface": "כי",
@@ -53,6 +53,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.846870518Z",
+  "timestamp": "2026-08-30T07:33:30.187365527Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Û dê bibe, wekî ku hûn bûn nifir di nav netewan de, malbata Yehûda û malbata Yisraêl, wêha ez ê we xilas bikim ⟨אֶתְכֶם⟩, û hûn dê bibin bêrîk. Netirsin, destên we bila bihêz bin!",
+  "translation": "Êdî wê bibe, wekî ku hûn di nav gelan de nîşantir bûn, malbata Yehûda û malbata Yisraêl, wê ez we ⟨את⟩ rizgar bikim û hûn wê bibin biresk. Netirse, destên we bila xurt bin!",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Û dê bibe"
+      "gloss": "wê bibe"
     },
     {
       "surface": "כאשר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "קללה",
-      "gloss": "nifir"
+      "gloss": "nîşantir"
     },
     {
       "surface": "בגוים",
-      "gloss": "di nav netewan de"
+      "gloss": "di nav gelan de"
     },
     {
       "surface": "בית",
@@ -45,24 +45,24 @@
     },
     {
       "surface": "כן",
-      "gloss": "wêha"
+      "gloss": "wê"
     },
     {
       "surface": "אושיע",
-      "gloss": "ez ê xilas bikim"
+      "gloss": "rizgar bikim"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "we"
+      "marks": "we (hûn)"
     },
     {
       "surface": "והייתם",
-      "gloss": "û hûn dê bibin"
+      "gloss": "hûn wê bibin"
     },
     {
       "surface": "ברכה",
-      "gloss": "bêrîk"
+      "gloss": "biresk"
     },
     {
       "surface": "אל",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "tirsin"
+      "gloss": "tirse"
     },
     {
       "surface": "תחזקנה",
-      "gloss": "bihêz bin"
+      "gloss": "bila xurt bin"
     },
     {
       "surface": "ידיכם",
       "gloss": "destên we"
     }
   ],
-  "timestamp": "2026-08-30T05:08:24.199778757Z",
+  "timestamp": "2026-08-30T07:34:55.416382616Z",
   "model": "glm-5.3"
 }

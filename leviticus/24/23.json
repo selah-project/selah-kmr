@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 24,
-  "translation": "Moşe axivî bi zarên Îsraêl re, wan ⟨את⟩ Qedexeker derxist derveyî kampê, wan ⟨את⟩ ⟨אתו⟩ bi keviran bireqandin; zarên Îsraêl wê kirin wekî ku Yahwe ferman da ⟨את⟩ Moşe.",
+  "translation": "Moşe bi kurdî — ne: Moşe bi kurmancî axivî bi xêra — Moşe axivî û got ji zarkêşên Yisraêl re; ew ⟨את⟩ nifirker derxistin derveyî kamp û avêtin ser wî bi keviran. Zarkêşên Yisraêl çêkir wekî ku Yahwe ferman da ⟨את⟩ Moşe.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -17,49 +17,49 @@
     },
     {
       "surface": "אל",
-      "gloss": "bi … re"
+      "gloss": "ji … re"
     },
     {
       "surface": "בני",
-      "gloss": "zarên"
+      "gloss": "zarokên"
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Yisraêl"
     },
     {
       "surface": "ויוציאו",
-      "gloss": "wan derxist"
+      "gloss": "ew derxistin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Qedexeker"
+      "marks": "nifirker"
     },
     {
       "surface": "המקלל",
-      "gloss": "Qedexeker"
+      "gloss": "nifirker"
     },
     {
       "surface": "אל",
-      "gloss": "bi … re"
-    },
-    {
-      "surface": "מחוץ",
       "gloss": "derveyî"
     },
     {
+      "surface": "מחוץ",
+      "gloss": "derve"
+    },
+    {
       "surface": "למחנה",
-      "gloss": "kampê"
+      "gloss": "kamp"
     },
     {
       "surface": "וירגמו",
-      "gloss": "wan bireqandin"
+      "gloss": "avêtin ser wî"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî (Qedexeker)"
+      "gloss": "⟨את⟩",
+      "marks": "wî"
     },
     {
       "surface": "אבן",
@@ -67,15 +67,15 @@
     },
     {
       "surface": "ובני",
-      "gloss": "û zarên"
+      "gloss": "û zarokên"
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Yisraêl"
     },
     {
       "surface": "עשו",
-      "gloss": "wê kirin"
+      "gloss": "çêkir"
     },
     {
       "surface": "כאשר",
@@ -99,6 +99,6 @@
       "gloss": "Moşe"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.853494377Z",
+  "timestamp": "2026-08-30T07:47:08.600227305Z",
   "model": "glm-5.3"
 }

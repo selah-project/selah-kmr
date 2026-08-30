@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Ji ber ku te wan ji bo xwe wek mîras ji hemû gelên ⟨the⟩ erdê cihê kir, wek ku te bi destê Moşe, xulamê te, got, di dema ku te ⟨את⟩ bavên me ji Mîtsrayim derxist, Adonay Yahwe.",
+  "translation": "Ji ber ku te wan ji bo xwe wekî mîras ji hemû gelên erdê veqetand, wekî te bi destê Moşe, xulamê xwe, got — di dema anîna te ya ⟨את⟩ bavên me ji Mîtsrayimê derve — Adonay Yahwe.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הבדלתם",
-      "gloss": "wan cihê kir"
+      "gloss": "wan veqetand"
     },
     {
       "surface": "לך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לנחלה",
-      "gloss": "wek mîras"
+      "gloss": "wekî mîras"
     },
     {
       "surface": "מכל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "wek ku"
+      "gloss": "wekî"
     },
     {
       "surface": "דברת",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "xulamê te"
+      "gloss": "xulamê xwe"
     },
     {
       "surface": "בהוציאך",
-      "gloss": "di dema ku te derxist"
+      "gloss": "di dema anîna te ya ... derve"
     },
     {
       "surface": "את",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "ji Mîtsrayim"
+      "gloss": "ji Mîtsrayimê"
     },
     {
       "surface": "אדני",
@@ -85,6 +85,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-29T20:05:54.849346024Z",
+  "timestamp": "2026-08-30T07:31:15.840574203Z",
   "model": "glm-5.3"
 }

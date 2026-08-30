@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Kurên Babelê û hemû Kaşdiyan, Pekod û Şoa û Koa, hemû kurên Aşûr bi wan re ⟨את⟩ ⟨אותם⟩; ciwanên dilbijartî, pach û seganan hemû, şalîş û navdarî, siwarên hespan, hemû.",
+  "translation": "Kurên Babîlê û hemû Keşdeyî, Pekod û Şoa û Koa, hemû kurên Aşûr bi wan re: ⟨את⟩ xortên dilxwaz, seroke û fermandar — hemû şalîş û yê bi nav û deng, siwarên hespan, hemû wan.",
   "tokens": [
     {
       "surface": "בני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babelê"
+      "gloss": "Babîlê"
     },
     {
       "surface": "וכל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "Kaşdiyan"
+      "gloss": "Keşdeyî"
     },
     {
       "surface": "פקוד",
@@ -49,24 +49,24 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "ciwanên dilbijartî"
+      "gloss": "⟨את⟩",
+      "marks": "xortên dilxwaz"
     },
     {
       "surface": "בחורי",
-      "gloss": "ciwanên"
+      "gloss": "xortên"
     },
     {
       "surface": "חמד",
-      "gloss": "dilbijartî"
+      "gloss": "dilxwaz"
     },
     {
       "surface": "פחות",
-      "gloss": "pach"
+      "gloss": "seroke"
     },
     {
       "surface": "וסגנים",
-      "gloss": "û seganan"
+      "gloss": "û fermandar"
     },
     {
       "surface": "כלם",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "וקרואים",
-      "gloss": "û navdarî"
+      "gloss": "û yê bi nav û deng"
     },
     {
       "surface": "רכבי",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "כלם",
-      "gloss": "hemû"
+      "gloss": "hemû wan"
     }
   ],
-  "timestamp": "2026-08-30T03:52:02.460809683Z",
+  "timestamp": "2026-08-30T07:33:34.987373309Z",
   "model": "glm-5.3"
 }

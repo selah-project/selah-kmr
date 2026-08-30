@@ -5,27 +5,28 @@
   "book": "zechariah",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Ez ê ⟨אתם⟩ wan bînim û ew ê di nava Yeruşalayimê de bicih bibin; ew ê ji bo min bibin gel, û ez ê ji bo wan Elohîm bibim, bi rastî û bi rastdariyê.",
+  "translation": "Ez ê wan bînim û ew ê di navî de Yeruşalayimê bi cih bibin; ew ê bibin ji bo min gel, û ez ê ji bo wan bibim Elohîm, di rastiyê de û di rastdariyê de.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "ez ê bînim"
+      "gloss": "ez ê … bînim"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ wan"
+      "gloss": "⟨את⟩",
+      "marks": "wan"
     },
     {
       "surface": "ושכנו",
-      "gloss": "ew ê bicih bibin"
+      "gloss": "ew ê bi cih bibin"
     },
     {
       "surface": "בתוך",
-      "gloss": "di nava"
+      "gloss": "di navî de"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yeruşalayimê de"
+      "gloss": "Yeruşalayimê"
     },
     {
       "surface": "והיו",
@@ -57,13 +58,13 @@
     },
     {
       "surface": "באמת",
-      "gloss": "bi rastî"
+      "gloss": "di rastiyê de"
     },
     {
       "surface": "ובצדקה",
-      "gloss": "û bi rastdariyê"
+      "gloss": "û di rastdariyê de"
     }
   ],
-  "timestamp": "2026-08-30T05:08:13.782697385Z",
+  "timestamp": "2026-08-30T07:34:03.219480889Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 12,
-  "translation": "Çima tu ⟨את⟩ peyva Yahwe biçûk kirî, ku tu xerabî di çavên wî de bikî? Ûrîya Hîtî ⟨את⟩ bi şûr danî, û ⟨את⟩ jina wî ji xwe re birî ji bo jinê, û ⟨את⟩ ⟨אתו⟩ wî bi şûrê zarokên Emûn kuştî.",
+  "translation": "Çima peyva Yahwe bi serê xwe avêt, ku çewtiyê di çavên wî de bikî? ⟨את⟩ Ûrîyahê Hîtî bi şûr da kuştin, û ⟨את⟩ jina wî ji bo xwe wek jî girt, û ⟨את⟩ wî bi şûrê kûrên Emmonê kuşt.",
   "tokens": [
     {
       "surface": "מדוע",
-      "gloss": "Çima"
+      "gloss": "çima"
     },
     {
       "surface": "בזית",
-      "gloss": "tu biçûk kirî"
+      "gloss": "bi serê xwe avêt"
     },
     {
       "surface": "את",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ku tu bikî"
+      "gloss": "ku bikî"
     },
     {
       "surface": "הרע",
-      "gloss": "xerabî"
+      "gloss": "çewtiyê"
     },
     {
       "surface": "בעינו",
@@ -43,11 +43,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ûrîya Hîtî"
+      "marks": "Ûrîyahê Hîtî"
     },
     {
       "surface": "אוריה",
-      "gloss": "Ûrîya"
+      "gloss": "Ûrîyah"
     },
     {
       "surface": "החתי",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "הכית",
-      "gloss": "danî"
+      "gloss": "da kuştin"
     },
     {
       "surface": "בחרב",
@@ -72,24 +72,24 @@
     },
     {
       "surface": "לקחת",
-      "gloss": "birî"
+      "gloss": "girt"
     },
     {
       "surface": "לך",
-      "gloss": "ji xwe re"
+      "gloss": "ji bo xwe"
     },
     {
       "surface": "לאשה",
-      "gloss": "ji bo jinê"
+      "gloss": "wek jî"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "wî"
     },
     {
       "surface": "הרגת",
-      "gloss": "kuştî"
+      "gloss": "kuşt"
     },
     {
       "surface": "בחרב",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "zarokên"
+      "gloss": "kûrên"
     },
     {
       "surface": "עמון",
-      "gloss": "Emûn"
+      "gloss": "Emmonê"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.814579040Z",
+  "timestamp": "2026-08-30T07:30:40.032230475Z",
   "model": "glm-5.3"
 }

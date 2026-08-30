@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 105,
-  "translation": "Û birçîtî li ser ⟨⟨ה⟩⟩ erdê bang kir, tevî darikê nanê şikand.",
+  "translation": "Û Wî birîna (xiyariyê) gazî kir ser erdê; tîrekê nanê bi tevahî şikand.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Û bang kir"
+      "gloss": "û gazî kir"
     },
     {
       "surface": "רעב",
-      "gloss": "birçîtî"
+      "gloss": "birîna (xiyariyê)"
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "ser"
     },
     {
       "surface": "הארץ",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "tevî"
+      "gloss": "bi tevahî"
     },
     {
       "surface": "מטה",
-      "gloss": "darikê"
+      "gloss": "tîrekê"
     },
     {
       "surface": "לחם",
@@ -40,6 +40,6 @@
       "gloss": "şikand"
     }
   ],
-  "timestamp": "2026-08-30T05:32:10.128697971Z",
+  "timestamp": "2026-08-30T07:35:05.159623709Z",
   "model": "glm-5.3"
 }

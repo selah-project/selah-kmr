@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 140,
-  "translation": "Serbilav veşartin ⟨⟨פח⟩⟩ekê ji bo min û bend, tor li aliyê rê belav kirin; kêmîşan danîn ji bo min. Selah.",
+  "translation": "Serbilav veşartine torekê ji bo min, û xencir belav kirin tor li beriya rêyê; talan danîn ji bo min. Selah.",
   "tokens": [
     {
       "surface": "טמנו",
-      "gloss": "veşartin"
+      "gloss": "veşartine"
     },
     {
       "surface": "גאים",
-      "gloss": "Serbilav"
+      "gloss": "serbilav"
     },
     {
       "surface": "פח",
-      "gloss": "kêmîşek"
+      "gloss": "torekê"
     },
     {
       "surface": "לי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וחבלים",
-      "gloss": "û bend"
+      "gloss": "û xencir"
     },
     {
       "surface": "פרשו",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ליד",
-      "gloss": "li aliyê"
+      "gloss": "li beriya"
     },
     {
       "surface": "מעגל",
-      "gloss": "rê"
+      "gloss": "rêyê"
     },
     {
       "surface": "מקשים",
-      "gloss": "kêmîşan"
+      "gloss": "talan"
     },
     {
       "surface": "שתו",
@@ -60,6 +60,6 @@
       "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-08-30T06:58:10.558052364Z",
+  "timestamp": "2026-08-30T07:35:18.349200894Z",
   "model": "glm-5.3"
 }

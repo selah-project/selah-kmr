@@ -5,32 +5,28 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 119,
-  "translation": "Bi çi ⟨את⟩ ciwanek ⟨את⟩ rêya xwe paqij bike? Bi parastina wê li gorî peyva te.",
+  "translation": "Bi çawa ciwanekî rêya xwe paqij dike? Bi parastina ⟨את⟩ rêya xwe li gorî peyvera te.",
   "tokens": [
     {
       "surface": "במה",
-      "gloss": "bi çi"
-    },
-    {
-      "surface": "יזזה",
-      "gloss": ""
+      "gloss": "bi çawa"
     },
     {
       "surface": "יזכה",
-      "gloss": "paqij bike"
+      "gloss": "paqij dike"
     },
     {
       "surface": "נער",
-      "gloss": "⟨את⟩ ciwanek"
+      "gloss": "ciwanekî"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rêya wî"
+      "marks": "rêya xwe"
     },
     {
       "surface": "ארחו",
-      "gloss": "rêya wî"
+      "gloss": "rêya xwe"
     },
     {
       "surface": "לשמר",
@@ -38,9 +34,9 @@
     },
     {
       "surface": "כדברך",
-      "gloss": "li gorî peyva te"
+      "gloss": "li gorî peyvera te"
     }
   ],
-  "timestamp": "2026-08-30T05:34:47.246989344Z",
+  "timestamp": "2026-08-30T07:22:39.070506092Z",
   "model": "glm-5.3"
 }

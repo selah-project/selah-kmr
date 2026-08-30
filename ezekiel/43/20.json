@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 43,
-  "translation": "Û tu yê ji xwîna wê hildin û bidî ser çar qulikên wê û li ser çar qonçên qundirê û li ser sinorê dora wê; û tu yê ⟨אותו⟩ wê paqij bikî û ji bo wê kefaretê çê bikî.",
+  "translation": "Û tu ji xwîna wê digirî û didî li ser çar qotên wê û li ser çar goşeyên rûniştînê û li ser tixûbê dora wê — wê ⟨את⟩ pakij dikî û wê dalî dikî.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "Û tu yê hildin"
+      "gloss": "û digirî"
     },
     {
       "surface": "מדמו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ונתתה",
-      "gloss": "û bidî"
+      "gloss": "û didî"
     },
     {
       "surface": "על",
-      "gloss": "ser"
+      "gloss": "li ser"
     },
     {
       "surface": "ארבע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "קרנתיו",
-      "gloss": "qulikên wê"
+      "gloss": "qotên wê"
     },
     {
       "surface": "ואל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "פנות",
-      "gloss": "qonçên"
+      "gloss": "goşeyên"
     },
     {
       "surface": "העזרה",
-      "gloss": "qundirê"
+      "gloss": "rûniştînê"
     },
     {
       "surface": "ואל",
@@ -53,26 +53,26 @@
     },
     {
       "surface": "הגבול",
-      "gloss": "sinorê"
+      "gloss": "tixûbê"
     },
     {
       "surface": "סביב",
-      "gloss": "dora wê"
+      "gloss": "dora"
     },
     {
       "surface": "וחטאת",
-      "gloss": "tu yê wê paqij bikî"
+      "gloss": "pakij dikî"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "ji bo wê kefaretê çê bikî"
+      "marks": "wê (mihrêb)"
     },
     {
       "surface": "וכפרתהו",
-      "gloss": "ji bo wê kefaretê çê bikî"
+      "gloss": "û wê dalî dikî"
     }
   ],
-  "timestamp": "2026-08-30T04:00:48.632217184Z",
+  "timestamp": "2026-08-30T07:34:11.202825892Z",
   "model": "glm-5.3"
 }

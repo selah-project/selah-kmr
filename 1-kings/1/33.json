@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û şah jê re got: Bi xwe re ⟨את⟩ xulamên axayê xwe bigirin, û ⟨את⟩ Şelomo kurê min li ser çêrê yê min siwar bikin, û ⟨את⟩ ⟨אתו⟩ wî bixin Gîhon.",
+  "translation": "Û şah ji wan re got: \"Bi xwe re ⟨את⟩ xulamên Adonayê xwe bigirin, û ⟨את⟩ Şelomo kûrê min li ser kerê min siwar bikin, û ⟨את⟩ wî dakinin heta Gîhon.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "û şah got"
+      "gloss": "got"
     },
     {
       "surface": "המלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "jê re"
+      "gloss": "ji wan re"
     },
     {
       "surface": "קחו",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "xulamên axayê xwe"
+      "marks": "xulamên"
     },
     {
       "surface": "עבדי",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "אדניכם",
-      "gloss": "axayê xwe"
+      "gloss": "Adonayê xwe"
     },
     {
       "surface": "והרכבתם",
-      "gloss": "û siwar bikin"
+      "gloss": "siwar bikin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Şelomo kurê min"
+      "marks": "Şelomo"
     },
     {
       "surface": "שלמה",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "kurê min"
+      "gloss": "kûrê min"
     },
     {
       "surface": "על",
@@ -63,34 +63,33 @@
     },
     {
       "surface": "הפרדה",
-      "gloss": "çêrê"
+      "gloss": "kerê min"
     },
     {
       "surface": "אשר",
-      "gloss": "yê"
+      "gloss": "ku"
     },
     {
       "surface": "לי",
-      "gloss": "min"
+      "gloss": "ya min e"
     },
     {
       "surface": "והורדתם",
-      "gloss": "û bixin"
+      "gloss": "dakinin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî"
+      "gloss": "⟨את⟩ wî"
     },
     {
       "surface": "אל",
-      "gloss": "bixin"
+      "gloss": "heta"
     },
     {
       "surface": "גחון",
       "gloss": "Gîhon"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.857543567Z",
+  "timestamp": "2026-08-30T07:31:03.812317420Z",
   "model": "glm-5.3"
 }

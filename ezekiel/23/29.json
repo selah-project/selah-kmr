@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Ew bi dijmintî ⟨את⟩ ⟨אותך⟩ bi te re davêjin, û hemû xebata te digirin, û te tazî û bêalav dihêlin, û eşkere dibe eşkerebûna zînayiya te, û fesadiya te û zînayiyên te.",
+  "translation": "Ew ê bi nefret ⟨את⟩ te re bibin, hemû xebata te yê digirin, te tazî û bêberdest dihêlin, û eşkere dibe çewtiya zînatiyên te, êrîşiya te û zînatiyên te.",
   "tokens": [
     {
       "surface": "ועשו",
-      "gloss": "davêjin"
+      "gloss": "bibin bi te re"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ⟨אותך⟩",
-      "marks": "bi te re (bi dijmintî)"
+      "gloss": "⟨את⟩",
+      "marks": "te"
     },
     {
       "surface": "בשנאה",
-      "gloss": "bi dijmintî"
+      "gloss": "bi nefret"
     },
     {
       "surface": "ולקחו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ועזבוך",
-      "gloss": "dihêlin"
+      "gloss": "dihêlin te"
     },
     {
       "surface": "עירם",
@@ -42,29 +42,29 @@
     },
     {
       "surface": "ועריה",
-      "gloss": "bêalav"
+      "gloss": "û bêberdest"
     },
     {
       "surface": "ונגלה",
-      "gloss": "eşkere dibe"
+      "gloss": "û eşkere dibe"
     },
     {
       "surface": "ערות",
-      "gloss": "eşkerebûn"
+      "gloss": "çewtiya"
     },
     {
       "surface": "זנוניך",
-      "gloss": "zînayiya te"
+      "gloss": "zînatiyên te"
     },
     {
       "surface": "וזמתך",
-      "gloss": "fesadiya te"
+      "gloss": "êrîşiya te"
     },
     {
       "surface": "ותזנותיך",
-      "gloss": "zînayiyên te"
+      "gloss": "zînatiyên te"
     }
   ],
-  "timestamp": "2026-08-30T03:52:04.581578776Z",
+  "timestamp": "2026-08-30T07:33:40.381144606Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":16,"ref":"exodus 23:16","book":"exodus","lang":"kmr","chapter":23,"translation":"Û cejnê Hasatê — yekemîn fêkiyên keda te, ku tu di zeviyê de diçînî; û cejnê Komkirinê — di derketina ⟨the⟩ salê de, dema tu ⟨את⟩ keda xwe ji zeviyê dicivînî.","tokens":[{"surface":"וחג","gloss":"û cejnê"},{"surface":"הקציר","gloss":"Hasatê"},{"surface":"בכורי","gloss":"yekemîn fêkiyên"},{"surface":"מעשיך","gloss":"keda te"},{"surface":"אשר","gloss":"ku"},{"surface":"תזרע","gloss":"tu diçînî"},{"surface":"בשדה","gloss":"di zeviyê de"},{"surface":"וחג","gloss":"û cejnê"},{"surface":"האסף","gloss":"Komkirinê"},{"surface":"בצאת","gloss":"di derketina"},{"surface":"השנה","gloss":"salê de"},{"surface":"באספך","gloss":"dema tu dicivînî"},{"surface":"את","gloss":"⟨את⟩","marks":"keda xwe"},{"surface":"מעשיך","gloss":"keda xwe"},{"surface":"מן","gloss":"ji"},{"surface":"השדה","gloss":"zeviyê"}],"timestamp":"2026-08-29T18:11:47.721499348Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û cejna danînê, yêşîlên pêşîn ên keda te, ku tu di zeviyê de diçînî; û cejna komkirinê, di derketina salê de, gava tu ⟨את⟩ keda xwe ji zeviyê dicivînî.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "û cejna"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "danînê"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "yêşîlên pêşîn"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "keda te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "tu diçînî"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "û cejna"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "komkirinê"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "di derketina"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "salê de"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "gava tu dicivînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keda xwe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "keda xwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    }
+  ],
+  "timestamp": "2026-08-30T07:26:00.737559849Z",
+  "model": "glm-5.3"
+}

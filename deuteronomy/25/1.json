@@ -5,35 +5,35 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 25,
-  "translation": "Dema ku navbera mêran dawa hebe û ew werin ber ⟨⟨the⟩⟩ darizandinê, were darizandin, û mafdar bê mafdayîkirin û gunehkar bê gunehkirin ⟨את⟩ yê mafdar û ⟨את⟩ yê gunehkar.",
+  "translation": "Ger ku di navbera mêran de nîqaş çê bibe û ew werin ba darizandinê û wan bidarizînin, wê ⟨את⟩ yê rastdar rast derbar bikin û ⟨את⟩ yê gunehkar gunehkar derbar bikin.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "dema ku"
+      "gloss": "ger"
     },
     {
       "surface": "יהיה",
-      "gloss": "hebe"
+      "gloss": "çê bibe"
     },
     {
       "surface": "ריב",
-      "gloss": "dawa"
+      "gloss": "nîqaş"
     },
     {
       "surface": "בין",
-      "gloss": "navbera"
+      "gloss": "di navbera"
     },
     {
       "surface": "אנשים",
-      "gloss": "mêran"
+      "gloss": "mêran de"
     },
     {
       "surface": "ונגשו",
-      "gloss": "werin"
+      "gloss": "û ew werin"
     },
     {
       "surface": "אל",
-      "gloss": "ber"
+      "gloss": "ba"
     },
     {
       "surface": "המשפט",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "ושפטום",
-      "gloss": "were darizandin"
+      "gloss": "û wan bidarizînin"
     },
     {
       "surface": "והצדיקו",
-      "gloss": "bê mafdayîkirin"
+      "gloss": "rast derbar bikin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yê mafdar"
+      "marks": "yê rastdar"
     },
     {
       "surface": "הצדיק",
-      "gloss": "yê mafdar"
+      "gloss": "yê rastdar"
     },
     {
       "surface": "והרשיעו",
-      "gloss": "bê gunehkirin"
+      "gloss": "gunehkar derbar bikin"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "yê gunehkar"
     }
   ],
-  "timestamp": "2026-08-29T19:08:27.276676864Z",
+  "timestamp": "2026-08-30T07:28:34.139492823Z",
   "model": "glm-5.3"
 }

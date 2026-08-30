@@ -5,7 +5,7 @@
   "book": "song-of-songs",
   "lang": "kmr",
   "chapter": 5,
-  "translation": "Ez di xew de me, lê dilê min şiyar e. Dengê yê ezîzê min dide ber derî: Vekî ji bo min, xwîşka min, hevala min, kevra min, paqijeya min — ji ber ku serê min bi şîbijê tije ye, gurzanên min bi tavilên şevê.",
+  "translation": "Ez di xew de me, lê dilê min ⟨xuya ye⟩; dengê evîndarê min li deriyê dixe: «Derî li min veke, xûşka min, hevala min, kevoka min, ya bêkêmasî; ji ber ku serê min ji cemedê tijî bûye û gîsîyên min ji dripên şevê tijî bûne.»",
   "tokens": [
     {
       "surface": "אני",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "ער",
-      "gloss": "şiyar e"
+      "gloss": "xuya ye"
     },
     {
       "surface": "קול",
-      "gloss": "Dengê"
+      "gloss": "dengê"
     },
     {
       "surface": "דודי",
-      "gloss": "yê ezîzê min"
+      "gloss": "evîndarê min"
     },
     {
       "surface": "דופק",
-      "gloss": "dide ber derî"
+      "gloss": "li deriyê dixe"
     },
     {
       "surface": "פתחי",
-      "gloss": "Vekî"
+      "gloss": "Derî li min veke"
     },
     {
       "surface": "לי",
-      "gloss": "ji bo min"
+      "gloss": "li min"
     },
     {
       "surface": "אחתי",
-      "gloss": "xwîşka min"
+      "gloss": "xûşka min"
     },
     {
       "surface": "רעיתי",
@@ -53,41 +53,37 @@
     },
     {
       "surface": "יונתי",
-      "gloss": "kevra min"
+      "gloss": "kevoka min"
     },
     {
       "surface": "תמתי",
-      "gloss": "paqijeya min"
+      "gloss": "ya bêkêmasî"
     },
     {
-      "surface": "ש",
-      "gloss": "ji ber ku"
-    },
-    {
-      "surface": "ראשי",
-      "gloss": "serê min"
+      "surface": "שראשי",
+      "gloss": "ji ber ku serê min"
     },
     {
       "surface": "נמלא",
-      "gloss": "tije ye"
+      "gloss": "tijî bûye"
     },
     {
       "surface": "טל",
-      "gloss": "şîbijê"
+      "gloss": "ji cemedê"
     },
     {
       "surface": "קוצותי",
-      "gloss": "gurzanên min"
+      "gloss": "gîsîyên min"
     },
     {
       "surface": "רסיסי",
-      "gloss": "tavilên"
+      "gloss": "ji dripên"
     },
     {
       "surface": "לילה",
       "gloss": "şevê"
     }
   ],
-  "timestamp": "2026-08-30T06:04:11.064759311Z",
+  "timestamp": "2026-08-30T07:23:09.082767988Z",
   "model": "glm-5.3"
 }

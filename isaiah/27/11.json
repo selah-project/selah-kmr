@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 27,
-  "translation": "Dema hasila wê ziwa dibe, tê perçekirin; jin tên ⟨את⟩ ⟨אותה⟩ pê dişewitînin — ji ber ku ew qewmekî bê têgihîştin e; ji ber wê yekê Çêkerê wî dilovanî nake û Dirustkerê wî kerem nade wî.",
+  "translation": "Di ziwa bûna şitên wê de ew tên şikandin; jin tên û ⟨את⟩ wê dixînin agir; ji ber ku ew neteweyeke bê têgîştin e, ji ber wê yê ku çê kir ⟨ew⟩ dilovanî nake, û yê ku afirand ⟨ew⟩ nade kerem.",
   "tokens": [
     {
       "surface": "ביבש",
-      "gloss": "dema ziwa dibe"
+      "gloss": "di ziwa bûna"
     },
     {
       "surface": "קצירה",
-      "gloss": "hasila wê"
+      "gloss": "şitên wê"
     },
     {
       "surface": "תשברנה",
-      "gloss": "tê perçekirin"
+      "gloss": "tên şikandin"
     },
     {
       "surface": "נשים",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "מאירות",
-      "gloss": "pê dişewitînin"
+      "gloss": "dixînin agir"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨אותה⟩",
-      "marks": "wê (darê\/coma wê)"
+      "gloss": "⟨את⟩",
+      "marks": "wê"
     },
     {
       "surface": "כי",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "na"
+      "gloss": "nîne"
     },
     {
       "surface": "עם",
-      "gloss": "qewm"
+      "gloss": "netewe"
     },
     {
       "surface": "בינות",
-      "gloss": "têgihîştin"
+      "gloss": "têgîştin"
     },
     {
       "surface": "הוא",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "wê yekê"
+      "gloss": "wê"
     },
     {
       "surface": "לא",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "ירחמנו",
-      "gloss": "dilovanî dike"
+      "gloss": "dilovanî nake"
     },
     {
       "surface": "עשהו",
-      "gloss": "Çêkerê wî"
+      "gloss": "yê ku çê kir"
     },
     {
       "surface": "ויצרו",
-      "gloss": "û Dirustkerê wî"
+      "gloss": "û yê ku afirand"
     },
     {
       "surface": "לא",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "יחננו",
-      "gloss": "kerem dide wî"
+      "gloss": "nade kerem"
     }
   ],
-  "timestamp": "2026-08-29T20:35:26.710603690Z",
+  "timestamp": "2026-08-30T07:32:01.231845925Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 5,
-  "translation": "Û piştî ku ⟨אתו⟩ girtin û gerandin, destê Yahwe li ser bajarî bû — tevliheviyeke gelek mezin — û ew li ⟨את⟩ mêrên bajarî xist, ji biçûk ve heta mezin, û efl li wan derketin.",
+  "translation": "Û piştî ku ew ⟨את⟩ wê geriyandin, destê Yahwe li ser bajarê bû — tevliheviyeke pir mezin — û ⟨את⟩ mêrên bajarê li dar xist, ji biçûk heta mezin, û ofalim (girên) derketin ser wan.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Û qewimî"
+      "gloss": "Û bû"
     },
     {
       "surface": "אחרי",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "הסבו",
-      "gloss": "girtin û gerandin"
+      "gloss": "wê geriyandin"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "sandûqa (ew)"
+      "marks": "wê (sindûkê, geriyandî)"
     },
     {
       "surface": "ותהי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "li ser bajarî"
+      "gloss": "li ser bajarê"
     },
     {
       "surface": "מהומה",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "מאד",
-      "gloss": "gelek"
+      "gloss": "pir"
     },
     {
       "surface": "ויך",
-      "gloss": "xist"
+      "gloss": "li dar xist"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mêrên bajarî"
+      "marks": "mêrên bajarê"
     },
     {
       "surface": "אנשי",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "bajarî"
+      "gloss": "bajarê"
     },
     {
       "surface": "מקטן",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "להם",
-      "gloss": "li wan"
+      "gloss": "ser wan"
     },
     {
       "surface": "עפלים",
-      "gloss": "efl"
+      "gloss": "ofalim (girên)"
     }
   ],
-  "timestamp": "2026-08-29T19:37:23.813451089Z",
+  "timestamp": "2026-08-30T07:31:06.157019535Z",
   "model": "glm-5.3"
 }

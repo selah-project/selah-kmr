@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 4,
-  "translation": "Û ev Tora ⟨is⟩ ye, ku Moşe li ber kurên Îsraêlê danî.",
+  "translation": "Û ev ⟨ev e⟩ Tora ku Moşe li ber çavên zarokên Yisraêlê danî.",
   "tokens": [
     {
       "surface": "וזאת",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "לפני",
-      "gloss": "li ber"
+      "gloss": "li ber çavên"
     },
     {
       "surface": "בני",
-      "gloss": "kurên"
+      "gloss": "zarokên"
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Yisraêlê"
     }
   ],
-  "timestamp": "2026-08-30T03:32:17.017135572Z",
+  "timestamp": "2026-08-30T07:46:56.132094018Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "kmr",
   "chapter": 19,
-  "translation": "Û bi rastî heke ez çewt kiribe, çewtiya min ⟨את⟩ ⟨אתי⟩ bi min re dimîne.",
+  "translation": "Û her çend bi rastî jî min şaşîtî kiribe, şaşîtiya min bi min ⟨את⟩ ve dimîne.",
   "tokens": [
     {
       "surface": "ואף",
-      "gloss": "û"
+      "gloss": "û her çend jî"
     },
     {
       "surface": "אמנם",
@@ -17,12 +17,11 @@
     },
     {
       "surface": "שגיתי",
-      "gloss": "ez çewt kirim"
+      "gloss": "min şaşîtî kir"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨אתי⟩",
-      "marks": "bi min re"
+      "gloss": "⟨את⟩ bi min ve"
     },
     {
       "surface": "תלין",
@@ -30,9 +29,9 @@
     },
     {
       "surface": "משוגתי",
-      "gloss": "çewtiya min"
+      "gloss": "şaşîtiya min"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.839548896Z",
+  "timestamp": "2026-08-30T07:35:30.445826724Z",
   "model": "glm-5.3"
 }

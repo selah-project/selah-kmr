@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Ji ber vê, di ⟨the⟩ wê demê de, dema ku hemû gelan dengê korn, fîfîk, kîtaros, sabka, psanterîn û hemû corên muzîkê bihîstin, hemû gel, netewe û ziman ketin xwarê û ji pûtê zêrîn ku Nebukadnessar key bilind kiribû rêzê girtin.",
+  "translation": "Ji ber vê, di wê demê de, dema ku hemû gelan dengê kornê, pîpê, lûreyê, santûrê, pîsalterê û hemû corên mûzîkê bihîstin, hemû gel, netewe û ziman ketin û li pêş wê heykela zêrîn a ku Nebûkadnetsar, key, bilind kiribû segdî kirin.",
   "tokens": [
     {
       "surface": "כל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בה",
-      "gloss": "di"
+      "gloss": "di wê"
     },
     {
       "surface": "זמנא",
-      "gloss": "wê demê de"
+      "gloss": "demê de"
     },
     {
       "surface": "כדי",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "קרנא",
-      "gloss": "korn"
+      "gloss": "kornê"
     },
     {
       "surface": "משרוקיתא",
-      "gloss": "fîfîk"
+      "gloss": "pîpê"
     },
     {
       "surface": "קיתרס",
-      "gloss": "kîtaros"
+      "gloss": "lûreyê"
     },
     {
       "surface": "שבכא",
-      "gloss": "sabka"
+      "gloss": "santûrê"
     },
     {
       "surface": "פסנטרין",
-      "gloss": "psanterîn"
+      "gloss": "pîsalterê"
     },
     {
       "surface": "וכל",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "זמרא",
-      "gloss": "muzîkê"
+      "gloss": "mûzîkê"
     },
     {
       "surface": "נפלין",
-      "gloss": "ketin xwarê"
+      "gloss": "ketin"
     },
     {
       "surface": "כל",
@@ -101,11 +101,11 @@
     },
     {
       "surface": "סגדין",
-      "gloss": "rêzê girtin"
+      "gloss": "segdî kirin"
     },
     {
       "surface": "לצלם",
-      "gloss": "ji pûtê"
+      "gloss": "li pêş wê heykela"
     },
     {
       "surface": "דהבא",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "די",
-      "gloss": "ku"
+      "gloss": "a ku"
     },
     {
       "surface": "הקים",
@@ -121,13 +121,13 @@
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nebukadnessar"
+      "gloss": "Nebûkadnetsar"
     },
     {
       "surface": "מלכא",
       "gloss": "key"
     }
   ],
-  "timestamp": "2026-08-30T06:16:22.921786683Z",
+  "timestamp": "2026-08-30T07:35:50.918414674Z",
   "model": "glm-5.3"
 }

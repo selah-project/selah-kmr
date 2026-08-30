@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "kmr",
   "chapter": 25,
-  "translation": "Wê deriyê ⟨yê⟩ yekem ji bo Asaf derket, ji bo Yosef; Gedalyahu ⟨girt⟩ ya duyemîn — ew, birayên wî û kurên wî, dwanzdeh.",
+  "translation": "Êrîşa yekem derket ji bo Asaf, ji bo Yosef; a duyem ji bo Gedalyahu — ew bi xwe, birayên wî û kurên wî, duwazdeh bûn.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הגורל",
-      "gloss": "wê deriyê"
+      "gloss": "êrîş"
     },
     {
       "surface": "הראשון",
-      "gloss": "yê yekem"
+      "gloss": "yekem"
     },
     {
       "surface": "לאסף",
@@ -33,18 +33,14 @@
     },
     {
       "surface": "השני",
-      "gloss": "ya duyemîn"
+      "gloss": "a duyem"
     },
     {
       "surface": "הוא",
-      "gloss": "ew"
+      "gloss": "ew bi xwe"
     },
     {
-      "surface": "ויצא",
-      "gloss": ""
-    },
-    {
-      "surface": "ואחיו",
+      "surface": "וָאחיו",
       "gloss": "û birayên wî"
     },
     {
@@ -53,13 +49,13 @@
     },
     {
       "surface": "שנים",
-      "gloss": "dwanzdeh"
+      "gloss": "duwazdeh (du)"
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "duwazdeh (deh)"
     }
   ],
-  "timestamp": "2026-08-30T06:40:18.158421452Z",
+  "timestamp": "2026-08-30T07:22:55.573220550Z",
   "model": "glm-5.3"
 }

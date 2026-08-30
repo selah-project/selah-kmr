@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 34,
-  "translation": "Û ji bo hemû ⟨the⟩ destê hêzdar û hemû tirsê mezin yê ku Moşe li ber çavên hemû Yisraelê kiribû.",
+  "translation": "Û ji bo hemû destê hêzdar û ji bo hemû tirsê mezin ku Moşe (Mûsa) kir ber çavên hemû Îsraêlê",
   "tokens": [
     {
       "surface": "ולכל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yê ku"
+      "gloss": "ku"
     },
     {
       "surface": "עשה",
-      "gloss": "kiribû"
+      "gloss": "kir"
     },
     {
       "surface": "משה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "li ber çavên"
+      "gloss": "ber çavên"
     },
     {
       "surface": "כל",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Îsraêlê"
     }
   ],
-  "timestamp": "2026-08-29T19:14:41.101502976Z",
+  "timestamp": "2026-08-30T07:28:21.481368448Z",
   "model": "glm-5.3"
 }

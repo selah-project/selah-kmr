@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 4,
-  "translation": "Û îro bizane û vegere ser dilê xwe, ku Yahwe, ew bi xwe ⟨e⟩ Elohîm — di ezmanan de ji jor ve û li ser ⟨א⟩ erdê ji jêr ve; tu yê din nîne.",
+  "translation": "Û îro tu dizanî û vedigerînî ser dilê xwe, ku Yahwe ⟨⟨ew⟩⟩ Elohîm e — di ezmanan de ji jor ve û li ser erdê ji jêr ve — tu ⟨yê⟩ din nîne.",
   "tokens": [
     {
       "surface": "וידעת",
-      "gloss": "û bizane"
+      "gloss": "û tu dizanî"
     },
     {
       "surface": "היום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והשבת",
-      "gloss": "û vegere"
+      "gloss": "û vedigerînî"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ew bi xwe"
+      "gloss": "ew"
     },
     {
       "surface": "האלהים",
@@ -72,6 +72,6 @@
       "gloss": "tu yê din"
     }
   ],
-  "timestamp": "2026-08-29T18:59:51.794969831Z",
+  "timestamp": "2026-08-30T07:27:47.034683686Z",
   "model": "glm-5.3"
 }

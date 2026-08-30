@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "kmr",
   "chapter": 14,
-  "translation": "Û çû û ji dêûbavê xwe re got: «Jinekê li Tîmnatê dîtim, ji keçên Fîlîstiyan; û niha ⟨אותה⟩ ji bo min bistînin bibe jin.»",
+  "translation": "Hat û ji bavê xwe û diya xwe re ragihand û got: \"Min li Tîmnatayê jinek dît, ji keçên Filistîyan; êdî ⟨את⟩ wê ji bo min bistînin ji bo jinê.\"",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "çû"
+      "gloss": "hat"
     },
     {
       "surface": "ויגד",
-      "gloss": "got"
+      "gloss": "ragihand"
     },
     {
       "surface": "לאביו",
-      "gloss": "ji dêûbavê xwe re"
+      "gloss": "ji bavê xwe re"
     },
     {
-      "surface": "ולאמו",
-      "gloss": ""
+      "surface": "וולאמו",
+      "gloss": "ji diya xwe re"
     },
     {
       "surface": "ויאמר",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אשה",
-      "gloss": "jinekê"
+      "gloss": "jinek"
     },
     {
       "surface": "ראיתי",
-      "gloss": "dîtim"
+      "gloss": "min dît"
     },
     {
       "surface": "בתמנתה",
-      "gloss": "li Tîmnatê"
+      "gloss": "li Tîmnatayê"
     },
     {
       "surface": "מבנות",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Fîlîstiyan"
+      "gloss": "Filistîyan"
     },
     {
       "surface": "ועתה",
-      "gloss": "û niha"
+      "gloss": "êdî"
     },
     {
       "surface": "קחו",
@@ -58,7 +58,7 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "wê (jina ku ji bo wî tê girtin)"
+      "marks": "wê"
     },
     {
       "surface": "לי",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "לאשה",
-      "gloss": "bibe jin"
+      "gloss": "ji bo jinê"
     }
   ],
-  "timestamp": "2026-08-29T19:30:49.636307497Z",
+  "timestamp": "2026-08-30T07:30:07.037479676Z",
   "model": "glm-5.3"
 }

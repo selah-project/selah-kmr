@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Û av diçûn û kêm dibûn heta meha dehem; di ⟨the⟩ dehemîn meh de, di roja yekem a meh de, serê çiyan xuya bûn.",
+  "translation": "Û av her diçûn û kêm dibûn heta meha dehemîn; di meha dehemîn, di yekê de mehê, serê çiyan xuya bûn.",
   "tokens": [
     {
       "surface": "והמים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וחסור",
-      "gloss": "û kêm dibûn"
+      "gloss": "Û kêm dibûn"
     },
     {
       "surface": "עד",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "העשירי",
-      "gloss": "dehem"
+      "gloss": "dehemîn"
     },
     {
       "surface": "בעשירי",
-      "gloss": "di dehemîn"
+      "gloss": "di meha dehemîn"
     },
     {
       "surface": "באחד",
-      "gloss": "di roja yekem"
+      "gloss": "di yekê de"
     },
     {
       "surface": "לחדש",
-      "gloss": "a meh"
+      "gloss": "mehê"
     },
     {
       "surface": "נראו",
@@ -60,6 +60,6 @@
       "gloss": "çiyan"
     }
   ],
-  "timestamp": "2026-08-29T17:36:07.633155310Z",
+  "timestamp": "2026-08-30T07:24:46.742660804Z",
   "model": "glm-5.3"
 }

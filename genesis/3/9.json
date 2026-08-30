@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Û Yahwe Elohîm gazî ⟨the⟩ mirov kir û ji wî re got: «Tu li ku derê yî?»",
+  "translation": "Û Yahwe Elohîm gazî ⟨⟨את⟩⟩-'…-nan? — ne; gazî Adem kir û ji wî re got: «Li ku derê yî?»",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "gazî kir"
+      "gloss": "û gazî kir"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ji"
+      "gloss": "bal"
     },
     {
       "surface": "האדם",
-      "gloss": "mirov"
+      "gloss": "Adem"
     },
     {
       "surface": "ויאמר",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "איכה",
-      "gloss": "li ku derê"
+      "gloss": "li ku derê yî?"
     }
   ],
-  "timestamp": "2026-08-29T17:33:20.938286425Z",
+  "timestamp": "2026-08-30T07:46:40.536204709Z",
   "model": "glm-5.3"
 }

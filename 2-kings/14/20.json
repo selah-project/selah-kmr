@@ -5,16 +5,16 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 14,
-  "translation": "Û wî ⟨את⟩ ⟨אתו⟩ hilda ser hespan, ew hat veşartin li Yeruşalayimê bi bavên xwe re, li bajarê Dawid.",
+  "translation": "Wî ⟨את⟩ wî danîn ser hespan, û ew hat veşartin li Yeruşalayimê, ligel bavên xwe, di bajaran Dawid de.",
   "tokens": [
     {
       "surface": "וישאו",
-      "gloss": "hilda"
+      "gloss": "danîn ser hespan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî"
+      "gloss": "⟨את⟩",
+      "marks": "wî (Amatsya)"
     },
     {
       "surface": "על",
@@ -34,21 +34,21 @@
     },
     {
       "surface": "עם",
-      "gloss": "bi... re"
+      "gloss": "ligel"
     },
     {
       "surface": "אבתיו",
-      "gloss": "bavên xwe"
+      "gloss": "bavên wî"
     },
     {
       "surface": "בעיר",
-      "gloss": "li bajarê"
+      "gloss": "di bajar de"
     },
     {
       "surface": "דוד",
       "gloss": "Dawid"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.850980265Z",
+  "timestamp": "2026-08-30T07:32:27.083546886Z",
   "model": "glm-5.3"
 }

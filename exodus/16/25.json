@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 16,
-  "translation": "Û Moşe got: “Îro wê bixwin, ji ber ku roja îro Şabat ji bo Yahwe ye; îro hûn ê wê di zeviyê de nebînin.”",
+  "translation": "Û Moşe got: \"Wê îro bixwin, ji ber ku îro şabata Yahwe ye; îro ewî di zeviyê de nabînin.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "got"
+      "gloss": "û got"
     },
     {
       "surface": "משה",
@@ -29,15 +29,11 @@
     },
     {
       "surface": "שבת",
-      "gloss": "Şabat"
-    },
-    {
-      "surface": "גם",
-      "gloss": ""
+      "gloss": "şabat"
     },
     {
       "surface": "היום",
-      "gloss": "roja îro"
+      "gloss": "îro"
     },
     {
       "surface": "ליהוה",
@@ -49,17 +45,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "na"
     },
     {
       "surface": "תמצאהו",
-      "gloss": "ê wê bibînin"
+      "gloss": "ewî nabînin"
     },
     {
       "surface": "בשדה",
       "gloss": "di zeviyê de"
     }
   ],
-  "timestamp": "2026-08-29T18:08:35.315080749Z",
+  "timestamp": "2026-08-30T07:22:09.658649144Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 34,
-  "translation": "Û hatin cem Hîlqîyahu kahînê ⟨⟨the⟩⟩ mezin, û diravê ku hatibû anîn male Elohîm — ku Lewîyên parêzvanên deriyê kom kiribûn ji destê Menaşşe û Efrayim û ji hemû mayîna Îsraêl û ji hemû Yehûda û Binyamîn û ji niştecihên Yeruşalayim — ⟨את⟩ dan.",
+  "translation": "Ên hatin bal Hilqiya kohenê mezin û ⟨את⟩ dravê ku hatibû anîn male Elohîm — ku Lewî, parêzvanên derî, wê ji destê Menashe û Efraym û ji hemû mayîna Yisraêl û ji hemû Yehuda û Binyamin û niştecihên Yeruşalayim kom kiribûn — dan.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "hatin cem"
+      "gloss": "ên hatin"
     },
     {
       "surface": "אל",
-      "gloss": "cem"
+      "gloss": "bal"
     },
     {
       "surface": "חלקיהו",
-      "gloss": "Hîlqîyahu"
+      "gloss": "Hilqiya"
     },
     {
       "surface": "הכהן",
-      "gloss": "kahîn"
+      "gloss": "kohenê"
     },
     {
       "surface": "הגדול",
@@ -34,19 +34,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dirav"
+      "marks": "dravê"
     },
     {
       "surface": "הכסף",
-      "gloss": "dirav"
+      "gloss": "dravê"
     },
     {
       "surface": "המובא",
-      "gloss": "hatibû anîn"
+      "gloss": "ku hatibû anîn"
     },
     {
       "surface": "בית",
-      "gloss": "mal"
+      "gloss": "male"
     },
     {
       "surface": "אלהים",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "Lewîyên"
+      "gloss": "Lewî"
     },
     {
       "surface": "שמרי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "הסף",
-      "gloss": "deriyê"
+      "gloss": "derî"
     },
     {
       "surface": "מיד",
@@ -78,14 +78,14 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menaşşe"
+      "gloss": "Menashe"
     },
     {
       "surface": "ואפרים",
-      "gloss": "û Efrayim"
+      "gloss": "û Efraym"
     },
     {
-      "surface": "ומכל",
+      "surface": "ו מכל",
       "gloss": "û ji hemû"
     },
     {
@@ -94,19 +94,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Yisraêl"
     },
     {
-      "surface": "ומכל",
+      "surface": "ו מכל",
       "gloss": "û ji hemû"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehûda"
+      "gloss": "Yehuda"
     },
     {
-      "surface": "ובנימן",
-      "gloss": "û Binyamîn"
+      "surface": "ו בנימן",
+      "gloss": "û Binyamin"
     },
     {
       "surface": "וישבי",
@@ -117,6 +117,6 @@
       "gloss": "Yeruşalayim"
     }
   ],
-  "timestamp": "2026-08-30T06:56:01.990354283Z",
+  "timestamp": "2026-08-30T07:37:00.065530683Z",
   "model": "glm-5.3"
 }

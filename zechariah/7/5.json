@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "kmr",
   "chapter": 7,
-  "translation": "Ji hemû gelê ⟨⟨the⟩⟩ erdê û ji kohan re bêje, ku bêjin: Dema hûn di ⟨⟨the⟩⟩ pêncemîn û di ⟨⟨the⟩⟩ heftemîn de rojî girtin û şîn dan, û ev şêst û deh sal in — gelo hûn rojî ji bo min girtine, min?",
+  "translation": "Ji hemû gelî ⟨את⟩ erdê û ji kohnan re bêje ku bibêjin: Ma hûn di pêncemîn û di heftemîn de roza xwe girt û xemxwar — ⟨ev⟩ şêst û deh sal in — gelo roza xwe ji bo min girt, ez?",
   "tokens": [
     {
       "surface": "אמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "gelê"
+      "gloss": "gelî"
     },
     {
       "surface": "הארץ",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "kohan re"
+      "gloss": "kohnan re"
     },
     {
       "surface": "לאמר",
-      "gloss": "ku bêjin"
+      "gloss": "ku bibêjin"
     },
     {
       "surface": "כי",
-      "gloss": "dema"
+      "gloss": "Ma"
     },
     {
       "surface": "צמתם",
-      "gloss": "hûn rojî girtin"
+      "gloss": "roza xwe girt"
     },
     {
       "surface": "וספוד",
-      "gloss": "û şîn dan"
+      "gloss": "û xemxwar"
     },
     {
       "surface": "בחמישי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וזה",
-      "gloss": "û ev"
+      "gloss": "⟨ev⟩"
     },
     {
       "surface": "שבעים",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "הצום",
-      "gloss": "rojî"
+      "gloss": "roza xwe"
     },
     {
       "surface": "צמתני",
-      "gloss": "hûn ji bo min girtine"
+      "gloss": "ji bo min girt"
     },
     {
       "surface": "אני",
-      "gloss": "min"
+      "gloss": "ez"
     }
   ],
-  "timestamp": "2026-08-30T05:07:31.883316006Z",
+  "timestamp": "2026-08-30T07:47:42.423506806Z",
   "model": "glm-5.3"
 }

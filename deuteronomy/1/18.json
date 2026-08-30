@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û min di wê demê de ⟨אתכם⟩ ferman kir ⟨את⟩ hemû bûyerên ku hûn bikin.",
+  "translation": "Û di wê demê de ez ⟨את⟩ we şîret kirim li ser hemû bêjan ku hûn bikin.",
   "tokens": [
     {
       "surface": "ואצוה",
-      "gloss": "û min ferman kir"
+      "gloss": "û… şîret kirim"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "hûn"
+      "marks": "we"
     },
     {
       "surface": "בעת",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "wê"
+      "gloss": "wê (yê)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hemû bûyer"
+      "marks": "hemû bêjan"
     },
     {
       "surface": "כל",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "bûyeran"
+      "gloss": "bêjan"
     },
     {
       "surface": "אשר",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "תעשון",
-      "gloss": "bikin"
+      "gloss": "hûn bikin"
     }
   ],
-  "timestamp": "2026-08-29T18:57:37.796057050Z",
+  "timestamp": "2026-08-30T07:27:47.459974663Z",
   "model": "glm-5.3"
 }

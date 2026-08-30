@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Ne wiha ye ⟨the⟩ peyvan; ji ber ku mêrekî ji çiyayê Efrayimê — Şeba kurê Bîkrî navê wî — destê xwe hildaye li dijî ⟨the⟩ key, li dijî Dawid. Wî tenê bidin ⟨את⟩ wî û ez ê ji ⟨the⟩ bajêr derkevim. Û ⟨the⟩ jin ji Yôav re got: “Va, serê wî dê ji ⟨the⟩ dîwarê were avêtin bal te.”\n",
+  "translation": "\"Ne wisa nîne; ji ber ku mêrekî ji çiyayê Efrayimê — Şeba kurê Bîkrî navê wî ye — destê xwe hilda li ser key, li ser Dawid. Wî tenê bidin ⟨את⟩ min, êdî ez ji bajaran diçim.\" Û jinê ji Yôav re got: \"Va ye, serê wî dê ji ser benderê were avêtin bal te.\"",
   "tokens": [
     {
       "surface": "לא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "wiha"
+      "gloss": "wisa"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨the⟩ peyvan"
+      "gloss": "nîne"
     },
     {
       "surface": "כי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "נשא",
-      "gloss": "hildaye"
+      "gloss": "hilda"
     },
     {
       "surface": "ידו",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "במלך",
-      "gloss": "li dijî ⟨the⟩ key"
+      "gloss": "li ser key"
     },
     {
       "surface": "בדוד",
-      "gloss": "li dijî Dawid"
+      "gloss": "li ser Dawid"
     },
     {
       "surface": "תנו",
@@ -74,7 +74,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "wî"
+      "marks": "wî tenê"
     },
     {
       "surface": "לבדו",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ואלכה",
-      "gloss": "û ez ê derkevim"
+      "gloss": "êdî ez diçim"
     },
     {
       "surface": "מעל",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "⟨the⟩ bajêr"
+      "gloss": "bajaran"
     },
     {
       "surface": "ותאמר",
@@ -98,11 +98,11 @@
     },
     {
       "surface": "האשה",
-      "gloss": "⟨the⟩ jin"
+      "gloss": "jinê"
     },
     {
       "surface": "אל",
-      "gloss": "ji … re"
+      "gloss": "ji… re"
     },
     {
       "surface": "יואב",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Va"
+      "gloss": "va ye"
     },
     {
       "surface": "ראשו",
@@ -126,13 +126,13 @@
     },
     {
       "surface": "בעד",
-      "gloss": "ji"
+      "gloss": "ji ser"
     },
     {
       "surface": "החומה",
-      "gloss": "⟨the⟩ dîwarê"
+      "gloss": "benderê"
     }
   ],
-  "timestamp": "2026-08-29T19:58:24.960156589Z",
+  "timestamp": "2026-08-30T07:31:17.012937568Z",
   "model": "glm-5.3"
 }

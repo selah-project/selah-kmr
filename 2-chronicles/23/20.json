@@ -5,20 +5,20 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Û ⟨את⟩ serên sedan û ⟨את⟩ mezinan û ⟨את〕 serokên li gel gel û ⟨את⟩ hemû gelê welêt girt, û ⟨את⟩ key ji malê Yahwe daxist, û ew çûn nav deriyê jorîn ê mala key, û ⟨את⟩ key li ser textê keyaniyê rûnişandin.",
+  "translation": "Û wî ⟨את⟩ serkirdeyên sedan û ⟨את⟩ mezinan û ⟨את⟩ serwerên di nav gel de û ⟨את⟩ tevaya gelê welêt girt, û wî ⟨את⟩ padîşah ji mala Yahwe daxist, û ew ketin nav deriyê bilind ê mala padîşah, û wan ⟨את⟩ padîşah li ser textê padîşahiyê rûnişand.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "girt"
+      "gloss": "û wî girt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "serên sedan"
+      "marks": "serkirdeyên sedan"
     },
     {
       "surface": "שרי",
-      "gloss": "serên"
+      "gloss": "serkirdeyên"
     },
     {
       "surface": "המאות",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "û ⟨את⟩",
       "marks": "mezinan"
     },
     {
@@ -35,25 +35,25 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "serokên li gel gel"
+      "gloss": "û ⟨את⟩",
+      "marks": "serwerên"
     },
     {
       "surface": "המושלים",
-      "gloss": "serokên"
+      "gloss": "serwerên"
     },
     {
       "surface": "בעם",
-      "gloss": "li gel gel"
+      "gloss": "di nav gel de"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "hemû gelê welêt"
+      "gloss": "û ⟨את⟩",
+      "marks": "tevaya gelê welêt"
     },
     {
       "surface": "כל",
-      "gloss": "hemû"
+      "gloss": "tevaya"
     },
     {
       "surface": "עם",
@@ -65,20 +65,20 @@
     },
     {
       "surface": "ויורד",
-      "gloss": "daxist"
+      "gloss": "û wî daxist"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "key"
+      "marks": "padîşah"
     },
     {
       "surface": "המלך",
-      "gloss": "key"
+      "gloss": "padîşah"
     },
     {
       "surface": "מבית",
-      "gloss": "ji malê"
+      "gloss": "ji mala"
     },
     {
       "surface": "יהוה",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "çûn"
+      "gloss": "û ew ketin"
     },
     {
       "surface": "בתוך",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "העליון",
-      "gloss": "jorîn"
+      "gloss": "bilind"
     },
     {
       "surface": "בית",
@@ -106,20 +106,20 @@
     },
     {
       "surface": "המלך",
-      "gloss": "key"
+      "gloss": "padîşah"
     },
     {
       "surface": "ויושיבו",
-      "gloss": "rûnişandin"
+      "gloss": "û wan rûnişand"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "key"
+      "marks": "padîşah"
     },
     {
       "surface": "המלך",
-      "gloss": "key"
+      "gloss": "padîşah"
     },
     {
       "surface": "על",
@@ -131,9 +131,9 @@
     },
     {
       "surface": "הממלכה",
-      "gloss": "keyaniyê"
+      "gloss": "padîşahiyê"
     }
   ],
-  "timestamp": "2026-08-30T06:49:08.260721569Z",
+  "timestamp": "2026-08-30T07:36:59.329999920Z",
   "model": "glm-5.3"
 }

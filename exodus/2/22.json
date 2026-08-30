@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Û ew kurekî zayî, û ew ⟨את⟩ navê wî Gerşom lê kir, ji ber ku wî got: “Ez di welatê ⟨the⟩ biyaniyan de biyanî bûm.”",
+  "translation": "Û ew kurekî çêkir, û ew navê wî Gêrşom kir, ji ber ku got: «Ez biyanî bûm di welatekî biyanî de.»",
   "tokens": [
     {
       "surface": "ותלד",
-      "gloss": "zayî"
+      "gloss": "Û ew ... çêkir (kurekî zayî)"
     },
     {
       "surface": "בן",
-      "gloss": "kur"
+      "gloss": "kurekî"
     },
     {
       "surface": "ויקרא",
-      "gloss": "nav lê kir"
+      "gloss": "û ew ... navê wî kir (bi nav kir)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "navê wî"
+      "marks": "navê wî (şemô)"
     },
     {
       "surface": "שמו",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "גרשם",
-      "gloss": "Gerşom"
+      "gloss": "Gêrşom"
     },
     {
       "surface": "כי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "גר",
-      "gloss": "biyanî"
+      "gloss": "biyanî (mêvan-nehênî)"
     },
     {
       "surface": "הייתי",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "di welatî de"
+      "gloss": "di welatî de (erd)"
     },
     {
       "surface": "נכריה",
-      "gloss": "biyanî"
+      "gloss": "biyanî (yê ne-xuya)"
     }
   ],
-  "timestamp": "2026-08-29T18:01:38.091334147Z",
+  "timestamp": "2026-08-30T07:25:15.783569621Z",
   "model": "glm-5.3"
 }

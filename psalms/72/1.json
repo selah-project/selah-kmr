@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 72:1","book":"psalms","lang":"kmr","chapter":72,"translation":"Ji bo Şelomo. Elohîm, dadên xwe bide ⟨ה⟩ key, û rastiya xwe ji kurê key re.","tokens":[{"surface":"לשלמה","gloss":"Ji bo Şelomo"},{"surface":"אלהים","gloss":"Elohîm"},{"surface":"משפטיך","gloss":"dadên xwe"},{"surface":"למלך","gloss":"bide key"},{"surface":"תן","gloss":"bide"},{"surface":"וצדקתך","gloss":"û rastiya xwe"},{"surface":"לבן","gloss":"ji kurê"},{"surface":"מלך","gloss":"key"}],"timestamp":"2026-08-30T05:22:56.501652735Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Ji bo Şelomo. Elohîm, ⟨את⟩ hukmên xwe bide key, îtidala te jî bide kurê key.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Ji bo Şelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmên te"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bide key"
+    },
+    {
+      "surface": "תן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "îtidala te jî"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bide kurê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    }
+  ],
+  "timestamp": "2026-08-30T07:34:38.223743079Z",
+  "model": "glm-5.3"
+}

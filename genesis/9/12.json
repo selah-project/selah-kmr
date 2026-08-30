@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 9,
-  "translation": "Û Elohîm got: Ev nîşana ⟨ה⟩peymanê ye ku ez di navbera xwe û we de, û di navbera hemû canewerên zînde yên ⟨את⟩ bi we re re, didim — ji bo nifşên hertimî.",
+  "translation": "Û Elohîm got: Ev nîşana peymanê ye ku ez didim ⟨את⟩ navbera min û we, û navbera her canewiyê zînde ku bi we re ye, ji bo nifşên ⟨heta⟩ dawiyê.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Û ... got"
+      "gloss": "Û got"
     },
     {
       "surface": "אלהים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אות",
-      "gloss": "nîşana"
+      "gloss": "nîşan"
     },
     {
       "surface": "הברית",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "ביני",
-      "gloss": "di navbera min"
+      "gloss": "navbera min"
     },
     {
       "surface": "וביניכם",
-      "gloss": "û di navbera we"
+      "gloss": "û navbera we"
     },
     {
       "surface": "ובין",
-      "gloss": "û di navbera"
+      "gloss": "û navbera"
     },
     {
       "surface": "כל",
-      "gloss": "hemû"
+      "gloss": "her"
     },
     {
       "surface": "נפש",
-      "gloss": "canewerên"
+      "gloss": "canewiyê"
     },
     {
       "surface": "חיה",
@@ -69,7 +69,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ bi we re"
+      "gloss": "⟨את⟩ bi we re",
+      "marks": "bi we re"
     },
     {
       "surface": "לדרת",
@@ -77,9 +78,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "hertimî"
+      "gloss": "dawiyê"
     }
   ],
-  "timestamp": "2026-08-29T17:36:34.367015323Z",
+  "timestamp": "2026-08-30T07:24:36.675499020Z",
   "model": "glm-5.3"
 }

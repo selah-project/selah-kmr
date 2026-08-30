@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 27,
-  "translation": "Ev ⟨ה⟩ ferman in, ku Yahwe ferman da ⟨את⟩ Moşe, ji bo zarokên Yisraêl, li çiyayê Sînay.",
+  "translation": "Ev ferman in ku Yahwe li Moşe ferman kir ⟨את⟩ — ji bo zarokên Yisraêl — li çiyayê Sînay.",
   "tokens": [
     {
       "surface": "אלה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ferman da"
+      "gloss": "ferman kir"
     },
     {
       "surface": "יהוה",
@@ -57,6 +57,6 @@
       "gloss": "Sînay"
     }
   ],
-  "timestamp": "2026-08-29T18:36:52.490803329Z",
+  "timestamp": "2026-08-30T07:27:16.135508684Z",
   "model": "glm-5.3"
 }

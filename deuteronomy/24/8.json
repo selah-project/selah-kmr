@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 24,
-  "translation": "Bi nexweşiya sertûkî de hişyar be, ji bo ku pir biwestêre û hemû tiştê ku kahinên Levî ji te re fêr dikin bikî; мы bihurandin ji te re ferman kiriye, wusa bike.",
+  "translation": "Li dijî nexweşiya tsaraatê hişyar be — ji bo ku pir bi dîqetî biparêzî û ji bo ku bikî, li gorî hemû tiştên ku kohênên Levîyî ji ⟨את⟩ we re dersê didin; wekî ku min fermanî wan kirî, hûn biparêzin ji bo kirinê.",
   "tokens": [
     {
       "surface": "השמר",
@@ -13,65 +13,66 @@
     },
     {
       "surface": "בנגע",
-      "gloss": "bi nexweşiya"
+      "gloss": "li dijî nexweşiyê"
     },
     {
       "surface": "הצרעת",
-      "gloss": "sertûkî"
+      "gloss": "tsaraatê"
     },
     {
       "surface": "לשמר",
-      "gloss": "biwestêre"
+      "gloss": "ji bo parastinê"
     },
     {
       "surface": "מאד",
-      "gloss": "pir"
+      "gloss": "pir bi dîqetî"
     },
     {
       "surface": "ולעשות",
-      "gloss": "û … bikî"
+      "gloss": "û ji bo kirinê"
     },
     {
       "surface": "ככל",
-      "gloss": "hemû"
+      "gloss": "li gorî hemû tiştên"
     },
     {
       "surface": "אשר",
-      "gloss": "tiştê ku"
+      "gloss": "ku"
     },
     {
       "surface": "יורו",
-      "gloss": "fêr dikin"
+      "gloss": "dersê didin"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ji te re"
+      "gloss": "⟨את⟩",
+      "marks": "we"
     },
     {
       "surface": "הכהנים",
-      "gloss": "kahinên"
+      "gloss": "kohênên"
     },
     {
       "surface": "הלוים",
-      "gloss": "Levî"
+      "gloss": "Levîyî"
     },
     {
       "surface": "כאשר",
-      "gloss": "wusa"
+      "gloss": "wekî ku"
     },
     {
       "surface": "צויתם",
-      "gloss": "bihurandin ji te re ferman kiriye"
+      "gloss": "fermanî wan kirî"
     },
     {
       "surface": "תשמרו",
-      "gloss": "bike"
+      "gloss": "hûn biparêzin"
     },
     {
       "surface": "לעשות",
-      "gloss": "bikî"
+      "gloss": "ji bo kirinê"
     }
   ],
-  "timestamp": "2026-08-29T19:08:37.125591362Z",
+  "timestamp": "2026-08-30T07:28:43.355766987Z",
   "model": "glm-5.3"
 }

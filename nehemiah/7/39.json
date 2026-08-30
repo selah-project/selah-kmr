@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "kmr",
   "chapter": 7,
-  "translation": "Kohînan: zarokên Yedayayê, ji mala Yeşua, neh sed şêst û sê.",
+  "translation": "Cohenan: zarokên Yedʿya, ji mala Yeşûa, neh sed û şêst û sêzdeh — neh sed, heştê û sê.",
   "tokens": [
     {
       "surface": "הכהנים",
-      "gloss": "Kohînan"
+      "gloss": "Cohenan"
     },
     {
       "surface": "בני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ידעיה",
-      "gloss": "Yedayayê"
+      "gloss": "Yedʿya"
     },
     {
       "surface": "לבית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישוע",
-      "gloss": "Yeşua"
+      "gloss": "Yeşûa"
     },
     {
       "surface": "תשע",
@@ -37,9 +37,13 @@
     },
     {
       "surface": "שבעים",
-      "gloss": "şêst û sê"
+      "gloss": "heştê û sê"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-30T06:27:59.693984824Z",
+  "timestamp": "2026-08-30T07:22:45.316689360Z",
   "model": "glm-5.3"
 }

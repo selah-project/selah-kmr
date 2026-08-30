@@ -5,32 +5,32 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Bi bêhna rûmetê ez ê ⟨אתכם⟩ bi qencî qebûl bikim, dema ez ⟨אתכם⟩ ji nav gelan derxînim û ⟨אתכם⟩ ji nav welatan, ku hûn tê de hatine belavkirin, kom bikim; û ez ê di nav we de li ber çavên miletan pîroz bibim.",
+  "translation": "Bi bêhna xweş a aramî ez ê we qebûl bikim, dema ez ⟨את⟩ we ji nav gelan derdixim û ⟨את⟩ we ji welatên ku we tê de hate belavkirin kom dikim, û ez ê di we de li ber çavên neteweyan were pîzekirin.",
   "tokens": [
     {
       "surface": "בריח",
-      "gloss": "bi bêhna"
+      "gloss": "bi bêhn"
     },
     {
       "surface": "ניחח",
-      "gloss": "rûmetê"
+      "gloss": "xweş a aramî"
     },
     {
       "surface": "ארצה",
-      "gloss": "ez ê qebûl bikim"
+      "gloss": "qebûl dikim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ we",
+      "gloss": "⟨את⟩",
       "marks": "we"
     },
     {
       "surface": "בהוציאי",
-      "gloss": "dema ez derxînim"
+      "gloss": "dema derdixim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ we",
+      "gloss": "⟨את⟩",
       "marks": "we"
     },
     {
@@ -43,11 +43,11 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "û ez kom dikim"
+      "gloss": "û kom dikim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ we",
+      "gloss": "⟨את⟩",
       "marks": "we"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "surface": "הארצות",
-      "gloss": "nav welatan"
+      "gloss": "welatan"
     },
     {
       "surface": "אשר",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "נפצתם",
-      "gloss": "hûn hatine belavkirin"
+      "gloss": "we hate belavkirin"
     },
     {
       "surface": "בם",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "ונקדשתי",
-      "gloss": "û ez ê pîroz bibim"
+      "gloss": "were pîzekirin"
     },
     {
       "surface": "בכם",
-      "gloss": "di nav we de"
+      "gloss": "di we de"
     },
     {
       "surface": "לעיני",
@@ -84,9 +84,9 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "miletan"
+      "gloss": "neteweyan"
     }
   ],
-  "timestamp": "2026-08-30T03:50:38.801921811Z",
+  "timestamp": "2026-08-30T07:33:39.948506546Z",
   "model": "glm-5.3"
 }

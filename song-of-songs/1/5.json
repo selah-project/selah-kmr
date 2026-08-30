@@ -5,7 +5,7 @@
   "book": "song-of-songs",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Reş im û xweşik im, keçên Yeruşalayimê, wekî çadirên Qedaran, wekî perdeyên Şelomoyê.",
+  "translation": "Reş im û xweşik im, keçên Yeruşalayimê, wekî xanîneyên Qedar, wekî perdeyên Şelomo.",
   "tokens": [
     {
       "surface": "שחורה",
@@ -14,9 +14,6 @@
     {
       "surface": "אני",
       "gloss": "im"
-    },
-    {
-      "surface": " "
     },
     {
       "surface": "ונאוה",
@@ -32,11 +29,11 @@
     },
     {
       "surface": "כאהלי",
-      "gloss": "wekî çadirên"
+      "gloss": "wekî xanîneyên"
     },
     {
       "surface": "קדר",
-      "gloss": "Qedaran"
+      "gloss": "Qedar"
     },
     {
       "surface": "כיריעות",
@@ -44,9 +41,9 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Şelomoyê"
+      "gloss": "Şelomo"
     }
   ],
-  "timestamp": "2026-08-30T06:03:50.521511578Z",
+  "timestamp": "2026-08-30T07:23:00.799434848Z",
   "model": "glm-5.3"
 }

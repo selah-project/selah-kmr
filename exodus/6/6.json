@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "Ji ber wê yekê ji zarokên Yisraêl re bêje: “Ez im Yahwe, û ez ê ⟨אתכם⟩ ji bin barên Mitzrayim derxînim, û ez ê ⟨אתכם⟩ ji xizmeta wan xilas bikim, û ez ê ⟨אתכם⟩ bi bazûyekî dirêjkirî û bi darazên mezin bifilitînim.",
+  "translation": "Ji ber wê yekê ji bona binemala Yisraêl re bêje: Ez im Yahwe, û ez ê we ji bin barên Mîtsrayim derbikim, û ez ê we ji xizmeta wan rizgar bikim, û ez ê we bi ⟨את⟩ destê dirêjkirî û bi darazên mezin xilês bikim.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Ji ber wê yekê"
+      "gloss": "ji ber wê yekê"
     },
     {
       "surface": "אמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "ji zarokên"
+      "gloss": "ji bona binemala"
     },
     {
       "surface": "ישראל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Ez"
+      "gloss": "ez"
     },
     {
       "surface": "יהוה",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "והוצאתי",
-      "gloss": "û ez ê derxînim"
+      "gloss": "ez ê derbikim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩",
+      "marks": "we (ji bin barên Mîtsrayim)"
     },
     {
       "surface": "מתחת",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mîtsrayim"
     },
     {
       "surface": "והצלתי",
-      "gloss": "û ez ê xilas bikim"
+      "gloss": "ez ê rizgar bikim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩",
+      "marks": "we (ji xizmeta wan)"
     },
     {
       "surface": "מעבדתם",
@@ -67,16 +67,16 @@
     },
     {
       "surface": "וגאלתי",
-      "gloss": "û ez ê bifilitînim"
+      "gloss": "ez ê xilês bikim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩",
+      "marks": "we (bi destê dirêjkirî û darazên mezin)"
     },
     {
       "surface": "בזרוע",
-      "gloss": "bi bazûyekî"
+      "gloss": "bi destê"
     },
     {
       "surface": "נטויה",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "ובשפטים",
-      "gloss": "û bi darazên"
+      "gloss": "bi darazên"
     },
     {
       "surface": "גדלים",
       "gloss": "mezin"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.838230690Z",
+  "timestamp": "2026-08-30T07:25:45.157296109Z",
   "model": "glm-5.3"
 }

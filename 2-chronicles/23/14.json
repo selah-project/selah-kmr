@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Û Yehoyada ⟨⟨the⟩⟩ kahîn derxist ⟨את⟩ serên sedan, serartêşan, û ji wan re got: “Wê derînin nav rêzên, û yê ku pey wê diçe bi şûr bê kuştin; çunku kahîn got: Wê di malê Yahwe de nakuşînin.”",
+  "translation": "Û Yehojada ⟨⟨kahîn⟩⟩ derxist ⟨את⟩ serdarên sedan, serdaran ên li ser ⟨⟨leşkerî⟩⟩, û ji wan re got: “Wê derxînin ji nav rêzan, û ⟨⟨yê⟩⟩ ku pey wê were bila bi şûr were kuştin.” Çinkî kahîn gotibû: “Wê di malbata Yahwe de newê kuştin.”",
   "tokens": [
     {
       "surface": "ויוצא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יהוידע",
-      "gloss": "Yehoyada"
+      "gloss": "Yehojada"
     },
     {
       "surface": "הכהן",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "serên sedan"
+      "marks": "serdarên sedan"
     },
     {
       "surface": "שרי",
-      "gloss": "serên"
+      "gloss": "serdarên"
     },
     {
       "surface": "המאות",
@@ -34,39 +34,39 @@
     },
     {
       "surface": "פקודי",
-      "gloss": "serartêşan"
+      "gloss": "serdaran ên li ser"
     },
     {
       "surface": "החיל",
-      "gloss": "artêşê"
+      "gloss": "leşkerî"
     },
     {
       "surface": "ויאמר",
-      "gloss": "û got"
+      "gloss": "û ji wan re got"
     },
     {
       "surface": "אלהם",
-      "gloss": "ji wan re"
+      "gloss": ""
     },
     {
       "surface": "הוציאוה",
-      "gloss": "Wê derînin"
+      "gloss": "Wê derxînin"
     },
     {
       "surface": "אל",
-      "gloss": "nav"
+      "gloss": "ji nav"
     },
     {
       "surface": "מבית",
-      "gloss": "nav rêzên"
+      "gloss": "nav"
     },
     {
       "surface": "השדרות",
-      "gloss": "rêzên"
+      "gloss": "rêzan"
     },
     {
       "surface": "והבא",
-      "gloss": "yê ku … diçe"
+      "gloss": "û yê ku tê"
     },
     {
       "surface": "אחריה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "יומת",
-      "gloss": "bê kuştin"
+      "gloss": "bila were kuştin"
     },
     {
       "surface": "בחרב",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "çunku"
+      "gloss": "Çinkî"
     },
     {
       "surface": "אמר",
-      "gloss": "got"
+      "gloss": "gotibû"
     },
     {
       "surface": "הכהן",
@@ -94,21 +94,21 @@
     },
     {
       "surface": "לא",
-      "gloss": "na"
+      "gloss": "ne"
     },
     {
       "surface": "תמיתוה",
-      "gloss": "nakuşînin"
+      "gloss": "wê kuştin"
     },
     {
       "surface": "בית",
-      "gloss": "di malê"
+      "gloss": "malbata"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-30T06:49:35.665534828Z",
+  "timestamp": "2026-08-30T07:36:59.889314497Z",
   "model": "glm-5.3"
 }

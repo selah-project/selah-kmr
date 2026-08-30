@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 11,
-  "translation": "Ez ê we ji nav wê derxim û we di destê biyaniyan de bidim, û ez ê bi we re darazan birêve bibim.",
+  "translation": "Ez ⟨את⟩ we ji nav wê derdixim, û ⟨את⟩ we di destê biyaniyan de datînim, û li ser we hukman dikim.",
   "tokens": [
     {
       "surface": "והוצאתי",
-      "gloss": "ez ê derxim"
+      "gloss": "û derdixim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ we",
-      "marks": "we (ji nav wê)"
+      "gloss": "⟨את⟩ we",
+      "marks": "ji nav wê"
     },
     {
       "surface": "מתוכה",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "û ez ê bidim"
+      "gloss": "û datînim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ we",
-      "marks": "we (di destê biyaniyan de)"
+      "gloss": "⟨את⟩ we",
+      "marks": "di destê biyaniyan de"
     },
     {
       "surface": "ביד",
@@ -39,17 +39,17 @@
     },
     {
       "surface": "ועשיתי",
-      "gloss": "û ez ê bikim"
+      "gloss": "û dikim"
     },
     {
       "surface": "בכם",
-      "gloss": "bi we re"
+      "gloss": "li ser we"
     },
     {
       "surface": "שפטים",
-      "gloss": "darazan"
+      "gloss": "hukman"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.846427344Z",
+  "timestamp": "2026-08-30T07:33:29.924674518Z",
   "model": "glm-5.3"
 }

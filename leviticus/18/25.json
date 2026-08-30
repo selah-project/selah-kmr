@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Û ⟨the⟩ erd xerab bû, û ez gunehê wê lê ser wê hesab kir, û erd niştecihên xwe ⟨את⟩ qe kişand.",
+  "translation": "Û erd xwe bi metamet kir, û ez gunehê wê li ser wê danî ser hejmara wê, û erd niştecihên xwe ⟨את⟩ derxist (weke tevlêkirin).",
   "tokens": [
     {
       "surface": "ותטמא",
-      "gloss": "xerab bû"
+      "gloss": "û xwe bi metamet kir"
     },
     {
       "surface": "הארץ",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ואפקד",
-      "gloss": "û ez hesab kir"
+      "gloss": "û ez danîm ser hejmara"
     },
     {
       "surface": "עונה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "עליה",
-      "gloss": "lê ser wê"
+      "gloss": "li ser wê"
     },
     {
       "surface": "ותקא",
-      "gloss": "û qe kişand"
+      "gloss": "û derxist"
     },
     {
       "surface": "הארץ",
@@ -38,13 +38,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "niştecihên xwe"
+      "marks": "niştecihên wê"
     },
     {
       "surface": "ישביה",
-      "gloss": "niştecihên xwe"
+      "gloss": "niştecihên wê"
     }
   ],
-  "timestamp": "2026-08-29T18:31:50.147152380Z",
+  "timestamp": "2026-08-30T07:26:38.393596147Z",
   "model": "glm-5.3"
 }

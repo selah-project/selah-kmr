@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Bila ji me re du ga bidin; û bila ji xwe re ⟨the⟩ yek ga bibînin û wî parçe bikin û li ser daran bixin, û agir nedin; û ez ê ⟨את⟩ yek ga amade bikim û ê li ser daran bikim û agir nede.",
+  "translation": "Bila ji me re du ga bidin, û bila ew ji xwe re yek ji gaan hilbijêrin û wê parçe bikin û wê li ser daran deynin, lê agir nenênin; û ez ê ⟨את⟩ ga yê din çêkim û wê li ser daran deynim, lê ez ê agir nenînim.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "bila bidin"
+      "gloss": "bila…bidin"
     },
     {
       "surface": "לנו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויבחרו",
-      "gloss": "û bila bibînin"
+      "gloss": "bila ew hilbijêrin"
     },
     {
       "surface": "להם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הפר",
-      "gloss": "ga"
+      "gloss": "yek ji gaan"
     },
     {
       "surface": "האחד",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "וינתחהו",
-      "gloss": "û wî parçe bikin"
+      "gloss": "wê parçe bikin"
     },
     {
       "surface": "וישימו",
-      "gloss": "û bixin"
+      "gloss": "wê deynin"
     },
     {
       "surface": "על",
@@ -57,28 +57,28 @@
     },
     {
       "surface": "ואש",
-      "gloss": "û agir"
+      "gloss": "lê agir"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nenênin"
     },
     {
       "surface": "ישימו",
-      "gloss": "nedin"
+      "gloss": "nenênin"
     },
     {
       "surface": "ואני",
-      "gloss": "û ez"
+      "gloss": "û ez ê"
     },
     {
       "surface": "אעשה",
-      "gloss": "ê amade bikim"
+      "gloss": "çêkim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yek ga"
+      "marks": "ga yê din"
     },
     {
       "surface": "הפר",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "האחד",
-      "gloss": "yek"
+      "gloss": "yê din"
     },
     {
       "surface": "ונתתי",
-      "gloss": "û ê bikim"
+      "gloss": "wê deynim"
     },
     {
       "surface": "על",
@@ -102,17 +102,17 @@
     },
     {
       "surface": "ואש",
-      "gloss": "û agir"
+      "gloss": "lê agir"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nenînim"
     },
     {
       "surface": "אשים",
-      "gloss": "nede"
+      "gloss": "nenînim"
     }
   ],
-  "timestamp": "2026-08-29T20:12:23.229605622Z",
+  "timestamp": "2026-08-30T07:31:52.408911999Z",
   "model": "glm-5.3"
 }

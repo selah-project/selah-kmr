@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 29,
-  "translation": "Û min hûn ⟨את⟩ ⟨אתכם⟩ çil salan di çolê de meşandin; kincên we li ser we ne xerar bûn û sola te li ser lingê te ne xerar bû.",
+  "translation": "Û ez ⟨את⟩ we çil salan di çolê de rê birim; kincên we ji ser we nekevin, û pêlava te ji ser lingê te nekeviye.",
   "tokens": [
     {
       "surface": "ואולך",
-      "gloss": "û min meşandin"
+      "gloss": "û ez... rê birim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "hûn"
+      "gloss": "⟨את⟩",
+      "marks": "we (hûn)"
     },
     {
       "surface": "ארבעים",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "בלו",
-      "gloss": "xerar bûn"
+      "gloss": "kevin bûn"
     },
     {
       "surface": "שלמתיכם",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "מעליכם",
-      "gloss": "li ser we"
+      "gloss": "ji ser we"
     },
     {
       "surface": "ונעלך",
-      "gloss": "û sola te"
+      "gloss": "û pêlava te"
     },
     {
       "surface": "לא",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "בלתה",
-      "gloss": "xerar bû"
+      "gloss": "keviye"
     },
     {
       "surface": "מעל",
-      "gloss": "li ser"
+      "gloss": "ji ser"
     },
     {
       "surface": "רגלך",
       "gloss": "lingê te"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.844931240Z",
+  "timestamp": "2026-08-30T07:29:03.681105968Z",
   "model": "glm-5.3"
 }

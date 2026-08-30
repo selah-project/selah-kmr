@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 14,
-  "translation": "Moşe ji ⟨the⟩ gel re got: «Hûn netirsin, bi cih rabin û rizgariya Yahwe bînin ku îro ji bo we çêdike; ji ber ku ⟨the⟩ Misriyên ku hûn îro dîtin — êdî hûn ê wan dîsa nebînin, heta hertimî.»",
+  "translation": "Moşe ji bona gel re got: «Netirsin, rawestin û bibînin rizgariya Yahwe ku îro ewê ji bona we re çêbike; ji ber ku Mîtsrayimên ku we îro dîtî, hûn ê wan êdî caran bibînin, heta hertimî.»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ji … re"
+      "gloss": "ji bona … re"
     },
     {
       "surface": "העם",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "hûn netirsin"
+      "gloss": "netirsin"
     },
     {
       "surface": "התיצבו",
-      "gloss": "bi cih rabin"
+      "gloss": "rawestin"
     },
     {
       "surface": "וראו",
-      "gloss": "û bînin"
+      "gloss": "û bibînin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rizgariya Yahwe"
+      "marks": "rizgariya"
     },
     {
       "surface": "ישועת",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "çêdike"
+      "gloss": "ewê çêbike"
     },
     {
       "surface": "לכם",
-      "gloss": "ji bo we"
+      "gloss": "ji bona we re"
     },
     {
       "surface": "היום",
@@ -78,16 +78,16 @@
     },
     {
       "surface": "ראיתם",
-      "gloss": "hûn dîtin"
+      "gloss": "we dîtî"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Misriyên"
+      "marks": "Mîtsrayimên"
     },
     {
       "surface": "מצרים",
-      "gloss": "Misriyên"
+      "gloss": "Mîtsrayimên"
     },
     {
       "surface": "היום",
@@ -99,15 +99,15 @@
     },
     {
       "surface": "תסיפו",
-      "gloss": "êdî … nebînin"
+      "gloss": "ê caran"
     },
     {
       "surface": "לראתם",
-      "gloss": "wan dîsa bînin"
+      "gloss": "bibînin wan"
     },
     {
       "surface": "עוד",
-      "gloss": "dîsa"
+      "gloss": "êdî"
     },
     {
       "surface": "עד",
@@ -118,6 +118,6 @@
       "gloss": "hertimî"
     }
   ],
-  "timestamp": "2026-08-29T18:07:49.776668033Z",
+  "timestamp": "2026-08-30T07:25:24.093199450Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,41 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 120,
-  "translation": "Çi dê bide te, û çi dê ji bo te zêde bike, zimanê xeyîn?",
+  "translation": "Çi dê bê dayîn te re? Û çi dê bê zêdekirin te re, zimanê xwînmeşê?",
   "tokens": [
-    {
-      "surface": "מה",
-      "gloss": "Çi"
-    },
-    {
-      "surface": "יתן",
-      "gloss": "dê bide"
-    },
-    {
-      "surface": "לך",
-      "gloss": "te"
-    },
-    {
-      "surface": "ו",
-      "gloss": "û"
-    },
     {
       "surface": "מה",
       "gloss": "çi"
     },
     {
-      "surface": "יסיף",
-      "gloss": "zêde bike"
+      "surface": "יתן",
+      "gloss": "dê bê dayîn"
     },
     {
       "surface": "לך",
-      "gloss": "ji bo te"
+      "gloss": "te re"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "û çi"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "dê bê zêdekirin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te re"
     },
     {
       "surface": "לשון",
-      "gloss": "zimanê"
+      "gloss": "ziman"
     },
     {
       "surface": "רמיה",
-      "gloss": "xeyînî"
+      "gloss": "xwînmeş"
     }
   ],
-  "timestamp": "2026-08-30T05:36:11.218898191Z",
+  "timestamp": "2026-08-30T07:22:51.721223672Z",
   "model": "glm-5.3"
 }

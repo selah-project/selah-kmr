@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 29,
-  "translation": "Û ev e ku tu li ser ⟨the⟩ altarê bikî: beranên salê, du her rojê, domdar.",
+  "translation": "Û ev e ⟨ku⟩ tu yê li ser dstgêhê bikî: du beranên salê, rojê-rojê, berdewam.",
   "tokens": [
     {
       "surface": "וזה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ku"
+      "gloss": "⟨ku⟩"
     },
     {
       "surface": "תעשה",
-      "gloss": "tu bikî"
+      "gloss": "tu yê bikî"
     },
     {
       "surface": "על",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ altarê"
+      "gloss": "dstgêhê"
     },
     {
       "surface": "כבשים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "—"
+      "gloss": "salê"
     },
     {
       "surface": "שנה",
-      "gloss": "salê"
+      "gloss": ""
     },
     {
       "surface": "שנים",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "ליום",
-      "gloss": "her rojê"
+      "gloss": "rojê-rojê"
     },
     {
       "surface": "תמיד",
-      "gloss": "domdar"
+      "gloss": "berdewam"
     }
   ],
-  "timestamp": "2026-08-29T18:15:13.974999139Z",
+  "timestamp": "2026-08-30T07:26:04.783114702Z",
   "model": "glm-5.3"
 }

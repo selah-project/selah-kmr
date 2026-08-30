@@ -5,19 +5,19 @@
   "book": "job",
   "lang": "kmr",
   "chapter": 15,
-  "translation": "Wan re tenê ⟨⟨the⟩⟩ erd hat dayîn, û tu biyanî ji nav wan derbas nebû.",
+  "translation": "Tenê ji bo wan bi tenê erd hatiye dayîn, û tu biyanî ji nava wan re derbas nebûye.",
   "tokens": [
     {
       "surface": "להם",
-      "gloss": "wan re"
+      "gloss": "ji bo wan"
     },
     {
       "surface": "לבדם",
-      "gloss": "tenê"
+      "gloss": "bi tenê"
     },
     {
       "surface": "נתנה",
-      "gloss": "hat dayîn"
+      "gloss": "hatiye dayîn"
     },
     {
       "surface": "הארץ",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "û ne"
+      "gloss": "û ... nebûye"
     },
     {
       "surface": "עבר",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "בתוכם",
-      "gloss": "ji nav wan"
+      "gloss": "ji nava wan re"
     }
   ],
-  "timestamp": "2026-08-30T05:54:32.749483630Z",
+  "timestamp": "2026-08-30T07:47:21.320975418Z",
   "model": "glm-5.3"
 }

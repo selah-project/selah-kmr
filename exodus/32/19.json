@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 32,
-  "translation": "Û bû qasî ku ew nêzîkî kampê bû, ew dît ⟨את⟩ golikê û raqsan; hêrsê Moşe agir berda, ew ⟨את⟩ lewheyên ji destê xwe avêt û wan li binê çiyê şikand.",
+  "translation": "Û ew qas bu, dema ku ew nêzîkî kampê bû, ew ⟨את⟩ golikê û reqsê dît; hêrsa Moşe şewitî û ew ⟨את⟩ tabletan ji destê xwe avêt û ⟨את⟩ wan li binê çiyê qevirand.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "bû"
+      "gloss": "Û ew qas bu"
     },
     {
       "surface": "כאשר",
-      "gloss": "qasî ku"
+      "gloss": "dema ku"
     },
     {
       "surface": "קרב",
-      "gloss": "nêzîk bû"
+      "gloss": "nêzîkî bû"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וירא",
-      "gloss": "dît"
+      "gloss": "ew dît"
     },
     {
       "surface": "את",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "ומחלת",
-      "gloss": "û raqsan"
+      "gloss": "û reqsê"
     },
     {
       "surface": "ויחר",
-      "gloss": "agir berda"
+      "gloss": "şewitî"
     },
     {
       "surface": "אף",
-      "gloss": "hêrs"
+      "gloss": "hêrsa"
     },
     {
       "surface": "משה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "avêt"
+      "gloss": "û avêt"
     },
     {
       "surface": "מידו",
@@ -67,20 +67,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lewheyên"
+      "marks": "tabletan"
     },
     {
       "surface": "הלחת",
-      "gloss": "lewheyên"
+      "gloss": "tabletan"
     },
     {
       "surface": "וישבר",
-      "gloss": "şikand"
+      "gloss": "û qevirand"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "lewheyên"
+      "gloss": "⟨את⟩",
+      "marks": "wan (tabletan)"
     },
     {
       "surface": "תחת",
@@ -91,6 +91,6 @@
       "gloss": "çiyê"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.832384638Z",
+  "timestamp": "2026-08-30T07:26:16.533175095Z",
   "model": "glm-5.3"
 }

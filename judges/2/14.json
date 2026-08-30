@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Û hêrsa Yahwe li dijî Yisraelê şewitand, û ew dan destê talankaran, û ew talan kirin ⟨את⟩ ⟨אתם⟩; û ew firotin destê dijminên wan ên li dora wan, û êdî nikaribûn li ber dijminên xwe rabin.",
+  "translation": "Êrîşeya Yahwe li hemberî Yisraêl şewitî, û ew teslîmî destên talankiran kir; ew talan kirin ⟨את⟩ wan, û ew firotî destên dijminên wan ên dorber, û êdî nikaribûn li ber dijminên wan berxwe bidin.",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "şewitand"
+      "gloss": "şewitî"
     },
     {
       "surface": "אף",
-      "gloss": "hêrsa"
+      "gloss": "êrîşey"
     },
     {
       "surface": "יהוה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "li dijî Yisraelê"
+      "gloss": "li hemberî Yisraêl"
     },
     {
       "surface": "ויתנם",
-      "gloss": "dan ew"
+      "gloss": "teslîmî … kir"
     },
     {
       "surface": "ביד",
-      "gloss": "destê"
+      "gloss": "destên"
     },
     {
       "surface": "שסים",
-      "gloss": "talankaran"
+      "gloss": "talankiran"
     },
     {
       "surface": "וישסו",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ew"
+      "gloss": "⟨את⟩",
+      "marks": "wan (Yisraêl)"
     },
     {
       "surface": "וימכרם",
-      "gloss": "firotin ew"
+      "gloss": "firotî … kir"
     },
     {
       "surface": "ביד",
-      "gloss": "destê"
+      "gloss": "destên"
     },
     {
       "surface": "אויביהם",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "מסביב",
-      "gloss": "li dora wan"
+      "gloss": "dorber"
     },
     {
       "surface": "ולא",
-      "gloss": "û êdî ne"
+      "gloss": "û … ne"
     },
     {
       "surface": "יכלו",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "עוד",
-      "gloss": "êtir"
+      "gloss": "êdî"
     },
     {
       "surface": "לעמד",
-      "gloss": "rabin"
+      "gloss": "berxwe bidin"
     },
     {
       "surface": "לפני",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "אויביהם",
-      "gloss": "dijminên xwe"
+      "gloss": "dijminên wan"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.826760207Z",
+  "timestamp": "2026-08-30T07:29:56.966129991Z",
   "model": "glm-5.3"
 }

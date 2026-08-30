@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 29,
-  "translation": "Û dîdanî ya hemûyan ji we re bûye wek peyvên ⟨את⟩ kitêba mohrkirî, ku didin ⟨את⟩ ⟨אתו⟩ ji yê-ku-kitêb-dizane re, dibêjin: 'Vê bixwîne, ji kerema xwe,' ew dibêje: 'Nikarim, ji ber ku ew mohrkirî ye.'",
+  "translation": "Dîtinî ya hemûyan ji bo we bûye wek peyvên kitêba mohrkirî; ku gava ew ⟨את⟩ wê didin yê ku kitêb dizane û dibêjin: Vê bixwîne, ji kerema xwe; û ew dibêje: Nikarim, ji ber ku ew mohrkirî ye.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "û bû"
+      "gloss": "bûye"
     },
     {
       "surface": "לכם",
-      "gloss": "ji we re"
+      "gloss": "ji bo we"
     },
     {
       "surface": "חזות",
-      "gloss": "dîdanî"
+      "gloss": "dîtinî"
     },
     {
       "surface": "הכל",
@@ -45,16 +45,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ew (kitêb)"
+      "gloss": "⟨את⟩",
+      "marks": "wê (kitêb)"
     },
     {
       "surface": "אל",
-      "gloss": "ji … re"
+      "gloss": "ji bo"
     },
     {
       "surface": "יודע",
-      "gloss": "yê dizane"
+      "gloss": "yê ku dizane"
     },
     {
       "surface": "הספר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dibêjin"
+      "gloss": "û dibêjin"
     },
     {
       "surface": "קרא",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "ew dibêje"
+      "gloss": "û dibêje"
     },
     {
       "surface": "לא",
-      "gloss": "na"
+      "gloss": "ne"
     },
     {
       "surface": "אוכל",
-      "gloss": "nikarim"
+      "gloss": "dikarim"
     },
     {
       "surface": "כי",
@@ -101,6 +101,6 @@
       "gloss": "ew"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.854930833Z",
+  "timestamp": "2026-08-30T07:32:16.552802463Z",
   "model": "glm-5.3"
 }

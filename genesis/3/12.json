@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Û mirov got: «⟨The⟩ jin — ya ku te li cem min danî — ew ji min re ji ⟨the⟩ darê da û min xwar.»",
+  "translation": "Û mirov got: \"⟨Ew⟩ jin a ku te bi cî kiribû li kêleka min, ew ⟨ji⟩ darê da min û min xwar.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Û got"
+      "gloss": "Û … got"
     },
     {
       "surface": "האדם",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "האשה",
-      "gloss": "jin"
+      "gloss": "⟨Ew⟩ jin"
     },
     {
       "surface": "אשר",
-      "gloss": "ya ku"
+      "gloss": "a ku"
     },
     {
       "surface": "נתתה",
-      "gloss": "te danî"
+      "gloss": "te bi cî kiribû"
     },
     {
       "surface": "עמדי",
-      "gloss": "li cem min"
+      "gloss": "li kêleka min"
     },
     {
       "surface": "הוא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "ji min re"
+      "gloss": "min"
     },
     {
       "surface": "מן",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "ואכל",
-      "gloss": "û min xwar"
+      "gloss": "Û min xwar"
     }
   ],
-  "timestamp": "2026-08-29T17:33:20.941347698Z",
+  "timestamp": "2026-08-30T07:24:37.818970926Z",
   "model": "glm-5.3"
 }

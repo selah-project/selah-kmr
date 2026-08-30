@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Û hûn ê bizanin ku ez im Yahwe, dema ez ⟨אתכם⟩ bînim axa Îsraêl, welatê ku min ⟨את⟩ destê xwe bilind kiribû da bidim ⟨את⟩ wê ji bavên we re.",
+  "translation": "û hûn ê bibînin ku ez im Yahwe, dema ku ez ⟨את⟩ we tînim bo axa Yisraêl, bo wî welatê ku min destê xwe bilind kir da ⟨את⟩ wî bidim kal û bavên we.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "û hûn ê bizanin"
+      "gloss": "û hûn ê bibînin"
     },
     {
       "surface": "כי",
@@ -25,12 +25,11 @@
     },
     {
       "surface": "בהביאי",
-      "gloss": "dema ez bînim"
+      "gloss": "dema ku ez tînim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ we",
-      "marks": "we"
+      "gloss": "⟨את⟩ we"
     },
     {
       "surface": "אל",
@@ -42,15 +41,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Yisraêl"
     },
     {
       "surface": "אל",
-      "gloss": "welatê"
+      "gloss": "bo"
     },
     {
       "surface": "הארץ",
-      "gloss": "wî"
+      "gloss": "wî welatê"
     },
     {
       "surface": "אשר",
@@ -63,11 +62,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "destê min"
+      "marks": "destê xwe"
     },
     {
       "surface": "ידי",
-      "gloss": "destê min"
+      "gloss": "destê xwe"
     },
     {
       "surface": "לתת",
@@ -75,14 +74,13 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ wê",
-      "marks": "wê (welat)"
+      "gloss": "⟨את⟩ wî"
     },
     {
       "surface": "לאבותיכם",
-      "gloss": "ji bavên we re"
+      "gloss": "kal û bavên we"
     }
   ],
-  "timestamp": "2026-08-30T03:50:38.804359135Z",
+  "timestamp": "2026-08-30T07:47:46.553812588Z",
   "model": "glm-5.3"
 }

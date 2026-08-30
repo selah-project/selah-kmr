@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 104,
-  "translation": "Bila gunehkar ji ⟨אֵרד⟩ erdê xilas bibin, û nebînar êdî nebin — gelî nefsa min, Yahwe ⟨את⟩ bilûnd bike. Halelû-Yah!",
+  "translation": "Bila gunehkaran ji erdê biqedin û bila destesaz ji xwe neman. Canê min, Yahwe ⟨את⟩ bibe berkat. Hallelujah (Yah hê bilînin)!",
   "tokens": [
     {
       "surface": "יתמו",
-      "gloss": "bila ... xilas bibin"
+      "gloss": "bila biqedin"
     },
     {
       "surface": "חטאים",
-      "gloss": "gunehkar"
+      "gloss": "gunehkaran"
     },
     {
       "surface": "מן",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "ורשעים",
-      "gloss": "û nebînar"
+      "gloss": "û destesaz"
     },
     {
       "surface": "עוד",
-      "gloss": "êdî"
+      "gloss": "ji xwe"
     },
     {
       "surface": "אינם",
-      "gloss": "nebin"
+      "gloss": "neman"
     },
     {
       "surface": "ברכי",
-      "gloss": "bilûnd bike"
+      "gloss": "bibe berkat"
     },
     {
       "surface": "נפשי",
-      "gloss": "gelî nefsa min"
+      "gloss": "Canê min"
     },
     {
       "surface": "את",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "הללו",
-      "gloss": "Halelû"
+      "gloss": "hê bilînin"
     },
     {
       "surface": "יה",
       "gloss": "Yah"
     }
   ],
-  "timestamp": "2026-08-30T05:31:59.385848925Z",
+  "timestamp": "2026-08-30T07:35:14.882934965Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "kmr",
   "chapter": 21,
-  "translation": "Û piştî wê, gotina Yahwe: ez ê ⟨את⟩ Sîdqiya padîşahê Yehûda û ⟨את⟩ xulamên wî û ⟨את⟩ gelê û ⟨את⟩ yên mayî di vê bajêrî de — ji têbûyê, ji şûr û ji birçîbûnê — bidim destê Nevûkadnetsar, padîşahê Babîlê, û destê dijminên wan û destê yên ku diçin pey canê wan; ew ê wan bi devê şûr bikeuje; wê li wan nehêle, û nefêşîne alî û dilovanî nabe.",
+  "translation": "Û piştî wê, dibejeyên Yahwe: ez ê ⟨את⟩ Sîdqiyahû, keyê Yehûda, û ⟨את⟩ xulamên wî û ⟨את⟩ gel û ⟨את⟩ yên mayî di vê bajêr de, ji nexweşiyê, ji şûr û ji birçîbûnê, bidim destê Nevûkadreṣar, keyê Babîlê, û destê dijminên wan û destê yên ku canê wan digerin; ew ê wan bi tûjahiya şûr bikişîne; li wan rexne nake, na dilovanî dike û na jî rehm dike.",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "û piştî"
+      "gloss": "Û piştî wê"
     },
     {
       "surface": "כן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "gotina"
+      "gloss": "dibejeyên"
     },
     {
       "surface": "יהוה",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sîdqiya"
+      "marks": "Sîdqiyahû"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Sîdqiya"
+      "gloss": "Sîdqiyahû"
     },
     {
       "surface": "מלך",
-      "gloss": "padîşahê"
+      "gloss": "keyê"
     },
     {
       "surface": "יהודה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "û ⟨את⟩",
       "marks": "xulamên wî"
     },
     {
@@ -55,16 +55,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "gelê"
+      "gloss": "û ⟨את⟩",
+      "marks": "gel"
     },
     {
       "surface": "העם",
-      "gloss": "gelê"
+      "gloss": "gel"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "û ⟨את⟩",
       "marks": "yên mayî"
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "di bajêrî"
+      "gloss": "di bajêr de"
     },
     {
       "surface": "הזאת",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "têbûyê"
+      "gloss": "nexweşiyê"
     },
     {
       "surface": "מן",
@@ -109,11 +109,11 @@
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "Nevûkadnetsar"
+      "gloss": "Nevûkadreṣar"
     },
     {
       "surface": "מלך",
-      "gloss": "padîşahê"
+      "gloss": "keyê"
     },
     {
       "surface": "בבל",
@@ -133,7 +133,7 @@
     },
     {
       "surface": "מבקשי",
-      "gloss": "yên ku diçin pey"
+      "gloss": "yên digerin"
     },
     {
       "surface": "נפשם",
@@ -141,11 +141,11 @@
     },
     {
       "surface": "והכם",
-      "gloss": "ew ê wan bikeuje"
+      "gloss": "ew ê wan bikişîne"
     },
     {
       "surface": "לפי",
-      "gloss": "bi devê"
+      "gloss": "bi tûjahiya"
     },
     {
       "surface": "חרב",
@@ -153,29 +153,33 @@
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "na"
     },
     {
       "surface": "יחוס",
-      "gloss": "wê li wan nehêle"
+      "gloss": "rexne dike"
     },
     {
       "surface": "עליהם",
       "gloss": "li wan"
     },
     {
-      "surface": "ויחמל ולא",
-      "gloss": "û nefêşîne alî"
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "dilovanî dike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na jî"
     },
     {
       "surface": "ירחם",
-      "gloss": "dilovanî nabe"
-    },
-    {
-      "surface": "חרב לא ולא",
-      "gloss": ""
+      "gloss": "rehm dike"
     }
   ],
-  "timestamp": "2026-08-29T20:57:25.096717033Z",
+  "timestamp": "2026-08-30T07:23:06.677571882Z",
   "model": "glm-5.3"
 }

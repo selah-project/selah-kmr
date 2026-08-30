@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Eliyahu bersiv da û ji serderê pêncîyan re got: \"Ger ez merê Elohîm im, bila agir ji ezmanan dakeve û ⟨את⟩ te û ⟨את⟩ pênciyên te bixwe.\" Û agir ji ezmanan daket û ⟨את⟩ ⟨אתו⟩ wî û ⟨את⟩ pênciyên wî xwar.",
+  "translation": "Û Elîyahû bersiv da û bi serokê pêncîyan re got: «Ger ez mêrê Elohîm im, bila agir ji ezmanan dakeve û te û pênciyên te bixwe.» Û agir ji ezmanan daket û wî û pêçiyên wî xwar.",
   "tokens": [
     {
       "surface": "ויענה",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "אליהו",
-      "gloss": "Eliyahu"
+      "gloss": "Elîyahû"
     },
     {
       "surface": "וידבר",
-      "gloss": "got"
+      "gloss": "û got"
     },
     {
       "surface": "אל",
-      "gloss": "ji… re"
+      "gloss": "bi … re"
     },
     {
       "surface": "שר",
-      "gloss": "serderê"
+      "gloss": "serokê"
     },
     {
       "surface": "החמשים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ואם",
-      "gloss": "û ger"
+      "gloss": "ger"
     },
     {
       "surface": "איש",
-      "gloss": "merê"
+      "gloss": "mêrê"
     },
     {
       "surface": "אלהים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ez… im"
+      "gloss": "ez … im"
     },
     {
       "surface": "תרד",
@@ -65,11 +65,12 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "û bixwe"
+      "gloss": "û … bixwe"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ te"
+      "gloss": "⟨את⟩",
+      "marks": "te"
     },
     {
       "surface": "ואת",
@@ -102,18 +103,19 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ wî"
+      "gloss": "⟨את⟩",
+      "marks": "wî"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pênciyên wî"
+      "marks": "pêçiyên wî"
     },
     {
       "surface": "חמשיו",
-      "gloss": "pênciyên wî"
+      "gloss": "pêçiyên wî"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.850114313Z",
+  "timestamp": "2026-08-30T07:31:54.579592360Z",
   "model": "glm-5.3"
 }

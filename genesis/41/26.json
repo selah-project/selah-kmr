@@ -5,8 +5,69 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 41,
-  "translation": "Hew maxlûqên baş şêş... na, heft sal in; û heft serî yên baş heft sal in; xewn yek ⟨e⟩.",
-  "tokens": [],
-  "timestamp": "2026-08-29T17:54:41.060256122Z",
+  "translation": "Heft çêlekên baş heft sal in, û heft spikên baş heft sal in — xewn yek e.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "çêlekên"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "baş"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sal"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "in"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "û heft"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "spikên"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "baş"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sal"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "in"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "xewn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:17.016522802Z",
   "model": "glm-5.3"
 }

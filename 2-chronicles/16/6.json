@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 16,
-  "translation": "Û Asa, ⟨the⟩ padîşah, hemû Yehudayê girt; ew kevirên Ramahê û darên wê, yên ku Başa bi wan dabû avakirin, hildan, û bi wan ⟨את⟩ Geba û ⟨את⟩ Mîtspehê ava kir.",
+  "translation": "Û Asa key hemû Yehudayê girt, ⟨את⟩ kevirên Ramayê hildan û ⟨את⟩ darên wê yên ku Bişa ava kiribû, û bi wan Geba û ⟨את⟩ Mîtspayê ava kir.",
   "tokens": [
     {
       "surface": "ואסא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "padîşah"
+      "gloss": "key"
     },
     {
       "surface": "לקח",
@@ -39,7 +39,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kevirên Ramahê"
+      "marks": "kevirên Ramayê"
     },
     {
       "surface": "אבני",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "הרמה",
-      "gloss": "Ramahê"
+      "gloss": "Ramayê"
     },
     {
       "surface": "ואת",
@@ -60,19 +60,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yên ku"
+      "gloss": "ku"
     },
     {
       "surface": "בנה",
-      "gloss": "avakirin"
+      "gloss": "ava kiribû"
     },
     {
       "surface": "בעשא",
-      "gloss": "Başa"
+      "gloss": "Bişa"
     },
     {
       "surface": "ויבן",
-      "gloss": "ava kir"
+      "gloss": "û ava kir"
     },
     {
       "surface": "בהם",
@@ -90,13 +90,13 @@
     {
       "surface": "ואת",
       "gloss": "û ⟨את⟩",
-      "marks": "Mîtspehê"
+      "marks": "Mîtspayê"
     },
     {
       "surface": "המצפה",
-      "gloss": "Mîtspehê"
+      "gloss": "Mîtspayê"
     }
   ],
-  "timestamp": "2026-08-30T06:48:24.856320272Z",
+  "timestamp": "2026-08-30T07:36:48.685424958Z",
   "model": "glm-5.3"
 }

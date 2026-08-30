@@ -5,15 +5,15 @@
   "book": "malachi",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Kur bavê xwe rêz digire, û xulam Adonayê xwe; êdî ger ez bav im, li ku rêzdariya min e? Û ger ez Adonay im, li ku tirsê min e? Got Yahwe-yê Leşkeran ji we re, gelî kohan, yên ku navê min bêrûmet dikin; û hûn gotin: “Bi çi me navê te ⟨את⟩ bêrûmet kir ⟨את⟩?”",
+  "translation": "Kur bavê xwe rêzdar dike û xulam jî axayê xwe; heke ez bav im, rêzeta min li ku ye? û heke ez axa me, tirsa min li ku ye? got Yahwe-yê Leşkeran ji we re, gelî kahînan, yên ku navê min biçûk dibînin. û hûn dibêjin: Bi çi me ⟨את⟩ navê te biçûk dîtiye?",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "kur"
+      "gloss": "Kur"
     },
     {
       "surface": "יכבד",
-      "gloss": "rêz digire"
+      "gloss": "rêzdar dike"
     },
     {
       "surface": "אב",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אדניו",
-      "gloss": "Adonayê xwe"
+      "gloss": "axayê xwe"
     },
     {
       "surface": "ואם",
-      "gloss": "êdî ger"
+      "gloss": "û heke"
     },
     {
       "surface": "אב",
@@ -40,24 +40,20 @@
       "gloss": "ez"
     },
     {
-      "surface": "אני",
-      "gloss": "im"
-    },
-    {
       "surface": "איה",
-      "gloss": "li ku"
+      "gloss": "li ku ye?"
     },
     {
       "surface": "כבודי",
-      "gloss": "rêzdariya min e"
+      "gloss": "rêzeta min"
     },
     {
       "surface": "ואם",
-      "gloss": "û ger"
+      "gloss": "û heke"
     },
     {
       "surface": "אדונים",
-      "gloss": "Adonay"
+      "gloss": "axa"
     },
     {
       "surface": "אני",
@@ -65,11 +61,11 @@
     },
     {
       "surface": "איה",
-      "gloss": "li ku"
+      "gloss": "li ku ye?"
     },
     {
       "surface": "מוראי",
-      "gloss": "tirsê min e"
+      "gloss": "tirsa min"
     },
     {
       "surface": "אמר",
@@ -89,11 +85,11 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "gelî kohan"
+      "gloss": "gelî kahînan"
     },
     {
       "surface": "בוזי",
-      "gloss": "yên ku navê min bêrûmet dikin"
+      "gloss": "yên ku biçûk dibînin"
     },
     {
       "surface": "שמי",
@@ -101,7 +97,7 @@
     },
     {
       "surface": "ואמרתם",
-      "gloss": "û hûn gotin"
+      "gloss": "û hûn dibêjin"
     },
     {
       "surface": "במה",
@@ -109,7 +105,7 @@
     },
     {
       "surface": "בזינו",
-      "gloss": "⟨את⟩ bêrûmet kir"
+      "gloss": "me biçûk dîtiye"
     },
     {
       "surface": "את",
@@ -121,6 +117,6 @@
       "gloss": "navê te"
     }
   ],
-  "timestamp": "2026-08-30T05:10:22.088460254Z",
+  "timestamp": "2026-08-30T07:23:12.274416125Z",
   "model": "glm-5.3"
 }

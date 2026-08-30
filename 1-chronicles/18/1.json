@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Piştî wê çêbû ku Dawid ‹את› Fîlîştînan xist û bin xwe da wan, û ‹את› Gat û gundên wê ji destê Fîlîştînan girt.",
+  "translation": "Piştî wê yekê Dawid ⟨את⟩ Filistînan da û wan xwar kir û ⟨את⟩ Gat û gundên wê ji destê Filistînan girt.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "çêbû"
+      "gloss": "bû (hat kirin)"
     },
     {
       "surface": "אחרי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "wê"
+      "gloss": "wê yekê"
     },
     {
       "surface": "ויך",
-      "gloss": "xist"
+      "gloss": "da"
     },
     {
       "surface": "דויד",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Fîlîştînan"
+      "marks": "Filistînan"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Fîlîştînan"
+      "gloss": "Filistînan"
     },
     {
       "surface": "ויכניעם",
-      "gloss": "bin xwe da wan"
+      "gloss": "wan xwar kir"
     },
     {
       "surface": "ויקח",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ובנתיה",
-      "gloss": "û gundên wê"
+      "gloss": "gundên wê"
     },
     {
       "surface": "מיד",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Fîlîştînan"
+      "gloss": "Filistînan"
     }
   ],
-  "timestamp": "2026-08-30T06:39:07.772652972Z",
+  "timestamp": "2026-08-30T07:36:24.634972847Z",
   "model": "glm-5.3"
 }

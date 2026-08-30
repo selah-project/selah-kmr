@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 14,
-  "translation": "Ji bo nîşandana roja nepaqij û roja paqij — eva torata ⟨⟨tsaraat⟩⟩ ⟨צרעת⟩ e.",
+  "translation": "Ji bo fêrkirinê — roja ne-paqij û roja paqij; ev ⟨⟨e⟩⟩ torata tsaraatê ye.",
   "tokens": [
     {
       "surface": "להורת",
-      "gloss": "ji bo nîşandana"
+      "gloss": "ji bo fêrkirinê"
     },
     {
       "surface": "ביום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הטמא",
-      "gloss": "nepaqij"
+      "gloss": "ne-paqij"
     },
     {
       "surface": "וביום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "eva"
+      "gloss": "ev"
     },
     {
       "surface": "תורת",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "הצרעת",
-      "gloss": "⟨צרעת⟩"
+      "gloss": "tsaraatê"
     }
   ],
-  "timestamp": "2026-08-29T18:29:08.954267058Z",
+  "timestamp": "2026-08-30T07:46:41.270427513Z",
   "model": "glm-5.3"
 }

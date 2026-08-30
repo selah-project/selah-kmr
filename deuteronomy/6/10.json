@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "Û dê bibe, gava Yahwe, Elohîmê te, bîne te nav ⟨the⟩ erdê ku bi soz da bavên te — Avraham, Yîtshaq û Yaakov — ku bide te: bajarên mezin û baş, ku tu neavakirî.",
+  "translation": "Û dê bibe, dema ku Yahwe, Elohîmê te, tîne te bo welêt ê ku ji dê û bavên te re sond xwar — ji Avraham re, ji Yîtshaq re û ji Yaqov re — ku bide te: bajaranên mezin û baş, ên ku te çênekirine.",
   "tokens": [
     {
       "surface": "והיה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "gava"
+      "gloss": "dema ku"
     },
     {
       "surface": "יביאך",
-      "gloss": "bîne te"
+      "gloss": "tîne te"
     },
     {
       "surface": "יהוה",
@@ -29,35 +29,35 @@
     },
     {
       "surface": "אל",
-      "gloss": "nav"
+      "gloss": "bo"
     },
     {
       "surface": "הארץ",
-      "gloss": "erdê"
+      "gloss": "welêt"
     },
     {
       "surface": "אשר",
-      "gloss": "ku"
+      "gloss": "ê ku"
     },
     {
       "surface": "נשבע",
-      "gloss": "bi soz da"
+      "gloss": "sond xwar"
     },
     {
       "surface": "לאבתיך",
-      "gloss": "bavên te"
+      "gloss": "ji dê û bavên te re"
     },
     {
       "surface": "לאברהם",
-      "gloss": "Avraham"
+      "gloss": "ji Avraham re"
     },
     {
       "surface": "ליצחק",
-      "gloss": "Yîtshaq"
+      "gloss": "ji Yîtshaq re"
     },
     {
       "surface": "וליעקב",
-      "gloss": "û Yaakov"
+      "gloss": "û ji Yaqov re"
     },
     {
       "surface": "לתת",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "גדלת",
-      "gloss": "mezin"
+      "gloss": "mezîn"
     },
     {
       "surface": "וטבת",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ku"
+      "gloss": "ên ku"
     },
     {
       "surface": "לא",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "בנית",
-      "gloss": "avakirî"
+      "gloss": "çênekirine"
     }
   ],
-  "timestamp": "2026-08-29T19:00:30.446081141Z",
+  "timestamp": "2026-08-30T07:28:15.616957937Z",
   "model": "glm-5.3"
 }

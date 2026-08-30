@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "kmr",
   "chapter": 5,
-  "translation": "Ji ber ku di pir xewnan, pûçatî û peyvên gelekî de ⟨is⟩ pûçatî; lê ⟨את⟩ Elohîm bitirse.",
+  "translation": "Ji ber ku di xewnan pir ê û pûçîtî, û peyvên pir — lê tu Elohîm bitirsi: ⟨את⟩.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ברב",
-      "gloss": "di pirîya"
+      "gloss": "di pirî"
     },
     {
       "surface": "חלמות",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "והבלים",
-      "gloss": "pûçatî"
+      "gloss": "pûçîtî"
     },
     {
       "surface": "ודברים",
-      "gloss": "û peyvên"
+      "gloss": "peyvên"
     },
     {
       "surface": "הרבה",
-      "gloss": "gelekî"
+      "gloss": "pir"
     },
     {
       "surface": "כי",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "ירא",
-      "gloss": "bitirse"
+      "gloss": "bitirsi"
     }
   ],
-  "timestamp": "2026-08-30T06:11:14.775476962Z",
+  "timestamp": "2026-08-30T07:35:52.143477664Z",
   "model": "glm-5.3"
 }

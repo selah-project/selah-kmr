@@ -5,20 +5,20 @@
   "book": "zechariah",
   "lang": "kmr",
   "chapter": 13,
-  "translation": "Ez ⟨את⟩ êya sêyê dixin agir û wan wekî ku zîv tê xweşikkirin diguhêzim, wan wekî ku zêr tê ceribandin diiceribim. Ew bi navê min bang dikin, û ez ⟨את⟩ ⟨אתו⟩ bersîva wan didim. Ez dibêjim: ew gelê min ⟨in⟩, û ew dibêje: Yahwe Elohîmê min ⟨e⟩.",
+  "translation": "Û ⟨את⟩ sêyekê dixin agir û wan wekî ku ⟨את⟩ xezû tê xurckirin xurc dikim, û wan wekî ku ⟨את⟩ zêr tê ceribandin diciribnim; ew bi navê min bang dike û ez bersîvê wî didim; ez dibêjim: ew gelê min e, û ew dibêje: Yahwe Elohîmê min e.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "Ez … dixin"
+      "gloss": "Û ez dixin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "êya sêyê"
+      "marks": "sêyekê"
     },
     {
       "surface": "השלשית",
-      "gloss": "êya sêyê"
+      "gloss": "sêyekê"
     },
     {
       "surface": "באש",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "וצרפתים",
-      "gloss": "diguhêzim (xweşik dikim)"
+      "gloss": "xurc dikim wan"
     },
     {
       "surface": "כצרף",
-      "gloss": "wekî xweşikkirinê"
+      "gloss": "wekî xurckirinê"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zîv"
+      "marks": "xezû"
     },
     {
       "surface": "הכסף",
-      "gloss": "zîv"
+      "gloss": "xezû"
     },
     {
       "surface": "ובחנתים",
-      "gloss": "diiceribim"
+      "gloss": "diciribnim wan"
     },
     {
       "surface": "כבחן",
@@ -60,11 +60,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "Ew"
+      "gloss": "ew"
     },
     {
       "surface": "יקרא",
-      "gloss": "bang dikin"
+      "gloss": "bang dike"
     },
     {
       "surface": "בשמי",
@@ -72,20 +72,20 @@
     },
     {
       "surface": "ואני",
-      "gloss": "û ez"
+      "gloss": "Û ez"
     },
     {
       "surface": "אענה",
-      "gloss": "bersîv didim"
+      "gloss": "bersîvê didim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wan (bersîva wan)"
+      "gloss": "⟨את⟩",
+      "marks": "wî"
     },
     {
       "surface": "אמרתי",
-      "gloss": "Ez dibêjim"
+      "gloss": "ez dibêjim"
     },
     {
       "surface": "עמי",
@@ -93,11 +93,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ew"
+      "gloss": "ew e"
     },
     {
       "surface": "והוא",
-      "gloss": "û ew"
+      "gloss": "Û ew"
     },
     {
       "surface": "יאמר",
@@ -112,6 +112,6 @@
       "gloss": "Elohîmê min"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.827511891Z",
+  "timestamp": "2026-08-30T07:34:57.332706088Z",
   "model": "glm-5.3"
 }

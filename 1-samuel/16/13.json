@@ -5,24 +5,24 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 16,
-  "translation": "Û Şemûêl ⟨את⟩ qiloça rûnê hilgirt û ⟨את⟩ ⟨אתו⟩ di nava birayên wî de mesh kir; û ruhê Yahwe ji wê rojê û şûnde bi hêz hat ser Dawid. Û Şemûêl rabû û çû Ramata.",
+  "translation": "Şemuel ⟨את⟩ kornê rûnê hilgirt û wî di nava birayên xwe de rûnkir; û ruhê Yahwe ji wê rojê û pê ve bi ser Dawid re hat. Şemuel rabû û çû Ramata.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "û ... hilgirt"
+      "gloss": "hilgirt"
     },
     {
       "surface": "שמואל",
-      "gloss": "Şemûêl"
+      "gloss": "Şemuel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qiloça rûnê"
+      "marks": "kornê rûnê"
     },
     {
       "surface": "קרן",
-      "gloss": "qiloça"
+      "gloss": "kornê"
     },
     {
       "surface": "השמן",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "וימשח",
-      "gloss": "û ... mesh kir"
+      "gloss": "rûnkir"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "wî"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ותצלח",
-      "gloss": "û ... bi hêz hat"
+      "gloss": "hat"
     },
     {
       "surface": "רוח",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ser"
+      "gloss": "bi ser … re"
     },
     {
       "surface": "דוד",
@@ -75,25 +75,25 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "û şûnde"
+      "gloss": "û pê ve"
     },
     {
       "surface": "ויקם",
-      "gloss": "û ... rabû"
+      "gloss": "rabû"
     },
     {
       "surface": "שמואל",
-      "gloss": "Şemûêl"
+      "gloss": "Şemuel"
     },
     {
       "surface": "וילך",
-      "gloss": "û ... çû"
+      "gloss": "çû"
     },
     {
       "surface": "הרמתה",
       "gloss": "Ramata"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.841872398Z",
+  "timestamp": "2026-08-30T07:30:22.573166621Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 26,
-  "translation": "Û ji Eşrîel, malbata Eşrîeliyan; û ji Şe jem, malbata Şî mix?",
-  "tokens": [],
-  "timestamp": "2026-08-29T18:52:12.690055799Z",
+  "translation": "û ji Esrîêlî malbata Esrîêlîyan, û ji Şekem malbata Şekemîyan",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "û ji Esrîêl"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "Esrîêlîyan"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "û ji Şekem"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "Şekemîyan"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:21.398536801Z",
   "model": "glm-5.3"
 }

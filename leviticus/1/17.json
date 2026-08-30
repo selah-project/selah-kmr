@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Wê ⟨אתו⟩ bi balên wê ji hev bişkêne, lê wê ji hev cuda neke; û kâhîn ⟨אתו⟩ li ser mizgevtê dê bişewitîne, li ser darên ku li ser agir in: ew qurbana şewatê ye, pêşkeşiya agirê, bêhna fireh ji bo Yahwe.",
+  "translation": "Wê wê bi baskên wî qelişîne û wê nefiqîne; û kahîn wê ⟨את⟩ wê li ser sebilê şewitîne, li ser darên ku li ser ⟨את⟩ agir in — qurbana-şewatê ye, pêşkeşa-agir, bêhneke xweş ji bo Yahwe.",
   "tokens": [
     {
       "surface": "ושסע",
-      "gloss": "bişkêne"
+      "gloss": "wê qelişîne"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "bi balên wê"
+      "marks": "wê (çûk)"
     },
     {
       "surface": "בכנפיו",
-      "gloss": "bi balên wê"
+      "gloss": "bi baskên wî"
     },
     {
       "surface": "לא",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "יבדיל",
-      "gloss": "ji hev cuda neke"
+      "gloss": "wê nefiqîne"
     },
     {
       "surface": "והקטיר",
-      "gloss": "dê bişewitîne"
+      "gloss": "û wê şewitîne"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "kâhîn"
+      "marks": "wê (çûk)"
     },
     {
       "surface": "הכהן",
-      "gloss": "kâhîn"
+      "gloss": "kahîn"
     },
     {
       "surface": "המזבחה",
-      "gloss": "li ser mizgevtê"
+      "gloss": "li ser sebilê"
     },
     {
       "surface": "על",
@@ -63,19 +63,19 @@
     },
     {
       "surface": "האש",
-      "gloss": "agir in"
+      "gloss": "agir"
     },
     {
       "surface": "עלה",
-      "gloss": "qurbana şewatê"
+      "gloss": "qurbana-şewatê"
     },
     {
       "surface": "הוא",
-      "gloss": "ew … ye"
+      "gloss": "ye"
     },
     {
       "surface": "אשה",
-      "gloss": "pêşkeşiya agirê"
+      "gloss": "pêşkeşa-agir"
     },
     {
       "surface": "ריח",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "ניחח",
-      "gloss": "fireh"
+      "gloss": "xweş"
     },
     {
       "surface": "ליהוה",
       "gloss": "ji bo Yahwe"
     }
   ],
-  "timestamp": "2026-08-29T18:21:56.448797219Z",
+  "timestamp": "2026-08-30T07:27:00.159253704Z",
   "model": "glm-5.3"
 }

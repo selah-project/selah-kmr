@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 12,
-  "translation": "Hûn ê wekî tiştên ku em îro li vir dikin nekin — her kes ⟨the⟩ rastiya çi ku di çavên xwe de rasteke.",
+  "translation": "Hûn ê nekin wekî hemû tiştên ku em îro li vir dikin — her kes ⟨tiştê⟩ ku di çavên wî de rast e.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תעשון",
-      "gloss": "Hûn ê ... nekin"
+      "gloss": "hûn dikin"
     },
     {
       "surface": "ככל",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "הישר",
-      "gloss": "rastiya"
+      "gloss": "rast"
     },
     {
       "surface": "בעיניו",
-      "gloss": "di çavên xwe de"
+      "gloss": "di çavên wî de"
     }
   ],
-  "timestamp": "2026-08-29T19:03:39.991453957Z",
+  "timestamp": "2026-08-30T07:27:55.497044514Z",
   "model": "glm-5.3"
 }

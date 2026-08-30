@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 63,
-  "translation": "Wekî çêjî û dewlemendiyê nefşa min tê serrûxayî, û devê min bi lêvên kêfxweşiyê pesnê יהוה dide — ⟨⟨te⟩⟩",
-  "tokens": [],
-  "timestamp": "2026-08-30T05:22:17.506747355Z",
+  "translation": "Wek çêj û êwî canê min tê têrkirin, û lêvên min ên bêriyê devê min Yahwe bilind dikin.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Wek"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "çêj"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "û êwî"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tê têrkirin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "û lêvên min"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "ên bêriyê"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "bilind dikin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:44.498263255Z",
   "model": "glm-5.3"
 }

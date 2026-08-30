@@ -5,20 +5,19 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 39,
-  "translation": "Û wî ew danîn ⟨את⟩ ⟨אתם⟩ ser milên ephodê — kevirên bîranînê ji bo kurên Îsraêl — wekî ku Yahwe ⟨את⟩ Moşe ferman kir.",
+  "translation": "Wan ew li ser milên ephodê danî — kevirên bîranînê ji bo zarokên Îsraêlê — wekî ku Yahwe fermana Moşe kiriye ⟨את⟩ Moşe.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "û wî danîn"
+      "gloss": "danî"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ew (keviran)"
+      "gloss": "⟨את⟩ wan ew"
     },
     {
       "surface": "על",
-      "gloss": "ser"
+      "gloss": "li ser"
     },
     {
       "surface": "כתפת",
@@ -38,11 +37,11 @@
     },
     {
       "surface": "לבני",
-      "gloss": "ji bo kurên"
+      "gloss": "ji bo zarokên"
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Îsraêlê"
     },
     {
       "surface": "כאשר",
@@ -50,7 +49,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ferman kir"
+      "gloss": "fermana… kiriye"
     },
     {
       "surface": "יהוה",
@@ -58,14 +57,13 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Moşe"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "משה",
       "gloss": "Moşe"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.832844854Z",
+  "timestamp": "2026-08-30T07:26:39.768469248Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 22,
-  "translation": "Elohimê min, rojê bang dikim, lê bersîv nadî; û şevê, lê bêdengî ⟨⟨is⟩⟩ nîne ji min re.",
+  "translation": "Elohîmê min, ez rojê bang dikim û tu bersiv nade; û şevê jî û ji min re bêdengî nîne.",
   "tokens": [
     {
       "surface": "אלהי",
-      "gloss": "Elohimê min"
+      "gloss": "Elohîmê min"
     },
     {
       "surface": "אקרא",
-      "gloss": "bang dikim"
+      "gloss": "ez bang dikim"
     },
     {
       "surface": "יומם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "lê na"
+      "gloss": "û nade"
     },
     {
       "surface": "תענה",
-      "gloss": "bersîv nadî"
+      "gloss": "bersiv"
     },
     {
       "surface": "ולילה",
-      "gloss": "û şevê"
+      "gloss": "û şevê jî"
     },
     {
       "surface": "ולא",
-      "gloss": "lê nîne"
+      "gloss": "û nîne"
     },
     {
       "surface": "דומיה",
@@ -44,6 +44,6 @@
       "gloss": "ji min re"
     }
   ],
-  "timestamp": "2026-08-30T05:14:10.713432614Z",
+  "timestamp": "2026-08-30T07:34:41.786827076Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 32,
-  "translation": "Û Moşe ji bo zarokên Gad û zarokên Reuben û ji nîvê eşîra Menaşe, kurê Yosef, da — ⟨את⟩ keyaniya Sîhon, keyê Emoriyan, û ⟨את⟩ keyaniya Og, keyê Başanê — ⟨the⟩ erd bi bajarên wê, di sînorên bajarên ⟨the⟩ erdê, hûr dor",
+  "translation": "Moşe ⟨את⟩ keyaniya Sîhon, keyê Emoriyan, û ⟨את⟩ keyaniya Og, keyê Başanê, da wan — ji kurên Gad re, ji kurên Reuben re û ji nîvê êla Menashshehê kurê Yosef re: welêt bi bajarên wê, di sînorên bajarên welêt de, li dora wan.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "ji bo wan"
+      "gloss": "wan"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "ji bo zarokên"
+      "gloss": "ji kurên"
     },
     {
       "surface": "גד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ולבני",
-      "gloss": "û ji bo zarokên"
+      "gloss": "û ji kurên"
     },
     {
       "surface": "ראובן",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "שבט",
-      "gloss": "eşîra"
+      "gloss": "êlê"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menaşe"
+      "gloss": "Menashshehê"
     },
     {
       "surface": "בן",
@@ -58,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "keyaniya Sîhon"
+      "marks": "keyaniya Sîhon keyê Emoriyan"
     },
     {
       "surface": "ממלכת",
@@ -79,7 +79,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "keyaniya Og"
+      "marks": "keyaniya Og keyê Başanê"
     },
     {
       "surface": "ממלכת",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "erd"
+      "gloss": "welêt"
     },
     {
       "surface": "לעריה",
@@ -115,13 +115,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "erdê"
+      "gloss": "welêt"
     },
     {
       "surface": "סביב",
-      "gloss": "hûr dor"
+      "gloss": "dora"
     }
   ],
-  "timestamp": "2026-08-29T18:55:02.778757410Z",
+  "timestamp": "2026-08-30T07:27:59.483691610Z",
   "model": "glm-5.3"
 }

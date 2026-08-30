@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 17,
-  "translation": "Û hemû mêrên mala wî — ên di malê de ji dayik bûne û ên bi zêr ji kurê biyanî hatine kirrîn — bi wî re hatin sunnetkirin ⟨אתו⟩.",
+  "translation": "Hemû mêrên mala wî — ên di malê de ji dayik bûbûn û ên bi zîv ji ⟨את⟩ kurê biyanî hatibûn kirîn — bi ⟨את⟩ wî re hatin xetînkirin.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Û hemû"
+      "gloss": "û hemû"
     },
     {
       "surface": "אנשי",
@@ -29,15 +29,16 @@
     },
     {
       "surface": "ומקנת",
-      "gloss": "û ên hatine kirrîn"
+      "gloss": "û ên hatine kirîn"
     },
     {
       "surface": "כסף",
-      "gloss": "bi zêr"
+      "gloss": "bi zîv"
     },
     {
       "surface": "מאת",
-      "gloss": "ji ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ji kurê biyanî"
     },
     {
       "surface": "בן",
@@ -49,13 +50,13 @@
     },
     {
       "surface": "נמלו",
-      "gloss": "hatin sunnetkirin"
+      "gloss": "hatin xetînkirin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ bi wî re ⟨אתו⟩"
+      "gloss": "⟨את⟩ bi wî re"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.824359386Z",
+  "timestamp": "2026-08-30T07:24:55.289652307Z",
   "model": "glm-5.3"
 }

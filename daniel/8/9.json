@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Û ji yekê ji wan qerneke biçûk derket, û hîn zêdetir mezin bû ber bi başûr, û ber bi rojhilat, û ber bi welatê delal (הצבי).",
+  "translation": "Ji ⟨yek⟩ ji wan çû qijuteke, û wî li hemberî başûr, li hemberî rojhilat û li hemberî welatê ronahiyê gelek mezin bû.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "û ji"
+      "gloss": "ji"
     },
     {
       "surface": "האחת",
-      "gloss": "yekê"
+      "gloss": "⟨yek⟩"
     },
     {
       "surface": "מהם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יצא",
-      "gloss": "derket"
+      "gloss": "çû"
     },
     {
       "surface": "קרן",
-      "gloss": "qern"
+      "gloss": "qijutek"
     },
     {
       "surface": "אחת",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "יתר",
-      "gloss": "hîn zêdetir"
+      "gloss": "gelek"
     },
     {
       "surface": "אל",
-      "gloss": "ber bi"
+      "gloss": "li hemberî"
     },
     {
       "surface": "הנגב",
       "gloss": "başûr"
     },
     {
-      "surface": "ואל",
-      "gloss": "û ber bi"
+      "surface": "ו אל",
+      "gloss": "û li hemberî"
     },
     {
       "surface": "המזרח",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "ואל",
-      "gloss": "û ber bi"
+      "gloss": "û li hemberî"
     },
     {
       "surface": "הצבי",
-      "gloss": "welatê delal"
+      "gloss": "welatê ronahiyê"
     }
   ],
-  "timestamp": "2026-08-30T06:18:26.352084208Z",
+  "timestamp": "2026-08-30T07:35:54.927543175Z",
   "model": "glm-5.3"
 }

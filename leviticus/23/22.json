@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Û gava hûn ⟨את⟩ hasila erda xwe diçînin, qerexa zeviya xwe bi tevahî bernedin, û berheva hasila xwe kom nekin; ji feqîr û ji mêvan re ⟨bihêlin⟩ wan ⟨את⟩ ⟨אתם⟩ — ez Yahwe, Elohîmê we me.",
+  "translation": "Û dema hûn ⟨את⟩ berheva erda xwe dicînin, qunciyê zeviya xwe di cînandina xwe de bi temamî necemilînin, û heba berheva xwe berhev nekin — ji sêwîyan re û ji mêvanî welêt re ⟨את⟩ wan bihêlin. Ez im Yahwe, Elohîmê we.",
   "tokens": [
     {
       "surface": "ובקצרכם",
-      "gloss": "gava hûn diçînin"
+      "gloss": "Û dema hûn dicînin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hasila erda xwe"
+      "marks": "berheva"
     },
     {
       "surface": "קציר",
-      "gloss": "hasil"
+      "gloss": "berheva"
     },
     {
       "surface": "ארצכם",
@@ -26,47 +26,47 @@
     },
     {
       "surface": "לא",
-      "gloss": "ninikin"
+      "gloss": "ne"
     },
     {
       "surface": "תכלה",
-      "gloss": "bernedîn"
+      "gloss": "bi temamî necemilînin"
     },
     {
       "surface": "פאת",
-      "gloss": "qerexa"
+      "gloss": "qunciyê"
     },
     {
       "surface": "שדך",
-      "gloss": "zeviya xwe"
+      "gloss": "zeviya te"
     },
     {
       "surface": "בקצרך",
-      "gloss": "di çûnîna te de"
+      "gloss": "di cînandina te de"
     },
     {
       "surface": "ולקט",
-      "gloss": "berhev"
+      "gloss": "û heba"
     },
     {
       "surface": "קצירך",
-      "gloss": "hasila te"
+      "gloss": "berheva te"
     },
     {
       "surface": "לא",
-      "gloss": "ninikin"
+      "gloss": "ne"
     },
     {
       "surface": "תלקט",
-      "gloss": "kom nekin"
+      "gloss": "berhev nekin"
     },
     {
       "surface": "לעני",
-      "gloss": "ji feqîr"
+      "gloss": "ji sêwîyan re"
     },
     {
       "surface": "ולגר",
-      "gloss": "ji mêvan re"
+      "gloss": "û ji mêvanî welêt re"
     },
     {
       "surface": "תעזב",
@@ -74,12 +74,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wan (feqîr û mêvan)"
+      "gloss": "⟨את⟩",
+      "marks": "wan"
     },
     {
       "surface": "אני",
-      "gloss": "ez"
+      "gloss": "Ez im"
     },
     {
       "surface": "יהוה",
@@ -90,6 +90,6 @@
       "gloss": "Elohîmê we"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.852508499Z",
+  "timestamp": "2026-08-30T07:27:01.481104742Z",
   "model": "glm-5.3"
 }

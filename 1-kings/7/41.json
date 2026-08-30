@@ -5,8 +5,90 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 7,
-  "translation": "stûnên du, ûAware du gilîyên kotaran ku li ser serê stûnên in, û du torîn, ji bo vexwartina du gilîyên kotaran ku li ser serê stûnên in.",
-  "tokens": [],
-  "timestamp": "2026-08-29T20:02:41.228984421Z",
+  "translation": "Stûnên du, û kûpên kotayên li ser serê stûnan du, û torên du, ji bo vehêtina ⟨את⟩ herdu kûpên kotayan ku li ser serê stûnan bûn,",
+  "tokens": [
+    {
+      "surface": "עמדים",
+      "gloss": "stûnên"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "וגלת",
+      "gloss": "û kûpên"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "kotayên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stûnan"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "du"
+    },
+    {
+      "surface": "והשבכות",
+      "gloss": "û torên"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "du"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ji bo vehêtina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herdu kûpên kotayan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "kûpên"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "kotayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "stûnan"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:30.904442829Z",
   "model": "glm-5.3"
 }

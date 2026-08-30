@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 9,
-  "translation": "Û ⟨את⟩ pêşkêşa ard nêzîk kir, tiltekê xwe ji wê tijî kir û ⟨the⟩ li ser textê şewitand — ji xeynî holokosta sibehê.",
+  "translation": "Û pêşkêşa ard (minha) anî, destê xwe ji wê tijî kir û li ser milan (mizbeah) êşand — ji bilî qurbana sibehê (olat haboker).",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "nêzîk kir"
+      "gloss": "anî pêş"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pêşkêşa ard"
+      "marks": "pêşkêşa ard (minha)"
     },
     {
       "surface": "המנחה",
-      "gloss": "pêşkêşa ard"
+      "gloss": "pêşkêşa ard (minha)"
     },
     {
       "surface": "וימלא",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "כפו",
-      "gloss": "tiltekê wî"
+      "gloss": "destê wî (kef)"
     },
     {
       "surface": "ממנה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויקטר",
-      "gloss": "şewitand"
+      "gloss": "êşand (qetir)"
     },
     {
       "surface": "על",
@@ -42,21 +42,21 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "textê"
+      "gloss": "milan (mizbeah)"
     },
     {
       "surface": "מלבד",
-      "gloss": "ji xeynî"
+      "gloss": "ji bilî"
     },
     {
       "surface": "עלת",
-      "gloss": "holokosta"
+      "gloss": "qurbana pêkhatekan (ola)"
     },
     {
       "surface": "הבקר",
-      "gloss": "sibehê"
+      "gloss": "a sibehê (boker)"
     }
   ],
-  "timestamp": "2026-08-29T18:25:55.832523672Z",
+  "timestamp": "2026-08-30T07:26:29.007420065Z",
   "model": "glm-5.3"
 }

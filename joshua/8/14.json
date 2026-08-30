@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Û çawa (ku) padîşahê HaYê (Aiyê) <wî dît>, ew lezînin, ber bi sibê ve rabûn, û mêrên bajarê derketin hemberî Yisraêlê şerî; ew û tevahiya gelê wî, di dema diyarkirî de, li ber çiyayê Deştên-Başûr (Arabayê); lê ew nizanibû ku li pişt bajarê êrîşkarekî veşartî ji bo wî heye.",
+  "translation": "Û gava melikê Ha'yê ⟨ew⟩ dît, zû rabûn û berê danî, mêrê bajarê derketin hemberî Yisraêlê şer, ew û tevaya gelê wî, di dema diyarkirî de, li pêş çolê (ʿerewa)x — lê ew nizanîbû ku êrîşek veşartî li pişt bajarê ji bo wî rûniştî ye.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Û çawa (ku)"
+      "gloss": "û gava"
     },
     {
       "surface": "כראות",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "מלך",
-      "gloss": "padîşahê"
+      "gloss": "melik"
     },
     {
       "surface": "העי",
-      "gloss": "HaYê"
+      "gloss": "Ha'yê"
     },
     {
       "surface": "וימהרו",
-      "gloss": "lezînin"
+      "gloss": "zû kir"
     },
     {
       "surface": "וישכימו",
-      "gloss": "ber bi sibê ve rabûn"
+      "gloss": "berê danî"
     },
     {
       "surface": "ויצאו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "mêrên"
+      "gloss": "mêrê"
     },
     {
       "surface": "העיר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "şerî"
+      "gloss": "şer"
     },
     {
       "surface": "הוא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "û tevahiya"
+      "gloss": "û tevaya"
     },
     {
       "surface": "עמו",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "li ber çiyayê"
+      "gloss": "li pêş"
     },
     {
       "surface": "הערבה",
-      "gloss": "Deştên-Başûr"
+      "gloss": "çolê"
     },
     {
       "surface": "והוא",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "ידע",
-      "gloss": "zani-bû"
+      "gloss": "zanî"
     },
     {
       "surface": "כי",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "ארב",
-      "gloss": "êrîşkarekî veşartî"
+      "gloss": "êrîşek veşartî"
     },
     {
       "surface": "לו",
@@ -112,6 +112,6 @@
       "gloss": "bajarê"
     }
   ],
-  "timestamp": "2026-08-29T19:16:56.410523981Z",
+  "timestamp": "2026-08-30T07:28:55.873164434Z",
   "model": "glm-5.3"
 }

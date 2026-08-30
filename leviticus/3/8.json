@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Û destê xwe ⟨את⟩ li ser serê qurbanê xwe danîne, ⟨אתו⟩ berî Çadeya Civînê serjê bike; û lawên Aharon xwîna wî ⟨את⟩ li ser altûrê, li dora wê, rijînin.",
+  "translation": "Û destê xwe daniye ser serê qurbana xwe, û ⟨wê⟩ berî Çadira Civînê serjê dike, û kurên Aharon ⟨את⟩ xwîna wê li ser ⟨derê⟩ mezin dahêlînin — derdorê wê.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "Û danîne"
+      "gloss": "û destê xwe daniye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "destê xwe"
+      "marks": "destê xwe (yê wî)"
     },
     {
       "surface": "ידו",
-      "gloss": "destê xwe"
+      "gloss": "destê wî"
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "ser"
     },
     {
       "surface": "ראש",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "קרבנו",
-      "gloss": "qurbanê xwe"
+      "gloss": "qurbana wî"
     },
     {
       "surface": "ושחט",
-      "gloss": "Û serjê bike"
+      "gloss": "û serjê dike"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ew (razek)"
+      "marks": "wê (berî Çadira Civînê)"
     },
     {
       "surface": "לפני",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "Çadeya"
+      "gloss": "Çadira"
     },
     {
       "surface": "מועד",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "Û rijînin"
+      "gloss": "û dahêlînin"
     },
     {
       "surface": "בני",
-      "gloss": "lawên"
+      "gloss": "kurên"
     },
     {
       "surface": "אהרן",
@@ -68,11 +68,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "xwîna wî"
+      "marks": "xwîna wê"
     },
     {
       "surface": "דמו",
-      "gloss": "xwîna wî"
+      "gloss": "xwîna wê"
     },
     {
       "surface": "על",
@@ -80,13 +80,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altûrê"
+      "gloss": "mezin (destdayî)"
     },
     {
       "surface": "סביב",
-      "gloss": "li dora wê"
+      "gloss": "derdorê wê"
     }
   ],
-  "timestamp": "2026-08-29T18:22:35.799894282Z",
+  "timestamp": "2026-08-30T07:26:29.595390974Z",
   "model": "glm-5.3"
 }

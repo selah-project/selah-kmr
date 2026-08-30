@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û Tsadok kahîn, û Netan pêxember, û Benayahu kurê Yehoyada, û Keretî û Peletî daketin, û ⟨את⟩ Şelomo siwarî qantirê padîşah Dawid kirin, û ⟨אתו⟩ birin heta Gîhon.",
+  "translation": "Tsadok ⟨kohen⟩ û Natan pêxember û Benayahû kurê Yehoyada û Keretî û Peletî daketin, Şelomo siwarî kerê-qertî yê key Dawid kirin û ⟨את⟩ wî birin ser Gîhon.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "Û daketin"
+      "gloss": "daketin"
     },
     {
       "surface": "צדוק",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kahîn"
+      "gloss": "kohen"
     },
     {
       "surface": "ונתן",
-      "gloss": "û Netan"
+      "gloss": "û Natan"
     },
     {
       "surface": "הנביא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובניהו",
-      "gloss": "û Benayahu"
+      "gloss": "û Benayahû"
     },
     {
       "surface": "בן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וירכבו",
-      "gloss": "siwarî…kirin"
+      "gloss": "siwarî kirin"
     },
     {
       "surface": "את",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "פרדת",
-      "gloss": "qantirê"
+      "gloss": "kerê-qertî"
     },
     {
       "surface": "המלך",
-      "gloss": "padîşah"
+      "gloss": "key"
     },
     {
       "surface": "דוד",
@@ -82,18 +82,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ew (Şelomo)"
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Şelomo)"
     },
     {
       "surface": "על",
-      "gloss": "heta"
+      "gloss": "ber bi"
     },
     {
       "surface": "גחון",
       "gloss": "Gîhon"
     }
   ],
-  "timestamp": "2026-08-29T20:01:09.873551026Z",
+  "timestamp": "2026-08-30T07:31:30.606078604Z",
   "model": "glm-5.3"
 }

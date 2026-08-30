@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Hat cem wî, û binihêre, ew li ser pêşkêşa xwe ya şewatê disekand, û şûnwarên Moabê ⟨אתו⟩ bi wî re; Balak jê re got: \"Çi got Yahwe?\"",
+  "translation": "Êû hat balûra wî, û êrê, ew li ser qurbana-xwe ya şewatê rawestiyabû, û serên Moabê ⟨את⟩ wî re bûn; û Balîq ji wî re got: «Yahwe çi got?»",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אליו",
-      "gloss": "cem wî"
+      "gloss": "balûra wî"
     },
     {
       "surface": "והנו",
-      "gloss": "û binihêre"
+      "gloss": "û êrê, ew"
     },
     {
       "surface": "נצב",
-      "gloss": "disekand"
+      "gloss": "rawestiyabû"
     },
     {
       "surface": "על",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עלתו",
-      "gloss": "pêşkêşa xwe ya şewatê"
+      "gloss": "qurbana-xwe ya şewatê"
     },
     {
       "surface": "ושרי",
-      "gloss": "û şûnwarên"
+      "gloss": "û serên"
     },
     {
       "surface": "מואב",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ bi wî re",
-      "marks": "bi wî re"
+      "gloss": "⟨את⟩",
+      "marks": "wî re"
     },
     {
       "surface": "ויאמר",
-      "gloss": "û got"
+      "gloss": "û … got"
     },
     {
       "surface": "לו",
-      "gloss": "jê re"
+      "gloss": "ji wî re"
     },
     {
       "surface": "בלק",
-      "gloss": "Balak"
+      "gloss": "Balîq"
     },
     {
       "surface": "מה",
@@ -69,6 +69,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-29T18:51:03.503694234Z",
+  "timestamp": "2026-08-30T07:27:14.592039956Z",
   "model": "glm-5.3"
 }

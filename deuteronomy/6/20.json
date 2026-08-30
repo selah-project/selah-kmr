@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "Gava kurê te sibê ji te bipirse û bêje: Çi ne ev şahidî, biryar û hukm, ku Yahwe Elohîmê me ⟨אתכם⟩ ferman kiriye?",
+  "translation": "Dema ku kurrê te sibê ji te bipirse, gotine: \"Ev şahidî û destûr û hukmên ku Yahwe Elohîmê me fermanî we kiriye, çi ne?\"",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "gava"
+      "gloss": "dema ku"
     },
     {
       "surface": "ישאלך",
-      "gloss": "ji-te-bipirse"
+      "gloss": "ji te bipirse"
     },
     {
       "surface": "בנך",
-      "gloss": "kurê-te"
+      "gloss": "kurrê te"
     },
     {
       "surface": "מחר",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "û-bêje"
+      "gloss": "gotine"
     },
     {
       "surface": "מה",
-      "gloss": "ç-ne"
+      "gloss": "çi ne"
     },
     {
       "surface": "העדת",
-      "gloss": "şahidî"
+      "gloss": "ev şahidî"
     },
     {
       "surface": "והחקים",
-      "gloss": "û-biryar"
+      "gloss": "û destûr"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "û-hukm"
+      "gloss": "û hukmên"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ferman-kiriye"
+      "gloss": "fermanî... kiriye"
     },
     {
       "surface": "יהוה",
@@ -57,14 +57,14 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohîmê-me"
+      "gloss": "Elohîmê me"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "we"
+      "marks": "we (we kesê pêşkêşker)"
     }
   ],
-  "timestamp": "2026-08-29T19:01:07.076210636Z",
+  "timestamp": "2026-08-30T07:28:02.462975926Z",
   "model": "glm-5.3"
 }

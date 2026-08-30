@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 19,
-  "translation": "Û ew ji pey wê vegeriya û ⟨את⟩ cûta gayan girt û wan qurbankir, û goştê wan bi alavên gayan xwar (pêjandin) û da ⟨the⟩ gelê xwe, û xwarin. Paşê ew rabû û çû pey Eliyayu û xizmetê wî kir.",
+  "translation": "Ew ji pey wê vegeriya, cota gayan girt ⟨את⟩, serê jê kir, û bi alavên gayan goştê wan xist pêxistan, da xelkê xwar, ew jî xwarin. Paşê rabû, çû pey Eliyahu, û xizmetê wî kir.",
   "tokens": [
     {
       "surface": "וישב",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cûta gayan"
+      "marks": "cota gayan (צמד)"
     },
     {
       "surface": "צמד",
-      "gloss": "cûta"
+      "gloss": "cota gayan"
     },
     {
       "surface": "הבקר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויזבחהו",
-      "gloss": "wan qurbankir"
+      "gloss": "serê jê kir"
     },
     {
       "surface": "ובכלי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "בשלם",
-      "gloss": "pêjandin"
+      "gloss": "xist pêxistan"
     },
     {
       "surface": "הבשר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "לעם",
-      "gloss": "gelê xwe"
+      "gloss": "xelkê"
     },
     {
       "surface": "ויאכלו",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "אליהו",
-      "gloss": "Eliyayu"
+      "gloss": "Eliyahu"
     },
     {
       "surface": "וישרתהו",
       "gloss": "xizmetê wî kir"
     }
   ],
-  "timestamp": "2026-08-30T03:34:51.476209109Z",
+  "timestamp": "2026-08-30T07:31:55.049389823Z",
   "model": "glm-5.3"
 }

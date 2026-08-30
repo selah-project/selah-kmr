@@ -5,8 +5,33 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 26,
-  "translation": "Û ji Şemîda, malbata Şemîdayiyan; û ji Xefer, malbata Xeferiyan.",
-  "tokens": [],
-  "timestamp": "2026-08-29T18:52:12.690270099Z",
+  "translation": "û ji Şemîda, malbata Şemîdayiyan; û ji Ḥefer, malbata Ḥeferiyan.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "û ji Şemîda"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "Şemîdayiyan"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "û ji Ḥefer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "Ḥeferiyan"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:14.175942Z",
   "model": "glm-5.3"
 }

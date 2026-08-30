@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 5,
-  "translation": "Darik dirêj kirin, û serê darikan ji sandiqê ve li ber ⟨hûrma⟩ Dibêrê xuya bûn, lê derve ne xuya bûn; û ew heta îro li wir in.",
+  "translation": "Darikên sandiqê dirêj bûn, û serên darikan ji sandiqê de, li pêşiya Debîr, xuya bûn; lê ji derve ne xuya bûn; ew heta roja îro li wir in.",
   "tokens": [
     {
       "surface": "ויאריכו",
-      "gloss": "dirêj kirin"
+      "gloss": "dirêj bûn"
     },
     {
       "surface": "הבדים",
-      "gloss": "darik"
+      "gloss": "darikên"
     },
     {
       "surface": "ויראו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "serê"
+      "gloss": "serên"
     },
     {
       "surface": "הבדים",
@@ -37,19 +37,15 @@
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "li"
     },
     {
       "surface": "פני",
-      "gloss": "berê"
+      "gloss": "pêşiya"
     },
     {
       "surface": "הדביר",
-      "gloss": "Dibêr"
-    },
-    {
-      "surface": "ויהי",
-      "gloss": "û ew bû"
+      "gloss": "Debîr"
     },
     {
       "surface": "ולא",
@@ -61,11 +57,11 @@
     },
     {
       "surface": "החוצה",
-      "gloss": "derve"
+      "gloss": "ji derve"
     },
     {
       "surface": "ויהי",
-      "gloss": "bû"
+      "gloss": "ew"
     },
     {
       "surface": "שם",
@@ -81,9 +77,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "vê"
+      "gloss": "îro ev"
     }
   ],
-  "timestamp": "2026-08-30T06:44:08.333843768Z",
+  "timestamp": "2026-08-30T07:23:04.700605205Z",
   "model": "glm-5.3"
 }

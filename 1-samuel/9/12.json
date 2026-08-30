@@ -5,16 +5,16 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 9,
-  "translation": "Û ew (keçik) bersivê dan wan ⟨אותם⟩ û gotin: ⟨Ew⟩ heye; lo, li pêş te ye; niha lez bike, ji ber ku îro ew tê bajêr, ji ber ku îro qurbanî ji bo gelê li cihê bilind heye.",
+  "translation": "Bersivê da ⟨את⟩ wan û gotin: \"Ew heye; binêre, ew li pêş te ye; niha lez bike, ji ber ku îro ew hatiye bajarê, ji ber ku qurbanî heye îro ji bo gel li cihê bilind.\"",
   "tokens": [
     {
       "surface": "ותענינה",
-      "gloss": "Û ew bersivê dan"
+      "gloss": "bersivê dan"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "wan"
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan (bersivê dabûn)"
     },
     {
       "surface": "ותאמרנה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "lo"
+      "gloss": "binêre"
     },
     {
       "surface": "לפניך",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "בא",
-      "gloss": "tê"
+      "gloss": "hatiye"
     },
     {
       "surface": "לעיר",
-      "gloss": "bajêr"
+      "gloss": "bo bajarê"
     },
     {
       "surface": "כי",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "לעם",
-      "gloss": "ji bo gelê"
+      "gloss": "ji bo gel"
     },
     {
       "surface": "בבמה",
       "gloss": "li cihê bilind"
     }
   ],
-  "timestamp": "2026-08-29T19:39:29.376938344Z",
+  "timestamp": "2026-08-30T07:30:24.659541418Z",
   "model": "glm-5.3"
 }

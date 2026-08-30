@@ -5,8 +5,49 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 37,
-  "translation": "Li ku derê melayêkî Xemate, melayêkî ERPADÊ û melayêkî ARPADE, û melayêkî ERPADÊ LI KU DERÊ?",
-  "tokens": [],
-  "timestamp": "2026-08-29T20:37:51.713873847Z",
+  "translation": "Li ku derê ⟨ye⟩ keyê Xamatê, û keyê Arpadê, û keyê bajarê Sefarwayim, Henayê û Îwayê?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Li ku derê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamatê"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "û keyê"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadê"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "û keyê"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Henayê"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "û Îwayê"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:41.663189002Z",
   "model": "glm-5.3"
 }

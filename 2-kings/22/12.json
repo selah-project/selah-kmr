@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 22,
-  "translation": "Key ferman da ⟨את⟩ Hîlqîya ⟨kahîn⟩ û ⟨את⟩ Ahîqam kurê Şafan û ⟨את⟩ Axbor kurê Mîxaya û ⟨את⟩ Şafan ⟨nivîskar⟩ û ⟨את⟩ Asaya xizmetkarê key, û ⟨⟨את⟩ got⟩:",
+  "translation": "Û şah ferman da Hîlqîya kahînê û ⟨את⟩ Ahîqam kurê Şafan û ⟨את⟩ Akbor kurê Mîxaya û ⟨את⟩ Şafan nivîskar û ⟨את⟩ Asayê xulamê şah, gotinê:",
   "tokens": [
     {
       "surface": "ויצו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "key"
+      "gloss": "şah"
     },
     {
       "surface": "את",
@@ -26,21 +26,77 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kahîn"
+      "gloss": "kahînê"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "⟨את⟩ got"
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Ahîqam"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "got"
+      "surface": "אחיקם",
+      "gloss": "Ahîqam"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "got"
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Şafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Akbor"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mîxaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Şafan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Şafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "nivîskar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Asayê"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asayê"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xulamê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotinê"
     }
   ],
-  "timestamp": "2026-08-29T20:24:37.997891347Z",
+  "timestamp": "2026-08-30T07:22:47.554046517Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Û hûn bi navê xwedêyên xwe gazî bikin, û ez jî bi navê Yahwe gazî dikim; û ew Elohîm ku bi agir bersiv dide, ew ⟨is⟩ Elohîm. Û tevî gel bersiv da û got: Peyv baş e.",
+  "translation": "Û hûn bi navê Elohîmê xwe bang bikin, û ez ê bi navê Yahwe bang bikim; û wê bibe: Xwedayê ku bi agir bersiv dide — ew ê Xwedê ye. Û tevahiya gelê bersiv da û got: Peyv baş e.",
   "tokens": [
     {
       "surface": "וקראתם",
-      "gloss": "û hûn gazî bikin"
+      "gloss": "û hûn bang bikin"
     },
     {
       "surface": "בשם",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "xwedêyên we"
+      "gloss": "Elohîmê xwe"
     },
     {
       "surface": "ואני",
-      "gloss": "û ez jî"
+      "gloss": "û ez"
     },
     {
       "surface": "אקרא",
-      "gloss": "gazî dikim"
+      "gloss": "bang dikim"
     },
     {
       "surface": "בשם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "û ew ê"
+      "gloss": "û wê bibe"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohîm"
+      "gloss": "Xwedayê"
     },
     {
       "surface": "אשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohîm"
+      "gloss": "Xwedê"
     },
     {
       "surface": "ויען",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "tevî"
+      "gloss": "tevahiya"
     },
     {
       "surface": "העם",
-      "gloss": "gel"
+      "gloss": "gelê"
     },
     {
       "surface": "ויאמרו",
@@ -88,6 +88,6 @@
       "gloss": "peyv"
     }
   ],
-  "timestamp": "2026-08-29T20:12:23.229970756Z",
+  "timestamp": "2026-08-30T07:32:00.122623918Z",
   "model": "glm-5.3"
 }

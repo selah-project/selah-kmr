@@ -5,7 +5,7 @@
   "book": "joel",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Roja tarîtî û tarîbûnê, roja ewran û mijtarî ye; wek tarîtî belavbûyî li ser çiyayan, komèleke mezin û hêzdar. Weke wê ji ⟨the⟩ sibê de nebûye, û li pey wê dîsa çê nabe, heta salên nifş û nifşan.",
+  "translation": "Roja tarîtîyê û tarîbûnê, roja ewr û mijtarîtîyê; wek sibeha li ser çiyan belav bûye — komeke mezin û hêzdar; wek wê ji êd û derbas nebûye, û piştî wê dê nîne heya salên nifş û nifşan.",
   "tokens": [
     {
       "surface": "יום",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חשך",
-      "gloss": "tarîtî"
+      "gloss": "tarîtîyê"
     },
     {
       "surface": "ואפלה",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ענן",
-      "gloss": "ewran"
+      "gloss": "ewr"
     },
     {
       "surface": "וערפל",
-      "gloss": "û mijtarî"
+      "gloss": "û mijtarîtîyê"
     },
     {
       "surface": "כשחר",
-      "gloss": "wek tarîtî belavbûyî"
+      "gloss": "wek sibeha"
     },
     {
       "surface": "פרש",
-      "gloss": "belavbûyî"
+      "gloss": "belav bûye"
     },
     {
       "surface": "על",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ההרים",
-      "gloss": "çiyayan"
+      "gloss": "çiyan"
     },
     {
       "surface": "עם",
-      "gloss": "komèleke"
+      "gloss": "komeke"
     },
     {
       "surface": "רב",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "כמהו",
-      "gloss": "weke wê"
+      "gloss": "wek wê"
     },
     {
       "surface": "לא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "נהיה",
-      "gloss": "bûye"
+      "gloss": "derbas nebûye"
     },
     {
       "surface": "מן",
@@ -77,23 +77,23 @@
     },
     {
       "surface": "העולם",
-      "gloss": "sibê de"
+      "gloss": "êd"
     },
     {
       "surface": "ואחריו",
-      "gloss": "li pey wê"
+      "gloss": "û piştî wê"
     },
     {
       "surface": "לא",
-      "gloss": "çê nabe"
+      "gloss": "nîne"
     },
     {
       "surface": "יוסף",
-      "gloss": "dîsa"
+      "gloss": "dê … heya"
     },
     {
       "surface": "עד",
-      "gloss": "heta"
+      "gloss": "heya"
     },
     {
       "surface": "שני",
@@ -108,6 +108,6 @@
       "gloss": "û nifşan"
     }
   ],
-  "timestamp": "2026-08-30T04:06:48.414139129Z",
+  "timestamp": "2026-08-30T07:33:45.041090894Z",
   "model": "glm-5.3"
 }

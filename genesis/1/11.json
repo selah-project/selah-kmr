@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û Elohîm got: ⟨ארץ⟩ bila bi ruralê sivik, riwekên tovimê didin, darên fêkiyan didin, fêkiyê gorî corê xwe, ku tê tovimê wî di nava wê de, li ser erdê derkevin. Û wisa bû.",
+  "translation": "Û Elohîm got: Erd bila riwan derxîne — giyayê ku tox dide, û dara fêkiyê ku fêkiya xwe bi cureyê xwe dide, ku toxê wê tê de ye — li ser erdê. Û wisa bû.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תדשא",
-      "gloss": "bila bi ruralê"
+      "gloss": "bila derxîne"
     },
     {
       "surface": "הארץ",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "דשא",
-      "gloss": "rûval"
+      "gloss": "riwan"
     },
     {
       "surface": "עשב",
-      "gloss": "riwek"
+      "gloss": "giya"
     },
     {
       "surface": "מזריע",
-      "gloss": "tovimê didin"
+      "gloss": "tox dide"
     },
     {
       "surface": "זרע",
-      "gloss": "tov"
+      "gloss": "tox"
     },
     {
       "surface": "עץ",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "didin"
+      "gloss": "çêdike"
     },
     {
       "surface": "פרי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "למינו",
-      "gloss": "gorî corê wî"
+      "gloss": "bi cureyê xwe"
     },
     {
       "surface": "אשר",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "זרעו",
-      "gloss": "tovimê wî"
+      "gloss": "toxê wê"
     },
     {
       "surface": "בו",
-      "gloss": "di nava wê de"
+      "gloss": "tê de"
     },
     {
       "surface": "על",
@@ -88,6 +88,6 @@
       "gloss": "wisa"
     }
   ],
-  "timestamp": "2026-08-29T17:33:16.651484314Z",
+  "timestamp": "2026-08-30T07:24:46.339952827Z",
   "model": "glm-5.3"
 }

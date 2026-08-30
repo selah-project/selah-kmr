@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 19,
-  "translation": "Û Yehonatan gazî Dawid kir û Yehonatan ⟨את⟩ van hemû gotinan ji wî re got, û Yehonatan ⟨את⟩ Dawid bal Şaul ve anî û ew êdî li ber wî bû wekî ⟨dûr> û sê-rojê berê.",
+  "translation": "Yehonatan gazî Dawid kir û Yehonatan ⟨את⟩ van hemû gotinan ji wî re got; Yehonatan Dawid ⟨את⟩ bal Şaûl ve anî û ew ⟨bû⟩ ber wî wekî {duh û sê roj berê}.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "gotin"
+      "gloss": "gotinan"
     },
     {
       "surface": "האלה",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "bal"
+      "gloss": "bal … ve"
     },
     {
       "surface": "שאול",
-      "gloss": "Şaul"
+      "gloss": "Şaûl"
     },
     {
       "surface": "ויהי",
@@ -79,17 +79,17 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "li ber wî"
+      "gloss": "ber wî"
     },
     {
       "surface": "כאתמול",
-      "gloss": "wekî dûr"
+      "gloss": "wekî duh û sê roj berê"
     },
     {
       "surface": "שלשום",
-      "gloss": "û sê-rojê berê"
+      "gloss": "sê roj berê"
     }
   ],
-  "timestamp": "2026-08-30T03:35:50.232682581Z",
+  "timestamp": "2026-08-30T07:30:38.512592440Z",
   "model": "glm-5.3"
 }

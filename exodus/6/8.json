@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "û ez ê ⟨את⟩ ⟨אתכם⟩ bînim bo ⟨את⟩ wê erdê ku min ⟨את⟩ destê xwe hilda da wê bidim Avraham, Yîtshaq û Yaqûb; û ez ê ⟨את⟩ ⟨אתה⟩ wê wek mîrasiyekê bidim we. Ez im Yahwe.”",
+  "translation": "Û ez ê we ⟨את⟩ bînebi heta erdê ku min destê xwe bilind kiribû ku wê ⟨את⟩ bidim Avraham, Yîtshaq û Yaqov; û ez ê wê ⟨את⟩ bidim we wek mîras — ez Yahwe me.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "û ez ê bînim"
+      "gloss": "û ez ê bînebi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ we",
       "marks": "we"
     },
     {
       "surface": "אל",
-      "gloss": "bo"
+      "gloss": "heta"
     },
     {
       "surface": "הארץ",
-      "gloss": "wê erdê"
+      "gloss": "erdê"
     },
     {
       "surface": "אשר",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "min hilda"
+      "gloss": "min bilind kiribû"
     },
     {
       "surface": "את",
@@ -43,12 +43,12 @@
     },
     {
       "surface": "לתת",
-      "gloss": "da ... bidim"
+      "gloss": "ku bidim"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨אתה⟩",
-      "marks": "wê"
+      "gloss": "⟨את⟩ wê",
+      "marks": "wê (erd)"
     },
     {
       "surface": "לאברהם",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "וליעקב",
-      "gloss": "û Yaqûb"
+      "gloss": "û Yaqov"
     },
     {
       "surface": "ונתתי",
@@ -68,8 +68,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨אתה⟩",
-      "marks": "wê"
+      "gloss": "⟨את⟩ wê",
+      "marks": "wê (erd)"
     },
     {
       "surface": "לכם",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "מורשה",
-      "gloss": "wek mîrasiyekê"
+      "gloss": "wek mîras"
     },
     {
       "surface": "אני",
-      "gloss": "Ez"
+      "gloss": "ez"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.839164882Z",
+  "timestamp": "2026-08-30T07:46:44.606663880Z",
   "model": "glm-5.3"
 }

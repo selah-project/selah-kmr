@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Di wê demê de ku hûn dengê korn, fîfîk, kîtaros, sabka, psanterîn, sîmfonî û hemû corên muzîkê dibihîzin, hûn dikin xwarê û rêzê digirin ji ⟨the⟩ pûtê zêrîn ku Nebukadnessar key bilind kiriye.",
+  "translation": "Di wê demê de ku hûn dengê qernê, fulûtê, kîtarosê, sabkayê, psanterînê, sîmfoniyayê û hemû corên muzîkê dibihîzin, hûn dikivin û berî wê pêkera zêrîn a ku Nebûkadnessar, şah, bilind kiribe serê xwe ditewînin.",
   "tokens": [
     {
       "surface": "בעדנא",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "קרנא",
-      "gloss": "korn"
+      "gloss": "qernê"
     },
     {
       "surface": "משרוקיתא",
-      "gloss": "fîfîk"
+      "gloss": "fulûtê"
     },
     {
       "surface": "קיתרוס",
-      "gloss": "kîtaros"
+      "gloss": "kîtarosê"
     },
     {
       "surface": "סבכא",
-      "gloss": "sabka"
+      "gloss": "sabkayê"
     },
     {
       "surface": "פסנתרין",
-      "gloss": "psanterîn"
+      "gloss": "psanterînê"
     },
     {
       "surface": "סומפניה",
-      "gloss": "sîmfonî"
+      "gloss": "sîmfoniyayê"
     },
     {
       "surface": "וכל",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "תפלון",
-      "gloss": "hûn dikin xwarê"
+      "gloss": "hûn dikivin"
     },
     {
       "surface": "ותסגדון",
-      "gloss": "û rêzê digirin"
+      "gloss": "û ditewînin"
     },
     {
       "surface": "לצלם",
-      "gloss": "ji pûtê"
+      "gloss": "berî wê pêkerê"
     },
     {
       "surface": "דהבא",
@@ -77,21 +77,21 @@
     },
     {
       "surface": "די",
-      "gloss": "ku"
+      "gloss": "a ku"
     },
     {
       "surface": "הקים",
-      "gloss": "bilind kiriye"
+      "gloss": "bilind kiribe"
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nebukadnessar"
+      "gloss": "Nebûkadnessar"
     },
     {
       "surface": "מלכא",
-      "gloss": "key"
+      "gloss": "şah"
     }
   ],
-  "timestamp": "2026-08-30T06:16:22.921305154Z",
+  "timestamp": "2026-08-30T07:36:05.651430505Z",
   "model": "glm-5.3"
 }

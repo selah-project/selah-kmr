@@ -5,11 +5,11 @@
   "book": "hosea",
   "lang": "kmr",
   "chapter": 4,
-  "translation": "Ba wê di baskên ⟨את⟩ ⟨אותה⟩ xwe de girtiye, û ew ê ji qurbanên xwe bi şerm ketin.",
+  "translation": "Ba xwe girt ⟨את⟩ wê di baskên xwe de, û ew ê ji gorînên xwe bi şerm bikevin.",
   "tokens": [
     {
       "surface": "צרר",
-      "gloss": "girtiye"
+      "gloss": "ba xwe girt"
     },
     {
       "surface": "רוח",
@@ -17,8 +17,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨אותה⟩",
-      "marks": "di baskên xwe de"
+      "gloss": "⟨את⟩",
+      "marks": "wê"
     },
     {
       "surface": "בכנפיה",
@@ -26,13 +26,13 @@
     },
     {
       "surface": "ויבשו",
-      "gloss": "bi şerm ketin"
+      "gloss": "bi şerm bikevin"
     },
     {
       "surface": "מזבחותם",
-      "gloss": "ji qurbanên xwe"
+      "gloss": "ji gorînên xwe"
     }
   ],
-  "timestamp": "2026-08-30T04:03:14.379625260Z",
+  "timestamp": "2026-08-30T07:33:40.490533217Z",
   "model": "glm-5.3"
 }

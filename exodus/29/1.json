@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 29,
-  "translation": "Û ev e ⟨the⟩ tiştê ku tu yê ji bo wan bikî da ku wan pîroz bikî, da ku ew bibin kahanên min: bigre yek ga, kurê çêlekê, û du beranên bêkêmasî.",
+  "translation": "Ev tiştê ku tu yê ji bo wan bikî, da ku wan pîroz bikî ku ew ji bo min kahîn bikin: ji xwe re yek golik, kurê çêlkan, û du koçên bêkêmasî bigire.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "Û ev e"
+      "gloss": "û ev"
     },
     {
       "surface": "הדבר",
-      "gloss": "tiştê"
+      "gloss": "tişt"
     },
     {
       "surface": "אשר",
@@ -33,23 +33,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ wan"
+      "gloss": "⟨את⟩wan",
+      "marks": "wan (kahîn)"
     },
     {
       "surface": "לכהן",
-      "gloss": "da ku bibin kahan"
+      "gloss": "kahîn bikin"
     },
     {
       "surface": "לי",
-      "gloss": "ên min"
+      "gloss": "ji bo min"
     },
     {
       "surface": "לקח",
-      "gloss": "bigre"
+      "gloss": "bigire"
     },
     {
       "surface": "פר",
-      "gloss": "ga"
+      "gloss": "golik"
     },
     {
       "surface": "אחד",
@@ -61,11 +62,11 @@
     },
     {
       "surface": "בקר",
-      "gloss": "çêlekê"
+      "gloss": "çêlkan"
     },
     {
       "surface": "ואילם",
-      "gloss": "û du beranên"
+      "gloss": "û du koçan"
     },
     {
       "surface": "שנים",
@@ -76,6 +77,6 @@
       "gloss": "bêkêmasî"
     }
   ],
-  "timestamp": "2026-08-29T18:15:53.694833374Z",
+  "timestamp": "2026-08-30T07:46:50.527145938Z",
   "model": "glm-5.3"
 }

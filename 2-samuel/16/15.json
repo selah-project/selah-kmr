@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 16,
-  "translation": "Û Avşalom û hemû gel — mêrên Îsraêl — hatin Yeruşalayimê, û Axîtofel ⟨את⟩ ⟨אתו⟩ bi wî re bû.",
+  "translation": "Û Avşalom û hemû gel, mêrên Yisraêlê, hatin Yeruşalayimê, û Axîtofel jî ⟨bi wî re⟩ bû.",
   "tokens": [
     {
       "surface": "ואבשלום",
-      "gloss": "û Avşalom"
+      "gloss": "Û Avşalom"
     },
     {
       "surface": "וכל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "gelê"
+      "gloss": "gel"
     },
     {
       "surface": "איש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Yisraêlê"
     },
     {
       "surface": "באו",
@@ -41,9 +41,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ bi wî re"
+      "gloss": "⟨את⟩ bi wî re",
+      "marks": "bi wî re (cînavê pêşdihatî, ne objeya rasterast)"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.817783930Z",
+  "timestamp": "2026-08-30T07:30:45.003124650Z",
   "model": "glm-5.3"
 }

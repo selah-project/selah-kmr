@@ -5,41 +5,41 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 13,
-  "translation": "Ez ê xizeba xwe li dîwarê û li wan ên ku bi nermalîçeya bêxwê ⟨אתו⟩ lê dixistintê biqedînim, û ez ê ji we re bibêjm: Dîwar êdî nîne, û xwêkêşên ⟨אתו⟩ jî nînin.",
+  "translation": "Û ez ê hêrsa xwe di dîwar de biqedînim û li ser wan ên ku bi xwêya netemandî dikin ⟨את⟩ wê, û ê ji we re bibêjim: Dîwar nîne û ên ku wê dixwê dikin jî nînin ⟨את⟩ wê.",
   "tokens": [
     {
       "surface": "וכליתי",
-      "gloss": "ez ê biqedînim"
+      "gloss": "û ez ê biqedînim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "xizeba min"
+      "marks": "hêrsa min"
     },
     {
       "surface": "חמתי",
-      "gloss": "xizeba xwe"
+      "gloss": "hêrsa min"
     },
     {
       "surface": "בקיר",
-      "gloss": "li dîwarê"
+      "gloss": "di dîwar de"
     },
     {
       "surface": "ובטחים",
-      "gloss": "û li xwêkêşan"
+      "gloss": "û li ser wan ên dixwê dikin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nermalîçeya bêxwê"
+      "gloss": "⟨את⟩",
+      "marks": "wê (dîwar)"
     },
     {
       "surface": "תפל",
-      "gloss": "bi nermalîçeya bêxwê"
+      "gloss": "bi xwêya netemandî"
     },
     {
       "surface": "ואמר",
-      "gloss": "û ez ê bibêjm"
+      "gloss": "û ê bibêjim"
     },
     {
       "surface": "לכם",
@@ -55,18 +55,18 @@
     },
     {
       "surface": "ואין",
-      "gloss": "û jî nînin"
+      "gloss": "û ... jî nîne"
     },
     {
       "surface": "הטחים",
-      "gloss": "xwêkêş"
+      "gloss": "ên dixwê dikin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "wê (dîwar)"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.848604379Z",
+  "timestamp": "2026-08-30T07:33:33.253430203Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 27,
-  "translation": "Di çadira civînê de, derveyî perdeyê ku li ser ⟨the⟩ şahadetê ye, Aharon û kurên wî wê ⟨את⟩ê ji êvarê heta sibehê li pêş Yahwe rêz bikin — ⟨ev⟩ statûyeke ji bo hemû deman e, ji nifşên wan ên ji ⟨את⟩ kên Yisra'el.",
+  "translation": "Di çadira civînê, derveyî perdeyê ku li ser şahediyê ye, Aharon û kurên wî ⟨את⟩ wê ji êvarê heta sibehê li pêşberî Yahwe rêk bikin — qanûnek ⟨a⟩ ⟨nano⟩-daimî ji bo neslên wan, ji aliyê ⟨את⟩ kurên Îsraêlê.",
   "tokens": [
     {
       "surface": "באהל",
-      "gloss": "di çadire"
+      "gloss": "di çadira"
     },
     {
       "surface": "מועד",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "העדת",
-      "gloss": "şahadetê"
+      "gloss": "şahediyê"
     },
     {
       "surface": "יערך",
-      "gloss": "rêz bikin"
+      "gloss": "rêk bikin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "wê (çiraya han)"
+      "gloss": "⟨את⟩ wê",
+      "marks": "wê (çiraya han — Aharon û kurên wê rêk dikin)"
     },
     {
       "surface": "אהרן",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "li pêş"
+      "gloss": "li pêşberî"
     },
     {
       "surface": "יהוה",
@@ -74,29 +74,29 @@
     },
     {
       "surface": "חקת",
-      "gloss": "statûyeke"
+      "gloss": "qanûnek"
     },
     {
       "surface": "עולם",
-      "gloss": "ji bo hemû deman"
+      "gloss": "daimî"
     },
     {
       "surface": "לדרתם",
-      "gloss": "ji nifşên wan"
+      "gloss": "ji bo neslên wan"
     },
     {
       "surface": "מאת",
-      "gloss": "ji ⟨את⟩"
+      "gloss": "ji aliyê ⟨את⟩"
     },
     {
       "surface": "בני",
-      "gloss": "kên"
+      "gloss": "kurên"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Îsraêlê"
     }
   ],
-  "timestamp": "2026-08-29T18:12:49.744985228Z",
+  "timestamp": "2026-08-30T07:26:13.532495054Z",
   "model": "glm-5.3"
 }

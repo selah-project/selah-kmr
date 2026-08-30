@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "Û tu ê fermanên Yahwe Elohîmê xwe ⟨את⟩ biparêzî, ku di rêyên wî de bigerî û ji wî bitirse ⟨אתו⟩.",
+  "translation": "Û tu ê fermanên Yahwe Elohîmê xwe bihêzî, ⟨את⟩ fermanên Yahwe Elohîmê te, da ku tu di rêyên wî de bigerî û ji wî bitirsî, ⟨את⟩ wî.",
   "tokens": [
     {
       "surface": "ושמרת",
-      "gloss": "Û tu ê biparêzî"
+      "gloss": "Û tu ê … bihêzî"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fermanên Yahwe Elohîmê xwe"
+      "marks": "fermanên Yahwe Elohîmê te"
     },
     {
       "surface": "מצות",
-      "gloss": "fermanên"
+      "gloss": "ferman"
     },
     {
       "surface": "יהוה",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohîmê xwe"
+      "gloss": "Elohîmê te"
     },
     {
       "surface": "ללכת",
-      "gloss": "ku bigerî"
+      "gloss": "da ku bigerî"
     },
     {
       "surface": "בדרכיו",
@@ -38,13 +38,14 @@
     },
     {
       "surface": "וליראה",
-      "gloss": "û bitirse"
+      "gloss": "û ji wî bitirsî"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ wî"
+      "gloss": "⟨את⟩",
+      "marks": "wî (Yahwe Elohîmê te)"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.845305266Z",
+  "timestamp": "2026-08-30T07:28:06.409879623Z",
   "model": "glm-5.3"
 }

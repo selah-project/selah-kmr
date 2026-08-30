@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "kmr",
   "chapter": 101,
-  "translation": "Sibeh bi sibeh ez ê hemû şerîdarên welêt bişkînim, da ku hemû kirêdarên ⟨און⟩ sûcî ji bajarê Yahwe bibrîm.",
+  "translation": "Her sibeh ez ê hemû şerîdên welêt bidim dawîkirin, da ku hemû kirêdarên neqencîyê ji bajarê Yahwe dûr bikim.",
   "tokens": [
     {
       "surface": "לבקרים",
-      "gloss": "sibeh bi sibeh"
+      "gloss": "her sibeh"
     },
     {
       "surface": "אצמית",
-      "gloss": "ez bişkînim"
+      "gloss": "ez ê … bidim dawîkirin"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "רשעי",
-      "gloss": "şerîdarên"
+      "gloss": "şerîdên"
     },
     {
       "surface": "ארץ",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "להכרית",
-      "gloss": "da ku bibrîm"
+      "gloss": "da ku … dûr bikim"
     },
     {
       "surface": "מעיר",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "און",
-      "gloss": "sûcî"
+      "gloss": "neqencîyê"
     }
   ],
-  "timestamp": "2026-08-30T05:30:55.542088651Z",
+  "timestamp": "2026-08-30T07:35:05.495070502Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 28,
-  "translation": "Û du zincîrên zêrê paqij, bi awayê xistî (טהור) çêbikî — מִגְבָּלֹת bi kar neyn — karê berazî, û tu zincîrên berazî li ser çarçikan dêçî.",
+  "translation": "Û du zincîrên zêrê paqij, bi awayê xêzikê ⟨את⟩ wan çê bikî — kirina xêzikan; û zincîrên xêzîkirî ⟨את⟩ li ser milxanan dani.",
   "tokens": [
     {
       "surface": "ושתי",
@@ -25,33 +25,33 @@
     },
     {
       "surface": "מגבלת",
-      "gloss": "sînor"
+      "gloss": "bi awayê xêzikê"
     },
     {
       "surface": "תעשה",
-      "gloss": "çêbikî"
+      "gloss": "çê bikî"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ wan",
-      "marks": "zincîran"
+      "gloss": "⟨את⟩",
+      "marks": "wan"
     },
     {
       "surface": "מעשה",
-      "gloss": "karê"
+      "gloss": "kirina"
     },
     {
       "surface": "עבת",
-      "gloss": "berazî"
+      "gloss": "xêzikan"
     },
     {
       "surface": "ונתתה",
-      "gloss": "Û tu dêçî"
+      "gloss": "û ... dani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zincîrên berazî"
+      "marks": "zincîrên xêzîkirî"
     },
     {
       "surface": "שרשרת",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "העבתת",
-      "gloss": "berazî"
+      "gloss": "xêzîkirî"
     },
     {
       "surface": "על",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "המשבצת",
-      "gloss": "çarçikan"
+      "gloss": "milxanan"
     }
   ],
-  "timestamp": "2026-08-29T18:13:18.970290254Z",
+  "timestamp": "2026-08-30T07:26:13.156620021Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û Tsadok kahîn û Natan pêxember wî ⟨את⟩ ⟨אתו⟩ li wir ji bo şahiyê ser Yisraêl bi rûn bikin, û hûn bi şofurê dixin û dibêjin: Bijî şah Şelomo!",
+  "translation": "Û li wir bila Tsadok kahîn û Natan pêxember ⟨את⟩ wî wekî key li ser Yisraêl meshê bikin, hûn bi şofurê bidin û bêjin: “Biji key Şelomo!”",
   "tokens": [
     {
       "surface": "ומשח",
-      "gloss": "û bi rûn bikin"
+      "gloss": "meshê bike"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "wî"
     },
     {
@@ -38,11 +38,11 @@
     },
     {
       "surface": "למלך",
-      "gloss": "ji bo şahiyê"
+      "gloss": "wekî key"
     },
     {
       "surface": "על",
-      "gloss": "ser"
+      "gloss": "li ser"
     },
     {
       "surface": "ישראל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ותקעתם",
-      "gloss": "û dixin"
+      "gloss": "hûn bidin"
     },
     {
       "surface": "בשופר",
@@ -58,21 +58,21 @@
     },
     {
       "surface": "ואמרתם",
-      "gloss": "û dibêjin"
+      "gloss": "û hûn bêjin"
     },
     {
       "surface": "יחי",
-      "gloss": "bijî"
+      "gloss": "biji"
     },
     {
       "surface": "המלך",
-      "gloss": "şah"
+      "gloss": "key"
     },
     {
       "surface": "שלמה",
       "gloss": "Şelomo"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.858402815Z",
+  "timestamp": "2026-08-30T07:31:20.694260225Z",
   "model": "glm-5.3"
 }

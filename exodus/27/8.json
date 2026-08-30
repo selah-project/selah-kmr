@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 27,
-  "translation": "Bi dîwaran vala tê çêkirin ⟨אתו⟩; wekî ku te li çiyê da dîtin ⟨אתך⟩, wusa wê çêbikin.",
+  "translation": "Vala bi pelan wê çêkî ⟨את⟩ wê; wekî ku li çiyê ⟨את⟩ ji te re hate nîşandan, wêha çêkin.",
   "tokens": [
     {
       "surface": "נבוב",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "לחת",
-      "gloss": "bi dîwaran"
+      "gloss": "bi pelan"
     },
     {
       "surface": "תעשה",
-      "gloss": "tê çêkirin"
+      "gloss": "wê çêkî"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "êlikê"
+      "marks": "wê (ê jî — nîşana 'ew' li vir îmtiyazî ye)"
     },
     {
       "surface": "כאשר",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "הראה",
-      "gloss": "da dîtin"
+      "gloss": "hate nîşandan"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "te"
+      "gloss": "⟨את⟩ ji te re",
+      "marks": "אתך li vir cînavê îmtiyazî ye (ji te re), ne nîşana ⟨את⟩ ya bireserî"
     },
     {
       "surface": "בהר",
@@ -43,13 +43,13 @@
     },
     {
       "surface": "כן",
-      "gloss": "wusa"
+      "gloss": "wêha"
     },
     {
       "surface": "יעשו",
-      "gloss": "wê çêbikin"
+      "gloss": "çêkin"
     }
   ],
-  "timestamp": "2026-08-29T18:14:17.927016638Z",
+  "timestamp": "2026-08-30T07:26:09.430479333Z",
   "model": "glm-5.3"
 }

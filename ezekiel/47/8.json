@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":8,"ref":"ezekiel 47:8","book":"ezekiel","lang":"kmr","chapter":47,"translation":"Wû ji min re got: «Ev avên derdikevin ber bi herêma rojhilat ve diçin û ber bi deştê〈Gelîlê Rojhilat〉dikevin, wê bigihîjin deryayê — avên ku derdikevin deryayê — û avê wê baş bibin.»","tokens":[{"surface":"ויאמר","gloss":"wû ji min re got"},{"surface":"אלי","gloss":"ji min re"},{"surface":"המים","gloss":"avên"},{"surface":"האלה","gloss":"ev"},{"surface":"יוצאים","gloss":"derdikevin"},{"surface":"אל","gloss":"ber bi"},{"surface":"הגלילה","gloss":"Gelîlê"},{"surface":"הקדמונה","gloss":"Rojhilat"},{"surface":"וירדו","gloss":"dikevin"},{"surface":"על","gloss":"ber bi"},{"surface":"הערבה","gloss":"deştê"},{"surface":"ובאו","gloss":"wê bigihîjin"},{"surface":"הימה","gloss":"deryayê"},{"surface":"אל","gloss":"ber bi"},{"surface":"הימה","gloss":"deryayê"},{"surface":"המוצאים","gloss":"avên ku derdikevin"},{"surface":"ונרפאו","gloss":"wê baş bibin"},{"surface":"המים","gloss":"avê"}],"timestamp":"2026-08-30T04:01:19.393398355Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 47:8",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Û ji min re got: “Ev avên derdikevin ber bi herêma rojhilat ⟨herêma Gelîla ya kevnar ve⟩, dadikevin ser deştê, û têneketin deryayê — ⟨avên⟩ ku tên birîn deriyên wan ⟨deriyê deryayê ve⟩, û av xilas bûn.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ji min re got"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avên"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יוצאים",
+      "gloss": "derdikevin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הגלילה",
+      "gloss": "herêma Gelîla"
+    },
+    {
+      "surface": "הקדמונה",
+      "gloss": "ya kevnar"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "dadikevin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "deştê"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "têneketin"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "המוצאים",
+      "gloss": "avên ku tên birîn"
+    },
+    {
+      "surface": "ונרפאו",
+      "gloss": "û xilas bûn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-30T07:33:52.617994685Z",
+  "model": "glm-5.3"
+}

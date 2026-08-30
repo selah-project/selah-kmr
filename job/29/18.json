@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "kmr",
   "chapter": 29,
-  "translation": "Û min got: «Bi hêlîna xwe ez ê bimirim, û wekî χolê ez ê rojan zêde bikim.»",
+  "translation": "Ez û gotim: «Bi hêlîna xwe ez ê bimirim, û wekî çolê ez ê rojan pir bikevim.»",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "min got"
+      "gloss": "û û gotim"
     },
     {
       "surface": "עם",
-      "gloss": "bi"
+      "gloss": "bi… re"
     },
     {
       "surface": "קני",
@@ -25,21 +25,17 @@
     },
     {
       "surface": "וכחול",
-      "gloss": "wekî χolê"
+      "gloss": "û wekî çolê"
     },
     {
       "surface": "ארבה",
-      "gloss": "ez ê zêde bikim"
-    },
-    {
-      "surface": "וימים is not a token; see ימים",
-      "gloss": ""
+      "gloss": "ez ê pir bikevim"
     },
     {
       "surface": "ימים",
       "gloss": "rojan"
     }
   ],
-  "timestamp": "2026-08-30T05:58:42.390365406Z",
+  "timestamp": "2026-08-30T07:35:35.656578897Z",
   "model": "glm-5.3"
 }

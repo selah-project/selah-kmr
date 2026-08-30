@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Tirsîd ⟨the→ku⟩ Elohîm li ser hemû mamûletên welatan ket, dema ku bihîstibûn ku Yahwe li dijî dijminên Yisraêl şer kiribû.",
+  "translation": "Û tirsê Elohîm ketîr ser hemû keyaniyên welatan, gava bihîstin ku Yahwe şer kirîbû bi dijminên Îsraêl re ⟨al dijminên Îsraêl⟩.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "bû"
+      "gloss": "û ketîr ser"
     },
     {
       "surface": "פחד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "ser"
     },
     {
       "surface": "כל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ממלכות",
-      "gloss": "mamûletên"
+      "gloss": "keyaniyên"
     },
     {
       "surface": "הארצות",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בשמעם",
-      "gloss": "dema ku bihîstibûn"
+      "gloss": "gava bihîstin"
     },
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "נלחם",
-      "gloss": "şer kiribû"
+      "gloss": "şer kirîbû"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "li dijî"
+      "gloss": "bi … re"
     },
     {
       "surface": "אויבי",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraêl"
+      "gloss": "Îsraêl"
     }
   ],
-  "timestamp": "2026-08-30T06:49:07.834712971Z",
+  "timestamp": "2026-08-30T07:36:47.094146954Z",
   "model": "glm-5.3"
 }

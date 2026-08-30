@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "kmr",
   "chapter": 7,
-  "translation": "Ma ne ⟨את⟩ peyvan e ku Yahwe bi destê pêxemberên ⟨⟨the⟩⟩ yekemin, dema Yeruşalayim û bajarên wê yên dorber û Başûr û Deşta-Jêrîn bi aşitiyê dihatin niştecihkirin, digirtin?",
+  "translation": "Ma ne ev in ⟨את⟩ peyvên ku Yahwe bi destê pêxemberên destpêkê qîrî kir, dema ku Yeruşalayim bi cih bûbû û bi aşitiyê dijî, û bajarên wê dora wê, û başûr û deşt dihatin cihwar kirin?",
   "tokens": [
     {
       "surface": "הלוא",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "peyvan"
+      "marks": "peyvên"
     },
     {
       "surface": "הדברים",
-      "gloss": "peyvan"
+      "gloss": "peyvên"
     },
     {
       "surface": "אשר",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "digirtin"
+      "gloss": "qîrî kir"
     },
     {
       "surface": "יהוה",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "הראשנים",
-      "gloss": "yekemin"
+      "gloss": "destpêkê"
     },
     {
       "surface": "בהיות",
-      "gloss": "dema"
+      "gloss": "dema ku"
     },
     {
       "surface": "ירושלם",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "ישבת",
-      "gloss": "dihatin niştecihkirin"
+      "gloss": "bi cih bûbû û dijî"
     },
     {
       "surface": "ושלוה",
-      "gloss": "û bi aşitiyê"
+      "gloss": "bi aşitiyê"
     },
     {
       "surface": "ועריה",
@@ -66,21 +66,21 @@
     },
     {
       "surface": "סביבתיה",
-      "gloss": "yên dorber"
+      "gloss": "dora wê"
     },
     {
       "surface": "והנגב",
-      "gloss": "û Başûr"
+      "gloss": "û başûr"
     },
     {
       "surface": "והשפלה",
-      "gloss": "û Deşta-Jêrîn"
+      "gloss": "û deşt"
     },
     {
       "surface": "ישב",
-      "gloss": "dihatin niştecihkirin"
+      "gloss": "dihat cihwar kirin"
     }
   ],
-  "timestamp": "2026-08-30T05:07:31.884086352Z",
+  "timestamp": "2026-08-30T07:33:43.428208581Z",
   "model": "glm-5.3"
 }

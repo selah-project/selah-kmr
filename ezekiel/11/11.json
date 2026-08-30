@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 11,
-  "translation": "Ew ne dê bibe çilmek ji bo we, û hûn jî ne dê bibin goştê di nav wê de; li sînorê Yisraêl ez ê we bibê daraz.",
+  "translation": "Ew (bajar) ne dê bibe ⟨את⟩ dikên(çûk a mezin) ji bo we, û hûn ne dê bibin goşta wê di nava wê de; li ser sînorê Yisraêl ez ê we bi dadrêsî bike ⟨את⟩ we.",
   "tokens": [
     {
       "surface": "היא",
-      "gloss": "ew"
+      "gloss": "Ew (bajar)"
     },
     {
       "surface": "לא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לסיר",
-      "gloss": "çilmek"
+      "gloss": "dikên(çûk a mezin)"
     },
     {
       "surface": "ואתם",
-      "gloss": "û hûn jî"
+      "gloss": "û hûn"
     },
     {
       "surface": "תהיו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בתוכה",
-      "gloss": "di nav wê de"
+      "gloss": "di nava wê de"
     },
     {
       "surface": "לבשר",
-      "gloss": "goşt"
+      "gloss": "goşta wê"
     },
     {
       "surface": "אל",
@@ -57,14 +57,14 @@
     },
     {
       "surface": "אשפט",
-      "gloss": "ez ê bibê daraz"
+      "gloss": "ez ê bi dadrêsî bike"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ we",
-      "marks": "we (bibê daraz)"
+      "gloss": "⟨את⟩",
+      "marks": "we"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.847273880Z",
+  "timestamp": "2026-08-30T07:33:29.702710188Z",
   "model": "glm-5.3"
 }

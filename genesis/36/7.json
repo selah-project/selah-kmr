@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 36,
-  "translation": "Ji ber ku milkên wan ji hevrejiyanê zêdetir bûn, û erda penahiya wan ji ber keriyên wan nikaribû ⟨את⟩ ⟨אתם⟩ wan hilgirta.",
+  "translation": "Ji ber ku milkên wan ji bo ku bi hev re bijîn zêde bûn, û erdê koçberiya wan nikaribû wan ⟨את⟩ hilgirta, ji ber keriyên wan.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Ji ber ku"
+      "gloss": "ji ber ku"
     },
     {
       "surface": "היה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "רב",
-      "gloss": "ji hevrejiyanê zêdetir"
+      "gloss": "zêde"
     },
     {
       "surface": "משבת",
-      "gloss": "ji hevrejiyanê"
+      "gloss": "bijîn"
     },
     {
       "surface": "יחדו",
-      "gloss": "bi hevre"
+      "gloss": "bi hev re"
     },
     {
       "surface": "ולא",
-      "gloss": "û ... ne"
+      "gloss": "û nikaribû"
     },
     {
       "surface": "יכלה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "erda"
+      "gloss": "erdê"
     },
     {
       "surface": "מגוריהם",
-      "gloss": "penahiya wan"
+      "gloss": "koçberiya wan"
     },
     {
       "surface": "לשאת",
@@ -53,8 +53,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wan"
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan (Esau û Yakub û malên wan)"
     },
     {
       "surface": "מפני",
@@ -65,6 +65,6 @@
       "gloss": "keriyên wan"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.819303293Z",
+  "timestamp": "2026-08-30T07:25:18.440179439Z",
   "model": "glm-5.3"
 }

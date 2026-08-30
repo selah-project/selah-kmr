@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 25,
-  "translation": "Û meltikê Babîlê wan ⟨אתם⟩ xist û wan kuşt, li Rîblayê, di welatê Ḧematê de; û Yehûda ji ser erdê wî hate sirgûnkirin.",
+  "translation": "Mîrê Babilê wan ⟨את⟩ xist û wan li Rîblayê, di welatê Ḥematê de, kuşt; û Yehûda ji ser erdê xwe hat sirgûn kirin.",
   "tokens": [
     {
       "surface": "ויך",
@@ -14,19 +14,19 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wan"
+      "marks": "wan (mîrê Babilê wan)"
     },
     {
       "surface": "מלך",
-      "gloss": "meltik"
+      "gloss": "mîrê"
     },
     {
       "surface": "בבל",
-      "gloss": "Babîlê"
+      "gloss": "Babilê"
     },
     {
       "surface": "וימיתם",
-      "gloss": "wan kuşt"
+      "gloss": "kuşt"
     },
     {
       "surface": "ברבלה",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "חמת",
-      "gloss": "Ḧematê de"
+      "gloss": "Ḥematê de"
     },
     {
       "surface": "ויגל",
-      "gloss": "hate sirgûnkirin"
+      "gloss": "hat sirgûn kirin"
     },
     {
       "surface": "יהודה",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "אדמתו",
-      "gloss": "erdê wî"
+      "gloss": "erdê xwe"
     }
   ],
-  "timestamp": "2026-08-29T20:27:23.863608103Z",
+  "timestamp": "2026-08-30T07:32:25.953806683Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 22,
-  "translation": "Û bavê ⟨הנער⟩ keçikê û diya wê bigirin û ⟨את⟩ delîlên keçbûnê yên keçikê derînin bal kalên bajêr li derî:",
+  "translation": "Û dê bavê keçikê û diya wê bistînin û delîlên keçîtiya keçikê ji bo pîreyên bajarî, ên li derî, bi xwe re derînin — ⟨את⟩ delîlên keçîtiya keçikê.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "û bigirin"
+      "gloss": "û dê ... bistînin"
     },
     {
       "surface": "אבי",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "והוציאו",
-      "gloss": "û derînin"
+      "gloss": "û ... derînin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "delîlên keçbûnê"
+      "marks": "delîlên keçîtiya keçikê"
     },
     {
       "surface": "בתולי",
-      "gloss": "delîlên keçbûnê"
+      "gloss": "delîlên keçîtiyê"
     },
     {
       "surface": "הנער",
@@ -42,21 +42,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "bal"
+      "gloss": "ji bo"
     },
     {
       "surface": "זקני",
-      "gloss": "kalên"
+      "gloss": "pîreyên"
     },
     {
       "surface": "העיר",
-      "gloss": "bajêr"
+      "gloss": "bajarî"
     },
     {
       "surface": "השערה",
       "gloss": "li derî"
     }
   ],
-  "timestamp": "2026-08-29T19:08:00.816641111Z",
+  "timestamp": "2026-08-30T07:29:08.083468087Z",
   "model": "glm-5.3"
 }

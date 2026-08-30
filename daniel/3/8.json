@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Ji ber vê, di ⟨the⟩ wê demê de, çend mêrên Kildanî nêzîk bûn û bi axiftinên xwe yên bihûr Cihûyan rexne kirin.",
+  "translation": "Ji ber vê yekê, di wê demê de çend mêrên Kildanî nêzîk bûn û Cihûyan (Yehudayan) tawîn kirin.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "hemû"
+      "gloss": "her"
     },
     {
       "surface": "קבל",
-      "gloss": "ji ber"
+      "gloss": "berdevamî vê"
     },
     {
       "surface": "דנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "זמנא",
-      "gloss": "wê demê de"
+      "gloss": "wê demê"
     },
     {
       "surface": "קרבו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "גברין",
-      "gloss": "mêrên"
+      "gloss": "çend mêr"
     },
     {
       "surface": "כשדאין",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "קרציהון",
-      "gloss": "bi hûrkirina devên xwe"
+      "gloss": "hevokên wan"
     },
     {
       "surface": "די",
-      "gloss": "ji"
+      "gloss": "yê"
     },
     {
       "surface": "יהודיא",
-      "gloss": "Cihûyan"
+      "gloss": "Cihûyan (Yehudayan)"
     }
   ],
-  "timestamp": "2026-08-30T06:16:22.922007891Z",
+  "timestamp": "2026-08-30T07:36:02.737234412Z",
   "model": "glm-5.3"
 }

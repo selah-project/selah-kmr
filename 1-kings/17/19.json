@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":19,"ref":"1-kings 17:19","book":"1-kings","lang":"kmr","chapter":17,"translation":"Û wî jê re got: \"Kure xwe bide min.\" Û wî ew jihna wê girt û wî anî ⟨the⟩ jorînê, ku ew li wir dijiya, û wî danî serangekî xwe.","tokens":[{"surface":"ויאמר","gloss":"wî jê re got"},{"surface":"אליה","gloss":"jê re"},{"surface":"תני","gloss":"bide"},{"surface":"לי","gloss":"min"},{"surface":"את","gloss":"⟨את⟩","marks":"kure xwe"},{"surface":"בנך","gloss":"kure xwe"},{"surface":"ויקחהו","gloss":"wî ew girt"},{"surface":"מחיקה","gloss":"ji hina wê"},{"surface":"ויעלהו","gloss":"wî anî"},{"surface":"אל","gloss":""},{"surface":"העליה","gloss":"jorînê"},{"surface":"אשר","gloss":"ku"},{"surface":"הוא","gloss":"ew"},{"surface":"ישב","gloss":"dijiya"},{"surface":"שם","gloss":"li wir"},{"surface":"וישכבהו","gloss":"wî danî"},{"surface":"על","gloss":"ser"},{"surface":"מטתו","gloss":"angekî xwe"}],"timestamp":"2026-08-29T20:10:44.467596397Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 17:19",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û ⟨ew⟩ ji wê re got: \"Kurê xwe ⟨את⟩ bide min.\" Û ⟨ew⟩ wî ji berika wê girt û wî bir ser jorînê ku ew lê rûniştibû, û wî danî ser textê xwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "תני",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê te"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "wî girt"
+    },
+    {
+      "surface": "מחיקה",
+      "gloss": "ji berika wê"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "wî bir ser"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "jorînê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûniştibû"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lê"
+    },
+    {
+      "surface": "וישכבהו",
+      "gloss": "wî danî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "textê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T07:31:29.926698054Z",
+  "model": "glm-5.3"
+}

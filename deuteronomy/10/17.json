@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 10,
-  "translation": "Ji ber ku Yahwe, Elohîmê we, Elohîmê ⟨the⟩ elohiman û Adonayê ⟨the⟩ adoniyan e — ⟨the⟩ Êlê mezin, ⟨the⟩ hêzdar û ⟨the⟩ tirsdar — ⟨ye⟩ ku rûyê kesî nabardore û şûdêrnagire.",
+  "translation": "Ji ber ku Yahwe, Elohîmê we, ⟨ew e⟩ Elohîmê Elohîman û Adonayê Adonayan, Êlê mezin, Êlê hêzdar û tirsbar, ku rûyê kesî nastîne û şûşkê nastîne.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "e"
+      "gloss": "⟨ew e⟩"
     },
     {
       "surface": "אלהי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "elohiman"
+      "gloss": "Elohîman"
     },
     {
       "surface": "ואדני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "האדנים",
-      "gloss": "adoniyan"
+      "gloss": "Adonayan"
     },
     {
       "surface": "האל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "והנורא",
-      "gloss": "û tirsdar"
+      "gloss": "û tirsbar"
     },
     {
       "surface": "אשר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ישא",
-      "gloss": "nabardore"
+      "gloss": "nastîne"
     },
     {
       "surface": "פנים",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "יקח",
-      "gloss": "nagire"
+      "gloss": "nastîne"
     },
     {
       "surface": "שחד",
-      "gloss": "şûdêr"
+      "gloss": "şûşkê"
     }
   ],
-  "timestamp": "2026-08-29T19:03:13.071810805Z",
+  "timestamp": "2026-08-30T07:28:12.145667225Z",
   "model": "glm-5.3"
 }

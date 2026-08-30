@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 31,
-  "translation": "Hemû mêrên jêhatî rabûn, tevê şevê bi meşîn, ⟨את⟩ laşê Şaul û ⟨את⟩ laşên kurên wî ji dîwarê Bet-Şanê hilda, hatin Yabeşê û ⟨את⟩ wan ⟨אתם⟩ li wir şewitandin.",
+  "translation": "Hemû mêrên dilsoz rabûn, tevê şevê çûn, ⟨את⟩ laşê Şaul û ⟨את⟩ laşên kurên wî ji dîwarê Bêt-Şan girtin, hatin Yabeş û ew li wir şewitandin.",
   "tokens": [
     {
       "surface": "ויקומו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "jêhatî"
+      "gloss": "dilsoz"
     },
     {
       "surface": "וילכו",
-      "gloss": "bi meşîn"
+      "gloss": "çûn"
     },
     {
       "surface": "כל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויקחו",
-      "gloss": "hilda"
+      "gloss": "girtin"
     },
     {
       "surface": "את",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Bêt-Şan"
     },
     {
       "surface": "שן",
-      "gloss": "Şanê"
+      "gloss": ""
     },
     {
       "surface": "ויבאו",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "יבשה",
-      "gloss": "Yabeşê"
+      "gloss": "Yabeş"
     },
     {
       "surface": "וישרפו",
@@ -91,13 +91,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ wan"
+      "gloss": "⟨את⟩",
+      "marks": "ewan"
     },
     {
       "surface": "שם",
       "gloss": "li wir"
     }
   ],
-  "timestamp": "2026-08-29T19:48:25.099941760Z",
+  "timestamp": "2026-08-30T07:30:40.586346131Z",
   "model": "glm-5.3"
 }

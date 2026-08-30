@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Ji ber ku ew ji zanînê nefret kirin, û tirsê Yahwe nebijartin.",
+  "translation": "Ji ber ku ew ji zanînê nefret kirin, û tirsa Yahwe nebijartine.",
   "tokens": [
     {
       "surface": "תחת",
-      "gloss": "li şûna"
+      "gloss": "ji ber ku"
     },
     {
       "surface": "כי",
-      "gloss": "ji ber ku"
+      "gloss": "ku"
     },
     {
       "surface": "שנאו",
@@ -24,8 +24,12 @@
       "gloss": "ji zanînê"
     },
     {
-      "surface": "ולא",
-      "gloss": "û"
+      "surface": "ויראת",
+      "gloss": "û tirsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
     },
     {
       "surface": "לא",
@@ -33,17 +37,9 @@
     },
     {
       "surface": "בחרו",
-      "gloss": "bijartin"
-    },
-    {
-      "surface": "ביראת",
-      "gloss": "di tirsê"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "bijartine"
     }
   ],
-  "timestamp": "2026-08-30T05:40:58.552230821Z",
+  "timestamp": "2026-08-30T07:35:04.798271350Z",
   "model": "glm-5.3"
 }

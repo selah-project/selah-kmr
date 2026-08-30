@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "“Adonayê min, guhê min bigire: erd ⟨is⟩ çar sed şeqel zêr — ev çi ye di navbera min û te de? Û ⟨את⟩ miriyê xwe veşêre.”",
+  "translation": "Adonay, guh bidê min: erdek çar sed şeqel zîv e — di navbera min û te de ev çi ye? Û ⟨את⟩ miriyê te veşêre.",
   "tokens": [
     {
       "surface": "אדני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שמעני",
-      "gloss": "guhê min bigire"
+      "gloss": "guh bidê min"
     },
     {
       "surface": "ארץ",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "כסף",
-      "gloss": "zêr"
+      "gloss": "zîv"
     },
     {
       "surface": "ביני",
-      "gloss": "di navbera min"
+      "gloss": "di navbera min de"
     },
     {
       "surface": "ובינך",
-      "gloss": "û te"
+      "gloss": "û di navbera te de"
     },
     {
       "surface": "מה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ye⟩"
+      "gloss": "e (ev e)"
     },
     {
       "surface": "ואת",
@@ -65,6 +65,6 @@
       "gloss": "veşêre"
     }
   ],
-  "timestamp": "2026-08-29T17:44:10.483591530Z",
+  "timestamp": "2026-08-30T07:24:49.371364912Z",
   "model": "glm-5.3"
 }

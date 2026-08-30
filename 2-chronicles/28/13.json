@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 28,
-  "translation": "Û ji wan re gotin: \"Hûn ⟨את⟩ dîlvanên hanê li vir naynin, ji ber ku hûn dibêjin ku ji bo sûcekê li hember Yahwe li ser me, li ser gunehên me û li ser sûcên me zêde bikin; ji ber ku sûca me ⟨is⟩ mezin û hêrsa tûj li ser Îsraêl e.\"",
+  "translation": "Û ji wan re gotin: \"Hûn dîlberan vêder naînin, ji ber ku hûn dibêjin ku biraxwa li ser me bibe li hember Yahwe, ku zêde bike li ser gunehên me û li ser beraqilên me; ji ber ku biraxwa me pir mezin e û hêrsîn aqil li ser Yisraêl e.\"",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "û ji wan re gotin"
+      "gloss": "gotin"
     },
     {
       "surface": "להם",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "תביאו",
-      "gloss": "hûn naynin"
+      "gloss": "hûn naînin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dîlvanên"
+      "marks": "dîlberan"
     },
     {
       "surface": "השביה",
-      "gloss": "dîlvanên"
+      "gloss": "dîlberan"
     },
     {
       "surface": "הנה",
-      "gloss": "hanê"
+      "gloss": "vêder"
     },
     {
       "surface": "כי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לאשמת",
-      "gloss": "ji bo sûcê"
+      "gloss": "biraqwiyê"
     },
     {
       "surface": "יהוה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "להסיף",
-      "gloss": "zêde bikin"
+      "gloss": "zêde bike"
     },
     {
       "surface": "על",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אשמתינו",
-      "gloss": "sûcên me"
+      "gloss": "beraqilên me"
     },
     {
       "surface": "כי",
@@ -86,23 +86,23 @@
     },
     {
       "surface": "רבה",
-      "gloss": "mezin"
+      "gloss": "pir mezin"
     },
     {
       "surface": "אשמה",
-      "gloss": "sûc"
+      "gloss": "biraxwa"
     },
     {
       "surface": "לנו",
-      "gloss": "ya me"
+      "gloss": "a me"
     },
     {
       "surface": "וחרון",
-      "gloss": "û hêrsa"
+      "gloss": "û hêrsîn"
     },
     {
       "surface": "אף",
-      "gloss": "tûj"
+      "gloss": "aqil"
     },
     {
       "surface": "על",
@@ -110,9 +110,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Îsraêl"
+      "gloss": "Yisraêl"
     }
   ],
-  "timestamp": "2026-08-30T07:01:31.554815489Z",
+  "timestamp": "2026-08-30T07:37:04.225668320Z",
   "model": "glm-5.3"
 }

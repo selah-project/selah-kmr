@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 12,
-  "translation": "Û ji ⟨את⟩ xwînê bigirin û bidin li ser herdu aliyên derî û li ser tixta-serê derî, li ser wan malan ku tê de wî ⟨את⟩ ⟨אתו⟩ dixwin.",
+  "translation": "Û ji xwînê digirin û didin ser herdu werîşên deriyê û ser hişkiya deriyê, li ser malan ku ew ê ⟨את⟩ wê têde bixwin.",
   "tokens": [
     {
       "surface": "ולקחו",
-      "gloss": "Û bigirin"
+      "gloss": "û digirin"
     },
     {
       "surface": "מן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "û bidin"
+      "gloss": "û didin"
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "ser"
     },
     {
       "surface": "שתי",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "המזוזת",
-      "gloss": "aliyên derî"
+      "gloss": "werîşên deriyê"
     },
     {
       "surface": "ועל",
-      "gloss": "û li ser"
+      "gloss": "û ser"
     },
     {
       "surface": "המשקוף",
-      "gloss": "tixta-serê derî"
+      "gloss": "hişkiya deriyê"
     },
     {
       "surface": "על",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הבתים",
-      "gloss": "wan malan"
+      "gloss": "malan"
     },
     {
       "surface": "אשר",
@@ -57,18 +57,18 @@
     },
     {
       "surface": "יאכלו",
-      "gloss": "dixwin"
+      "gloss": "têde bixwin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "wî"
+      "gloss": "⟨את⟩",
+      "marks": "wê (beramberê wê)"
     },
     {
       "surface": "בהם",
-      "gloss": "tê de"
+      "gloss": "têde"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.834714915Z",
+  "timestamp": "2026-08-30T07:25:35.143561002Z",
   "model": "glm-5.3"
 }

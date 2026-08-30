@@ -5,33 +5,33 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 20,
-  "translation": "Û ⟨את⟩ biryarên min biparêzin û ⟨אתם⟩ wan bikin; ez Yahwe me, ê ku we pîroz dike.",
+  "translation": "Û hûn ⟨את⟩ biryarnameyên min biparêzin û ⟨את⟩ wan bikin; ez im Yahwe, Yê ku we pîroz dike.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Û biparêzin"
+      "gloss": "Û hûn…biparêzin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "biryarên min"
+      "marks": "biryarnameyên min"
     },
     {
       "surface": "חקתי",
-      "gloss": "biryarên min"
+      "gloss": "biryarnameyên min"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "û bikin"
+      "gloss": "û…bikin"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "wan (biryarên min)"
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan (biryarnameyên min)"
     },
     {
       "surface": "אני",
-      "gloss": "ez"
+      "gloss": "ez im"
     },
     {
       "surface": "יהוה",
@@ -39,9 +39,9 @@
     },
     {
       "surface": "מקדשכם",
-      "gloss": "ê ku we pîroz dike"
+      "gloss": "Yê ku we pîroz dike"
     }
   ],
-  "timestamp": "2026-08-29T18:33:13.442622674Z",
+  "timestamp": "2026-08-30T07:26:48.365501704Z",
   "model": "glm-5.3"
 }

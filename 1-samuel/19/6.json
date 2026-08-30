@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 19,
-  "translation": "Û Şaul dengê Yehonatan bihîst û Şaul sond xwar: «Her ku Yahwe zindî ye, ew nayê kuştin.»",
+  "translation": "Şaul dengê Yehonatan bihîst, û Şaul sond xwar: «Ji kerema ku Yahwe zende ye, ew nayê kuştin.»",
   "tokens": [
     {
       "surface": "וישמע",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישבע",
-      "gloss": "sond xwar"
+      "gloss": "û sond xwar"
     },
     {
       "surface": "שאול",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "zindî"
+      "gloss": "zende ye"
     },
     {
       "surface": "יהוה",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "אם",
-      "gloss": "⟨ke>"
+      "gloss": "ji kerema ku"
     },
     {
       "surface": "יומת",
       "gloss": "nayê kuştin"
     }
   ],
-  "timestamp": "2026-08-30T03:35:50.232467599Z",
+  "timestamp": "2026-08-30T07:30:28.158856128Z",
   "model": "glm-5.3"
 }

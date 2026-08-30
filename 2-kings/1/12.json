@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Eliyahu bersiv da û ji wan re got: \"Ger ez merê ⟨⟨Elohîm⟩⟩ im, bila agir ji ezmanan dakeve û ⟨את⟩ te û ⟨את⟩ pênciyên te bixwe.\" Û agirê Elohîm ji ezmanan daket û ⟨את⟩ ⟨אתו⟩ wî û ⟨את⟩ pênciyên wî xwar.",
+  "translation": "Û Elyah bersiv da û bi wan re axavt: «Ger ez mêrê Elohîm im, bila agir ji ezmanan dakeve û ⟨את⟩ te û ⟨את⟩ pêncîyên te bixwe.» Û agirê Elohîm ji ezmanan daket û ⟨את⟩ wî û ⟨את⟩ pêncîyên wî xwar.",
   "tokens": [
     {
       "surface": "ויען",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אליה",
-      "gloss": "Eliyahu"
+      "gloss": "Elyah"
     },
     {
       "surface": "וידבר",
-      "gloss": "got"
+      "gloss": "axavt"
     },
     {
       "surface": "אליהם",
-      "gloss": "ji wan re"
+      "gloss": "bi wan re"
     },
     {
       "surface": "אם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "merê"
+      "gloss": "mêrê"
     },
     {
       "surface": "האלהים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ez… im"
+      "gloss": "ez im"
     },
     {
       "surface": "תרד",
@@ -57,28 +57,29 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "û bixwe"
+      "gloss": "bixwe"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ te"
+      "gloss": "⟨את⟩",
+      "marks": "te"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pênciyên te"
+      "marks": "pêncîyên te"
     },
     {
       "surface": "חמשיך",
-      "gloss": "pênciyên te"
+      "gloss": "pêncîyên te"
     },
     {
       "surface": "ותרד",
-      "gloss": "û daket"
+      "gloss": "daket"
     },
     {
       "surface": "אש",
-      "gloss": "agirê"
+      "gloss": "agir"
     },
     {
       "surface": "אלהים",
@@ -94,22 +95,23 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "û xwar"
+      "gloss": "xwar"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ wî"
+      "gloss": "⟨את⟩",
+      "marks": "wî"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pênciyên wî"
+      "marks": "pêncîyên wî"
     },
     {
       "surface": "חמשיו",
-      "gloss": "pênciyên wî"
+      "gloss": "pêncîyên wî"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.849591794Z",
+  "timestamp": "2026-08-30T07:31:31.435151755Z",
   "model": "glm-5.3"
 }

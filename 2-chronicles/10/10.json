@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 10,
-  "translation": "Û xortên ku bi wî re mezin bûbûn ⟨אתו⟩ bi vî rengî peyivîn: “Wêha tu ji wî gelê ku bi te re peyivî û got, ‘Bavê te barê me giran kir, êdî tu ji ser me hê santir bike’, re bêje: Tiliya min a biçûk ji kêleka bavê xwe stûrtir e.”",
+  "translation": "Xortên ku bi wî re mezin bûbûn bi wî re axivtin, gotin: Wêha bibêje ji gelê ku ji te re gotibû û gotibû: Bavê te ⟨את⟩ ×ênka me giran kir, bila tu jî ji ser me sivik bikî — wêha ji wan re bibêje: Tiliya min a biçûk ji qembera bavê min stûrtir e.",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "û peyivîn"
+      "gloss": "axivtin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ bi wî re"
+      "gloss": "⟨את⟩ bi wî re"
     },
     {
       "surface": "הילדים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ bi wî re"
+      "gloss": "⟨את⟩ bi wî re"
     },
     {
       "surface": "לאמר",
-      "gloss": "bêjin"
+      "gloss": "gotin"
     },
     {
       "surface": "כה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "tu … bêjî"
+      "gloss": "bibêje"
     },
     {
       "surface": "לעם",
-      "gloss": "ji … gel re"
+      "gloss": "ji gelê"
     },
     {
       "surface": "אשר",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "דברו",
-      "gloss": "peyivî"
+      "gloss": "gotibûn"
     },
     {
       "surface": "אליך",
-      "gloss": "bi te re"
+      "gloss": "ji te re"
     },
     {
       "surface": "לאמר",
-      "gloss": "û got"
+      "gloss": "gotibû"
     },
     {
       "surface": "אביך",
@@ -74,19 +74,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "barê me"
+      "marks": "×ênka me"
     },
     {
       "surface": "עלנו",
-      "gloss": "barê me"
+      "gloss": "×ênka me"
     },
     {
       "surface": "ואתה",
-      "gloss": "êdî tu"
+      "gloss": "bila tu jî"
     },
     {
       "surface": "הקל",
-      "gloss": "hê santir bike"
+      "gloss": "sivik bikî"
     },
     {
       "surface": "מעלינו",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "tu bêjî"
+      "gloss": "bibêje"
     },
     {
       "surface": "אלהם",
@@ -114,13 +114,13 @@
     },
     {
       "surface": "ממתני",
-      "gloss": "ji kêleka"
+      "gloss": "ji qembera"
     },
     {
       "surface": "אבי",
       "gloss": "bavê min"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.840479177Z",
+  "timestamp": "2026-08-30T07:36:38.422455758Z",
   "model": "glm-5.3"
 }

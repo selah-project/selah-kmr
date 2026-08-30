@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Û Bilam bersiv da û ji Balak re got: “Ma min ji te re negotibû ku ez ê hemû tiştê ku Yahwe bêje, ⟨אתו⟩ bikim?”",
+  "translation": "Û Bîl'am bersiv da û ji Balak re got: Ma min ji te re negot ku ez bibêjim: Hemû tiştê ku Yahwe bibêje — ⟨את⟩ wê ezê bikim?",
   "tokens": [
     {
       "surface": "ויען",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בלעם",
-      "gloss": "Bilam"
+      "gloss": "Bîl'am"
     },
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ji … re"
+      "gloss": "ji… re"
     },
     {
       "surface": "בלק",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "ma … ne"
+      "gloss": "Ma… ne"
     },
     {
       "surface": "דברתי",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ku"
+      "gloss": "ku ez bibêjim"
     },
     {
       "surface": "כל",
-      "gloss": "hemû"
+      "gloss": "Hemû"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "bêje"
+      "gloss": "bibêje"
     },
     {
       "surface": "יהוה",
@@ -62,13 +62,13 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "wî"
+      "marks": "wê (tiştê ku Yahwe bibêje)"
     },
     {
       "surface": "אעשה",
-      "gloss": "ez ê bikim"
+      "gloss": "ezê bikim"
     }
   ],
-  "timestamp": "2026-08-29T18:50:39.346529995Z",
+  "timestamp": "2026-08-30T07:27:25.760289699Z",
   "model": "glm-5.3"
 }

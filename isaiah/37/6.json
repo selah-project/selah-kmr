@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 37,
-  "translation": "Û Yeşayahu ji wan re got: Hûn wusa bibêjin li xudanê xwe: Wusa got Yahwe: Netirse ji ber wan gotinan ku tu bihîstî, yên ku xortên padîşahê Aşûr ⟨את⟩ ⟨אות⟩ min bi wan rûreç kirin.",
+  "translation": "Û Yeşayahu ji wan re got: «Wêha ji begên xwe re bibêjin: Wêha Yahwe dibêje: Ji peyvên ku te bihîstiye netirse, yên ku xulamên (nêçîrvanên) keyê Aşûr min qelp kirin ⟨את⟩.»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "û ... got"
+      "gloss": "got"
     },
     {
       "surface": "אליהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "wusa"
+      "gloss": "wêha"
     },
     {
       "surface": "תאמרון",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "li"
+      "gloss": "ji"
     },
     {
       "surface": "אדניכם",
-      "gloss": "xudanê xwe"
+      "gloss": "begên xwe"
     },
     {
       "surface": "כה",
-      "gloss": "wusa"
+      "gloss": "wêha"
     },
     {
       "surface": "אמר",
-      "gloss": "got"
+      "gloss": "dibêje"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "תירא",
-      "gloss": "tirse"
+      "gloss": "netirse"
     },
     {
       "surface": "מפני",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "wan gotinan"
+      "gloss": "peyvan"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "שמעת",
-      "gloss": "tu bihîstî"
+      "gloss": "te bihîstiye"
     },
     {
       "surface": "אשר",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "גדפו",
-      "gloss": "rûreç kirin"
+      "gloss": "qelp kirin"
     },
     {
       "surface": "נערי",
-      "gloss": "xortên"
+      "gloss": "xulamên (nêçîrvanên)"
     },
     {
       "surface": "מלך",
-      "gloss": "padîşahê"
+      "gloss": "keyê"
     },
     {
       "surface": "אשור",
@@ -93,10 +93,10 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אות⟩",
+      "gloss": "⟨את⟩",
       "marks": "min"
     }
   ],
-  "timestamp": "2026-08-29T20:38:37.395013241Z",
+  "timestamp": "2026-08-30T07:32:33.089917928Z",
   "model": "glm-5.3"
 }

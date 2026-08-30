@@ -5,36 +5,37 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 25,
-  "translation": "Û tu ⟨את⟩ darikan ji darên şîta çêkî û tu wan bi zêr bipêçî, û ⟨את⟩ masê bi wan were hildan.",
+  "translation": "Û tu dirûtî ⟨את⟩ daran ji darên şîttayê, û tu wan bi zêr dinixîmt, û pê wan ⟨את⟩ sofrê tê hilgirtin.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "û tu çêkî"
+      "gloss": "û tu dirûtî"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "darikan"
+      "marks": "diran"
     },
     {
       "surface": "הבדים",
-      "gloss": "darikan"
+      "gloss": "diran"
     },
     {
       "surface": "עצי",
-      "gloss": "ji darên"
+      "gloss": "darên"
     },
     {
       "surface": "שטים",
-      "gloss": "şîta"
+      "gloss": "şîttayê"
     },
     {
       "surface": "וצפית",
-      "gloss": "û tu bipêçî"
+      "gloss": "û tu dinixîmt"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "wan"
     },
     {
       "surface": "זהב",
@@ -42,22 +43,22 @@
     },
     {
       "surface": "ונשא",
-      "gloss": "û were hildan"
+      "gloss": "û tê hilgirtin"
     },
     {
       "surface": "בם",
-      "gloss": "bi wan"
+      "gloss": "pê wan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "masê"
+      "marks": "sofrê"
     },
     {
       "surface": "השלחן",
-      "gloss": "masê"
+      "gloss": "sofrê"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.836019710Z",
+  "timestamp": "2026-08-30T07:25:53.313314054Z",
   "model": "glm-5.3"
 }

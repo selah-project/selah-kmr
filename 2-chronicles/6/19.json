@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "Û tu rû bide duaya xulamê xwe û lavijê wî, Yahwe, Elohîmê min, ji bo guhdarkirina gazî û duaya ku xulamê te li pêş te diajit.",
+  "translation": "Û tu bizivirî aliyê duaya xulamê xwe û aliyê lava wî, Yahwe Elohîmê min, da ku tu guh bidî bêrya û duaya ku xulamê te berî te dixeyide.",
   "tokens": [
     {
       "surface": "ופנית",
-      "gloss": "Û tu rû bide"
+      "gloss": "bizivirî"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "aliyê"
     },
     {
       "surface": "תפלת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "û"
+      "gloss": "û aliyê"
     },
     {
       "surface": "תחנתו",
-      "gloss": "lavijê wî"
+      "gloss": "lava wî"
     },
     {
       "surface": "יהוה",
@@ -37,27 +37,23 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohîmê"
-    },
-    {
-      "surface": "אלהי",
-      "gloss": "min"
+      "gloss": "Elohîmê min"
     },
     {
       "surface": "לשמע",
-      "gloss": "ji bo guhdarkirina"
+      "gloss": "da ku tu guh bidî"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "li"
     },
     {
       "surface": "הרנה",
-      "gloss": "gazî"
+      "gloss": "bêrya"
     },
     {
       "surface": "ואל",
-      "gloss": "û"
+      "gloss": "û li"
     },
     {
       "surface": "התפלה",
@@ -73,13 +69,13 @@
     },
     {
       "surface": "מתפלל",
-      "gloss": "diajit"
+      "gloss": "dixeyide"
     },
     {
       "surface": "לפניך",
-      "gloss": "li pêş te"
+      "gloss": "berî te"
     }
   ],
-  "timestamp": "2026-08-30T06:43:14.802303888Z",
+  "timestamp": "2026-08-30T07:23:00.946272405Z",
   "model": "glm-5.3"
 }

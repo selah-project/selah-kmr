@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 9,
-  "translation": "Û ew çûn jor nav bajêr; dema ew dikevin nava bajêr, û turha Şemûêl derdiket bo rastîdana wan, ku here ser cîhê bilind.",
+  "translation": "Û ew çûn ser bajêr; gava ew dikevalin nav bajêr, wêrekî Şemuelê derdiket pêşiya wan, da ku bilinde bilindê çêbibe.",
   "tokens": [
     {
       "surface": "ויעלו",
-      "gloss": "çûn jor"
+      "gloss": "çûn ser"
     },
     {
       "surface": "העיר",
-      "gloss": "nav bajêr"
+      "gloss": "bajêr"
     },
     {
       "surface": "המה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "באים",
-      "gloss": "dikevin"
+      "gloss": "dikevalin"
     },
     {
       "surface": "בתוך",
-      "gloss": "nava"
+      "gloss": "nav"
     },
     {
       "surface": "העיר",
@@ -33,15 +33,11 @@
     },
     {
       "surface": "והנה",
-      "gloss": "û turha"
+      "gloss": "wêrekî"
     },
     {
       "surface": "שמואל",
-      "gloss": "Şemûêl"
-    },
-    {
-      "surface": "יזא",
-      "gloss": ""
+      "gloss": "Şemuelê"
     },
     {
       "surface": "יצא",
@@ -49,17 +45,17 @@
     },
     {
       "surface": "לקראתם",
-      "gloss": "bo rastîdana wan"
+      "gloss": "pêşiya wan"
     },
     {
       "surface": "לעלות",
-      "gloss": "ku here jor"
+      "gloss": "da ku bilinde"
     },
     {
       "surface": "הבמה",
-      "gloss": "cîhê bilind"
+      "gloss": "bilindê"
     }
   ],
-  "timestamp": "2026-08-29T19:38:27.275204880Z",
+  "timestamp": "2026-08-30T07:22:19.901914306Z",
   "model": "glm-5.3"
 }

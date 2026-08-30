@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "kmr",
   "chapter": 4,
-  "translation": "Û ji mirovan wê bên avêtin te, û cihê te wê bi heywanên çolê re bibe, û wek gavan wê didin te giya xwarin, û şîna ezmanan wê tê bide. Û heft dem wê derbas ser te bibin, heta ku tu bizanibî ku Yê Bilind li padîşahiya mirovan hukim dike, û dide ⟨ית⟩ wê ê ku dixwaze.",
+  "translation": "Tu dê ji mirovan werî derxistin, û cihê te ê bi ajalên deştê re be; ji te re dê giha wekî ga were dan-xwarin, û tu dê ji şîrîna ezmanan were şûştin; û heft dem dê derbas bibin ser te, heta ku tu bizanibî ku Yê-herî-Bilind li ser padîşahiya mirovan hukim dike, û ⟨ew⟩ dide kêjan ku ⟨ew⟩ bivê.",
   "tokens": [
     {
       "surface": "ולך",
-      "gloss": "Û te"
+      "gloss": "û ji te"
     },
     {
       "surface": "טרדין",
-      "gloss": "wê bên avêtin"
+      "gloss": "werî derxistin"
     },
     {
       "surface": "מן",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ועם",
-      "gloss": "û ... bi ... re"
+      "gloss": "û bi"
     },
     {
       "surface": "חיות",
-      "gloss": "heywanên"
+      "gloss": "ajalên"
     },
     {
       "surface": "ברא",
-      "gloss": "çolê"
+      "gloss": "deştê"
     },
     {
       "surface": "להוה",
-      "gloss": "wê bibe"
+      "gloss": "be"
     },
     {
       "surface": "מדרך",
@@ -45,23 +45,23 @@
     },
     {
       "surface": "ועשבא",
-      "gloss": "û giya"
+      "gloss": "û giha"
     },
     {
       "surface": "כתורין",
-      "gloss": "wek gavan"
+      "gloss": "wekî ga"
     },
     {
       "surface": "לך",
-      "gloss": "te"
+      "gloss": "ji te re"
     },
     {
       "surface": "יטעמון",
-      "gloss": "wê didin xwarin"
+      "gloss": "were dan-xwarin"
     },
     {
       "surface": "ומטל",
-      "gloss": "û şîna"
+      "gloss": "û şîrîn"
     },
     {
       "surface": "שמיא",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "te"
+      "gloss": "ji te re"
     },
     {
       "surface": "מצבעין",
-      "gloss": "wê tê bide"
+      "gloss": "were şûştin"
     },
     {
       "surface": "ושבעה",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "יחלפון",
-      "gloss": "wê derbas bibin"
+      "gloss": "dê derbas bibin"
     },
     {
       "surface": "עליך",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "heta"
+      "gloss": "heta ku"
     },
     {
       "surface": "די",
@@ -113,11 +113,11 @@
     },
     {
       "surface": "עליא",
-      "gloss": "Yê Bilind"
+      "gloss": "Yê-herî-Bilind"
     },
     {
       "surface": "במלכות",
-      "gloss": "li padîşiya"
+      "gloss": "padîşahiya"
     },
     {
       "surface": "אנשא",
@@ -125,7 +125,7 @@
     },
     {
       "surface": "ולמן",
-      "gloss": "û ê ku"
+      "gloss": "û kêjan"
     },
     {
       "surface": "די",
@@ -133,14 +133,13 @@
     },
     {
       "surface": "יצבא",
-      "gloss": "dixwaze"
+      "gloss": "bivê"
     },
     {
       "surface": "יתננה",
-      "gloss": "dide ⟨ית⟩",
-      "marks": "wê (padîşahî)"
+      "gloss": "dide"
     }
   ],
-  "timestamp": "2026-08-30T06:17:41.106040191Z",
+  "timestamp": "2026-08-30T07:36:14.775362057Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 17,
-  "translation": "Û ez li ser wî biçim — û ew westiya û destên wî lawaz in — û ez tirse bidim ⟨את⟩ ⟨אתו⟩, û ew î ⟨את⟩ di cem wî de birevin, û ez tenê ⟨את⟩ key li tenê wî bidarim.",
+  "translation": "û ez ê li ser wî biqelime — ew ê westiya û destên wî bêhêz — û ez ê ⟨את⟩ wî ditirsînim, û ê tevaya gelê yê ku ⟨את⟩ bi wî re ye direve, û ez ê ⟨את⟩ key tenê bilêdim.",
   "tokens": [
     {
       "surface": "ואבוא",
-      "gloss": "û ez biçim"
+      "gloss": "û ez ê biqelime"
     },
     {
       "surface": "עליו",
@@ -25,49 +25,49 @@
     },
     {
       "surface": "ורפה",
-      "gloss": "û lawaz"
+      "gloss": "û bêhêz"
     },
     {
       "surface": "ידים",
-      "gloss": "destên"
+      "gloss": "destên (wî)"
     },
     {
       "surface": "והחרדתי",
-      "gloss": "û ez tirse bidim"
+      "gloss": "û ez ê ditirsînim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ew (Dawid)"
+      "gloss": "⟨את⟩",
+      "marks": "wî"
     },
     {
       "surface": "ונס",
-      "gloss": "û birevin"
+      "gloss": "û direve"
     },
     {
       "surface": "כל",
-      "gloss": "hemû"
+      "gloss": "tevaya"
     },
     {
       "surface": "העם",
-      "gloss": "gel"
+      "gloss": "gelê"
     },
     {
       "surface": "אשר",
-      "gloss": "ku"
+      "gloss": "yê ku"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ di cem wî de"
+      "gloss": "⟨את⟩ bi wî re"
     },
     {
       "surface": "והכיתי",
-      "gloss": "û ez bidarim"
+      "gloss": "û ez ê bilêdim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "key"
+      "marks": "key tenê"
     },
     {
       "surface": "המלך",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "li tenê wî"
+      "gloss": "tenê"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.817335169Z",
+  "timestamp": "2026-08-30T07:47:26.944923799Z",
   "model": "glm-5.3"
 }

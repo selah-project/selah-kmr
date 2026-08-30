@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 31,
-  "translation": "Yahwe wan berî we dide û hûn ê li wan bikin gorî hemû fermana ku min ⟨אתכם⟩ ferman kiriye.",
+  "translation": "Yahwe wan berî we didin û hûn ji wan re gorî hemû fermana ku min ⟨את⟩ we pê ferman kirihe, êdî bikin.",
   "tokens": [
     {
       "surface": "ונתנם",
-      "gloss": "wan berî we dide"
+      "gloss": "didin"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "hûn ê bikin"
+      "gloss": "hûn bikin"
     },
     {
       "surface": "להם",
-      "gloss": "li wan"
+      "gloss": "ji wan re"
     },
     {
       "surface": "ככל",
@@ -41,14 +41,14 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "min ferman kiriye"
+      "gloss": "min ferman kirî"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "we"
+      "marks": "we (koma Israelê)"
     }
   ],
-  "timestamp": "2026-08-29T19:12:07.383737060Z",
+  "timestamp": "2026-08-30T07:29:04.904082089Z",
   "model": "glm-5.3"
 }

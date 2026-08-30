@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "kmr",
   "chapter": 29,
-  "translation": "Û ez ê ji we re bên dîtin, dibeje Yahwe; û ez ê sirgûna we vegerînim û ez ê we ji hemû miletan û ji hemû cihên ku min ⟨אתכם⟩ li wir avêtine bicivînim, dibeje Yahwe; û ez ê ⟨אתכם⟩ vegerînim ba wî cihê ku min ⟨אתכם⟩ ji wir sirgûn kiribû.",
+  "translation": "Ez ê ji we re bên dîtin, dibêje Yahwe; ez ê şûnda ⟨את⟩ sirgûna we vegerînim û ez ê ⟨את⟩ we ji hemû netewên û ji hemû ciyên ku min we li wir qewitandibû civînim, dibêje Yahwe; û ez ê ⟨את⟩ we ber bi cihê ku min we ji wir sirgûn kiribû vegerînim.",
   "tokens": [
     {
       "surface": "ונמצאתי",
-      "gloss": "û ez ê bên dîtin"
+      "gloss": "bên dîtin"
     },
     {
       "surface": "לכם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "dibeje"
+      "gloss": "dibêje"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ושבתי",
-      "gloss": "û ez ê vegerînim"
+      "gloss": "şûnda vegerînim"
     },
     {
       "surface": "את",
@@ -38,12 +38,12 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "û ez ê bicivînim"
+      "gloss": "civînim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩ we",
+      "marks": "we (ji hemû netewên)"
     },
     {
       "surface": "מכל",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "miletan"
+      "gloss": "netewên"
     },
     {
       "surface": "ומכל",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "המקומות",
-      "gloss": "cihên"
+      "gloss": "ciyên"
     },
     {
       "surface": "אשר",
@@ -67,12 +67,12 @@
     },
     {
       "surface": "הדחתי",
-      "gloss": "min avêtine"
+      "gloss": "qewitandibûm"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩ we",
+      "marks": "we (li wir)"
     },
     {
       "surface": "שם",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "dibeje"
+      "gloss": "dibêje"
     },
     {
       "surface": "יהוה",
@@ -88,20 +88,20 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "û ez ê vegerînim"
+      "gloss": "vegerînim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩ we",
+      "marks": "we (ber bi cihê)"
     },
     {
       "surface": "אל",
-      "gloss": "ba"
+      "gloss": "ber bi"
     },
     {
       "surface": "המקום",
-      "gloss": "wî cihî"
+      "gloss": "cihê"
     },
     {
       "surface": "אשר",
@@ -109,18 +109,18 @@
     },
     {
       "surface": "הגליתי",
-      "gloss": "min sirgûn kiribû"
+      "gloss": "sirgûn kiribûm"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩ we",
+      "marks": "we (ji wir)"
     },
     {
       "surface": "משם",
       "gloss": "ji wir"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.829552167Z",
+  "timestamp": "2026-08-30T07:33:20.424561722Z",
   "model": "glm-5.3"
 }

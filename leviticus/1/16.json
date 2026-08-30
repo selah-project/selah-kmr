@@ -5,33 +5,33 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û hewika wê bi perên wê derdibe û wê davêje nêzîkî altârê, aliyê rojhilatê, ⟨bi> cihê kûlan ⟨re⟩.",
+  "translation": "Wê îşko û tilîskeya wî bi qirikê ⟨את⟩ rûyê rojhilat ê qurbangehê bavêje, ber bi cihê têşî ve.",
   "tokens": [
     {
       "surface": "והסיר",
-      "gloss": "derdibe"
+      "gloss": "wê … rûyê wî derxiste"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hewika wê"
+      "marks": "îşko û tilîskeya wî (qirikê wî)"
     },
     {
       "surface": "מראתו",
-      "gloss": "hewika wê"
+      "gloss": "qirikê wî (tilîskeya wî)"
     },
     {
       "surface": "בנצתה",
-      "gloss": "bi perên wê"
+      "gloss": "bi tilîskeya wî"
     },
     {
       "surface": "והשליך",
-      "gloss": "davêje"
+      "gloss": "wê bavêje"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "wê"
+      "marks": "wî (ew tiştê hat avêtin)"
     },
     {
       "surface": "אצל",
@@ -39,15 +39,15 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altârê"
+      "gloss": "qurbangehê"
     },
     {
       "surface": "קדמה",
-      "gloss": "aliyê rojhilatê"
+      "gloss": "ber bi rojhilat ve"
     },
     {
       "surface": "אל",
-      "gloss": "bi… re"
+      "gloss": "ber bi … ve"
     },
     {
       "surface": "מקום",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "הדשן",
-      "gloss": "kûlan"
+      "gloss": "têşî"
     }
   ],
-  "timestamp": "2026-08-29T18:22:59.552250301Z",
+  "timestamp": "2026-08-30T07:26:55.867358758Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 15,
-  "translation": "Û Dawid ⟨is⟩ hatibû heta seriyê, ku tê de ⟨is⟩ ji Elohîm re tê perestîn, û va, Hûşayê Erxî ji bo pêşwaziya wî hatibû, kincê wî qelikandî bû û xwelî ⟨is⟩ li serê wî bû.",
+  "translation": "Û Dawid, gava hat asta serî ya çiyê, ⟨cihê⟩ ku ew li wir berî Elohîm re diçû, û va, Hûşayê Arkî ji bo rûdana wî hat, kincê wî dişqitî bû û xwelî serê wî bû.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Û…bû"
+      "gloss": "Û bû"
     },
     {
       "surface": "דוד",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בא",
-      "gloss": "hatibû"
+      "gloss": "hat"
     },
     {
       "surface": "עד",
-      "gloss": "heta"
+      "gloss": "heta asta"
     },
     {
       "surface": "הראש",
-      "gloss": "seriyê"
+      "gloss": "serî"
     },
     {
       "surface": "אשר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ישתחוה",
-      "gloss": "tê perestîn"
+      "gloss": "berî Elohîm re diçû"
     },
     {
       "surface": "שם",
-      "gloss": "tê de"
+      "gloss": "li wir"
     },
     {
       "surface": "לאלהים",
-      "gloss": "ji Elohîm re"
+      "gloss": "Elohîm"
     },
     {
       "surface": "והנה",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "לקראתו",
-      "gloss": "ji bo pêşwaziya wî"
+      "gloss": "ji bo rûdana wî"
     },
     {
       "surface": "חושי",
-      "gloss": "Hûşayê"
+      "gloss": "Hûşay"
     },
     {
       "surface": "הארכי",
-      "gloss": "Erxî"
+      "gloss": "Arkî"
     },
     {
       "surface": "קרוע",
-      "gloss": "qelikandî"
+      "gloss": "dişqitî"
     },
     {
       "surface": "כתנתו",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "על",
-      "gloss": "li ser"
+      "gloss": "ser"
     },
     {
       "surface": "ראשו",
       "gloss": "serê wî"
     }
   ],
-  "timestamp": "2026-08-29T19:54:37.977245158Z",
+  "timestamp": "2026-08-30T07:50:40.466355737Z",
   "model": "glm-5.3"
 }

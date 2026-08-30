@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 9,
-  "translation": "Ji Yahwe re lava bikin — ku bes e, dengdewrên Elohîm û heso — ⟨את⟩ we ⟨את⟩ ezê bişînim û hûn ê êdî li vir neman.»",
+  "translation": "Ji Yahwe re lê bikin, û bes e ku dengên Elohîm û hêlîn çênebin, û ez ê ⟨את⟩ we bişînim û hûn ê êdî bernedin.",
   "tokens": [
     {
       "surface": "העתירו",
-      "gloss": "lava bikin"
+      "gloss": "lê bikin"
     },
     {
       "surface": "אל",
@@ -20,16 +20,16 @@
       "gloss": "Yahwe"
     },
     {
-      "surface": "ורב",
-      "gloss": "bes e"
+      "surface": "ווב",
+      "gloss": ""
     },
     {
       "surface": "מהית",
-      "gloss": "ku … bûye"
+      "gloss": "çênebin"
     },
     {
       "surface": "קלת",
-      "gloss": "dengdewrên"
+      "gloss": "dengên"
     },
     {
       "surface": "אלהים",
@@ -37,33 +37,30 @@
     },
     {
       "surface": "וברד",
-      "gloss": "û heso"
-    },
-    {
-      "surface": "ואשלחהה",
-      "gloss": ""
+      "gloss": "û hêlîn"
     },
     {
       "surface": "ואשלחה",
-      "gloss": "⟨את⟩ ezê bişînim"
+      "gloss": "û ez ê bişînim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ we"
+      "gloss": "⟨את⟩",
+      "marks": "we"
     },
     {
       "surface": "ולא",
-      "gloss": "û ne"
+      "gloss": "û … êdî"
     },
     {
       "surface": "תספון",
-      "gloss": "êdî"
+      "gloss": "bernedin"
     },
     {
       "surface": "לעמד",
-      "gloss": "li vir neman"
+      "gloss": "neman"
     }
   ],
-  "timestamp": "2026-08-29T18:04:56.807790555Z",
+  "timestamp": "2026-08-30T07:22:28.023216170Z",
   "model": "glm-5.3"
 }

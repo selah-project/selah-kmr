@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 12,
-  "translation": "Û bi wan re wek şîreta ciwanan axaft, got: “Bavê min ⟨את⟩ cûkê we giran kir, û ez ê li ser cûkê we zêde bikim; bavê min we bi kamçiyan dida, û ez ê we bi pirtûkan didim.”",
+  "translation": "Û li gorî şîreta ciwanan bi wan re axivt, got: \"Bavê min ⟨את⟩ giriya we giran kir, û ez ê li ser giriya we zêde bikim; bavê min we bi kamçiyan da, û ez ê we bi dûpişkan bidim.\"",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "axaft"
+      "gloss": "axivt"
     },
     {
       "surface": "אליהם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כעצת",
-      "gloss": "wek şîreta"
+      "gloss": "li gorî şîreta"
     },
     {
       "surface": "הילדים",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cûkê we"
+      "marks": "giriya we"
     },
     {
       "surface": "עלכם",
-      "gloss": "cûkê we"
+      "gloss": "giriya we"
     },
     {
       "surface": "ואני",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "עלכם",
-      "gloss": "cûkê we"
+      "gloss": "giriya we"
     },
     {
       "surface": "אבי",
@@ -66,12 +66,12 @@
     },
     {
       "surface": "יסר",
-      "gloss": "dida"
+      "gloss": "da (ji bo rêkirinê)"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩ we",
+      "marks": "bi kamçiyan"
     },
     {
       "surface": "בשוטים",
@@ -83,18 +83,18 @@
     },
     {
       "surface": "איסר",
-      "gloss": "ez ê didim"
+      "gloss": "ez ê bidim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "we"
+      "gloss": "⟨את⟩ we",
+      "marks": "bi dûpişkan"
     },
     {
       "surface": "בעקרבים",
-      "gloss": "bi pirtûkan"
+      "gloss": "bi dûpişkan"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.857070080Z",
+  "timestamp": "2026-08-30T07:31:43.288178118Z",
   "model": "glm-5.3"
 }

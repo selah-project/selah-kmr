@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 30,
-  "translation": "Jinên min û zarokên min ⟨את⟩ bide min — yên ku ez bi wan bi te re ⟨אתך⟩ xizmet kirim — û ez herim; çimkî tu xizmeta min ⟨את⟩ ya ku min ji te re kirî dizanî.",
+  "translation": "Jinên min û zarokên min, ên ku min bi wan ⟨את⟩ te xizmet kir, bide min, û ez ê herim; ji ber ku tu ⟨את⟩ xizmeta min, ya ku min ji te re kir, dizanî.",
   "tokens": [
     {
       "surface": "תנה",
-      "gloss": "bide"
+      "gloss": "bide min"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "û ⟨את⟩",
       "marks": "zarokên min"
     },
     {
@@ -31,27 +31,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yên ku"
+      "gloss": "ên ku"
     },
     {
       "surface": "עבדתי",
-      "gloss": "xizmet kirim"
+      "gloss": "min xizmet kir"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩ bi te re"
+      "gloss": "⟨את⟩ te"
     },
     {
       "surface": "בהן",
       "gloss": "bi wan"
     },
     {
-      "surface": "ואלכה",
-      "gloss": "û ez herim"
+      "surface": "ו אלכה",
+      "gloss": "û ez ê herim"
     },
     {
       "surface": "כי",
-      "gloss": "çimkî"
+      "gloss": "ji ber ku"
     },
     {
       "surface": "אתה",
@@ -72,13 +72,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ku"
+      "gloss": "ya ku"
     },
     {
       "surface": "עבדתיך",
-      "gloss": "min ji te re kirî"
+      "gloss": "min ji te re kir"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.820645387Z",
+  "timestamp": "2026-08-30T07:25:01.293650010Z",
   "model": "glm-5.3"
 }

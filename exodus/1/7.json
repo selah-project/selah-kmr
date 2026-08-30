@@ -5,53 +5,54 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û zarokên Yisrael fêkî bûn, £andewî zêde bûn, pir bûn û bi hêz mezin bûn £ pir £zin; û welêt ji £an wan tije bû ⟨את⟩ ⟨אתם⟩.",
+  "translation": "Û kurên Yisraêl fêk dan, pir zêde bûn, qelew bûn û pir hêzdar bûn — bi hêzê pir pir — û erd bi wan ⟨את⟩ hat tijîkirin.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "Û zarokên"
+      "gloss": "Û kurên"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraêl"
     },
     {
       "surface": "פרו",
-      "gloss": "fêkî bûn"
+      "gloss": "fêk dan"
     },
     {
       "surface": "וישרצו",
-      "gloss": "£andewî zêde bûn"
+      "gloss": "pir zêde bûn"
     },
     {
       "surface": "וירבו",
-      "gloss": "pir bûn"
+      "gloss": "qelew bûn"
     },
     {
       "surface": "ויעצמו",
-      "gloss": "bi hêz mezin bûn"
+      "gloss": "hêzdar bûn"
     },
     {
       "surface": "במאד",
-      "gloss": "£ pir"
+      "gloss": "bi hêzê pir"
     },
     {
       "surface": "מאד",
-      "gloss": "£zin"
+      "gloss": "pir"
     },
     {
       "surface": "ותמלא",
-      "gloss": "tije bû"
+      "gloss": "hat tijîkirin"
     },
     {
       "surface": "הארץ",
-      "gloss": "welêt"
+      "gloss": "erd"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "wan (ew)"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.836404563Z",
+  "timestamp": "2026-08-30T07:25:27.244822945Z",
   "model": "glm-5.3"
 }

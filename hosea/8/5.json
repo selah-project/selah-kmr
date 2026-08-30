@@ -5,8 +5,53 @@
   "book": "hosea",
   "lang": "kmr",
   "chapter": 8,
-  "translation": "כָּנַח עֶגְלֵךְ שֹׁומְרוֹון",
-  "tokens": [],
-  "timestamp": "2026-08-30T04:03:50.184158351Z",
+  "translation": "Êlên te, Şomeron, hatiye şandin — hêrsa min êdî dişewite li dijî wan. Heta kengê ew nikarin paqijî bi dest bixin?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "hatiye şandin"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "Êlên te"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "dişewite"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "hêrsa min"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li dijî wan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "nikarin"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "paqijî"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:45.920354686Z",
   "model": "glm-5.3"
 }

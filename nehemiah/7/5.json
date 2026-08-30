@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "kmr",
   "chapter": 7,
-  "translation": "Elohîmê min danî dilê min, û ez civandim ⟨את⟩ mezinan û ⟨את⟩ cîgiran û ⟨את⟩ gelê ji bo nifşnasiyê; û min pirtûka nifşnasiya yên di ⟨the⟩ destpêkê de hatibûn bilindkirin dît, û min tê de nivîsî dît:",
+  "translation": "Û Elohîmê min danî nav dilê min, û min ⟨את⟩ seroke civand û ⟨את⟩ memûran û ⟨את⟩ gelê ji bo tomarkirina nîşanan, û min pirtûka tomarkirinê ya ên ku di destpêkê de bilind bûbûn dît, û min dît ku tê de nivîsî bû:",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "danî"
+      "gloss": "danî nav"
     },
     {
       "surface": "אלהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "di"
+      "gloss": "nav"
     },
     {
       "surface": "לבי",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "ואקבצה",
-      "gloss": "û ez civandim"
+      "gloss": "û min civand"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mezinan"
+      "marks": "seroke"
     },
     {
       "surface": "החרים",
-      "gloss": "mezinan"
+      "gloss": "seroke"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "cîgiran"
+      "marks": "memûran"
     },
     {
       "surface": "הסגנים",
-      "gloss": "cîgiran"
+      "gloss": "memûran"
     },
     {
       "surface": "ואת",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "להתיחש",
-      "gloss": "ji bo nifşnasiyê"
+      "gloss": "ji bo tomarkirina nîşanan"
     },
     {
       "surface": "ואמצא",
@@ -68,11 +68,11 @@
     },
     {
       "surface": "היחש",
-      "gloss": "nifşnasiya"
+      "gloss": "tomarkirinê"
     },
     {
       "surface": "העולים",
-      "gloss": "yên hatibûn bilindkirin"
+      "gloss": "ên ku bilind bûbûn"
     },
     {
       "surface": "בראשונה",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "כתוב",
-      "gloss": "nivîsî"
+      "gloss": "nivîsî bû"
     },
     {
       "surface": "בו",
       "gloss": "tê de"
     }
   ],
-  "timestamp": "2026-08-30T06:28:24.142976253Z",
+  "timestamp": "2026-08-30T07:36:21.833161810Z",
   "model": "glm-5.3"
 }

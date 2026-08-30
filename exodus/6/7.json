@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "û ez ê ⟨אתכם⟩ ji bo xwe bigirim wek netewe, û ez ê ji we re bibim Elohîm; û hûn ê zanibin ku ez im Yahwe, Elohîmê we, yê ku ⟨אתכם⟩ ji bin barên Mitzrayim derdixe.",
+  "translation": "Û ez ê ⟨את⟩ we bistînim ji xwe re wekî gel, û ez ê ji we re bibim Elohîm, û hûn ê bizanibin ku ez im Yahwe, Elohîmê we, yê ku we ji bin barên Mîtsrayimê derdixe.",
   "tokens": [
     {
       "surface": "ולקחתי",
-      "gloss": "û ez ê bigirim"
+      "gloss": "Û ez ê bistînim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ we",
       "marks": "we"
     },
     {
       "surface": "לי",
-      "gloss": "ji bo xwe"
+      "gloss": "ji xwe re"
     },
     {
       "surface": "לעם",
-      "gloss": "wek netewe"
+      "gloss": "wekî gel"
     },
     {
       "surface": "והייתי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "û hûn ê zanibin"
+      "gloss": "û hûn ê bizanibin"
     },
     {
       "surface": "כי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ez"
+      "gloss": "ez im"
     },
     {
       "surface": "יהוה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ we",
       "marks": "we"
     },
     {
@@ -75,9 +75,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mîtsrayimê"
     }
   ],
-  "timestamp": "2026-08-30T07:21:41.838675540Z",
+  "timestamp": "2026-08-30T07:25:35.169749152Z",
   "model": "glm-5.3"
 }

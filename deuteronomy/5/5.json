@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 5,
-  "translation": "Ez di wê demê de di navbera Yahwe û we de disekinam, da ku ez ⟨את⟩ peyva Yahwe ji we re bibêjim, ji ber ku hûn ji ber ⟨the⟩ êgir ditirsiyan û neçûn serê çiyê, ku wê gotin:",
+  "translation": "Ez di wê demê de sekinam di nava Yahwe û we de, ji bo ku ez we re ⟨את⟩ peyva Yahwe bibêjim, ji ber ku hûn ji ber agir ditirsiyan û çûne serê çiyê ⟨ne⟩, ku ⟨wî⟩ got:",
   "tokens": [
     {
       "surface": "אנכי",
-      "gloss": "Ez"
+      "gloss": "ez"
     },
     {
       "surface": "עמד",
-      "gloss": "disekinam"
+      "gloss": "sekinam"
     },
     {
       "surface": "בין",
-      "gloss": "di navbera"
+      "gloss": "di nava"
     },
     {
       "surface": "יהוה",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "בעת",
-      "gloss": "di demê"
+      "gloss": "di wê demê de"
     },
     {
       "surface": "ההוא",
-      "gloss": "wê de"
+      "gloss": "wê"
     },
     {
       "surface": "להגיד",
-      "gloss": "da ku ez bibêjim"
+      "gloss": "ji bo ku … bibêjim"
     },
     {
       "surface": "לכם",
-      "gloss": "ji we re"
+      "gloss": "we re"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "peyva"
+      "marks": "peyva Yahwe"
     },
     {
       "surface": "דבר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "יראתם",
-      "gloss": "hûn ditirsiyan"
+      "gloss": "ditirsiyan"
     },
     {
       "surface": "מפני",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "האש",
-      "gloss": "êgir"
+      "gloss": "agir"
     },
     {
       "surface": "ולא",
-      "gloss": "û ne"
+      "gloss": "û ⟨ne⟩"
     },
     {
       "surface": "עליתם",
-      "gloss": "çûn serê"
+      "gloss": "çûne serê"
     },
     {
       "surface": "בהר",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ku wê gotin"
+      "gloss": "ku ⟨wî⟩ got"
     }
   ],
-  "timestamp": "2026-08-29T18:59:55.812135937Z",
+  "timestamp": "2026-08-30T07:27:48.366305037Z",
   "model": "glm-5.3"
 }

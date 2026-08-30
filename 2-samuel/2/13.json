@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-samuel 2:13","book":"2-samuel","lang":"kmr","chapter":2,"translation":"Û Yoav kurê Tseruyah û xulamên Dawid derketin, û li cem avê Giv'onê bi hev re hatin; û evên li ser ⟨the⟩ avê ji vê aliyê rûniştin û evên li ser ⟨the⟩ avê ji vê aliyê.","tokens":[{"surface":"ויואב","gloss":"Û Yoav"},{"surface":"בן","gloss":"kurê"},{"surface":"צרויה","gloss":"Tseruyah"},{"surface":"ועבדי","gloss":"û xulamên"},{"surface":"דוד","gloss":"Dawid"},{"surface":"יצאו","gloss":"derketin"},{"surface":"ויפגשום","gloss":"bi hev re hatin"},{"surface":"על","gloss":"li cem"},{"surface":"ברכת","gloss":"avê"},{"surface":"גבעון","gloss":"Giv'on"},{"surface":"יחדו","gloss":"bi hev re"},{"surface":"וישבו","gloss":"û rûniştin"},{"surface":"אלה","gloss":"evên"},{"surface":"על","gloss":"li ser"},{"surface":"הברכה","gloss":"avê"},{"surface":"מזה","gloss":"ji vê aliyê"},{"surface":"ואלה","gloss":"û evên"},{"surface":"על","gloss":"li ser"},{"surface":"הברכה","gloss":"avê"},{"surface":"מזה","gloss":"ji vê aliyê"}],"timestamp":"2026-08-29T19:48:58.621575313Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 2:13",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Yoav kurê Tseruyayê û xizmetkarên Dawid derketin, wan li ser kaniya Gîbonê hev du dîtin; ew bi hev rûniştin, ev li aliyekî yê kaniyê, ew jî li aliyê din yê kaniyê.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Û Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruyayê"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "û xizmetkarên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "ויפגשום",
+      "gloss": "hev du dîtin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gîbonê"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "rûniştin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "על",
+      "gloss": "li aliyekî yê"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "kaniyê"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "aliyekî"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ew jî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li aliyê din yê"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "kaniyê"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "aliyê din"
+    }
+  ],
+  "timestamp": "2026-08-30T07:30:44.277498922Z",
+  "model": "glm-5.3"
+}

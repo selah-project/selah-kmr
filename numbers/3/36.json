@@ -5,8 +5,61 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-29T18:38:40.205399097Z",
+  "translation": "Û parastina çavdêriyê ya kuranên Merarî: textên kelargehê, darikên wê, stûnên wê, bingehên wê û hemû amûrên wê, û hemû xizmeta wê.",
+  "tokens": [
+    {
+      "surface": "ופפקדת",
+      "gloss": "û parastina çavdêriyê"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "çavdêriyê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuranên"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarî"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "textên"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kelargehê"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "û darikên wê"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "û stûnên wê"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "û bingehên wê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên wê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "xizmeta wê"
+    }
+  ],
+  "timestamp": "2026-08-30T07:22:21.619024373Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Û key ⟨את⟩ Benayahu kurê Yehoyada li şûna wî danî ser ⟨the⟩ leşker, û ⟨את⟩ Tsadok kahn key li şûna Evyatar danî.",
+  "translation": "Şah Benayahû kurê Yehoyada danî ⟨את⟩ li şûna wî ser leşker, û ⟨את⟩ Şadok kûhên şah danî li şûna Ebyatar.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "û-danî"
+      "gloss": "danî"
     },
     {
       "surface": "המלך",
-      "gloss": "key"
+      "gloss": "şah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Benayahu"
+      "marks": "Benayahû"
     },
     {
       "surface": "בניהו",
-      "gloss": "Benayahu"
+      "gloss": "Benayahû"
     },
     {
       "surface": "בן",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "li-şûna-wî"
+      "gloss": "li şûna wî"
     },
     {
       "surface": "על",
@@ -47,15 +47,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Tsadok"
+      "marks": "Şadok"
     },
     {
       "surface": "צדוק",
-      "gloss": "Tsadok"
+      "gloss": "Şadok"
     },
     {
       "surface": "הכהן",
-      "gloss": "kahn"
+      "gloss": "kûhên"
     },
     {
       "surface": "נתן",
@@ -63,17 +63,17 @@
     },
     {
       "surface": "המלך",
-      "gloss": "key"
+      "gloss": "şah"
     },
     {
       "surface": "תחת",
-      "gloss": "li-şûna"
+      "gloss": "li şûna"
     },
     {
       "surface": "אביתר",
-      "gloss": "Evyatar"
+      "gloss": "Ebyatar"
     }
   ],
-  "timestamp": "2026-08-29T20:01:00.286782480Z",
+  "timestamp": "2026-08-30T07:31:32.299687142Z",
   "model": "glm-5.3"
 }
