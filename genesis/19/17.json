@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 19,
-  "translation": "Û ⟨bû⟩ ku ew ⟨אתם⟩ derdikeşandin derve, ew got: «Xwe xilas bike ji bo jiyana xwe! Li paş xwe nenihêre û li hemû deştê rawestîne; biçû çiyê, xwe xilas bike, da ku neyê rakirin!»",
+  "translation": "Û ⟨bû⟩ ku ew ⟨את⟩ ⟨אתם⟩ derdikeşandin derve, ew got: «Xwe xilas bike ji bo jiyana xwe! Li paş xwe nenihêre û li hemû deştê rawestîne; biçû çiyê, xwe xilas bike, da ku neyê rakirin!»",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "derve"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "neyê rakirin"
     }
   ],
-  "timestamp": "2026-08-29T17:41:48.070191741Z",
+  "timestamp": "2026-08-30T07:21:41.824831057Z",
   "model": "glm-5.3"
 }

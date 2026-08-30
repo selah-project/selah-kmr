@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 4,
-  "translation": "Û kahînê yê-rûnkirî dê ji xwîna ga hilbigire û ⟨אתו⟩ dê bîne nav çadira civînê.",
+  "translation": "Û kahînê yê-rûnkirî dê ji xwîna ga hilbigire û ⟨את⟩ ⟨אתו⟩ dê bîne nav çadira civînê.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wê (xwîn)"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "civînê"
     }
   ],
-  "timestamp": "2026-08-29T18:24:02.684017092Z",
+  "timestamp": "2026-08-30T07:21:41.852049330Z",
   "model": "glm-5.3"
 }

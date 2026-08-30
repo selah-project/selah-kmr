@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Eliyahu bersiv da û ji serderê pêncîyan re got: \"Ger ez merê Elohîm im, bila agir ji ezmanan dakeve û ⟨את⟩ te û ⟨את⟩ pênciyên te bixwe.\" Û agir ji ezmanan daket û ⟨אתו⟩ wî û ⟨את⟩ pênciyên wî xwar.",
+  "translation": "Eliyahu bersiv da û ji serderê pêncîyan re got: \"Ger ez merê Elohîm im, bila agir ji ezmanan dakeve û ⟨את⟩ te û ⟨את⟩ pênciyên te bixwe.\" Û agir ji ezmanan daket û ⟨את⟩ ⟨אתו⟩ wî û ⟨את⟩ pênciyên wî xwar.",
   "tokens": [
     {
       "surface": "ויענה",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ wî"
+      "gloss": "⟨את⟩ ⟨אתו⟩ wî"
     },
     {
       "surface": "ואת",
@@ -114,6 +114,6 @@
       "gloss": "pênciyên wî"
     }
   ],
-  "timestamp": "2026-08-29T20:13:25.375995981Z",
+  "timestamp": "2026-08-30T07:21:41.850114313Z",
   "model": "glm-5.3"
 }

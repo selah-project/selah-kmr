@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 30,
-  "translation": "Niha were, wê li ser tabletê binivîsîne ⟨אתם⟩, û li ser pirtûkê bihovane binivîse, da ku bibe ji bo roja dawîn şahidî heta domdariyê, heta hertî û hertî.",
+  "translation": "Niha were, wê li ser tabletê binivîsîne ⟨את⟩ ⟨אתם⟩, û li ser pirtûkê bihovane binivîse, da ku bibe ji bo roja dawîn şahidî heta domdariyê, heta hertî û hertî.",
   "tokens": [
     {
       "surface": "עתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "bi wan re (li pêş wan)"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "hertî û hertî"
     }
   ],
-  "timestamp": "2026-08-29T20:37:28.852345052Z",
+  "timestamp": "2026-08-30T07:21:41.854414041Z",
   "model": "glm-5.3"
 }

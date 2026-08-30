@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Û Moşe wan ⟨אתם⟩ li ser devê Yahwe bijmêrî, wekî ku ⟨hatibû⟩ emir kirin.",
+  "translation": "Û Moşe wan ⟨את⟩ ⟨אתם⟩ li ser devê Yahwe bijmêrî, wekî ku ⟨hatibû⟩ emir kirin.",
   "tokens": [
     {
       "surface": "ויפקד",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wan (Lêwî)"
     },
     {
@@ -41,6 +41,6 @@
       "gloss": "hatibû emir kirin"
     }
   ],
-  "timestamp": "2026-08-29T18:39:16.227796136Z",
+  "timestamp": "2026-08-30T07:21:41.855737765Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 24,
-  "translation": "Moşe axivî bi zarên Îsraêl re, wan ⟨את⟩ Qedexeker derxist derveyî kampê, wan ⟨אתו⟩ bi keviran bireqandin; zarên Îsraêl wê kirin wekî ku Yahwe ferman da ⟨את⟩ Moşe.",
+  "translation": "Moşe axivî bi zarên Îsraêl re, wan ⟨את⟩ Qedexeker derxist derveyî kampê, wan ⟨את⟩ ⟨אתו⟩ bi keviran bireqandin; zarên Îsraêl wê kirin wekî ku Yahwe ferman da ⟨את⟩ Moşe.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî (Qedexeker)"
     },
     {
@@ -99,6 +99,6 @@
       "gloss": "Moşe"
     }
   ],
-  "timestamp": "2026-08-29T18:34:27.240912124Z",
+  "timestamp": "2026-08-30T07:21:41.853494377Z",
   "model": "glm-5.3"
 }

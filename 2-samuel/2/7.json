@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Û naha bila destên we xurt bibin û bila hûn bibin kurên hêzê, çimkî axayê we Şaul mir, û malbata Yehûda jî min ⟨אתי⟩ wek key li ser wan meshand.",
+  "translation": "Û naha bila destên we xurt bibin û bila hûn bibin kurên hêzê, çimkî axayê we Şaul mir, û malbata Yehûda jî min ⟨את⟩ ⟨אתי⟩ wek key li ser wan meshand.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
+      "gloss": "⟨את⟩ ⟨אתי⟩",
       "marks": "min (meshand)"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "li ser wan"
     }
   ],
-  "timestamp": "2026-08-29T19:49:15.155583755Z",
+  "timestamp": "2026-08-30T07:21:41.815915197Z",
   "model": "glm-5.3"
 }

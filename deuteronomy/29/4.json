@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 29,
-  "translation": "Û min hûn ⟨אתכם⟩ çil salan di çolê de meşandin; kincên we li ser we ne xerar bûn û sola te li ser lingê te ne xerar bû.",
+  "translation": "Û min hûn ⟨את⟩ ⟨אתכם⟩ çil salan di çolê de meşandin; kincên we li ser we ne xerar bûn û sola te li ser lingê te ne xerar bû.",
   "tokens": [
     {
       "surface": "ואולך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "hûn"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "lingê te"
     }
   ],
-  "timestamp": "2026-08-29T19:10:42.622977739Z",
+  "timestamp": "2026-08-30T07:21:41.844931240Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "kmr",
   "chapter": 19,
-  "translation": "Û bi rastî heke ez çewt kiribe, çewtiya min ⟨אתי⟩ bi min re dimîne.",
+  "translation": "Û bi rastî heke ez çewt kiribe, çewtiya min ⟨את⟩ ⟨אתי⟩ bi min re dimîne.",
   "tokens": [
     {
       "surface": "ואף",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
+      "gloss": "⟨את⟩ ⟨אתי⟩",
       "marks": "bi min re"
     },
     {
@@ -33,6 +33,6 @@
       "gloss": "çewtiya min"
     }
   ],
-  "timestamp": "2026-08-30T05:55:27.919440836Z",
+  "timestamp": "2026-08-30T07:21:41.839548896Z",
   "model": "glm-5.3"
 }

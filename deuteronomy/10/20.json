@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 10,
-  "translation": "⟨את⟩ Yahwe, Elohîmê xwe, biparêze; ⟨אתו⟩ bibe xizmetkarê wî; bi wî ve bi girêda; û bi navê wî sond bixwu.",
+  "translation": "⟨את⟩ Yahwe, Elohîmê xwe, biparêze; ⟨את⟩ ⟨אתו⟩ bibe xizmetkarê wî; bi wî ve bi girêda; û bi navê wî sond bixwu.",
   "tokens": [
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "bibe xizmetkarê wî"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "sond bixwu"
     }
   ],
-  "timestamp": "2026-08-29T19:03:13.072469604Z",
+  "timestamp": "2026-08-30T07:21:41.842826287Z",
   "model": "glm-5.3"
 }

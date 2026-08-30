@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "kmr",
   "chapter": 13,
-  "translation": "Ez ⟨את⟩ êya sêyê dixin agir û wan wekî ku zîv tê xweşikkirin diguhêzim, wan wekî ku zêr tê ceribandin diiceribim. Ew bi navê min bang dikin, û ez ⟨אתו⟩ bersîva wan didim. Ez dibêjim: ew gelê min ⟨in⟩, û ew dibêje: Yahwe Elohîmê min ⟨e⟩.",
+  "translation": "Ez ⟨את⟩ êya sêyê dixin agir û wan wekî ku zîv tê xweşikkirin diguhêzim, wan wekî ku zêr tê ceribandin diiceribim. Ew bi navê min bang dikin, û ez ⟨את⟩ ⟨אתו⟩ bersîva wan didim. Ez dibêjim: ew gelê min ⟨in⟩, û ew dibêje: Yahwe Elohîmê min ⟨e⟩.",
   "tokens": [
     {
       "surface": "והבאתי",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wan (bersîva wan)"
     },
     {
@@ -112,6 +112,6 @@
       "gloss": "Elohîmê min"
     }
   ],
-  "timestamp": "2026-08-30T05:08:38.425212685Z",
+  "timestamp": "2026-08-30T07:21:41.827511891Z",
   "model": "glm-5.3"
 }

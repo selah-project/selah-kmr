@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 18,
-  "translation": "Wekî kirinên welatê Mîtsrayim, ku hûn tê de dijiyan, nakin; û wekî kirinên welatê Kenaan, ku ez ê ⟨אתכם⟩ tê de bihebînim, nakin; û bi hugûrên wan re nerewin.",
+  "translation": "Wekî kirinên welatê Mîtsrayim, ku hûn tê de dijiyan, nakin; û wekî kirinên welatê Kenaan, ku ez ê ⟨את⟩ ⟨אתכם⟩ tê de bihebînim, nakin; û bi hugûrên wan re nerewin.",
   "tokens": [
     {
       "surface": "כמעשה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "we"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "rewin"
     }
   ],
-  "timestamp": "2026-08-29T18:30:55.431543661Z",
+  "timestamp": "2026-08-30T07:21:41.853988119Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û Tsadok kahîn û Natan pêxember wî ⟨אתו⟩ li wir ji bo şahiyê ser Yisraêl bi rûn bikin, û hûn bi şofurê dixin û dibêjin: Bijî şah Şelomo!",
+  "translation": "Û Tsadok kahîn û Natan pêxember wî ⟨את⟩ ⟨אתו⟩ li wir ji bo şahiyê ser Yisraêl bi rûn bikin, û hûn bi şofurê dixin û dibêjin: Bijî şah Şelomo!",
   "tokens": [
     {
       "surface": "ומשח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "Şelomo"
     }
   ],
-  "timestamp": "2026-08-29T20:02:01.909995946Z",
+  "timestamp": "2026-08-30T07:21:41.858402815Z",
   "model": "glm-5.3"
 }

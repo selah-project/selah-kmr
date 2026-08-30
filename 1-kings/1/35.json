@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û hûn piştî wî bilind bibin, û ew ê were û li ser textê min rûne, ew ê şûna min şahîtî bike; û min ⟨אתו⟩ ferman daya ku bibe serokerê ser Yisraêl û ser Yehûda.",
+  "translation": "Û hûn piştî wî bilind bibin, û ew ê were û li ser textê min rûne, ew ê şûna min şahîtî bike; û min ⟨את⟩ ⟨אתו⟩ ferman daya ku bibe serokerê ser Yisraêl û ser Yehûda.",
   "tokens": [
     {
       "surface": "ועליתם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ferman daya"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "Yehûda"
     }
   ],
-  "timestamp": "2026-08-29T20:02:01.910331432Z",
+  "timestamp": "2026-08-30T07:21:41.857996589Z",
   "model": "glm-5.3"
 }

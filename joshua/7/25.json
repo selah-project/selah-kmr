@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "kmr",
   "chapter": 7,
-  "translation": "Yehoşua got: „Çima te encax da me xwar? Yahwe wê îro te encax bide xwarê.” Û hemû Îsraêl ⟨אתו⟩ bi keviran reşand, wan ⟨אתם⟩ bi agir şewitand û wan ⟨אתם⟩ bi keviran dan.",
+  "translation": "Yehoşua got: „Çima te encax da me xwar? Yahwe wê îro te encax bide xwarê.” Û hemû Îsraêl ⟨את⟩ ⟨אתו⟩ bi keviran reşand, wan ⟨אתם⟩ bi agir şewitand û wan ⟨אתם⟩ bi keviran dan.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wan"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wan"
     },
     {
@@ -87,6 +87,6 @@
       "gloss": "bi-keviran"
     }
   ],
-  "timestamp": "2026-08-29T19:16:28.985885677Z",
+  "timestamp": "2026-08-30T07:21:41.856600575Z",
   "model": "glm-5.3"
 }

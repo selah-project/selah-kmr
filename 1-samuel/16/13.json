@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "kmr",
   "chapter": 16,
-  "translation": "Û Şemûêl ⟨את⟩ qiloça rûnê hilgirt û ⟨אתו⟩ di nava birayên wî de mesh kir; û ruhê Yahwe ji wê rojê û şûnde bi hêz hat ser Dawid. Û Şemûêl rabû û çû Ramata.",
+  "translation": "Û Şemûêl ⟨את⟩ qiloça rûnê hilgirt û ⟨את⟩ ⟨אתו⟩ di nava birayên wî de mesh kir; û ruhê Yahwe ji wê rojê û şûnde bi hêz hat ser Dawid. Û Şemûêl rabû û çû Ramata.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî"
     },
     {
@@ -94,6 +94,6 @@
       "gloss": "Ramata"
     }
   ],
-  "timestamp": "2026-08-30T03:34:01.314199081Z",
+  "timestamp": "2026-08-30T07:21:41.841872398Z",
   "model": "glm-5.3"
 }

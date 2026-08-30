@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "kmr",
   "chapter": 3,
-  "translation": "Nêzîk bike ⟨את⟩ êla Lêwî, û ⟨אתו⟩ bisekinîne li ber Aharon kahîn, da ku ew wî xizmet bikin.",
+  "translation": "Nêzîk bike ⟨את⟩ êla Lêwî, û ⟨את⟩ ⟨אתו⟩ bisekinîne li ber Aharon kahîn, da ku ew wî xizmet bikin.",
   "tokens": [
     {
       "surface": "הקרב",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "êla Lêwî"
     },
     {
@@ -51,10 +51,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî (Aharon)"
     }
   ],
-  "timestamp": "2026-08-29T18:38:40.486161902Z",
+  "timestamp": "2026-08-30T07:21:41.856167598Z",
   "model": "glm-5.3"
 }

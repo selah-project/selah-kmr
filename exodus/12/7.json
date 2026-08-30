@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 12,
-  "translation": "Û ji ⟨את⟩ xwînê bigirin û bidin li ser herdu aliyên derî û li ser tixta-serê derî, li ser wan malan ku tê de wî ⟨אתו⟩ dixwin.",
+  "translation": "Û ji ⟨את⟩ xwînê bigirin û bidin li ser herdu aliyên derî û li ser tixta-serê derî, li ser wan malan ku tê de wî ⟨את⟩ ⟨אתו⟩ dixwin.",
   "tokens": [
     {
       "surface": "ולקחו",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "tê de"
     }
   ],
-  "timestamp": "2026-08-29T18:06:07.508822838Z",
+  "timestamp": "2026-08-30T07:21:41.834714915Z",
   "model": "glm-5.3"
 }

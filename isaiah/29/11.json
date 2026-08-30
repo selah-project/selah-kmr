@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "kmr",
   "chapter": 29,
-  "translation": "Û dîdanî ya hemûyan ji we re bûye wek peyvên ⟨את⟩ kitêba mohrkirî, ku didin ⟨אתו⟩ ji yê-ku-kitêb-dizane re, dibêjin: 'Vê bixwîne, ji kerema xwe,' ew dibêje: 'Nikarim, ji ber ku ew mohrkirî ye.'",
+  "translation": "Û dîdanî ya hemûyan ji we re bûye wek peyvên ⟨את⟩ kitêba mohrkirî, ku didin ⟨את⟩ ⟨אתו⟩ ji yê-ku-kitêb-dizane re, dibêjin: 'Vê bixwîne, ji kerema xwe,' ew dibêje: 'Nikarim, ji ber ku ew mohrkirî ye.'",
   "tokens": [
     {
       "surface": "ותהי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ew (kitêb)"
     },
     {
@@ -101,6 +101,6 @@
       "gloss": "ew"
     }
   ],
-  "timestamp": "2026-08-29T20:36:26.900101790Z",
+  "timestamp": "2026-08-30T07:21:41.854930833Z",
   "model": "glm-5.3"
 }

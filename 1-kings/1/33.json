@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "kmr",
   "chapter": 1,
-  "translation": "Û şah jê re got: Bi xwe re ⟨את⟩ xulamên axayê xwe bigirin, û ⟨את⟩ Şelomo kurê min li ser çêrê yê min siwar bikin, û ⟨אתו⟩ wî bixin Gîhon.",
+  "translation": "Û şah jê re got: Bi xwe re ⟨את⟩ xulamên axayê xwe bigirin, û ⟨את⟩ Şelomo kurê min li ser çêrê yê min siwar bikin, û ⟨את⟩ ⟨אתו⟩ wî bixin Gîhon.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî"
     },
     {
@@ -91,6 +91,6 @@
       "gloss": "Gîhon"
     }
   ],
-  "timestamp": "2026-08-29T20:02:01.909567850Z",
+  "timestamp": "2026-08-30T07:21:41.857543567Z",
   "model": "glm-5.3"
 }

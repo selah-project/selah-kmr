@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "kmr",
   "chapter": 31,
-  "translation": "Ji dengê ketina wî min gelan lerzand, gava min ⟨אתו⟩ daxist Şeolê, ⟨את⟩ yên dadikevin çalê; û hemû darên Edenê — bijarte û başên Libnanê, hemû vexwarên avê — di erda jêrîn de hatin tesellîkirin.",
+  "translation": "Ji dengê ketina wî min gelan lerzand, gava min ⟨את⟩ ⟨אתו⟩ daxist Şeolê, ⟨את⟩ yên dadikevin çalê; û hemû darên Edenê — bijarte û başên Libnanê, hemû vexwarên avê — di erda jêrîn de hatin tesellîkirin.",
   "tokens": [
     {
       "surface": "מקול",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "avê"
     }
   ],
-  "timestamp": "2026-08-30T05:03:29.310318738Z",
+  "timestamp": "2026-08-30T07:21:41.849114116Z",
   "model": "glm-5.3"
 }

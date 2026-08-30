@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "kmr",
   "chapter": 17,
-  "translation": "Û ez li ser wî biçim — û ew westiya û destên wî lawaz in — û ez tirse bidim ⟨אתו⟩, û ew î ⟨את⟩ di cem wî de birevin, û ez tenê ⟨את⟩ key li tenê wî bidarim.",
+  "translation": "Û ez li ser wî biçim — û ew westiya û destên wî lawaz in — û ez tirse bidim ⟨את⟩ ⟨אתו⟩, û ew î ⟨את⟩ di cem wî de birevin, û ez tenê ⟨את⟩ key li tenê wî bidarim.",
   "tokens": [
     {
       "surface": "ואבוא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ew (Dawid)"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": "li tenê wî"
     }
   ],
-  "timestamp": "2026-08-29T19:55:08.168269599Z",
+  "timestamp": "2026-08-30T07:21:41.817335169Z",
   "model": "glm-5.3"
 }

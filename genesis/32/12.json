@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "kmr",
   "chapter": 32,
-  "translation": "Rizgar bike min, ji destê birayê xwe, ji destê Esav, ji ber ku ez ditirsim ⟨אתו⟩, dê were û min bikuje, dayikê ligel zarokan.",
+  "translation": "Rizgar bike min, ji destê birayê xwe, ji destê Esav, ji ber ku ez ditirsim ⟨את⟩ ⟨אתו⟩, dê were û min bikuje, dayikê ligel zarokan.",
   "tokens": [
     {
       "surface": "הצילני",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "zarokan"
     }
   ],
-  "timestamp": "2026-08-29T17:49:47.862295631Z",
+  "timestamp": "2026-08-30T07:21:41.821645235Z",
   "model": "glm-5.3"
 }

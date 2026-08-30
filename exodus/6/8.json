@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "û ez ê ⟨אתכם⟩ bînim bo ⟨את⟩ wê erdê ku min ⟨את⟩ destê xwe hilda da wê bidim Avraham, Yîtshaq û Yaqûb; û ez ê ⟨אתה⟩ wê wek mîrasiyekê bidim we. Ez im Yahwe.”",
+  "translation": "û ez ê ⟨את⟩ ⟨אתכם⟩ bînim bo ⟨את⟩ wê erdê ku min ⟨את⟩ destê xwe hilda da wê bidim Avraham, Yîtshaq û Yaqûb; û ez ê ⟨את⟩ ⟨אתה⟩ wê wek mîrasiyekê bidim we. Ez im Yahwe.”",
   "tokens": [
     {
       "surface": "והבאתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "we"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
+      "gloss": "⟨את⟩ ⟨אתה⟩",
       "marks": "wê"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
+      "gloss": "⟨את⟩ ⟨אתה⟩",
       "marks": "wê"
     },
     {
@@ -88,6 +88,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-29T18:03:26.245117320Z",
+  "timestamp": "2026-08-30T07:21:41.839164882Z",
   "model": "glm-5.3"
 }

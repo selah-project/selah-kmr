@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "kmr",
   "chapter": 2,
-  "translation": "Û hêrsa Yahwe li dijî Yisraelê şewitand, û ew dan destê talankaran, û ew talan kirin ⟨אתם⟩; û ew firotin destê dijminên wan ên li dora wan, û êdî nikaribûn li ber dijminên xwe rabin.",
+  "translation": "Û hêrsa Yahwe li dijî Yisraelê şewitand, û ew dan destê talankaran, û ew talan kirin ⟨את⟩ ⟨אתם⟩; û ew firotin destê dijminên wan ên li dora wan, û êdî nikaribûn li ber dijminên xwe rabin.",
   "tokens": [
     {
       "surface": "ויחר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ew"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "dijminên xwe"
     }
   ],
-  "timestamp": "2026-08-29T19:24:52.979661663Z",
+  "timestamp": "2026-08-30T07:21:41.826760207Z",
   "model": "glm-5.3"
 }

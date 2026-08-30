@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "kmr",
   "chapter": 23,
-  "translation": "Û gava hûn ⟨את⟩ hasila erda xwe diçînin, qerexa zeviya xwe bi tevahî bernedin, û berheva hasila xwe kom nekin; ji feqîr û ji mêvan re ⟨bihêlin⟩ wan ⟨אתם⟩ — ez Yahwe, Elohîmê we me.",
+  "translation": "Û gava hûn ⟨את⟩ hasila erda xwe diçînin, qerexa zeviya xwe bi tevahî bernedin, û berheva hasila xwe kom nekin; ji feqîr û ji mêvan re ⟨bihêlin⟩ wan ⟨את⟩ ⟨אתם⟩ — ez Yahwe, Elohîmê we me.",
   "tokens": [
     {
       "surface": "ובקצרכם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wan (feqîr û mêvan)"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "Elohîmê we"
     }
   ],
-  "timestamp": "2026-08-29T18:34:19.473149496Z",
+  "timestamp": "2026-08-30T07:21:41.852508499Z",
   "model": "glm-5.3"
 }

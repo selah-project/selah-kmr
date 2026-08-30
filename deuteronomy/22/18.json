@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 22,
-  "translation": "Û pîrên wê bajêrî ⟨את⟩ wî zilamî bigirin û wî ⟨אתו⟩ bisîzin.",
+  "translation": "Û pîrên wê bajêrî ⟨את⟩ wî zilamî bigirin û wî ⟨את⟩ ⟨אתו⟩ bisîzin.",
   "tokens": [
     {
       "surface": "ולקחו",
@@ -38,10 +38,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî (zilamî)"
     }
   ],
-  "timestamp": "2026-08-29T19:08:37.735808295Z",
+  "timestamp": "2026-08-30T07:21:41.844022891Z",
   "model": "glm-5.3"
 }

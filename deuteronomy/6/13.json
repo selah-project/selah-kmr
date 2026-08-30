@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "kmr",
   "chapter": 6,
-  "translation": "⟨את⟩ Yahwe Elohîmê xwe bitirse û ⟨אתו⟩ biperestî û bi navê wî sond bixwe.",
+  "translation": "⟨את⟩ Yahwe Elohîmê xwe bitirse û ⟨את⟩ ⟨אתו⟩ biperestî û bi navê wî sond bixwe.",
   "tokens": [
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "wî (biperestî)"
     },
     {
@@ -42,6 +42,6 @@
       "gloss": "sond bixwe"
     }
   ],
-  "timestamp": "2026-08-29T19:00:09.190439710Z",
+  "timestamp": "2026-08-30T07:21:41.845662739Z",
   "model": "glm-5.3"
 }
