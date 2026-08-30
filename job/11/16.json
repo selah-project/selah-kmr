@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji ber ku tu ê êşê ji bîr bikî, wekî avên borî ⟨wê⟩ bi bîr bînî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "êş"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ji bîr bikî"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wekî avên"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "borî"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "bi bîr bînî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:53.721584767Z",
+  "model": "glm-5.3"
+}

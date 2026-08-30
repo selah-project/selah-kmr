@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Xwe nizimînim min, Elohîm, li gorî xesedê te, li gorî firehiya dilovaniyên te gunehên min jê bibe.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "xwe nizimînim min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "li gorî xesedê te"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "li gorî firehiya"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dilovaniyên te"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "jê bibe"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "gunehên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:04.276992832Z",
+  "model": "glm-5.3"
+}

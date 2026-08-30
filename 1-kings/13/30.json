@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ⟨את⟩ cendakê wî di gorê wî de danî, û wan li ser wî żirîn kirin: “Hoy, birayê min!”",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cendakê wî"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "cendakê wî"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "di gorê wî de"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "żirîn kirin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayê min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:23.125244650Z",
+  "model": "glm-5.3"
+}

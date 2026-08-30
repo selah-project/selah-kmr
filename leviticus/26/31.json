@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ez ê ⟨את⟩ bajarên we bike welatê xerabe, û ez ê ⟨את⟩ pîrozgehên we bi xerabî bigihîjînim, û ez ê bêhna we ya xweş nestînim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ez ê…bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajarên we"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "bajarên we"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "welatê xerabe"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ez ê…bigihîjînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pîrozgehên we"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "pîrozgehên we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û…ne"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "nestînim"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "bêhna"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "ya we ya xweş"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:31.301232166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 149,
+  "translation": "Ji bo girêdana padîşahên wan bi zincîran, û mezinên wan bi destberîdanên hesin.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ji bo girêdanê"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "padîşahên wan"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "bi zincîran"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "û mezinên wan"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "bi destberîdanên"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hesin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:22.717671397Z",
+  "model": "glm-5.3"
+}

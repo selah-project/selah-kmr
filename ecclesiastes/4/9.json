@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ê du ji yekê çêtir in, çimkî ji wan re xelatek baş di xebata wan de heye.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "çêtir in"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ê du"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "יש",
+      "gloss": "heye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "xelat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "di xebata wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:52.436747021Z",
+  "model": "glm-5.3"
+}

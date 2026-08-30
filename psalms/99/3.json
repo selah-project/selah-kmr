@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 99,
+  "translation": "Bila navê te yê mezin û tirsok pesnê bikin — ⟨ew⟩ pîroz e.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "bila pesnê bikin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezîn"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "û tirsok"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:57.041221157Z",
+  "model": "glm-5.3"
+}

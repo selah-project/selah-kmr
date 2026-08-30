@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Di wê demê de şûndarên Nebukadnesser, keyê Babîlê, bilind bûn ser Yeruşalayimê, û bajar ket bin dorpêçê.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "di wê demê"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "de"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bilind bûn"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "şûndarên"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnesser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "û ket"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "bin dorpêçê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:25:57.298977097Z",
+  "model": "glm-5.3"
+}

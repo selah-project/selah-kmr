@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û di nîvê şevê de bû, û mêr tirsiya û xwe zivirî, û lê — jinikeke razayî li ser lingên wî.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di nîvê"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "û tirsiya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "xwe zivirî"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û lê"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jinik"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "razayî"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "li ser lingên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:34.345017702Z",
+  "model": "glm-5.3"
+}

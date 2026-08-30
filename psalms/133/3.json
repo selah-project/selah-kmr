@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 133,
+  "translation": "Wek şîna Chermonê, ku dadigire ser çiyayên Tsiyonê; çimkî li wir Yahwe ⟨את⟩ berîkhanê ferman kir — jiyanê, heta ⟨⟨ heta ⟩⟩ dunyayê.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Wek şîna"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermonê"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ku dadigire"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "çiyayên"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berîkhanê"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berîkhanê"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyanê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "dunyayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:26.478646624Z",
+  "model": "glm-5.3"
+}

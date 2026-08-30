@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ji ber vê yekê Yahwe bihîst û xişya, û agir li Yaqûb pêket, û qehr jî li ser Îsraêlê bilind bû.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ji ber vê yekê"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "û xişya"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "û agir"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "pêket"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "li Yaqûb"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û ... jî"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qehr"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li ser Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:17.494372407Z",
+  "model": "glm-5.3"
+}

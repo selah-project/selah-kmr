@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Yahwe, navê te ji bo ⟨her-demê⟩ ye; Yahwe, bîra te ji nifşê heta nifşê ye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo her-demê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "bîra te"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:57.126124627Z",
+  "model": "glm-5.3"
+}

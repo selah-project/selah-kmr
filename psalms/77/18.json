@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Ewrên stûr av rijandin, deng dan ezman; herwiha tîrên te çûn û hatin.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "rijandin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ewrên stûr"
+    },
+    {
+      "surface": "קול",
+      "gloss": "deng"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "אף",
+      "gloss": "herwiha"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "tîrên te"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "çûn û hatin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:04.398266720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 111,
+  "translation": "Destpêka jîrîyê hûrgiliya Yahwe ye; baştêrîn şêwirmendî ji hemû ên wan dikin re; pesnê wî heta hertimî radiweste.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Destpêka"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrîyê"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "hûrgiliya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "şêwirmendî"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baştêrîn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ên wan dikin re"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pesnê wî"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "radiweste"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:57.802669367Z",
+  "model": "glm-5.3"
+}

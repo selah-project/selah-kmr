@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Berazê daristanê wê talan dike, û ajalê zeviyê wê diçêre.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "wê talan dike"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "beraz"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ji daristanê"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "û ajalê"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "wê diçêre"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.400359562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 33:9",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û Menasheh ⟨את⟩ Yehuda û niştecihên Yeruşalayimê şaş kir, ku xerabîyê bikin — zêdetir ji wan gelan ku Yahwe wan ji ber çavên zarokên Yisraelê hilweşandibû.",
+  "tokens": [
+    {
+      "surface": "ויתע",
+      "gloss": "şaş kir"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "û niştecihên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku bikin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabîyê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wan gelan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "hilweşandibû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber çavên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:53:58.260697219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Dijminên min derewan li ser min dibêjin: «Ka kengî ew dimire, û navê wî tê windakirin?»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Dijminên min"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "derewan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ka kengî"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dimire"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "û tê windakirin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:27.305744655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 11:13",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yahwe ji min re got: \"Wê bavêje bal çêkerê — destmala hêja, a ku ji hêla wan ve ez bi wê hatime qîmetandin.\" Û min sî zêr girt û ⟨את⟩ wê di mala Yahwe de avêt bal çêker.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "wê bavêje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "çêkerê"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "destmala"
+    },
+    {
+      "surface": "היקר",
+      "gloss": "hêja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ku"
+    },
+    {
+      "surface": "יקרתי",
+      "gloss": "ez hatime qîmetandin"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ji hêla wan ve"
+    },
+    {
+      "surface": "ואקחה",
+      "gloss": "û min girt"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sî"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ואשליך",
+      "gloss": "û min avêt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (zêr)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "çêker"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:00.603378450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Ji te re ezman in, her wiha ji te re erd jî; cîhan û tije bûna wê — tu bingehên wan avêtine.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "אף",
+      "gloss": "her wiha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "û tije bûna wê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "bingehên wan avêtine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:24.429148450Z",
+  "model": "glm-5.3"
+}

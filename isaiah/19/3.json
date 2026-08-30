@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ruhê Mîtsrayimê di nav wê de tê valakirin, û şîreta wê ez diqurtim, û ew ê li pûtan, li falbiran, li ruhên miriyan û li zanayên xeyalan bigerin.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "tê valakirin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di nav wê de"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "û şîreta wê"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ez diqurtim"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "bigerin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "pûtan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "li"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "falbiran"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "li"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ruhên miriyan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "li"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "zanayên xeyalan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:32:30.273244534Z",
+  "model": "glm-5.3"
+}

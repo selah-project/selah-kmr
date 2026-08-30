@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Herweha Aşur tevlî wan bûye; bûne mil ⟨ji bo⟩ zarokên Lut. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "herweha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "tevlî bûye"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûne"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "mil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo zarokên"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:12.604729468Z",
+  "model": "glm-5.3"
+}

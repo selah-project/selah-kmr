@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Yosef mir, û hemû birayên wî, û hemû wî neslî jî.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên wî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "wî neslî"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:39.803492289Z",
+  "model": "glm-5.3"
+}

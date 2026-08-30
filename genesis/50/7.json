@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Û Yosef bilind bû da ku ⟨את⟩ bavê xwe binêrê; û bi wî re ⟨את⟩ hemû xulamên Paroh, kalên mala wî û hemû kalên axa Mîtsrayimê bilind bûn.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "û bilind bû"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "da ku binêrê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê wî"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "û bilind bûn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "axa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:24.710790423Z",
+  "model": "glm-5.3"
+}

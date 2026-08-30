@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Bara çolê deryayê. Wekî badên bihusk ên li Negevê ku diborin, ew ji çolê tê, ji erdeke tirsnak.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "bar"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "wekî badên bihusk"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "li Negevê"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ku diborin"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ji çolê"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erdeke"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "tirsnak"
+    }
+  ],
+  "timestamp": "2026-08-30T03:38:06.373903200Z",
+  "model": "glm-5.3"
+}

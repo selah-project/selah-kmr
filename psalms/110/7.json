@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 110,
+  "translation": "Ji rûbarekê li ser rê vedixwe, ji ber wî yê serê xwe hilde.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ji rûbarekê"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "li ser rê"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "vedixwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hilde"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:01.670653961Z",
+  "model": "glm-5.3"
+}

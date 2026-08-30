@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Hema hema min li erdê tine kirin, lê ez fermanên te bernedan.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "hema hema"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "min tine kirin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erdê"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lê ez"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "bernedan"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "fermanên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:28.724484087Z",
+  "model": "glm-5.3"
+}

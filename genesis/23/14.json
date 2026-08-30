@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Efron ⟨את⟩ Avraham bersivand, ji wî re got:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersivand"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:44:10.483328176Z",
+  "model": "glm-5.3"
+}

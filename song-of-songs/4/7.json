@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Tu bi tevahî xweşîk î, yarê min, û di te de tu kêmasî nîne.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "tu bi tevahî"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "xweşîk î"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "yarê min"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "û kêmasî"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:34.976330201Z",
+  "model": "glm-5.3"
+}

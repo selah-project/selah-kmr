@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Yahwe ji Moşe re peyivî û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "peyivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:55.431006388Z",
+  "model": "glm-5.3"
+}

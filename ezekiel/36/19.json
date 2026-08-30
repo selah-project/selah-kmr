@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 36:19",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û min ⟨את⟩ wan di nav netewiyan de belav kirin û ew di welatan de hatin belavkirin; li gorî rêyên wan û li gorî kirinên wan min darazê li wan kir.",
+  "tokens": [
+    {
+      "surface": "ואפיץ",
+      "gloss": "û min belav kirin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav netewiyan"
+    },
+    {
+      "surface": "ויזרו",
+      "gloss": "û hatin belavkirin"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di welatan"
+    },
+    {
+      "surface": "כדרכם",
+      "gloss": "li gorî rêyên wan"
+    },
+    {
+      "surface": "וכעלילותם",
+      "gloss": "û li gorî kirinên wan"
+    },
+    {
+      "surface": "שפטתים",
+      "gloss": "min darazê li wan kir"
+    }
+  ],
+  "timestamp": "2026-08-30T03:58:12.184039795Z",
+  "model": "glm-5.3"
+}

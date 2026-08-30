@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 70,
+  "translation": "Bila şerm bikin û perwa bikin yên dibînin canê min; bila paşde vegerin û rûreş bibin yên dilşadî bi êşa min digirin.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bila şerm bikin"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "û perwa bikin"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "yên dibînin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "bila paşde vegerin"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paşde"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "û rûreş bibin"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "yên dilşadî digirin"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bi êşa min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:22.705350974Z",
+  "model": "glm-5.3"
+}

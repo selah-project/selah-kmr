@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û Yahwe ji Moşe re got: «Van peyvan ji bo xwe binivîse, ji ber ku li gorî van peyvan ez ⟨את⟩ bi te re û ⟨את⟩ bi Îsraêl re peyman birî.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ... got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "binivîse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van peyvan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ez ... birî"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bi te re"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peyman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bi Îsraêl re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:10.113328311Z",
+  "model": "glm-5.3"
+}

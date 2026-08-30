@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "û ev ji te re nîşan ⟨את⟩ ji Yahwe ye, ku Yahwe ê ⟨את⟩ vê peyvê ku wî gotî pêk bîne.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "û ev"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "האות",
+      "gloss": "nîşan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "pêk bîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê peyvê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyvê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:14.218980459Z",
+  "model": "glm-5.3"
+}

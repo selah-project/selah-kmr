@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Elohîm darazerekî mafdar e, û Êl her roj bi hêrs e.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "darazer"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mafdar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û Êl"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "bi hêrs e"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:55.493414701Z",
+  "model": "glm-5.3"
+}

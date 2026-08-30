@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Elohîm, ji min dû nebe; Elohîmê min, lez bike bo alîkariya min.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "dû nebe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "bo alîkariya min"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "lez bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:00.466446559Z",
+  "model": "glm-5.3"
+}

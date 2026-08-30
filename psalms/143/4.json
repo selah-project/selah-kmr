@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Ruhê min li ser min bêhêz bû, dilê min di hundirê min de sar û bêdeng ma.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "bêhêz bû"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhê min"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "di hundirê min de"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "sar û bêdeng ma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:26.415344110Z",
+  "model": "glm-5.3"
+}

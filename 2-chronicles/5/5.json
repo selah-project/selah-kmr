@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Wan sandûq ⟨את⟩, çadira civînê ⟨את⟩ û ⟨את⟩ hemû amûrên pîroz ên di çadirê de hilanîn — kîşeyên Lêwî ⟨את⟩ wan hildan.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "hilanîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûq"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandûq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çadira civînê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû amûrên pîroz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amûr"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di çadirê de"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kîşe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêwî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:43:30.639300840Z",
+  "model": "glm-5.3"
+}

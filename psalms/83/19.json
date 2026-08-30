@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Û bila bizanibin ku tenê tu — navê te Yahwe ye — ⟨⟨tu⟩⟩ bilindahî yî li ser hemû erdê.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Û bila bizanibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "bilindahî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:14.391180848Z",
+  "model": "glm-5.3"
+}

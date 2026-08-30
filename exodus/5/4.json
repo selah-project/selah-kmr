@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û keyê Mîtsrayimê ji wan re got: Çima hûn, Moşe û Aharon, gelî ji karên wî diderînin? Here, here ber barên xwe!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "diderînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelî"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "ji karên wî"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "here"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "ber barên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:48.162526771Z",
+  "model": "glm-5.3"
+}

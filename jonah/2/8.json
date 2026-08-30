@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Dema canê min di nav min de belengaz bû, min ⟨את⟩ Yahwe bi bîr anî; û duaya min hat bal te, bo perestgeha pîroza te.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "belengaz bû"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di nav min de"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "min bi bîr anî"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bal te"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "perestgeh"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pîroza te"
+    }
+  ],
+  "timestamp": "2026-08-30T04:09:24.515137176Z",
+  "model": "glm-5.3"
+}

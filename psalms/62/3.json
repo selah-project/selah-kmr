@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Tenê ew kevira min e û rizgarîya min; ew birca bilind a min e — ez ê pir nayêm reqedin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kevira min"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "û rizgarîya min"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "birca bilind a min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ez nayêm reqedin"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:44.064360263Z",
+  "model": "glm-5.3"
+}

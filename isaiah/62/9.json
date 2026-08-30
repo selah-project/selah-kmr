@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Ji ber ku berhevkarên wê wê bixwin û biliv bikin ⟨את⟩ Yahwe, û civankerên wê wê vedixwin wê di hewşên pîrohiya min de.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "berhevkarên wê"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "wê bixwin"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "û biliv bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "û civankerên wê"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "wê vedixwin"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di hewşên"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pîrohiya min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:58.587016890Z",
+  "model": "glm-5.3"
+}

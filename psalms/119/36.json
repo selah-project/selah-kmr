@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Dilê min ber bi şahidiyên te ve bizivirîne, û ne ber bi qezenca neserest.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "bizivirîne"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şahidiyên te"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "qezenca neserest"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:18.472977301Z",
+  "model": "glm-5.3"
+}

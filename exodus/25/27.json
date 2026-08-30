@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Li ber hembereyê ⟨dê⟩ mengî bin, ji bo darikên hildanê, da ku ⟨את⟩ masê bi wan were hildan.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "hembereyê"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "⟨dê⟩ bin"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mengî"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "darikên hildanê"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "da ku were hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masê"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:13.064771247Z",
+  "model": "glm-5.3"
+}

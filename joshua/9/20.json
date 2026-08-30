@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ev em ê ji wan re bikin û wan zinde bihêlin, da ku hêrs nebe ser me, ji ber wê sozê ku me dane wan.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "em ê... bikin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "û zinde bihêlin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ku nebe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ser me"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "hêrs"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "wê sozê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "me dane"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:17:32.835131573Z",
+  "model": "glm-5.3"
+}

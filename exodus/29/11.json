@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û tu ê ⟨את⟩ beranî berî Yahwe serjê bikî, li derî Çadira Civînê.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "Û tu ê serjê bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beranî"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "beranî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "li derî"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:59.948328366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Li ku derê ⟨ye⟩ mîrê Chamatê, û mîrê Arpadê, û mîrê bajarê Sefarwayim, Henwa û Iwwa?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "li ku derê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mîrê"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamatê"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "û mîrê"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadê"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "û mîrê"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Henwa"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "û Iwwa"
+    }
+  ],
+  "timestamp": "2026-08-29T20:23:40.014786532Z",
+  "model": "glm-5.3"
+}

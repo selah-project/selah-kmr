@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ji Dawid re hate ragihandin; ew ⟨את⟩ hemû Yisraêl civand û derbasî Yardenê bû û hat cem wan û li hember wan rêzê girt; Dawid ji bo rûbirûbûna Aram şer rêz kir, û ew bi wî re şer kirin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "hate ragihandin"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ew civand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû Yisraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "cem wan"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "rêzê girt"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "li hember wan"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "rêz kir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ji bo rûbirûbûna"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "şer kirin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:38:53.342930097Z",
+  "model": "glm-5.3"
+}

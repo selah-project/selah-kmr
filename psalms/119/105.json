@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Çira ji bo lingên min peyva te ye, û ronahî ji bo riya min.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "çira"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ji bo lingên min"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "peyva te"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "û ronahî"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ji bo riya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:23.872873230Z",
+  "model": "glm-5.3"
+}

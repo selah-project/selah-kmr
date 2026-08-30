@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Carekê min axavî, û ez bersiv nade; û du caran, û êdî ez zêde nakim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "carekê"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "min axavî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nade"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ez bersiv"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "û du caran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nakim"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ez zêde"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:27.867044869Z",
+  "model": "glm-5.3"
+}

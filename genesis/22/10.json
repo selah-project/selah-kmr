@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û Avraham destê xwe dirêj kir û ⟨את⟩ kêterê girt, da ku ⟨את⟩ kurê xwe serjê bike.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "û ... dirêj kir"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "û ... girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêterê"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "kêterê"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "da ku ... serjê bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê xwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:43:15.977291736Z",
+  "model": "glm-5.3"
+}

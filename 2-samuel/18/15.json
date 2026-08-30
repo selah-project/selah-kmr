@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û deh xortên hemberdar ên alavên Yoab dor pê girtin û ⟨את⟩ Avşalom dan û ew kuştin.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "û dor pê girtin"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "xortên"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "hemberdarên"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "alavên"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avşalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "û ew kuştin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:56:44.031240059Z",
+  "model": "glm-5.3"
+}

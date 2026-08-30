@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber ku Yahwe rêya rastan nas dike, û rêya derewan wê winda bibe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nas dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rêya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastan"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "û rêya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "derewan"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "wê winda bibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:13.339065701Z",
+  "model": "glm-5.3"
+}

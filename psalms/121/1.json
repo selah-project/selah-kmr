@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 121,
+  "translation": "Strana bilindkiran. Çavên xwe ber çiyayan bilind dikim — ji kû derê alîkariya min ê were?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ji bo bilindkiran"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "bilind dikim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "çiyayan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ji kû derê"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "alîkariya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:42.964414937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji ber ku mirovekî rast li ser erdê tune ye, ku baş bike û guneh neke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune ye"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li ser erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bike"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "guneh bike"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:40.962424736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Êw rabû ku komîkê berhev bike, û Boaz ferman da ⟨את⟩ ciwanên xwe, got: \"Bila ew êdî di navbera gulikan da berhev bike, û hûn wê neşermazin.\"",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "berhev bike"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciwanên xwe"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "ciwanên xwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "גם",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "gulikan"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "berhev bike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "wê neşermazin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:59:14.986432606Z",
+  "model": "glm-5.3"
+}

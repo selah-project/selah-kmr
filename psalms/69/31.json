@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Navê Elohîm ê bi stranê pesnê bikim û ê wî bi spasdariyê mezin bikim.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ê…pesnê-bikim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "bi-stranê"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "ê-wî…mezin-bikim"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "bi-spasdariyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:24.783790327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Dawid ji Yahwe pirsî û got: “Ma ez herim û van Filistiyan lêdanim?” Û Yahwe ji Dawid re got: “Here û Filistiyan lêdane û ⟨את⟩ Qeîlayê rizgar bike.”",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "pirsî"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "ma ez herim"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "lêdanim"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "van Filistiyan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "lêdane"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistiyan"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeîlayê"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeîlayê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:10.115154507Z",
+  "model": "glm-5.3"
+}

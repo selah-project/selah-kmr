@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Natan çû malê xwe. Û Yahwe ⟨את⟩ zarokê ku jina Urya ji bo Dawid zayî danê lê da, û ew bê derman ket.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "malê xwe"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "lê da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokê"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarokê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zayî danê"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "bê derman ket"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:55.769630988Z",
+  "model": "glm-5.3"
+}

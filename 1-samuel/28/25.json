@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û wê (xwarin) berî Şaûl û berî xulamên wî danî; wan xwar. Paşê rabûn û di wê şevê de çûn.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "danî berî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "û berî"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "wan xwar"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "rabûn"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "di şevê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:50.588340702Z",
+  "model": "glm-5.3"
+}

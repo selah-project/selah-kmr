@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Wî hêza min di rê de lawaz kir, rojên min kin kir.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "lawaz kir"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "kin kir"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:43.504474903Z",
+  "model": "glm-5.3"
+}

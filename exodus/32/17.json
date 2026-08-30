@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Yehoşua dengê gelî bi qêrîn bihîst û ji Moşe re got: Dengê şer ⟨⟨e⟩⟩ di kampê de ye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelî"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bi qêrîn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji…re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di kampê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:14.322561057Z",
+  "model": "glm-5.3"
+}

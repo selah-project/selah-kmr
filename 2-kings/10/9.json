@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 10:9",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û sibeh bû; ew derket, rawesta û ji hemû gel re got: Hûn rast in; mêze, ez li dijî xwediyê xwe civiyam û ew kuştim — ê kê bû ku ⟨את⟩ van hemû kuşt?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "rawesta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "rast"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mêze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "קשרתי",
+      "gloss": "civiyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "xwediyê min"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "û ew kuştim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ê kê"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:06.723891683Z",
+  "model": "glm-5.3"
+}

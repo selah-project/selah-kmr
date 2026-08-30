@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 26:22",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û Dawid bersiv da û got: «Binêre, êrîa key û bila yek ji xortan derbas bibe û wê bigire.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "êrîa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "derbas bibe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "ji xortan"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "wê bigire"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:02.377192604Z",
+  "model": "glm-5.3"
+}

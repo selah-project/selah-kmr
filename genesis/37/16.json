@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û wî got: «⟨את⟩ Birayên xwe digerim; ji min re bibêje, ji kerema xwe, ew li ku şivanî dikin?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayên xwe"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "digerim"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bibêje"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji kerema xwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "li ku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "şivanî dikin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:21.370523674Z",
+  "model": "glm-5.3"
+}

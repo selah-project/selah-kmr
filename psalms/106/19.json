@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Li Xorevê golikeke çêkirin û ji pûtê rijandî re secde kirin.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "golikeke"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "li Xorevê"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "û secde kirin"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "ji pûtê rijandî re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:08.874315814Z",
+  "model": "glm-5.3"
+}

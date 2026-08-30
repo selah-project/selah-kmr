@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Şebat, şebatoneke aştî-evîn ev e ji bo we; hûn ê ⟨את⟩ canên xwe bi êşkenceyê bidin — qanûneke hertimî.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Şebat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "şebaton"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ev e"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "bi êşkenceyê didin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canên we"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "canên xwe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "qanûneke"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:53.387095475Z",
+  "model": "glm-5.3"
+}

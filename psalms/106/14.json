@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Di çolê de daxwaz bi daxwazê xwestin, û di welatê bêav de Êl ceriband.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "bi daxwazê xwestin"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "daxwaz"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "û ceriband"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di welatê bêav de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:40.146563912Z",
+  "model": "glm-5.3"
+}

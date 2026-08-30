@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Lê hûn ⟨את⟩ nêzîrîyan mey dan vexwarinê, û li ser pêxemberan ferman kirin û gotin: Hûn pêxemberî nakin!",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "dan vexwarinê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nêzîrîyan"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nêzîrîyan"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mey"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "ferman kirin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "pêxemberî dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:07:07.490401378Z",
+  "model": "glm-5.3"
+}

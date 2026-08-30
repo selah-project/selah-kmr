@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û ⟨את⟩ xîşî bi gwêşiyên wî girêdan bi gwêşiyên êfodê, bi rîsîyê şîn, da ku li ser kembera êfodê bimîne û xîşî ji êfodê neyê avêtin — wekî Yahwe ferman da ⟨את⟩ Moşe.",
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "girêdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xîşî"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xîşî"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "bi gwêşiyên wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "gwêşiyên"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "êfodê"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "bi rîsîyê"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "şîn"
+    },
+    {
+      "surface": "להית",
+      "gloss": "da ku bimîne"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "kembera"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "êfodê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "neyê avêtin"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xîşî"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "êfodê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:27.028762032Z",
+  "model": "glm-5.3"
+}

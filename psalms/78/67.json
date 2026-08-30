@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û ji çadira Yosef rêneda, û êşa Efrayim nehesiband.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "rêneda"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ji çadira"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "û ji êşa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "hesiband"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:19.050317632Z",
+  "model": "glm-5.3"
+}

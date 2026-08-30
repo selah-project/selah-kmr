@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û tu dê ⟨את⟩ derdora wê dora wê bikî, û ⟨את⟩ perdeya deriyê derdorê deyî.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "û tu dê … bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derdora"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "derdor"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora wê"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "deyî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeya deriyê derdorê"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perde"
+    },
+    {
+      "surface": "שער",
+      "gloss": "derî"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "derdorê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:47.762767787Z",
+  "model": "glm-5.3"
+}

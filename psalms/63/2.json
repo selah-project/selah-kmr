@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Elohîm, tu Êlê min î, ez di berfirehiya sibehê de li te digerim, canê min ji te tê şûretin, goştê min bi daxwazê ji te dihê, di axa hişk û westiyayî, bê av.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "di berfirehiya sibehê de li te digerim"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "tê şûretin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "bi daxwazê dihê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "goştê min"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di axa"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "hişk"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "û westiyayî"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bê"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:02.778048173Z",
+  "model": "glm-5.3"
+}

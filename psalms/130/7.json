@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 130,
+  "translation": "Îsraêl, li Yahwe hêviyê bike, çimkî ligel Yahwe xesed ⟨heye⟩, û ligel wî rizgariya pir ⟨heye⟩.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "hêviyê bike"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "û rizgariya pir"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ligel wî"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "rizgarî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:04.673949155Z",
+  "model": "glm-5.3"
+}

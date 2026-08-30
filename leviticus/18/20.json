@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û bi jina hevalê xwe re rûniştina xwe nede ji bo toximê, ji bo ku bi wê werî mêjîkirin.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Û bi … re"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jinê"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "hevalê te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nede"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "rûniştina te"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ji bo toximê"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ji bo mêjîkirinê"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bi wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:40.648541847Z",
+  "model": "glm-5.3"
+}

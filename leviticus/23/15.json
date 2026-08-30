@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û hûn ji xwe re bidin hejmartin, ji sibe ya şabetê, ji roja ku hûn ⟨את⟩ omêra pêlwaziyê anîn; heft şabetên têkûz bin.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "û hûn bidin hejmartin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ji sibe ya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabetê"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ji roja"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "ku hûn anîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omêra pêlwaziyê"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omêr"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "pêlwazî"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "şabet"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "têkûz"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "bin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:19.644632431Z",
+  "model": "glm-5.3"
+}

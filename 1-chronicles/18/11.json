@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Wan jî key Dawid ji bo Yahwe veqetand, ligel zîv û zêrê ku ji hemû gelan biribû — ji Edomê, ji Moabê, ji kurên Ammonê, ji Filistîyan û ji Amalekê.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "wan jî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "amûrên"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "veqetand ji bo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "û zêrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "biribû"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "ji Edomê"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "ji Moabê"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonê"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "ji Filistîyan"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "ji Amalekê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:39:17.740670403Z",
+  "model": "glm-5.3"
+}

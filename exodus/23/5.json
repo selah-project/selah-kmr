@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ger kerê dijminê te bin barê wî de dirêbe bibînî, bernede — bi rastî bi wî re berde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bibînî"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ker"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "dijminê te"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "dirêbe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bin"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "barê wî"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "bernede"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "berde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:28.590885483Z",
+  "model": "glm-5.3"
+}

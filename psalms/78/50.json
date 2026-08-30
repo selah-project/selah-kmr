@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Wî rêyek ji bo hêrsa xwe rast kir; canê wan ji mirinê nesiparand, jiyanên wan jî radestî peste kir.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "rast kir"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "rêyek"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "ji bo hêrsa wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nesiparand"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ji mirinê"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canê wan"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "jiyanên wan jî"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ji peste re"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "radest kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.093050414Z",
+  "model": "glm-5.3"
+}

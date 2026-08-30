@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Çargoşe bû; Hoshenê bi awayê doslikî çêkirin ⟨את⟩ — minekekê dirêjahiya wî û minekekê firehiya wî, doslikî.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Çargoşe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "doslikî"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hoshenê"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoshenê"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "minekekê"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjahiya wî"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "û minekekê"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "firehiya wî"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "doslikî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:12.452397832Z",
+  "model": "glm-5.3"
+}

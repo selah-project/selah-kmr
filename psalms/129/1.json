@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 129,
+  "translation": "Strana hilkirinan. Gelek caran ji ciwantiya min êş didan min — bila Îsraêl êdî bêje.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hilkirinan"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Gelek caran"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "êş didan min"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ji ciwantiya min"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bila … êdî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.177489316Z",
+  "model": "glm-5.3"
+}

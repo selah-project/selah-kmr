@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Başûr ji Efrayim re bû, bakur jî ji Menaşe re, û derya bû sînorê wî; û li Aşer rûdidin ji bakur ve, û li Yîssaşkar ji rojhilat ve.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "başûr"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ji Efrayim re"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "û bakur jî"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ji Menaşe re"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "הים",
+      "gloss": "derya"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "sînorê wî"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "û li Aşer"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "rûdidin"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ji bakur ve"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "û li Yîssaşkar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ji rojhilat ve"
+    }
+  ],
+  "timestamp": "2026-08-29T19:20:10.642929464Z",
+  "model": "glm-5.3"
+}

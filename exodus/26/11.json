@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û tu ê pêncî mengîne û ⟨את⟩ sêwan bi qulîkan dixe û tu ê çadirê bigihînî, û ew ê yek bibe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Û tu ê çêkî"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "mengîne û sêw"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sêw (ji sêwê)"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pêncî"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "û tu ê dixe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sêwan"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "sêwan"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "bi qulîkan"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "û tu ê bigihînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadirê"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadirê"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "û ew ê bibe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:54.862695857Z",
+  "model": "glm-5.3"
+}

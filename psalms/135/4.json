@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Çêre Yakub ji bo xwe Yah hilbijart, Îsraêl ji bo milkê taybet ê wî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çêre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakub"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "hilbijart"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "ji bo milkê taybet ê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:04.341640772Z",
+  "model": "glm-5.3"
+}

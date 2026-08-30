@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ew ⟨את⟩ Beît Xorona jorîn û ⟨את⟩ Beît Xorona jêrîn ava kir — bajarên parêzî, bi dîwar, derî û darên qefilkirinê.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beît Xorona jorîn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beît"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Xoron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "a jorîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Beît Xorona jêrîn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beît"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Xoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "a jêrîn"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "parêzî"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "dîwar"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "derî"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "û darên qefilkirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:42.258193966Z",
+  "model": "glm-5.3"
+}

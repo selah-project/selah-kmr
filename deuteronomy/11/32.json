@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û hûn dê biparêzin ku ⟨את⟩ hemû qanûnan û ⟨את⟩ hukman ku ez îro ber çavê we dadim, pêk bînin.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Û hûn dê biparêzin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku pêk bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû qanûnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "qanûnan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hukman"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dadim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ber çavê we"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:24.880707702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Aharon ji bo xwe Elîşeba, keça Emînadav, xûşka Nahşon, wek jin girt û ew ji bo wî ⟨את⟩ Nadab û ⟨את⟩ Avîhu, ⟨את⟩ Elazar û ⟨את⟩ Îtamar anî dinyayê.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ji bo xwe... girt"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elîşeba"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Elîşeba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Emînadav"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "xûşka"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahşon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "wek jin"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "û ew ... anî dinyayê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Avîhu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avîhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Îtamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Îtamar"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:28.785943742Z",
+  "model": "glm-5.3"
+}

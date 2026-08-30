@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ger zozanê ⟨את⟩ raşt neke, an ger ⟨את⟩ zozanê ji bo mêrekî din bifroşe, êdî nayê raştandin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "raşt bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zozanê"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zozanê"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "an ger"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "bifroşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zozanê"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zozanê"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ji bo mêrekî"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "din"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "raştandin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:59.237347082Z",
+  "model": "glm-5.3"
+}

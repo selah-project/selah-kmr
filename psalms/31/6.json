@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Di destê te de ruhê min dihêlim; te ⟨את⟩ min rizgar kir, Yahwe, Êl ê rastiyê.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "di destê te de"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "dihêlim"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhê min"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "te rizgar kir"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ê rastiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:38.279286584Z",
+  "model": "glm-5.3"
+}

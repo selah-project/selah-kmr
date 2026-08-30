@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Bi zîv û bi zêr wê xweşik dikin; bi mîran û bi çakûçan wê zexm dikin, da ku nehewîne.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "bi zîv"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "û bi zêr"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "wê xweşik dikin"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "bi mîran"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "û bi çakûçan"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "wê zexm dikin"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "da ku ne"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "hehewîne"
+    }
+  ],
+  "timestamp": "2026-08-29T20:52:29.517651840Z",
+  "model": "glm-5.3"
+}

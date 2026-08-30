@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Dema dadperwer pir dibin, gel şad dibin; dema Kesayî desthilat dibe, gel dinale.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "dema … pir dibin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dadperwer"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "şad dibin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "dema … desthilat dibe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Kesayî"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "dinale"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-30T05:49:31.331012183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Ma heta temamî tu dê bi me hêrsî bibî? Ma hêrsa te dê heta nifş û nifşê bidome?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Ma heta temamî"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "tu dê hêrsî bibî"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bi me"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "dê bidome"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hêrsa te"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "heta nifşekê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "û nifşekê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:59.908932873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û ⟨את⟩ hemû serokên Îsraêlê civand, û kohenan û Lewiyan.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "civand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû serokên Îsraêlê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "kohenan"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Lewiyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:40:01.455251137Z",
+  "model": "glm-5.3"
+}

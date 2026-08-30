@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Rizgar ke min ji dijminên min, Elohîmê min; ji ên ku li dijî min radibin, ez bilind bike.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "rizgar ke min"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ji dijminên min"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "ji ên ku li dijî min radibin"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ez bilind bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:28.182096979Z",
+  "model": "glm-5.3"
+}

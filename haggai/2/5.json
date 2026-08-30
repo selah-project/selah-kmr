@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "⟨את⟩ peymana ku min bi we re birî, dema we ji Mîtsrayimê derketin, û ruhê min di nava we de rawestiya — netirsin!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "min birî"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bi we re ⟨את⟩"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "dema we derketin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "û ruhê min"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "rawestiya"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di nava we de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tirsin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:08.943651449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Dema ku Şaday şahan tê de belav kir, li Zalmonê berf barî.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "belav kir"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şaday"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "şahan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "berf barî"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "li Zalmonê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:15.031546369Z",
+  "model": "glm-5.3"
+}

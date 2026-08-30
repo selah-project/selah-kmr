@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û dema Zîmrî dît ku bajar hatiye girtin, ew çû nav qesra mala padîşah, û mala padîşah bi agir li ser xwe şewitand û mir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û dema"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "dît"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zîmrî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "hatiye girtin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ew çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "qesr"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala padîşah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û mir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:42.273336986Z",
+  "model": "glm-5.3"
+}

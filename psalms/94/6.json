@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Sêwî û xerîb dikujin, û bêbavan bi qestî dikujin.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "sêwî"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "û xerîb"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "dikujin"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "û bêbav"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "bi qestî dikujin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:56.531179665Z",
+  "model": "glm-5.3"
+}

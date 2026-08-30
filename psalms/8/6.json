@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Tu ew ji Elohîm hindiktir çêkirî, û bi rûmet û meznahî tac dikî.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "û tu kêm kirî ew"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hindik"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "ji Elohîm"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "û rûmet"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "û meznahî"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "tu tac dikî wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:32.215321120Z",
+  "model": "glm-5.3"
+}

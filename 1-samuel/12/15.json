@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ger hûn dengê Yahwe nebihîzin û ⟨את⟩ devê Yahwe binîşirînin, destê Yahwe dê li ser we û li ser bavên we be.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hûn ... bihînin"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "û hûn binîşirînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "devê"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dê be"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "û li ser bavên we"
+    }
+  ],
+  "timestamp": "2026-08-30T03:34:22.817438427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 117,
+  "translation": "Ji ber ku xesed-a wî li ser me serkeftî ye, û rastiya Yahwe ⟨heta hetanê⟩ ye — Yah bilîzin!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "serkeftî ye"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "li ser me"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesed-a wî"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "û rastî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hetanê"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bilîzin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:11.273959123Z",
+  "model": "glm-5.3"
+}

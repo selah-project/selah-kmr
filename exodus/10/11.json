@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Na, wusa nîne; hûn ên mêr êdî herin û xizmeta ⟨את⟩ Yahwe bikin, çinku hûn ⟨את⟩ ⟨wê⟩ dixwazin. û ⟨ew⟩ wan ji ⟨את⟩ ber rûyê Paroh qewirand.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "herin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ê yên mêr"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "û xizmet bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨wê⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "dixwazin"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "û qewirand"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ji ber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:41.564225006Z",
+  "model": "glm-5.3"
+}

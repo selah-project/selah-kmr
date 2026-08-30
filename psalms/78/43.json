@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Dema ku ew li Mîtsrayimê nîşanên xwe dan û hêmayên xwe di zeviyê Tsoanê.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "li Mîtsrayimê"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "nîşanên xwe"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "û hêmayên xwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.248333071Z",
+  "model": "glm-5.3"
+}

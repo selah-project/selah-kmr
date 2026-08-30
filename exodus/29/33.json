@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Ew ê ⟨את⟩ wan bixwin, ên ku bi wan re kefapatî hatiye kirin, da ku ⟨את⟩ destên wan tijî bikin û ⟨את⟩ wan pîroz bikin; lê xerîb nê xwe, ji ber ku ew pîroz in.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ew ê bixwin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (tiştên kefapatiyê)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "kefapatî"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "da ku ... tijî bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên wan"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "destên wan"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "û ... pîroz bikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "lê xerîb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nê"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew in"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:50.801840569Z",
+  "model": "glm-5.3"
+}

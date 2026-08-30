@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Wekî ku Yahwe ferman da ⟨את⟩ Moşe, wisa kirin zarokên Îsraêlê, û ew parve kirin ⟨את⟩ erdê.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "û ew parve kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:19:25.319586681Z",
+  "model": "glm-5.3"
+}

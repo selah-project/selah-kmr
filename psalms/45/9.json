@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Mur, aloe û qesiye hemû libasên te ⟨in⟩; ji qesreyên dendikê filan ⟨ew⟩ kêfa te anîne.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mur"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "qesiye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "libasên te"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "qesreyên"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dendikê fil"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "kêfa te anîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:13.487353316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Yahwe ji Moşe û ji Aharon re xeber da, ji wan re got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "xeber da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ji… re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:25.111879519Z",
+  "model": "glm-5.3"
+}

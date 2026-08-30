@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Hêviya kêmwextan bihîstî, Yahwe; dilê wan rast dikî, guhê te didarîkî.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "hêviya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kêmwextan"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "bihîstî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "rast dikî"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "didarîkî"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:04.305234907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Va, ez ê piştî Başa û piştî mala wî bişewitînim, û ez ê ⟨את⟩ mala te bidim wekî mala Yarovam kurê Nevat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "va, ez"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "ê bişewitînim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "û piştî"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala te"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mala te"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "wekî mala"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:14.688111936Z",
+  "model": "glm-5.3"
+}

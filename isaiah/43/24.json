@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Tu bi zîvê xwe kamîşê şîrîn ji min re nekirî, û min bi çewtîyên qurbên te têr nekir; belkî tu bi gunehên xwe min xulam kirî, bi sûcên xwe min westandî.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "tu kirî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bi zîv"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kamîşê şîrîn"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "û bi çewtîyên"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "qurbên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "min têr nekir"
+    },
+    {
+      "surface": "אך",
+      "gloss": "belkî"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "tu min xulam kirî"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "bi gunehên xwe"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "min westandî"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "bi sûcên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:09.940310892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Ez bêdeng bûm, bêdengîya tam; min xwe girt, ji tiştê qenc jî; û êşê min ket tevliheviyê.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ez bêdeng bûm"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "bêdengîya tam"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "min xwe girt"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ji tiştê qenc"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "û êşê min"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "ket tevliheviyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:07.168341909Z",
+  "model": "glm-5.3"
+}

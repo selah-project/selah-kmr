@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Ciyên avdanê yên wê têr dike, newalên wê dadiqurtîne, bi baranên mişeewan wê nerm dike, şînabûna wê pîroz dike.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "ciyên avdanê yên wê"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "têr dike"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "dadixê"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "newalên wê"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "bi baranên mişeewan"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "wê nerm dike"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "şînabûna wê"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "pîroz dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:06.091154534Z",
+  "model": "glm-5.3"
+}

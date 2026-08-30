@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û wan bêdengî man û bersiva wî da nebûn, ji ber ku fermana key bû ku dibêjit: «Bersivê nede wî.»",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "bêdengî man"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "دבר \/ gotin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku dibêjit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "bersivê nede wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:44.345232738Z",
+  "model": "glm-5.3"
+}

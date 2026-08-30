@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Serug sih salan jijî, û ⟨את⟩ Nahor bû bav.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jijî"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sih"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bû bav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:40.145341202Z",
+  "model": "glm-5.3"
+}

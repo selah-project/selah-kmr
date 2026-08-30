@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "û du mengên zêr çêbikî, û ⟨את⟩ wan binî li ser du dawiyan ê hoshenê, li ser kênara wê ya ku ber bi aliyê êfodê ve ye, aliyê hundir.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "û çêbikî"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "mengên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "û binî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "du mengên zêr"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dawiyan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshenê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "kênara wê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "aliyê"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "êfodê"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "aliyê hundir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:48.325814047Z",
+  "model": "glm-5.3"
+}

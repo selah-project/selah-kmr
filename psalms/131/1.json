@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 131,
+  "translation": "Strana hilbijartinan (bilindkiran), ji Dawid re. Yahwe, dilê min bilind nebû û çavên min nebilind bûn, û ez di tiştên mezin de û di tiştên ecêb de — ji min rê zêdetir — negotim.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hilbijartinan (bilindkiran)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "bilind nebû"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "nebilind bûn"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "egotim"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "di tiştên mezin de"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "û di tiştên ecêb de"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min rê zêdetir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:36.632997587Z",
+  "model": "glm-5.3"
+}

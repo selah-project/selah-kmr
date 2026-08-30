@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Yê ku li ba dinihêre, çandiniyê nake; û yê ku li ewran dinihêre, birinê nake.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "li ba dinihêre"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "çandiniyê nake"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "yê ku dinihêre"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "li ewran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "birinê nake"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:14.931152471Z",
+  "model": "glm-5.3"
+}

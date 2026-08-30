@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û xelkê başûr êdî ⟨את⟩ çiyê Esav bi dest bixin, û xelkê deştê ⟨את⟩ Filistînan; û êdî ⟨את⟩ zeviyê Efrayîm û ⟨את⟩ zeviyê Şomron bi dest bixin, û Benyamîn ê ⟨את⟩ Gîlead bi dest bixe.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "û bi dest bixin"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "xelkê başûr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiyê Esav"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "û xelkê deştê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistî"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "û bi dest bixin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zeviyê Efrayîm"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zeviyê Şomron"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "û Benyamîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gîlead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gîlead"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:31.658839274Z",
+  "model": "glm-5.3"
+}

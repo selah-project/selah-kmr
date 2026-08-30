@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Bila Yahwe te bide bersivandinê di roja tengiyê de, navê Elohîmê Yaqov ⟨te⟩ bilind bike û biparêze.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "Bila … te bide bersivandinê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tengiyê"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "te bilind bike û biparêze"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:15.821663499Z",
+  "model": "glm-5.3"
+}

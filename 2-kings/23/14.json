@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û ⟨את⟩ sitûnan şikand, ⟨את⟩ darên Aşêrayê jê kir û ⟨את⟩ cihên wan bi hestiyên mirovan tijî kir.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "şikand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitûnan"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "sitûnan"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "jê kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darên Aşêrayê"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "darên Aşêrayê"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "tijî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cihên wan"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "cihên wan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:07.046611433Z",
+  "model": "glm-5.3"
+}

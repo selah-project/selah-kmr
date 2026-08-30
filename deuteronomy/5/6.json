@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Ez im Yahwe, Elohîmê te, yê ku te ji welatê Mîtsrayim, ji mala koletiyan der aniye.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "te der aniye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "koletiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:55.812489850Z",
+  "model": "glm-5.3"
+}

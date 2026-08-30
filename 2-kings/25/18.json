@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û serdarê qelatkaran ⟨את⟩ Serayah kahînê serdest û ⟨את⟩ Tsefanyah kahînê duyem û ⟨את⟩ sê parêzvanên derî girt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "רב",
+      "gloss": "serdarê"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "qelatkaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahînê"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "serdest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahînê"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "duyem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sê parêzvanên derî"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "parêzvanên"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "derî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:01.625559544Z",
+  "model": "glm-5.3"
+}

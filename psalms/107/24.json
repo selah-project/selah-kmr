@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Ew karên Yahwe dîtine û ecêbên wî di kûrahiya deryayê de.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ew"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtine"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "û ecêbên wî"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "di kûrahiya deryayê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:14.997410752Z",
+  "model": "glm-5.3"
+}

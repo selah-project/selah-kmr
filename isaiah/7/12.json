@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û Axaz got: Ez naxwazim û ez ê Yahwe ⟨את⟩ ceribînim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "xwazim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ceribînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:41.802485745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û dema ku ew ketin Şomeronê, Elişa got: \"Yahwe, ⟨את⟩ çavên van vekî da ku bibînin.\" Û Yahwe ⟨את⟩ çavên wan vekir, û ew dîtin, û lê hat — ew di nava Şomeronê de bûn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û dema ku"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "ew ketin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeronê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "veke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavên van"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "da ku bibînin"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "û vekir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavên wan"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "çavên wan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "û ew dîtin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û lê hat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeronê de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:16:48.461029256Z",
+  "model": "glm-5.3"
+}

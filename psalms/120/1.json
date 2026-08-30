@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 120,
+  "translation": "Stranek ji bo bilindkiran. Berbi Yahwe di tengasiya min de qêrîm, û ew bersiva min da.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stranek"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ji bo bilindkiran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "di tengasiyê de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "qêrîm"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "û ew bersiva min da"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:11.218357433Z",
+  "model": "glm-5.3"
+}

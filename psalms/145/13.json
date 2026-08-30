@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Padîşahiya te padîşahiya hemû ⟨demên⟩ bêdawî ⟨e⟩, û hukumdariya te di hemû nifş û nifşan de ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Padîşahiya te"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "padîşahiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "demên bêdawî"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "û hukumdariya te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nifş"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "û nifşan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:39.451656784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Çiyayan ji odeyên xwe yên bilind av dide; ji fêkiya karên te erd tê têrkirin.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "av dide"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyayan"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "ji odeyên xwe yên bilind"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ji fêkiya"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karên te"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tê têrkirin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:15.117530186Z",
+  "model": "glm-5.3"
+}

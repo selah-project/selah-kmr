@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Ji bo serokê muzîkê, ji Dawid — mizmorekî, stranekî.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:59.227708709Z",
+  "model": "glm-5.3"
+}

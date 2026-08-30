@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 23:29",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ew bi dijmintî ⟨את⟩ ⟨אותך⟩ bi te re davêjin, û hemû xebata te digirin, û te tazî û bêalav dihêlin, û eşkere dibe eşkerebûna zînayiya te, û fesadiya te û zînayiyên te.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "davêjin"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "bi te re (bi dijmintî)"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "bi dijmintî"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "digirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "xebata te"
+    },
+    {
+      "surface": "ועזבוך",
+      "gloss": "dihêlin"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "tazî"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "bêalav"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "eşkere dibe"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "eşkerebûn"
+    },
+    {
+      "surface": "זנוניך",
+      "gloss": "zînayiya te"
+    },
+    {
+      "surface": "וזמתך",
+      "gloss": "fesadiya te"
+    },
+    {
+      "surface": "ותזנותיך",
+      "gloss": "zînayiyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T03:52:04.581578776Z",
+  "model": "glm-5.3"
+}

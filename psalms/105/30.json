@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Erdê wan bi qurbeşan tijî bû, di jûreyên keyên wan de.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "tijî bû"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "erdê wan"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "qurbeşan"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "di jûreyên"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "keyên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:11.024777436Z",
+  "model": "glm-5.3"
+}

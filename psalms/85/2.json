@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Tu qayîl bûyî, Yahwe, bi erdê ⟨te⟩; tu dîlgirtîya Yaqob vegerandîye.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "tu qayîl bûyî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "erdê te"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "vegerandîye"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "dîlgirtîya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqob"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:33.272338310Z",
+  "model": "glm-5.3"
+}

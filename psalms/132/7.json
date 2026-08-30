@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Em derkevin mişkanên wî, em li pêş textê pêyên wî secde bikin.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Em derkevin"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "mişkanên wî"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "secde bikin"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "li pêş textê"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "pêyên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:06.767157535Z",
+  "model": "glm-5.3"
+}

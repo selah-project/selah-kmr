@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Li we, gelî mêran, bang dikim, û dengê min ji bo zarrên Adem e.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "li we"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "gelî mêran"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bang dikim"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "û dengê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarrên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adem"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:44.399982650Z",
+  "model": "glm-5.3"
+}

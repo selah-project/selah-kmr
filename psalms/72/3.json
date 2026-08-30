@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Çiya aştiyê ji bo gel hilgirin, û gir bi rastiyê.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "hilgirin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Çiya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştiyê"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ji bo gel"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "û gir"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "bi rastiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:56.502174773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 10:22",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji ber ku keştiyên Tarşîşê yên key li ser deryayê bûn, digel keştiyên Hîram; carekê di sê salan de keştiyên Tarşîşê dihatin — zêr û zîv, şenhaban (diranên fîlan), qifesan û tukîyan dibînîn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "keştiyên"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşîşê"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "yên key"
+    },
+    {
+      "surface": "בים",
+      "gloss": "li ser deryayê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "digel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "keştiyên"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hîram"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "carekê"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "di sê"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dihatin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "keştiyên"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşîşê"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "dibînîn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "û zîv"
+    },
+    {
+      "surface": "שנהבים",
+      "gloss": "şenhaban (diranên fîlan)"
+    },
+    {
+      "surface": "וקפים",
+      "gloss": "û qifesan"
+    },
+    {
+      "surface": "ותכיים",
+      "gloss": "û tukîyan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:48.242802472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ji mêvê xwe vexwar û serxweş bû, û xwe rûberû di nav çadora xwe de kir.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "vexwar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "היין",
+      "gloss": "mêvê"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "serxweş bû"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "xwe rûberû kir"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "çadora xwe de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:32.286949578Z",
+  "model": "glm-5.3"
+}

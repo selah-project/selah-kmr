@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wê çermê ⟨את⟩ qurbana şewatê li dixe û wê ⟨את⟩ parçe parçe dike, bi parçeyên wê.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "çermê li dixe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana şewatê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "parçe parçe dike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "bi parçeyên wê"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "bi parçeyên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:11.600469302Z",
+  "model": "glm-5.3"
+}

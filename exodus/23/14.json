@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Sê rêgel (cejn) tu ji bo Min di ⟨the⟩ salê de pêk tînî.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "rêgel (cejn)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "cejnê pêk tînî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo Min"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "di salê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:47.720991926Z",
+  "model": "glm-5.3"
+}

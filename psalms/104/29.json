@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Tu rûyê xwe veşêrî, ew ditirsin; tu ruhê wan hildigirî, ew dimirin û vegerin tozê xwe.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "veşêrî"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "ditirsin"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "hildigirî"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ruhê wan"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "dimirin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û vegerin"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "tozê xwe"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "vegerin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:49.886323899Z",
+  "model": "glm-5.3"
+}

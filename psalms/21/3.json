@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Xwestina dilê wî daye ⟨wî⟩, û daxwaza lêvên wî tu caran nestsandiye. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "xwestina"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "daye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨wî⟩"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "û daxwaza"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lêvên wî"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tu caran"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "nestsandiye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:03.291159226Z",
+  "model": "glm-5.3"
+}

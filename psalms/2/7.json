@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ez ê biryara Yahwe bêjim: Yahwe ji min re got: «Tu kurê min î, îro ez te anî dinyayê.»",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ez ê bêjim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "derbarê"
+    },
+    {
+      "surface": "חק",
+      "gloss": "biryarê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ez te anî dinyayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:36.662710830Z",
+  "model": "glm-5.3"
+}

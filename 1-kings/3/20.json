@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ew di nav şevê de rabû, û ⟨את⟩ kurrê min ji kêleka min girt, dema ku kînika te razî bû, û wî li berika wê danî; û ⟨את⟩ kurrê wê yê mirî wî li berika min danî.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "û ew rabû"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav de"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "şev"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurrê min"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurrê min"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "ji kêleka min"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "kînika te"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "razî bû"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "û wî danî"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "li berika wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurrê wê yê mirî"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kurrê wê"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yê mirî"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "wî danî"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "li berika min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:38.941516641Z",
+  "model": "glm-5.3"
+}

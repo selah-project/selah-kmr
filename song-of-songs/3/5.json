@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Sond xwarim ji we, keçên Yeruşalayimê, bi keskan an jî bi kêzên çolê: ⟨את⟩ evînê nehişyar bikin û jê re neşîyar bikin, heta ku ew bixwaze.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "sond xwarim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "keçên Yeruşalayimê"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "bi keskan"
+    },
+    {
+      "surface": "או",
+      "gloss": "an jî"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "bi kêzên"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "nehişyar bikin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "neşîyar bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evîn"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "evînê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ku ew bixwaze"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:15.066495690Z",
+  "model": "glm-5.3"
+}

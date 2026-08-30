@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û ⟨את⟩ hemû malan vegerand; û ⟨את⟩ Lut birayê xwe jî — û mala wî vegerand — û ⟨את⟩ jinan û ⟨את⟩ gelê jî.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vegerand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû malan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "mal"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û … jî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lut"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "û mala wî"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "vegerand"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û … jî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "jinan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:55.973440217Z",
+  "model": "glm-5.3"
+}

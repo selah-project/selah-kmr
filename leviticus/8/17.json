@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ ga yê sinî û ⟨את⟩ çermê wî û ⟨את⟩ goştê wî û ⟨את⟩ destavê wî bi agir şewitand, derveyî kampê, çawa Yahwe ⟨את⟩ Moşe ferman dabû.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ga yê sinî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "çermê wî"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "çermê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "goştê wî"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "destavê wî"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "destavê wî"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "derveyî"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman dabû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:49.823531058Z",
+  "model": "glm-5.3"
+}

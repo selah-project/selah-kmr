@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "û ⟨את⟩ deryaya yek û ⟨את⟩ doudeh gayan binî di deryayê de.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deryaya yek"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryaya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "doudeh gayan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "gayan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dou"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "binî di … de"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:08.731816093Z",
+  "model": "glm-5.3"
+}

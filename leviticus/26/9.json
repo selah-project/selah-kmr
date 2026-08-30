@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ez ê rûyê xwe bidim we, ez ê ⟨את⟩ we bihurînim, ez ê ⟨את⟩ we pir bikim, û ez ê ⟨את⟩ peymana xwe bi we rabinim.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ez ê rûyê xwe bidim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ber bi we ve"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ez ê bihurînim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ez ê pir bikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ez ê rabinim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bi we ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:23.155049523Z",
+  "model": "glm-5.3"
+}

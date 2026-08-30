@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji ber ku zilm zanî dinale û ⟨את⟩ dilê diyariyê wêran dike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "zilm"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "dinale"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "zanî"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "û wêran dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "diyariyê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:11.208873353Z",
+  "model": "glm-5.3"
+}

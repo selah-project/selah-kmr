@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 13:25",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Êrîşîm kir û bi wan re ketim nakokiyê, nifîrîm li wan kir, mêran ji wan şilandim û porê wan kişand, û bi Elohîm ez bi wan da sond xwarin: “Hûn ê keçên xwe nedin kurên wan û hûn ê ji keçên wan ji bo kurên xwe û ji bo xwe negirin.”",
+  "tokens": [
+    {
+      "surface": "ואריב",
+      "gloss": "ketim nakokiyê"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "ואקללם",
+      "gloss": "nifîrîm li wan kir"
+    },
+    {
+      "surface": "ואכה",
+      "gloss": "şilandim"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "ואמרטם",
+      "gloss": "porê wan kişand"
+    },
+    {
+      "surface": "ואשביעם",
+      "gloss": "bi wan da sond xwarin"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "bi Elohîm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "hûn nedin"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "keçên xwe"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kurên wan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "hûn nagirin"
+    },
+    {
+      "surface": "מבנתיהם",
+      "gloss": "ji keçên wan"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "ji bo kurên xwe"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "û ji bo xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:49.401144418Z",
+  "model": "glm-5.3"
+}

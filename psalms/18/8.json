@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û erd hejand û lerizî, bingehên çiyan lerizîn û hatin hejandin, çimo hêrs bi wî hat.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "û hejand"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "û lerizî"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "bingehên"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyan"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "lerizîn"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "û hatin hejandin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "hêrs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bi wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:50.265059123Z",
+  "model": "glm-5.3"
+}

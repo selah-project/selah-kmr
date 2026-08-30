@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Êdî bavê min barekî giran barand ser we, û ez ê li ser bara we zêde bikim; bavê min we bi qamçiyan perişand, êdî ez ê bi mqirijokan ⟨we⟩ perişanim.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "barand"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ser we"
+    },
+    {
+      "surface": "על",
+      "gloss": "barekî"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "giran"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ê zêde bikim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "bara we"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "perişand"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "bi qamçiyan"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bi qamçiyan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "êdî ez"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "bi mqirijokan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:46:26.513682680Z",
+  "model": "glm-5.3"
+}

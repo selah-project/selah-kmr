@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 122,
+  "translation": "Ji bo malbeta Yahwe Elohîmê me, ez ê başîyê ji te bixwazim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ez ê bixwazim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "başî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:15.944946423Z",
+  "model": "glm-5.3"
+}

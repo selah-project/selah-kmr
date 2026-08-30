@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Yisraêl, bitêxe bi Yahwe; alîkarê wan û sipara wan ew e.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bitêxe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "alîkarê wan"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "û sipara wan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:45.706248228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Yên ku ji Yahwe ditirsin, wî bilind bikin; hemû kûna Yaqûb, wî giran bikin; û ji wî bitirsin, hemû kûna Îsraêl.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "yên ku ditirsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilind bikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kûna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "wî giran bikin"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "û bitirsin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kûna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:31.026461518Z",
+  "model": "glm-5.3"
+}

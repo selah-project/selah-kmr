@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û bi pelpîlan ser mizgefta min nêzî nebibî, da ku tazbûna te li ser wê xuya nebe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Û … ne"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "nêzî nebibî\/bilî"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "bi pelpîlan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mizgefta min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "xuya nebe"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "tazbûna te"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:09.417861725Z",
+  "model": "glm-5.3"
+}

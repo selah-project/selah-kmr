@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û tu, Yahwe, tu min nas dikî, tu min dibînî, dilê min bi te re ceribandî ye: wan wekî mîran ji bo serrûnê vekêşe û wan ji bo roja kuştinê veqetîne.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Û tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tu min nas dikî"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "tu min dibînî"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "ceribandî"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bi te re"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "vekêşe"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "wekî mîran"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "ji bo serrûnê"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "veqetîne"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ji bo roja"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "kuştinê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:54:00.445765558Z",
+  "model": "glm-5.3"
+}

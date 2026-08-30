@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ji ber ku min rêyên Yahwe parast û min li dijî Elohîmê xwe ne gunehkar bû.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "min parast"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rêyên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "gunehkar bûm"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "li dijî Elohîmê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:37.497350349Z",
+  "model": "glm-5.3"
+}

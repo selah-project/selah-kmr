@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ên bi cih kirî wan — li gorî malbatên wan, li gorî malê bavên wan — bî hezar û şeş sed û sîhî bûn.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Û ... bûn"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ên bi cih kirî wan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên wan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "li gorî malê"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bî hezar"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "û sîhî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:29.430460757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Eloha ji Temanê tê, û ⟨yê⟩ pîroz ji çiyayê Paran (Selah). Rûmetiya wî ezmanan digirt û pesna wî erdê tijî kir.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "ji Temanê"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "û pîroz"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ji çiyayê"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "digirt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "rûmetiya wî"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "û pesna wî"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tijî kir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:13:57.172238616Z",
+  "model": "glm-5.3"
+}

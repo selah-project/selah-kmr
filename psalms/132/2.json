@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Yê ku ji bo Yahwe sond xwar, ji bo Avîrê Yaqûb soz da.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sond xwar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "soz da"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ji bo Avîrê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:05.950998679Z",
+  "model": "glm-5.3"
+}

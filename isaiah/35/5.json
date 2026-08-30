@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Wê çaxê çavên kuran wê vebin, û guhên kerran wê werin vekirin.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wê çaxê"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "wê vebin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "kuran"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "û guhên"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "kerran"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "wê werin vekirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:31.751940051Z",
+  "model": "glm-5.3"
+}

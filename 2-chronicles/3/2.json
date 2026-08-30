@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Wî dest pê kir bi avakirinê di meha duyem de, di roja duyem, di sala çarem a serweriya xwe de.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "dest pê kir"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bi avakirinê"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "di meha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "duyem"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "di roja duyem"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "di sala"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çarem"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "a serweriya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:35.027902370Z",
+  "model": "glm-5.3"
+}

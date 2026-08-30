@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Di havînê de nanê xwe amade dike, di demê çînê de xwarina xwe dicivîne",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "amade dike"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "di havînê de"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "nanê xwe"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "dicivîne"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "di demê çînê de"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "xwarina xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:55.975417182Z",
+  "model": "glm-5.3"
+}

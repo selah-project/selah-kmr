@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Bila hemû yê şareza dil ji we were, û ⟨את⟩ hemû tiştê ku Yahwe ferman kirî çê bike",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yê şareza"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ji we"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "were"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "û çê bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kirî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:11.118950643Z",
+  "model": "glm-5.3"
+}

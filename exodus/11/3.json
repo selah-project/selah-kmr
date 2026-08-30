@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yahwe ⟨את⟩ qencdîtiya gel danî di çavên Mîtsrayiyan de; heta ew mirov Moşe jî di welatê Mîtsrayim de, di çavên xulamên Firawn û di çavên gel de, pir mezin bû.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qencdîtiya gel"
+    },
+    {
+      "surface": "חן",
+      "gloss": "qencdîtî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên… de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayî"
+    },
+    {
+      "surface": "גם",
+      "gloss": "heta… jî"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ew mirov"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê… de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên… de"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawn"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "û di çavên… de"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:28.815477162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Vegerin li ser totqeya min: va, ez ruhê xwe ji we re derdobarim, gotinên xwe bi ⟨את⟩ we didim zanîn.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Vegerin"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "li ser totqeya min"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "derdobarim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhê xwe"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "didim zanîn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên xwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:06.867377973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 61,
+  "translation": "Ji dawiya erdê ez ê gazî te bike; dema dilê min tê kêmkirin, tu ê min bibî ser kevirê bilind ji min bilindtir.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ji dawiya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gazî te"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ez ê gazî bike"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "tê kêmkirin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ser kevir"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min bilindtir"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tu ê min bibî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:38.044202784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Lê te avêtî û ji holê rakirî, te bi Maşîahê xwe hêrs bûye.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lê te"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "avêtî"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "ji holê rakirî"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "hêrs bûye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maşîahê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:38.024099359Z",
+  "model": "glm-5.3"
+}

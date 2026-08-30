@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 64,
+  "translation": "Bihîze, Elohîm, dengê min di gazinên min de; ji tirsê dijmin jiyana min biparêze.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Bihîze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "di gazinên min de"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ji tirsê"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiyana min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:47.524907193Z",
+  "model": "glm-5.3"
+}

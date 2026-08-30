@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ez im Yahwe, ez te bi rastdarî gazî kirime, û ez ê destê te bigirim û te biparêzim, û ez ê te bidime wekî peymana gelan, wekî ronahiya netewyan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ez te gazî kirime"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "bi rastdarî"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "destê te bigirim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "te biparêzim"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "te bidime"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "wekî peymana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "wekî ronahiya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "netewyan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:01.651399384Z",
+  "model": "glm-5.3"
+}

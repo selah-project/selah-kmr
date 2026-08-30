@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ji bo Aharon ⟨את⟩ Nadav û ⟨את⟩ Avîhu, ⟨את⟩ Elazar û ⟨את⟩ Itamar bi cî hatin.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "û bi cî hatin"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadav"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avîhu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avîhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:45.099798604Z",
+  "model": "glm-5.3"
+}

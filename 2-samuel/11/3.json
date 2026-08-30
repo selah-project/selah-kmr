@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Dawid şand û derbarê wê jinê de pirsî, û ⟨ev⟩ got: Ma ev ne Bat-Şeva, keça Elîam, jina Uriya Hîtî ye?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "pirsî"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "derbarê wê jinê de"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ma ne"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Şeva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Elîam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hîtî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:53:16.234430661Z",
+  "model": "glm-5.3"
+}

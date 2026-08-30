@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Hîngerîya min bistînin, û ne zîv; û zanîn ji zêrê bijartî çêtir e.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "bistînin"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "hîngerîya min"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "û zanîn"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "ji zêrê"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "bijartî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:01.998008031Z",
+  "model": "glm-5.3"
+}

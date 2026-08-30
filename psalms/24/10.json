@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Kî ⟨ev⟩ e, Padîşahê-rûmetê? Yahwe Tsovaot — ⟨ew⟩ e Padîşahê-rûmetê. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ev⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Padîşahê"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "rûmetê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsovaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ew⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Padîşahê"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "rûmetê"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:01.037672409Z",
+  "model": "glm-5.3"
+}

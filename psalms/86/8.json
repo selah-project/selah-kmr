@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Tiştekî wekî te di nav elohîman de tune, Adonay, û tiştekî wekî karên te jî tune.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wekî te"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di nav elohîman de"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "wekî karên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.243447222Z",
+  "model": "glm-5.3"
+}

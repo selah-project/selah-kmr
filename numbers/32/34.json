@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û zarokên Gad çêkirin ⟨את⟩ Dîbon û ⟨את⟩ Atarot û ⟨את⟩ Aroer",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dîbon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dîbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-08-29T18:55:02.779075833Z",
+  "model": "glm-5.3"
+}

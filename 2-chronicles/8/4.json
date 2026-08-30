@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ew ava kir ⟨את⟩ Tadmorê di çolê de, û ⟨את⟩ hemû bajarên bîreyan ku wî li Xamatê ava kiribûn.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Û ew ava kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmorê"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmorê"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû bajarên bîreyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "bîreyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ava kiribûn"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "li Xamatê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:36.108708268Z",
+  "model": "glm-5.3"
+}

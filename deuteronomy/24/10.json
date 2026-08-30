@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Dema tu deynan didî hevalê xwe, tiştê tu dide, derî neke nav malê wî, ku gamzê wî bistînî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dema"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "tu deynan didî"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "deyn"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "tiştê tu dide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "derî neke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "malê wî"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ku bistînî"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "gamzê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:58.473062708Z",
+  "model": "glm-5.3"
+}

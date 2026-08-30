@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û Elohîm ji Bilam re got: Tevî wan neçe û gelê ⟨את⟩ nenimet bike, çimkî ew biresayî ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "be"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "tevî wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "nenimet bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "biresayî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-29T18:49:57.164765506Z",
+  "model": "glm-5.3"
+}

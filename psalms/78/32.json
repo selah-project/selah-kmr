@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Bi van hemûyan jî dîsa guneh kirin û li ecêbên wî bawer nekirin.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bi hemûyan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "van"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "guneh kirin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bawer nekirin"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "li ecêbên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:17.957240592Z",
+  "model": "glm-5.3"
+}

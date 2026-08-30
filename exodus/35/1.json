@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û Moşe ⟨את⟩ tevahiya civata zaranê Îsraêlî kom kir û ji wan re got: \"Ev ew gotinan in ku Yahwe ferman kir ku ⟨אתם⟩ bên kirîn.\"",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "kom kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya civata zaranê Îsraêlî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zaranê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û ji wan re got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ew gotinan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ku bên kirîn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ew gotinan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:40.157561043Z",
+  "model": "glm-5.3"
+}

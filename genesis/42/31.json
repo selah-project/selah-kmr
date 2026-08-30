@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û em êdî gotibûn: Em rasthatî ne; em ne cîhoger in.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "û em êdî gotibûn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "rasthatî"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ne bûn"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "cîhoger"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:57.720975016Z",
+  "model": "glm-5.3"
+}

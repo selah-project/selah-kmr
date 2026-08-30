@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û gel qîriyan ba Moşe, û Moşe ji Yahwe re duakir, û agir ket.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "qîriyan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "duakir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ket"
+    },
+    {
+      "surface": "האש",
+      "gloss": "agir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:43:45.669191267Z",
+  "model": "glm-5.3"
+}

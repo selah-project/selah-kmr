@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û şand Elîqîmê ku serê malê bû, û ⟨את⟩ Şevna katib, û ⟨את⟩ pîremenên kahînan ên xwe bi şaqan digirtin, cem Yeşayahu kurê Amots pêxember.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şevna katib"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elîqîm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "serê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Şevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Şevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "katib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "pîremenên kahînan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pîremenên"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahînan"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "xwe digirtin"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "bi şaqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:00.683165029Z",
+  "model": "glm-5.3"
+}

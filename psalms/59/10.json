@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Ey Hêza min, ez ê li te bigerim, çimkî Elohîm birca min e.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Hêza min"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "li te"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ez ê bigerim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "birca min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:31.262798922Z",
+  "model": "glm-5.3"
+}

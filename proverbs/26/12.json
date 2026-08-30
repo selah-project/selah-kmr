@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Tu yekî dîtî yê ku di çavên xwe de biaqil e? Ji wî zêdetir hêvî ji bo kesal heye.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "tu ... dîtî"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "biaqil"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên xwe de"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "hêvî"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ji bo kesal"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî zêdetir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:39.854964520Z",
+  "model": "glm-5.3"
+}

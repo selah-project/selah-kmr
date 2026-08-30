@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û Dawid di çolê de bihîst ku Nabal kerî ⟨את⟩ xwe dinî.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "dinî"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerî xwe"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kerî xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:42.185390360Z",
+  "model": "glm-5.3"
+}

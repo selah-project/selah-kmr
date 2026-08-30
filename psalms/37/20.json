@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Ji ber ku nebaş wê winda bibin, û dijminên Yahwe, wek çelengiya beran, xera dibin — di dûkelê de xera dibin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nebaş"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "wê winda bibin"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "û dijminên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "wek çelengiya"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "beran"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "xera dibin"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "di dûkelê de"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "xera dibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:50.913291402Z",
+  "model": "glm-5.3"
+}

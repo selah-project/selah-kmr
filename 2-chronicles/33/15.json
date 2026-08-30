@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û ⟨את⟩ xudayên biyanî û ⟨את⟩ pûtê ji mala Yahwe rakir, û hemû altarên ku li çiyê mala Yahwe û li Yeruşalayimê çêkiribû, û derveyê bajarê avêtin.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "rakir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xudayên biyanî"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "xudayên"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pûtê"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "pûtê"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "û li Yeruşalayimê"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "avêtin"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "derveyê"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bajarê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:53:13.692440122Z",
+  "model": "glm-5.3"
+}

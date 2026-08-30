@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Bi rastî hûn in ⟨gel⟩, û digel we jî jîrî dimire.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Bi rastî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ê (çêker)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "û digel we"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "dimire"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:25.449466836Z",
+  "model": "glm-5.3"
+}

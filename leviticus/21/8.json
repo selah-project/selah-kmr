@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Wî pîroz bikî, ji ber ku ew ⟨את⟩ nanê Elohîmê te pêşkêş dike; ji te re bibe pîroz, ji ber ku ez pîroz im, Yahwe, ê ku we pîroz dike.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "wî pîroz bikî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanê Elohîmê te"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nanê"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "pêşkêş dike"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ê ku we pîroz dike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:27.709059445Z",
+  "model": "glm-5.3"
+}

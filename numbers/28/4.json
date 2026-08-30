@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "⟨את⟩ beranê yek sibehê amade bikin, û ⟨את⟩ beranê duyem di nav êvaran de amade bikin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beranê yek"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "beranê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "amade bikin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beranê duyem"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "beranê"
+    },
+    {
+      "surface": "השני",
+      "gloss": "duyem"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "amade bikin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di nav… de"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "êvaran"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:59.665707395Z",
+  "model": "glm-5.3"
+}

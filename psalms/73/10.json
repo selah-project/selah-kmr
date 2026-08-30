@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Ji ber wê yekê gelê wî vedigere vê alî, û ji ava tije ji bo wan tê derxistin.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ji ber wê yekê"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vedigere"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "vê alî"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û ji ava"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tije"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "tê derxistin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:38.644856168Z",
+  "model": "glm-5.3"
+}

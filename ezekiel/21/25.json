@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Rêyekî de ku şûr were Rabbata bênî Ammon û ⟨את⟩ Yehûda ⟨bila⟩ li Yeruşalayma birûsînkirî.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "rêyekî"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "de"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ku were"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbata bênî Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bênî"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yehûda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayma"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "birûsînkirî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:50:43.052417691Z",
+  "model": "glm-5.3"
+}

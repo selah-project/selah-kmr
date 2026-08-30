@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Yên ku Yahwe dihezin, ji şerîtiyê nefret bikin; ⟨ew⟩ canên xesed-darên xwe diparêze û ji destê şeran wan rizgar dike.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "yên ku… dihezin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "nefret bikin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ji şerîtiyê"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "canên"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "xesed-darên wî"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şeran"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wan rizgar dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:35.849236087Z",
+  "model": "glm-5.3"
+}

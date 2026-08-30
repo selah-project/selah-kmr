@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Dawid ⟨את⟩ vê qînayê qîna kir — li ser Şaul û li ser Yehonatan kurê wî.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "qîna kir"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê qînayê"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "vê qînayê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:27.754488644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Ji bo serokekî muzîkê. Ji aliyê xizmetkarê Yahwe, ji aliyê Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ji aliyê xizmetkarê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji aliyê Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:56.849553027Z",
+  "model": "glm-5.3"
+}

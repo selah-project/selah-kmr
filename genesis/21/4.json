@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Avraham Yîtshaq kûrê xwe — kûrê heşt rojan — ⟨את⟩ xist bin êstareyê, wekî ku Elohîm fermana wî dabû ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Û xist bin êstareyê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yîtshaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtshaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kûrê xwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kûrê"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "heşt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fermana wî dabû"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:13.396715077Z",
+  "model": "glm-5.3"
+}

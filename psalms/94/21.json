@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Dê li dij ⟨nefesa⟩ sadiq kom bibin û xwîna bêguneh gunehkar bidaynin.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "dê kom bibin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dij"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadiq"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "û xwîn"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "bêguneh"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "gunehkar bidaynin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:45.810535486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û Yahwe Elohîmê te dê ⟨את⟩ dilê te û ⟨את⟩ dilê zûrê te birîn bike, ji bo ku tu ⟨את⟩ Yahwe Elohîmê xwe bi tevahî dilê xwe û bi tevahî canê xwe hez bikî, ji bo jiyana te.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "û dê ... birîn bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê te"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dilê te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dilê"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zûrê te"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ji bo ku tu hez bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û bi tevahî"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê xwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jiyana te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:11:22.962036502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 21:10",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Yahwe bi destê xulamên xwe yên pêxemberan peyivî, ku wî got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "peyivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku wî got"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:14.826598659Z",
+  "model": "glm-5.3"
+}

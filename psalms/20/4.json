@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Hemû pêşkeşiyên te bi bîr bîne û qurbana şewatê ya te bi rûnî qebûl bike. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "bi bîr bîne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "pêşkeşiyên te"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "û qurbana şewatê ya te"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "bi rûnî qebûl bike"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:15.822166677Z",
+  "model": "glm-5.3"
+}

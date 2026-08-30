@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Yahwe xwe naskirîye, dadrûsî kirîye; di keda destên xwe de nebaş tê girtinê. Hîgayon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "hatiye naskirin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadrûsî"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kirîye"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "di keda"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "tê girtinê (di torê de)"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nebaş"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Hîgayon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:18.564154251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û ew ⟨את⟩ hemû kênên bilindahiyan ên ku li ser altûran bûn qurban kir, û hestiyên mirovan li ser wan şewitand, û vegeriya Yeruşalayimê.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "qurban kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû kênên bilindahiyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kênên"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bilindahiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altûran"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên mirovan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:25:18.449982657Z",
+  "model": "glm-5.3"
+}

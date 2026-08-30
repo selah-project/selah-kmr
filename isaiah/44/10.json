@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Kî Êlekî çêkir û pûtaleke rijandî, ku ji ber ku tiştekî bikêr nîne?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êlekî"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "û pûtaleke"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "rijandî"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ku ji ber ku"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "tiştekî bikêr nîne"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:59.664644521Z",
+  "model": "glm-5.3"
+}

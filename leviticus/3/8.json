@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û destê xwe ⟨את⟩ li ser serê qurbanê xwe danîne, ⟨אתו⟩ berî Çadeya Civînê serjê bike; û lawên Aharon xwîna wî ⟨את⟩ li ser altûrê, li dora wê, rijînin.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Û danîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbanê xwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "Û serjê bike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ew (razek)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadeya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Civînê"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "Û rijînin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lawên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwîna wî"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "xwîna wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altûrê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:35.799894282Z",
+  "model": "glm-5.3"
+}

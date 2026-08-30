@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Ku balindeyên wir hêlînan çêdikin; leylozk (hûsîdar) di sirwanan de xanîya xwe digire.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wir"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "balinde"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "hêlînan çêdikin"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "leylozk (hûsîdar)"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sirwan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "xanîya xwe digire"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:48.996578350Z",
+  "model": "glm-5.3"
+}

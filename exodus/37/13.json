@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û ji bo wê çar xêzikên zêr çêkir, û xêzikan li ser çar goşeyên ku li çar lingên wê ne danî.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wê"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "xêzikên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xêzikan"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "xêzikan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "goşeyên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "li çar"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:12.907700312Z",
+  "model": "glm-5.3"
+}

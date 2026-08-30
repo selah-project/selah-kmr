@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Ajelên zeviyê av didin; kerên kovar tîhiya xwe didin qelandin.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "av didin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ajelên"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "didin qelandin"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "kerên kovar"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "tîhiya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:17.042703140Z",
+  "model": "glm-5.3"
+}

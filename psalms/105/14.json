@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Nehîşt tu mirovî wan sitim bike, û ji bo wan keyanan rexne kir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "nehîşt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tu mirovî"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "wan sitim bike"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "û rexne kir"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "keyanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:10.128409781Z",
+  "model": "glm-5.3"
+}

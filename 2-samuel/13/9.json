@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Wê ⟨את⟩ masretê hilda û berî wî rijand, lê ew red kir ku bixwe; û Amnon got: “Hemû kes ji min derîne!” û hemû kes ji cem wî derket.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masretê"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "masretê"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "berî wî"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "red kir"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ku bixwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "derîne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kes"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kes"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ji cem wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:56.406395702Z",
+  "model": "glm-5.3"
+}

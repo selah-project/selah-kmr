@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û ⟨את⟩ rûmeta xwe guhertin û kirin şibûna ga yê ku devî dixwe.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "û guhertin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûmeta xwe"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "rûmeta xwe"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "şibûna"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dixwe"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "devî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:08.874493296Z",
+  "model": "glm-5.3"
+}

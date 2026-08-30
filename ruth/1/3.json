@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elîmelex, mêrê Noêmî, mir; û ew û her du kurên wî man.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Û… mir"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elîmelex"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noêmî"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "û… man"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "û her du"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "kurên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:52.785540851Z",
+  "model": "glm-5.3"
+}

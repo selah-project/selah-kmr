@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "⟨את⟩ mîyên konê, ⟨את⟩ mîyên dîwarê û ⟨את⟩ hebikên wan",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîyên konê"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mîyên"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "konê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mîyên dîwarê"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mîyên"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dîwarê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hebikên wan"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "hebikên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:39.378971217Z",
+  "model": "glm-5.3"
+}

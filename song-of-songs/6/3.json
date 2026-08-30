@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ez ê yarê min im û yarê min ê min e; yê ku di nav sosinan de çê dike.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ê yarê min"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "û yarê min"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ê min"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yê çê dike"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "di nav sosinan de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:07.917215410Z",
+  "model": "glm-5.3"
+}

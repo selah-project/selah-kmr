@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Di rêya şahidiyên te de min kêfî çêkir, wekî li ser hemû dewlemendiyê.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "di rêya"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şahidiyên te"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "min kêfî çêkir"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "wekî li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הון",
+      "gloss": "dewlemendiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:08.340483659Z",
+  "model": "glm-5.3"
+}

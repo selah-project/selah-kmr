@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Moşe û Aharon wiha kirin; wekî ku Yahwe fermanî ⟨את⟩ wan dabû, wiha kirin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wiha kirin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fermanî dabû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (Moşe û Aharon)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:44.990259194Z",
+  "model": "glm-5.3"
+}

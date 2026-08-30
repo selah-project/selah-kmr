@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 17:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û hemû civata zarokên Yisraêl ji çola Sînê, gorî gerên xwe, li gor devê Yahwe meşiyan û li Rêfîdîmê kamp çêkirin; û ji bo ku gel vexwe av tune bû.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "meşiyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ji çola"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Sîn"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "gorî gerên xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gor"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kamp çêkirin"
+    },
+    {
+      "surface": "ברפידים",
+      "gloss": "li Rêfîdîmê"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ji bo vexwarinê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:16.502735655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Baş û rast ⟨e⟩ Yahwe; ji ber wê yekê wî gunehkaran di rê de fêrî dike.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "û rast"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê yekê"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "fêrî dike"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunehkaran"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:52.605821035Z",
+  "model": "glm-5.3"
+}

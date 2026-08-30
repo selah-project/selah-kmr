@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Canê wan ji hemû xwarinan nefret dike, û gihîştin heta deriyên mirinê.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwarinan"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "nefret dike"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canê wan"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "û gihîştin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:28.566504688Z",
+  "model": "glm-5.3"
+}

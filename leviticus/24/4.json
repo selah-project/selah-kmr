@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Ser çîrahiya paqij wê ⟨את⟩ çirayan li pêş Yahwe her domdar rêz bike.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "çîrahiyê"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "rêz bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çirayan"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "çirayan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "domdar"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:01.361374158Z",
+  "model": "glm-5.3"
+}

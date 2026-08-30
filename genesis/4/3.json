@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Di dawiya rojan de bû ⟨bû⟩, Kaynîn ji fêkiyê erdê pêşkêşek ji bo Yahwe anî.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "di dawiya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "anî"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaynîn"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ji fêkiyê"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pêşkêşek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:03.084579507Z",
+  "model": "glm-5.3"
+}

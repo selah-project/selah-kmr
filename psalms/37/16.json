@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Kêmtirîn a yên rast ji dewlemendiya çemekên pir çêtir e.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "çêtir e"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kêmtirîn"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "yên rast"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "dewlemendiya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "çemekên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:00.845877863Z",
+  "model": "glm-5.3"
+}

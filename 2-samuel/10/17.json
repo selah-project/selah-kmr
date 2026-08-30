@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji Dawid re hat ragihandin, êdî ew ⟨את⟩ hemû Yisraelê civand, derbasî ⟨את⟩ Urdunê bû, hat Helamê. Aram ji bo rûbirûbûna Dawid rêzên xwe danî û bi wî re şer kir.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "hat ragihandin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid re"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "civand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû Yisraelê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelê"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdunê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdunê"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "Helamê"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "rêzên xwe danî"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ji bo rûbirûbûna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "şer kir"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:13.968003716Z",
+  "model": "glm-5.3"
+}

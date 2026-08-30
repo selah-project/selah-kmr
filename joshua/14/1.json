@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 14:1",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ev ên ku çên Îsraêl bi mîratî li welatê Kenaan girtin — ên ku Elazarê kahîn û Yêhûşua kurê Nûn û serokên malbatên êlên çên Îsraêl wan ⟨את⟩ bi mîratî dayîn.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "bi mîratî girtin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "çên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "bi mîratî dayîn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "û Yêhûşua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nûn"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "û serokên"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "êlên"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "çên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:19:27.387940042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Ji ber ku dîwaret dê vegerî ber êdaliyê û piştî wê hemû rastên dil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ber"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "êdaliyê"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dê vegerî"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dîwaret"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "û piştî wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "rastên"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:49.892368152Z",
+  "model": "glm-5.3"
+}

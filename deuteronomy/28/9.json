@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Yahwe dê te ji bo xwe wek gelê pîroz rûniştîne, wekî ku bi sond ji te re gotiye, ger tu fermanên Yahwe Elohîmê xwe biparêzî û di rêyên wî de bigerî.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "dê te rûniştîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "wek gel"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "bi sond gotiye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "biparêzî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ferman"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "û bigerî"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di rêyên wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:05.075996508Z",
+  "model": "glm-5.3"
+}

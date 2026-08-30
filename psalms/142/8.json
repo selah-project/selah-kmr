@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 142,
+  "translation": "Canê min ji girtîgehê derîne, da ku ez navê te bilôzim ⟨את⟩; rastdar li dora min bicivin li cem min, çimkî tu qenciyê li ser min dikî.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "derîne"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "ji girtîgehê"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Canê min"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "da ku ez bilôzim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê te"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "בי",
+      "gloss": "li cem min"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "li dora min bicivin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "qenciyê dikî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:27.873784008Z",
+  "model": "glm-5.3"
+}

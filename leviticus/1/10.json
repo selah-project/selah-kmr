@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ger qurbana wî ji movikan be — ji beran an ji bizinan — ji bo qurbana şewatê, nêr û bêqelêş bîne.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "movikan"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbana wî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "beran"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ji bo qurbana şewatê"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nêr"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bêqelêş"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "bîne"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:14.861748329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Ji ber ku tu qurbanê nabînwaze, û ez bidima; qurbana sotinê tu nabî qayîl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "nabînwaze"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbanê"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "û ez bidima"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "qurbana sotinê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "nabî qayîl"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:11.626781734Z",
+  "model": "glm-5.3"
+}

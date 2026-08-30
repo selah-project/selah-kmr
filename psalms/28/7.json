@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Yahwe hêza min ê û parêzvana min e; dilê min spêde bû bi wî, û min alîkarî dît; ji ber wê dilê min şa dibe, û bi strana xwe ez wî sûdaranî dikim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "û parêzvana min"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bi wî"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "spêde bû"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "û min alîkarî dît"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "û şa dibe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "û bi strana xwe"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ez wî sûdaranî dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:03.145177425Z",
+  "model": "glm-5.3"
+}

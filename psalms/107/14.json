@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Wî wan ji tarîtiyê û siya mirinê derxist, û zincîrên wan wan qeland.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "wî derxist"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ji tarîtiyê"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "û siya mirinê"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "û zincîrên wan"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "qeland"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:11.260721903Z",
+  "model": "glm-5.3"
+}

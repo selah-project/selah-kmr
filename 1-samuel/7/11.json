@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Mirovên Îsraêlê ji Mîtspa derketin, ⟨את⟩ Filistîniyan taştî kirin û wan heta jêr Bêt-Kar dan.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mirovên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mîtspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "taştî kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistîniyan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistînî"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jêr"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bêt"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:03.942296785Z",
+  "model": "glm-5.3"
+}

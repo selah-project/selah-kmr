@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Kurê min, dev ji guhdarkirina hîndariyê berde, da ku tu ji gotinên zanayiyê wandar nebî.",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "dev berde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ji guhdarkirina"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "hîndarî"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "wandar bibe"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanayî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:46:25.276538460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Soz bînin û pêk bînin ji bo Yahwe Elohîmê we; hemû yên dora wî, dê diyariyan bînin bo Yê-Ku-Tirsê.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "soz bînin"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "û pêk bînin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "yên dora wî"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "dê bînin"
+    },
+    {
+      "surface": "שי",
+      "gloss": "diyariyan"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "bo Yê-Ku-Tirsê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:40.184667977Z",
+  "model": "glm-5.3"
+}

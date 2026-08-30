@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Bila wî bijî, û ji zêrê Şeba ji wî re bidin, û hertim ji bo wî dua bê kirin, hemû rojê ew wê biwêşîne.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "bila wî bijî"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ji zêrê"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "dua bê kirin"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "ew wê biwêşîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:53.766471586Z",
+  "model": "glm-5.3"
+}

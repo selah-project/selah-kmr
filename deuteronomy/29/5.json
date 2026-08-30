@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Nan hûn nexwarin, û şerab û eyar hûn neon — ji bo ku hûn bizanibin ku ez im Yahwe Elohîmê we.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "hûn nexwarin"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "û şerab"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "û eyar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "hûn neon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "hûn bizanibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:11:16.562581400Z",
+  "model": "glm-5.3"
+}

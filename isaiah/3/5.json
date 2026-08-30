@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ⟨⟨gel⟩⟩ dê were desteserkirin — mirov bi mirov, û mirov bi cîranê xwe; xort dê li kal serbilind bike, û yê sûçdar li yê biqîmet.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "dê were desteserkirin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "bi mirov"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "û mirov"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "bi cîranê xwe"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "dê serbilind bike"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "xort"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "li kal"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "û yê sûçdar"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "li yê biqîmet"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:29.172849165Z",
+  "model": "glm-5.3"
+}

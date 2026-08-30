@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Gelhan bihîstin, lerizîn; êşan dest da niştecihên Fîlîstînyan.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "bihîstin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelhan"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "lerizîn"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "êşan (ên zayînê)"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "dest da"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Fîlîstînyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:07.844862609Z",
+  "model": "glm-5.3"
+}

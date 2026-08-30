@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Tu me anî nav torê, û barê tengasiyê danî ser pîsikên me.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "tu me anî"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "nav torê"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "danî"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "barê tengasiyê"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "ser pîsikên me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:13.275563216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Bilind be Yahwe ji Siyonê, yê ku li Yeruşalayimê dijîne — Yah hildin!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bilind be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ji Siyonê"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yê ku dijîne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "li Yeruşalayimê"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hildin!"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:46.082522100Z",
+  "model": "glm-5.3"
+}

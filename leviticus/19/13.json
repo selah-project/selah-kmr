@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Cîranê xwe ⟨את⟩ nesitîne û negrobe; keda karkirosekî ji te re nehêle ⟨אתך⟩ heta sibehê.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "nesitîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cîranê xwe"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "cîranê xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "negrobe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "nehêle (nemîne)"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "keda"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "karkirosekî"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ li cem te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sibehê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:20.868194764Z",
+  "model": "glm-5.3"
+}

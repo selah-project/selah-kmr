@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ji bo xwe ji gelî dawetî-sazan (berbijartî) hildarin: dozdeh mêr, ji her eşîretekî yek mêr, yek ji her eşîrê.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "hildarin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelî"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dozdeh (du)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(deh)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yek mêr"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yek mêr"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ji eşîrê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:44.785426737Z",
+  "model": "glm-5.3"
+}

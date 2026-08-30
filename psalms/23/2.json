@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Li mêrgên giyayî dixe min rûniştinê; li ser avên aram rêya min dibe.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "li mêrgan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "giyayî"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "dixe min rûniştinê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "aram"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "rêya min dibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:38.938723131Z",
+  "model": "glm-5.3"
+}

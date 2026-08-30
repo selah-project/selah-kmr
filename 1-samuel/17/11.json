@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Şaul û tevahiya Îsraêl ⟨את⟩ van gotinên Filistî bihîstîn û hovin û pirr ditirsiyan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "û bihîst"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van gotinên Filistî"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "hovin"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ditirsiyan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pirr"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:56.280954336Z",
+  "model": "glm-5.3"
+}

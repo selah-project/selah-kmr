@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Elasah bû bavê ⟨את⟩ Sismay, û Sismay bû bavê ⟨את⟩ Şallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Û Elasah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "û Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şallum"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:56.701135171Z",
+  "model": "glm-5.3"
+}

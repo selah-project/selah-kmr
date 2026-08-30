@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Xesedên Yahwe ta heyînê ez stranê dibêjim; ji nifşî heta nifşê rastiya te ez bi devê xwe didim zanîn.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Xesedên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta heyînê"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ez stranê dibêjim"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşî"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşê"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ez didim zanîn"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "rastiya te"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "bi devê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:59.603475385Z",
+  "model": "glm-5.3"
+}

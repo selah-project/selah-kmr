@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 138,
+  "translation": "Çiku Yahwe bilind e, lê nizmê dibîne, û yê serbilind ji dûr ve dinase.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çiku"
+    },
+    {
+      "surface": "רם",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "nizmê"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "dibîne"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "serbilind"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "ji dûr ve"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "dinase"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:57.195566218Z",
+  "model": "glm-5.3"
+}

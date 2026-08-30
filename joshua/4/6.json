@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "da ku ev ⟨bibe⟩ nîşan di nav we de; dema ku pêşerojê sênên we bipirsin û bibêjin: “Ev kevir ji bo we çi ne?”",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אות",
+      "gloss": "nîşan"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di nav we de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "bipirsin"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "sênên we"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "pêşerojê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û bibêjin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kevir"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:35.891484153Z",
+  "model": "glm-5.3"
+}

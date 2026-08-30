@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Kesel ⟨את⟩ destên xwe digire û ⟨את⟩ goştê xwe dixwe.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "kesel"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "digire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "û dixwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goştê xwe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:44.013830914Z",
+  "model": "glm-5.3"
+}

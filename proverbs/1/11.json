@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ger ew bibêjin: «Werî ⟨את⟩ bi me re, em ê li bendê xwînê bin, em ê bêgunehan bê sedem veşêrin.»",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ew bibêjin"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "werî"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bi me re",
+      "marks": "bi me re"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "em ê li bendê bin"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "em ê veşêrin"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "bêgunehan"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bê sedem"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.705627829Z",
+  "model": "glm-5.3"
+}

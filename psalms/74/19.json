@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Giyanê kewa te nede destê ajelên kovî; koma feqirên te ji hertimî bîr neke.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nede"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "destê ajelên kovî"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "giyanê"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "kewa te"
+    },
+    {
+      "surface": "חית",
+      "gloss": "koma"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "feqirên te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bîr neke"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ji hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:09.596321987Z",
+  "model": "glm-5.3"
+}

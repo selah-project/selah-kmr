@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Ku gelê xwe di çolê de rêve bir, ji ber ku xeseda wî ji bo hertimî ye.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Ku…rêve bir"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xeseda wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:52.082103366Z",
+  "model": "glm-5.3"
+}

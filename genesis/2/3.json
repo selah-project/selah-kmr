@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Elohîm ⟨את⟩ roja heftem pîroz kir û wê pîroz kir, ji ber ku tê de ji hemû keda xwe yê ku Elohîm afirandibû ji bo çêkirinê rawestiyabû.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "û ... barikat da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roja heftem"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "heftem"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "û pîroz kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wê",
+      "marks": "roja heftem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "rawestiyabû"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "keda xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "afirandibû"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ji bo çêkirinê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:28.275038429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û Yirmiya dihat û derdiket nav gel, û hînan neavêtibûn ⟨את⟩ wî ⟨di⟩ girtîgehê de.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Û Yirmiya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dihat"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "derdiket"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û … ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "neavêtibûn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Yirmiya)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨di⟩ … girtîgeh"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "girtîgehê"
+    }
+  ],
+  "timestamp": "2026-08-29T21:05:48.102819571Z",
+  "model": "glm-5.3"
+}

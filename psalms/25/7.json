@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Gunehên ciwantiya min û tawankerîyên min ji bîr neke; li gorî xesedê te tu min bibîr bîne, ji bo qenciya te, Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "gunehên"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "ciwantiya min"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "û tawankerîyên min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ji bîr bike"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "li gorî xesedê te"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bibîr bîne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "qenciya te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:52.605660247Z",
+  "model": "glm-5.3"
+}

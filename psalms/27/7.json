@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Bihîze, Yahwe, dengê min, ez gazî dikim; dilovanî li min bike û bersiva min bide.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "bihîze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ez gazî dikim"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "û dilovanî li min bike"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "û bersiva min bide"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:46.364231235Z",
+  "model": "glm-5.3"
+}

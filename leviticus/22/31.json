@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û hûn ê fermanên min bihêrin û ⟨את⟩ wan bikin. Ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Û hûn ê bihêrin"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "fermanên min"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "û bikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (fermanên min)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:28.793845142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Dawid bihîst û ⟨את⟩ Yoav û ⟨את⟩ tevî leşkerê hêzdaran şand.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "û … şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tevî leşkerê hêzdaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevî"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "leşkerê"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "hêzdaran"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:13.380374045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û rezê xwe netemamî berbidin, û tirî yên mayî yê rezê xwe netînin; ji sêwî û ji û geriyayî re bihêlin ⟨את⟩ wan. Ez im Yahwe, Elohîmê we.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "û rezê te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "netemamî berbidin"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "û tirî yên mayî"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "rezê te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "netînin"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ji sêwî re"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "û ji û geriyayî re"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "bihêlin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:03.862704564Z",
+  "model": "glm-5.3"
+}

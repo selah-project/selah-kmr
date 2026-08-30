@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Dengê Yahwe darên sedran dişikîne, û Yahwe ⟨את⟩ sedrên Lubnanê şikand.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dişikîne"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "darên sedran"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "û şikand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedrên Lubnanê"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedrên"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lubnanê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:28.540355264Z",
+  "model": "glm-5.3"
+}

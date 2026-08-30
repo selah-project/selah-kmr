@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û her yekî gopala xwe avêt û ew bûn mar; lê gopala Aharon ⟨את⟩ gopalên wan daqû.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "avêtin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her yekî"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "gopala xwe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "mar"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "daqû"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "gopala"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gopalên wan"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "gopalên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:59.119497304Z",
+  "model": "glm-5.3"
+}

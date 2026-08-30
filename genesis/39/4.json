@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û Yosef li ber çavên wî girîdanî dît, û ew xizmetê wî kir ⟨את⟩, û wî li ser mala xwe wezîfar kir, û her tiştê ku ji wî re hebû di destê wî de danî.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "Û … dît"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חן",
+      "gloss": "girîdanî"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "li ber çavên wî"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "û ew xizmetê wî kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ew (Yosef)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "wî wezîfar kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala xwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û her tiştê"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hebû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:27.341260128Z",
+  "model": "glm-5.3"
+}

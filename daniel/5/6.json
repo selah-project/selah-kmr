@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Wê çaxê rûyê key guherî û ramananên wî wî tirsandin; besteyên çavên wî dirûn û lingên wî yek bi yek ketin hev.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "wê çaxê"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "key"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "guherî"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "û ramananên wî"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "tirsandin wî"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "û besteyên"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "çavên wî"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "dirûn"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "û lingên wî"
+    },
+    {
+      "surface": "דא",
+      "gloss": "yek"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "bi yek"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "ketin hev"
+    }
+  ],
+  "timestamp": "2026-08-30T06:18:02.394630295Z",
+  "model": "glm-5.3"
+}

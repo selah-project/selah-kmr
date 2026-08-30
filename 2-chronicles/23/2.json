@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ên li Yehûda geriyan, û ⟨את⟩ Lewiyên ji hemû bajaran yên Yehûda û serokên malbatên Îsraêl civandin, û hatin ûrûşelayimê.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "geriyan"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "li Yehûda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "civandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewiyên"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiyên"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "û serokên"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "malbatan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "û...ê"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:48:55.040544813Z",
+  "model": "glm-5.3"
+}

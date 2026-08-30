@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Hemû civata Yisraêl ⟨את⟩ wê bikin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (Pesach)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:00.763161183Z",
+  "model": "glm-5.3"
+}

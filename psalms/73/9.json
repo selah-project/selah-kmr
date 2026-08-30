@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Devê xwe li ezmanan danîne, û zimanê wan digere li ser erdê.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "danîne"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "li ezmanan"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "devê xwe"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "û zimanê wan"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "digere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li ser erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:38.644547443Z",
+  "model": "glm-5.3"
+}

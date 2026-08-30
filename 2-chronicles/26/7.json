@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û Elohîm alîkariya wî kir — dijî Filistîyan û dijî Ereban yên li Gur-Baal dijiyan, û dijî Meûniyan.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "alîkariya wî kir"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "על",
+      "gloss": "dijî"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û dijî"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "Ereb"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "dijiyan"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "li Gur"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "û Meûnî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:50:37.731791454Z",
+  "model": "glm-5.3"
+}

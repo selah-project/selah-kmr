@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û bû: di heman roja wê de Yahwe kurerên Yisraêl ji welatê Mîtsrayim derxist, bi komên xwe yên leşkerî.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "di hema-rastiyê de"
+    },
+    {
+      "surface": "היום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurerên Yisraêl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurerên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "komên xwe yên leşkerî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:17.555320586Z",
+  "model": "glm-5.3"
+}

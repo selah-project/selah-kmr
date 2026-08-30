@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û wî got: Yahwe ji Siyonê dire, û ji Orşelîmê dengê xwe dide; çiyayên şêwaneran şîn dikin û serê Karmelê hişk dibe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wî got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ji Siyonê"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "dire"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "û ji Orşelîmê"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "dengê xwe"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "şîn dikin"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "çiyayên"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "şêwaneran"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "hişk dibe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:08:32.439800176Z",
+  "model": "glm-5.3"
+}

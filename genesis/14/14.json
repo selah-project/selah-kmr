@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 14:14",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Avram bihîst ku birayê wî hatiye girtin, û ⟨את⟩ xulamên xwe yên perwerdekirî — ji malê wî ji dayik bûne — sêsed û hijdeh amade kir, û heta Dan şopand.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "hatiye girtin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "וירק",
+      "gloss": "amade kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên xwe yên perwerdekirî"
+    },
+    {
+      "surface": "חניכיו",
+      "gloss": "perwerdekirî"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "ji dayik bûne"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ji malê wî"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "hijdeh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "şopand"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:55.972418528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û ew ⟨את⟩ darikan ji darên şîtayê çêkir û wan bi paxirê bergirt.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darikan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "darikên"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîtayê"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "bergirt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "paxirê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:41.968457084Z",
+  "model": "glm-5.3"
+}

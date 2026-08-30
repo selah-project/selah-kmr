@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Yahwe bi Aharon re axaft, û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axaft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:48.336873085Z",
+  "model": "glm-5.3"
+}

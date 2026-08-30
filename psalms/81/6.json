@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Wî ew wekî şahidekî li Yehosêf danî, di dema derketina wî li ser erdê Mîtsrayim de; devzarekî ku min nizanîbû — bihîstim.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "şahidekî"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "li Yehosêf"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danî"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "di derketina wî de"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "devzar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "min nizanîbû"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "bihîstim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:11.890564915Z",
+  "model": "glm-5.3"
+}

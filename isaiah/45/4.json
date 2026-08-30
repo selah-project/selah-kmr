@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Ji ber xulamê xwe Yaqûb û yê bijartî yê min Yisraêl, min bi navê te gazî kir, min navekî rûmetê da te — te î carê min nas nekiriye.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ji ber"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamê min"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "û Yisraêl"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "yê bijartî yê min"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "min gazî kir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "bi navê te"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "min navekî rûmetê da te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "min nas kir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:08.141548921Z",
+  "model": "glm-5.3"
+}

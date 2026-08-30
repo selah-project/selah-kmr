@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û key bi awayekî hişk bersîv da wan, û key Rihabam şîretê kal û pîran berdan.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "bersîv da wan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "bi awayekî hişk"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rihabam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şîretê kal û pîran"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "şîretê"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kal û pîran"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:56.190845408Z",
+  "model": "glm-5.3"
+}

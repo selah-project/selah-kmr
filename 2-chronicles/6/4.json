@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Wî got: «Pîroz be Yahwe, Elohîm ê Yisraelê, ê ku bi devê xwe re ⟨את⟩ Dawid bavê min ra axivî û bi destên xwe bi cih anî, ku got.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wî got"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "pîroz be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm ê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "bi devê xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid bavê min"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "û bi destên xwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "bi cih anî"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku got"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:01.328018667Z",
+  "model": "glm-5.3"
+}

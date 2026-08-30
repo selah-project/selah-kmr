@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û em wan qirêj kirin, wekî me ji bo Sîhon, key ê Heşbonê, kiribû — hemû bajaran bi qirêjkirinê qirêj kirin, mêr û jin û zarok.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "û em qirêj kirin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan (Sîhon û Og)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "me kiribû"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "ji bo Sîhon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ê Heşbonê"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "bi qirêjkirinê qirêj kirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "û jin"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "û zarok"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:08.113561009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Hêz hatiye rakerîn, û giha nû xuya bûye, û giha çiyayan hatine civandin.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "hatiye rakerîn"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "û xuya bûye"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "giha nû"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "û hatine civandin"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "giha"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyayan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:40.201182670Z",
+  "model": "glm-5.3"
+}

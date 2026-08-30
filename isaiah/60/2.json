@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Ji ber ku va, tarîtî dê erdê werigire, û tarîtîya çûr gelan; lê li ser te Yahwe dê ro hilabide, û rûmeta wî li ser te dê were dîtin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tarîtî"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "dê werigire"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "û tarîtîya çûr"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "lê li ser te"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "dê ro hilabide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "û rûmeta wî"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "dê were dîtin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:46:35.395747725Z",
+  "model": "glm-5.3"
+}

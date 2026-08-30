@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Binêre, ez dûr dikevim, ez li çolê rûdinim. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ez dûr dikevim"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "reviyarî"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ez rûdinim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:03.406897582Z",
+  "model": "glm-5.3"
+}

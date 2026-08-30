@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ji wî qurbana xwe, pêşgeşta agir ji bo Yahwe, bîne: çewrî ⟨את⟩ ya rûpoşker a ⟨את⟩ rûvikan û ⟨את⟩ hemû çewrî ya ku li ser rûvikan e.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbana xwe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pêşgeşta agir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çewrî"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "çewrî"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "rûpoşker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûvikan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "rûvikan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû çewrî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "çewrî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "rûvikan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:31.420701704Z",
+  "model": "glm-5.3"
+}

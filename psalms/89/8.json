@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Êl di civîna pîrozan a mezin de tirsnak e, û ji hemû yên dora wî dibe sedema tirsan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "tirsnak e"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "di civîna"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pîrozan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "a mezin"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "û dibe sedema tirsan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "yên dora wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:17.726740795Z",
+  "model": "glm-5.3"
+}

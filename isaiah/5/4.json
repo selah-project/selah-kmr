@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Çi min dikaribû ji bo reza min zêdetir bikira ku min nekir di wê de? Çima min hêviya wê bû ku ew tirî çêbike, û ew hinarên tal çêkir?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku min bikira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zêdetir"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ji bo reza min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ku min nekir"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min kir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di wê de"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "çima"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "min hêviya wê bû"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku ew çêbike"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "tirî"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "û ew çêkir"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "hinarên tal"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:01.819327115Z",
+  "model": "glm-5.3"
+}

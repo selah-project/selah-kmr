@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Wî bilind bikin, hemû firîşteyên wî; wî bilind bikin, hemû artêşa wî!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilind bikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "firîşteyên wî"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilind bikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "artêşa wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:35.693759017Z",
+  "model": "glm-5.3"
+}

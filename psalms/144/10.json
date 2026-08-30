@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "⟨Ew yê⟩ ku rizgarî dide keyan, ku Dawid, xulamê wî, ji şûrê çêr rizgar dike.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "ku dide"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "rizgarî"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "keyan"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "ku rizgar dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê wî"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ji şûrê"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "çêr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:18.028065688Z",
+  "model": "glm-5.3"
+}

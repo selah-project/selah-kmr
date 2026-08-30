@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Çimkî dilê wan têkçûnê digire, û lêvên wan zehmetîyê diaxivin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "שד",
+      "gloss": "têkçûnê"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "digire (di dil de dihejîne)"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "û zehmetîyê"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "lêvên wan"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "diaxivin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:05.323224378Z",
+  "model": "glm-5.3"
+}

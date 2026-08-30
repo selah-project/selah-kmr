@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Hûn bibînin, destê Yahwe ji rizgarkirinê nekur bûye û guhê wî ji bihîstinê gran nîne.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "hûn bibînin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "nekur bûye"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "ji rizgarkirinê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "gran"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "guhê wî"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "ji bihîstinê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:21.026366022Z",
+  "model": "glm-5.3"
+}

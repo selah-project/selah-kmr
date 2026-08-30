@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Stûna ewrê rojanê û stûna agirê şevê ji berî gelûyê dûr nedibûn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nedibûn"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "dûr nedibûn"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "stûn"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ewr"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "rojanê"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "û stûna"
+    },
+    {
+      "surface": "האש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:19.484505341Z",
+  "model": "glm-5.3"
+}

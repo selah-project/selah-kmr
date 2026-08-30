@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ew ⟨את⟩ boriya penahê ya kuştî dan wan: ⟨את⟩ Şekem û ⟨את⟩ derdora wê di çiyayê Efrayimê de, û ⟨את⟩ Gezer û ⟨את⟩ derdora wê.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boriya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "boriya"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "penahê"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ya kuştî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "derdora wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "derdora wê"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di çiyayê de"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "derdora wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "derdora wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:58.494591126Z",
+  "model": "glm-5.3"
+}

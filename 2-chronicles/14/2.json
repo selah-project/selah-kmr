@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Êz ew rakir ⟨את⟩ qurbangehên biyaniyan û cihên bilind, û şikand ⟨את⟩ stûnên [massebot], û jê bir ⟨את⟩ [Asherîm].",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "êz ew rakir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangehên biyaniyan"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "qurbangehên"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "biyaniyan"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "û cihên bilind"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "û şikand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stûnên"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stûnên"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "û jê bir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "[Asherîm]"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "[Asherîm]"
+    }
+  ],
+  "timestamp": "2026-08-30T06:47:23.521165672Z",
+  "model": "glm-5.3"
+}

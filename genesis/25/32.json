@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Esav got: «Viya, ez diçim ⟨ku⟩ bimirim — û çima ev yekemtî ji min re ⟨ye⟩?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "viya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "diçim"
+    },
+    {
+      "surface": "למות",
+      "gloss": "bimirim"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "û çima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "yekemtî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:44.988086740Z",
+  "model": "glm-5.3"
+}

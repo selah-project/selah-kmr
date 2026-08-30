@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 141,
+  "translation": "Mizmor a Dawid. Yahwe, min gazî te kir; bilez here ba min; guhê xwe bidê dengê min, dema ez gazî te dikim.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "min gazî te kir"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "bilez here"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba min"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "guhê xwe fireh bike"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "dema ez gazî dikim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:02.783362532Z",
+  "model": "glm-5.3"
+}

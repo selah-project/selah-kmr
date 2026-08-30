@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 15:40",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Ji bo ku hûn bibîrbînin û ⟨hûn⟩ ⟨את⟩ hemû fermanên min bikin, û hûn ji bo Elohîm ê xwe bibin pîroz.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "hûn bibîrbînin"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "û … bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû fermanên min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "fermanên min"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "û hûn bibin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ji bo Elohîm ê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:47:17.487867483Z",
+  "model": "glm-5.3"
+}

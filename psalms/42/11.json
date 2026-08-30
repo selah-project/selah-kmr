@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Wekî ku bi şûr di hestiyên min de, dijminên min min rexne dikin, dema ku ew rojê tevahî ji min re dibêjin: Ku der Elohîmê te ye?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Wekî ku bi şûr"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "di hestiyên min de"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "min rexne dikin"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "dema ku dibêjin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahî"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ku der"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te ye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:44.596456128Z",
+  "model": "glm-5.3"
+}

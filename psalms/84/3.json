@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Canê min bi deriyên Yahwe hîn taziya bû û kêşiya, dilê min û goştê min ji bo Êlê zînde dengên şahiyê bilind dikin.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "hîn taziya bû"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "kêşiya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "bi deriyên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "û goştê min"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "dengên şahiyê bilind dikin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zînde"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.229463719Z",
+  "model": "glm-5.3"
+}

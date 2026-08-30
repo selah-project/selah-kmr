@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "û xesedê ji bo hezaran dike — ji bo yên ku min dihebin û fermanên min diparêzin.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "û dike"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ji bo hezaran"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ji bo yên ku min dihebin"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "û ji bo yên ku diparêzin"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "fermanên min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:50.042639537Z",
+  "model": "glm-5.3"
+}

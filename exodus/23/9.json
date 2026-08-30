@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û sêwîyekî metirsîne — hûn dizanin ⟨את⟩ canê sêwî, ji ber ku hûn bi xwe sêwî bûn di welatê Mîtsrayimê de.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Û sêwîyekî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "metirsîne"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "dizanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê sêwî"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ê sêwî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "sêwî"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:46.033348910Z",
+  "model": "glm-5.3"
+}

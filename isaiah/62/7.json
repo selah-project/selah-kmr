@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Û ji Wî re aramî nedin, heta ku rast bike, û heta ku ⟨את⟩ Yeruşalayim bike pesindanî li ser erdê.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Û ... ne"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "din"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "aramî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji Wî re"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "rast bike"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta ku"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pesindanî"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li ser erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:33.434752020Z",
+  "model": "glm-5.3"
+}

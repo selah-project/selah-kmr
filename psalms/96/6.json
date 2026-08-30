@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Rûmet û mêrxasî berî wî ne; hêz û şewq di pîrgêha wî de ne.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "û mêrxasî"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "berî wî"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "û şewq"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "di pîrgêha wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:57.781365798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Ez guhê xwe ji bo meselê dilivim, razê xwe bi çembere vedikim.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "dilivim"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ji bo meselê"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "guhê xwe"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "vedikim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bi çembere"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "razê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:04.349019874Z",
+  "model": "glm-5.3"
+}

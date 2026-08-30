@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 95,
+  "translation": "Werin, em ji bo Yahwe bilbilî bikin, em bi dengê bilind li hember Kezişa rizgariya xwe qêrîn bikin.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Werin"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "em bilbilî bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "em qêrîn bikin"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "li hember Keziş"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "rizgariya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:22.642644731Z",
+  "model": "glm-5.3"
+}

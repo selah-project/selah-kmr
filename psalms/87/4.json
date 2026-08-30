@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 87,
+  "translation": "Ez ê Rihab û Babîl bi nav bînim ji bo ên êz nas dikin: hûn bibînin — Filistîn, û Sur, bi Kûş re; ev li wir hatiye ji dayikbûn.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ez ê bi nav bînim"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rihab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "û Babîl"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "ji bo ên êz nas dikin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hûn bibînin"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistîn"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "û Sur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kûş"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "hatiye ji dayikbûn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:34.182686823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û tiştê ku wî kir di çavên Yahwe de xerab bû, û ⟨את⟩ wî jî kuşt.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "xerab bû"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî (Onan)"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:28.865840134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Wekî ku dûman tê sirûştin, ew jî bên sirûştin; wekî ku mûm ji ber agir dihelî, neq ji ber Elohîm bên helandin û winda bibin.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "wekî sirûştina"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dûman"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "bê sirûştin"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "wekî helîna"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "mûm"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "winda bibin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "neq"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:59.228340198Z",
+  "model": "glm-5.3"
+}

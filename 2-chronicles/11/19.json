@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ew ji bo wî kuran anî dinyê: ⟨את⟩ Yeûş, ⟨את⟩ Şemarya û ⟨את⟩ Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "anî dinyê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kuran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeûş"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeûş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şemarya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Şemarya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:15.199443615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Dawid ji xortê ku jê re dibêje re got: «Çawa tu zanî ku Şaul û Yehonatan kurê wî mirine?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "xortê"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "ku dibêje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "איך",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu zanî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirine"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "û Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:18.745742045Z",
+  "model": "glm-5.3"
+}

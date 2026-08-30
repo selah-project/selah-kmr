@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û ⟨di⟩ berî cihûrekan de rêyek rê bû, deh kûba firehî, ber bi ya hundirîn; rêyek bi kûbeke yekta, û deriyên wan ber bi bakur.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "û di berî"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "cihûrekan"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "rêyek rê"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kûba"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "firehî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ya hundirîn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rêyek"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kûbeke"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yekta"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "û deriyên wan"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ber bi bakur"
+    }
+  ],
+  "timestamp": "2026-08-30T04:00:24.899964121Z",
+  "model": "glm-5.3"
+}

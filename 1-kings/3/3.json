@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Şelomo Yahwe dizanîbû ⟨את⟩, da ku bi biryarnameyên Dawid, bavê xwe, biçe; tenê ew di bilindahiyan de qurban dikir û buxûn dida pêşkêşkirin.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "dizanîbû"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da ku biçe"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "bi biryarnameyên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di bilindahiyan de"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurban dikir"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "û buxûn dida pêşkêşkirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:00:37.542918133Z",
+  "model": "glm-5.3"
+}

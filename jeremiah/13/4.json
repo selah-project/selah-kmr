@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "\"Kêmerê ku te kirî, ê ku li kêlega te ye, hilde, û rabû, here Peratê, û wî li wir di qelişa kevirî de veşêre.\"",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "hilde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêmerê"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kêmerê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "te kirî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "kêlega te"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "û rabû"
+    },
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "Peratê"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "û wî veşêre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "di qelişê de"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kevirî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:54:19.815587019Z",
+  "model": "glm-5.3"
+}

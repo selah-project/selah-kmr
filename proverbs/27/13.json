@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Kincê wî bigre, çûnkî ew ji bo xerîbî çavkanî bûye, û ji bo jina biyanî jî girtî ji wî bigre.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "bigre"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "kincê wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "çavkanî bûye"
+    },
+    {
+      "surface": "זר",
+      "gloss": "xerîbî"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "û ji bo"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "jina biyanî"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "girtî ji wî bigre"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:51.171791502Z",
+  "model": "glm-5.3"
+}

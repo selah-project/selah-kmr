@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Yahwe bi Moşe re peyivî û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "peyivî û"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got:"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:57.335958403Z",
+  "model": "glm-5.3"
+}

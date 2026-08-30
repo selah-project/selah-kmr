@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û xizmetkarên padîşah Hizqiyahu hatin cem Yeşayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "û ... hatin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmetkarên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    }
+  ],
+  "timestamp": "2026-08-29T20:38:37.394531897Z",
+  "model": "glm-5.3"
+}

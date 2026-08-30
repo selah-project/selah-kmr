@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û wî ⟨את⟩ wî bi ruha Elohîm tijî kir — bi zanîna-bidar, bi şiroveyê, bi zanînê û bi hemû karê.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Û wî … tijî kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "bi zanîna-bidar"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "bi şiroveyê"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "û bi zanînê"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û bi hemû"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "karê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:30.853296106Z",
+  "model": "glm-5.3"
+}

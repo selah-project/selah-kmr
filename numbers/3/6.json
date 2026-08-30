@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Nêzîk bike ⟨את⟩ êla Lêwî, û ⟨אתו⟩ bisekinîne li ber Aharon kahîn, da ku ew wî xizmet bikin.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "nêzîk bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êla Lêwî"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "êla"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lêwî"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "û bisekinîne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "êla Lêwî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "û ew wî xizmet bikin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wî (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:40.486161902Z",
+  "model": "glm-5.3"
+}

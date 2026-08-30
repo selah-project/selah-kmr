@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ji ber ku xizan ne heta dawiyê ji bîr tê; hêviya feqîran ne heta-hertimî winda dibe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "ji bîr tê"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "xizan"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "hêviya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "feqîran"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "winda dibe"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "heta-hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:18.565184006Z",
+  "model": "glm-5.3"
+}

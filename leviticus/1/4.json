@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û destê xwe danîne ser serê qurbana şewatê, û ew ji bo wî were qebûlkirin, ji bo kefaretkirina wî.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "danîne"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "were qebûlkirin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kefaretkirin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:03.110985622Z",
+  "model": "glm-5.3"
+}

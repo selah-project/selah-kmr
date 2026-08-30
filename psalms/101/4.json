@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 101,
+  "translation": "Dilê çewt ji min bizawitîne; êrîşkarî ez nizanim.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "çewt"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "bizawitîne"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "רע",
+      "gloss": "êrîşkarî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ez zanim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:46.259160835Z",
+  "model": "glm-5.3"
+}

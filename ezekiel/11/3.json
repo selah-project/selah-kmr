@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ewên ku dibêjin: Wext nêzîk nîne ji bo ku xanî were çêkirin; ew bajêr qazan e û em jî goşt in.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "ewên ku dibêjin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "nêzîk"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "qazan e"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "û em jî"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "goşt in"
+    }
+  ],
+  "timestamp": "2026-08-30T03:47:14.637230267Z",
+  "model": "glm-5.3"
+}

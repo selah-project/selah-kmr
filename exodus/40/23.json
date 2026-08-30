@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û li ser wê rêza nanê rêz kir, li ber Yahwe — wekî ku Yahwe ferman da ⟨את⟩ Moşe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "rêz kir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "rêza"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nanê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:53.921286607Z",
+  "model": "glm-5.3"
+}

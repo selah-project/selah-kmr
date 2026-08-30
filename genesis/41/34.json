@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Paroh bike û serkaran deyne ser ⟨⟨the⟩⟩ welêt, û ⟨את⟩ erda Mîtsrayimê di heft salên serkeftinê de pêncpar bike.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "bike"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "û serkaran deyne"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "serkaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "û pêncpar bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erda Mîtsrayimê"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "di heft"
+    },
+    {
+      "surface": "שני",
+      "gloss": "salên"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "serkeftinê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:49.287314082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Tu ruhê xwe dişînî, ew tên afirandin, û tu rûyê erdê ji nû ve çêdikî.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "dişînî"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruhê xwe"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "tên afirandin"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "ji nû ve çêdikî"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:49.886592112Z",
+  "model": "glm-5.3"
+}

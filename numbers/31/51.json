@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Moşe û Elêzerê kûhîn ⟨את⟩ zêr ji wan ⟨את⟩ hildan — hemû amûrên çêkirî.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "û Elêzer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kûhîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zêr"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ji wan ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "çêkirî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:55:10.755204169Z",
+  "model": "glm-5.3"
+}

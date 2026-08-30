@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Gava Esav ⟨את⟩ gotinên bavê xwe bihîst, bi qêrînek mezin û tal heta pir qîriya û ji bavê xwe re got: Min jî bibareke, ey bavê min!",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "gava … bihîst"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gotinên"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "qîriya"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "bi qêrînek"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "û tal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ji bavê xwe re"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "min bibareke"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ey bavê min"
+    }
+  ],
+  "timestamp": "2026-08-29T17:47:22.779940808Z",
+  "model": "glm-5.3"
+}

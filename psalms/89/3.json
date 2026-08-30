@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Ji ber ku min got: heta heyînê xesed tê avakirin; tu rastiya xwe di ezmanan de sabit dikî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "heta heyînê"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "tê avakirin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "tu sabit dikî"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "rastiya xwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:59.603615428Z",
+  "model": "glm-5.3"
+}

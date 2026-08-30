@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ez ê ji we re şivanên gorî dilê xwe bidim, û ew ê ⟨את⟩ we bi zanîn û têgihîştinê xwedî kirin.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "û ez ê bidim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "şivan"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "gorî dilê min"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "û ew ê xwedî kirin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "zanîn"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "û têgihîştin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:51:28.906709746Z",
+  "model": "glm-5.3"
+}

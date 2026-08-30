@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Mirov birayê xwe ⟨את⟩ nedît, û sê rojan kes ji cihê xwe ranebû; lê ji bo hemû zarokên Îsraêlî di rûniştgehên wan de ronahî bû.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dît"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayê xwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û… na"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ranebû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kes"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "ji cihê xwe"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lê ji bo hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "di rûniştgehên wan de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:23.761188825Z",
+  "model": "glm-5.3"
+}

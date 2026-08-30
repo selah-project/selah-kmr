@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Elohîmê Îsraêl got, Kevira Îsraêl bi min axivî: ê ku ser mirovan destdar e, sîda destdar e, ê ku di tirsa Elohîm de destdarî dike.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Kevira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "destdar e"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ser mirovan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sîda"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "destdar e"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "di tirsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:15.037462029Z",
+  "model": "glm-5.3"
+}

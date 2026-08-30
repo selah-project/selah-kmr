@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Û gihîşt wan û van gotinan bi wan re got ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "û gihîşt wan"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van gotinan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "van gotinan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:29.167117701Z",
+  "model": "glm-5.3"
+}

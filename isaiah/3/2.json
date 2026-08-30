@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Şervanê hêzdar û mêrê şer, darizkar û pêxember, falbir û kal,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "şervanê hêzdar"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "û mêrê"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "darizkar"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "û pêxember"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "û falbir"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "û kal"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:31.577570376Z",
+  "model": "glm-5.3"
+}

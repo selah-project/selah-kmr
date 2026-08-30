@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Werin, karan Yahwe bibînin — ⟨ku⟩ wî li erdê xerabî danîn.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Werin"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "bibînin"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "karan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:57.146004214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Êdî ⟨את⟩ çermê dilê xwe bihurînin û stûyê xwe ji nû ve nerên.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Êdî bihurînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çermê dilê xwe"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "çermê"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "û stûyê xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "nerên"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ji nû ve"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:22.359053752Z",
+  "model": "glm-5.3"
+}

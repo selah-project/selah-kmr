@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "ji bo ku padîşahî ji mala Şaul derbas bike û ⟨את⟩ textê Dawîd li ser Îsraêl û li ser Yehûda rûnihîne — ji Dan heta Beer-Şeva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "ji bo derbas kirina"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "padîşahî"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "û ji bo rûnankirina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "textê Dawîd"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "textê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawîd"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ji Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    }
+  ],
+  "timestamp": "2026-08-29T19:49:15.832532230Z",
+  "model": "glm-5.3"
+}

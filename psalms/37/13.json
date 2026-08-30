@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Adonay pê dibîne ku roja wî tê, ji ber wê yekê bi wî pê dixe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "pê dixe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bi wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dibîne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "roja wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:00.845294150Z",
+  "model": "glm-5.3"
+}

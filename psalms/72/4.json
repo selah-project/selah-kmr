@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Wê feqîrên gelê bibîne dadî, kurên belawer rizgar bike, û zordar bişkîne.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "bibîne dadî"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "feqîrên"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "belawer"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "û bişkîne"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "zordar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:56.502368809Z",
+  "model": "glm-5.3"
+}

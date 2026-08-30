@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Êz ê wê ji bo xwe di erdê de çandin bikim, û êz ê ⟨את⟩ Lo-Ruhamah (Ne-Yê-Dilovanî) dilovanî bikim, û êz ê ji Lo-Ammî (Ne-Gelê-Min) bêjim: «Tu gelê min î», û ew ê bêje: «Elohîmê min!»",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "êz ê wê çandin bikim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "û êz ê dilovanî bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah (Ne-Yê-Dilovanî)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Yê-Dilovanî"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "û êz ê bêjim"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ji Lo-Ammî (Ne-Gelê-Min)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Gelê-Min"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ew ê bêje"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:07.800423310Z",
+  "model": "glm-5.3"
+}

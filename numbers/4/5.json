@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Aharon û lawên wî, dema ku ordî diçe, tên û ⟨את⟩ pêrda perdeyê dakinînin û bi wê ⟨את⟩ sandiqa şahidiyê dipêçin.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "tên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û lawên wî"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "dema ku diçe"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ordî"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "dakinînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêrda"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pêrda"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "perdeyê"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "dipêçin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bi wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqa"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sandiqa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şahidiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:30.082205120Z",
+  "model": "glm-5.3"
+}

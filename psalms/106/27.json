@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û toreyên wan di nav netewiyan de bikeve, û wan di welatan de belav bike.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "û ... bixîne"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "toreyên wan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav netewiyan de"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "û ... belav bike"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di welatan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:47.983219352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Yê ku ajalî dikuje, ê wî bernade; yê ku mirovê dikuje, wê bête kuştin.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "yê ku dikuje"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ajalî"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ê wî bernade"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "yê ku dikuje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovê"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wê bête kuştin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:27.240288392Z",
+  "model": "glm-5.3"
+}

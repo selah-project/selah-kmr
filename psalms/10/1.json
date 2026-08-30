@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Çima, Yahwe, li dûr radiwestî? Di demên teng de xwe dipsîwar dikî?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "radiwestî"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "li dûr"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "xwe dipsîwar dikî"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "di demên"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "teng"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:18.614731652Z",
+  "model": "glm-5.3"
+}

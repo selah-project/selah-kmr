@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 8:33",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ner zayî ⟨את⟩ Kîş, Kîş jî zayî ⟨את⟩ Şaûl, Şaûl jî zayî ⟨את⟩ Yehonatan û ⟨את⟩ Malkîşua û ⟨את⟩ Avînadav û ⟨את⟩ Eşbaal.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kîş"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kîş"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "Kîş jî"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaûl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Şaûl jî"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Malkîşua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkî"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "şua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Avînadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avînadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Eşbaal"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "Eşbaal"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:55.263686955Z",
+  "model": "glm-5.3"
+}

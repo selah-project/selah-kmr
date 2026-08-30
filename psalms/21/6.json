@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Mezin e rûmetê wî di rizgariya te de; tu şewq û rûmet datînî ser wî.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "rûmetê wî"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "di rizgariya te de"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "şewq"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "û rûmet"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "datînî"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ser wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:14.937967337Z",
+  "model": "glm-5.3"
+}

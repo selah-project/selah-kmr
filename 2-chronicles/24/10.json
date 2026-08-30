@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û hemû seroke û hemû gel kêfxweş bûn, û anîn û avêtin nav sandûqê heta ku bi dawî bû.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "kêfxweş bûn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "seroke"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "avêtin"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "nav sandûqê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "bi dawî bû"
+    }
+  ],
+  "timestamp": "2026-08-30T06:50:50.743029462Z",
+  "model": "glm-5.3"
+}

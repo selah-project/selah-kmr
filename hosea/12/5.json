@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ew bi melaket re xebitand û ser ket; hînî girt û ji wî re lava kir; ew wî li Bet-El dît û li wir bi me re axift.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "xebitand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "melaket"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ser ket"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "hînî girt"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "lava kir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "dît"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "axift"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bi me re"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:20.088118242Z",
+  "model": "glm-5.3"
+}

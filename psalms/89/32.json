@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "ger biryarnameyên min xerab bikin, û fermanên min neparêzin —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "biryarnameyên min"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "xerab bikin"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "û fermanên min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "neparêzin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:24.732583871Z",
+  "model": "glm-5.3"
+}

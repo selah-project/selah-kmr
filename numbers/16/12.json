@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 16:12",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Moşe şand ku gazî Datan û Avîram bike, kurên Elîav; û wan got: “Em ê neçin jor.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ku gazî bike"
+    },
+    {
+      "surface": "לדתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ולאבירם",
+      "gloss": "û Avîram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elîav"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û wan got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ê neçin jor"
+    }
+  ],
+  "timestamp": "2026-08-29T18:47:34.279181749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Lê tenê dilşadiya wî di Tora Yahwe de ye, û di Tora wî de ro û şev digûhêje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "di Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "dilşadiya wî"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "û di Tora wî de"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "digûhêje"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ro"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "û şev"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:42.731604586Z",
+  "model": "glm-5.3"
+}

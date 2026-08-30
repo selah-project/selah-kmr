@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "û ⟨את⟩ hemû padîşahên Tsor û ⟨את⟩ hemû padîşahên Tsîdon û ⟨את⟩ padîşahên ⟨giravê⟩ ku li aliyê ⟨derê⟩ deryayê ye",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû padîşahên Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahên"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû padîşahên Tsîdon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahên"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsîdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "padîşahên giravê"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahên"
+    },
+    {
+      "surface": "האי",
+      "gloss": "giravê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "li aliyê derê"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:58:26.247101175Z",
+  "model": "glm-5.3"
+}

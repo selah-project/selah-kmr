@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Rojên salên me yên di wan de heftê sal in, û ger bi hêzê şênh sal in; û serbilindîya wan êş û xirabî ye, çimkî zû tê qutkirin û em difirin.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "salên me"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan de"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "heftê"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "bi hêzê"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "şênh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "û serbilindîya wan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "êş"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "û xirabî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "גז",
+      "gloss": "tê qutkirin"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "zû"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "û em difirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:09.911359581Z",
+  "model": "glm-5.3"
+}

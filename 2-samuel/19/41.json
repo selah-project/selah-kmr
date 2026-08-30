@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-samuel 19:41",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Padîşah derbasî Gîlgalê bû, û Kîmham bi wî re derbas bû, û tevahiya gelê Yehuda padîşah derbas kir ⟨את⟩, û her wiha nîvê gelê Yisraêl.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "derbasî … bû"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gîlgalê"
+    },
+    {
+      "surface": "וכמהן",
+      "gloss": "û Kîmham"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "derbas kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padîşah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û her wiha"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "nîvê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:58:48.168535832Z",
+  "model": "glm-5.3"
+}

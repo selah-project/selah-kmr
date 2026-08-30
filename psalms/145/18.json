@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Nêzîk e Yahwe ji bo hemû yên ku gazî wî dikin, ji bo hemû yên ku bi rastî gazî wî dikin.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nêzîk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "yên ku gazî wî dikin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "gazî wî dikin"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "bi rastî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:10.271237422Z",
+  "model": "glm-5.3"
+}

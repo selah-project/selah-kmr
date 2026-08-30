@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Di nav gelê xwe de wek gilekar neçûn û nehatin; li ser xwîna cîranê xwe nesekinin — ez Yahwe me.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "neçûn û nehatin"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "wek gilekar"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "di nav gelê xwe de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "nesekinin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwîna"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "cîranê xwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:20.868974661Z",
+  "model": "glm-5.3"
+}

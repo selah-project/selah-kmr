@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Ew ê bi diltengî bibore bi lawiran û belengazan, û canên belengazan xilas bike.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "bi diltengî bibore"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "lawiran"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û belengazan"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "û canên"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "belengazan"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "xilas bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:53.766034412Z",
+  "model": "glm-5.3"
+}

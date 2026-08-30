@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Ez ê ⟨את⟩ we ji nav netewan bistînim û ez ê ⟨את⟩ we ji hemû welatan kom bikim û ez ê ⟨את⟩ we bibin ser axa we.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ez ê ... bistînim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nav netewan"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "ez ê ... kom bikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "welatan"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ez ê ... bibin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "axa we"
+    }
+  ],
+  "timestamp": "2026-08-30T03:59:13.119345104Z",
+  "model": "glm-5.3"
+}

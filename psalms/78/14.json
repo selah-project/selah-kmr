@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Wan bi ewrê rojê rêya bir û bi ronahiya agir tevahiya şevê.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "rêya bir"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "bi ewrê"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "באור",
+      "gloss": "bi ronahiya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:26.353710838Z",
+  "model": "glm-5.3"
+}

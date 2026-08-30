@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ew kulîlê dixwe; dilê xapî ew xistiye rêyekî şaş, û ⟨את⟩ canê xwe rizgar nake, û nabêje: “Ma di rastika min de derew nîne?”",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "dixwe (çêre dike)"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "kulîlê"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "xapî"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "xistiye rêyekî şaş"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "rizgar nake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê xwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canê xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nabêje"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma… nîne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "di rastika min de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:43.762201603Z",
+  "model": "glm-5.3"
+}

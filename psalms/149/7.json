@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 149,
+  "translation": "Ji bo tolhildanê di netewan de, êşkenceyan di gelan de — êdî ji bo tiştên li ser gelan tunene.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ji bo kirin"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "tolhildanê"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di netewan de"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "êşkenceyan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "êdî tunene"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "gelan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:22.717509421Z",
+  "model": "glm-5.3"
+}

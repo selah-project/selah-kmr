@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Xeşbon û ⟨את⟩ zozanên wê, ⟨את⟩ Yazer û ⟨את⟩ zozanên wê — bi giştî çar bajaran.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xeşbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Xeşbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zozanên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zozanên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bi giştî"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:23:05.903012635Z",
+  "model": "glm-5.3"
+}

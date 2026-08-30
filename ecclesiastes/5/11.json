@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Xewa karker şîrîn e, kêm bixwe û pir bixwe; lê têrbûna dewlemend ji wî re nahêle ku ew bixewe.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "şîrîn"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "xewa"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "karker"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kêm bixwe"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kêm"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pir"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bixwe"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "lê têrbûn"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "dewlemend"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "na"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "nahêle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "bixewe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:49.058265626Z",
+  "model": "glm-5.3"
+}

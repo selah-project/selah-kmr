@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û Yahwe ji Moşe re got: \"Here cem Paroh û ji wî re bêje: Wiha got Yahwe: Gelî Min ⟨את⟩ bişîne, da ku ew xizmeta Min bikin.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Here"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Wiha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bişîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gelî Min"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Gelî Min"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "xizmeta Min bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:13.162038553Z",
+  "model": "glm-5.3"
+}

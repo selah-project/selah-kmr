@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Û ji wî yê meriv reş re Elohîm got: “Çi ji te re ye ku tu biryarên min bibêjî, û ku tu peymana min bi devê xwe hildigirî?”",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Û ji wî yê meriv reş re"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ku tu … bibêjî"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "biryarên min"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "û ku tu … hildigirî"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana min"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "devê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:11.237669396Z",
+  "model": "glm-5.3"
+}

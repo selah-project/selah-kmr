@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Yarobeam ⟨את⟩ Şekem li çiyayê Efrayimê ava kir û li wir rûnişt; û ji wir derket û ⟨את⟩ Penuel ava kir.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimê"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:34.100736482Z",
+  "model": "glm-5.3"
+}

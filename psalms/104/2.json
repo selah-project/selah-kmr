@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Ew ê ku ronahî wek çêlekek li xwe digire, û ezmanan wek dîwarekê dirêj dike.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "li xwe digire"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "wek çêlek"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "dirêj dike"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "wek dîwarê çadirekê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.699809458Z",
+  "model": "glm-5.3"
+}

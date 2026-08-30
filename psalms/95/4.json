@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 95,
+  "translation": "Çi ku di destê wî de kûrên erdê ne, û bilindahiyên çiyan ên wî ne.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Çi ku"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê wî de"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "û bilindahiyên"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ên wî ne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:22.643240389Z",
+  "model": "glm-5.3"
+}

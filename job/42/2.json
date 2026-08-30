@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ez dizanim ku tu ji her tiştî dikarî, û tu planserê ji te nayê astengkirin.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ez dizanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her tiştî"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tu dikarî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nayê"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "astengkirin"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ji te"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "planserê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:42.265783293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Ez ê ⟨את⟩ dîlaniya Yehuda û ⟨את⟩ dîlaniya Yisrael vegerînim, û wan wek di destpêkê de dîsa ava bikim.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Ez ê vegerînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîlaniya Yehuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "dîlaniya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dîlaniya Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "dîlaniya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "û ava bikim"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "wek di destpêkê de"
+    }
+  ],
+  "timestamp": "2026-08-29T21:02:52.149359789Z",
+  "model": "glm-5.3"
+}

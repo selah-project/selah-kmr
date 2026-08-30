@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ji ber ku tu gelê belengaz dihilînî, û çavên bilind dihevîjînî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "עני",
+      "gloss": "belengaz"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "dihilînî"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "û çavên"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "dihevîjînî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:47.757214021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Hemû deri û dêrên wan çargoşe ⟨bûn⟩, bi wêrekên ronahiyê; û pencereyek beramberî pencereyekê, sê caran.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "û dêrên"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "çargoşe"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "wêrekên ronahiyê"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "û beramberî"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "pencereyek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "pencereyekê"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "caran"
+    }
+  ],
+  "timestamp": "2026-08-29T20:03:32.539656859Z",
+  "model": "glm-5.3"
+}

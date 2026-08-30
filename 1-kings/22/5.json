@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û Yehoşafat ji mîrê Yisraêl re got: «Îro, ez dixwazim, ⟨את⟩ gotina Yahwe bipeirse.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û … got"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mîrê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "bipeirse"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ez dixwazim"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gotina Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:34.672742111Z",
+  "model": "glm-5.3"
+}

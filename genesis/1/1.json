@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Di destpêkê de Elohîm ⟨את⟩ ezmanan û ⟨את⟩ erdê afirand.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Di destpêkê de"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "afirand"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezmanan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:32:41.026858125Z",
+  "model": "glm-5.3"
+}

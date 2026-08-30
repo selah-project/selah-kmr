@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ⟨את⟩ hemû çewkiyê wî ji wî hildide û li ser mizgeftê dişewitîne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû çewkiyê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "çewkiyê wî"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hildide"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dişewitîne"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser mizgeftê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:01.894490221Z",
+  "model": "glm-5.3"
+}

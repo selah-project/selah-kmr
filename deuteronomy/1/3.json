@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û çêbû di sala çilî de, di meha yanzdehan de, di yekemîn roja mehê de, ku Moşe ji bo kûrên Yisraêlê got — li gorî hemû tiştên ku Yahwe fermanî ⟨את⟩ wî kiribû li ser wan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û çêbû"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "di çilî de"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sala"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "di yanzdehan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…an de"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "meha"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "di yekemîn"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "roja mehê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "li gorî hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fermanî… kiribû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "tiştên ku Yahwe fermanî Moşe kiribû"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "li ser wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:08.161682050Z",
+  "model": "glm-5.3"
+}

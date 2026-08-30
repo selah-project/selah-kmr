@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Xirabî di nav wê de ye, û zext û xapîn ji meydanê wê dernakevin.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "xirabî"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di nav wê de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "dernakevin"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "ji meydanê wê"
+    },
+    {
+      "surface": "תך",
+      "gloss": "zext"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "û xapîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:24.733205304Z",
+  "model": "glm-5.3"
+}

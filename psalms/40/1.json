@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Ji bo serokê muzîkaran. Mezmûrek ji Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkaran"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmûr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:39.733021987Z",
+  "model": "glm-5.3"
+}

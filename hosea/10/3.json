@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji ber ku niha wê bibêjin: “Keyê me nîne, ji ber ku me Yahwe netirsand; û key ji me re çi dike?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wê bibêjin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "netirsand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "û key"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:33.473535784Z",
+  "model": "glm-5.3"
+}

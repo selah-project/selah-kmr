@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Benyamîn ⟨את⟩ Bela yê kurê xwe yê yekem, Ashbel ê duyem û Ahrax ê sêyem bi cî anî.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Û Benyamîn"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi cî anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "yê kurê xwe yê yekem"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ê duyem"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "û Ahrax"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ê sêyem"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:44.741829979Z",
+  "model": "glm-5.3"
+}

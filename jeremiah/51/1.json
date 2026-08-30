@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Wusa dibêje Yahwe: Va, ez ê li dijî Babîlê û li dijî niştecihên Leb-Qamay (Dilê-Serhildêrên-min) bazekî wêraneker çalak bikim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Wusa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "va, ez"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "çalak bikim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û li dijî"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Leb (Dilê)"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "Qamay (Serhildêrên-min)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "baz"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "wêraneker"
+    }
+  ],
+  "timestamp": "2026-08-30T03:40:58.051339070Z",
+  "model": "glm-5.3"
+}

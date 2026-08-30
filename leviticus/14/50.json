@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "⟨את⟩ çûka yekê li ser sûdika axî li ser ava zindî serrûn dike.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "serrûn dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çûka yekê"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "çûka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sûdika"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "axî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ava"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:47.176022013Z",
+  "model": "glm-5.3"
+}

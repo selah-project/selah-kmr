@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Qurbanên rastiyê bikin û baweriyê bikin bi Yahwe.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "qurban… bikin"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanên"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "û baweriyê bikin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:23.865949190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 110,
+  "translation": "Mezmûra Dawid. Gotina Yahwe ji bo Adonayê min: «Rûne li aliyê rastê yê min, heta ku ez dijminên te bikime serde ji bo lingên te.»",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmûr"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ji bo Adonayê min"
+    },
+    {
+      "surface": "שב",
+      "gloss": "rûne"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "li aliyê rastê yê min"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ez … bikime"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dijminên te"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "serde"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ji bo lingên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:23.289668735Z",
+  "model": "glm-5.3"
+}

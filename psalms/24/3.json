@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Kê dê li çiyayê Yahwe bilind bibe? û kê dê di cihê pîroziya wî de rabe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "dê bilind bibe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û kê"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "dê rabe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di cihê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroziya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:58.721484330Z",
+  "model": "glm-5.3"
+}

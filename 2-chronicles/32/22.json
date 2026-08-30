@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û Yahwe Yehizqiyayê û ⟨את⟩ niştecihên Yeruşalayimê ji destê Sanherîb, keyê Aşûrê, û ji destê hemûyan xilas kir û wan li dora xwe bi rê ve bir.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "û xilas kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehizqiyayê"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizqiyayê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "niştecihên"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanherîb"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "û ji destê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemûyan"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "û wan bi rê ve bir"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "li dora xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:53:06.637788307Z",
+  "model": "glm-5.3"
+}

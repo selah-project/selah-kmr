@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "û ⟨את⟩ çiraya-ronahiyê û ⟨את⟩ amanetên wê û ⟨את⟩ çirayên wê û ⟨את⟩ rûnê ronahiyê",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çiraya-ronahiyê"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "çiraya"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ronahiyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "amanetên wê"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "amanetên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çirayên wê"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "çirayên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûnê ronahiyê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ronahiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:11.562240769Z",
+  "model": "glm-5.3"
+}

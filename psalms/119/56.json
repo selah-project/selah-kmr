@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ev ji min re bû, ji ber ku min fermanên te parastine.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "min parastine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:24.914225146Z",
+  "model": "glm-5.3"
+}

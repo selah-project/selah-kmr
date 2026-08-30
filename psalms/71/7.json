@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Bo gelek kesan bûme wek nîşaneyekê; lê tu şûnpana hêza min ⟨î⟩.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "wek nîşaneyekê"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûme"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "bo gelek kesan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "lê tu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "şûnpana min"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêz"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:51.789650780Z",
+  "model": "glm-5.3"
+}

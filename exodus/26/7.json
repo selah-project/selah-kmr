@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û tu ê ji bo konê li ser jiwarê pîroz, dîwanên mûyên bizinan çê bikî; sêzdeh dîwanan çê bike ⟨את⟩ wan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "û tu ê çê bikî"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dîwanên"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mûyên bizinan"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ji bo konê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "jiwarê pîroz"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "sêzdeh"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(deh + yek)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dîwanan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "çê bike"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:01.025362840Z",
+  "model": "glm-5.3"
+}

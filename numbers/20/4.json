@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û çima hûn ⟨את⟩ civata Yahwe anîne vê çolê, ku em û dewarên me li wir bi mirin?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "û çima"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "hûn anîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "civata Yahwe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "vê çolê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "למות",
+      "gloss": "bi mirin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "û dewarên me"
+    }
+  ],
+  "timestamp": "2026-08-29T18:49:08.239381105Z",
+  "model": "glm-5.3"
+}

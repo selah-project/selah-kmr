@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Yê şerî li dijî sedefî ployek çêdike, û didanên xwe li ser wî diçirîne.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "ployek çêdike"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yê şerî"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "li dijî sedefî"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "û diçirîne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "didanên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:04.798751598Z",
+  "model": "glm-5.3"
+}

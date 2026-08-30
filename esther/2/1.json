@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Piştî van tiştan, dixwuya ku hêrsa key Axaşveroş kêm bû, ew ⟨את⟩ Waştî bi bîr anî, û ⟨את⟩ ya ku wê kirî bû, û ⟨את⟩ ya ku li ser wê hatibû biryarkirin.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "van tiştan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "dixwuya ku… kêm bû"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hêrsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axaşveroş"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bi bîr anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Waştî"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Waştî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ya ku wê kirî bû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "wê kirî bû"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ya ku li ser wê hatibû biryarkirin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "hatibû biryarkirin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:45.584826038Z",
+  "model": "glm-5.3"
+}

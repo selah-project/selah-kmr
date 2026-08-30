@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 137,
+  "translation": "Li ser çemên Babîlê wir me rûnişt, me girî jî kir, dema me ⟨את⟩ Sîyon bi bîr anî.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çemên"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wir"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "me rûnişt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "me girî kir"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "demea me bi bîr anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sîyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sîyon"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:55.509813789Z",
+  "model": "glm-5.3"
+}

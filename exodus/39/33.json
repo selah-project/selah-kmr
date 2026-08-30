@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û ew ⟨את⟩ çadirê anîn cem Moşe, ⟨את⟩ çadira konê û ⟨את⟩ hemû alavên wê: kokên wê, panelên wê, daranên wê, sitûnên wê û binyanên wê.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ew anîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadirê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "çadirê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadira konê"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadira konê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû alavên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "alavên wê"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "kokên wê"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "panelên wê"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "daranên wê"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "sitûnên wê"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "û binyanên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:12.188336435Z",
+  "model": "glm-5.3"
+}

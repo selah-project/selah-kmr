@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û hûn ê di ⟨את⟩ sala heştem de çandinî bikin û ji berhema kevn bixwin, heta sala nehem, heta ku berhema wê were, hûn ê ya kevn bixwin.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "hûn ê çandinî bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sal"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "heştem"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "û hûn ê bixwin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "berhem"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "kevn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sala"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "nehem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "were"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "berhema wê"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hûn bixwin"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "kevn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:26.875356751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Tu di kirinên destên xwe de serdestiyê didî wî; hemûyan te binê lingên wî danîne.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "tu serdestiyê didî wî"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "di kirinên"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "destên te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "te danî"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "binê"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:32.215538973Z",
+  "model": "glm-5.3"
+}

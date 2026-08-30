@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Elqane çû Ramatayê, ber bi mala xwe ve; û lawik ⟨את⟩ Yahwe bi xizmet dikir, ber çavên Elî kahîn.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Û çû"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqane"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramatayê"
+    },
+    {
+      "surface": "על",
+      "gloss": "ber bi … ve"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala xwe"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "û lawik"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "bi xizmet dikir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ber çavên Elî kahîn"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ber çavên"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elî"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:42.685976242Z",
+  "model": "glm-5.3"
+}

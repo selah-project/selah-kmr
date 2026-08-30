@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ma hûn ji bo min wek zarokên Kûşîyan nîne, gelî zarokên Yîsraêl? — gotina Yahwe. Ma ⟨את⟩ Yîsraêl min ji erda Mîtsrayimê nehirand? Û Filistîyan ji Kaftor, û Eramî ji Kîr.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ma … nîne"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "wek zarokên"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kûşîyan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "בני",
+      "gloss": "gelî zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsraêl"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yîsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsraêl"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "min nehirand"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "Û Filistîyan"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "ji Kaftor"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "û Eramî"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "ji Kîr"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:32.962951874Z",
+  "model": "glm-5.3"
+}

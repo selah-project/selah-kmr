@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û ⟨את⟩ genimê xwe bar kirîn ser kerên xwe û ji wê derê çûn.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "bar kirîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "genimê xwe"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "genimê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kerên xwe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wê derê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:32.336541897Z",
+  "model": "glm-5.3"
+}

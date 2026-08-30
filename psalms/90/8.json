@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Tu gunehên me berî xwe danî, veşartiyên me di ronahiya rûyê xwe de.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Tu … danî"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "gunehên me"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "berî xwe"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "veşartiyên me"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "di ronahiya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:53.547209538Z",
+  "model": "glm-5.3"
+}

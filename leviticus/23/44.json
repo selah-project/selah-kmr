@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Moşe ⟨את⟩ cejnên diyarkirî yên Yahwe ji kurên Îsraêl re ragihand.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cejnên diyarkirî yên Yahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "cejnên diyarkirî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:02.834032802Z",
+  "model": "glm-5.3"
+}

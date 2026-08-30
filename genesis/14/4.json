@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Dwanzdeh salan xizmeta ⟨את⟩ Kedorlaomer kirin, û di salê sêzdehan de serî hildan.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dwanzdeh"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xizmet kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "û di sêzdehan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salê"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "serî hildan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:16.375716648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Û bi peyvên nefretê dorî min girtine, û bê sedem şerê min kirine.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "û bi peyvên"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nefretê"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "dorî min girtine"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "û şerê min kirine"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bê sedem"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.024527836Z",
+  "model": "glm-5.3"
+}

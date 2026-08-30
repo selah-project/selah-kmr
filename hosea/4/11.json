@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Zînakirin û şerab û şeraba nû dil dibirin.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "zînakirin"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "û şerab"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "û şeraba nû"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dibirin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:22.157372791Z",
+  "model": "glm-5.3"
+}

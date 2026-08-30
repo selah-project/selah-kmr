@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Dema Dawid qurbankirina qurbana-şewatê û ya qurbanên-aştiyê xilas kir, ew ⟨את⟩ qewmî bi navê Yahwe bérketî kir.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "xilas kir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ji qurbankirinê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana-şewatê"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "qurbanên-aştiyê"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bérketî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qewmî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "qewm"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:25.713339769Z",
+  "model": "glm-5.3"
+}

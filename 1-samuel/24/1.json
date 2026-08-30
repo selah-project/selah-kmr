@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Dawid ji wir bilind bû, û li bendûrên En Gedî rûnişt.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "li bendûrên"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:52.004035954Z",
+  "model": "glm-5.3"
+}

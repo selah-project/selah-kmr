@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "⟨את⟩ malê bi xwîna çûkê, bi ava zindî, bi çûka zindî, bi darê sedirê, bi zûfê û bi şînîya kirmê paqij dike.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "paqij dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "bi xwînê"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "çûkê"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "bi avê"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "bi çûka"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "bi darê"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "sedirê"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "bi zûfê"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "bi şînîya"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "kirmê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:47.176644252Z",
+  "model": "glm-5.3"
+}

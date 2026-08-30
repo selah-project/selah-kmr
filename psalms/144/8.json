@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Ku devê wan derewê dipeyive û rastê wan destê derewê ye.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "devê wan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dipeyive"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "derew"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "û rastê wan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dest (rast)"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:23.403553237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û xulamên Şaul ji wî re ragihandin û gotin: Dawid bi van gotinan axivî.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ragihandin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "bi van gotinan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-29T19:43:20.584069211Z",
+  "model": "glm-5.3"
+}

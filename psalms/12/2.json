@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Rizgar bike, Yahwe, çunku xelîs bi dawî hatine; çunku dilsoz ji kurên mirovan winda bûne.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çunku"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "bi dawî hatine"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "xelîs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çunku"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "winda bûne"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "dilsoz"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:40.139019191Z",
+  "model": "glm-5.3"
+}

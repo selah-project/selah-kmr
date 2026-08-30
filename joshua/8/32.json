@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û li wir li ser keviran ⟨את⟩ kopiya Toretê Moşe nivîsî, ku wî berdevaniya kurên Yisrael nivîsîbû.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "û nivîsî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "keviran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopiya Toretê Moşe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kopiya"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toretê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "nivîsîbû"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berdevaniya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:05.790298677Z",
+  "model": "glm-5.3"
+}

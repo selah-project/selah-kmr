@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û mêrên ku bi wî re bûn, Dawid wan bilind kirin — her mêr û malbata wî — û li bajarên Hevronê bi cih bûn.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Û mêrên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bilind kirin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her mêr"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "û malbata wî"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "û bi cih bûn"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "li bajarên"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:46.169957145Z",
+  "model": "glm-5.3"
+}

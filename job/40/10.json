@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Niha bilindahî û serbilindî li xwe bike, û rûmet û şewq li xwe lixin.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "li xwe bike"
+    },
+    {
+      "surface": "נא",
+      "gloss": "niha"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "serbilindî"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "û bilindahî"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "û rûmet"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "û şewq"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "li xwe lixin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:01:58.060697841Z",
+  "model": "glm-5.3"
+}

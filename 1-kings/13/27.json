@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ji kurên xwe re got, ku: Ji bo min ⟨את⟩ ker bihelînin. Û ew bihelandin.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "bihelînin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ker"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ker"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "û ew bihelandin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:04.934939652Z",
+  "model": "glm-5.3"
+}

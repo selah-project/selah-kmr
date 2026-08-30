@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Wî Îsraêl ⟨את⟩ bîst û sê salan darizand, çû ser dilovaniya xwe û li Şamirê hat veşartin.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "darizand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "çû ser dilovaniya xwe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "hat veşartin"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "li Şamirê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:29:16.693781355Z",
+  "model": "glm-5.3"
+}

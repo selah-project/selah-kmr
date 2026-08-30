@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Ez ê di xesedê te de bi coş û şahî bikim, ji ber ku tu ⟨את⟩ bela min dîtî; tu di tengasiyên canê min zanî.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "ez ê bi coş bikim"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "û şa bibim"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "di xesedê te de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "tu dîtî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bela min"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "bela min"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu zanî"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "di tengasiyên"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:38.279583155Z",
+  "model": "glm-5.3"
+}

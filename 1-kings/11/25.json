@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ew bû dijminê Yisraêlê tevaya rojên Şelomo, ligel ⟨את⟩ xerabîyê ku Hadad kirî, ew bihov bû ji Yisraêlê û li ser Aramê padîşahî kir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevaya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xerabîyê"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "xerabîyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "bihov bû"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "padîşahî kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:06.092429315Z",
+  "model": "glm-5.3"
+}

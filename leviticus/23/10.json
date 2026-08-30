@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Bi kurên Îsraêl re bêje û ji wan re bêje: Gava hûn dikevin nav erdê ⟨a⟩ ku ez didim we û dereka wê didirûnin, wê ⟨את⟩ omerê — yekemhêrîna dereka xwe — bînin cem ⟨kahînê⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "û ji wan re bêje"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "hûn dikevin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "didim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "we"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "û dereka wê didirûnin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dereka wê"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "dereka wê"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "wê bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerê"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omerê"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "yekemhêrîna"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "dereka xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:22.094816094Z",
+  "model": "glm-5.3"
+}

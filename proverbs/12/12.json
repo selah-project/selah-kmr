@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Êrşîv tora êran daxwaz dike, lê köka sadiqan didin.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "daxwaz dike"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "êrşîv"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "tora"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "êran"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "lê köka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sadiqan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "didin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:55.680362705Z",
+  "model": "glm-5.3"
+}

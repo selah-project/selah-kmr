@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 24:8",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Kurekê hijdeh salan Yehoyakîn bû dema ew padîşah bû, û sê mehan li Yeruşalayimê padîşahî kir; navê diya wî Nehûşta bû, keça Elnatan a ji Yeruşalayimê.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "kurekê"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "hijdeh"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakîn"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "dema ew padîşah bû"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mehan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahî kir"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayimê"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "û navê"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "diya wî"
+    },
+    {
+      "surface": "נחשתא",
+      "gloss": "Nehûşta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatan"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ji Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:25:52.955408680Z",
+  "model": "glm-5.3"
+}

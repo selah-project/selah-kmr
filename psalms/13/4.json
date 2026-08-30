@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Binêre, bersiva min bide, Yahwe Elohîmê min! Çavên min ronahî bike, da ku ez xewna mirinê nexewim!",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bersiva min bide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "ronahî bike"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ku ... ne"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "nexewim"
+    },
+    {
+      "surface": "המות",
+      "gloss": "xewna mirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:37.203994215Z",
+  "model": "glm-5.3"
+}

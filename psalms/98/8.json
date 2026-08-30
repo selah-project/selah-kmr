@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 98,
+  "translation": "Bila çem destê xwe bikin, bi hev re çiyayan bi kêfî bin.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "çem"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "destê xwe bikin"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dest"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyayan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bi kêfî bin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:24.948380747Z",
+  "model": "glm-5.3"
+}

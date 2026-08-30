@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Da Dawid gazî yekê ji xortan kir û got: «Nêzîk bibe, li ser wî bike.» Û wî wî li dar xist, û ew mir.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "ji xortan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "גש",
+      "gloss": "nêzîk bibe"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "li ser wî bike"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wî li dar xist"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:16.239984117Z",
+  "model": "glm-5.3"
+}

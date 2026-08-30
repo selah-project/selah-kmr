@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Di wê rojê de nêrgizotin (צמח) a Yahwe dî bide, û bide rûmetiyan, û berê erdê dî bide serbilindî û bedewiyan, ji bo dawiya Îsraêlê ya ku riziyaye.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dî bibe"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "nêrgizotin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "bide"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "û bide rûmetiyan"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "û berê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "bide serbilindî"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "û bedewî"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "ji bo dawiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:19.568475742Z",
+  "model": "glm-5.3"
+}

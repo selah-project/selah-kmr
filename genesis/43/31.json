@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Rûyê xwe şu û derket û xwe girt û got: «Nanê (xwarinê) bînin.»",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "şu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "xwe girt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:39.231359027Z",
+  "model": "glm-5.3"
+}

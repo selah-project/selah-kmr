@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û destê wî dê ber bi bakur ve dirêj bike, ⟨את⟩ Aşûr hilweşîne, û ⟨את⟩ Nînwe bike welatê wêran — ziwa, wek çolê.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "dirêj bike"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bakur"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "hilweşîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşûr"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûr"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nînwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nînwe"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "welatê wêran"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ziwa"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "wek çolê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:05:25.797941667Z",
+  "model": "glm-5.3"
+}

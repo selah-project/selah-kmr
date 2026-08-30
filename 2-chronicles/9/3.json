@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û şahbanûya Şeba ⟨את⟩ şîretiya Shlomo dît, û mala ku wî çêkiribû.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Û… dît"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "şahbanûya"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şîretiya Shlomo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "şîretiya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "û mala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wî çêkiribû"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:32.312164380Z",
+  "model": "glm-5.3"
+}

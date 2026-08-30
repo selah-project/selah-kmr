@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Çimkî di hêrsê de kêlekê ⟨ye⟩, di raza wî de jî jiyan ⟨heye⟩; êvarê grî dihewe û gerîne, sibê jî dengê stranan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "kêlekê"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "di hêrsê de"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyan"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "di raza wî de"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "êvarê"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "dihewe û gerîne"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "grî"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "sibê jî"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "dengê stranan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:25.112047836Z",
+  "model": "glm-5.3"
+}

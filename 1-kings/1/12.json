@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û êdî here, erê kerema xwe, ez ê şîretan bidim te û tu ⟨את⟩ canê xwe û ⟨את⟩ canê kurê xwe Şelomo rizgar bike.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "û êdî"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "here"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ez ê şîretan bidim te"
+    },
+    {
+      "surface": "נא",
+      "gloss": "erê kerema xwe"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "şîret"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "û … rizgar bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê xwe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "canê kurê xwe Şelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canê"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    }
+  ],
+  "timestamp": "2026-08-29T20:00:26.733740041Z",
+  "model": "glm-5.3"
+}

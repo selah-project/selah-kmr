@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 98,
+  "translation": "Yahwe rizgariya xwe nîşan da; di ber çavên netewanan de duristiya xwe eşkere kir.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "nîşan da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "rizgariya xwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di ber çavên"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "netewanan de"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "eşkere kir"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "duristiya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:22.355563292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ⟨את⟩ têketina Debîrê çê kir: deriyên ji darê zeytê; hilmil û direnkên kêlekê pêncî par.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "têketina Debîrê"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "têketina"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debîrê"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çê kir"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ji darê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zeytê"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "hilmil"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "direnkên kêlekê"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "pêncî par"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:06.152972745Z",
+  "model": "glm-5.3"
+}

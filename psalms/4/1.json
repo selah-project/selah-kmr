@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ji bo serokê muzîkê, bi sazên têlan, mezmûreke Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "bi sazên têlan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmûr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ê Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:50.906383626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Yê ku bi başîyan xemîla te têr dike, ciwaniya te wek balindeyê tê nûkirin.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "têr dike"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "bi başîyan"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "xemîla te"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "tê nûkirin"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "wek balindeyê"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "ciwaniya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:27.671863157Z",
+  "model": "glm-5.3"
+}

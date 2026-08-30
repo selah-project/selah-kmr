@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Wê wan bi gurzê hesin bişkîne û perçe perçe bike, wek amûra kûzker wê wan înî bike.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "wê wan bişkîne"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bi gurzê"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hesin"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "wek amûra"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "kûzker"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "wê wan înî bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:54.781931114Z",
+  "model": "glm-5.3"
+}

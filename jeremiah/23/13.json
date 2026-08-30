@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û di pêxemberên Şomeron de ez reş û têkçûnê dîtim: ew bi Baal pêxemberî kirin û gelê min ⟨את⟩ Yisraêl şaş kirin.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "Û di pêxemberên"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ez dîtim"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "reş û têkçûnê"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "pêxemberî kirin"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "bi Baal"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "û şaş kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê min"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:58:47.846018592Z",
+  "model": "glm-5.3"
+}

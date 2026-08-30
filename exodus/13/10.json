@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û tu ⟨את⟩ vê destûrê di dema wê de biparêzî, ji salê bo salê.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Û tu biparêzî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê destûrê"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "vê destûrê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "di dema wê de"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ji salê"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "bo salê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:11.401582950Z",
+  "model": "glm-5.3"
+}

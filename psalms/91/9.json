@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Ji ber ku tu yî, Yahwe, penahiya min; te Elyon kir ⟨cihê⟩ rûniştina xwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "penahiya min"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "te danîn"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "cihê rûniştina te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:15.437498737Z",
+  "model": "glm-5.3"
+}

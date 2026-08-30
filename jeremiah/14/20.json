@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Me nas kir, Yahwe, neyînîya me û sûcên bavên me; çinku me li hember te guneh kirîye.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "me nas kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "neyînîya me"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sûc"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "me guneh kir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li hember te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:56:12.819315179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Wê derê şewatên tîrên kevanê şiband — mil û şûr û şer. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "wê derê"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "şiband"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "şewatên tîr"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kevanê"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "û şûr"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "û şer"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:04.080998301Z",
+  "model": "glm-5.3"
+}

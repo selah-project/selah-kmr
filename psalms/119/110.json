@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Sedemî danêl xwar bûn ji bo min, û ji fermanên te Ez û Xwedê şaş neçûm.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "danêl xwar bûn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sedemî"
+    },
+    {
+      "surface": "פח",
+      "gloss": "dêl (xwar)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "û ji fermanên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "Ez û Xwedê şaş neçûm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:41.993488883Z",
+  "model": "glm-5.3"
+}

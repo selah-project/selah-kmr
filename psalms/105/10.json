@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "û ew ji bo Yakûb wekî qanûnekî û ji bo Yisraêl wekî peymaneke her-demî saz kir.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "û ew saz kir"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ji bo Yakûb"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "wekî qanûnekî"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ji bo Yisraêl"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymaneke"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "her-demî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:20.369345081Z",
+  "model": "glm-5.3"
+}

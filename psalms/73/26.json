@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Goştê min û dilê min diqedin, lê kevirê dilê min û pare min Elohîm ⟨e⟩, heta hertimî.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "diqedin"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "goştê min"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "û dilê min"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kevir"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "û pare min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:40.759340920Z",
+  "model": "glm-5.3"
+}

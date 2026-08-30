@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Çawa bextiyar e yê ku bi şêwiran li feqîran dinerê; Yahwe wî di roja xerabiyê de rizgar dike.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Çawa bextiyar e"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bi şêwiran dinerê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "דל",
+      "gloss": "feqîran"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "rizgar dike wî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:28.830131289Z",
+  "model": "glm-5.3"
+}

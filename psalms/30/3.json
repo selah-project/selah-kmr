@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Yahwe, Elohîm ê min, bi ser te qîrîm û te min baş kir ⟨ji nû ve⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm ê min"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "qîrîm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bi ser te"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "û te min baş kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:48.779477991Z",
+  "model": "glm-5.3"
+}

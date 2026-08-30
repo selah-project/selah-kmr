@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Tu yê ⟨את⟩ rûyê efûyê daneyî ser sandoqê ji jor ve, û ⟨את⟩ şahidiyê yê ez ê bidim te, daneyî nav sandoqê.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "daneyî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê efûyê"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "rûyê efûyê"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandoqê"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ji jor ve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û nav"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandoqê"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daneyî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şahidiyê"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şahidiyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:37.685320857Z",
+  "model": "glm-5.3"
+}

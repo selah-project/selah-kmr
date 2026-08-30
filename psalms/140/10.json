@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Serê wan ên dora-min didorîne — zehmetiya lêvên wan bihêtin wî bipeçe.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "dora-min didorîne"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zehmetiya"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lêvên wan"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "bihêtin bipeçe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:56.249281815Z",
+  "model": "glm-5.3"
+}

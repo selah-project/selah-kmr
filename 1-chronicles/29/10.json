@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Dawid li ber çavê tevahiya civatê ⟨את⟩ Yahwe birêz kir û Dawid got: Birêz î tu, Yahwe, Elohîmê Yisrael, bavê me, ji êdî heyî û heta hertim.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "birêz kir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "li ber çavê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "birêz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bavê me"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ji êdî heyî"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:42:02.302764881Z",
+  "model": "glm-5.3"
+}

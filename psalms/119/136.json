@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Kanalên avê ji çavên min dakêtin, ji ber ku ew Tora te neparêztin.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "kanalên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "dakêtin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ji çavên min"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "parêztin"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:18.162505529Z",
+  "model": "glm-5.3"
+}

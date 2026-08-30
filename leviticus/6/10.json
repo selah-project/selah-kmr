@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Nabe bi hevirê were pemdan; parê wan min ⟨את⟩ wê ji pêşkêşên agirê min daye; pîroza pîrozan e ew, wek qurbanê gunehê û wek qurbanê sûc.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nabe"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "were pemdan"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "bi hevirê"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "parê wan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min daye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ji pêşkêşên agirê min"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroza"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pîrozan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "wek qurbanê gunehê"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "û wek qurbanê sûc"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:39.854023935Z",
+  "model": "glm-5.3"
+}

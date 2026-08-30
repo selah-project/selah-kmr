@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Lê tu, Yahwe, dê bi wan bi kenî; dê hemû netewan binirxînî.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lê tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "dê bi kenî"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "dê binirxînî"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "netewan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:31.262544050Z",
+  "model": "glm-5.3"
+}

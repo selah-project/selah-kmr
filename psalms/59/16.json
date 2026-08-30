@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Ew ji bo xwarinê li vir û li wir digerin; ger têr nebin, êvarê dimînin.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "li vir û li wir digerin"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ji bo xwarinê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "têr bibin"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "êvarê dimînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:31.830551727Z",
+  "model": "glm-5.3"
+}

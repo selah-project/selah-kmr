@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 114,
+  "translation": "Yê ku kevirê Veguhirand kêlekan-avê, kevirê-çeqewişî jî bo kanîyên avê",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Yê ku ... Veguhirand"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "kevirê"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "kêlekan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "kevirê-çeqewişî"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "bo kanîyên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.699662941Z",
+  "model": "glm-5.3"
+}

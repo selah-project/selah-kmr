@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Giyanên xwe ⟨את⟩ bi tu xwîjoka ku xwîjokî dike bêrûmet nekin, û bi wan mexalit nekin, da ku hûn bi wan nexalit bibin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nekin"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "bêrûmet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giyanên xwe"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "giyanên xwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tu"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "xwîjoka"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "xwîjokî dike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "mexalit nekin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "da ku hûn nexalit bibin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bi wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:28:03.379991174Z",
+  "model": "glm-5.3"
+}

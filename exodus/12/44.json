@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û her koleyekî mêr, yê bi zêr hatîye kirîn — gava tu ⟨את⟩ wî sûnbet bikî, wê çaxê ew ê dê wê bixwe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Û her"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "koleyekî"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "yê hatîye kirîn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bi zêr"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "û gava tu … sûnbet bikî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wê çaxê"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dê bixwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dê wê (pê)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:49.785318705Z",
+  "model": "glm-5.3"
+}

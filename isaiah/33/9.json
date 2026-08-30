@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Şîn bû, hêvî xwar bû erd; Lubnan şermîn bû, ziwa bû; Şaron bû wek çolê, û Bişan û Karmel lerizîn.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "şîn bû"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "hêvî xwar bû"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "şermîn bû"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnan"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "ziwa bû"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Şaron"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "wek çolê"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "û lerizîn"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bişan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "û Karmel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:36:56.573632493Z",
+  "model": "glm-5.3"
+}

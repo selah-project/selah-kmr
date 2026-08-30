@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 120,
+  "translation": "Yahwe, canê min ji lêvên derewê û ji zimanê xeyînî rizgar bike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "ji lêvên"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewê"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "ji zimanê"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "xeyînî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:11.218738869Z",
+  "model": "glm-5.3"
+}

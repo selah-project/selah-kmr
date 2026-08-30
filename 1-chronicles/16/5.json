@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 16:5",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Asaf ⟨serê⟩, û duyemînê wî Zekaryah; Yeiel û Shemiramot û Yehiel û Mattityah û Eliab û Benayahu û Oved-Edom û Yeiel, bi amûrên nabal û bi kinnoran; û Asaf bi mesiltayim deng diderxist.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "ומשנהו",
+      "gloss": "û duyemînê wî"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekaryah"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeiel"
+    },
+    {
+      "surface": "ושמירמות",
+      "gloss": "û Shemiramot"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "û Yehiel"
+    },
+    {
+      "surface": "ומתתיה",
+      "gloss": "û Mattityah"
+    },
+    {
+      "surface": "ואליאב",
+      "gloss": "û Eliab"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "û Benayahu"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "û Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "ויעיאל",
+      "gloss": "û Yeiel"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "bi amûrên"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "nabal"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "û bi kinnoran"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "û Asaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "bi mesiltayim"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "deng diderxist"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:19.971572597Z",
+  "model": "glm-5.3"
+}

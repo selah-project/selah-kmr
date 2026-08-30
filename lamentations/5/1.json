@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Yahwe, bibîre çi li me qewimî; binêre û ⟨את⟩ ruspetiya me bibîne.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "bibîre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "qewimî"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "li me"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "û bibîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruspetiya me"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ruspetiya me"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:10.316448433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ê di dawiyê de bû, di dawiya bîst salan de, dema Şelomo ava kir ⟨את⟩ xaniya Yahwe û ⟨את⟩ xaniya xwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "di dawiyê de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dema"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaniya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "xaniya xwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "xaniya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:36.108074610Z",
+  "model": "glm-5.3"
+}

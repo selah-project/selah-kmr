@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Bedewiya wê di dilê xwe de nexwaze, û bila wê bi çavikên xwe te negire.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "nexwaze"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "bedewiya wê"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "di dilê xwe de"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "te negire"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "bi çavikên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:46.175486937Z",
+  "model": "glm-5.3"
+}

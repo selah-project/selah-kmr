@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ⟨את⟩ Bosmathê, keça Yîşmaêlê, xûşka Nevayotê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Bosmathê"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmathê"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yîşmaêlê"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "xûşka"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayotê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:40.421310731Z",
+  "model": "glm-5.3"
+}

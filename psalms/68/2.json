@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Bila Elohîm rabibe — dijminên wî bên belavkirin, û yên ku ji wî nefret dikin ji ber rûyê wî bifirin.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "bila rabibe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "bên belavkirin"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "dijminên wî"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "û bifirin"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "yên ku ji wî nefret dikin"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ji ber rûyê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:59.228113753Z",
+  "model": "glm-5.3"
+}

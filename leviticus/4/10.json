@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Wekî ku ji ga yê qurbana aştiyan tê rakirin; û kahîn wan li ser altara qurbana şewatê dişewitîne.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Wekî ku"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "tê rakirin"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ji ga"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbana"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "aştiyan"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "û dişewitîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "şewatê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:44.392685931Z",
+  "model": "glm-5.3"
+}

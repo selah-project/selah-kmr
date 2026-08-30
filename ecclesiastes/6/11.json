@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ji ber ku gelek gotin hene ku pûşiyê zêde dikin — ji bo mirov çi feyde heye?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hene"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "zêde dikin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pûşiyê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "feyde"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ji bo mirov"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:39.949512993Z",
+  "model": "glm-5.3"
+}

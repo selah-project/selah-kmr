@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Riya fermanên te de dûrim, ji ber ku dilê min fireh dikî.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "riya"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "de dûrim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "fireh dikî"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:03.155693589Z",
+  "model": "glm-5.3"
+}

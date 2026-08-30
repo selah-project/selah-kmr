@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Bira kes nikare bi tu awayî bifilîne; kes nikare fidyeya wî bide Elohîm.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Bira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nikare"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "bi tu awayî bifilîne"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "bifilîne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nikare"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "fidyeya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:04.349650874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ji nîvê êla Menaşe ⟨את⟩ Anerê û ⟨את⟩ deştên wê û ⟨את⟩ Bilamê û ⟨את⟩ deştên wê, ji malbata zarokên Qehat ên mayî re",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "û ji nîvê"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "êlê"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anerê"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Anerê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bilamê"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ji malbata"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo zarokên"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehat"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "ên mayî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:01.150816263Z",
+  "model": "glm-5.3"
+}

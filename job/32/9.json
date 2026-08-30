@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Ne yên mezin in ku biaqil bin, û ne yên kal in ku dadrîyê ⟨fêhm⟩ bikin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yên mezin"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "biaqil bin"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "û yên kal"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "fêhm bikin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadrîyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:59:44.591450351Z",
+  "model": "glm-5.3"
+}

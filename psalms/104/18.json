@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Çiyayên bilind ji bo keçên çiyayan in; zinar panahî ji bo kûzikan in.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "ji bo keçên çiyayan"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "zinar"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "panahî"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "ji bo kûzikan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:48.996877087Z",
+  "model": "glm-5.3"
+}

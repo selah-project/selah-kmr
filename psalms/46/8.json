@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Yahwe-yê Tsêvaot bi me re ye; hêlîna me Elohîmê Yaqov e. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsêvaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bi me re"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "hêlîn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:47.471881066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Stran a stranan, ya Şelomoyî ye.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "stranan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ya Şelomoyî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:57.083443330Z",
+  "model": "glm-5.3"
+}

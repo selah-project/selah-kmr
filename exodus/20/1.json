@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Elohîm van hemû peyvan ⟨את⟩ bi axaftin got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van hemû peyvan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bi axaftin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:21.930995029Z",
+  "model": "glm-5.3"
+}

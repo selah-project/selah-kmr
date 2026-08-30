@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û Avimelech ji Yîtshaq re got: “Here ji me, ji ber ku tu ji me pir zêde hêztir bûyî.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtshaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Here"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "ji me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "hêztir bûyî"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji me"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir zêde"
+    }
+  ],
+  "timestamp": "2026-08-29T17:46:21.139302395Z",
+  "model": "glm-5.3"
+}

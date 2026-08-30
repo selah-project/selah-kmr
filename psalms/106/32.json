@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Wê li avên Merîba hêrs kirin, û ji ber wan xerabî ji bo Moşe çêbû.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "hêrs kirin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merîba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "xerabî çêbû"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ji bo Moşe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ji ber wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:55.603625234Z",
+  "model": "glm-5.3"
+}

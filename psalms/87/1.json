@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 87,
+  "translation": "Ji zarên Korah re — mezamûr, stran. Bingeha wî li çiyayên pîroz e.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ji zarên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezamûr"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "bingeha wî"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "li çiyayên"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:34.182174144Z",
+  "model": "glm-5.3"
+}

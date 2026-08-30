@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji eşîra Binjaminî ⟨את⟩ Gîbʿonê bi çolên wê, ⟨את⟩ Gêba bi çolên wê.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "û ji eşîra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gîbʿonê"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gîbʿonê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çolên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bi çolên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gêba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gêba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çolên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bi çolên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:46.724098017Z",
+  "model": "glm-5.3"
+}

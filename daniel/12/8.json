@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ez bihîstim, lê fêm nekir; min got: Adonayê min, dawiya van çi ye?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "bihîstim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê … ne"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "fêm nekir"
+    },
+    {
+      "surface": "ויאמרה",
+      "gloss": "min got"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayê min"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dawiya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-30T06:21:44.407329014Z",
+  "model": "glm-5.3"
+}

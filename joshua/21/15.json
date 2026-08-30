@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ⟨את⟩ Xolon û ⟨את⟩ çêzên wê, û ⟨את⟩ Devîr û ⟨את⟩ çêzên wê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Xolon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Xolon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêzên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêzên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Devîr"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devîr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêzên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêzên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:53.558973501Z",
+  "model": "glm-5.3"
+}

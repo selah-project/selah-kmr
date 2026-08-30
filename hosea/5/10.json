@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Serokên Yehûda bûn wekî wan ên ku sînorî barkirin; li ser wan ez ê hêrsa xwe wekî av rijandim.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Serokên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "wekî yên ku barkirin"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sînorî"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ez rijandim"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wekî av"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "hêrsa min"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:20.537768414Z",
+  "model": "glm-5.3"
+}

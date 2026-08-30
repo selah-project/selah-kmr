@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ji ber vê yekê ez ⟨את⟩ jinên wan didim yên din, û zeviyên wan ji bo mîrasgiran; ji ber ku ji piçûk ve heta mezin hemû tamayî dikin tamayî, ji pêxember ve heta kahîn hemû derew dikin.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ji ber vê yekê"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ez didim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinên wan"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "jinên wan"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ji bo yên din"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "zeviyên wan"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "ji bo mîrasgiran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ji piçûk ve"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "tamayî dikin"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "tamayî"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "ji pêxember ve"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dikin"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    }
+  ],
+  "timestamp": "2026-08-29T20:53:33.268430328Z",
+  "model": "glm-5.3"
+}

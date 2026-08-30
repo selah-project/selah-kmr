@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ger tu di riyanên min de biçî û biryarnameyên min û fermanên min biparêzî, wekî ku Dawid, bavê te, çû, ez ê ⟨את⟩ rojên te dirêj bikim.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "biçî"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di riyanên min de"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "biparêzî"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "biryarnameyên min"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "û fermanên min"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "ez ê dirêj bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rojên te"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "rojên te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:10.260067135Z",
+  "model": "glm-5.3"
+}

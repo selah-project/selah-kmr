@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Bi tembêlîyê orîsî dadikeve, û bi lawazîya destan mal dipiwit.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "bi tembêlîyê"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "dadikeve"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "orîsî"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "û bi lawazîya"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "destan"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "dipiwit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mal"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:22.006672016Z",
+  "model": "glm-5.3"
+}

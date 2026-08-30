@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ⟨את⟩ Arwadî û ⟨את⟩ Zemarî û ⟨את⟩ Hamatî; û piştre malbatên Kenanî belav bûn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Arwadî"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Zemarî"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Zemarî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hamatî"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamatî"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "piştre"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "belav bûn"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:45.705986517Z",
+  "model": "glm-5.3"
+}

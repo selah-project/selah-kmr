@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Haman ⟨את⟩ libas û ⟨את⟩ hesp girt, ⟨את⟩ Mordekhay xwe bi wî kir û wî siwar kir di meydana bajarê, û li pêş wî bang kir: «Wisa tê kirin ji bo mêrê ku padîşah dilşad e ku wî rûmet bike.»",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libas"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "libas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hesp"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hesp"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "xwe bi wî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "û wî siwar kir"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "di meydana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bang kir"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li pêş wî"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tê kirin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ji bo mêrî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dilşad e"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "ku wî rûmet bike"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:46.939076596Z",
+  "model": "glm-5.3"
+}

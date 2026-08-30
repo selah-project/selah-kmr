@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "wê li wir jî destê te min rê dibe û rastika te min digire.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "min rê dibe"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "û min digire"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "rastika te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:19.527656065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Yahwe ⟨את⟩ xwedî tirsên xwe dixwaze, ⟨את⟩ wan ên ku li benda xesed-a wî ne.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "dixwaze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwedî tirsên xwe"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "xwedî tirsên xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wan ên ku li benda xesed-a wî ne"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "wan ên ku li bendê ne"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "xesed-a wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:40.195212999Z",
+  "model": "glm-5.3"
+}

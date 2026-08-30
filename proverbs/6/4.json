@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ji çavên xwe re xew meble, û ji birçikên xwe re çavbarîtin meble.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "meble"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "meble"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "xew"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ji çavên xwe re"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "û çavbarîtin"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ji birçikên xwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:17.946548599Z",
+  "model": "glm-5.3"
+}

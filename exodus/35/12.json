@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "⟨את⟩ aronê (sandûqê), û ⟨את⟩ darikên wî, ⟨את⟩ kapporetê (ser-kefê), û ⟨את⟩ parokhetê — perdeya masachê",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aronê"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronê (sandûqê)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darikên wî"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "darikên wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapporetê"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporetê (ser-kefê)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parokhetê"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parokhetê (perde)"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "masachê (perdeya pêşî)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:11.119583445Z",
+  "model": "glm-5.3"
+}

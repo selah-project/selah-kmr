@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û ⟨את⟩ her du kurên wê, ku navê yekî Gêrşom bû — çimkî got: “Ez penaber bûm di welatekî biyanî de.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "her du kurên wê"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "kurên wê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gêrşom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "גר",
+      "gloss": "penaber"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûm"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatî de"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "biyanî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:08.163940383Z",
+  "model": "glm-5.3"
+}

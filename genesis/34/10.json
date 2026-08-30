@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û hûn ⟨את⟩ me re bi cih bin, û erd ⟨is⟩ li ber we be; bi cih bin, wê bazirganî bikin û di wê de xwe bi cih bikin.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ me re"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "bi cih bin"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "û erd"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "be"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "li ber we"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bi cih bin"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "wê bazirganî bikin"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "xwe bi cih bikin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di wê de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:31.941490520Z",
+  "model": "glm-5.3"
+}

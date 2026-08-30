@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û di ciniqandina we ya ⟨את⟩ ciniqîna erda we de, dawiya zeviya xwe necinin, û berê mayî yê ciniqîna xwe netînin.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "û di ciniqandina we de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciniqîn"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ciniqîn"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "erda we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "necinin"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "dawiya"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "zeviya te"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "bê ciniqandin"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "û berê mayî"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ciniqîna te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "netînin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:03.862342986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Alîkariya te ji Cihê-Pîroz bişîne û ji Siyonê te piştgirî bike.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "bişîne"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "Alîkariya te"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ji Cihê-Pîroz"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "û ji Siyonê"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "te piştgirî bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:15.821938627Z",
+  "model": "glm-5.3"
+}

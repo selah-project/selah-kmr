@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ger ez ji bo yê ku digel min di aşitiyê de bû bi xerabî mezdariyê kiribe, û ez dijminê xwe yê bêsedem rizgar kiribe —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "mezdariyê kiribe"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "yê ku digel min di aşitiyê de bû"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bi xerabî"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "û rizgar bikim"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dijminê min"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bêsedem"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:55.722079059Z",
+  "model": "glm-5.3"
+}

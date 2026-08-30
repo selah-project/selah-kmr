@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Moşe çû û ⟨את⟩ van gotinan ji bo hemû Îsraêl re got.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "got"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van gotinan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "van gotinan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo … re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:12:48.173260132Z",
+  "model": "glm-5.3"
+}

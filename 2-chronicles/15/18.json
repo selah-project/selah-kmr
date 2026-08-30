@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û wî ⟨את⟩ pîrozên bavê xwe û pîrozên xwe aniye malê Elohîm — zîv û zêr û amûr.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pîrozên bavê xwe"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pîrozên"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "û pîrozên wî"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "û zêr"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "û amûr"
+    }
+  ],
+  "timestamp": "2026-08-30T06:46:44.545386782Z",
+  "model": "glm-5.3"
+}

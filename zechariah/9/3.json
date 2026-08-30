@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Sur ji xwe re bendepek ava kir, zîv wekî toz û zêr wekî çîkê kolanan kom kir.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "bendepek"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "kom kir"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "wekî toz"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "û zêr"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "wekî çîkê"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "kolanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:08:41.742841704Z",
+  "model": "glm-5.3"
+}

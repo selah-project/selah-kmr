@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Nefşên ku pirr dibexşin têne xurtkirin, û yê ku av dide, ew jî tê şilandê.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefş"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bexşandî"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "tê xurtkirin"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "û yê ku av dide"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "tê şilandê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:31.279958100Z",
+  "model": "glm-5.3"
+}

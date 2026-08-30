@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ew ⟨את⟩ çavê tevahiya erdê girt, û erd tarî bû; ew ⟨את⟩ tevahiya giyayê erdê û ⟨את⟩ tevahiya fêkiyên daran, ku terelê wan hişibû, xwar; û tu kesk di dar û giyayê zeviyê de, di tevahiya erdê Mîtsrayimê de, nemabû.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavê tevahiya erdê"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çavê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "û tarî bû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya giyayê erdê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "giyayê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya fêkiyên daran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fêkiyên"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "hişibû"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "terelê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nemabû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "kesk"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "di dar"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "û giyayê"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di tevahiya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:23.896279038Z",
+  "model": "glm-5.3"
+}

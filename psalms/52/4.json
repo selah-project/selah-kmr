@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Zimanê te wêraniyê diguncîne, wekî tûjerekî ronakirî, ê çêkerê xîyanetê.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "wêranî"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "diguncîne"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "zimanê te"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "wekî tûjerekî"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "ronakirî"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkerê"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "xîyanetê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:08.550623837Z",
+  "model": "glm-5.3"
+}

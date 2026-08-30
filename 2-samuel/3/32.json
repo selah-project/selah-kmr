@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ⟨את⟩ Avner li Hebron veşartin; û key ⟨את⟩ dengê xwe bilind kir û li gorê Avner giriya, û hemû gel girîyan.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "veşartin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "li Hebron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê wî"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "dengê wî"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "û giriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "gor"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "û girîyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-29T19:49:47.221969219Z",
+  "model": "glm-5.3"
+}

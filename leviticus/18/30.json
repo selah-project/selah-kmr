@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û hûn parastina min bi cih bînin, da ku hûn ji distûrên rerên ku berî we hatine kirin nekin, û hûn bi wan xwe nexemilînin: ez im Yahwe, Elohîmê we.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Û hûn bi cih bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parastina min"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "parastina min"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ku nekin"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "nekin"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "ji distûrên"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "rerên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "hatine kirin"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "berî we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "xwe nexemilînin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:36.322875460Z",
+  "model": "glm-5.3"
+}

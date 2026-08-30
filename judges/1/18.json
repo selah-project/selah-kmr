@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Yahuda ⟨את⟩ Ezzayê û ⟨את⟩ sînorê wê, û ⟨את⟩ Aşqelonê û ⟨את⟩ sînorê wê, û ⟨את⟩ Eqronê û ⟨את⟩ sînorê wê girt.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "girt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ezzayê"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ezza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sînorê wê"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sînorê wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aşqelonê"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aşqelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sînorê wê"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sînorê wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eqronê"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Eqron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sînorê wê"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sînorê wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:31.311700352Z",
+  "model": "glm-5.3"
+}

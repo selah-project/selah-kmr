@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ger hûn ji bo Yahwe qurbanekî şelamî bidin, divê ew ji bo razîbûna we were dayîn.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "qurban bikin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbanekî"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "şelamî"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ji bo razîbûna we"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "wê qurban bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:57.205485061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 121,
+  "translation": "Yahwe parêzvanê te ye, Yahwe sîya te ye, li ser destê rastê yê te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "parêzvanê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "sîya te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "rastê yê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:30.312698355Z",
+  "model": "glm-5.3"
+}

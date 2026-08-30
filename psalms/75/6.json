@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 75,
+  "translation": "Qernê xwe bilind li ber bilindahiyê nekin, bi stûyê ⟨hişk⟩ nêzîkî axaftinê nekin!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "bilind nekin"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "li ber bilindahiyê"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "qernê xwe"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "nêzîkî axaftinê nekin"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "bi stûyê"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "⟨hişk⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:37.697218201Z",
+  "model": "glm-5.3"
+}

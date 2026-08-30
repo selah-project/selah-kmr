@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ji ber ku ew armancên kêm-hêz ne biçûk kir û ne jî ji xwe durxist, û rûyê xwe ji wî veşart; lê gava ew gazî bal wî kir, ew bihîst.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "biçûk kir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne jî"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ji xwe durxist"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "armancên"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kêm-hêz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "veşart"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "û gava ew gazî kir"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bal wî"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ew bihîst"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:21.158414421Z",
+  "model": "glm-5.3"
+}

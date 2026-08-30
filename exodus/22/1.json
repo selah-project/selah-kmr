@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ger diz di dema qulkirinê de were dîtin û were lêdan û bimire, ji bo wî xwîn nîne.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "di dema qulkirinê de"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "were dîtin"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "diz"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "were lêdan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bimire"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:30.538469772Z",
+  "model": "glm-5.3"
+}

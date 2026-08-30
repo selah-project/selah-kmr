@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Min maf û rastî kirîye; tu dest bernede min ji ên min zûrî kirine.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Min ... kirîye"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "maf"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "û rastî"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tu ... ne"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "dest bernede min"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "ji ên min zûrî kirine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:24.660670585Z",
+  "model": "glm-5.3"
+}

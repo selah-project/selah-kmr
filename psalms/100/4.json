@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 100,
+  "translation": "Deriyên wî bi spasê û hewlên wî bi pesnê derbas bibin; ji wî re spas bikin û navê wî bilôzin.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "derbas bibin"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "deriyên wî"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "bi spasê"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "hewlên wî"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "bi pesnê"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "spas bikin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bilôzin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:32.855860958Z",
+  "model": "glm-5.3"
+}

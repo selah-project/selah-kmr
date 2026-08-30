@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Tu bi destê xwe gelan derxist û wan çandî; tu gelan xera kir û belav kirin wan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "bi destê xwe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "û wan çandî"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "xera kir"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "û belav kirin wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:37.808799327Z",
+  "model": "glm-5.3"
+}

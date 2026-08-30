@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Lê ber bi Qayin û ber bi pêşkeşa wî venihêrî; Qayin pir bi hêrs bû û rûyê wî ketin.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lê ber bi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ber bi"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "pêşkeşa wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "venihêrî (ne)"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "nihêrî"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "û bi hêrs bû"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "û ketin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:43.570031386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Hûn bersiva min dan ⟨את⟩ û gotin: Tiştê ku tu ji bo kirinê gotî baş e.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Hûn bersiva min dan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş e"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu gotî"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ji bo kirinê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:16.174509257Z",
+  "model": "glm-5.3"
+}

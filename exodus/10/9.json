@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 10:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Moşe got: \"Bi ciwanên me û bi kal û pîrên me emê herin; bi kurên me û bi keçên me, bi mihên me û bi dewarên me emê herin, çinku cejna Yahwe ji bo me ye.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בנערינו",
+      "gloss": "bi ciwanên me"
+    },
+    {
+      "surface": "ובזקנינו",
+      "gloss": "û bi kal û pîrên me"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "emê herin"
+    },
+    {
+      "surface": "בבנינו",
+      "gloss": "bi kurên me"
+    },
+    {
+      "surface": "ובבנותנו",
+      "gloss": "û bi keçên me"
+    },
+    {
+      "surface": "בצאננו",
+      "gloss": "bi mihên me"
+    },
+    {
+      "surface": "ובבקרנו",
+      "gloss": "û bi dewarên me"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "emê herin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "חג",
+      "gloss": "cejn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji bo me"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:41.563475695Z",
+  "model": "glm-5.3"
+}

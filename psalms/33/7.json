@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Wekî dîdek avên deryayê kom dike, kûriyan di depoyên xwe de datîne.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "kom dike"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "wekî dîdek"
+    },
+    {
+      "surface": "מי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "datîne"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "di depoyan de"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "kûrî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:34.202314172Z",
+  "model": "glm-5.3"
+}

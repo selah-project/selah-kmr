@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Û Îsraêl hat Mîtsrayimê, û Ya'eqob (Ya'eqob — Yan bi navê din Yaqûb) wek mêvanekî li welatê Cham bi cih bû.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Û hat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "û Ya'eqob"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mêvanekî bû"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welat"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:36.183492226Z",
+  "model": "glm-5.3"
+}

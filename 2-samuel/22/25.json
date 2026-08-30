@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ji ber vê yekê Yahwe li gorî rastiya min ji min re vegerand, li gorî paqijiya min berî çavên wî.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vegerand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "li gorî rastiya min"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "li gorî paqijiya min"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "berî"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:35.823791995Z",
+  "model": "glm-5.3"
+}

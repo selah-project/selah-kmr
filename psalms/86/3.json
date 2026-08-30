@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Rêz û dilovanî li min bike Adonay, çimkî ez tevahiya rojê gazî te dikim.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "dilovanî li min bike"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "gazî dikim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.201385306Z",
+  "model": "glm-5.3"
+}

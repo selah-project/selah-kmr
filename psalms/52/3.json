@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Çima tu xwe bi xerabiyê mezin dikî, ey hêzdar? xeseda Êl hemû roj e.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "tu xwe mezin dikî"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bi xerabiyê"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ey hêzdar"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "היום",
+      "gloss": "roj"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:08.550472198Z",
+  "model": "glm-5.3"
+}

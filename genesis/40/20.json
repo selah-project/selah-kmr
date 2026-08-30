@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û di roja sêyemîn de pêk hat — roya jidayikbûna ⟨את⟩ Paroh — û ew ji bo hemû xulamên xwe mêvanîyek çêkir, û ⟨את⟩ serê seriyê mêzekaran û ⟨את⟩ serê seriyê nanijan di nav xulamên xwe de hilda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û pêk hat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sêyemîn"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "jidayikbûna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "û çêkir"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mêvanîyek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "û hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serê seriyê mêzekaran"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "שר",
+      "gloss": "seriyê"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mêzekaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "serê seriyê nanijan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "שר",
+      "gloss": "seriyê"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "nanijan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:54.845039401Z",
+  "model": "glm-5.3"
+}

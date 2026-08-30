@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Çavên min veke, da ku ez binihêrim tiştên ecêb ⟨ji⟩ Şerîeta te.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "veke"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "da ku ez binihêrim"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "tiştên ecêb"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ji Şerîeta te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:55.184239283Z",
+  "model": "glm-5.3"
+}

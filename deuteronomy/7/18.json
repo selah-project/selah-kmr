@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji wan netirse; bi rûn bîr bîne ⟨את⟩ ya ku Yahwe Elohîmê te ji Firêawn û ji tevahiya Mîtsrayimê re kiriye:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bitirse"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bi rûn"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "bîr bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiriye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ji Firêawn"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "û ji tevahiya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:28.032088405Z",
+  "model": "glm-5.3"
+}

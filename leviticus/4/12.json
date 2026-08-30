@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û wî ⟨את⟩ hemû ga dertîne derveyî kampê, bo cihekî paqij, bo cihê avêtina kûlan, û ⟨את⟩ wî li ser daran di agir de dişewitîne; li cihê avêtina kûlan tê şewitandin.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Û dertîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "derveyî"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "derve"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "avêtina"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kûlan"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "û dişewitîne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "daran"
+    },
+    {
+      "surface": "באש",
+      "gloss": "di agir de"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "avêtina"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kûlan"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "tê şewitandin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:44.393300987Z",
+  "model": "glm-5.3"
+}

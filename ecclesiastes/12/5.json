@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ji bilindahiyê jî ditirsin û tirs li ser rêyê; darê behêvê tê çelçel kirin, çilsor dibin bar, û kaparî diherike; çimkî mirov diçe ber bi mala xwe ya ⟨bêdawî⟩ ve, û şînkar li bazarê digerin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ji bilindahiyê"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ditirsin"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "û tirs"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "li ser rêyê"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "tê çelçel kirin"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "darê behêvê"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "dibin bar"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "çilsor"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "diherike"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "kaparî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "xwe ya bêdawî"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "û digerin"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "li bazarê"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "şînkar"
+    }
+  ],
+  "timestamp": "2026-08-30T06:59:29.476398287Z",
+  "model": "glm-5.3"
+}

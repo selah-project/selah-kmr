@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ê dasdarîkirî ya min, kurrê carbangeha min: tiştê ku min ji ⟨את⟩ Yahwe Şebaot, Elohîmê Yisraêl, bihîstiye, min ji we re ragihand.",
+  "tokens": [
+    {
+      "surface": "מדושתי",
+      "gloss": "Ê dasdarîkirî ya min"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kurrê"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "carbangeha min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "min bihîstiye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩",
+      "marks": "Yahwe Şebaot, Elohîmê Yisraêl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Şebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "min ragihand"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:55.504233848Z",
+  "model": "glm-5.3"
+}

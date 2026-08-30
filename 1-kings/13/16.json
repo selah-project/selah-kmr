@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ew got: \"Ez nikarim ⟨את⟩ bi te re bizivirim, û ⟨את⟩ bi te re bikevim, û nan naxum û bi te re avê venaxum, di vê cihî.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ew got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ez nikarim"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "bizivirim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bi te re"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "û bikevim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bi te re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "naxum"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "venaxum (avê)"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bi te re"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di … cihî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:36.371891865Z",
+  "model": "glm-5.3"
+}

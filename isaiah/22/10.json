@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û ⟨את⟩ xaniyên Yeruşalayîm we hijmartin, û we xanî xera kirin da ku dîwarê bihêz bikin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xaniyên Yeruşalayîm"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "xaniyên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayîm"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "hijmartin"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "xera kirin"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "bihêz bikin"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "dîwarê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:35.258027393Z",
+  "model": "glm-5.3"
+}

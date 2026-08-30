@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Ku ⟨את⟩ Avrahamê bi birînanê qut kir û soza xwe ji Yîtshaq re da.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "qut kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamê"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "û soza xwe"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "ji Yîtshaq re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:20.369087973Z",
+  "model": "glm-5.3"
+}

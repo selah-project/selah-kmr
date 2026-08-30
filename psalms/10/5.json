@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Riyên wî hertim rast in; dadên te ji ber wî bilind in; êrîşkarên wî hemû — pê difife.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "rast in"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "riyên wî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "עת",
+      "gloss": "demên de"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dadên te"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "ji ber wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "êrîşkarên wî"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "difife"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ber wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:41.194493118Z",
+  "model": "glm-5.3"
+}

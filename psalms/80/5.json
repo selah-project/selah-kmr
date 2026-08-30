@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Yahwe, Elohîmê Tsovaot, heta kengê tu li duaya gelê xwe dûman dibî?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsovaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "dûman dibî"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "li duaya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:59.357288195Z",
+  "model": "glm-5.3"
+}

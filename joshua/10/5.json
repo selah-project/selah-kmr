@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 10:5",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Civîyan û bilind bûn pênc padîşahên Emorî — padîşahê Yeruşalayimê, padîşahê Hevronê, padîşahê Yarmutê, padîşahê Lakîşê, padîşahê Eglonê — ew û hemû leşkerên xwe, û li dijî Givonê bihûn û şerê wê kirin.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "civîyan"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bilind bûn"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahên"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorî"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmutê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakîşê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglonê"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "leşkerên xwe"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bihûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givonê"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "şerê kirin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li dijî wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:17:49.723869483Z",
+  "model": "glm-5.3"
+}

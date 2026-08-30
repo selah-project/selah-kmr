@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ên dilên wan xwar ⟨in⟩ ji bo Yahwe tiştê nefretê ⟨ne⟩; lê ên rêyên wan temam ⟨in⟩, kêfa wî ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "tiştê nefretê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "ên dilên wan xwar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "lê kêfa wî"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ên temam"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rêyên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:54.153689852Z",
+  "model": "glm-5.3"
+}

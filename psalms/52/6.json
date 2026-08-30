@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Tu hemû peyvên daqandî dihebînî, ey zimanê xapînok!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "tu dihebînî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "daqandî"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ziman"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "xapînok"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:20.646083824Z",
+  "model": "glm-5.3"
+}

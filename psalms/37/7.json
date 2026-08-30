@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Li ber Yahwe bêdeng bimîne û ji wî re li bendê bimîne; ji ber wî yê ku di riya xwe de serdikeve û ji ber mêrê ku sûc'an çê dike, bi êrîşî netewîne.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "bêdeng bimîne"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "li ber Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "û li bendê bimîne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "bi êrîşî netewîne"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "serdikeve"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "di riya xwe de"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ji ber mêrê"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çê dike"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "sûc'an"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:17.162160593Z",
+  "model": "glm-5.3"
+}

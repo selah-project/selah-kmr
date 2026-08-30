@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Bêsila min were ber Ronahî (li pêş te); guhê xwe berî rênana min xar bike.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "were"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ber Ronahî (li pêş te)"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "Bêsila min"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "xar bike"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê xwe"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "berî rênana min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:36.009387088Z",
+  "model": "glm-5.3"
+}

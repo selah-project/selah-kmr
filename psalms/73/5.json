@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Di êşa mirawanan de ew nîne; wekî mirovan jî nayên êşandin.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "di êşa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirawanan"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ew nîne"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "tên êşandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:40.919780358Z",
+  "model": "glm-5.3"
+}

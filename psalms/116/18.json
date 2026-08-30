@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Nadîrên xwe ji bo Yahwe dê ez bidim — na, niha, berî çavên tevaya gelê wî!",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nadîrên xwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "dê ez bidim"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "berî çavên"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na, niha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tevaya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:24.485707741Z",
+  "model": "glm-5.3"
+}

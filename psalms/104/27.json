@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Hemû li bendê te ne, da ku tu xwarina wan di dema wê de bidî.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "li bal te"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "li bendê ne"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da ku bidî"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "xwarina wan"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "di dema wê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:43.459090215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 101,
+  "translation": "Mizmorekî ji Dawid re. Xesed û ⟨the⟩ dadê ez ê stranê bikim; ji te re, Yahwe, ez ê bi def û zilfê bizmirim.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "û dad"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ez ê stranê bikim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ez ê bizmirim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:46.258181017Z",
+  "model": "glm-5.3"
+}

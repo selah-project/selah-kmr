@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ezê Yahwe bi rastdariya wî bilor bikim, û ezê navê Yahwe, Ên-Bilind, bilorînê bikim.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ezê bilor bikim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "bi rastdariya wî"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "û ezê bilorînê bikim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ên-Bilind"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:04.552042601Z",
+  "model": "glm-5.3"
+}

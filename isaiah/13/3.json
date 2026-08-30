@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ez ferman da yên ⟨ku⟩ min veqetandine hene; ez gazî şervanên xwe yên ji bo hêrsê min kirine, yên şahiya serbilindîya min in.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "yên min veqetandine"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hene"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ez gazî ... kirine"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "şervanên xwe"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "ji bo hêrsê min"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "yên şahî ... in"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "serbilindîya min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:23.780554163Z",
+  "model": "glm-5.3"
+}

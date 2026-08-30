@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Di ruha xwe de ne lez be ku hêrs bibî, çimkî hêrs di nav dajan de radiweste.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "lez be"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "di ruha xwe de"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ku hêrs bibî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "hêrs"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "di nav dajan de"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "daj"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "radiweste"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:06.280421809Z",
+  "model": "glm-5.3"
+}

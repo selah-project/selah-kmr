@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û Yêhoşua sibê zû rabû, ⟨את⟩ Îsraêl bi êlên wî nêzîk kir, û êla Yehûda hate girtin.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "zû rabû"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yêhoşua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibê"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "nêzîk kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "bi êlên wî"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "hate girtin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "êl"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:50.674300640Z",
+  "model": "glm-5.3"
+}

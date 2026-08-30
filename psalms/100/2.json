@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 100,
+  "translation": "Bi kêfxweşî ⟨את⟩ Yahwe bi xizmetê bibin; bi strananê werin li pêşiya wî.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "bi xizmetê bibin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "bi kêfxweşî"
+    },
+    {
+      "surface": "באו",
+      "gloss": "werin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li pêşiya wî"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "bi strananê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:32.855491047Z",
+  "model": "glm-5.3"
+}

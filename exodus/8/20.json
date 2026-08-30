@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Yahwe wiha kir, û tevnên giran hatin nav mala Fîrawun û nav malên xulamên wî û li ser hemû erdê Mîtsrayim; erd ji ber ⟨the⟩ tevnan xera bû.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tevn"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "giran"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nav mala"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fîrawun"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "û nav malên"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û li ser hemû"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "xera bû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tevnan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:18.052286542Z",
+  "model": "glm-5.3"
+}

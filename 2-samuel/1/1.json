@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Piştî mirina Şaulê çêbû, Dawid ji kuştina ⟨את⟩ Emalekiyan vegeriya, û Dawid li Sîqlag du rojan ma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çêbû"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulê"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "û Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ji kuştina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emalekiyan"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Emalekiyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "û ma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "li Sîqlag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:20.438181466Z",
+  "model": "glm-5.3"
+}

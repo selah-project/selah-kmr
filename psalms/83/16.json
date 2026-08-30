@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Wusa bi tofana xwe paş wan bizivirîne, û bi bagera xwe ditirsinîne.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "paş wan bizivirîne"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "bi tofana te"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "û bi bagera te"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ditirsinîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:21.857710940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Aharon nêzîkî keşîşxanê bû, ⟨את⟩ gîşka gunehê ku ji wî re bû serjê kir.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nêzîkî … bû"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "keşîşxanê"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "serjê kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gîşka gunehê"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "gîşka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunehê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re bû"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:53.551843401Z",
+  "model": "glm-5.3"
+}

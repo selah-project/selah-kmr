@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Çawa dibê xwezî ji mirovan, yên ku Yahwe gunehê wan nadin parêzwanan, û di ruha wan de tu xapînek tuneye.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "çawa dibê xwezî"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ji mirovan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "nadin parêzwanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "עון",
+      "gloss": "guneh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tuneye"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "di ruha wî de"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "xapînek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:53.237292682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û ⟨את⟩ eştiyara wî bîne ji bo Yahwe: qûçekî bêkêmasî ji mihran, bi nirxdana te, wekî pêşkêşa-eştiyê, bal kînetî de.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eştiyara wî"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "eştiyara wî"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qûçekî"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bêkêmasî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mihran"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "bi nirxdana te"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "wekî pêşkêşa-eştiyê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kînetî de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:00.199406913Z",
+  "model": "glm-5.3"
+}

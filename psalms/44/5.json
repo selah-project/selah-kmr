@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Tu ⟨yî⟩ padîşahê min, Elohîm; ferman bike rizgariyên Yaqov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yî⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahê min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman bike"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "rizgariyên"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:02.840213926Z",
+  "model": "glm-5.3"
+}

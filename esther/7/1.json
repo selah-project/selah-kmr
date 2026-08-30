@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ⟨padîşah⟩ û Haman hatin ku bi Estêr ⟨a⟩ malbanê re vexwin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨padîşah⟩"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "û Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ku vexwin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estêr"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨a⟩ malbanê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:58.117525543Z",
+  "model": "glm-5.3"
+}

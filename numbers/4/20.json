@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ew naçin da ku bibînin — tû carêkî — ⟨את⟩ tiştên pîroz, da ku nemirin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Û ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "naçin"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da ku bibînin"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "tû carêkî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştên pîroz"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tiştên pîroz"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "da ku nemirin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:46.161839541Z",
+  "model": "glm-5.3"
+}

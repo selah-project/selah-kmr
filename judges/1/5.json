@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ew Adonî-Bezek li Bezek dîtîn, û bi wî re şer kirin, û ⟨את⟩ Kenaanî û ⟨את⟩ Perîzî binav kirin.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "dîtîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonî-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonî"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "-Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "li Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "şer kirin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "binav kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanî"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Perîzî"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perîzî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:23:28.859274840Z",
+  "model": "glm-5.3"
+}

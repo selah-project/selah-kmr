@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Gunehê gelê min dixwin, û canê xwe ber bi sucdariya wan ve bilind dikin.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "gunehê"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ber bi"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "sucdariya wan"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bilind dikin"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:11.061668075Z",
+  "model": "glm-5.3"
+}

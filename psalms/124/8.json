@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 124,
+  "translation": "Alîkariya me bi navê Yahwe ye, Çêkerê ezman û erdê.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Alîkariya me"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Çêkerê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "û erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.281310712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Ma roja Yahwe ne tarî ye û rûnayî nîne? Tarîbûna çewz û kêlekbûn nîne — ji wî re tune!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma ... ne"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarî"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nîne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "rûnayî"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "tarîbûna çewz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nîne"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "kêlekbûn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T04:08:20.407616590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Ji ber ku qemçên min ji şewatê tijî bûne û tiştê tendurust di laşê min de nîne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "qemçên min"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "tijî bûne"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "şewat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û ... nîne"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "tendurust"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "di laşê min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:38.937851259Z",
+  "model": "glm-5.3"
+}

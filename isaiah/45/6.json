@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Ji bo ku bizanin, ji rojhilatê rojê û ji rojavayê, ku ji bilî min tiştek nîne; ez Yahwe me û tiştê din tuneye.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bizanin"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ji rojhilatê"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "û ji rojavayê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "tiştek nîne"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ji bilî min"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tuneye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tiştê din"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:50.463378030Z",
+  "model": "glm-5.3"
+}

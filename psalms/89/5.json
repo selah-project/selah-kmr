@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Heta hertimî raziya te saz dikim, û ji nifşê heta nifşê textê te ava dikim. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "saz dikim"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "raziya te"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "û ava dikim"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "heta nifşê"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "textê te"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:17.726104206Z",
+  "model": "glm-5.3"
+}

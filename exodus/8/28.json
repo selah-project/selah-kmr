@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Firên jî ⟨את⟩ dilê xwe di vî carî de giran kir, û ⟨את⟩ gelê berneda.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "û giran kir"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê xwe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "di carî de"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "berneda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:34.663942232Z",
+  "model": "glm-5.3"
+}

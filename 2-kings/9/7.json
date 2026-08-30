@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û tu dê malbata Ahab, patîrê xwe, bi darbeyan bibî, û ez dê tolê xwîna bendeyên min ên pêxemberan û xwîna hemû bendeyên Yahwe ji destê Îzevel bigirim.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "tu dê bi darbeyan bibî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malbata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "patîrê xwe"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "û ez dê tolê bigirim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "xwîna"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bendeyên min"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ên pêxemberan"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "û xwîna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bendeyên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Îzevel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:08.355175913Z",
+  "model": "glm-5.3"
+}

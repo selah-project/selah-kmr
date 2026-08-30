@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Kurê min, dilê xwe bide min, û çavên te bi rêyên min kêf bibin.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "bide"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "û çavên te"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "bi rêyên min"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "kêf bibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:38.057545733Z",
+  "model": "glm-5.3"
+}

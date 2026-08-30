@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Di erdê te de windakar û bêzar dê tune bin; ⟨את⟩ hejmara rojên te ez ê tijî bikim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dê tune bin"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "windakar"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "û bêzar"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di erdê te de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hejmara"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmara"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "rojên te"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ez ê tijî bikim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:49.642806711Z",
+  "model": "glm-5.3"
+}

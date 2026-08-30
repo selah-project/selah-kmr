@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Wî ⟨את⟩ rûyê padîşahê Moab bi wan ve kir; û ew li cem wî man, di hemû rojên ku Dawid di keleha-lexwî de bû.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "bi wan ve kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê padîşahê Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "li cem wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "היות",
+      "gloss": "bûna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "di keleha-lexwî de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:35.192632375Z",
+  "model": "glm-5.3"
+}

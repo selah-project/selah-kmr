@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Firawn gazî Moşe û Aharon kir û got: \"Ji Yahwe re lava bikin ku beqan ji min û ji gelê min rake, êz ê jî gel bişînim ku ji bo Yahwe qurbanî bikin.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawn"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וילאהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "lava bikin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "û rake"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "beqan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "û ji gelê min"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "êz ê bişînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "û qurbanî bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:03.436952903Z",
+  "model": "glm-5.3"
+}

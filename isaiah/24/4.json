@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Erd şînê, ziwa bûye; cîhan xezal bûye, ziwa bûye; bilindayî gelê erdê xezal bûne.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "şînê"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ziwa bûye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "xezal bûye"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ziwa bûye"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhan"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "xezal bûne"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "bilindayî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:24.463531134Z",
+  "model": "glm-5.3"
+}

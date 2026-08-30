@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û gava hûn firotinê ji bo hevalê xwe dikin an ji destê hevalê xwe dikirin, hûn zilmê li ⟨את⟩ birayê xwe nekin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Û gava"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "hûn difiroşin"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "firotinê"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "ji bo hevalê te"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "tu dixiro"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "hevalê te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "hûn zilmê dikin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meriv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayê xwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:32:12.998660739Z",
+  "model": "glm-5.3"
+}

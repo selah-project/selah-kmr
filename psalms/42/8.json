@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Kûrahî bi dengê şelaleyên te gazî kûrahiyê dike; hemû pêlên te û miroveyên te ser min re derbas bûn.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "kûrahî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kûrahiyê"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "gazî dike"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "şelaleyên te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "pêlên te"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "û miroveyên te"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ser min re"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "derbas bûn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:20.363877116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û tu di ezmanan de bihîzî, û bike, û li ser xulamên te hukim bike: gunehkarê gunehkar bihesibîne da ku rêya wî li ser serê wî bidî, û rastdarê rastdar bihesibîne da ku jê re gorî rastdariya wî bidî.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "bihîzî"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "û bike"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "û hukim bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên te"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "xulamên te"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "gunehkar bihesibîne"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "bidî"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rêya wî"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "li ser serê wî"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "û rastdar bihesibîne"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "bidî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "gorî rastdariya wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:44.202458789Z",
+  "model": "glm-5.3"
+}

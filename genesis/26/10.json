@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Avimelex got: \"Ev te çi kirî ji bo me? Nêzîk bû yekî ji gel bi jina te re rakeze, û tu sûcê me bar kiriba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û-got"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "te-kirî"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji-bo-me"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "nêzîk-bû"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "rakeze"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ji-gel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina te"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "jina-te"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "û-tu-bar-kiriba"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ser-me"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sûc"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:37.979640255Z",
+  "model": "glm-5.3"
+}

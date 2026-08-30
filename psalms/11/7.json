@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji ber ku Yahwe rast e, Ew rastiyê hez dike; rastdîdar rûyê Wî dibînin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hez dike"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rastdîdar"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "dibînin"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "rûyê Wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:27.824493828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ji wan re got: „Îbranî ez im, û ez ⟨את⟩ Yahwe, Elohîmê ezmanan, ditirsim — yê ku ⟨את⟩ deryayê û ⟨את⟩ bejayî çêkiriye.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Îbranî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ditirsim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkiriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deryayê"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bejayî"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "bejayî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:09:49.142573131Z",
+  "model": "glm-5.3"
+}

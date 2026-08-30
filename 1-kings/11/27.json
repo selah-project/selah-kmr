@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ev bû ⟨the⟩ sedemê ku ew dest hildabû li ser padîşah: Şelomo ⟨את⟩ Milloyê ava kir, ⟨את⟩ kêriyên bajarê Dawid, bavê xwe, girt.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peywîn\/sedem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hildabû"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dest"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "li ser padîşah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milloyê"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milloyê"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêriyên"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "kêriyên"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:06.093013848Z",
+  "model": "glm-5.3"
+}

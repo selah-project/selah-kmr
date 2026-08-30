@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û min ji te re got: kûrê min bernede da ku ew xizmeta min bike; û tu red kir ku wî bernedî — behêre, ez ⟨את⟩ kûrê te, ê yekem ê te, dikujim.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "û min got"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bernede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûrê min"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrê min"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "da ku ew xizmeta min bike"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "û tu red kir"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "ku wî bernedî"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "behêre"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dikujim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûrê te"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kûrê te"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ê yekem ê te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:44.361526394Z",
+  "model": "glm-5.3"
+}

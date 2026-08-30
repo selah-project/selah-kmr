@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "⟨את⟩ Şabatên min biparêzin û pîrozgehê min bihûrmênin; ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabatên min"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Şabatên min"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "û pîrozgehê min"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bihûrmênin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:23.143021858Z",
+  "model": "glm-5.3"
+}

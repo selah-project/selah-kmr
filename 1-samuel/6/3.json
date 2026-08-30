@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ew gotin: “Ger hûn sandûqa Elohîmê Yisraêlê ⟨את⟩ dişînin, wê vala nenihêrin, lê ji bo wî îşkenceyekê ⟨את⟩ vegerînin; wê hingê hûn dibêjin, û ê wê were zanîn ku çima destê wî ji we bernade.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Û ew gotin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "dişînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqa Elohîmê Yisraêlê"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nenihêrin"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "wê vala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vala"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "vala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "השב",
+      "gloss": "vegerînin"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "vegerînin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "îşkenceyekê"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wê hingê"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "hûn dibêjin"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "ê wê were zanîn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ku çima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nade"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "bernade"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ji we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:01.776232653Z",
+  "model": "glm-5.3"
+}

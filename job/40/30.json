@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 40:30",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Ma hevalên masîgiran dikarin li ser wî sohbetekê çêkin? Ma ew ê wî nav bazirganên Kenaanî parve bikin?",
+  "tokens": [
+    {
+      "surface": "יכרו",
+      "gloss": "dikarin ... çêkin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "hevalên masîgiran"
+    },
+    {
+      "surface": "יחצוהו",
+      "gloss": "wî parve bikin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "כנענים",
+      "gloss": "bazirganên Kenaanî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:23.370297847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "û ⟨את⟩ hemû şanên Zîmrî û ⟨את⟩ hemû şanên Êlamê û ⟨את⟩ hemû şanên Madayê,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "şanên"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zîmrî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "şanên"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Êlamê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "şanên"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madayê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:59:23.099393185Z",
+  "model": "glm-5.3"
+}

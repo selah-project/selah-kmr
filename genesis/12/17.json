@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Yahwe ⟨את⟩ Farao bi nexweşiyên mezin û ⟨את⟩ mala wî lê da — bi sedema daxûya Saray, jina Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "lê da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "nexweşî"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mala wî"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sedema daxûya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:55.525596932Z",
+  "model": "glm-5.3"
+}

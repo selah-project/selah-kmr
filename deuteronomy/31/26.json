@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "“Bigirin ⟨את⟩ kitêba vê Toretê û ⟨את⟩ wê binê aliyê sandiqa peymana Yahwe Elohîmê we; ew ê li wir wek şahidê li dijî we bimîne heta herdemê.”",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "bigirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitêba"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitêba"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toretê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "wê binê"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wê"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "aliyê"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiqa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ew ê bimîne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "בך",
+      "gloss": "li dijî we"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "heta herdemê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:12:57.053093918Z",
+  "model": "glm-5.3"
+}

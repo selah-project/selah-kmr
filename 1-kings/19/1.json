@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Axab ji Îzebelê re ragihand ⟨את⟩ hemû tiştên ku Eliya kiribû û ⟨את⟩ hemû tiştên ku ew ⟨את⟩ hemû pêxemberan bi şûrê kuştibû.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ji Îzebelê re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiribû"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ û",
+      "marks": "hemû tiştên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kuştibû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû pêxemberan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûrê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:18.637105671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "⟨את⟩ masiyê, ⟨את⟩ hemû alavên wê û ⟨את⟩ nanê rûyî [nanê pêşberî].",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiyê"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masiyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû alavên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "alavên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "nanê rûyî"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nanê"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "rûyî [pêşberî]"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:12.189072579Z",
+  "model": "glm-5.3"
+}

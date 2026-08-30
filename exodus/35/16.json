@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "⟨את⟩ altara pêşkêşan, ⟨את⟩ torbeya sifî ku ji wê re ye, ⟨את⟩ darikên wê û ⟨את⟩ hemû amanetên wê, ⟨את⟩ avdankê û ⟨את⟩ bingehekê wî",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altara pêşkêşan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pêşkêşan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "torbeya sifî"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "torbeya"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "sifî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wê re ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darikên wê"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "darikên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû amanetên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amanetên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avdankê"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "avdankê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "bingehekê wî"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "bingehekê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:11.562701193Z",
+  "model": "glm-5.3"
+}

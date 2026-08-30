@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 75,
+  "translation": "Û hemû qerên sûcdaran ez ê bibirrim; qerên rastdaran bilind dibin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Û hemû"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "qerên"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sûcdaran"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "ez ê bibirrim"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "bilind dibin"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "qerên"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rastdaran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:40.464971604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Ew ê ji ezmanan bişîne û min xilas bike; yê ku hêrs û nefretê li min berdidê (kuxwe bi min daqurtîne) — Selah. Elohîm ê xesed û rastiya xwe bişîne.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ew ê bişîne"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ji ezmanan"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "û min xilas bike"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "hêrs û nefretê berdidê"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "yê ku bi min daqurtîne"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ew ê bişîne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesed ê wî"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "û rastiya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:18.768770431Z",
+  "model": "glm-5.3"
+}

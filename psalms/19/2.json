@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Ezman rûmeta Êl vedibêjin û rûber keda destên wî dixûyîne.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "vedibêjin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "û keda"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "dixûyîne"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rûber"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:19.083656453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Û Yosef hat malê, û ⟨את⟩ diyariya ku di destên wan de bî ji bo wî anîn malê, û berî wî serê xwe heta erdê xwar kirin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "malê"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diyariyê"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "diyariya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "di destên wan de"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "malê"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "serê xwar kirin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "berî wî"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "heta erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:12.883807810Z",
+  "model": "glm-5.3"
+}

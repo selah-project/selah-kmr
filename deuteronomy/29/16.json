@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û hûn ⟨את⟩ xerabiyan wan û ⟨את⟩ pûtên wan dîtin — dar û kevir, zîv û zêr — yên ku bi wan re bûn.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "û hûn dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xerabiyan wan"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "xerabiyan wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "pûtên wan"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "pûtên wan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "û kevir"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "û zêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "bi wan re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:39.871897219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Moşe, xulamê min, mir; êdî rabe, derbasî ⟨את⟩ Urdunê vê bike, tu û tevahiya ⟨את⟩ gelê vê, ber bi ⟨את⟩ erdê ku ez didim wan, ji bo zarokên Yisraêl.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamê min"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "קום",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbasî … bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdunê vê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdunê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "didim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:14:36.469518367Z",
+  "model": "glm-5.3"
+}

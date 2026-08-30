@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ez wan dişikand û ew nikarîn rabin; ew di binê lingên min de ketin.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "ez wan dişikand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nikarîn"
+    },
+    {
+      "surface": "קום",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ketin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di binê"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lingên min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:38.205294752Z",
+  "model": "glm-5.3"
+}

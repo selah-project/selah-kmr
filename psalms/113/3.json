@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 113,
+  "translation": "Ji hilhatina rojê heta ⟨heta⟩ çûna wê, navê Yahwe tê hallel kirin.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ji hilhatina"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "çûna wê"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "tê hallel kirin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:40.820953136Z",
+  "model": "glm-5.3"
+}

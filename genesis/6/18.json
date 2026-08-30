@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ew ⟨את⟩ peymana xwe bi te re rûdidim; tu yê biçî nav keştiyê — tu û kurrên te û jina te û jinên kurrên te bi te re ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "rûdidim ew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bi te re ⟨את⟩"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "yê biçî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "keştiyê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "û kurrên te"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "û jina te"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "û jinên"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "kurrên te"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bi te re ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:31.161775776Z",
+  "model": "glm-5.3"
+}

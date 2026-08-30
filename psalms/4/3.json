@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Gelî kurên mirovan, heta kengê rûmeta min dibe şerm? Heta kengê valayî ji hez dikin û derûdanê digerin? Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "gelî kurên"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "rûmeta min"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "dibe şerm"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "ji hez dikin"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "valayî"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "digerin"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "derûdan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:50.906831974Z",
+  "model": "glm-5.3"
+}

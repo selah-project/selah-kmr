@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Ji ber ku Yahwe li ser we ⟨את⟩ ruhê xewa-kûr rijand û ⟨את⟩ çavên we — ⟨את⟩ pêxemberan — girt, û ⟨את⟩ serên we — dîdaran — gorî kir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "xewa-kûr"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavên we"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "çavên we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêxemberan"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "serên we"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "serên we"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "dîdaran"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "gorî kir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:36:26.899756463Z",
+  "model": "glm-5.3"
+}

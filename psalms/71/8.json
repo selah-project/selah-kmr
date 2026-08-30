@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Dêviyê min bi pesna te were tijîkirin, bi rûmeta te tevahiya rojê.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "dê were tijîkirin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "dêviyê min"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "bi pesna te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "bi rûmeta te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:51.789790475Z",
+  "model": "glm-5.3"
+}

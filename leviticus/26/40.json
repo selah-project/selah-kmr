@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ew ê ⟨את⟩ gunehên xwe û ⟨את⟩ gunehên bavên xwe îtiraf bikin — di xêinatiya xwe de, ku bi min xêinî kirine — û her wiha ku bi min re bi serê xwe (berovajî) çûne.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "û dê îtiraf bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunehên xwe"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "gunehên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "gunehên bavên wan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunehên"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "di xêinatiya xwe de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "xêinî kirin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bi min"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "û her wiha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "bi serê xwe (berovajî)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:10.658164348Z",
+  "model": "glm-5.3"
+}

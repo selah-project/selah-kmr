@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û her yekî yê xwe xist, û Aram reviya, û Îsraêl wan meşand; û Ben-Hadad, keyê Aram, bi hesp û siwaran xwe filitand.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Û … xist"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her yekî"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "yê xwe"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "û … reviya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "wan meşand"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "xwe filitand"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hesp"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "û siwaran"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:39.401678417Z",
+  "model": "glm-5.3"
+}

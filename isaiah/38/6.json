@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "û ez ê te û ⟨את⟩ vê bajarî ji destê keyê Aşûr rizgar bikim, û ez ê vê bajarî biparêzim.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "û ji destê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûr"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "te rizgar bikim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vê bajarî"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarî"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "û ez ê biparêzim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarî"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:14.218690812Z",
+  "model": "glm-5.3"
+}

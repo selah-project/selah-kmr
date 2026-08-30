@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Dilovan û rehîm ⟨e⟩ Yahwe, hêdî ji hêrsê, û mezin bi xesedê.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Dilovan"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "û rehîm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hêdî"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ji hêrsê"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "û mezin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "bi xesedê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:24.440115021Z",
+  "model": "glm-5.3"
+}

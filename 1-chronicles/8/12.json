@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "û kurên Elpaal: Ever, Mîşam û Şamed — ew ⟨את⟩ Ono û ⟨את⟩ Lod û gundên wê çêkirin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "û Mîşam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "û Şamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "û gundên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:33:29.104374967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ber bi te qêrînan û ji holê rizgar bûn; te de lê xwe dan û ne hatin şermandin.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ber bi te"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "qêrînan"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "û ji holê rizgar bûn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te de"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "lê xwe dan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "hatin şermandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:11.716655950Z",
+  "model": "glm-5.3"
+}

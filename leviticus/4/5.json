@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û kahînê yê-rûnkirî dê ji xwîna ga hilbigire û ⟨אתו⟩ dê bîne nav çadira civînê.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dê hilbigire"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "yê-rûnkirî"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ji xwînê"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "û bîne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wê (xwîn)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:02.684017092Z",
+  "model": "glm-5.3"
+}

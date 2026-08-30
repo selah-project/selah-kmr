@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ji ber talanîya feqîran û ji hînana hewcedaran, êdî ez radibim, dibêje Yahwe; ez ê ⟨wî⟩ yê ku ji bo wî dibe hewna di ewlehiyê de bi cih bikim.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "ji ber talanîya"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "feqîran"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "ji hînana"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "hewcedaran"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ez radibim"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ez ... bi cih bikim"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "di ewlehiyê de"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "dibe hewna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:02.529662743Z",
+  "model": "glm-5.3"
+}

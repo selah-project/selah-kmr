@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Di çavên xwe de ji xwe re çalak nebî; ji Yahwe ⟨את⟩ bitirse û ji xerabiyê dûr bikeve.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "nebî"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "çalak"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di çavên xwe de"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bitirse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "û dûr bikeve"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ji xerabiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:39.835277869Z",
+  "model": "glm-5.3"
+}

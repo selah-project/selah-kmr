@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û ⟨את⟩ kahînan û ⟨את⟩ Lewiyan anî û wan li mecada rojhilatê civand.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Û anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahînan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahînan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lewiyan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiyan"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "û wan civand"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "li mecada"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "rojhilatê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:50:21.645713497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Û ew bi xwe xizanan ji êşînan bilind dike, û malbatan wek kerhoyan datîne.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "Û ew bilind dike"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "xizanan"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ji êşînan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "Û datîne"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "wek kerhoyan"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malbatan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:57.663323352Z",
+  "model": "glm-5.3"
+}

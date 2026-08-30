@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji bo ku di navbera yê nepaqij û yê paqij de cudahî were kirin, û di navbera canewerê yê tê xwarin û canewerê ku nayê xwarin.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "ji bo ku cudahî were kirin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "yê nepaqij"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "yê paqij"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canewerê"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "yê tê xwarin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canewerê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "xwarin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:47.948051725Z",
+  "model": "glm-5.3"
+}

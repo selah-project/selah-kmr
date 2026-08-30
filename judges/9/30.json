@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Zebul, serdarê bajarê, bihîst ⟨את⟩ peyvên Gaal kurê Ebed, û hêrsa wî şewitî.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "û bihîst"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serdarê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên Gaal kurê Ebed"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "û şewitî"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hêrsa wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:28:16.881114551Z",
+  "model": "glm-5.3"
+}

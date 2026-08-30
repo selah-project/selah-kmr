@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Hû! Hemû ên tîhene, werin bo avê, û ên ku zêrên wan nîne, werin, bikirin û bixwin, û werin, bikirin bê zêr û bê qiyet şerab û şîr.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hû!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ên tîhene"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "werin"
+    },
+    {
+      "surface": "למים",
+      "gloss": "bo avê"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ên ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "werin"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "bikirin"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "û bixwin"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "û werin"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "bikirin"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "bê"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "û bê"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "qiyet"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şerab"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "û şîr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:08.335601827Z",
+  "model": "glm-5.3"
+}

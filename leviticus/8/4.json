@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Moşe wiya kir wekî ku Yahwe ⟨את⟩ wî fermanî kiribû; û civat li ber deriyê çadira civînê civiya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "û … kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fermanî kiribû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "û civiya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:18.146616508Z",
+  "model": "glm-5.3"
+}

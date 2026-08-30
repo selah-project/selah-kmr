@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 113,
+  "translation": "Kî ye wekî Yahwe Elohîmê me, ê xwe bilind dike ku rûnişte?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "wekî Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ê xwe bilind dike"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ku rûnişte"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:30.653966610Z",
+  "model": "glm-5.3"
+}

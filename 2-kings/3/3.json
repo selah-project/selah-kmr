@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Tenê xwe bi gunehên Yarovam kurê Nevat — ku ew ⟨את⟩ Yisraêl kir gunehkâr — girêda û ji wê berneda.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tenê"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "bi gunehên"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "kir gunehkâr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "xwe girêda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "berdida"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ji wê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:55.455815923Z",
+  "model": "glm-5.3"
+}

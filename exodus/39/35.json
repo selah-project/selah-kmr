@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "⟨את⟩ sandûqa şahidiyê, ⟨את⟩ daranên wê û ⟨את⟩ rûkêşê [sipîkirinê].",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqa şahidiyê"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sandûqa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şahidiyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "daranên wê"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "daranên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûkêşê"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "rûkêşê [sipîkirinê]"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:12.188884660Z",
+  "model": "glm-5.3"
+}

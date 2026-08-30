@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û êdî serê min ê li ser dijminên min ên dora min bilind bibe; û ez ê di çadira wî de qurbanên qêrînan pêşkêş bikim; ez ê strîn bêjim û ez ê ji Yahwe re bilîzim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "û êdî"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "bilind bibe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "dora min"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "û ez qurban bikim"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "di çadira wî de"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanên"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "qêrînan"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ez strîn bêjim"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "û ez bilîzim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:46.364080225Z",
+  "model": "glm-5.3"
+}

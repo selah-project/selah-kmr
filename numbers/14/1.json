@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Hemû civat ⟨את⟩ dengê xwe bilind kirin û qêrîyan, û gel wê şevê girî.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "bilind kirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civat"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê xwe"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dengê xwe"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "girî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "wê şevê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:44:52.870507783Z",
+  "model": "glm-5.3"
+}

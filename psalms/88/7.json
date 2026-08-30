@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Te min di çalê herî jêrîn de danîye, di tarîtiyan de, di kûriyan de.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Te min danîye"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "di çalê"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "herî jêrîn"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "di tarîtiyan de"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "di kûriyan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:17.250897320Z",
+  "model": "glm-5.3"
+}

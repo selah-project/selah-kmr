@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Moşe çû ser çiyê, û ewr çiyê ⟨את⟩ girt.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Û çû ser"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ewr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiyê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:16.185108969Z",
+  "model": "glm-5.3"
+}

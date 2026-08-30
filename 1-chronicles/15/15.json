@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û kurên Lewiyan ⟨את⟩ sandîqa Elohîm hildan, wekî Moşe bi gotina Yahwe ferman kiribû, bi milan ên bi darikan li ser milên wan.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandîqa Elohîm"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandîq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kiribû"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bi gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "bi milên wan"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "bi darikên"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:17.739920382Z",
+  "model": "glm-5.3"
+}

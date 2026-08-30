@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û ew çar pirtikan li çar goşeyên tora paxirî rijand — cih ji bo darikan.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "pirtik"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "li çar"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "goşeyan"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "ji bo tore"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "paxirî"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "cih"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ji bo darikan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:41.968164220Z",
+  "model": "glm-5.3"
+}

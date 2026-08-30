@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Riya sîda rast e; ê rast, rêça sîdê rast dike.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "riya"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sîda"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "rast e"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ê rast"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "rêça"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sîdê"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "rast dike"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:35.264587740Z",
+  "model": "glm-5.3"
+}

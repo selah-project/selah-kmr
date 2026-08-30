@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ⟨את⟩ textên Mîşkanê çê bikî — darên şîtayê, rawestiyî.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Û ... çê bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "textên Mîşkanê"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "textên"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ji bo Mîşkanê"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîtayê"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "rawestiyî (serwêr)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:01.585243312Z",
+  "model": "glm-5.3"
+}

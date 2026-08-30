@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Dizivirin û dilerizin wekî yê mexmûr, û hemû zanîna wan tê daqandin.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "dizivirin"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "û dilerizin"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "wekî yê mexmûr"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "zanîna wan"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "tê daqandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:55.586702501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ji ber ku tu dê pişta wan bidî nîşandan, dema ku tîrên te yên di hêsanên te de bên amadekirin li dijî rûyên wan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "tu dê bidî nîşandan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "pişta wan"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "di hêsanên te de"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "bên amadekirin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "rûyên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:55.681469102Z",
+  "model": "glm-5.3"
+}

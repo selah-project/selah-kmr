@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Yahwe bi Moşe re axaft û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axaft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:03.244861719Z",
+  "model": "glm-5.3"
+}

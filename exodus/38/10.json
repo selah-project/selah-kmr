@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Stûnên wan bîst in û binyatên wan ên bîst ji paxir in; qulikên stûnan û zîncîrên wan ji zîv in.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "stûnên wan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "û binyatên wan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ji paxir"
+    },
+    {
+      "surface": "ושקיהם",
+      "gloss": "û qulikên wan ên"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stûnan"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "û zîncîrên wan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ji zîv"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:10.595064814Z",
+  "model": "glm-5.3"
+}

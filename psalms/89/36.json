@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Carekê bi pîroziya xwe min soz xwar: ez ê ji Dawid re derewan nakim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "carekê"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "min soz xwar"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "bi pîroziya xwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ez ê … nakim⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "derewan nakim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:37.478077468Z",
+  "model": "glm-5.3"
+}

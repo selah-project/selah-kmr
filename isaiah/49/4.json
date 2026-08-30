@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Û ez gotim: “Bi valahî ez westiyam, hêza min ji bo tûjiyê û pûtan bi dawî anî”; lê belê bi rastî mafê min ⟨את⟩ Yahwe ye û xelata min ⟨את⟩ Elohîm ê min e.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Û ez"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "gotim"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "bi valahî"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ez westiyam"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "ji bo tûjiyê"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "û pûtan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "bi dawî anî"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "lê belê bi rastî"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mafê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "û xelata min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm ê min"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm ê min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:43:17.805526989Z",
+  "model": "glm-5.3"
+}

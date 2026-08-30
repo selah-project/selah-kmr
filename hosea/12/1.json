@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Bi derewan li dora min girt Efraîm, û mala Îsraêl bi xezeb; û Yahûda hîn bi Êl digere, û bi yên pîroz ên dilsoz re şerê xo dike.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "li dora min girt"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "bi derewan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraîm"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "û bi xezeb"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "û Yahûda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "רד",
+      "gloss": "digere \/ di serî de direve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi ... re"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "yên pîroz"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "dilsoz e"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:20.508511592Z",
+  "model": "glm-5.3"
+}

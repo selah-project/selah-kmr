@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û ⟨ew⟩ ⟨את⟩ siwarên xwe bi girêdan amade kir û ⟨את⟩ gelê xwe bi xwe re girt.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "bi girêdan amade kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siwarên wî"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "siwarên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gelê wî"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi xwe re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:19.176026291Z",
+  "model": "glm-5.3"
+}

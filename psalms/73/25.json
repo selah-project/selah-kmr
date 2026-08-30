@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Kî ji min re di ezmanan de ⟨heye⟩? û bi te re, di erdê de min tu kes nexwest.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "û bi te re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "min nexwest"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:40.759070261Z",
+  "model": "glm-5.3"
+}

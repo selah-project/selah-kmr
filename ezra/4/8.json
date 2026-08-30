@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 4:8",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Rehûm, xwediyê fermanê, û Şîmşay nivîskar, nameyek li dij Yeruşalêmê ji bo Artahşasta padîşah nivîsîn — weha:",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Rehûm"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "xwediyê"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "fermanê"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "û Şîmşay"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "nivîskar"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "nivîsîn"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "nameyek"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "yek"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dij"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalêmê"
+    },
+    {
+      "surface": "לארתחששתא",
+      "gloss": "ji bo Artahşasta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "weha"
+    }
+  ],
+  "timestamp": "2026-08-30T06:23:14.563976780Z",
+  "model": "glm-5.3"
+}

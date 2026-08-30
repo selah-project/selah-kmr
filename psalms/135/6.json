@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Hemû tiştê ku Yahwe dixwest, wî ⟨wê⟩ kir di ezmanan de û di erdê de, di deryayan de û di hemû kûrahiyan de.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dixwest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "û di erdê de"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di deryayan de"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û di hemû"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "kûrahiyan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:27.624216400Z",
+  "model": "glm-5.3"
+}

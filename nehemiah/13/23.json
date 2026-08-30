@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Di wê rojan de jî min dît ku Cihû ⟨את⟩ jinan bi zimanê Aşdodî, Amonî û Moavî bi cih anîn.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di wê rojan de"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cihû"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Cihû"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "bi cih anîn"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "jinan"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "Aşdodî"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "Amonî"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moavî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:06.083898055Z",
+  "model": "glm-5.3"
+}

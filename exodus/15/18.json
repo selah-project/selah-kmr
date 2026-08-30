@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Yahwe heta hertim û hertim keyanî dike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "keyanî dike"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "heta hertim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:39.700522448Z",
+  "model": "glm-5.3"
+}

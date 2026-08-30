@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Ji bo serokê muzîkê, ji bo Yedutun; mezemûrek ji Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ji bo Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezemûr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:07.167877145Z",
+  "model": "glm-5.3"
+}

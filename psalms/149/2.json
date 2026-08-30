@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 149,
+  "translation": "Yisraêl bi Xwedakarê xwe şa bibe, kurên Tsîyon bi keyê xwe bilîzin.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "şa bibe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "bi Xwedakarê xwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsîyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bilîzin"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "bi keyê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:09.237008440Z",
+  "model": "glm-5.3"
+}

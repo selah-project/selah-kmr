@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û kohnê ku ⟨את⟩ qurbana şewatê ya mirovekî pêşkêş dike, çermê wê qurbana şewatê ya ku ew kohn re aniye, ji wî re be.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Û kohnê"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "pêşkêş dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana şewatê ya mirovekî"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "qurbana şewatê ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirovekî"
+    },
+    {
+      "surface": "עור",
+      "gloss": "çermê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "aniye"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohn re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:32.437114249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Di destê wê yê rastê de dirêjîya rojan ⟨heye⟩; di yê çepê de dewlemendî û rûmet ⟨heye⟩.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "dirêjîya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "di destê wê yê rastê de"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "di yê çepê de"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dewlemendî"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "û rûmet"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:03.769593298Z",
+  "model": "glm-5.3"
+}

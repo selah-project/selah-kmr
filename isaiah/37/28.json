@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Rûniştina te û derketina te û hatina te min dizane, û ⟨את⟩ hêrsa te li dijî min.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Û rûniştina te"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "û derketina te"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "û hatina te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "min dizane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hêrsa te li dijî min"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "hêrsa te"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "li dijî min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:38:35.513674696Z",
+  "model": "glm-5.3"
+}

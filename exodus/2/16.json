@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ji kahînê Mîdyan re heft keç hebûn; ew hatin, av kişand, ⟨את⟩ avdankan dagirtin da ku dewarê bavê xwe bi av bidin.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "Û ji kahînê"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Mîdyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keç"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ew hatin"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "av kişand"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "dagirtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avdankan"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "avdankan"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "da ku … bi av bidin"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dewarê"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "bavê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:56.666311486Z",
+  "model": "glm-5.3"
+}

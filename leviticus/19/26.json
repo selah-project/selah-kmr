@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Bi xwînê re nexwin; fal negirin û ajînbînî nekin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nexwin"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "fal negirin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "ajînbînî nekin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:35.817819430Z",
+  "model": "glm-5.3"
+}

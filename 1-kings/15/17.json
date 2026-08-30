@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û Başa, padîşahê Îsraêl, rabû serî li dijî Yehûda û ⟨את⟩ Ramayê ava kir, da ku were astengkirin derketin û hatin ji bo Asa, padîşahê Yehûda.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "rabû serî"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramayê"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramayê"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ku were astengkirin"
+    },
+    {
+      "surface": "תת",
+      "gloss": "were dayîn"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "û hatin"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ji bo Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:18.994079020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û zilamekî an jîneke, ger di çermê laşê wan de pêkên ronahî, pêkên spî xuya bibin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Û zilamekî"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jîneke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "xuya bibin"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di çermê"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "laşê wan de"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "pêkên ronahî"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "pêkên"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "spî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:28:25.277251744Z",
+  "model": "glm-5.3"
+}

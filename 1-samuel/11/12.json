@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û gel ji Şemûel re got: Kî got ku Şaul dê keyîtî li ser me bike? Hûn wê mêran bidin, û em ê wan bikujin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "dê keyîtî bike"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "li ser me"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Hûn bidin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wê mêran"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "Û em ê wan bikujin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:38:18.019393047Z",
+  "model": "glm-5.3"
+}

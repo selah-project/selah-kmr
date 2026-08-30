@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Bath-Şeba xwe da ber û li ber Malik secde kir; Malik jê re got: Çi ji te re heye?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "xwe da ber"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "secde kir"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "li ber Malik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Malik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re heye"
+    }
+  ],
+  "timestamp": "2026-08-29T20:00:37.514265877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 149,
+  "translation": "Xesîd bila di şewq de bilizin, li ser razên xwe bila biferînin.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "bila bilizin"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "xesîd"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "di şewq de"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bila biferînin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "razên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:22.717141535Z",
+  "model": "glm-5.3"
+}

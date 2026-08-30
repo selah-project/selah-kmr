@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Xerabî gunehkaran dikuje, û nefretkarên rastdaran dê sûcdar bibin.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "dikuje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gunehkaran"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Xerabî"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "nefretkarên"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rastdaran"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "dê sûcdar bibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:13.133833467Z",
+  "model": "glm-5.3"
+}

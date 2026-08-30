@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Tiştên pêşîn ji kevnarîyê bibîr bînin, çimkî ez Êl im û ji bilî min yê din tune ye, Elohîm tune, û tiştê wekî min ⟨tune ye⟩.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "bibîr-bînin"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "tiştên-pêşîn"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ji-kevnarîyê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û-tune-ye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yê-din"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "û-tiştî-din"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "wekî-min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:44.929106066Z",
+  "model": "glm-5.3"
+}

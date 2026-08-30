@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û Yîtsxaq hez kir ⟨את⟩ Esav, ji ber ku nêçîr di devê wî de bû; û Rîvqa jî ⟨את⟩ Yaqub dixwazî.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "û hez kir"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtsxaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "nêçîr"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di devê wî de"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "û Rîvqa"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "dixwazî\/hez dikir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:07.582690978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Moşe bi gel re axivî, got: Ji xwe ⟨את⟩ mêran amade bikin ji bo şer, û bila li ser Midyanê bin, da ku tolê Yahwe li Midyanê bînin.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "amade bikin"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ ji xwe",
+      "marks": "mêran"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ji bo şer"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bila bin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da ku bînin"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "tolê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "li Midyanê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:53:54.238511798Z",
+  "model": "glm-5.3"
+}

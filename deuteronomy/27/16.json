@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Neçar bila ew be, yê ku bavê xwe û diya xwe hêjar dike; û hemû gel bibêjin: Amên.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Neçar bila … be"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "hêjar dike"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "û diya xwe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amên"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:26.949921019Z",
+  "model": "glm-5.3"
+}

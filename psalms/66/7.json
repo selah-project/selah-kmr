@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Ew bi hêza xwe heta hertimî serwerî dike; çavên wî li gelalan dirûnin — serhildêr xwe bilind nekin. Selah.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "serwerî dike"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "bi hêza xwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "li gelalan"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "dirûnin"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "serhildêr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "xwe bilind nekin"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:27.843919430Z",
+  "model": "glm-5.3"
+}

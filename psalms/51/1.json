@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Ji bo serokyê muzîkê. Mizmora Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokyê muzîkê"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:04.276557614Z",
+  "model": "glm-5.3"
+}

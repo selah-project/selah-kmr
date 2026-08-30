@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Da ku ez hemû pesnên te bidim zanîn li deriyên keça Siyonê; ez di rizgarîya te de şa dibim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "bidim zanîn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "pesnên te"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "li deriyên"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonê"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "şa dibim"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "di rizgarîya te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:22.264297687Z",
+  "model": "glm-5.3"
+}

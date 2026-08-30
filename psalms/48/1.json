@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Stran, mezamûr, ji kurên Korach re.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezamûr"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji kurên … re"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:12.746536534Z",
+  "model": "glm-5.3"
+}

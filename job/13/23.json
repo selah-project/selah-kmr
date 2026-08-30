@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 13:23",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Çend gunehên min û çewtî hene? Min hişyar bike ji bo sêdariya min û gunehê min.",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "çend"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "gunehên min"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "û çewtî"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "sêdariya min"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "û gunehê min"
+    },
+    {
+      "surface": "הדיעני",
+      "gloss": "min hişyar bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:26.218775811Z",
+  "model": "glm-5.3"
+}

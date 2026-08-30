@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ⟨את⟩ goşt di vê şevê de bixwin — bi agir hatî sor kirin, û nanê bêhevirî; bi kulîlkên tal wî bixwin.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Û bixwin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goşt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "di şevê de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "hatî sor kirin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "û nanê bêhevirî"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "kulîlkên tal"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "wî bixwin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:07.509050242Z",
+  "model": "glm-5.3"
+}

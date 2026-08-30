@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Ji ber wê em natirsin, her çi erd biguhere û çiya bi dilê deryayan de bihejin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "em ditirsin"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "biguhere"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "û bihejin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çıya"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "bi dilê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "deryayan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:16.518161679Z",
+  "model": "glm-5.3"
+}

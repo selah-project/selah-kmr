@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û xizmetkarên perestgehê ji welêt derbas kir û ⟨את⟩ hemû pûtên ku bavên wî çêkiribûn rakir.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Û … derbas kir"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "xizmetkarên perestgehê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "û … rakir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû pûtên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "pûtên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkiribûn"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:13.004774183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji çêwiyê re bêje: 'Xwişka min ⟨את⟩ ⟨tû⟩ î', û ji têgihîştinê re navê 'hevalê-nêzîk' bide.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Ji çêwiyê re"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Xwişka min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "וֹדָע (hevalê-nêzîk)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "û ji têgihîştinê re"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ji têgihîştinê"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "navê... bide"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:21.967793804Z",
+  "model": "glm-5.3"
+}

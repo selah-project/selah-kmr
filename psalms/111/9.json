@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 111,
+  "translation": "Rizgarî şand bo gelê xwe; ferman da bo hertimî ⟨peymana⟩ xwe; navê wî pîroz û dilhêz e.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "Rizgarî"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "bo gelê xwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bo hertimî"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "û dilhêz"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:57.802355473Z",
+  "model": "glm-5.3"
+}

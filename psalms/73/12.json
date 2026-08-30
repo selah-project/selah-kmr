@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Binêrin, evan in wan bedkaran, û yên hertim bêxema hêz û dewlemendî bi dest xistine.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Binêrin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "evan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bedkaran"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "û yên bêxema"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "bi dest xistine"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêz û dewlemendî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:38.645215952Z",
+  "model": "glm-5.3"
+}

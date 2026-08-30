@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Bidînin, min ew wekî şahid ji bo gelan daye, pêşeng û fermandar ji bo gelan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bidînin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahid"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ji bo gelan"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "min ew daye"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pêşeng"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "û fermandar"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ji bo gelan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:08.336475778Z",
+  "model": "glm-5.3"
+}

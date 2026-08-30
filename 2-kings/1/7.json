@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û wî ji wan re axavt: \"Çi cor mêr bû ew ku bilind bû pêşber we û van gotinan ji we re got?\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "û wî axavt"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "cor (awaz)"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "pêşber we"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van gotinan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "van gotinan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:41.203347593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "û Ji Yoav re hate gotin: \"Binêre, padîşah hêîn dike û li ser Avşalom sîvan dike.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "hate gotin"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Ji Yoav re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "hêîn dike"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "sîvan dike"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    }
+  ],
+  "timestamp": "2026-08-29T19:56:54.921338264Z",
+  "model": "glm-5.3"
+}

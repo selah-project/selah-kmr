@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Kalev got: «Kî Qiryat-Séfer ⟨את⟩ bixe û bigire, ez ê ⟨את⟩ keça xwe Aksa bidim wî bi jînî.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "bixe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat-Séfer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "û bigire"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "keça xwe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bi jînî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:01.887315709Z",
+  "model": "glm-5.3"
+}

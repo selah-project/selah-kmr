@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û min li wir cihekî ji bo sandiqe çêkir, ku tê de peymana Yahwe ye, ku ew bi bavên me girêbû, dema ku ew ⟨את⟩ wan ji welatê Mîtsrayim derdixist.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "û min çêkir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihekî"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ji bo sandiqe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "girêbû"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "derdixist"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:54.843536643Z",
+  "model": "glm-5.3"
+}

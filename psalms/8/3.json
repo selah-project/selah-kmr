@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ji devê zarokên şîrmêj û didanan hûnî ⟨⟨hêz⟩⟩ danî, ji ber dijminên te, da ku düşman û tolhêr bêdeng bikî.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ji devê"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "zarokên biçûk"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "û şîrmêj"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "hûnî ... danî"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "dijminên te"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "da ku ... bêdeng bikî"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşman"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "û tolhêr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:42.018881477Z",
+  "model": "glm-5.3"
+}

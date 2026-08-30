@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ji nifşê heta nifşê rastbûna te; tu ⟨את⟩ erdê afirand û ew disekte.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşê"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "rastbûna te"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "tu afirand"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "û ew disekte"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:46.223483978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Ên di keştiyan de ber bi deryayê dikevin, ên di avên mezin de kar dikin.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Ên… dikevin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ber bi deryayê"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "di keştiyan de"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "kar dikin"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kar"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mezin de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:14.997275178Z",
+  "model": "glm-5.3"
+}

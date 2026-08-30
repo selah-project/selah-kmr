@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Tu ji Edomî nefret neke, çimkî ew birayê te ye; tu ji Mîtsrî nefret neke, çimkî tu di welatê wî de penaber bûyî.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "nefret neke"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "nefret neke"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mîtsrî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "גר",
+      "gloss": "penaber"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bûyî"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "di welatê wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:08:24.152060535Z",
+  "model": "glm-5.3"
+}

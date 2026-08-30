@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Yahwe ⟨את⟩ keyaniyê di destê wî de rûnî kir, û hemû Yehûda ji Yehoşafat re pêşkêş dan, û ji bo wî dewlemendî û rûmet pir bûn.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "rûnî kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keyaniyê"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "keyaniyê"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê wî de"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pêşkêş"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ji Yehoşafat re"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dewlemendî"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "û rûmet"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-30T06:47:48.581087431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Avşalom ji Huşay re got: «Ev e xesedê te bi ⟨את⟩ hevalê te re! Çima te ⟨את⟩ hevalê xwe re ne çû?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Huşay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev e"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê te"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "hevalê te"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "çû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê xwe"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "hevalê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:55:14.874994148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û da ku tu di guhên kurê xwe û kurê kurê xwe de vegotî ⟨את⟩ yên ku min bi Mîtsrayim kirîne û ⟨את⟩ nîşanên min ên ku min nav wan de danîne — û hûn bizanin ku ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "û da ku"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "vegotî bikî"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di guhên … de"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "û kurê"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yên ku min bi Mîtsrayim kirîne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "min … kirîne"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "bi Mîtsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "nîşanên min"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "nîşanên min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "min … danîne"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nav wan"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "û hûn bizanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:10.207397900Z",
+  "model": "glm-5.3"
+}

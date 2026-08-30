@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Hûn ê xwarina kevn a bi salan bixwin, û kevn ji ber ya nû derxînin.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "hûn ê bixwin"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "kevn"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "a bi salan"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "û kevn"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya nû"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "derxînin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:23.155345192Z",
+  "model": "glm-5.3"
+}

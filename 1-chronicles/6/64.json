@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ⟨את⟩ Qedemot û ⟨את⟩ mezreyên wê, û ⟨את⟩ Mefa'at û ⟨את⟩ mezreyên wê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Qedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mezreyên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mezreyên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mezreyên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mezreyên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:04.288924742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Û ⟨את⟩ birayên xwe şand û ew çûn; û ji wan re got: Hêrs nebin di rê de!",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayên xwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ew çûn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "hêrs nebin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:58:16.080284920Z",
+  "model": "glm-5.3"
+}

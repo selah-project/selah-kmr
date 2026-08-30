@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Bidîne, tu rastî di kûrahiya hundirîn de dixwazî, û di tiştê veşartî de tu jîrîyê didî min zanîn.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bidîne"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "dixwazî"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "di kûrahiya hundirîn de"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "û di tiştê veşartî de"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrî"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "tu didî min zanîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:01.544758731Z",
+  "model": "glm-5.3"
+}

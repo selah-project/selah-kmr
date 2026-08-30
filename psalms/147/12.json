@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Yeruşalayim, Yahwe ⟨את⟩ bilind bike, Tsiyon, Elohîm-a xwe pesindê bike!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "bilind bike"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "pesindê bike"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîm-a xwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:40.195331250Z",
+  "model": "glm-5.3"
+}

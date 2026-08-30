@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û masîgir ên xwe bigirînin, hemû yê ku dawûrî bavêjin kanalê wê sôw bikin, û yê ku tora li ser rûyê avê belav dikin hêdahêda winda bibin.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "ê xwe bigirînin"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "masîgir"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "wê sôw bikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "yê ku bavêjin"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "li kanalê"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "dawûrî"
+    },
+    {
+      "surface": "ופורשי",
+      "gloss": "û yê ku belav dikin"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "hêdahêda winda bibin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:04.163294189Z",
+  "model": "glm-5.3"
+}

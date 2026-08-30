@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û devê xwe li ser min vekirin (fireh kirin), gotin: \"Hea, hea! Çavê me dît ⟨wî⟩!\"",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "fireh kirin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "devê xwe"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hea"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "dît"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "çavê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:02.058972822Z",
+  "model": "glm-5.3"
+}

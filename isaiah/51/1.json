@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Guh bidê min, ên ku dûrî rastîyê diçin, ên ku Yahwe digerin: binêrin ber bi kevirê ku ji wê hatîye qulkirin û ber bi qula çalê ku ji wê hatîye kunîn.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "guh bidê min"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ên ku dûrî… diçin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastîyê"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ên ku… digerin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "binêrin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kevirê"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "ji wê hatîye qulkirin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ber bi"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "qula"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çalê"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "ji wê hatîye kunîn"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:33.429208900Z",
+  "model": "glm-5.3"
+}

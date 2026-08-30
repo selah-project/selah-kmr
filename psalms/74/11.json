@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Çima destê xwe, ê rastê xwe jî, vedigerînî? Ji nava sîngê xwe derxe û biqedînin ⟨wan⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "vedigerînî"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "û ê rastê te"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ji nava"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "sîngê te"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "biqedînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:58.223481509Z",
+  "model": "glm-5.3"
+}

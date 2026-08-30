@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Heta ezdetî ez ê xesedê ji bo wî biparêzim, û peymana min a bawer bi wî re dê bisekine.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "heta ezdetî"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "ez ê biparêzim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "xesedê min"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "û peymana min"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "a bawer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:24.732078386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ebyathar ji Davîd re ragihand ku Şaul ⟨את⟩ kahnên Yahwe kuştine.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Davîd re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kuştine"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahnên Yahwe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kahnên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:43:58.131038267Z",
+  "model": "glm-5.3"
+}

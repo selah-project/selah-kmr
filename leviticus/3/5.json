@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û lawên Aharon wê ⟨אתו⟩ li ser altûrê bidin sebirandin — li ser qurbanê şewitandinê yê li ser darên li ser agir — qurbanekî agir, bêhneke hêsan ji bo Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "bidin sebirandin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (qurbanê)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lawên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser altûrê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbanê şewitandinê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "daran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qurbanekî agir"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bêhn"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "hêsan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:35.799148409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Rabe, ey Yahwe; bila mirov serî nehilde; bila netewe li ber rûyê te bên dadrûsîkirinê.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "serî nehilde"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mîrov"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "bên dadrûsîkirinê"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:18.565493917Z",
+  "model": "glm-5.3"
+}

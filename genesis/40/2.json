@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û Firewn qehr bû bi du kureyên xwe yên ênî, bi serokê şûşikaran û bi serokê firraran.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "qehr bû"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firewn"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "kureyên xwe yên ênî"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serokê"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "şûşikaran"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û bi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serokê"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "firraran"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:18.354225326Z",
+  "model": "glm-5.3"
+}

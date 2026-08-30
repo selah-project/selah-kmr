@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Û dibêjin: «Ma Êl dizane? Û ma zanîn li cî Elyon heye?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Û dibêjin"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "Û ma … heye"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "zanîn"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "li cî Elyon"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:38.645048039Z",
+  "model": "glm-5.3"
+}

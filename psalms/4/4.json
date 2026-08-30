@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û bizanin ku Yahwe xasid ji bo xwe veqiştiye; Yahwe dê gava min gazî wî bike, bibihîze.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "û bizanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "veqiştiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "xasid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dê bibihîze"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "gava min gazî kir"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:50.907009664Z",
+  "model": "glm-5.3"
+}

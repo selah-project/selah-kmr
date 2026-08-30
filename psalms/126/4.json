@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 126,
+  "translation": "Vegere, Yahwe, ⟨את⟩ êsîriya me vegerîne, wek çemên di Negevê de!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vegere … vegerîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êsîriya me"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "êsîriya me"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "wek çemên"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di Negevê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:08.654224427Z",
+  "model": "glm-5.3"
+}

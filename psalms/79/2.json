@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 79,
+  "translation": "Ê canên xizmetkarên te dane wek xwarinê ji balindeyên ezmanan, goştkî xweşdarên te ji ajalên dinê re.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "dane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ê canên xizmetkarên te"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ê canên"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "xizmetkarên te"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "wek xwarinê"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ji balindeyên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goştkî"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "xweşdarên te"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "ji ajalên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:02.842081490Z",
+  "model": "glm-5.3"
+}

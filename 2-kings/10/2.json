@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û êdî, gava ev name hat ba we, û ⟨את⟩ kurên begên we û ⟨את⟩ siwarî û hesp û bajarekî bi birû û çek bi we re ne —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "û êdî"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "gava ... hat"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ev name"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ba we"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bi we re ne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "begên we"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bi we re ne"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "siwarî"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "û hesp"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "û bajar"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "bi birû"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "û çek"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:36.018897532Z",
+  "model": "glm-5.3"
+}

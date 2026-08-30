@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Yehoyakîm bi bavên xwe re raza, û Yehoyakîn kurê wî şûna wî padîşah bû.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "raza"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakîm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "padîşah bû"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakîn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:25:52.954933991Z",
+  "model": "glm-5.3"
+}

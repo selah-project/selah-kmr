@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ne dûr bikeve ji min, ji ber ku tengasî nêzîk e, ji ber ku alîkar tune ye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "dûr bikeve"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tengasî"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "nêzîk e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "alîkar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:35.122492489Z",
+  "model": "glm-5.3"
+}

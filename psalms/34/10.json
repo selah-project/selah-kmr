@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Ji Yahwe bitirsin, hûn ên pîrozên wî; çimkî ji ên ku ji wî ditirsin re kêmasî tune ye.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "bitirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "pîrozên wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kêmasî"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ji ên ku ji wî ditirsin re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:25.987414302Z",
+  "model": "glm-5.3"
+}

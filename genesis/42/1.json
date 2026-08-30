@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û Yaqûb dît ku li Mîtsrayimê genim heye, û Yaqûb ji kurên xwe re got: \"Çima hûn dinihêrin hevdu?\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יש",
+      "gloss": "heye"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "genim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "li Mîtsrayimê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ji kurên xwe re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "hûn dinihêrin hevdu"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:02.688159456Z",
+  "model": "glm-5.3"
+}

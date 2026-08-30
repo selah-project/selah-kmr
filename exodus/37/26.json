@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Wî ⟨את⟩ wê bi zêrê safî ûrê kir — ⟨את⟩ serê wî û ⟨את⟩ dîwarên wî li dora wî û ⟨את⟩ kernehên wî — û wî ji bo wî kembera zêrî li dora wê çêkir.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ûrê kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serê wî"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "serê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "dîwarên wî"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "dîwarên wî"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kernehên wî"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "kernehên wî"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kember"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrî"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:38.366080587Z",
+  "model": "glm-5.3"
+}

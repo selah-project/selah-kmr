@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Ahav ji Eliyahu re got: «Ma tu min dî, ey dijminê min?» Û wî got: «Min dî, ji ber ku te xwe firotibû da tu xerabiyê bikî li ber çavên Yahwe.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ... got"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "Ma tu min dî"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ey dijminê min"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wî got"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "Min dî"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "te xwe firotibû"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da tu bikî"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "li ber çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:57.670020333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 130,
+  "translation": "Ez li Yahwe çaverabûm, canê min çaverabû, û ji gotina wî ez hêviyê dagirtim.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "çaverabûm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "çaverabû"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "û ji gotina wî"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "hêviyê dagirtim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:04.673546694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û wî girt û anî ba dayika wî; û ew rûnişt ser çûçikên wî heta nîvro û mir.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "û wî girt"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "û anî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "dayika wî"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "û ew rûnişt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "çûçikên wî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "nîvro"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û mir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:15:39.625529464Z",
+  "model": "glm-5.3"
+}

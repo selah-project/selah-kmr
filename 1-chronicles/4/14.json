@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Meonotay ⟨את⟩ Ofrayê bû bav; û Serayah ⟨את⟩ Yoav bû bav, bavê Geyê-Çarşîm, ji ber ku ew çarşî bûn.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Û Meonotay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofrayê"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofray"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "û Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Geyê (newal)"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Çarşîm (çarşiyan)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "çarşî"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:48.364327829Z",
+  "model": "glm-5.3"
+}

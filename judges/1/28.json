@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 1:28",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û bû, dema Îsraêl xurt bû, wan ⟨את⟩ Kenaanî kirin bacdar, lê bi temamî ne derxist.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dema"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "xurt bû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanî"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanî"
+    },
+    {
+      "surface": "למס",
+      "gloss": "bo bacdar"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "derxistin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "derxist"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:47.911824372Z",
+  "model": "glm-5.3"
+}

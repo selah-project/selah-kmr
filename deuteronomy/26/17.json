@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 26:17",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Tu îro ⟨את⟩ Yahwe danezanî ku Elohîmê te bibe, û tu di rêyên wî de biçe, û biryarên wî û fermanên wî û hukmên wî biparêze, û dengê wî bibihîze.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "danezanî"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "biçe"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di rêyên wî de"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "biryarên wî"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "fermanên wî"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "hukmên wî"
+    },
+    {
+      "surface": "ולשמע",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "dengê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:57.623385977Z",
+  "model": "glm-5.3"
+}

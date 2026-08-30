@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 67,
+  "translation": "Elohîm dê li me dilovanî bike û me bibexşîne, rûyê xwe ⟨את⟩ me ronî bike. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "dê li me dilovanî bike"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "û me bibexşîne"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ronî bike"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:01.030032361Z",
+  "model": "glm-5.3"
+}

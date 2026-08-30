@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Binêre, ez te da parzûnê, lê ne wekî zîvê; ez te hilbijartim di firîna belengaziyê de.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ez te da parzûnê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê ne"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bi zîvê"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ez te hilbijartim"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "di firîna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "belengaziyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:43:40.498200018Z",
+  "model": "glm-5.3"
+}

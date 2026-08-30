@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "⟨את⟩ hukmên min bikin û ⟨את⟩ hugûrên min biparêzin, ku di wan re bidirin; ez im Yahwe, Elohîmê we.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukmên min"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmên min"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hugûrên min"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "hugûrên min"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "bidirin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:55.431799652Z",
+  "model": "glm-5.3"
+}

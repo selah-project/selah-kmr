@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wê ew roj were ku ez ê ⟨את⟩ kevana Yisraêl di newala Yizreêl bişkînim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wê…were"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ew roj"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ez ê bişkînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevana Yisraêl"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kevan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "di newalê"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreêl"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:41.156162495Z",
+  "model": "glm-5.3"
+}

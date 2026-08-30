@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Ji bo serokê muzîkê, ji aliyê kurên Qorah (Qorah), li ser Alamot, stranan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokê muzîkê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji aliyê kurên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah (Qorah)"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stranan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:16.517669466Z",
+  "model": "glm-5.3"
+}

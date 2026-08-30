@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Ev nifşe yên ku wî lêdigerin in — yên ku rûyê te lêdigerin — Ya'qûb. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nifş"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "yên ku wî lêdigerin"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "lêgerînên"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'qûb"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:21.299429513Z",
+  "model": "glm-5.3"
+}

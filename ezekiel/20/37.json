@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ez ê we derbas bikim ⟨אתכם⟩ binê çaweyê, û ez ê we bînim ⟨אתכם⟩ nav benda peymanê.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "ez ê derbas bikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩we",
+      "marks": "we (derbasbûn)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "binê"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "çaweyê"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ez ê bînim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩we",
+      "marks": "we (anîna)"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "nav bendê"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "peymanê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:51:27.488455306Z",
+  "model": "glm-5.3"
+}

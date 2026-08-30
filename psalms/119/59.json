@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Min li ser rêyên xwe fikirîn û pêyên xwe vegerand ber bi şahidiyên te.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "min fikirîn (hesab kir)"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rêyên min"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "û ez vegerandim"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pêyên min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şahidiyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:20.792339166Z",
+  "model": "glm-5.3"
+}

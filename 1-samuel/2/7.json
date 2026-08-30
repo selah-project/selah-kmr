@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Yahwe feqîr dike û dewlemend dike; nizm dike, her wiha bilind dike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "feqîr dike"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "û dewlemend dike"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "nizm dike"
+    },
+    {
+      "surface": "אף",
+      "gloss": "her wiha"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "bilind dike"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:28.159031303Z",
+  "model": "glm-5.3"
+}

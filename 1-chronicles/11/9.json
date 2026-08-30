@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Dawid çû, mezin bû û mezin dibû, û Yahwe yên-Tsavaot bi wî re bû.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "û mezin dibû"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Û Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "yên-Tsavaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re bû"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:14.200978998Z",
+  "model": "glm-5.3"
+}

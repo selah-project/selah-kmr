@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Serafîm li ser wî radiwestin; ji bo her yekî şeş bask, şeş bask; bi du baskan rûyê xwe dadipêçin û bi du baskan lingên xwe dadipêçin û bi du baskan difirin.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serafîm"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "radiwestin"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "שש",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "bask"
+    },
+    {
+      "surface": "שש",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "bask"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ji bo her yekî"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "bi du baskan"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "dadipêçin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "û bi du baskan"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "dadipêçin"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên xwe"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "û bi du baskan"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "difirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:38.024848528Z",
+  "model": "glm-5.3"
+}

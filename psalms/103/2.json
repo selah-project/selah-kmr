@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Canê min, ⟨את⟩ Yahwe pîroz bike, û hemû qenciyyên wî ji bîr neke.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "pîroz bike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "ji bîr neke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "qenciyyên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.762138568Z",
+  "model": "glm-5.3"
+}

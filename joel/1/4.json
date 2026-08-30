@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Mayîna qirşê pûç qirş xwar, û mayîna qirş qirşê ciwan xwar, û mayîna qirşê ciwan qirşê wêran xwar.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "mayîna"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "qirşê pûç"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "qirş"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "û mayîna"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "qirş"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "qirşê ciwan"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "û mayîna"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "qirşê ciwan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "qirşê wêran"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:21.591482610Z",
+  "model": "glm-5.3"
+}

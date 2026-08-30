@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Kî gunehkar rast derdixe û durist gunehbar dike — herdu jî bezayî Yahwe ne.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "rast derdixe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "gunehbar dike"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "durist"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "bezayî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "herdu jî"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:30.938280374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "û li ser vê peyvê ji wî re ferman dabû ku piştî Elohîmên din neçe; lê ew ⟨את⟩ tiştê ku Yahwe ferman dabû parast.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ferman dabû"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vê peyvê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ku ne"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "neçe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîmên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê ... ne"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "parast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku Yahwe ferman dabû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman dabû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:10.241110649Z",
+  "model": "glm-5.3"
+}

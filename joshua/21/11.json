@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji wan re ⟨את⟩ Qiryat-Arba, bavê ⟨הענוק⟩ Enaq — ew Hebron e, li çiyayê Yehuda — û ⟨את⟩ merayên wê yên dora wê dan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Enaq"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "merayên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "merayên wê"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "dora wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:33.407534731Z",
+  "model": "glm-5.3"
+}

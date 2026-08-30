@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Welatê we wêran e, bajarên we bi agir hatine şewitandin; axa we — bi ber çavên we biyanî ⟨את⟩ wê dixwin, û ew wêran e, wekî hilweşandina biyaniyan.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Welatê we"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "wêran e"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "bajarên we"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "hatine şewitandin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "axa we"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "bi ber çavên we"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (axa we)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "û ew wêran e"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "wekî hilweşandina"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "biyaniyan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:59.854517245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Ahaz zîv û zerê ku di mala Yahwe de û di xezîneyên mala keyî de dihat dîtin girt, û ji keyê Aşûr re wek şîret şand.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zîv û zer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zer"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zer"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ku dihat dîtin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "û di xezîneyên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "keyî"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji keyê re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûr"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "wek şîret"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:18.251278179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 141,
+  "translation": "Bila gunehkar bi xwe di torên xwe de bikevin — ez ⟨bi⟩ yektayî derbas dibim heta ku ez bihurim.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "bila bikevin"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "di torên xwe de"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi yektayî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ez bihurim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:53.322804812Z",
+  "model": "glm-5.3"
+}

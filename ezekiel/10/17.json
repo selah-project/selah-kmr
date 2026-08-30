@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Di sekinîna wan de ew sekinîn, û di bilindbûna wan de ew bi wan re bilind bûn ⟨את⟩; çimkî ruh ⟨a⟩ zindi di wan de bû.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "di sekinîna wan de"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ew sekinîn"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "û di bilindbûna wan de"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ew bilind bûn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bi wan re (ew)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "a zindi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:46:09.466544771Z",
+  "model": "glm-5.3"
+}

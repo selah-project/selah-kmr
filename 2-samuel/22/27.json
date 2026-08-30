@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Bi paqij re paqij dibî, û bi yê xwar re xwar dibî.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "paqij dibî"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi…re"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "yê xwar"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "xwar dibî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:35.824324155Z",
+  "model": "glm-5.3"
+}

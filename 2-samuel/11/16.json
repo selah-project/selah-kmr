@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û bû, dema Yoav li ser bajêr digeriya, ew ⟨את⟩ Ûriya danî cihê ku ew dizanî ku li wir mêrên hêzdar hene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "dema ... digeriya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ûriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ûriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ew dizanî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:12.629128781Z",
+  "model": "glm-5.3"
+}

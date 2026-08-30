@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Ji bo serokê muzîkê; «Werîne xirab neke»; ji Dawid; mîktam (nivîsara kêrkirî); gava Şaul şand û ew li ser malê çavan danî da wî bikujin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "werîne xirab neke"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mîktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "gava şand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "û ew çavan danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "da wî bikujin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:28.181794610Z",
+  "model": "glm-5.3"
+}

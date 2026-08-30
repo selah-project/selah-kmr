@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û ew rastî Moşe û ⟨את⟩ Aharon hatin — ⟨ew herdu⟩ li pêşberî wan rawestabûn, dema ku ⟨ew herdu⟩ ji cem ⟨את⟩ Firawn derdiketin.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "û rastî… hatin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "rawestabûn"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "li pêşberî wan"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "demaku derdiketin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji cem ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:54.918888064Z",
+  "model": "glm-5.3"
+}

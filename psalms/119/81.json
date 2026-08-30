@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Canê min ji bo toxrana te keltiya, ji bo peyva te ez hêvî dikim.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "keltiya"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "ji bo toxrana te"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ji bo peyva te"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ez hêvî dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:33.618727132Z",
+  "model": "glm-5.3"
+}

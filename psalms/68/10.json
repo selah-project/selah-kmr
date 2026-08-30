@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Berûdana dilxwazî tu, ey Elohîm, belav dikî; mîrata te — gava westiya bû — tu ⟨wê⟩ sabit kirî.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "berûdan"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "dilxwazî"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "belav dikî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mîrata te"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "û westiya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "sabit kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:12.237935797Z",
+  "model": "glm-5.3"
+}

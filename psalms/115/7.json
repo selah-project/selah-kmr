@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Destên wan ⟨hene⟩ û dest nadidin; lingên wan ⟨hene⟩ û namaşin; deng ji qirika xwe dernaxin.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "destên wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "dest didin (dinê ber)"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "lingên wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "dimaşin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "deng derdixin (wê dikin)"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "bi qirika xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:55.899250370Z",
+  "model": "glm-5.3"
+}

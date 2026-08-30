@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Lê key dê di Elohîm de şa bibe, her kesê ku bi wî sond dixwe dê bi wî bilind bibe, çûnkî devê dêvan derewan dê bên girtin.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "lê key"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "dê şa bibe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di Elohîm de"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "dê bilind bibe (dê pesnê bide)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her kesê"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ku sond dixwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bi wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "dê bên girtin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "dêvan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:36.287822914Z",
+  "model": "glm-5.3"
+}

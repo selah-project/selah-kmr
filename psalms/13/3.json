@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Heta kengê ez di canê xwe de şêwiran datînim, xem di dilê min de roj bi roj? Heta kengê dijminê min serê min bilind dike?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "datînim"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "şêwiran"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "di canê xwe de"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "xem"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "di dilê min de"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "roj bi roj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "bilind dike"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminê min"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "serê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:37.203524634Z",
+  "model": "glm-5.3"
+}

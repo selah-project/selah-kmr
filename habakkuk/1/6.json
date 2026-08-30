@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber ku va, ez ⟨את⟩ Kasdîyan radigirim — neteweya tal û lez, ya ku berfirehiyên erdê digere da ku niştecihên ku ne ji wî ne dagir bike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "va"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "radigirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kasdîyan"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdîyan"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "המר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "û lez"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "digere"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "berfirehiyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "da ku dagir bike"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "niştecih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî ne"
+    }
+  ],
+  "timestamp": "2026-08-30T04:14:11.383858311Z",
+  "model": "glm-5.3"
+}

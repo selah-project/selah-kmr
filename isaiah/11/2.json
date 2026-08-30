@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ruh a Yahwe dê li ser wî biheweşe: ruha jîrî û têgihîştinê, ruha şêwirmendî û hêzê, ruha zanînê û tirsa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "biheweşe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrî"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "û têgihîştin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "şêwirmendî"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "û hêz"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanîn"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "û tirsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:54.603464832Z",
+  "model": "glm-5.3"
+}

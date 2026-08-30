@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Ahab şand li ser tevayî zarokên Yisrael, û kom kir ⟨את⟩ pêxemberan çiyayê Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Û şand"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li ser tevayî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "û kom kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêxemberan"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:20.838081935Z",
+  "model": "glm-5.3"
+}

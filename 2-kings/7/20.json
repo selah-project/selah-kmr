@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ji wî re wisa bû: gel wî ⟨את⟩ di deriyê de hêda û ew mir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "û hêdan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di deriyê de"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û mir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:02.354580696Z",
+  "model": "glm-5.3"
+}

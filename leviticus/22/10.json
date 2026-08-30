@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û her biyanî tiştê pîroz naxwe; cîwarê kâhîn û kirêkar tiştê pîroz naxwin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "û her"
+    },
+    {
+      "surface": "זר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "naxwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tiştê pîroz"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "cîwar"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhîn"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "û kirêkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "naxwin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tiştê pîroz"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:29.600458080Z",
+  "model": "glm-5.3"
+}

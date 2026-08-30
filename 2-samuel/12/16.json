@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Dawid ji bo lawikî ⟨את⟩ Elohîm lêGERiya (ji Elohîm re xwest), û Dawid rojiyê girt, ket û şevê ma û xwe li erdê rûnişt.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "lêGERiya \/ xwest"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "lawikî"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "rojiyê girt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "rojî"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ket"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "şevê ma"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "xwe rûnişt"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "li erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:55.769918059Z",
+  "model": "glm-5.3"
+}

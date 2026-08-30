@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û ⟨את⟩ Aharon û ⟨את⟩ kuranên wî bi rûnê landikê bike, û wan pîroz bike, da ku ji bo min kahîn bin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuranên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kuranên wî"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "bi rûnê landikê bike"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "û wan pîroz bike"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "da ku kahîn bin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:23.877782156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Hemû gelê erdê keyfxweş bû û bajar arûm bû; û ⟨את⟩ Atalyahu bi şûr di mala key kuştin.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "keyfxweş bû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "û bajar"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "arûm bû"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "kuştin"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûr"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    }
+  ],
+  "timestamp": "2026-08-29T20:21:16.847071543Z",
+  "model": "glm-5.3"
+}

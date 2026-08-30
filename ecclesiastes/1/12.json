@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ez, Kohelet, di Yeruşalayimê de şah bûm ser Îsraêlê.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yeruşalayimê de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:27.365195674Z",
+  "model": "glm-5.3"
+}

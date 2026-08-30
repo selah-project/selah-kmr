@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Pişta min da ewên ku dikuştin û eniyên min da ewên rûmetandinê; rûyê min ji riswatiyê û tifkirînê venihêrand.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "pişta min"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "da"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "ewên ku dikuştin"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "û eniyên min"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "ewên rûmetandinê"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "venihêrand"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "ji riswatiyê"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "û tifkirînê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:31.868061954Z",
+  "model": "glm-5.3"
+}

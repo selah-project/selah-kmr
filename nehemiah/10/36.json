@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ku ⟨את⟩ yekem berhemên axa xwe û yekem berhemên hemû fêkiyê hemû daran, sal bi sal, bînin male Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "û ku bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yekem berhemên axa xwe"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "yekem berhemên"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "axa xwe"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "û yekem berhemên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fêkiyê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daran"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "bi sal"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "male"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:02.016060969Z",
+  "model": "glm-5.3"
+}

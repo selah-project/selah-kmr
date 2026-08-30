@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "wê çaxê civîn li gorî van hukman di navbera didayan û di navbera Goêlê xwînê de berbijêkî bike.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "berbijêkî bike"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civîn"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "didayan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "Goêl"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukman"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-29T18:56:46.408031334Z",
+  "model": "glm-5.3"
+}

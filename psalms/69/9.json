@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ez ji bo birayên xwe biyanî bûm û ji bo kurên diya min xerîb.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûm"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ji bo birayên min"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "û xerîb"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo kurên"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "diya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:57.541631185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "û min ji bo wan ⟨את⟩ zîv û ⟨את⟩ zêr û ⟨את⟩ amûran taraz kir — pêşkeya mala Elohîmê me — ya ku key, şêwirmendên wî, serdarên wî û hemû Îsraêlî yên amade hilgirtibûn.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "û min taraz kir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zîv"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zêr"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amûr"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "amûr"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "pêşkeya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "hilgirtibûn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "û şêwirmendên wî"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "û serdarên wî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "yên amade"
+    }
+  ],
+  "timestamp": "2026-08-30T06:24:30.285857519Z",
+  "model": "glm-5.3"
+}

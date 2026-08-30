@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û wisa kir ji bo hemû jinên xwe yên biyanî, ku dibûin xwurdar û qurbanî didan xwediyên xwe.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Û wisa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jinên xwe"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "yên biyanî"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "dibûin xwurdar"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "û qurbanî didan"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "xwediyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:29.747020728Z",
+  "model": "glm-5.3"
+}

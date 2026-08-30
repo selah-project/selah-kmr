@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Fêrî bike min ku ez dilşadiya te bikim, çimkî tu Eloha yî; ruhê te yê qenc bide ser rêya rast li welatê rastî bigerîne min.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "fêrî bike min"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku ez bikim"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "dilşadiya te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloha yê min"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruhê te"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yê qenc"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "bigerîne min"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welat"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "rastî\/deştî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:15.982968591Z",
+  "model": "glm-5.3"
+}

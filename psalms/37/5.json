@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Riya xwe li ser Yahwe bilivîne, û xwe pê bipêş bibe, û ⟨ew⟩ wê çê bike.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "bilivîne"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "riya xwe"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "û xwe pê bipêş bibe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pê"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ⟨ew⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wê çê bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:17.161578207Z",
+  "model": "glm-5.3"
+}

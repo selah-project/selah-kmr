@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û şah got: Ev dibêje: Zindî kurê min e û kurê te yê mirî ye; û ew dibêje: Na, lê kurê te yê mirî ye û kurê min yê zindî ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yê zindî ev e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "החי",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "û kurê te"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yê mirî"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yê mirî"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kurê min"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yê zindî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:13.316043516Z",
+  "model": "glm-5.3"
+}

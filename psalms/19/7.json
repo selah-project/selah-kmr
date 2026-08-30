@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Derketina wî ji dawiyê ezmanan e û gera wî heta dawiyên wan digihêje, û tu tişt ji germiya wê nayê veşartin.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ji dawiyê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "derketina wî"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "û gera wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "heta"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "dawiyên wan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "nayê veşartin"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ji germiya wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:32.514580557Z",
+  "model": "glm-5.3"
+}

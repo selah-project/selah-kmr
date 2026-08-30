@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û dor li ⟨את⟩ bajarê dan di roja duyemîn de carekê, û vegeriyan kampê; wusa kirin şeş rojan.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "dor li ... dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajarê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di rojê de"
+    },
+    {
+      "surface": "השני",
+      "gloss": "duyemîn"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "carê"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "carekê"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "û vegeriyan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "כה",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:12.237748482Z",
+  "model": "glm-5.3"
+}

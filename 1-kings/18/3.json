@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ahab gazî Obadyahu kir — seredare malê — û Obadyahu bi tirs û rêzberiya mezin ji Yahwe ditirsiya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "û"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seredare"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "û Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ditirsiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bi tirs û rêzberiya mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:32.500295790Z",
+  "model": "glm-5.3"
+}

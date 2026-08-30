@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û niha, va, qêriya zarokên Yisrael hatiye cem min, û min ⟨את⟩ zordariya ku Mîtsriyan lê dibê ser ⟨את⟩ wan jî dîtiye.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "qêriya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "hatiye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cem min"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û … jî"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min dîtiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zordariyê"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "zordariya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsriyan"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "dibê ser"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:58.862955712Z",
+  "model": "glm-5.3"
+}

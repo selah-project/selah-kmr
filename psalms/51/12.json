@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Dilekî paqij li min biafirîne, ey Elohîm, û ruhekî rastdar di nava min de nû bike.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "dilekî"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "biafirîne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "û ruhekî"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû bike"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di nava min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:05.620259592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Bila rêya wan tarî û xijlok be, û ferîşteyê Yahwe wan dişopîne.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Bila … be"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "rêya wan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarî"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "û xijlok"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "û ferîşteyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "wan dişopîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:48.614472783Z",
+  "model": "glm-5.3"
+}

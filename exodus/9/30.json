@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û tu û xulamên te — ez dizanim ku hîn hûn ji rûyê Yahwe Elohîm natirsin.”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "û xulamên te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ez dizanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "hûn natirsin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji rûyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:52.282189137Z",
+  "model": "glm-5.3"
+}

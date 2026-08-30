@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Gava kurê te sibê ji te bipirse û bêje: Çi ne ev şahidî, biryar û hukm, ku Yahwe Elohîmê me ⟨אתכם⟩ ferman kiriye?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "ji-te-bipirse"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê-te"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sibê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û-bêje"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç-ne"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şahidî"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "û-biryar"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "û-hukm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman-kiriye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê-me"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:07.076210636Z",
+  "model": "glm-5.3"
+}

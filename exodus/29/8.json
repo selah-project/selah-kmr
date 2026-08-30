@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û ⟨את⟩ kurên wî nêzîk bikî û wan bi kûtonetan bigerî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "nêzîk bikî"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "wan bigerî"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kûtonetan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:48.326221153Z",
+  "model": "glm-5.3"
+}

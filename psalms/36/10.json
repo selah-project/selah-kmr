@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Ji ber ku bal te de kanî jiyanê ⟨heye⟩; di ronahîya te de em ronahîyê dibînin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bal te de"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "kanî"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyanê"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "di ronahîya te de"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "em dibînin"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahîyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:09.721388914Z",
+  "model": "glm-5.3"
+}

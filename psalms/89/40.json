@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Peymana xulamê xwe red kirî, tacê wî heta erdê pîs kirî.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "red kirî"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê te"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "pîs kirî"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "heta erdê"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "tacê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:38.024241080Z",
+  "model": "glm-5.3"
+}

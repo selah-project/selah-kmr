@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Ê dê bên rijandin li ber destê şûrî, parçeyê rupelekên çolê dê bibin.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "dê bên rijandin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûrî"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "parçeyê"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "rupelekên çolê"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dê bibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:36.287647597Z",
+  "model": "glm-5.3"
+}

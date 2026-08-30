@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Hemû hestiyên min dibêjin: “Yahwe, kî wekî te ye — yê ku feqîr ji zêdetir-hêzdarê wî rûdihêle, û feqîr û mexdûr ji talankerê wî!”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "hestiyên min"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wekî te"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "rûdihêle"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîr"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "zêdetir-hêzdarê"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "û feqîr"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û mexdûr"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "ji talankerê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:10.900610239Z",
+  "model": "glm-5.3"
+}

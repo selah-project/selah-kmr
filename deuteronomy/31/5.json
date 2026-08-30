@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Yahwe wan berî we dide û hûn ê li wan bikin gorî hemû fermana ku min ⟨אתכם⟩ ferman kiriye.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "wan berî we dide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "berî we"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "hûn ê bikin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "li wan"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gorî hemû"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "min ferman kiriye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:12:07.383737060Z",
+  "model": "glm-5.3"
+}

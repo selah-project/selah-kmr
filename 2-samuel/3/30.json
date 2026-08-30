@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yoav û Avîşay birayê wî Avner kuştin, ji ber ku ewî ⟨את⟩ Asahel birayê wan li Gîbôn di şer de kuştibû.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Û Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "û Avîşay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kuştin"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המית",
+      "gloss": "kuştibû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "birayê wan"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "li Gîbôn"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "di şer de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:49:47.221496444Z",
+  "model": "glm-5.3"
+}

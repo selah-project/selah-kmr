@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Vegere, ey Yahwe, giyanê min rizgar bike; ji ber xeseda te min xilas bike.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vegere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "giyanê min"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "min xilas bike"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseda te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:52.038579548Z",
+  "model": "glm-5.3"
+}

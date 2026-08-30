@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez biçûk û bêqîmet im ⟨im⟩; fermanên te ez ji bîr nekirine.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "biçûk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "û bêqîmet"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ji bîr nekirine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:14.912806431Z",
+  "model": "glm-5.3"
+}

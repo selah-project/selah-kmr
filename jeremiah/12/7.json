@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Min ⟨את⟩ mala xwe berda, min ⟨את⟩ mîrata xwe hişt; min ⟨את⟩ yê bijarte yê canê xwe da destê dijminên wê.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Min berda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala xwe"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mala min"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "hişt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîrata xwe"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "mîrata min"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê bijarte"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "bijarte"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "destê"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "dijminên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:55:20.066681523Z",
+  "model": "glm-5.3"
+}

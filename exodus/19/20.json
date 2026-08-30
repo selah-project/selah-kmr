@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Yahwe li ser çiyayê Sînay daket, heta serê çiyê; û Yahwe gazî Moşe kir bo serê çiyê, û Moşe çû ser.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "daket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sînay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û gazî kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "û çû ser"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:38.108711099Z",
+  "model": "glm-5.3"
+}

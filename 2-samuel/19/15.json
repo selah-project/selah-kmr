@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ⟨את⟩ dilê hemû mêrên Yehûda wek dilê yek mêrî xwar da, û şandin bal şah: Tu vegere, tu û hemû xulamên te.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Û… xwar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "wek dilê yek mêrî"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "û şandin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vegere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "xulamên te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:18.552674798Z",
+  "model": "glm-5.3"
+}

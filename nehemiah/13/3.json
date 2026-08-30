@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û dema ew ⟨את⟩ Şerîetê bihîstibûn, wan tevahiya têkelan ji Yîsraêlê cuda kirin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û ... bû"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "dema ... bihîstibûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şerîetê"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Şerîetê"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "wan ... cuda kirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "têkelan"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ji Yîsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:26.637184713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 6:1",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ku çû yarê te, ya rûbi nav jinan? Ku zivirî yarê te, da ku em wî bi te re bigerin?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "yarê te"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "ya rûbi"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "di nav jinan de"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "zivirî"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "yarê te"
+    },
+    {
+      "surface": "ונבקשנו",
+      "gloss": "da ku em wî bigerin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:07.916704124Z",
+  "model": "glm-5.3"
+}

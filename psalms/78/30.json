@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ew ji dilxwaziya xwe bernedan — hê xwarin di devên wan de bû.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "bernedan"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "ji dilxwaziya xwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hê"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "di devên wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:17.956902112Z",
+  "model": "glm-5.3"
+}

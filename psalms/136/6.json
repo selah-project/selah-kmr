@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Yê ku erdê li ser avan belav kir, ji ber ku xesedê wî heta dawiyê ye.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Yê ku belav kir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:00.029646213Z",
+  "model": "glm-5.3"
+}

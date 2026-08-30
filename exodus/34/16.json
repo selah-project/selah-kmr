@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û tu ji keçên wî ji bo kurên xwe bigirî, û keçên wê êdî li pey Elohîmên xwe zînakirinê bikin, û ew ê kurên te bi xwe re li pey Elohîmên xwe bidin zînakirinê.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "bigirî"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "ji keçên wî"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ji bo kurên xwe"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "zînakirinê bikin"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "keçên wê"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "li pey"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "Elohîmên xwe"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "bidin zînakirinê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên te"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "kurên te"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "li pey"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "Elohîmên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:50.667468716Z",
+  "model": "glm-5.3"
+}

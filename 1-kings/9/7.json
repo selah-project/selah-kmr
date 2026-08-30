@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Êdî ez ê Yisraêlê ji ber rûyê erdê, ku min daye wan, bibirim, û ⟨את⟩ vê malê, ku min navê xwe pîroz kiriye, ji ber rûyê xwe bişînim; û Yisraêl ê di nav hemû gelan de bibe mesal û serîniyê.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "ez ê … bibirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêlê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ber rûyê"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min daye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vê malê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "vê malê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "min … pîroz kiriye"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "navê xwe"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "bişînim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ber rûyê"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "mesal"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "û serîniyê"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di nav hemû"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:35.201188086Z",
+  "model": "glm-5.3"
+}

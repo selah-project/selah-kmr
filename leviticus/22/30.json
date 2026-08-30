@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Di ⟨wê rojê de⟩ wê bê xwarin; hûn ê ji wî tiştekî hêla bidin heya sibehê. Ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wê bê xwarin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "hûn ê hêla bidin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:28.793595864Z",
+  "model": "glm-5.3"
+}

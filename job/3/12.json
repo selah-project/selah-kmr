@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Çima çongo li pêşiya min man? û çima memik ⟨hene⟩, ku ez şîr dimim?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "çima"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "li pêşiya min man"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "çongo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "û çima"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "memik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "şîr dimim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:19.182631551Z",
+  "model": "glm-5.3"
+}

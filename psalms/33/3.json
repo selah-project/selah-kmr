@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Jê re straneke nû bibêjin; bi huner bilîzin bi qêrîna bilind.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "bi huner"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "bilîzin"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "bi qêrîna bilind"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:42.851269699Z",
+  "model": "glm-5.3"
+}

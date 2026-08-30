@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Ji ber ku min got: «Da ew şayî nebin li ser min»; gava lingê min diçemitand, ew li dijî min xwe mezin kirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da… nebin"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "şayî nebin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "gava… diçemitand"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lingê min"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li dijî min"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "xwe mezin kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:55.641542148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ji bo serokê ⟨muzîkê⟩, bi amûrên têlan, li ser şemînîtê, mezmur a Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokê muzîkê"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "bi amûrên têlan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "şemînîtê"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:47.496820920Z",
+  "model": "glm-5.3"
+}

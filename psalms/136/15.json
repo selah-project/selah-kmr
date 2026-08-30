@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Û Fîreûn û leşkerê wî di deryaya qamîş de hêda, ji ber ku xeseda wî ji bo hertimî ye.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Û…hêda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fîreûn"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "û leşkerê wî"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di deryaya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "qamîş de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xeseda wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:52.081975685Z",
+  "model": "glm-5.3"
+}

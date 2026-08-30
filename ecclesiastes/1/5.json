@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Roj derdikeve, û roj dikeve, û ber bi cihê xwe ve dilezîne, ew der ew dîsa derdikeve.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "dikeve"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dikeve"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ber bi … ve"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "cihê xwe"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "dilezîne"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "derdikeve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ew der"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:26.307467569Z",
+  "model": "glm-5.3"
+}

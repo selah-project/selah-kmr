@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Şah jê re got: \"Çima hîn dibi axaftina xwe bidomînî? Min got: te û Tsîba ⟨את⟩ zeviyê biparve bikin.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dibi axaftina xwe bidomînî"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "gotinên te"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "û Tsîba"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "biparve bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zeviyê"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zevî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:56:46.895890153Z",
+  "model": "glm-5.3"
+}

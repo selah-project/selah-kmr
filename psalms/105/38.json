@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Mitsrayim bi derketina wan şa bû, çûnkî tirs û hûna wan li ser wan ketibû.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "şa bû"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "bi derketina wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ketibû"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "tirs û hûna wan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:21.268794200Z",
+  "model": "glm-5.3"
+}

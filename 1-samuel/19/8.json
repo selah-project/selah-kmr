@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û şer dîsa zêde bû ku were, û Dawid derket û li Filistiyan şer kir û li wan xist — çaleke mezin — û ew ji ber wî reviyan.",
+  "tokens": [
+    {
+      "surface": "ו ווסף",
+      "gloss": "zêde bû"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ku were"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "şer kir"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "li wan"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "çal"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mezine"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "reviyan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ji ber wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:50.232926860Z",
+  "model": "glm-5.3"
+}

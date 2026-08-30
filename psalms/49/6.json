@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Çima bitirsim di rojên xerabûyî de? Gunehê ku li pey min tevdigere û min dorpêçe.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Çima"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bitirsim"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "di rojên ... de"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabûyî"
+    },
+    {
+      "surface": "עון",
+      "gloss": "guneh"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "li pey min"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "min dorpêçe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:04.349325805Z",
+  "model": "glm-5.3"
+}

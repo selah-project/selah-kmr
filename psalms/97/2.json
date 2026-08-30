@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Ewr û tarîtî dora wî digirin, rastî û dadî bingeha textê wî ne.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "ewr"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "û tarîtî"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "dora wî"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "û dadî"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "bingeha"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "textê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:21.409007855Z",
+  "model": "glm-5.3"
+}

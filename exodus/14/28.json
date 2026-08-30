@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û av vegeriyan û ⟨את⟩ siwaran û ⟨את⟩ siwarên hespan girtin — ji hêzên Paroh ên ku piştî wan ketibûn nava deryayê — yek ji wan nemabû, heta yek.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "û vegeriyan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "û girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siwaran"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "siwar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "siwarên hespan"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "siwarên hespan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji … ên"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêzên"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ên ku ketibûn"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "piştî wan"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nava deryayê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "nemabû"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:20.198847347Z",
+  "model": "glm-5.3"
+}

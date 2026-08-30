@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 13:14",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û dê bê, gava kurê te sibê ji te bipirse bêje: 'Ev çi ye?' tu jî bêjî ji wî re: Bi destê bihêz Yahwe me ji Mîtsrayim derxist, ji mala koletiyê.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "û dê bê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "ji te bipirse"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sibê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "tu jî bêjî"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "bi hêz"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "me derxist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "koletiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:28.553750540Z",
+  "model": "glm-5.3"
+}

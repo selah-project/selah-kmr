@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û tu ⟨את⟩ kûrên xwe û ⟨את⟩ keçên xwe yên ku tu ji min re anî dinyayê girtin û wan qurban kirî ji wan re, da ku werin xwarin — gelo zînayê te kêm e?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûrên te"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "kûrên te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keçên te"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "keçên te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "tu anî dinyayê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "qurban kirin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "da ku werin xwarin"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "kêm e"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "ji zînayê te"
+    }
+  ],
+  "timestamp": "2026-08-30T03:48:08.678495627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ez ê agir bişînim Yehûdayê û ew ê qesrên Yeruşalayimê bixwe.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ez ê bişînim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehûdayê"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "û ew ê bixwe"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "qesrên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:08:15.819788111Z",
+  "model": "glm-5.3"
+}

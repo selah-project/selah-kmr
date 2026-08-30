@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Êdî destê wî dê li ser deryayê binînim, û destê rastê wî li ser çemên.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "dê binînim"
+    },
+    {
+      "surface": "בים",
+      "gloss": "li ser deryayê"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "û li ser çemên"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "destê rastê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:35.690945697Z",
+  "model": "glm-5.3"
+}

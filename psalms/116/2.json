@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Çinkû guhê xwe ber bi min da, û di hemû rojên min de êdî bang dikim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çinkû"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ber bi min da"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "guhê xwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "û di hemû rojên min de"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bang dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:22.824340974Z",
+  "model": "glm-5.3"
+}

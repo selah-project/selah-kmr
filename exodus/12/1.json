@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Yahwe li welatê Mîtsrayimê ji Moşe û ji Aharon re got:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe re"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon re"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:44.064703966Z",
+  "model": "glm-5.3"
+}

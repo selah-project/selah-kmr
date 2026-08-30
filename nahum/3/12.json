@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 3:12",
+  "book": "nahum",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Hemû kelehên te yên xurt wek darên hîn û hênkên wan yên pêşîn in; ger bên hejandin, di devê xwuravê de dikevin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "kelehên te yên xurt"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "wek darên hên"
+    },
+    {
+      "surface": "עם",
+      "gloss": "û"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "hênkên pêşîn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "bên hejandin"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dikevin"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ... de"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "xwuravê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:13:28.269952133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Qedemot û ⟨את⟩ zozanên wê, û ⟨את⟩ Meyfaat û ⟨את⟩ zozanên wê — çar bajaran.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zozanên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Meyfaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meyfaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zozanên wê"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:23:05.902381670Z",
+  "model": "glm-5.3"
+}

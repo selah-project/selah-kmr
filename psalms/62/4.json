@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Heta kengê hûn êrîş dikin li ser mêrekî, hûn dixwînin wî bikujin — we hemû, wekî dîwarekî çewt, perdeyeke hilweşiyayî?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "hûn êrîş dikin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "wî bikujin"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "we hemû"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "wekî dîwarekî"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "çewt"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "perdeyek"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "hilweşiyayî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:44.064546057Z",
+  "model": "glm-5.3"
+}

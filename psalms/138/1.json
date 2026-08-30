@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 138,
+  "translation": "Ji Dawid. Ez ê te bi hemû dilê xwe bênimet, li ber xwedayan ez ê ji te re stranan bêjim.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ez ê te bênimet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xwedayan"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ez ê ji te re stranan bêjim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:32.465772534Z",
+  "model": "glm-5.3"
+}

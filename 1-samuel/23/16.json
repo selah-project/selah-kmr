@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Yehonatan kurê Şaul rabû, çû ba Dawid li Daristanê, û destê wî ⟨את⟩ bi Elohîm xurt kir.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "li Daristanê"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "xurt kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê wî"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "bi Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:13.500080338Z",
+  "model": "glm-5.3"
+}

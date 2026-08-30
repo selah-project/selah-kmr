@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û bû, di dema Dawid de — bi ⟨את⟩ Edomê re — dema Yoav, serleşkerê artêşê, çûbû ser da ku ⟨את⟩ xelênên kuştî veşêrin, wî li Edomê hemûyê nêr dabû kuştin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "di dema… de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "bi ⟨את⟩ re",
+      "marks": "Edomê (ev את pêşgira 'bi… re' ye, ne nîşana objeyê)"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomê"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "di dema çûnê de"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serleşkerê"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "artêşê"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "da ku veşêrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xelênên kuştî"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "xelênên kuştî"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dabû kuştin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemûyê"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nêr"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "li Edomê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:39.044686983Z",
+  "model": "glm-5.3"
+}

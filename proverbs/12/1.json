@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Yê ku perwerdeyî hez dike, zanînê hez dike; lê yê ku rexneyê ji hez dike, heywanî ye.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "hez dike"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "perwerdeyî"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hez dike"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanînê"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ji hez dike"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "rexneyê"
+    },
+    {
+      "surface": "בער",
+      "gloss": "heywanî ye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:44:13.844009249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Ji bo yê ku rê dibe, li ser Şoşanan, ji kurên Qorahê, maşkîl, stranekî evîndariyê.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo yê ku rê dibe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Şoşanan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorahê"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maşkîl"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stranekî"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "evîndariyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:32.481544594Z",
+  "model": "glm-5.3"
+}

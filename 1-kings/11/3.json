@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ji bo wî bû heft sed jinên serore û sê sed pîlûşk; û jinên wî ⟨את⟩ dilê wî bizivirandin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û … bû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "jinên"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "serore"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "û pîlûşk"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "bizivirandin"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jinên wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê wî"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:03.235239010Z",
+  "model": "glm-5.3"
+}

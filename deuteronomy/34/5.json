@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û Moşe, bendeyê Yahwe, li wir çû ber dilovaniya Xwedê — li welatê Mîtsrayimê neriyê, di welatê Moab de, bi fermana Yahwe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "çû ber dilovaniya Xwedê — mir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bendeyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab de"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:13:27.981767204Z",
+  "model": "glm-5.3"
+}

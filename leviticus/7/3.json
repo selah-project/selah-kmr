@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ⟨את⟩ hemû çewiya wî ji wê bîne: ⟨את⟩ dûvikê çewr û ⟨את⟩ çewiya ku rûvîdan diperê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû çewiya wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "çewiya wî"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dûvikê çewr"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "dûvikê çewr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çewiya"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "çewiya"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ku diperê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûvîdan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "rûvîdan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:36.094324286Z",
+  "model": "glm-5.3"
+}

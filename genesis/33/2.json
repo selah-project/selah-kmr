@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û dikan ⟨את⟩ û zarokên wan ⟨את⟩ pêşî dan, û Lea ⟨את⟩ û zarokên wê paşî, û Raheel ⟨את⟩ û Yosef ⟨את⟩ di dawiyê de.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikan"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "dikan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên wan"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "zarokên wan"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "pêşî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "û zarokên wê"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "paşî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raheel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "di dawiyê de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:45.311691902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û evan li Yeruşalayim ji bo wî çêbûn: Şimʿa û Şovav û Natan û Şelomo — çar — ji Bat-Şua, keça Amiel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Û evan"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "çêbûn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "li Yeruşalayim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Şimʿa"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "û Şovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "û Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "û Şelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "çar"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ji Bat-Şua"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Şua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:04.441401193Z",
+  "model": "glm-5.3"
+}

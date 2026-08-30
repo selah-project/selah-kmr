@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Bihîze, gelî min, û ez ê li te şahidî bikim: gelî Yisraêl, ger tu guh bidî min!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Bihîze"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelî min"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "û ez ê şahidî bikim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "li te"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "guh bidî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:35.916162733Z",
+  "model": "glm-5.3"
+}

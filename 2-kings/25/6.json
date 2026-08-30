@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ⟨את⟩ me lê dîl girtin, û ⟨את⟩ wî anîn ba me Babîlê, bo Rîblahê, û ⟨את⟩ wî bi doz darizand",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "dîl girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me lê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "me lê"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "me"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rîblahê"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "darizand"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bi doz"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:31.495284367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Barê peyva Yahwe ji Îsraêl re, bi destê Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "bar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:49.019029144Z",
+  "model": "glm-5.3"
+}

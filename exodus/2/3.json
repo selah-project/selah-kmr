@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û dema ku êdî nikaribû wî veşêre, ji bo wî sandûqeke ji papîrusê girt û bi kil û ziftê rûçal kir; ⟨את⟩ zarok tê de danî û wê di nav qamîşan de li kêleka çemê danî.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û … ne"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "nikaribû"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "wî veşêre"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sandûqeke"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "ji papîrusê"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "rûçal kir"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "bi kil"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "û ziftê"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarok"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "di nav qamîşan de"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kêleka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çemê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:45.558169643Z",
+  "model": "glm-5.3"
+}

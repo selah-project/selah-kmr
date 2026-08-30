@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 114,
+  "translation": "Di dema derketina Yisraelê ji Mîtsrayimê, xaneya Yaakob ji gelêke bi zimanê xerîb,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "di dema derketina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelê"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xaneya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ji gelê"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "bi zimanê xerîb"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.144077221Z",
+  "model": "glm-5.3"
+}

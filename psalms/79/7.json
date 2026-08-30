@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 79,
+  "translation": "Çimkî ⟨את⟩ Yaqûb xwarin û ⟨את⟩ warê wî talan kir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqûb"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "warê wî"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "warê wî"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "talan kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:58.745971592Z",
+  "model": "glm-5.3"
+}

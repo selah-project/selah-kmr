@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û bingeh ji kevirên biqîmet, kevirên mezin bûn — kevirên deh êr û kevirên şeş-deh êr şeşyazde (deh û şeş) —",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "û bingeh"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "biqîmet"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "êr"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "û kevirên"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "heşt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "êr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:26.607217858Z",
+  "model": "glm-5.3"
+}

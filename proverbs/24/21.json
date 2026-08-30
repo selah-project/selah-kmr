@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Ji Yahwe bitirse, kurê min, û ji key ⟨את⟩; tevî guhêrbaran tevlî nebî.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "bitirse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "û ji key"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tevî"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "guhêrbaran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "tevlî nebî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:42.487099583Z",
+  "model": "glm-5.3"
+}

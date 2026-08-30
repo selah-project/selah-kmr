@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û min got: «Ez ê we bilind bikim ji azariya Mîtsrayim, ber bi welatê Kenaaniyî, û Hitiyî, û Emoriyî, û Periziyî, û Hiwiyî, û Yebusiyî ve — ber bi welatê ku şîr û hunermij diherikin.»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "û min got"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ez ê bilind bikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "ji azariyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaaniyî"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "û Hitiyî"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "û Emoriyî"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "û Periziyî"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "û Hiwiyî"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "û Yebusiyî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ku diherike"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "şîr"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "û hunermij"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:35.953268246Z",
+  "model": "glm-5.3"
+}

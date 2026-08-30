@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Ê ku destê min ê wî re rûbidest be; û baskê min ê wî jî wî xurt bike.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê min"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "rûbidest be"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ê wî re"
+    },
+    {
+      "surface": "אף",
+      "gloss": "û ... jî"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "baskê min"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "wî xurt bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:20.326156191Z",
+  "model": "glm-5.3"
+}

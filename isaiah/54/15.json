@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Hûn dibin! ⟨Ew⟩ bi cem hev tên komkirin, lê ne ⟨את⟩ ji min; kî bi te re ⟨את⟩ tê komkirin, li ser te dikeve.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "hûn dibin"
+    },
+    {
+      "surface": "גור",
+      "gloss": "tê komkirin"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "kom dibe"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "lê ne"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "ji min"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "גר",
+      "gloss": "kom dibe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bi te re"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "dikeve"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:14.163981973Z",
+  "model": "glm-5.3"
+}

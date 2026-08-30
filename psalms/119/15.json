@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Di fermanên te de ez ê xwe bihêlim bêrawestan, û ez ê rêyên te binihêrim.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "di fermanên te de"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ez ê xwe bihêlim bêrawestan"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "û ez ê binihêrim"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "rêyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:08.340669244Z",
+  "model": "glm-5.3"
+}

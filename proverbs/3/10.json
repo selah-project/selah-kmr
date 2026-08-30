@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û anbarên te bi tijahî têne tijîkirin, û fıqên tirî yên te derdibarin.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "û têne tijîkirin"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "anbarên te"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bi tijahî"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "û tirî"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "fıqên te"
+    },
+    {
+      "surface": "יפרזו",
+      "gloss": "derdibarin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:52.516716317Z",
+  "model": "glm-5.3"
+}

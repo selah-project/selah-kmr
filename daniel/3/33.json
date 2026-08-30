@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 3:33",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Nîşanên wî çawa mezin in û egerên wî çawa hêzdar in! Padîşahiya wî padîşahiya ⟨a⟩ herdemê ye û hukmdariya wî ji nifşê heta nifşê ye.",
+  "tokens": [
+    {
+      "surface": "אתוהי",
+      "gloss": "nîşanên wî"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "רברבין",
+      "gloss": "mezin in"
+    },
+    {
+      "surface": "ותמהוהי",
+      "gloss": "egerên wî"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "hêzdar in"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "padîşahiya wî"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "padîşahiya"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "herdemê"
+    },
+    {
+      "surface": "ושלטנה",
+      "gloss": "hukmdariya wî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ji"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nifşê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:16:01.950691824Z",
+  "model": "glm-5.3"
+}

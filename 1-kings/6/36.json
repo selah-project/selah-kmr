@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û wî ⟨את⟩ hewşa hundirîn bi sê rêzên kevirên birrî û bi rêzekê darikên sedran çêkir.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "û wî çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hewşa hundirîn"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hewşa"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "hundirîn"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rêzên"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "kevirên birrî"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "û rêzekê"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "darikên"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedran"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:32.799343837Z",
+  "model": "glm-5.3"
+}

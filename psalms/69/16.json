@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Nehêle ku pêla avê min bihelîne, û nehêle ku kûrahî min biqewitîne, û nehêle ku çal devê xwe li ser min bigire.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nehêle ku"
+    },
+    {
+      "surface": "תוטפני",
+      "gloss": "pêl min bihelîne"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "pêla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û nehêle ku"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "kûrahî min biqewitîne"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "kûraiyê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û nehêle ku"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "באר",
+      "gloss": "çal"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "devê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:06.741668097Z",
+  "model": "glm-5.3"
+}

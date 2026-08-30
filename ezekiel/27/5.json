@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 27:5",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Bi darên berwê yên Şenîr ⟨את⟩ hemû textên te avakirin; sedr ji Lûbnanan girtin da ku ji bo te stûnekî çêbikin.",
+  "tokens": [
+    {
+      "surface": "ברושים",
+      "gloss": "darên berwê"
+    },
+    {
+      "surface": "משניר",
+      "gloss": "ji Şenîr"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "avakirin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû textên te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "לחתים",
+      "gloss": "textên"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedr"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "ji Lûbnanan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "çêbikin"
+    },
+    {
+      "surface": "תרן",
+      "gloss": "stûn"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    }
+  ],
+  "timestamp": "2026-08-30T03:53:05.528516327Z",
+  "model": "glm-5.3"
+}

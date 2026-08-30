@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Çawa ezman ji erdê bilindtir in, wisa rêyên min ji rêyên we bilindtir in û ramînên min ji ramînên we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "bilindtir in"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erdê"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "bilindtir in"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rêyên min"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "ji rêyên we"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "û ramînên min"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "ji ramînên we"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:40.257383612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 36:35",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ew çêkir ⟨את⟩ perdeyê ji şîn û pûrpur û qirmiza kermî û ketenê zêfirî; bi destê hûnermend ew çêkir ⟨את⟩ wê bi kerûban.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "û ew çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeyê"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdeyê"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "şîn"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "û pûrpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "û kermî"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qirmiz"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û keten"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "zêfirî"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hûnermend"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ew çêkir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (bi kerûban)"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerûban"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:59.501516279Z",
+  "model": "glm-5.3"
+}

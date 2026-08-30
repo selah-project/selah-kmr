@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û ev ji bo wî wek rastî hat hijmartin, ji nifşê heta nifşê, heta û herdem.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "hat hijmartin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "wek rastî"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "û herdem"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:55.603496436Z",
+  "model": "glm-5.3"
+}

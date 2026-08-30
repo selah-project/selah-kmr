@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Bila navê Yahwe bilind bikin, çimkî ⟨ew⟩ ferman da û ew hatin afirandin.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "bila bilind bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "û hatin afirandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:33.702741017Z",
+  "model": "glm-5.3"
+}

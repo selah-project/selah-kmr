@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ger dijminê te birçî be, ji wî re nan bixwîne, û ger tî be, ji wî re avê bixwîne.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "birçî"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "dijminê te"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "ji wî re bixwîne"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "tî"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "ji wî re avê bixwîne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:06.132282280Z",
+  "model": "glm-5.3"
+}

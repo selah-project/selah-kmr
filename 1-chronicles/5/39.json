@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Şallûm ⟨את⟩ Hîlqîja bi dest pê anî, û Hîlqîja ⟨את⟩ Ezarja bi dest pê anî.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "û Şallûm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi dest pê anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hîlqîja"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hîlqîja"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "û Hîlqîja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi dest pê anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ezarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ezarja"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:55.608432473Z",
+  "model": "glm-5.3"
+}

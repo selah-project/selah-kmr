@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Di nav neteweyan de rûmeta wî bilêd bikin, di nav hemû gelan de hêrîştên wî yê ecêb.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "bilêd bikin"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav neteweyan de"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "rûmeta wî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di nav hemû"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan de"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hêrîştên wî yê ecêb"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:25.405773863Z",
+  "model": "glm-5.3"
+}

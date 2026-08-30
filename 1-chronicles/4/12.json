@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Eşton bû bavê ⟨את⟩ Bet-Rafa, ⟨את⟩ Paseax û ⟨את⟩ Texînna, bavê Îr-Naxaş; ev in mêrên Reka.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Û Eşton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseax"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Texînna"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Texînna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Îr"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naxaş"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev in"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reka"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:42.332155271Z",
+  "model": "glm-5.3"
+}

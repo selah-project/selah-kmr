@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Tu şahî di dilê min de danî, ji wê demê ku genim û şerabê wan pir bûne zêdetir.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "danî"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "şahî"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "di dilê min de"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ji wê demê ku"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "genim"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "û şerabê wan"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "pir bûne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:23.866259799Z",
+  "model": "glm-5.3"
+}

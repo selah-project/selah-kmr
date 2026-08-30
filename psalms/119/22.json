@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Rake ji ser min riswaî û pêdan, çimkî ez ⟨את⟩ şahidiyên te parastine.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "rake"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ji ser min"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "riswaî"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "û pêdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şahidiyên te"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ez parastine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:33.083625Z",
+  "model": "glm-5.3"
+}

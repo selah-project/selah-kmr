@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 32:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "û ji min re dewar, ker, pez, mêrxwed û kedxwed hebûn, û şandim da ku ji Adonayê min re bêjin, da ku keremê di çavên te de bibînim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "hebûn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "שור",
+      "gloss": "dewar"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "û ker"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pez"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "û mêrxwed"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "û kedxwed"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "û şandim"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "da ku bêjin"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ji Adonayê min re"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "da ku bibînim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kerem"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di çavên te de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:24.482991515Z",
+  "model": "glm-5.3"
+}

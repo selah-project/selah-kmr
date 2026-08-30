@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Bi rastiya xwe min rizgar bike û xilas bike; guhê xwe ber bi min ve bizivirîne û min xilas bike.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "bi rastiya xwe"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "min rizgar bike"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "û xilas bike"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "bizivirîne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ber bi min ve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê xwe"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "û min xilas bike"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:48.679509226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Rê bide min di rastiya te de û fêrî min bike, ji ber ku tu Elohîmê rizgariya min î; ez ⟨את⟩ te rojê tev li bendê me.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "rê bide min"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "di rastiya te de"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "û fêrî min bike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "rizgariya min"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "li bendê me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tev"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:52.605257019Z",
+  "model": "glm-5.3"
+}

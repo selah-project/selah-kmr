@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ tevahiya civatê li ber deriyê çadira civînê kom bike.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "tevahiya civatê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kom bike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:18.146356077Z",
+  "model": "glm-5.3"
+}

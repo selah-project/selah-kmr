@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Wî wan ji destê yê ku dijiwanî dikir rizgar kir, û wan ji destê dijmin xilas kir.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "rizgar kir wan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "yê ku dijiwanî dikir"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "xilas kir wan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:46.710383905Z",
+  "model": "glm-5.3"
+}

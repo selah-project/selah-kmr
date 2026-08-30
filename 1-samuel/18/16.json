@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û hemû Îsraêl û Yehûda Dawid ⟨את⟩ dixwestin, ji ber ku ew berî wan derdiket û dihât.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Û hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Û Yehûda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dixwestin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "derdiket"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dihât"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "berî wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:35.107733704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Wê tu di ezmanan de ⟨את⟩ dua wan û ⟨את⟩ lava wan bibihîzî, û tu dadrîya wan bikî.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "wê tu bibihîzî"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua wan"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "dua wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lava wan"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "lava wan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "û tu bikî"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "dadrîya wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:35.455792176Z",
+  "model": "glm-5.3"
+}

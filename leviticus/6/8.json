@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 6:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ji wê bigire, bi kefê xwe yê tije, ji arva hûr a minçê û ji rûnê wê, û ⟨את⟩ hemû libana ku li ser minçê ye; û mîzbeḥ wê wekî bêhneke xweş — bîranîna wê — ji bo Yahwe bihûrîne.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "Û bigire"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "בקמצו",
+      "gloss": "bi kefê xwe yê tije"
+    },
+    {
+      "surface": "מסלת",
+      "gloss": "ji arva hûr"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "a minçê"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "û ji rûnê wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû liban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "liban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minçê"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "Û wê bihûrîne"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mîzbeḥ"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bêhn"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xweş"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "bîranîna wê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:00.057695598Z",
+  "model": "glm-5.3"
+}

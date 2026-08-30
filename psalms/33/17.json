@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Derew e hesp ji bo rizgariyê, û bi piraniya hêza wî nizivire.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hesp"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "ji bo rizgariyê"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "û bi piraniya"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hêza wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "nizivire"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:45.816129583Z",
+  "model": "glm-5.3"
+}

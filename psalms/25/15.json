@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Çavên min hertim ber bi Yahwe ve ne, çûnkî ew dê pyên min ji torê derxîne.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi … ve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "dê derxîne"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ji torê"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pyên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:44.157042398Z",
+  "model": "glm-5.3"
+}

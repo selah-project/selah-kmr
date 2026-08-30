@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Wî gelê xwe bi şahiyê derxist, ⟨את⟩ bijartiyên xwe bi strandan.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "bi şahiyê"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "bi strandan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijartiyên xwe"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "bijartiyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:36.394028539Z",
+  "model": "glm-5.3"
+}

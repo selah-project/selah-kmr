@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Di nav bêeximanan, êrîşkerên xwarinê, bi dirêjên xwe li ser min grûm dan.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "di nav bêeximanan de"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "êrîşkerên"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "xwarinê"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "grûm dan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "bi dirêjên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:24.669911568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Bila ên ku li benda te ne ji ber min rû bişo — Adonay, Yahwe-yê Tsavaot; bila ên ku te lê digerin ji ber min şerm nebin — Elohîmê Yisraêl.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "bila… ne"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "rû bişo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ji ber min"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ên ku li benda te ne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "yê Tsavaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bila… ne"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "şerm nebin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ji ber min"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ên ku te lê digerin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:52.422957142Z",
+  "model": "glm-5.3"
+}

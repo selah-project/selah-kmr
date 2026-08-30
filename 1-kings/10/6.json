@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û wî ⟨את⟩ ji qiral re got: “Gotina ku min di welatê xwe de bihîstibû, derbarê gotinên te û derbarê çîroka te — ⟨⟨rast⟩⟩ bû.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wî got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qiral re"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rast"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "min bihîstibû"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "di welatê xwe de"
+    },
+    {
+      "surface": "על",
+      "gloss": "derbarê"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "gotinên te"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û derbarê"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "çîroka te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:10.989420817Z",
+  "model": "glm-5.3"
+}

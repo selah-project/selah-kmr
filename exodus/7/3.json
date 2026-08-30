@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ez ê dilê Firavn req bikim û ⟨את⟩ nîşanên xwe û ⟨את⟩ gewên xwe li welatê Mîtsrayim zêde bikin.”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ê req bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê Firavn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavn"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "û … zêde bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nîşanên xwe"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "nîşanên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gewên xwe"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "gewên xwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:50.628644978Z",
+  "model": "glm-5.3"
+}

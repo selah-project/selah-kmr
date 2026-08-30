@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 70,
+  "translation": "Elohîm, bo rizgarkirina min; Yahwe, bo alîkariya min, lez bike!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "bo rizgarkirina min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "bo alîkariya min"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "lez bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:22.705108325Z",
+  "model": "glm-5.3"
+}

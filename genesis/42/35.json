@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 42:35",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û dema ku ew kîşên xwe vala dikirin — li vir! — girê zîrê her kesê di kîşa wî de bû; û ew û bavê wan ⟨את⟩ girên zîrê xwe dîtin û ditirsiyan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û dema ku … bû"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מריקים",
+      "gloss": "vala dikirin"
+    },
+    {
+      "surface": "שקיהם",
+      "gloss": "kîşên xwe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "li vir!"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kesê"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "girê"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "zîrê wî"
+    },
+    {
+      "surface": "בשקו",
+      "gloss": "di kîşa wî de"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "Û … dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girên zîrê xwe"
+    },
+    {
+      "surface": "צררות",
+      "gloss": "girên"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "zîrê wan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ואביהם",
+      "gloss": "û bavê wan"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "û ditirsiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:25.513430561Z",
+  "model": "glm-5.3"
+}

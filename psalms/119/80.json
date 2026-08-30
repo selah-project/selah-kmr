@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Dilê min bila di biryarên te de bê alozî be, da ku ez şerm nekim.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bila be"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bê alozî"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "di biryarên te de"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ez şerm bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:50.744004664Z",
+  "model": "glm-5.3"
+}

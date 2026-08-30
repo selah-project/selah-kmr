@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Amûrên xwe yên gûdanê bikin şûr û mêzerên xwe bikin rim; ê lawaz bêje: «Ez hêzdar im.»",
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "bikin (bi dabeşandinê)"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "amûrên xwe yên gûdanê"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "şûr"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "mêzerên xwe"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "rim"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "ê lawaz"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez im"
+    }
+  ],
+  "timestamp": "2026-08-30T04:07:21.746192783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Yaqûb şand û Raşêl û Lêa gazî kir bo zeviyê, cem ên mishên xwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqqûb"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raşêl"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "û Lêa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bo zeviyê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "mishên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:49:32.092511605Z",
+  "model": "glm-5.3"
+}

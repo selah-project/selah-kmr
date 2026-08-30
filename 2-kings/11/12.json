@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û wî ⟨את⟩ kurê şah derxist, li ser wî ⟨את⟩ tac û ⟨את⟩ şahadetê danî; wî kirin şah û wî xalî kirin; dest çapandin û gotin: «Şah bijî!»",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê şah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tac"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "tac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şahadetê"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "şahadetê"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wî kirin şah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "xalî kirin"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "çapandin"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dest"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "bijî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:03.544983136Z",
+  "model": "glm-5.3"
+}

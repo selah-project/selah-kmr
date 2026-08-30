@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û sêyek li deriyê Sur, û sêyek li deriyê piştî rêbazan, û hûn parastina malê wek parêzgeh (מסח) biparêzin.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "Û sêyek"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "li deriyê"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "û sêyek"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "li deriyê"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "rêbazan"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "û hûn biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parastina"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "parastina"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "wek parêzgeh (מסח)"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:20.233224536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 95,
+  "translation": "Ku min di hêrsê da sond xwar: Ewê herçendî nabin nav aşitiya min.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "min sond xwar"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "di hêrsê da"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ewê herçendî"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "nabin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "aşitiya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:19.028825082Z",
+  "model": "glm-5.3"
+}

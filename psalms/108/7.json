@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Da ku yên ji xwestî yên te rizgar bibin — bi destê rastê xwe rizgar bike, û bersiva min bide.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "rizgar bibin"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "yên ji xwestî yên te"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "bi destê rastê xwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "û bersiva min bide"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:53.441983099Z",
+  "model": "glm-5.3"
+}

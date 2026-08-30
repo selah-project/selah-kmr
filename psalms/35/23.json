@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Şiyar bibe û hêşiyar bibe bo dadweriya min, Elohîm ê min û Adonay ê min, bo doza min!",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "hêşiyar bibe"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "şiyar bibe"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "bo dadweriya min"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm ê min"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "Adonay ê min"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "bo doza min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:02.059745471Z",
+  "model": "glm-5.3"
+}

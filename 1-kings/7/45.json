@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "û ⟨את⟩ qazan û ⟨את⟩ belokan û ⟨את⟩ kelasiyan û ⟨את⟩ hemû alavên çadira ⟨ku⟩ Hîram çêkir ji bo key Şelomo, ji bo malê Yahwe — ji sifetê ⟨ya⟩ hatibû zîvakkirin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qazan"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "qazan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "belokan"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "belokan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kelasiyan"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "kelasiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "alavên"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hîram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji bo key"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sifetê"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "hatibû zîvakkirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:13.726104984Z",
+  "model": "glm-5.3"
+}

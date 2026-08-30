@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Bath-Şeba ket bal Malik, di hundirê wî de; û Malik pir kal bû; û Avîşag a Şûnamî xizmeta ⟨את⟩ Malik dikir.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ket"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Malik"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "di hundirê wî de"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "û Malik"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kal bû"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "û Avîşag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "a Şûnamî"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "xizmet dikir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Malik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Malik"
+    }
+  ],
+  "timestamp": "2026-08-29T20:00:37.514032912Z",
+  "model": "glm-5.3"
+}

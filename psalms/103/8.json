@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Yahwe dilovan û keremdar ⟨e⟩, hêrsa wî dirêj ⟨e⟩ û bi xesede dewlemend ⟨e⟩.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "dilovan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "û keremdar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dirêj"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "hêrsa wî"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û dewlemend"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "bi xesede"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:27.672597742Z",
+  "model": "glm-5.3"
+}

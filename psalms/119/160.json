@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Serê peyva te rastî ye; û heta hertimî hemû dadweriyên rastiya te ⟨disekinin⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "peyva te"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "û heta hertimî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadweriyên"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "rastiya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:03.557541816Z",
+  "model": "glm-5.3"
+}

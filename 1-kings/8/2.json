@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û hemû mêrên Îsraêl li cem key Şelomo civiyan, di meha Êtanîm de, di cejnê de — ew meha heftemîn e.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li cem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "di meha"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Êtanîm"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "di cejnê de"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew…e"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "meha"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "heftemîn"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:24.917178718Z",
+  "model": "glm-5.3"
+}

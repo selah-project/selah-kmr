@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Çimkî ez ⟨את⟩ Esav tazî kirim, ⟨את⟩ veşartiyên wî ez eşkere kirim, û êdî nikare xwe veşêre; toxumên wî û birayên wî û cîranên wî hatine talankirin û êdî ew nîne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "tazî kirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "eşkere kirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veşartiyên wî"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "veşartiyên wî"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "xwe veşêre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dikare"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "hatiye talankirin"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "toxumên wî"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "û birayên wî"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "û cîranên wî"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "û êdî ew nîne"
+    }
+  ],
+  "timestamp": "2026-08-30T03:40:14.038111013Z",
+  "model": "glm-5.3"
+}

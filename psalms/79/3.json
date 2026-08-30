@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 79,
+  "translation": "Xwîna wan rijandine wek av, li dora Yeruşalaymê, û kesî ku vê veşêre tune.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "rijandine"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "Xwîna wan"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wek av"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "li dora"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalaymê"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û ... tune"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "kesî ku vê veşêre"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:02.842224048Z",
+  "model": "glm-5.3"
+}

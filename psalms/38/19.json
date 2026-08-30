@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Ji ber ku tewaza min ê bêjim, ji gunehê min ditirsim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "tewaza min"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ê bêjim"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ditirsim"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ji gunehê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:55.642044419Z",
+  "model": "glm-5.3"
+}

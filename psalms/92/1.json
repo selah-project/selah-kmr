@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Mizmore stranan, ji bo roja Şabatê.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmore"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stranan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ji bo roja"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabatê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:09.485034750Z",
+  "model": "glm-5.3"
+}

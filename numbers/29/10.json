@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Dehek, dehek bo qezikeyê ⟨a⟩ yekê, bo qezikeyên heftan.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "Dehek"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "dehek"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "bo qezikeyê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "qezikeyên heftan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:54:00.601446065Z",
+  "model": "glm-5.3"
+}

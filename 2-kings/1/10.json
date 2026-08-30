@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Eliyahu bersiv da û ji serderê pêncîyan re got: \"Ger ez merê Elohîm im, bila agir ji ezmanan dakeve û ⟨את⟩ te û ⟨את⟩ pênciyên te bixwe.\" Û agir ji ezmanan daket û ⟨אתו⟩ wî û ⟨את⟩ pênciyên wî xwar.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serderê"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "pêncîyan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "איש",
+      "gloss": "merê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez… im"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "dakeve"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "û bixwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pênciyên te"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "pênciyên te"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "û daket"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "û xwar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pênciyên wî"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "pênciyên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:25.375995981Z",
+  "model": "glm-5.3"
+}

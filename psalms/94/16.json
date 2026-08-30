@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Kî dê ji bo min li dijî xerabkaran rabe? Kî dê ji bo min li hember kiryarên neyaran raweste?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יקומ",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "עם",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "xerabkaran"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "raweste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "עם",
+      "gloss": "li hember"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kiryarên"
+    },
+    {
+      "surface": "און",
+      "gloss": "neyaran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:49.892572734Z",
+  "model": "glm-5.3"
+}

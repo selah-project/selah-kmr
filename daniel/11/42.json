@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Wê destê xî (yê dewlet) bidîne ser welatan; welatê Mitsrayim jî dê nebe cihê filitîna (pêşiya hevalbendên wî).",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wê bidîne ser"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xî"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ser welatan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dê nebe"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "cihê filitîna"
+    }
+  ],
+  "timestamp": "2026-08-30T06:20:44.487089136Z",
+  "model": "glm-5.3"
+}

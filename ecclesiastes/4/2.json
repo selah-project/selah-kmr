@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ez ê pesnê ⟨את⟩ miriyên ku berê mirine bida, ji ⟨the⟩ yên zindî, ku ew hîn zindî ne, heta niha.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "û ez ê pesnê bida"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miriyên"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "miriyên"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ku berê"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mirine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yên zindî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî ne"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "heta niha"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:34.447412698Z",
+  "model": "glm-5.3"
+}

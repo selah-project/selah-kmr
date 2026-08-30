@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ew çêkir ⟨את⟩ diriya navîn, ji bo ku di nav biran de ji aliyekî heta aliyê din derbas bibe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "û ew çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diriya"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "diriya"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "navîn"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "ji bo ku derbas bibe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav de"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "biran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "aliyekî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "aliyê din"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:59.500799092Z",
+  "model": "glm-5.3"
+}

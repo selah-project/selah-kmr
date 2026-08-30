@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Êdî di xwarina min de jehr dan, û di tîna min de sirkê weşandin min.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "di xwarina min de"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "jehr"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "û di tîna min de"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "weşandin min"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "sirk"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:30.717935237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Tu me dikî mesel di nav gelan de, hejandina serî di nav komelan.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "tu me datînî"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mesel"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "hejandina"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serî"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "komelan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:59.040359999Z",
+  "model": "glm-5.3"
+}

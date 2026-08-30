@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ji birayê xwe re faîz nagirî — faîza zîv, faîza xurek, faîza her tiştê ku tê dayîn bi faîzê.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "faîz nagirî"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ji birayê xwe re"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faîza"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faîza"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xurek"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faîza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "tê dayîn bi faîzê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:08:24.298226909Z",
+  "model": "glm-5.3"
+}

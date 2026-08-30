@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Xebata bêaqilan ⟨ew⟩ dixiste; ji ber ku ew nizane çawa biçe bajêr.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "xebata"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "bêaqilan"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ew dixiste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nizane"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "çawa biçe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajêr"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:26.089553361Z",
+  "model": "glm-5.3"
+}

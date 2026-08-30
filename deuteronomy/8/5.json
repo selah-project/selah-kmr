@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û tu ê bizanî, bi dilê xwe, ku wekî ku mêrek kurê xwe ⟨את⟩ datîne, Yahwe Elohîmê te ⟨את⟩ te datîne.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Û tu ê bizanî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "datîne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê xwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "te datîne"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:33.764372590Z",
+  "model": "glm-5.3"
+}

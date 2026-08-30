@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji bo lawên Yosef: ji bo Efrayimê — Elyşama, kurê Amîhûd; ji bo Menaşê — Gamlyêl, kurê Pedahṣur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Ji bo lawên"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ji bo Efrayimê"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elyşama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amîhûd"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ji bo Menaşê"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamlyêl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahṣur"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:12.889707Z",
+  "model": "glm-5.3"
+}

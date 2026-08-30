@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Çimkî wî ⟨את⟩ peyva xwe ya pîroz birîmand — ⟨את⟩ Avraham, xulamê wî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "birîmand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyva xwe ya pîroz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya pîroz a wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:36.393756414Z",
+  "model": "glm-5.3"
+}

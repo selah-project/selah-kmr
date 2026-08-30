@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Zava yê Moşe ji wî re got: «Ew karê ku tu dikî ne baş e.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "zava"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dikî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:08:39.189644997Z",
+  "model": "glm-5.3"
+}

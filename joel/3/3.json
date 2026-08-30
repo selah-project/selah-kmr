@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ez ê di ezmanan de û di erdê de hêrkaran nîşan bidim: xwîn û êgir û stûnên dûkelê.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "û ez ê bidim"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "hêrkaran"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "û di erdê de"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "û êgir"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "û stûnên"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dûkelê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:07:35.213816733Z",
+  "model": "glm-5.3"
+}

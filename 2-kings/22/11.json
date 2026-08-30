@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "⟨Çêbû⟩ dema key ⟨bihîst⟩ ⟨את⟩ peyvên pirtûka Tora Yahwe ⟨ku ew⟩ ⟩⟨xêncand⟩ ⟨את⟩ ⟨cilên xwe⟩ ⟩ ⟨cilên xwe⟩ xêncand.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çêbû"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "dema bihîst"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pirtûka"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "xêncand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cilên wî"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "cilên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:37.997386850Z",
+  "model": "glm-5.3"
+}

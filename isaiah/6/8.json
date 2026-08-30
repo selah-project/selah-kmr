@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û min ⟨את⟩ dengê Adonay bihîst ku dibêje: “Ez ⟨את⟩ kê bişînim? û kî ji bo me diçe?” Û min got: “Va ez im; min bişîne!”",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Û min bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê Adonay"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ez bişînim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û kî"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji bo me"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Û min got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "va ez im"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "min bişîne"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:46.700411143Z",
+  "model": "glm-5.3"
+}

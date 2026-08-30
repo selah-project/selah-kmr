@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 4:13",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Mordoxay bersivê şand bo Esterê: “Hînî nebî di canê xwe de ku tu wê xilas bibî di malê padîşah de, ji hemû Cihûyan zêdetir.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û şand bersiv"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoxay"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ji bo bersivandinê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדמי",
+      "gloss": "hînî nebî"
+    },
+    {
+      "surface": "בנפשך",
+      "gloss": "di canê xwe de"
+    },
+    {
+      "surface": "להמלט",
+      "gloss": "ku tu xilas bibî"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di malê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Cihûyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:28.914500132Z",
+  "model": "glm-5.3"
+}

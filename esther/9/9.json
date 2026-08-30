@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "û ⟨את⟩ Parmashta û ⟨את⟩ Arisay û ⟨את⟩ Ariday û ⟨את⟩ Vayezata",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Parmashta"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmashta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Arisay"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Ariday"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Ariday"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Vayezata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vayezata"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:03.287251306Z",
+  "model": "glm-5.3"
+}

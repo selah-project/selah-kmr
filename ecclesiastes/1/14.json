@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Min ⟨את⟩ hemû kirinên ku binê rojê hatine kirin dît; û li dereke, hemû tişt pûçîtî û xebata bayê ne.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "min dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû kirinên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "kirinên"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ku hatine kirin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "binê"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û li dereke"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hemû tişt"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pûçîtî"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "û xebata"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bayê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:19.033244248Z",
+  "model": "glm-5.3"
+}

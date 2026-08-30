@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Zordarî rûniştiye bibe darika gunehê; ne ji wan, ne ji komeleya wan, ne ji dengê wan, û ne jî şîn li ser wan heye.",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "zordarî"
+    },
+    {
+      "surface": "קם",
+      "gloss": "rûniştiye"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bibe darika"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gunehê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "ji komeleya wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "ji dengê wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne jî"
+    },
+    {
+      "surface": "נה",
+      "gloss": "şîn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "li ser wan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:44:19.607278707Z",
+  "model": "glm-5.3"
+}

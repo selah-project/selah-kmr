@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û roj hat, Elqana qurbanî kir, û ji Pînînna, jina xwe, û ji hemû kurên wê û keçên wê re beş dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û ... hat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "roj"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "qurbanî kir"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "û ... da"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ji Pînînna re"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina xwe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "û ji hemû ... re"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "kurên wê"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "û keçên wê"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "beş"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:03.051268436Z",
+  "model": "glm-5.3"
+}

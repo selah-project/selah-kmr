@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "⟨את⟩ Şebatên min biparêzin û ⟨את⟩ pîrozgehê min bitirsin; ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şebatên min"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Şebatên min"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "û pîrozgehê min"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bitirsin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:22.938329815Z",
+  "model": "glm-5.3"
+}

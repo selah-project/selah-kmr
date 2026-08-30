@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Êw ê bibêjin: Çimkî ew ⟨את⟩ peymana Yahwe Elohîmê xwe berdan û berî Elohîmên din perestîn û xizmetî wan kirin.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ê bibêjin"
+    },
+    {
+      "surface": "על",
+      "gloss": "derser"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "berî perestîn"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîmên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "xizmetî wan kirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:57:36.971411483Z",
+  "model": "glm-5.3"
+}

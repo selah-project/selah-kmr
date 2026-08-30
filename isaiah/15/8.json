@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Çûnkî qêrîn derdora ⟨את⟩ sinorê Moab girtiye; heta Eglajîm hêrîna wê, û heta Bêr-Elîm hêrîna wê.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "derdora ... girtiye"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "qêrîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinorê Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sinorê"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglajîm"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "hêrîna wê"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "û Bêr"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elîm"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "hêrîna wê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:32:48.265067807Z",
+  "model": "glm-5.3"
+}

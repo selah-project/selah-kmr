@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Hûn hemû şîreta min bi vala dan, û rexneya min jî nexwestin.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "bi vala dan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "şîreta min"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "û rexneya min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "xwestin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:05.113059149Z",
+  "model": "glm-5.3"
+}

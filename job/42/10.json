@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û Yahwe ⟨את⟩ şûnveanîna Eyûb anî, wextê ku ew ji bo hevalên xwe dilevat; û Yahwe ⟨את⟩ hemû tiştê ku ji bo Eyûb bû, dûcar zêde kir.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Û Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "şûnve anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şûnveanîna Eyûb"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "şûnveanîn"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Eyûb"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "wextê ku ew dilevat"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalên wî"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "zêde kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştê ji bo Eyûb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ji bo Eyûb"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "dûcar"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:56.903640903Z",
+  "model": "glm-5.3"
+}

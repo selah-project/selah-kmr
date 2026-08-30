@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û Elohîm ji ser wî bilind bû, li cihê ku bi ⟨את⟩ wî re peyivî bû.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ji ser wî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "li cihê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyivî bû"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bi wî re (Elohîm)"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:59.059674930Z",
+  "model": "glm-5.3"
+}

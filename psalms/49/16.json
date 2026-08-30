@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Lê bêguman Elohîm canê min ji destê Şeolê dilivîne, ji ber ku ⟨ew⟩ ê min bigire. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lê bêguman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "dilivîne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ê min bigire"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:08.894011643Z",
+  "model": "glm-5.3"
+}

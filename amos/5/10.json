@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Yê ku di derî de rexne dike ji hez nakin, û yê ku rast diaxive ji dixemin.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "ji hez nakin"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di derî de"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "yê rexne dike"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "û yê diaxive"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "rast"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "ji dixemin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:08:08.779091464Z",
+  "model": "glm-5.3"
+}

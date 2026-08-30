@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ji bo serokê muzîkê, helbestek aqilmend, ji aliyê zarokên Qorah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "helbestek aqilmend"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji aliyê zarokên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:25.564250527Z",
+  "model": "glm-5.3"
+}

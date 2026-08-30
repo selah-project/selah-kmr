@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Erd vekir û Datân daqurtand, û ser koma Avîramê girt.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "vekir"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "û daqurtand"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datân"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Avîram"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:08.873879617Z",
+  "model": "glm-5.3"
+}

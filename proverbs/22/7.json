@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Dewlemend li ser fîrekan hukim dike, û deyndar bende ê deyn-dider e.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "dewlemend"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "li ser fîrekan"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "hukim dike"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "û bende"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "deyndar"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ê"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "deyn-dider"
+    }
+  ],
+  "timestamp": "2026-08-30T05:46:48.437809339Z",
+  "model": "glm-5.3"
+}

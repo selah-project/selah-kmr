@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Tenê cihên bilind ne hatin dûrxistin; gel hîn li wir qurbanî didan û buhur dişewitandin li ser cihên bilind.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "cihên bilind"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "hatin dûrxistin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "qurbanî didan"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "û buhur dişewitandin"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "li ser cihên bilind"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:49.484951963Z",
+  "model": "glm-5.3"
+}

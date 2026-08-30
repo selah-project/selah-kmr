@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Avşalom zext li wî kir, û ⟨key⟩ ⟨את⟩ Amnon û ⟨את⟩ hemû kurên key bi wî re şand.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "zext kir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "li wî"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû kurên key"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    }
+  ],
+  "timestamp": "2026-08-29T19:53:50.089829734Z",
+  "model": "glm-5.3"
+}

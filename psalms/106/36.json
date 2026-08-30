@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û wan xizmetî ⟨את⟩ pûtên wan kirin, û ⟨ew⟩ bûn ji bo wan tawe.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "xizmetî kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pûtên wan"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "pûtên wan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tawe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:38.354773236Z",
+  "model": "glm-5.3"
+}

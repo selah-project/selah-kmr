@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Yahwe ê xwedavarên xwe bibireykê, ên biçûk û ên mezin.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "bibireykê"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "xwedavarên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "ên biçûk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "û"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ên mezin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:43.576378776Z",
+  "model": "glm-5.3"
+}

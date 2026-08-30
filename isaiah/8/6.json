@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ji ber ku ev gel ⟨את⟩ avên Şîloax ên bi hêsayî diherikin paşguh kir û bi Reşîn û kurê Remalyahu re kêfxweş bû,",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "paşguh kir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ev gel"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avên Şîloax"
+    },
+    {
+      "surface": "מי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Şîloax"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "dihêrij"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "bi hêsayî"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "û kêfxweş bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reşîn"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Reşîn"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "û kurê"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:14.432590806Z",
+  "model": "glm-5.3"
+}

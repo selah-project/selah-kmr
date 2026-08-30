@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Kî ⟨את⟩ ruha Yahwe pîvandiye? Kî mêşwerekî wî bû û wî hînî kir?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "pîvandiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruha Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mêşwerekî wî bû"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "meşwera wî"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "wî hînî kir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:00.587715994Z",
+  "model": "glm-5.3"
+}

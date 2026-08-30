@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Wê ⟨ew⟩ xwe qirr bike, lê ⟨את⟩ neteqê wê neqirre; û kohen ⟨את⟩ neteqê heft rojan carekê din dê bigire.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "xwe qirr bike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neteqê"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteqê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "qirre"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neteqê"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteqê"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "carekê din"
+    }
+  ],
+  "timestamp": "2026-08-29T18:28:28.541950677Z",
+  "model": "glm-5.3"
+}

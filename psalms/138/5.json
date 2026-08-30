@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 138,
+  "translation": "Ew ê di rêyên Yahwe de stranê bibêjin, çiku rûmeta Yahwe mezin e.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ê stranê bibêjin"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di rêyên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çiku"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:57.195340960Z",
+  "model": "glm-5.3"
+}

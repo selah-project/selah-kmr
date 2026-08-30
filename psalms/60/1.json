@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Ji bo serokekî ⟨ko rêberiya stranên perestgehê dike⟩, li ser «Şûşan-Êdût», mîktamek ji Dawid re, ji bo hînkirinê.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî (ko rêberiya stranên perestgehê dike)"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Şûşan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Êdût (şahidî)"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mîktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ji bo hînkirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:03.640950858Z",
+  "model": "glm-5.3"
+}

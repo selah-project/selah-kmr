@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Hemû dardayiyên ḥezerê, dora dora, ji kincê rûnandinê yê pêçandî bûn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "dardayiyên"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ḥezerê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora dora"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kincê rûnandinê"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "yê pêçandî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:07.862977337Z",
+  "model": "glm-5.3"
+}

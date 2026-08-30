@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Binêre, ez li fermanên te hêvîdar bûme, di rastîya xwe de ji nû ve jiyanê bide min.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "ez hêvîdar bûme"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "li fermanên te"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "di rastîya xwe de"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ji nû ve jiyanê bide min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:11.679450309Z",
+  "model": "glm-5.3"
+}

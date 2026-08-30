@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Elohîmê min, wan bike wek giloverê, wek kelmê berî bayê.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "wan bike"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "wek giloverê"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "wek kelmê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:21.857432739Z",
+  "model": "glm-5.3"
+}

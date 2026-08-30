@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û kên Yisraêlê didan Lewiyan ⟨את⟩ bajaran û ⟨את⟩ deverên vekirî yên derdora wan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "didan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewiyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajaran"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deverên vekirî yên derdora wan"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "deverên vekirî yên derdora wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:06.030559825Z",
+  "model": "glm-5.3"
+}

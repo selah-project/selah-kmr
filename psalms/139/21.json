@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Ma ez, Yahwe, ji ên ku ji te nefret dikin nefret nakim? Û bi wan ên ku li dijî te radibin re ez tekoşînim?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma… nakim?"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "ên ku ji te nefret dikin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "ez nefret dikim"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "û bi wan ên ku li dijî te radibin re"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "ez tekoşînim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:51.653608997Z",
+  "model": "glm-5.3"
+}

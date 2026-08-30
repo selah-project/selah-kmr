@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 126,
+  "translation": "Çûyî wê biçe û bigrî, kêliyê toximê hilbibe; bi rastî dê bi stranan were, alozên xwe hilbine.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "çûyî"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "wê biçe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "û bigrî"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hilbibe"
+    },
+    {
+      "surface": "משך",
+      "gloss": "kêliyê"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "toximê"
+    },
+    {
+      "surface": "בא",
+      "gloss": "were"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dê were"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "bi stranan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hilbine"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "alozên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:26.302161388Z",
+  "model": "glm-5.3"
+}

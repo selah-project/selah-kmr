@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Pişta Yahwe Elohîmê xwe bigirin û ⟨את⟩ wî bitirsin, ⟨את⟩ fermanên wî bihêrin û dengê wî bibihîzin, ⟨את⟩ wî xizmet bikin û bi wî ve bikefin.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "pişta…bigirin (bi şopa)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "bigirin (biçe)"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Yahwe)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bitirsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên wî"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "fermanên wî"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bihêrin"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "dengê wî"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "bibihîzin"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Yahwe)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "xizmet bikin"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "bi wî"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "ve bikefin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:13.791928809Z",
+  "model": "glm-5.3"
+}

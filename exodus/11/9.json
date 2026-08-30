@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yahwe ji Moşe re got: \"Paro wê guh nede we, ji bo ku ez berhemên xwe di welatê Mîtsrayim de zêde bikim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ... got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nede"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "guh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "we"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "zêde bikim"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "berhemên xwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:14.722456709Z",
+  "model": "glm-5.3"
+}

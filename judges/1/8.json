@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û zarokên Yehûda bi Yerûşalaymê re şer kirin û wê girtin û wê bi lêvê şûrê dan bin, û ⟨את⟩ bajarê şandin agir.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "şer kirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "bi Yerûşalaymê re"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ wê",
+      "marks": "Yerûşalaym"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "dan bin"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bi lêvê"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûrê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "bajarê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "agir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:23:28.860366377Z",
+  "model": "glm-5.3"
+}

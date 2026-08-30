@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Hûn ê ⟨את⟩ min gazî bikin, hûn ê bên û ji min re dua bikin, û ez ê we bibihîzim.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Hûn ê ... gazî bikin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "hûn ê bên"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "û dua bikin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "û ez ê bibihîzim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T21:00:55.632850923Z",
+  "model": "glm-5.3"
+}

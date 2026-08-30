@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 5:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Êdî şandin û ⟨את⟩ hemû serokên Filîstînan li cem xwe civandin, û gotin: Em çi bikin ji bo sandûqê Elohîm ê Îsraêlê? Ew gotin: Bila sandûqê Elohîm ê Îsraêlê bê Gathê. Û ⟨את⟩ sandûqê Elohîm ê Îsraêlê birin Gathê.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "civandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû serokên Filîstînan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filîstînan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "li cem xwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ji bo sandûqê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathê"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "bila ... bê"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "birin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqê Elohîm ê Îsraêlê"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:29.994299741Z",
+  "model": "glm-5.3"
+}

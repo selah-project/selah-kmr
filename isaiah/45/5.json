@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Ez Yahwe me û ji bilî min tu tişt nîne; ji bilî min Elohîm nîne; min te best û te ez nas nekir.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tuneye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tiştê din"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ji bilî min"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tuneye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "min te best"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "te ez nas nekir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:50.463005349Z",
+  "model": "glm-5.3"
+}

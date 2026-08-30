@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 27:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "\"Keçên Tslofxad rast dibêjin: ji wan re milkî mîrasekê navbiralarên bavê wan bidî, û mîrasa bavê wan ⟨את⟩ derbasî wan bikî.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "rast"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tslofxad"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bidî (pêkêş)"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bidî"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "milkî"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mîrasekê"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "biralarên"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bavê wan"
+    },
+    {
+      "surface": "והעברת",
+      "gloss": "derbasî wan bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîrasa bavê wan"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mîrasa"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "bavê wan"
+    },
+    {
+      "surface": "להן",
+      "gloss": "…"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:31.402401550Z",
+  "model": "glm-5.3"
+}

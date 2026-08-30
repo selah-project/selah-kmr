@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Ji Elohîm re bibêjin: «Çawa dihdar î di karên te de! Bi firehiya hêza te, dijminên te ên derewîn îtiya te dihebînin.»",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji Elohîm re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "dihdar"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "di karên te de"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bi firehiya"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hêza te"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ên derewîn îtiya te dihebînin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dijminên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:51.255707450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Yîtshaq gazî Yakob kir, wî ⟨את⟩ pîroz kir û ferman da wî, û ji wî re got: Jinê ji keçên Kenaan nagirî.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtshaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "pîroz kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "Yakob"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ferman da wî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "digirî"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jinê"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ji keçên"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:47:24.386952400Z",
+  "model": "glm-5.3"
+}

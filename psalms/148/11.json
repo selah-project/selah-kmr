@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Şahên erdê û hemû gelan; mîr û hemû dadbarên erdê.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "şahên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "mîr"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "dadbarên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.635410143Z",
+  "model": "glm-5.3"
+}

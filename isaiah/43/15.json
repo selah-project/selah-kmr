@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Ez im Yahwe, Pîrozê we, Afirînerê Yisraêlê, Padîşahê we.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Pîrozê we"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Afirînerê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Padîşahê we"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:05.010415349Z",
+  "model": "glm-5.3"
+}

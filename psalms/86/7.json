@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Di roja tengasiya min de ez ê gazî te bikim, ji ber ku tu bersivê didî min.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "tengasiya min"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ez ê gazî te bikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "tu bersivê didî min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.243294955Z",
+  "model": "glm-5.3"
+}

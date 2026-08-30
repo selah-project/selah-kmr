@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û got: Dema hûn ji bo jînên Îbranî ⟨את⟩ karê zayînê dikin û li ser zayînbextan dibînin — ger kur e, wî ⟨את⟩ bikujin; û ger keç e, ew bijî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "dema hûn zayînê didin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jînên Îbranî"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "jînên Îbranî"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "û hûn dibînin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "zayînbextan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "wî bikujin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kur"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keç"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ew bijî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:43.958859400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ji bo Şelomo dwanzdeh cîgir li ser hemû Yisraelê bûn; ew xurdîya keyî û ⟨את⟩ malbata wî dabîn dikirin — mehekî di salê de li ser yekî ketibû, da ku wî xurdî dabîn bike.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Û ji bo Şelomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "cîgir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelê"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "dabîn dikirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keyî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "keyî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malbata wî"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "malbata wî"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mehekî"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "di salê de"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ketibû"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "da ku xurdî dabîn bike"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:36.694064373Z",
+  "model": "glm-5.3"
+}

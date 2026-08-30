@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "û ger cilên xwe nedişo û laşê xwe neşo, êdî gunehê xwe hildaye.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "dişo"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "û laşê xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dişo"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "êdî hildaye"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "gunehê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:06.493147423Z",
+  "model": "glm-5.3"
+}

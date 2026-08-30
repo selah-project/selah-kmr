@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Û rez û hînarên wan Lê da, û darên sinorê wan şikand.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Lê da"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "rez"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "û hînarên wan"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "û şikand"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "darên"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sinorê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:29.631282566Z",
+  "model": "glm-5.3"
+}

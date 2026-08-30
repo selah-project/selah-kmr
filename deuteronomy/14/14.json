@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "û ⟨את⟩ hemû qijikan li gorî cureyê wan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû qijikan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qijik"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "li gorî cureyê wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:01.595243382Z",
+  "model": "glm-5.3"
+}

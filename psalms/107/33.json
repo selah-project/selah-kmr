@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Çeman dike çol, û kanên avê dike erdê bi tîbûnê.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "dike"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çeman"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "çol"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "û kanên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "erdê bi tîbûnê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:46.413518470Z",
+  "model": "glm-5.3"
+}

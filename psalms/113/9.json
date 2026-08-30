@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 113,
+  "translation": "Yê ku jinê bêzar a malê danişîne, dayîka şabike ji zarokan re. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Yê ku danişîne"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "jinê bêzar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a malê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dayîka"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ji zarokan re"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "şabike"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:49.659545653Z",
+  "model": "glm-5.3"
+}

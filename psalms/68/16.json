@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Çiyayê Elohîm ⟨is⟩ çiyayê Başan; çiyayê lûtkeyan ⟨is⟩ çiyayê Başan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Başan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "lûtkeyan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Başan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:15.031671745Z",
+  "model": "glm-5.3"
+}

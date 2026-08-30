@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Peyiv tune ne û gotin tune ne; dengê wan nayê bihîstin.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tune ne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "peyiv"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune ne"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bêyî"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nayê bihîstin"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dengê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:19.084203006Z",
+  "model": "glm-5.3"
+}

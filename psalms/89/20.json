@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Wê çaxê tu di dîtinekê de ji dilsozên xwe re axavt û got: Min alîkarî li ser hêzdarekî danî, min ciwanekî ji gelê hilgirt.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wê çaxê"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "axavt"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "di dîtinekê de"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "ji dilsozên te re"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "min danî"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "alîkarî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hêzdarekî"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "min hilgirt"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ciwanekî"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ji gelê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:53.989537761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Kî ye ew mêrê ku ji Yahwe ditirse? Wî dê di rêya ku wê hilbijêre de hîn bike.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ditirse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "wî dê ... hîn bike"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rêya ... de"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ku wê hilbijêre"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:14.318334498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Ji ber ku Yahwe Tsiyonê hilbijart, ew xwest wek cihê rûniştina xwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "hilbijart"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyonê"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "xwest"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "wek cihê rûniştinê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:20.708651161Z",
+  "model": "glm-5.3"
+}

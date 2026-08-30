@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û tu wan li ser lingê deriyên mala xwe û li ser deriyên xwe binivîsî.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "binivîsî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "lingê deriyan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mala xwe"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "û li ser deriyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:08.510465Z",
+  "model": "glm-5.3"
+}

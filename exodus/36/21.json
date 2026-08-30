@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Deh kuleç dirêjahiya ⟨textê⟩, û kuleçek û nîvî firehiya textê yekta yî.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kuleç"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dirêjahî"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "textê"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "û kuleçek"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "û nîvî"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kuleçê"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "firehî"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "textê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekta yî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:28.546415022Z",
+  "model": "glm-5.3"
+}

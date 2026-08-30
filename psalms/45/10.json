@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Keçên keyan di nav kirên te yên payebilad de ⟨ne⟩; banûyê li milê rastê te rawestiya, bi zêrê saf ê Ophîrê.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "keyan"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "di nav kirên te yên payebilad"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "rawestiya"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "banûyê"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "li milê rastê te"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "bi zêrê saf"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophîrê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:13.487626070Z",
+  "model": "glm-5.3"
+}

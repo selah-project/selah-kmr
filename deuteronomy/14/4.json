@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ev ⟨ev⟩ ajal in ku hûn dikarin bixwin: ga, mihên mihan û bizinan.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hûn dikarin bixwin"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mihekî ji"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "mihên"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "û mihekî ji"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bizinan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:31.866968701Z",
+  "model": "glm-5.3"
+}

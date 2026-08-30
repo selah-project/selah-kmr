@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Ji girtîgehê û ji dadbariyê hate birin, û ⟨את⟩ nifşê wî kî dê bitevîne? Ji ber ku ji axa jiyanê hate qutkirin; ji derbasdariya gelê min êş ketibû ser wan.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "ji girtîgehê"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "û ji dadbariyê"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hate birin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "nifşê wî"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "nifşê wî"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "dê bitevîne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "hate qutkirin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji axa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyanê"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "ji derbasdariya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "êş"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ser wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:23.784522317Z",
+  "model": "glm-5.3"
+}

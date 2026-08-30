@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Yê ku jîyana te ji çalê wêranî rizgar dike, yê ku te bi xesed û dilovanî datext dike.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "yê ku rizgar dike"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ji çalê wêranî"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "jîyana te"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "yê ku datext dike"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "û dilovanî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.762442334Z",
+  "model": "glm-5.3"
+}

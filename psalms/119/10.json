@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Bi tevahiya dilê min min tu geriyayî; nehêle ez ji fermanên te rê şaş bikim.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bi tevahiya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "min tu geriyayî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nehêle"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ez rê şaş bikim"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "ji fermanên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:47.247292551Z",
+  "model": "glm-5.3"
+}

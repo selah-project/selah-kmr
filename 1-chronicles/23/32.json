@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "û ew ⟨את⟩ parêzvaniya çadê civînê û ⟨את⟩ parêzvaniya cihê pîroz diparêzin, û parêzvaniya kûrên Aharon birayên xwe, ji bo xizmeta mala Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "û diparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parêzvaniya çadê civînê"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "parêzvaniya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parêzvaniya cihê pîroz"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "parêzvaniya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cihê pîroz"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "û parêzvaniya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ji bo xizmeta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:40:20.088942281Z",
+  "model": "glm-5.3"
+}

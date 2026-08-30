@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Heta kengê, Yahwe, ez qêrîm û tu nabihîzî? Ez li ser tundî qêrîm bal te, û tu xilas nakî!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ez qêrîm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û tu na—"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "bihîzî"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ez qêrîm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bal te"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tundî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û tu na—"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "xilas nakî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:13:35.599505221Z",
+  "model": "glm-5.3"
+}

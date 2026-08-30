@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ji bo hînkirina kurên ⟨את⟩ Îsraêlî ⟨את⟩ hemû fermanên ku Yahwe bi destê Moşe pê re peyivî.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "Û ji bo hînkirina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên Îsraêlî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû fermanên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "pê re"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:19.555776228Z",
+  "model": "glm-5.3"
+}

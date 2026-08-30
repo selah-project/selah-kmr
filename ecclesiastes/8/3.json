@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ne lezîbe ku ji ber rûyê wî derkevî, ne jî di bêja xerab de rawestî, çimkî ew ê her tiştê ku bixwaze bike.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "lezîbe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ji ber rûyê wî"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "derkevî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne jî"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "rawestî"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "di bêja ... de"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "bixwaze"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bike"
+    }
+  ],
+  "timestamp": "2026-08-30T06:59:21.223847353Z",
+  "model": "glm-5.3"
+}

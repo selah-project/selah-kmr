@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û padîşahê Babîlê ⟨את⟩ Mattanyah, mamê wî, li şûna wî kir padîşah, û navê wî guherand û kir Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "kir padîşah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "mamê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "li şûna wî"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "guherand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:38.181772586Z",
+  "model": "glm-5.3"
+}

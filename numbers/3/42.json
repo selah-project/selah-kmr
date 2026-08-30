@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Moşe ⟨את⟩ hemû yekem-zayîyê di nav kurên Yisraêlê de jimart, wekî ku Yahwe fermana ⟨את⟩ wî kiribû.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "û … jimart"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû yekem-zayî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "yekem-zayî"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di kurên … de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:08.500409299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ma ez ⟨את⟩ nanê xwe û ⟨את⟩ avê xwe û ⟨את⟩ goştê ku min ji bo dirankirinan serjê kiriye, bigirim û bidim mêran ku ez nizanim ji ku derê ne?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "bigirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanê xwe"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "nanê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "avê xwe"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "avê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goştê"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "serjê kiriye"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "ji bo dirankirinan"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "bidim"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ez nizanim"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ji ku derê"
+    },
+    {
+      "surface": "מזה",
+      "gloss": ""
+    },
+    {
+      "surface": "המה",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:21.808767396Z",
+  "model": "glm-5.3"
+}

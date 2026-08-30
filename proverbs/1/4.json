@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "ji bo dayîna şêwazê ji sadeyan, ji bo dayîna zanînê û armancdarîyê ji ciwanekî re.",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "ji bo dayîna"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "ji sadeyan"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "şêwazê"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ji ciwanekî re"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanînê"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "û armancdarîyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:20.500874941Z",
+  "model": "glm-5.3"
+}

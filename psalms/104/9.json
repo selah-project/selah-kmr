@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Sînor ⟨te⟩ danî — na derbas dibin, na vedigerin ku erdê veşêrin.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "sînor"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "danî"
+    },
+    {
+      "surface": "בל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "derbas dibin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "vedigerin"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "veşêrin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:17.042216234Z",
+  "model": "glm-5.3"
+}

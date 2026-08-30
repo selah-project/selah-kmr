@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Piştî wê re qiralê kurên Emonyê (Bene-Ammon) mir, û Xanun kurê wî şûna wî bû.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê re"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiralê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Emonyê (Bene-Ammon)"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "bû qiral"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Xanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:19.083356040Z",
+  "model": "glm-5.3"
+}

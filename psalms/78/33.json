@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û wî rojên wan di bêhûdîyê de û salên wan di tirsê de bidawî kir.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "bidawî kir"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "di bêhûdîyê de"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "rojên wan"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "û salên wan"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "di tirsê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:34.593870814Z",
+  "model": "glm-5.3"
+}

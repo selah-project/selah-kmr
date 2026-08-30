@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Tenê bi goralê ⟨את⟩ erd dê were dabeşkirin; li gorî navên êlên bavên wan ew êrîşî mîrasê bibin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "bi goralê"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "dê were dabeşkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erd"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "li gorî navên"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "êlên"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ew êrîşî mîrasê bibin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:24.623242350Z",
+  "model": "glm-5.3"
+}

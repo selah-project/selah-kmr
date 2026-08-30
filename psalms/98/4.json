@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 98,
+  "translation": "Ji bo Yahwe bilîzên, hemû erd! Qîrîn bikin, şahî bikin û bistrînin!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "bilîzên"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "qîrîn bikin"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "û şahî bikin"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "û bistrînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:22.355931807Z",
+  "model": "glm-5.3"
+}

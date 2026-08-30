@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Darên Yahwe tê têrkirin — sedrên Lubnanê (Lubnan), ku ew çandiye.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "tê têrkirin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedrên"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnanê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "çandiye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:15.118325748Z",
+  "model": "glm-5.3"
+}

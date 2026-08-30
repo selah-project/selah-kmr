@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Netirse, çimkî ez bi te re me; mêze neke û aciz nebe, çimkî ez Elohîmê te me; min hêz da te, erê min alîkarîya te kir, erê min te bi milê rastê yê rastîya xwe girt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tirse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "mêze neke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "min hêz da te"
+    },
+    {
+      "surface": "אף",
+      "gloss": "erê"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "min alîkarîya te kir"
+    },
+    {
+      "surface": "אף",
+      "gloss": "erê"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "min te girt"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "bi milê rastê"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "yê rastîya min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:04.125941942Z",
+  "model": "glm-5.3"
+}

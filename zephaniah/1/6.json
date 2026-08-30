@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "û ⟨את⟩ yên ku ji pişt Yahwe paşve vegeriyan, û yên ku Yahwe ne lêgerîn ⟨את⟩ Yahwe û ne jê lêpirsîn",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yên ku paşve vegeriyan"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "yên ku paşve vegeriyan"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ji pişt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û yên ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "lêgerîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "jê lêpirsîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:34.024476515Z",
+  "model": "glm-5.3"
+}

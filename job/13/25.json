@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ma pelî hatî serhêl ditirsînî? û ⟨את⟩ hişilyê hişkî digerî?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "pelî"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "hatî serhêl"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "ditirsînî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hişilyê hişkî"
+    },
+    {
+      "surface": "קש",
+      "gloss": "hişil"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "hişk"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "digerî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:56.572578382Z",
+  "model": "glm-5.3"
+}

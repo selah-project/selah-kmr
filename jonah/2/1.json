@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Yahwe masiyekî mezin amade kir da ku Yûna ⟨את⟩ daqurtîne; û Yûna sê rojan û sê şevan di zikê masî de ma.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "amade kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "masî"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "daqurtîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yûna"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yûna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yûna"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "di zikê"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "masî"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "şevan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:09:51.410755351Z",
+  "model": "glm-5.3"
+}

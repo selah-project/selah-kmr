@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Çavên baqil di serê wî de ne, û sefîh di tarîtiyê de dimeşe; û ez jî zanîm ku bûyereke heman li ser ⟨את⟩ hemûyan tê.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "baqil"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "di serê wî de"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "û sefîh"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "di tarîtiyê de"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "dimeşe"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "û min zanî"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "ku bûyer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek \/ heman"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "tê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemûyan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemûyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:21.915020309Z",
+  "model": "glm-5.3"
+}

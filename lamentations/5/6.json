@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Me dest da Mîtsrayim û Ashûr, da ku ji nan têr bibin.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "me ... da"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dest"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashûr"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "da ku têr bibin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ji nan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:49.216135271Z",
+  "model": "glm-5.3"
+}

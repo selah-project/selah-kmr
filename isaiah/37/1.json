@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û bû, gava key Hizkiyahu bihîst, ⟨את⟩ kirînên xwe qelişand, xwe bi şaqê girt û çû malê Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "gava…bihîst"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "qelişand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirînên xwe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kirînên xwe"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "xwe girt"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "bi şaqê"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "çû"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:00.682733172Z",
+  "model": "glm-5.3"
+}

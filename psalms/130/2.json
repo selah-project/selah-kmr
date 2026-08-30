@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 130,
+  "translation": "Adonay, dengê min bibihîze; guhên te ⟨bin⟩ guhdar li dengê diletiyên min.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨bin⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "guhên te"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "guhdar"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "li dengê"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "diletiyên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:44.155857216Z",
+  "model": "glm-5.3"
+}

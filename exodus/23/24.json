@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Tu ji bo elohên wan nêy înana xwe, wan nixebitîne û wek karên wan neke; belkî wan bi tevahî hilweşîne û sitûnên wan bişkîne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "nêy înana xwe"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "ji bo elohên wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "wan nixebitîne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "neke"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "wek karên wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belkî (çunkî)"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "wan hilweşîne"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "û (bişkîne)"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "bişkîne"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "sitûnên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:34.184924134Z",
+  "model": "glm-5.3"
+}

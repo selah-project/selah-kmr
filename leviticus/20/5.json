@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û ez ê rûyê xwe li ser wî zilamî û li ser malbata wî deynim, û ⟨אתו⟩ wî û ⟨ואת⟩ hemû yên ku dizinin piştî wî, ji bo zinkirinê piştî Molex, ji nav gelê wan bibirrim.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ez ê deynim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê min"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "li ser wî zilamî"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "û li ser malbata wî"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "û ez ê bibirrim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "yên ku dizinin"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "piştî wî"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ji bo zinkirinê"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molex"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ji nav"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "gelê wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:13.441865241Z",
+  "model": "glm-5.3"
+}

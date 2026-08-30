@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ji ber ku kêşer ji Yahwe re tiştê nefretkirî ye, lê razên wî ⟨את⟩ bi rastgezan re ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "tiştê nefretkirî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "kêşer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lê ⟨את⟩ bi … re",
+      "marks": "rastgezan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rastgezan"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "razên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:29.601834382Z",
+  "model": "glm-5.3"
+}

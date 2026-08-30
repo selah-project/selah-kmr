@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Zarokên Senaa, sê hezar û şeş sed û sî.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Zarokên"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Senaa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "û sî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:22:22.133616310Z",
+  "model": "glm-5.3"
+}

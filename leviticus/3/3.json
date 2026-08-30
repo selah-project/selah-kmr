@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ji qurbana şelamîm dê pêşkêşî Yahwe bike pêşkeşa agir: ⟨את⟩ çewî ku ⟨את⟩ hûndirê dişêwire û ⟨את⟩ hemû çewî ku ser hûndirê ye.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Û… dê pêşkêş bike"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ji qurbana"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "şelamîm"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pêşkeşa agir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pêşkêşî Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çewî"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "çewî"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ku… dişêwire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hûndirê"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "hûndirê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "hemû çewî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "çewî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "hûndirê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:30.565974792Z",
+  "model": "glm-5.3"
+}

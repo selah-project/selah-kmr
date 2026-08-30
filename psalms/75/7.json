@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 75,
+  "translation": "Ji ber ku bilindahî ne ji derketinê û ne ji rojava tê, û ne ji çolê çiyayan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "ji derketinê"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "û ne ji rojava"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ji çolê"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyayan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:37.697462806Z",
+  "model": "glm-5.3"
+}

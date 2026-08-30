@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber ku hora, Yahwe ji cihê xwe derdikeve, û dadikeve, û li ser bilindahiyan ê Erdê radihûme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derdikeve"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ji cihê xwe"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "û dadikeve"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "û radihûme"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "bilindahiyan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:11:41.122700432Z",
+  "model": "glm-5.3"
+}

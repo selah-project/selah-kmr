@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ew ê werin û rastiya wî ji bo neteweyeke ku dê bê dinyayê ragihînin, ji ber ku ew kir.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "dê werin"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "û … ragihînin"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "rastiya wî"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ji bo netewe"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ku dê bê dinyayê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ew kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:29.559407832Z",
+  "model": "glm-5.3"
+}

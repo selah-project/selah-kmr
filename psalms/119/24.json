@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Herweha şahidiyên te kêf û şahiyê min in, mêrên şêwîriya min.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "herweha"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şahidiyên te"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kêf û şahiyê min"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "şêwîriya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:33.083888953Z",
+  "model": "glm-5.3"
+}

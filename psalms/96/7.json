@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Bidin bo Yahwe, malbatên gelan; bidin bo Yahwe rûmet û hêz.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bo Yahwe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bo Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "û hêz"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:57.781538670Z",
+  "model": "glm-5.3"
+}

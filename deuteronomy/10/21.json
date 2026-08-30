@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ew ê serbilindkirinên te ye, û ew Elohîmê te ye, yê ku bi te re ⟨את⟩ kargirtî û ⟨את⟩ tiştên tirsnak kir, yên ku çavên te dîtin.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ew"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ê serbilindkirinên te"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bi te re ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kargirtî"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "kargirtî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "tiştên tirsnak"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "tiştên tirsnak"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku çavên te dîtin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "çavên te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:05.255816337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Pîroz î Tu, Yahwe; biryarnameyên xwe min hîn bikî.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pîroz î"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "min hîn bikî"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "biryarnameyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:47.247624186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Min ji Yahwe got: Adonay tu yî ⟨⟨yê⟩⟩ min; çêya min bi ser te re nîne.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Min got"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "çêya min"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "bi ser te re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:52.262285511Z",
+  "model": "glm-5.3"
+}

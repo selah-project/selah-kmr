@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Yahwe ⟨את⟩ peyva xwe ya ku gotîbû cih anî, û ez li şûna Dawid, bavê xwe, rabûm û li ser textê Yisraêlê rûniştîm, wekî Yahwe gotîbû, û min xanî ava kir ji bo navê Yahwe, Elohîmê Yisraêlê.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Û cih anî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyva xwe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "peyva xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotîbû"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "Û ez rabûm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "û rûniştîm"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "textê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotîbû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "Û min ava kir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ji bo navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:04.666369783Z",
+  "model": "glm-5.3"
+}

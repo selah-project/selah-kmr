@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û bila Yahwe Elohîmê te me ragihîne ⟨את⟩ rêya ku em ê bi wê biçin, û ⟨את⟩ tiştê ku em ê bikin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ragihîne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rêya ku em ê bi wê biçin"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rêya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "em ê biçin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bi wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku em ê bikin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "em ê bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T21:06:41.969208579Z",
+  "model": "glm-5.3"
+}

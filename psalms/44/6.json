@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Bi te dijminên xwe datikînin; bi navê te datepînin raberên me.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "bi te"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "dijminên me"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "datikînin"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "bi navê te"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "datepînin"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "raberên me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:02.840491918Z",
+  "model": "glm-5.3"
+}

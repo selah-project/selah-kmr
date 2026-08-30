@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Ji ber ku ew berîyên deriyên te xurt kir, ji zarokên te re berek da di nava te de.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "xurt kir"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "berîyên"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "deriyên te"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "berek da"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "zarokên te"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di nava te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.116727227Z",
+  "model": "glm-5.3"
+}

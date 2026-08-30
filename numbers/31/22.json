@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Tenê ⟨את⟩ zêr, û ⟨את⟩ zîv, ⟨את⟩ paxir, ⟨את⟩ hesin, ⟨את⟩ pîl û ⟨את⟩ sînc:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zêr"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zîv"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paxir"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "paxir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hesin"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "hesin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pîl"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "pîl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "sînc"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "sînc"
+    }
+  ],
+  "timestamp": "2026-08-29T18:54:42.582025768Z",
+  "model": "glm-5.3"
+}

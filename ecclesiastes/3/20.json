@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Hemû ber bi cihekî yek diçin; hemû ji xwelî bûn, û hemû vedigerin ber bi xwelîyê ve.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "diçin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "xwelîyê"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vedigerin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "xwelîyê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:03.640049940Z",
+  "model": "glm-5.3"
+}

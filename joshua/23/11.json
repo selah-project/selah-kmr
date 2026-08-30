@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Êdî hûn ji bo canên xwe pir hizir bin, ji bo ku ⟨את⟩ Yahwe Elohîmê xwe hejibin.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "hûn... hizir bin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ji bo canên xwe"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ji bo ku hejibin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:23:20.655168894Z",
+  "model": "glm-5.3"
+}

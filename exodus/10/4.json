@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Çimkî ger tu red bikî ku tu gelê ⟨את⟩ min bişînî, wê hingê ez sibê qulingan tînim nav sînorên te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "red bikî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ku tu … bişînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê min"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "wê hingê ez"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "tînim"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sibê"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "qulingan"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "nav sînorên te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:10.207932335Z",
+  "model": "glm-5.3"
+}

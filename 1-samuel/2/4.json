@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Kevanên mêrên hêzdar şikestin, û ên ku dikevin hêz xwe kîn.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "kevanên"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "mêrên hêzdar"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "şikestin"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "ên ku dikevin"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "hêz xwe kîn"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêz"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:41.720977898Z",
+  "model": "glm-5.3"
+}

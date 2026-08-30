@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û ji bo ruha dadê, ji bo yê ku li ser dadê rûdine, û ji bo hêzê, ji bo ên ku şer vedigerînin derî.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "û ji bo ruha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadê"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "ji bo yê ku rûdine"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "dadê"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "û ji bo hêzê"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "ên ku vedigerînin"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "derî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:35:20.522880578Z",
+  "model": "glm-5.3"
+}

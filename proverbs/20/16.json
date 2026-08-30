@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Kincê wî bigire, çimkî ji bo zûrekî destûr bûye; û ji bo biyanan girêwana wî bigire.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "kincê wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "destûr bûye"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zûrekî"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "û ji bo"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "biyanan"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "girêwana wî bigire"
+    }
+  ],
+  "timestamp": "2026-08-30T05:46:53.622351166Z",
+  "model": "glm-5.3"
+}

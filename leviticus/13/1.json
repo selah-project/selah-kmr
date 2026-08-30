@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Yahwe ji Moşe û ji Aharon re peyivî û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "peyivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ji … re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:28:53.183706278Z",
+  "model": "glm-5.3"
+}

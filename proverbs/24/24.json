@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Yê ku ji wî nebaş re dibêje: 'Tu rast î', gel wî lanet dikin, komelan jî wî diqehirînin.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ji wî nebaş re"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "wî lanet dikin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "wî diqehirînin"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "komelan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:42.487681634Z",
+  "model": "glm-5.3"
+}

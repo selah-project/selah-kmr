@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û jin ducan bû û kurêk çêkir; Û gava ⟨את⟩ wî dît — ku ew qenc bû — sê heyvan wî veşart.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ducan bû"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kurêk çêkir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurêk"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qenc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "wî veşart"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "heyvan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:45.557902180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û ez ê wekî dorêkî li dora te kamp bikim, û ez ê li dijî te posteyan bi cîh bikim, û ez ê li dijî te kelehan rabinim.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "ez ê kamp bikim"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "wekî dorê"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li dora te"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ez ê dorpêç bikim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li dijî te"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "poste"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ez ê rabinim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li dijî te"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "keleha dorpêçê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:36:05.018943763Z",
+  "model": "glm-5.3"
+}

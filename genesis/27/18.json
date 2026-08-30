@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û ew hat ba bavê xwe, û got: “Bavê min!” Û ew got: “Ez vir im; kî tu yî, kûrê min?”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Bavê min"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ez vir im"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrê min"
+    }
+  ],
+  "timestamp": "2026-08-29T17:47:44.960365568Z",
+  "model": "glm-5.3"
+}

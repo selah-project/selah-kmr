@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Weye ji bo yên ku biryarên awanê didin û cefayê dinivîsin!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Weye"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "ji bo yên ku biryaran didin"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "biryarên"
+    },
+    {
+      "surface": "און",
+      "gloss": "awanê"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "û ên ku dinivîsin"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "cefayê"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "dinivîsin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:06.110885744Z",
+  "model": "glm-5.3"
+}

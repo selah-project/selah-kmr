@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û Lavan ⟨את⟩ hemû mêrên ⟨the⟩ cih civand û şahiyek çêkir.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "civand"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû mêrên cih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "cih"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "şahiyek"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:10.269422979Z",
+  "model": "glm-5.3"
+}

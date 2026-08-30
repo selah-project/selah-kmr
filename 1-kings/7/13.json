@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Key Şelomo şand û ⟨את⟩ Hîram ji Tsurê hilgirt.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hilgirt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hîram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hîram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ji Tsurê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:36:43.417162224Z",
+  "model": "glm-5.3"
+}

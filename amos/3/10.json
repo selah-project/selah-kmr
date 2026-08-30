@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û nas nakin ku rast bikin, gotina Yahwe; ew ê ku tundî û talan di qesrên xwe de kom dikin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û nas nakin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "û nas nakin"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ku bikin"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "rast"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ew ê ku kom dikin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tundî"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "û talan"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "di qesrên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T04:07:45.977510610Z",
+  "model": "glm-5.3"
+}

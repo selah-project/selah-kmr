@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Wan ⟨את⟩ sandûqa Elohîm anî û wê di navê ⟨the⟩ çadirê ku Dawid ji bo wê damezrandibû de cih kir, û pêşber Elohîm qurbanên-şewatê û qurbanên-aştiyê pêşkêş kirin.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqa Elohîm"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "cih kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wê",
+      "marks": "wê"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di navê"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadirê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "damezrandibû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "pêşkêş kirin"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "qurbanên-şewatê"
+    },
+    {
+      "surface": "ו שלמים",
+      "gloss": "qurbanên-aştiyê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pêşber"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:25.713080774Z",
+  "model": "glm-5.3"
+}

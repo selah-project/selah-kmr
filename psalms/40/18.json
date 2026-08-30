@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ez belawelak im û hêca me; Adonay ê bo min bifikire: alîkarê min û rizgarkarê min Tu yî, Elohîm ê min,⟨is⟩ ne-de neke!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Û ez"
+    },
+    {
+      "surface": "עני",
+      "gloss": "belawelak"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û hêca me"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ê bo min bifikire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bo min"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "alîkarê min"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "û rizgarkarê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm ê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "dereng neke"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:21.986449589Z",
+  "model": "glm-5.3"
+}

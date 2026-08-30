@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Riyên xwe ji Moşe re nasand, ji kurên Yisraêl re jî kiryarên xwe.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "nasand"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "riyên xwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ji Moşe re"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "kiryarên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:27.672449106Z",
+  "model": "glm-5.3"
+}

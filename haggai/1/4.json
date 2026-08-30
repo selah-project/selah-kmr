@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ma ji bo we ye — hûn bi xwe — ku hûn di malên xwe yên sipanî de bijîn, û ev mal xerab bimîne?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Ma … ji bo we ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn bi xwe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ku bijîn"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "di malên xwe"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "sipanî"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "û ev mal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "xerab bimîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:05:38.094740906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Kurên Îsraêlê bi wan re yên ji bo kirînê dihatin, di nav wan de hatin ji bo kirîna berhemê, ji ber ku tîrbûn li welatê Kenan bû.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ji bo kirîna berhemê"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "yên dihatin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tîrbûn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:09.546036824Z",
+  "model": "glm-5.3"
+}

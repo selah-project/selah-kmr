@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Ji ber ku ew ê wek giha zû werin qutkirin û wek keskatiya giha bibin zuwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "wek giha"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "zû"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "werin qutkirin"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "û wek keskatiya"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "giha"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "bibin zuwa"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:10.847117926Z",
+  "model": "glm-5.3"
+}

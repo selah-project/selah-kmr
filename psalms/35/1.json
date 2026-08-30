@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Ji Dawid re. Yahwe, digel ⟨את⟩ dijberên min tekoşîn bike, digel ⟨את⟩ şerkerên min şer bike.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid re"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "tekoşîn bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijberên min"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "dijberên min"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "şer bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şerkerên min"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "şerkerên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:40.372575392Z",
+  "model": "glm-5.3"
+}

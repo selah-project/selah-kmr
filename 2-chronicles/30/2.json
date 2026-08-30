@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û şah û serokeyên wî û tevî civatê li Yeruşalayim li hev kirin ku Pesaḥ di meha duyemîn de bikin.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "li hev kirin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "û serokeyên wî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevî"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku ... bikin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "di meha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya duyemîn de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:52:42.726215207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Wê ez mifteya mala Dawid li ser milê wî bidim; û wê vek û kes dê negire, û wê bigire û kes dê veneke.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "wê ez bidim"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "mifteya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "milê wî"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "û wê vek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û kes nîne"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ku bigire"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "û wê bigire"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û kes nîne"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku veneke"
+    }
+  ],
+  "timestamp": "2026-08-29T20:35:09.131791621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Ji ber ku ew dilê xwe daye min, ez ê wî rizgar bikim; ez ê wî bilind bikim, ji ber ku ew navê min nas kir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "dilê xwe daye"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ez ê wî rizgar bikim"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ez ê wî bilind bikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nas kir"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "navê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:00.396245757Z",
+  "model": "glm-5.3"
+}

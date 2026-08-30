@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û kure Îsraêlê ⟨את⟩ Ba'alan û ⟨את⟩ Ashtarotan ji nav xwe rakirin, û ⟨את⟩ Yahwe bi tenê çêrîn.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "rakirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kure"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'alan"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'alan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtarotan"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtarotan"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "çêrîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "bi tenê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:06.805448483Z",
+  "model": "glm-5.3"
+}

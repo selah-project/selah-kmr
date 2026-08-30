@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Ji ber ku waha Yahwe ji bo nexwetiyan digot: yên ku Şabatên min dibin ⟨את⟩, û yên ku tiştên ku min xwestî hildibijêrin, û yên ku bi peymana min ve bihêz digirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "כה",
+      "gloss": "waha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "ji bo nexwetiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "dibin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabatên min"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Şabatên min"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "û hildibijêrin"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "tiştên ku"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "min xwestî"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "û yên ku bihêz digirin"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "bi peymana min ve"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:21.680601133Z",
+  "model": "glm-5.3"
+}

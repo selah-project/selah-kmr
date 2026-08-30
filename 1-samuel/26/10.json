@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Dawid got: \"Zindî be Yahwe — Yahwe dê wî bibirîne, an roja wî were û bimire, an wî di şer de dakeve û têk biçe.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindî be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bilî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "dê wî bibirîne"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "roja wî"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "were"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "û bimire"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "di şer de"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "dakeve"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "û têk biçe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:01.248683984Z",
+  "model": "glm-5.3"
+}

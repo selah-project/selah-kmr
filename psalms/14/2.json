@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Yahwe ji ezmanan xwe avêt ser însanan, ku bibîne gelo heye, yekî têgehiştî, yê ku ⟨את⟩ Elohîm digere.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ji ezmanan"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "xwe avêt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "însanan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ku bibîne"
+    },
+    {
+      "surface": "היש",
+      "gloss": "gelo heye"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yekî têgehiştî"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yê ku digere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:00.954288497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Devê wî ji nifiran û ji xapînan û ji sextekariyê tije ye; binê zimanê wî zehmetî û sûc e.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "nifir"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "devê wî"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tije ye"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "û ji xapînan"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "û ji sextekariyê"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "binê"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "zimanê wî"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zehmetî"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "û sûc"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:41.195259619Z",
+  "model": "glm-5.3"
+}

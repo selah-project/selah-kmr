@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Dê bi valatî nexebitin û dê bi tirsan neçênin; çimkî ew tovên bêrûkirî yên Yahwe ne, û dewên wan ⟨את⟩ digel wan in.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "dê nexebitin"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "bi valatî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dê neçênin"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "bi tirsan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tovên"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "bêrûkirî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew in"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "û dewên wan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "digel wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:49:34.386010750Z",
+  "model": "glm-5.3"
+}

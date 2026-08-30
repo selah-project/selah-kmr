@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û zarokên Îsraêlî li gorî peyva Moşe kirin û ji Misrê amûrên zîv û amûrên zêr û berçavan xwestin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Û zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "li gorî peyva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "û xwestin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Misrê"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "û amûrên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "û berçavan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:07.557842909Z",
+  "model": "glm-5.3"
+}

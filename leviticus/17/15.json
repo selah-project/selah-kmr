@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "û her kesê ku goştê mirî an goştê dirandî dixwin — welatî jî, mêvan jî — êdî cilên xwe dişo û xwe bi avê dişo, heta êvarê nepaqij dimîne û paqij dibe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "û her"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kesê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "goştê mirî"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "an goştê dirandî"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "welatî"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "û mêvan"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "êdî dişo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "cilên xwe"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "û xwe dişo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bi avê"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nepaqij dimîne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "êvarê"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "û paqij dibe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:06.492919877Z",
+  "model": "glm-5.3"
+}

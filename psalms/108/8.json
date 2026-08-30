@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Elohîm di pîroziya xwe de axivî: ez ê kêfxweş bibim, ez ê Şekemê dabeş bikim, û newala Sukkotê dipîvim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "di pîroziya xwe de"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ez ê kêfxweş bibim"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ez ê ... dabeş bikim"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemê"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "û newala"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkotê"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "dipîvim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:53.442136554Z",
+  "model": "glm-5.3"
+}

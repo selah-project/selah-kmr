@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Her kes ⟨את⟩ hevalê xwe hêz dide û ji birayê xwe re dibêje: \"Hêz be!\"",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê xwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "hêz dide"
+    },
+    {
+      "surface": "וילאחיו",
+      "gloss": "û ji birayê xwe re"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Hêz be!"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:37.372084664Z",
+  "model": "glm-5.3"
+}

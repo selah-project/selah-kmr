@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 110,
+  "translation": "Adonay li milê te yê rastê ⟨ye⟩; roja hêrsê wî keyan dişkîne.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "li milê"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "te yê rastê"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "dişkîne"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hêrsê wî"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "keyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:01.670217973Z",
+  "model": "glm-5.3"
+}

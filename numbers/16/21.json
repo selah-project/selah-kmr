@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ji nava vê civatê xwe veqetînin, û ez ê wan ⟨את⟩ di demeke bilez de tune bikim.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "xwe veqetînin"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ji nava"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "vê civatê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "û ez ê ... tune bikim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "di demeke bilez de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:47:31.945560031Z",
+  "model": "glm-5.3"
+}

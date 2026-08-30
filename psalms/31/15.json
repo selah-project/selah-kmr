@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Lê min di te de hêvi xist, Yahwe; min got: Elohîmê min tu yî.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "lê min"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "hêvi xist \/ bawer kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:07.639782872Z",
+  "model": "glm-5.3"
+}

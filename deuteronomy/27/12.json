@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ev ên li ser çiyayê Gerîzîm rawestin da ku ⟨את⟩ gelê bîrêk bînin, di derbaskirina ⟨את⟩ Urdun de: Şîmûn û Levî û Yehûda û Yîssaşar û Yosef û Bînyamîn.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ê rawestin"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "da ku bîrêk bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerîzîm"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "di derbaskirina … de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Şîmûn"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "û Levî"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "û Yehûda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "û Yîssaşar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "û Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "û Bînyamîn"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:55.428494446Z",
+  "model": "glm-5.3"
+}

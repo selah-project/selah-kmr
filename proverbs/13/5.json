@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Peyva derewê ya sadiq ji dil nahêrîne, û neyar bi xwe bêhnfireh û şerm dike.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewê"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ji dil nahêrîne"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadiq"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "û neyar"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "bi xwe bêhnfireh dike"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "û şerm dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:37.974371377Z",
+  "model": "glm-5.3"
+}

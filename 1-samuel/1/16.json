@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Kînika xwe nede wekî keçikekî bêqîmet, ji ber ku ji pirbûna nîşandarî û êşa min heta niha axivîme.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kînika xwe"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kînika xwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keçikê"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bêqîmet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ji pirbûna"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "nîşandarî û duaya min"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "û êşa min"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "axivîme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "niha"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:21.568759841Z",
+  "model": "glm-5.3"
+}

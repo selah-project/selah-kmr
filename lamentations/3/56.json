@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Dengê min bihîstî; guhê xwe ji henaseya min, ji qêrîna min veneşêre.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "bihîstî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "veneşêre"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê te"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "ji henaseya min"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "ji qêrîna min"
+    }
+  ],
+  "timestamp": "2026-08-30T06:07:22.051459637Z",
+  "model": "glm-5.3"
+}

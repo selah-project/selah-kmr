@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Sipan û berevaniyê bigire, rabe ji bo alîkariya min.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sipan"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "û berevanî"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ji bo alîkariya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:40.372854851Z",
+  "model": "glm-5.3"
+}

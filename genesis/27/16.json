@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û ⟨את⟩ çermên kirîkên bizinan li ser destên wî û li ser rûtiya stûyê wî xist.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "çermên"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "çermên"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "kirîkên"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "xist"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "rûtiya"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "stûyê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:33.524203414Z",
+  "model": "glm-5.3"
+}

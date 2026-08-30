@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Yê ku canê me di jiyanê de danûnava dike, û nahêle lingên me bihejin.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "danûnava dike"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canê me"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "di jiyanê de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nahêle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "bihejin"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "lingên me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:13.275094959Z",
+  "model": "glm-5.3"
+}

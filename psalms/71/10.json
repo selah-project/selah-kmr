@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Ji ber ku dijminên min ⟨li ser min⟩ gotin, û ên şiyarî canê min bi hev re şêwirîn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨li ser min⟩"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ên şiyarî"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "bi hev re şêwirîn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:00.466162281Z",
+  "model": "glm-5.3"
+}

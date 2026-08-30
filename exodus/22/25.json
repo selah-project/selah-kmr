@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ger tu destê xwe bidî ser çaderê hevalê xwe wekî sepî, berî çûna rojê wê ji bo wî vegerînî.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "destê xwe bidî ser… wekî sepî"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "destê xwe bidî ser… wekî sepî"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "çaderê"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "berî"
+    },
+    {
+      "surface": "בא",
+      "gloss": "çûna"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "wê vegerînî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:20.568635512Z",
+  "model": "glm-5.3"
+}

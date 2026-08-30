@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Dilê wan veguherand ku ji gelê wî nefret bikin, ku bi xulamên wî feniyîn bikin.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "veguherand"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ku nefret bikin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ji gelê wî"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "ku feniyîn bikin"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "bi xulamên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:03.040770189Z",
+  "model": "glm-5.3"
+}

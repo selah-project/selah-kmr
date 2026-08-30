@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Tu tijî qêrînî, bajaranî dengdêr, bajarê şahî — miriyên te ne bi şûr hatine kuştin, ne jî di şer de mirine.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "qêrînî"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tijî"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajaranî"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "dengdêr"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "şahî"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "miriyên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "hatine kuştin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bi şûr"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne jî"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mirine"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "di şer de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:31.534929252Z",
+  "model": "glm-5.3"
+}

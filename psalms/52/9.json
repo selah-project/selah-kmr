@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Va, ⟨ew⟩ mêrê ku Elohîm nekir ⟨→⟩ kelê xwe, lê xwe spaye pirahiya dewleta xwe; ew xurt bûye di helakbûna xwe de.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Va"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "kelê wî"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "û xwe spaye"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "di pirahiya"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "dewleta wî"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "xurt bû"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "di helakbûna wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:37.485020341Z",
+  "model": "glm-5.3"
+}

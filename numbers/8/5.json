@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Yahwe bi Moşe re axift, û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axift"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:42:27.940713366Z",
+  "model": "glm-5.3"
+}

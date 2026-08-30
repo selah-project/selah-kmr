@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Tenê li Elohîm bêdeng bimîne, canê min; çimkî hêviya min ji wî ⟨tê⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tenê"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "li Elohîm"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "bêdeng bimîne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "hêviya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:35.105345990Z",
+  "model": "glm-5.3"
+}

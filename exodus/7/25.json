@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ⟨heft⟩ roj hatin temamkirin, piştî ku Yahwe ⟨את⟩ çemê dide.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "hatin temamkirin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "roj"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "dide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çemê (hêyar)"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çemê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:13.161558364Z",
+  "model": "glm-5.3"
+}

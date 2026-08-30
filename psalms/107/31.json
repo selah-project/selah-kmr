@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Bila ji bo xeseda wî ji Yahwe re spasî bikin, û ji bo efsaneyên wî ji bo zûrên mirovan!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Bila… spasî bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe re"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ji bo xeseda wî"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "û ji bo efsaneyên wî"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo zûrên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:28.943646846Z",
+  "model": "glm-5.3"
+}

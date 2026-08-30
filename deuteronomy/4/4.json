@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û hûn ên xwe gihandine Yahwe, Elohîmê xwe, hûn hemû zindî ne îro.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Û hûn"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "ên xwe gihandine"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hûn hemû"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:27.252839413Z",
+  "model": "glm-5.3"
+}

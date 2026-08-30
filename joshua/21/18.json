@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "⟨את⟩ ʿAnatot bi çolên wê, û ⟨את⟩ ʿAlmon bi çolên wê — çar bajar.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʿAnatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ʿAnatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çolên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bi çolên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ʿAlmon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "ʿAlmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çolên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bi çolên wê"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:46.724383616Z",
+  "model": "glm-5.3"
+}

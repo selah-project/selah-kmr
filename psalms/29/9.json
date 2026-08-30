@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Dengê Yahwe kêzikan diçolexîne û daristanan rake dike, û di perestgeha wî de hemû dibêjin: «Ruhmet!»",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "diçolexîne"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "kêzikan"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "û … rake dike"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "daristanan"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "û di perestgeha wî de"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Ruhmet"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:39.920042302Z",
+  "model": "glm-5.3"
+}

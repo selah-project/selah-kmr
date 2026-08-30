@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Ji ezmanan tu dînan ⟨bihîstî⟩ — erd ditirsiya û bêdeng ma.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ji ezmanan"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "tu dînan ⟨bihîstî⟩"
+    },
+    {
+      "surface": "דין",
+      "gloss": "dîn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ditirsiya"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "û bêdeng ma"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:40.183993252Z",
+  "model": "glm-5.3"
+}

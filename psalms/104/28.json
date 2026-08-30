@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Tu didî wan, ew kom dikin; tu destê xwe vedikî, ew bi qenciyan têr dibin.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "tu didî"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "kom dikin"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "tu vedikî"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "têr dibin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bi qenciyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:43.459230259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ma ew wekî xistina wî ê ku xistiye, hatiye xistin? An wekî kuştina kuştiyên wî hatiye kuştin?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Ma wekî xistina"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "wî ê ku xistiye"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "hatiye xistin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "An"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "wekî kuştina"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "kuştiyên wî"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "hatiye kuştin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:50.441998495Z",
+  "model": "glm-5.3"
+}

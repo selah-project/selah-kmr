@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Rabe, ey Yahwe, di hêrsa xwe de, bilind bibe li dijî kerîtiya dijminên min, û hişyar bibe bo min; dadweriyê ku te ferman dayî.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "di hêrsa te de"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "bilind bibe"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "li dijî kerîtiya"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "û hişyar bibe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bo min"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadwerî"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ku te ferman dayî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:55.722550875Z",
+  "model": "glm-5.3"
+}

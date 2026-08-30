@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û Laban got: Qenc e ku ez ⟨wê⟩ ⟨את⟩ bidim te, ji bilî vê ku ez ⟨wê⟩ ⟨את⟩ bidim mêrekî din; li cem min rûne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qenc e"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ez bidim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ji dayînê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "din"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "rûne"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "li cem min"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:48.780988161Z",
+  "model": "glm-5.3"
+}

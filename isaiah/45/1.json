@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 45:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Waha Yahwe ji Maşîahê xwe re, ji Kûreş re got — yê ku min bi destê wî yê rastê girt — da ku li pêş wî gelan daxim û hêlakên keyan vekevim; da ku li pêş wî derî vekim, û dêran nagirin.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Waha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "ji Maşîahê xwe re"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "ji Kûreş re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "min girt"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "bi destê wî yê rastê"
+    },
+    {
+      "surface": "לרד",
+      "gloss": "da ku daxim"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li pêş wî"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ומתני",
+      "gloss": "û hêlakên"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "keyan"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "vekevim"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "da ku vekim"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li pêş wî"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "û dêran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "têne girtin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:08.140757310Z",
+  "model": "glm-5.3"
+}

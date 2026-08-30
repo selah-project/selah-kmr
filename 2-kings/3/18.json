@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ev di çavên Yahwe de tiştekî hêsan e, û wê Moabê di destên we de bide.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "hêsan e"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "wê bide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabê"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabê"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "di destên we de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:15:14.266409387Z",
+  "model": "glm-5.3"
+}

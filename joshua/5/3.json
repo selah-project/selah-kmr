@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Yehoşua ji xwe re dilûrekên (çakêtên) kevirên hişk çêkir û zarokên Îsraêlî ⟨את⟩ li Girê Pêstan (Gibeat-ha-Aralot) sunet kir.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û ... çêkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dilûrekên"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "kevirên hişk"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "û ... sunet kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên Îsraêlî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Girê"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Pêstan (Gibeat-ha-Aralot)"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:17.535855717Z",
+  "model": "glm-5.3"
+}

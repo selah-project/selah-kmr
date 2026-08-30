@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Û destên xwe ber bi fermanên te bilind bikim, ên ku min evî kirine, û ez ê li ser rêbazên te bifikirim.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "û ez bilind bikim"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "destên min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "min evî kirine"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "û ez ê bifikirim"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "li ser rêbazên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:54.881222464Z",
+  "model": "glm-5.3"
+}

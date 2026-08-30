@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ez Yahwe ⟨את⟩ bi rêz darim, ê ku şîret da min; erê, şevan gurçikên min terbîye didin min.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ez bi rêz darim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "şîret da min"
+    },
+    {
+      "surface": "אף",
+      "gloss": "erê"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "şevan"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "terbîye didin min"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "gurçikên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:08.334413986Z",
+  "model": "glm-5.3"
+}

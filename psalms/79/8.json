@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 79,
+  "translation": "Gunalên berê li ser me bi bîr neke; zû bila dilovaniyên te pêşiya me bigirin, çimkî em pir lawaz bûne.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "bi bîr neke"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "li ser me"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "gunalên"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "berê"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "zû"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "bila pêşiya me bigirin"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dilovaniyên te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "lawaz bûne"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:58.746123650Z",
+  "model": "glm-5.3"
+}

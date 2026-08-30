@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Yahwe her tiştî ji bo xwe çêkir — û her waî jî ji bo roja xerab.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her tiştî"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û her wa jî"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "waî"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ji bo roja"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerab"
+    }
+  ],
+  "timestamp": "2026-08-30T05:44:55.584386833Z",
+  "model": "glm-5.3"
+}

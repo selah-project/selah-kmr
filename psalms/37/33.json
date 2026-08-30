@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Yahwe wê nahêle ew di destê wî de, û wê wî di doza wî de gunehkar neke.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nay"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "wê-nahêle-ew"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di-destê-wî-de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û-nay"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "wê-wî-gunehkar-neke"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "di-doza-wî-de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:44.239139616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Çimkî Yahwe ⟨את⟩ şan û şerefê Yaqûb vegertiye, wek şan û şerefê Îsraêl; çimkî valakirvan wê vala kirin, û şitilên rezên wan wêran kirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vegertiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şan û şerefê"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "şan û şeref"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "wek şan û şerefê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "valakirin"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "vala kirin"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "û şitilên rezên wan"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "wêran kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:20.091782621Z",
+  "model": "glm-5.3"
+}

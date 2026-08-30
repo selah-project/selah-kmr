@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Yê ku bavê xwe û diya xwe direşîne û dibêje 'tune ne guneh', hevalê mêrekî wêraneker e.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "direşîne"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "û diya xwe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "û dibêje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune ne"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "guneh"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "hevalê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "wêraneker"
+    }
+  ],
+  "timestamp": "2026-08-30T05:49:19.589753024Z",
+  "model": "glm-5.3"
+}

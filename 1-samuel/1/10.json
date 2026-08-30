@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ew ji can talî bû, û li ber Yahwe dia kir, û bi dewasî diewiya.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Û ew"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "talî"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "וותתפלל",
+      "gloss": "û dia kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "û bi dewasî"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "diewiya"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:24.985597766Z",
+  "model": "glm-5.3"
+}

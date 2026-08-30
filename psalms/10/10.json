@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ew xwe dadike û davêje, û bêçare bi hêzên wî dikevin erdê.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "xwe dadike"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "davêje"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "dikevin erdê"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "bi hêzên wî"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "bêçare"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:30.348147291Z",
+  "model": "glm-5.3"
+}

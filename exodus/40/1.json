@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û Yahwe bi Moşe re axivî, got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:00.085945089Z",
+  "model": "glm-5.3"
+}

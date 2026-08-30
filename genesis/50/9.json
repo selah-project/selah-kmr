@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Û bi wî re çûn bilind hemû swar hemû siwar, û kempa bû giran pir zêde.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "çûn bilind"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "swar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "siwar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kempa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "giran"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir zêde"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:14.641060003Z",
+  "model": "glm-5.3"
+}

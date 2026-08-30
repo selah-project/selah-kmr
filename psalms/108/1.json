@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Stran, mezmurê Dawid.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ê Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.001231425Z",
+  "model": "glm-5.3"
+}

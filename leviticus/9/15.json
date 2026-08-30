@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ⟨את⟩ pêşkêşa gelê pêşkêş kir, û ⟨את⟩ nêrînkê yê qurbana gunehan yê ji bo gelê girt û serişt kir, û wê wekî ya pêşin kir qurbana guneh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "pêşkêş kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêşkêşa gel"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "pêşkêş"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nêrînkê"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "nêrînk"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qurbana gunehan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ji bo gelê"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "serişt"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "kir qurbana guneh"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "wekî ya pêşin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:47.172990355Z",
+  "model": "glm-5.3"
+}

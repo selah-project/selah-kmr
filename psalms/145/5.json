@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Şewqa rûmeta mezinbûna te, û peyvên hêratên te, ez ê ramim.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "şewqa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "mezinbûna te"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "û peyvên"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "hêratên te"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ez ê ramim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:24.439600665Z",
+  "model": "glm-5.3"
+}

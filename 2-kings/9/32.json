@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û wî rûyê xwe bilind kir ber pencereyê û got: Kî ⟨את⟩ bi min re? Kî? Û du an sê koçek ber bi wî nişan dan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "pencereyê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bi min re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "nişan dan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ber bi wî"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "koçek"
+    }
+  ],
+  "timestamp": "2026-08-29T20:17:46.249377531Z",
+  "model": "glm-5.3"
+}

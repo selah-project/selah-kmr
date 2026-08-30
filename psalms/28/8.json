@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Yahwe hêza wan e, û kelê rizgariyê yê Maşîahê wî ew e.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "û kelê"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "rizgariyê"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Maşîahê wî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:03.145351973Z",
+  "model": "glm-5.3"
+}

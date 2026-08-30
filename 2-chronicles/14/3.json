@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û jê re got Yehûda ku ⟨את⟩ Yahwe, Elohîmê bavên wan, bigerînin, û Torayê û fermanê bikin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û jê re got"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ku ... bigerînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "û ... bikin"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torayê"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "û fermanê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:47:23.521324366Z",
+  "model": "glm-5.3"
+}

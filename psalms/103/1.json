@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Ji Dawid. Canê min, ⟨את⟩ Yahwe pîroz bike, û tevahiya hundirê min ⟨את⟩ navê pîroziya wî pîroz bike.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "pîroz bike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "hundirê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê pîroziya wî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroziya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.761840948Z",
+  "model": "glm-5.3"
+}

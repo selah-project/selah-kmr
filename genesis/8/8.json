@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ kewk ji cem xwe şand, da ku bibîne gelo av ji rûyê erdê kêm bûne.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Û şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kewk"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kewk"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ji cem ⟨את⟩ xwe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da ku bibîne"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "gelo kêm bûne"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:07.635104355Z",
+  "model": "glm-5.3"
+}

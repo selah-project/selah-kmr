@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û siwarî kerûb bû û firî, ew li ser balên bayê bal da difirya.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "û siwarî bû"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerûb"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "û firî"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "bal da difirya"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "balên"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:44.110763410Z",
+  "model": "glm-5.3"
+}

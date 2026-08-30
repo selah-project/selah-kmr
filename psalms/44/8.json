@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ji ber ku tu me ji dijminên me rizgar kirî, û ê ku ji me nefret dikin bi şerm xistî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "me rizgar kirî"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ji dijminên me"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "û ê ku ji me nefret dikin"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "bi şerm xistî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:02.840896892Z",
+  "model": "glm-5.3"
+}

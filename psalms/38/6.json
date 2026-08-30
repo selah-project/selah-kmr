@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Birînên min bêhn pîs didin û çêr bûne, ji ber nezanîya min.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "bêhn pîs didin"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "çêr bûne"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "birînên min"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "nezanîya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:38.937556853Z",
+  "model": "glm-5.3"
+}

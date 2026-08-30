@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Yîşay kurê xwe yê yekem ⟨את⟩ Elîab bû danûstendin da û Ebnadab ⟨⟨א⟩⟩ê yê duyem û Şîma yê sêyem.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Û Yîşay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû danûstendin da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê xwe yê yekem"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "kurê xwe yê yekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elîab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elîab"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "Û Ebnadab"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yê duyem"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "Û Şîma"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "yê sêyem"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:10.975751262Z",
+  "model": "glm-5.3"
+}

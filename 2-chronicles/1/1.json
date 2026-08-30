@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Şelomo, kurê Dawid, li ser keyetiya xwe xurt bû, û Yahwe, Elohîmê wî, bi wî re bû û wî ji jor bilind kir.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "xurt bû"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "keyetiya xwe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "û Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohîmê wî"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "wî bilind kir"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ji jor"
+    }
+  ],
+  "timestamp": "2026-08-30T06:42:04.418017258Z",
+  "model": "glm-5.3"
+}

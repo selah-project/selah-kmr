@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ez ê wan bi weje bidarim û wan ji welêt derxim, û ez ê ⟨את⟩ te bikim neteweyeke mezin û hêzdartir ji wê.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "ez ê wan bidarim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bi weje"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "û wan ji welêt derxim"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "û ez ê bikim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "neteweyekî"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "û hêzdar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:45:33.931716411Z",
+  "model": "glm-5.3"
+}

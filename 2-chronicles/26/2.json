@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ew ⟨את⟩ Eylot çêkir û ew ji nû ve da Yehûdayê, piştî ku padîşah bi bavên xwe re çû rawestanê.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eylot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "ji nû ve da"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehûdayê"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "çû rawestanê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:50:25.153358560Z",
+  "model": "glm-5.3"
+}

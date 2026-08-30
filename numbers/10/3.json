@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û gava bi wan bide xistin, tevahiya civatê wê li ber deriyê çadirê civînê li cem te were cem hev.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "bide xistin"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "were cem hev"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "li cem te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadirê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:43:20.736296136Z",
+  "model": "glm-5.3"
+}

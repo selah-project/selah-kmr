@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Xelqat û ⟨את⟩ zemînên wê, ⟨את⟩ Rehov û ⟨את⟩ zemînên wê — çar bajaran.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xelqat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Xelqat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zemînên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zemînên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Rehov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zemînên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zemînên wê"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:04.485439161Z",
+  "model": "glm-5.3"
+}

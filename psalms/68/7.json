@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Elohîm tenêyan di malê de bicih dike, girtiyan bi serferehîyê derdixe; lê serhildêr di erdeke hişk de dijin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "bicih dike"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "tenêyan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "di malê de"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "derdixe"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "girtiyan"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "bi serferehîyê"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lê"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "serhildêr"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "dijin"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "erdeke hişk"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:05.581373569Z",
+  "model": "glm-5.3"
+}

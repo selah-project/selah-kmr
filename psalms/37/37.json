@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Yê bêkêmasî bi pasivaniyê bigire û yê rast bibîne, çûnkî dawiya mirovê aştiyê ⟨aştî ye⟩.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "תם",
+      "gloss": "yê bêkêmasî"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "û bibîne"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "yê rast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dawiya"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ji bo mirov"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:25.129341097Z",
+  "model": "glm-5.3"
+}

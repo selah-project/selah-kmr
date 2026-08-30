@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Elohîm, vegerîne me, û rûyê xwe ronî bike, û em wê bên xilas kirin!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "vegerîne me"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "û ronî bike"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "em wê bên xilas kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:57.811125520Z",
+  "model": "glm-5.3"
+}

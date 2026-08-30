@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ên ku di destê wî de ⟨nefesh⟩ a her tiştê zindî ye, û ruhû her goştê mirov.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ên ku"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê wî de"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨nefesh⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tiştê zindî"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "û ruhû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:56.133125020Z",
+  "model": "glm-5.3"
+}

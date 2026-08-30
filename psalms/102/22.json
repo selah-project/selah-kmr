@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Ji bo ku navê Yahwe li Siyonê û pesnê wî li Yeruşalayimê bibêjin,",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "ji bo ku bibêjin"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "li Siyonê"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "û pesnê wî"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:43.504091231Z",
+  "model": "glm-5.3"
+}

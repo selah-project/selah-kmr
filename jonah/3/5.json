@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Mêrên Nînewê bawerî bi Elohîm anîn, û rojîdarîyê bang kirin, û çemseran li xwe kirin, ji mezinên wan heta biçûkên wan.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "bawerî anîn"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nînewê"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "bi Elohîm"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "bang kirin"
+    },
+    {
+      "surface": "צום",
+      "gloss": "rojîdarîyê"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "li xwe kirin"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "çemseran"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "ji mezinên wan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "biçûkên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:11:40.097643250Z",
+  "model": "glm-5.3"
+}

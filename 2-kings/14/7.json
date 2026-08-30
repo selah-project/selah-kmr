@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ew li Geliyê Şûrê deh hezar ji Edomê kuşt û di şer de ⟨את⟩ Selah girt, û navê wê Yokteel kir — heta roja îro.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomê"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomê"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "li Geliyê"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Şûrê"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selah"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "di şer de"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û navê wî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wê"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "navê wê"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yokteel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-30T05:03:16.720603091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Yahwe bi hêrs li bavên we qehirî — qehir!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "qehirî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bavên we"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "qehir!"
+    }
+  ],
+  "timestamp": "2026-08-30T05:05:36.046088031Z",
+  "model": "glm-5.3"
+}

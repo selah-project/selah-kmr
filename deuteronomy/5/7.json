@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Elohîmên din dê ji bo te nebin, li ber rûyê min.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dê nebin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîmên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:55.812703678Z",
+  "model": "glm-5.3"
+}

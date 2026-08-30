@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Hemû çem diçin ber bi deryayê ve, û derya tijî nabe; ber bi ciha ku çem tê de diçin, ew der vedigerin ku dîsa biçin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "çem"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "diçin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi … ve"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "והים",
+      "gloss": "û derya"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nabe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tijî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ciha"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "ku çem"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "diçin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ew der"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "vedigerin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ku dîsa biçin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:26.307951335Z",
+  "model": "glm-5.3"
+}

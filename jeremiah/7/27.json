@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û tu yê van hemû peyvan pêşniya wan bikî ⟨את⟩, lê ew guh nedin te; û tu gazî wan bikî, lê ew bersivê nedin te.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "tu yê … bikî"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "pêşniya wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van hemû peyvan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê … ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "guh nedin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "gazî wan bikî"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê … ne"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "bersivê nedin te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:53:27.388673577Z",
+  "model": "glm-5.3"
+}

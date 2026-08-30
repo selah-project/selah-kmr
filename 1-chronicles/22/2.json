@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Dawid ferman da ku ⟨את⟩ xerîbên ku di erdê Yisraêl de ne werin komkirin, û wî kevirbiran da ji bo hûnîna kevirên tûjkirî, ji bo avakirina mala Elohîm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "werin komkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xerîbên"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "xerîbên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl de"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "da"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "kevirbir"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "ji bo hûnînê"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "tûjkirî"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ji bo avakirina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:37.648363832Z",
+  "model": "glm-5.3"
+}

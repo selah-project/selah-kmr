@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Hûn negotin: «komelve», ji bo tiştê ku ev gel ji re bêje «komelve»; û ⟨את⟩ tirsa wî hûn netirsin û hûn neresin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "hûn negotin"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "komelve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ev gel"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "קשר",
+      "gloss": "komelve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tirsa wî"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "tirsa wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "hûn netirsin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "hûn neresin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:14.331508265Z",
+  "model": "glm-5.3"
+}

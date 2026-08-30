@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Bêyê tu yê biyanî te bilind bike, ne dêvê te; yê nasdar-nenas, ne lêvên te.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "te bilind bike"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yê biyanî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "dêvê te"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "yê nasdar-nenas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lêvên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:46.684081149Z",
+  "model": "glm-5.3"
+}

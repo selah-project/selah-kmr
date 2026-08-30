@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û bi navê min sondê derewî nakin û hûn navê Elohîmê xwe napiromandin. Ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "nakin sondê"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "bi navê min"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "derewî"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "û napiromindin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:03.863135288Z",
+  "model": "glm-5.3"
+}

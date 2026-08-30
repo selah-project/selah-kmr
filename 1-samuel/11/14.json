@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Şemuel got ji bo gel: \"Werin, em herin Gilgalê û li wir padîşahî nû bikin.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Werin"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "em herin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "nû bikin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "padîşahî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:49.326842672Z",
+  "model": "glm-5.3"
+}

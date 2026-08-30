@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Şerm bike, Tsidon! Çimkî deryayê got — kelîdina deryayê — û got: 'Ez êş nekişandim û nezanûm û ez ciwanan mezin nekir; keçên nezewac bilind kirim.'",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Şerm bike"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kelîdina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ez êş nekişandim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "zanûm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mezin nekir"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ciwanan"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "bilind kirim"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "keçên nezewac"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:54.658597709Z",
+  "model": "glm-5.3"
+}

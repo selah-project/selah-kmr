@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Çimkî ew dizane çawa ⟨me⟩ çêkirine; ew bîr tîne ku em toz in.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "çawa me çêkirine"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "bîr tîne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:35.439627839Z",
+  "model": "glm-5.3"
+}

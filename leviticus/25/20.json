@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ger hûn bibêjin: “Emê di salê heftemîn de çi bixwin? Wa, em naçînin û ⟨את⟩ hasilda xwe bernadin—”",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "hûn bibêjin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "bixwin"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "di salê de"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "heftemîn"
+    },
+    {
+      "surface": "הן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "em naçînin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "em bernadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilda xwe"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "hasilda xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:36.953512112Z",
+  "model": "glm-5.3"
+}

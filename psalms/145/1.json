@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Tesbîta Dawîd. Ez te bilind dikim, Elohîmê min, ⟨⟨the⟩⟩ padîşah, û navê te dê ji bo hertim û hertim pîroz bikim.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Tesbît"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawîd"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ez te bilind dikim"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "û dê pîroz bikim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:16.500454234Z",
+  "model": "glm-5.3"
+}

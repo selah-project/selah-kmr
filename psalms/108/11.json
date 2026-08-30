@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Kê ez dixe bajara biryardar? Kê ez digihîne heta Edomê?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ez dixe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajara"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "biryardar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ez digihîne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.633431586Z",
+  "model": "glm-5.3"
+}

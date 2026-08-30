@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Tu wan bi nanê êşî xwar da, û bi êşîyan bi pîvana sêyekî da wan vexwarin.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Tu wan xwar da"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "êşî"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "û da wan vexwarin"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "bi êşîyan"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "bi pîvana sêyekî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:59.357573451Z",
+  "model": "glm-5.3"
+}

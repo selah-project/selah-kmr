@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Ya'qûb bihîst ku ew ⟨את⟩ Dîna, keça wî, pîs kiribû — û kurên wî bi dewarên wî re di zeviyê de bûn — û Ya'qûb bêdeng ma heta ku ew hatin.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Ya'qûb"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "pîs kiribû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dîna"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dîna"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "keça wî"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bi… re"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dewarên wî"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "û bêdeng ma"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'qûb"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ew hatin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:09.451843344Z",
+  "model": "glm-5.3"
+}

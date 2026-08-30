@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Lê te xezeb li me kir ⟨li⟩ cihekî timsahan û te bi siya mirinê li me girt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "xezeb li me kir"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "li cihekî"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "timsahan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "û te ... li me girt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "li me"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "bi siya mirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:55.419469212Z",
+  "model": "glm-5.3"
+}

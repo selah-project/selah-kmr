@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Tîrên te yên tûj di dilê dijminên key de cih digirin; gel di binî te de dikevin.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "tîrên te"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "yên tûj"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "di binî te de"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "dikevin"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di dilê"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dijminên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:29.925350782Z",
+  "model": "glm-5.3"
+}

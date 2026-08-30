@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Rûşî — bi bilindiya rûyê xwe — nanêre; hemû armancên wî: 'Elohîm tune ye.'",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "rûşî"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "bi bilindiya"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "nanêre"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "armancên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:18.616455546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Min ji xwe re herweha zîv û zêr, û xezîneya keyan û welatan kom kir; min ji xwe re stranbêj û stranbêjên jin çêkirin, û lezzetên kurên mirovan — jinek û gelek jin.",
+  "tokens": [
+    {
+      "surface": "כנסתי",
+      "gloss": "min kom kir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "גם",
+      "gloss": "herweha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "û zêr"
+    },
+    {
+      "surface": "וסגלת",
+      "gloss": "û xezîneya"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "keyan"
+    },
+    {
+      "surface": "והמדינות",
+      "gloss": "û welatan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min çêkir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "stranbêj"
+    },
+    {
+      "surface": "ושרות",
+      "gloss": "û stranbêjên jin"
+    },
+    {
+      "surface": "ותענוגת",
+      "gloss": "û lezzetên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "jinek"
+    },
+    {
+      "surface": "ושדות",
+      "gloss": "û gelek jin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:29.879317113Z",
+  "model": "glm-5.3"
+}

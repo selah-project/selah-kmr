@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û li wir ⟨את⟩ sandiqa şahidiyê deynî, û li ser sandiqê ⟨את⟩ perdeyê dadirî.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "deynî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqa şahidiyê"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiq"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "şahidiyê"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "dadirî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandiqê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeyê"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perde"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:00.086449739Z",
+  "model": "glm-5.3"
+}

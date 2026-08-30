@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û vegeriyan û çûn, û ⟨את⟩ zarokan û ⟨את⟩ dewaran û ⟨את⟩ tiştên giran li pêşiyên wan dan.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "vegeriyan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokan"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "zarokan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dewaran"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dewaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiştên giran"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "tiştên giran"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "li pêşiyên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:32:40.119805945Z",
+  "model": "glm-5.3"
+}

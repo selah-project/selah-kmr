@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Emînadbav ⟨את}} Naxşon bûye bavê, Û Naxşon ⟨את⟩ Şalmah bûye bavê.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Û Emînadbav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bûye bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxşon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naxşon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "Û Naxşon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bûye bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şalmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şalmah"
+    }
+  ],
+  "timestamp": "2026-08-30T06:05:36.447369221Z",
+  "model": "glm-5.3"
+}

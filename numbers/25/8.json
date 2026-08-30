@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û piştî zilamê Yisraêl çû hundir quncika [wê], û ⟨את⟩ herduyan derb kir — ⟨את⟩ zilamê Yisraêl û ⟨את⟩ jinê heta zikê wê — û bela ji ser kurên Yisraêl rawestiya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "û … çû"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hundir"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "quncika"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "û … derb kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herduyan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herduyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zilamê Yisraêl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "jinê"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jinê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heta"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "zikê wê"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "û … rawestiya"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "bela"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:23.141009101Z",
+  "model": "glm-5.3"
+}

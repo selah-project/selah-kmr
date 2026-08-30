@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û pêşkeşa wan a ard: ard tevli rûn, sê dehek ji bo golikê, du dehek ji bo beran.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "pêşkeşa wan"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ard"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "tevli"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "di rûn de"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dehek"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "ji bo golikê"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dehek"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ji bo beran"
+    }
+  ],
+  "timestamp": "2026-08-29T18:53:48.208488303Z",
+  "model": "glm-5.3"
+}

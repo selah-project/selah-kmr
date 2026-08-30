@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Gavên min li lûleyên te xwe girtine, lingên min ne liviyan.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "xwe girtine"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gavên min"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "li lûleyên te"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "liviyan"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "lingên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:19.977233432Z",
+  "model": "glm-5.3"
+}

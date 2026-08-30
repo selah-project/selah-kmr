@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Ma textê xirabiyê dibe hevalê te, ê ku ziyanî bi destûrê dizvirîne?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "dibe hevalê te"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "textê"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "xirabiyê"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "dizvirîne"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ziyanî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bi ser"
+    },
+    {
+      "surface": "חק",
+      "gloss": "destûrê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:01.302630004Z",
+  "model": "glm-5.3"
+}

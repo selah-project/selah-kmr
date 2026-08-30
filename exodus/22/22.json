@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ger hûn wî ⟨את⟩ bi rastî binûd bikin — bê guman ger ew qîrî ji min re bike, ez ê qîriya wî bi rastî bibihîzim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "binûd bikin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bê guman"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "qîrî"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "qîr bike"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "bibihîzim"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "qîriya wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:22.923113965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 93,
+  "translation": "Ji dengên avên gelek, ji pêlên hêzdar ên deryayê bilindtir — Yahwe di bilindahiyê de hêzdar e.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "ji dengên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ji pêlên"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "di bilindahiyê de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:27.544201341Z",
+  "model": "glm-5.3"
+}

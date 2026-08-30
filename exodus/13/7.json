@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Maṣot wê bên xwarin ⟨את⟩ heft rojan, û ji te re tiştê hemîrkirî neyê dîtin, û ji te re hevîr di tevahiya sinorê te de neyê dîtin.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Maṣot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wê bên xwarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heft rojan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û… ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "neyê dîtin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "tiştê hemîrkirî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û… ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "neyê dîtin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hevîr"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di tevahiya"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "sinorê te de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:19.322400137Z",
+  "model": "glm-5.3"
+}

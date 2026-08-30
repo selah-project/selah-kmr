@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Şahanên Tarşîş û giravan pêşkêşî vedigerînin; şahanên Şeba û Sewa diyariyan pêşkêş dikin.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "şahanên"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşîş"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "û giravan"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pêşkêşî"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "vedigerînin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "şahanên"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "û Sewa"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "diyariyan"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "pêşkêş dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:33.039622873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Mih û ga, hemû wan, û her wiha ajalên çolê.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "mih"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "û ga"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemû wan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û her wiha"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ajalên"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "çolê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:32.215757454Z",
+  "model": "glm-5.3"
+}

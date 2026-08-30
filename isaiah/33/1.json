@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Welî ji yê talankar, yê ku nehatiye talankirin; welî ji yê xayîn, yê ku ji wî re nehatiye xayînkirin! Wexta ku te talankirin bi dawî anî, dê were talankirin; wexta ku te xayîntî bi dawî anî, dê ji te re were xayînkirin.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "welî"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "talankar"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "nehatiye talankirin"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "û yê xayîn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "nehatiye xayînkirin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "wexta ku te bi dawî anî"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "talankirin"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "dê were talankirin"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "wexta ku te bi dawî anî"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "xayîntî"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "dê were xayînkirin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ji te re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:06.348083551Z",
+  "model": "glm-5.3"
+}

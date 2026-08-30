@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Bila kurên wî sêwî bibin, û jina wî bîmayî bimîne.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bila bibin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sêwî"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "û jina wî"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "bîmayî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:02.233731214Z",
+  "model": "glm-5.3"
+}

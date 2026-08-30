@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Ji ber ku ew kiryarên Yahwe û berhemên destên wî fehm nakin, ê wan xera bike û ê wan dîsa ava neke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "fehm nakin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "kiryarên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û li"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "berhemên"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ê wan xera bike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ê wan ava bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:03.144718669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 64,
+  "translation": "Neqencîyan lêkolîn dikin, lêkolîneke rawestî pêk anîne; û navrûna mirov û dil kûr in.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "lêkolîn dikin"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "neqencî"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "pêk anîn"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "lêkolîn"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "rawestî"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "û navrû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "û dil"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "kûr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:24.006615466Z",
+  "model": "glm-5.3"
+}

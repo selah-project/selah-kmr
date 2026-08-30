@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Gavên me êdî hawîrdor girtine; çavên xwe danîne ku min bihêlin erdê.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "gavên me"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "hawîrdor girtine"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "çavên wan"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "danîne"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ku bihêlin xwarê"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:16.479514787Z",
+  "model": "glm-5.3"
+}

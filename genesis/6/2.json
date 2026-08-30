@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Kurên Elohîm ⟨את⟩ keçên mirovan dîtin ku ew baş in, û ji hemû yên ku hildibijartin ji wan re jin hildan.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Kurên"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçên mirovan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "baş"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ew in"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "jin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "hildibijartin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:21.617048984Z",
+  "model": "glm-5.3"
+}

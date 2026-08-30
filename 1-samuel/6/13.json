@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ⟨gelê⟩ Bêt-Şemeş di newalê de danînên komirda geniman berhevdikirin; çavan hildan û ⟨את⟩ sandoqê dîtin, û şabûn ku wî bibînin.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Û Bêt-Şemeş"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Bêt-Şemeş"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "berhevdikirin"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "komird"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "genim"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "di newalê de"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "çav hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çav (çavên xwe)"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "çavên wan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandoq"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandoq"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "şabûn"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ku bibînin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:16.513937773Z",
+  "model": "glm-5.3"
+}

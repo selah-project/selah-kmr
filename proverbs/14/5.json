@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Şahidê-ewledar derew nake, lê şahidê-derewî derewan dibe riye.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "şahidê"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ewledar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nake"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "derew"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "lê … dibe riye"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "derewan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahidê"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:44:12.058135658Z",
+  "model": "glm-5.3"
+}

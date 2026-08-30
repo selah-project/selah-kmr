@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 98,
+  "translation": "Bi êrî (trampetan) û bi dengê şofêr berî mîr Yahwe bâng bikin.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "bi êrî (trampetan)"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "û bi dengê"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofêr"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bâng bikin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mîr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:24.948089064Z",
+  "model": "glm-5.3"
+}

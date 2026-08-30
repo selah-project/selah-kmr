@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û kinêya Efraîm wê dûr bikeve, û êşerên Yehûda wê werin jêkirin: Efraîm dê Yehûda ⟨את⟩ nekinê, û Yehûda dê Efraîm ⟨את⟩ nezehmetîne.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "wê dûr bikeve"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kinêya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraîm"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "û êşerên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "wê werin jêkirin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraîm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "dê nekinê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehûda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "û Yehûda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "dê nezehmetîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraîm"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraîm"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:16.499102683Z",
+  "model": "glm-5.3"
+}

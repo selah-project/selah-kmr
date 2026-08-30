@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Na, di dil de cewr dikin; di erdê de tundiya destên xwe dipîvin.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Na"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di dil de"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "cewr"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "dikin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tundiya"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "dipîvin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:00.400935513Z",
+  "model": "glm-5.3"
+}

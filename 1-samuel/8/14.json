@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ zeviyên we û ⟨את⟩ rezên we û zeytûnên we yên çêtirîn dê bistîne û dê bide xulamên xwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "zeviyên we"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "zeviyên we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rezên we"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "rezên we"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "zeytûnên we"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "yên çêtirîn"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dê bistîne"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "û dê bide"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "xulamên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:29.659627097Z",
+  "model": "glm-5.3"
+}

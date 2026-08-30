@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Di dilê wan de ⟨ev e⟩: malên wan hertimî, konên wan ji nifşê heta nifşê; navê wan bi navên xwe li ser erdan digrin.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "di dilê wan de"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "malên wan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "konên wan"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşekî"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşekî"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "digrin"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "bi navên xwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "erdan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:52.582724377Z",
+  "model": "glm-5.3"
+}

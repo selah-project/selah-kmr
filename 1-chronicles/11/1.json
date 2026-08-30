@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û tev Îsraêlê li cem Dawid li Hevronê kom bû, û got: \"Va, hestiyê te û goştê te em in.\"",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "kom bû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li cem"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "li Hevronê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "hestiyê te"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "û goştê te"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em in"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:36.147875162Z",
+  "model": "glm-5.3"
+}

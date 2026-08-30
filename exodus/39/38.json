@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "û ⟨את⟩ altêra zêrîn, û ⟨את⟩ rûnê meshê, û ⟨את⟩ buxûna bêhnan, û ⟨את⟩ perdeya deriyê çadirê,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "altêra zêrîn"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altêra"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêrîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûnê meshê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "meshê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "buxûna bêhnan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "buxûna"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "bêhnan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "perdeya deriyê çadirê"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perdeya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadirê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:53.536864083Z",
+  "model": "glm-5.3"
+}

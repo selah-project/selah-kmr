@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Yahwe bersiv da firişteyê ku di nava min de diaxift — bi gotinên baş, gotinên dilşewat.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "û bersiv da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firişteyê"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "firişteyê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "diaxift"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di nava min de"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "bi gotinên"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "baş"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "dilşewat"
+    }
+  ],
+  "timestamp": "2026-08-30T05:07:17.474055714Z",
+  "model": "glm-5.3"
+}

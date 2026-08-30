@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û min çû, min wî li Peratê veşart, wekî ku Yahwe fermana min kir ⟨אותי⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "û min çû"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "min wî veşart"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "li Peratê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fermana min kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:54:26.018205871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 15:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û ew qewimî ku dema mêrekî nêzîkî wî dibû ji bo ku li ber wî sebidome, wî ⟨את⟩ destê xwe dirêj kir û wî bi hêz girt û wî maşand.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "û ew qewimî"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ji bo ku sebidome"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li ber wî"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "wî dirêj kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "bi hêz girt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "wî maşand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:54:24.352326708Z",
+  "model": "glm-5.3"
+}

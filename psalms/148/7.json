@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Ji erdê re Yahwe bilind bikin — ⟨את⟩ Yahwe — ejderên deryayê û hemû kûrahî:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bilind bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ejderên deryayê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "kûrahî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:33.703150252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ên ku me bihîstibûn û me nas kiribûn, û bavên me ji me re vedigerandin.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ên ku"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "me bihîstibûn"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "Û me nas kiribûn"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "Û bavên me"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "vedigerandin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:48.560687995Z",
+  "model": "glm-5.3"
+}

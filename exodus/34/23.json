@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Sê caran di salê de hemû nêrên te ⟨את⟩ rûyê Adon Yahwe, Elohîmê Yisraêl, xuya dikin.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Sê"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "caran"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "di salê de"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "xuya dikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "nêrên te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê Adon Yahwe, Elohîmê Yisraêl"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:24.097444794Z",
+  "model": "glm-5.3"
+}

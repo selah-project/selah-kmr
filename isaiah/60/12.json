@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Çunkî netew û keyatî ku xizmetê te nake wê winda bibe; û ⟨ew⟩ netew wê bi tevahî wêran bibin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çunkî"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "netew"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "û keyatî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nake"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "xizmetê te"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "wê winda bibe"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "û netew"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "wê wêran bibin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:46:58.109392266Z",
+  "model": "glm-5.3"
+}

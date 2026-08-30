@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û li ser keviran ⟨את⟩ hemû gotinên vê Şerîetê bi awayê vekirî û baş binivîsî.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "û binivîsî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "keviran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gotinên vê Şerîetê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Şerîetê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "באר",
+      "gloss": "bi awayê vekirî"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "baş"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:19.459423361Z",
+  "model": "glm-5.3"
+}

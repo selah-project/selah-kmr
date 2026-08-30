@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Canê min ê li Yahwe dilşad bibe, ê di rizgariya wî de kêfxweş bibe.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "û canê min"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ê dilşad bibe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "li Yahwe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ê kêfxweş bibe"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "di rizgariya wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:10.900302353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 12:5",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Şemayeya pêxember hat cem Rehavam û serkeyên Yehûda yên ku ji ber Şîşak kom bûbûn li Yeruşalayim, û ji wan re got: Waha got Yahwe: Hûn ⟨אתי⟩ terikandin êdî min, û ez jî ⟨אתכם⟩ terikandin êdî we, di destê Şîşak de.",
+  "tokens": [
+    {
+      "surface": "ושמעיה",
+      "gloss": "Şemaye"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "û serkeyên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "kom bûbûn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Şîşak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "waha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "terikandin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "û êdî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "terikandin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di destê"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Şîşak"
+    }
+  ],
+  "timestamp": "2026-08-30T06:48:12.150771252Z",
+  "model": "glm-5.3"
+}

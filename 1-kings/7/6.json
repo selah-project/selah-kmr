@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Verandeya stûnan ⟨את⟩ çêkir — dirêjahiya wê pêncî êsir ⟨bû⟩ û firehiya wê sî êsir ⟨bû⟩; û verandeyek li ber wan, û stûn û tovanek li ber wan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "verandeya stûnan"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "verandeya"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "stûnan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pêncî"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "êsir"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjahiya wê"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "û sî"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "êsir"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "firehiya wê"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "û verandeyek"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "û stûn"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "û tovanek"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:03:32.540030740Z",
+  "model": "glm-5.3"
+}

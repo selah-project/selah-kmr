@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Ez bêdeng mam, devê xwe venekir; çimko Te ⟨ew⟩ çêkir.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ez bêdeng mam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "vevekim"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "çêkir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:35.412354454Z",
+  "model": "glm-5.3"
+}

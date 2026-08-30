@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ⟨את⟩ zemînê xanîyê bi zêr kişand, ber bi hundir ve û ber bi derve.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zemînê xanîyê"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "zemînê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanîyê"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kişand"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bi zêr"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ber bi hundir ve"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "û ber bi derve"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:06.152746984Z",
+  "model": "glm-5.3"
+}

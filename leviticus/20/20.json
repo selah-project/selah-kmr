@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û mêrekî ku bi ⟨את⟩ jina apê wî re rakeve — tazîbûna apê wî rûnaniye; gunehê xwe dikin ser xwe; bê zarok dê bimirin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Û mêrekî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "rakeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina apê wî"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "jina apê wî"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tazîbûna"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "apê wî"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "rûnaniye"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "gunehê xwe"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "dikan ser xwe"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bê zarok"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bimirin"
+    }
+  ],
+  "timestamp": "2026-08-30T03:32:26.561381149Z",
+  "model": "glm-5.3"
+}

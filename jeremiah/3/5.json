@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "«Ma ê heta heteyî hêrs dihewîne? Ma ê heta dawiyê diparêze?» Va ye, tu axavtî û tu xerabiyan kirî, heta ku karî.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "dihewîne-hêrs"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta heteyî"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va ye"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tu axavtî"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "û tu kirî"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "xerabiyan"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "heta ku karî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:49:53.582100370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Moşe ji xezûrê xwe re got: Ji ber ku gel tê ba min da ku Elohîm bipirse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "ji xezûrê xwe re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba min"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "da ku bipirse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:06.641107368Z",
+  "model": "glm-5.3"
+}

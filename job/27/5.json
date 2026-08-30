@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Dûr be ji min ku ez ⟨את⟩ hûn rast bikim — heta ku ez bimirim, ez pakiya xwe ji xwe bernadim.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Dûr be"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "rast bikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hûn",
+      "marks": "hûn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ez bimirim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "berdidim"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "pakiya min"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:57:46.830421170Z",
+  "model": "glm-5.3"
+}

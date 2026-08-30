@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û Mîtsrayimiyan ⟨את⟩ me bi xerabî derbaskirin, me çewsandin û xebateke dijwar danîn ser me.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "bi xerabî derbaskirin"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mîtsrayimiyan"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "me çewsandin"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ser me"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "xebateke"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "dijwar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:08.380080738Z",
+  "model": "glm-5.3"
+}

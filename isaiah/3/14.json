@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Yahwe bi dozê bi pîremêrdên gelê xwe û bi serokedên wî ve tê: hûn rez xwarine, talana yê sêwî li malên we ye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "bi dozê"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… ve"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pîremêrdên"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "û serokedên wî"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "xwarine"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "rez"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "talana"
+    },
+    {
+      "surface": "העני",
+      "gloss": "yê sêwî"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "li malên we"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:04.365311338Z",
+  "model": "glm-5.3"
+}

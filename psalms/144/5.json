@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Yahwe, ezmanên xwe veşêre û dakeve; çiyayan bitikîne û ê dû derxin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "veşêre"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ezmanên te"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "û dakeve"
+    },
+    {
+      "surface": "גע",
+      "gloss": "bitikîne"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "çiyayan"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "û ê dû derxin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:23.402866986Z",
+  "model": "glm-5.3"
+}

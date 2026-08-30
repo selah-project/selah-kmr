@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ger bavê wê bi tevahî red bike ku wê bide wî, dê li gorî mahira keçan zîv pîvan bike.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "bi tevahî red"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "bike"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bavê wê"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "ku wê bide"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "pîvan bike"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "li gorî mahira"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "keçan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:41.147818306Z",
+  "model": "glm-5.3"
+}

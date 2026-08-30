@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Zîvê yên ji civatê hatine hijmartin sed kîkar bû, û hezar û heft sed û pênc û heftî şeqel, bi şeqelê pîroz.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "zîvê"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "yên hatine hijmartin"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ji civatê"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kîkar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "û hezar"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "û heft"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "û pênc"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "û heftî"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şeqel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bi şeqelê"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:06.059965144Z",
+  "model": "glm-5.3"
+}

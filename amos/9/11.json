@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Di wê rojê de ez ê ⟨את⟩ konê Dawid yê ketî rabî bikim, û ez ê kunên wê bigirim, û xerabiyên wî ez ê rabî bikim, û wê îlan bikim wek rojên êdilan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di wê rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "rabî bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konê Dawid"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "konê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "yê ketî"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "û ... bigirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunên wê"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "kunên wê"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "xerabiyên wî"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "rabî bikim"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "wê îlan bikim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "wek rojên"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "êdilan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:09:19.164078181Z",
+  "model": "glm-5.3"
+}

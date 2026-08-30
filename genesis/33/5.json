@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û ew çavên xwe hilda û ⟨את⟩ jinan û ⟨את⟩ zarokan dît, û got: “Evên bi te re kî ne?” Û ew got: “Zarok ⟨in⟩ ku Elohîm dilovanî ⟨את⟩ kêmî te kir.”",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavên wî"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "jinan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zarokan"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "zarokan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bi te re"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "dilovanî kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêmî te"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kêmî te"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:08.938303833Z",
+  "model": "glm-5.3"
+}

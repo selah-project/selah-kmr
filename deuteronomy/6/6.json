@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ev gotinên ku ez îro ji te re ferman dikim, dê li ser dilê te bin.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "dê … bin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ferman dikim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dilê te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:10.860515266Z",
+  "model": "glm-5.3"
+}

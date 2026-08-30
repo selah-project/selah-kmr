@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Bêguman ew ê we tawkir bike, ger hûn di veşartî de rûyan hildin ⟨alîgirî bikin⟨.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Bêguman ew ê tawkir bike"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "tawkir bike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di veşartî de"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rûyan"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "hildin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:38.722562913Z",
+  "model": "glm-5.3"
+}

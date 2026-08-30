@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û ew li wir qurbangehekî danî û navê wî kir Êl, Elohîyê Îsraêl.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "danî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangeh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nav lê kir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîyê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:31.158296652Z",
+  "model": "glm-5.3"
+}

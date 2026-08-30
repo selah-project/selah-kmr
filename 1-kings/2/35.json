@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û key ⟨את⟩ Benayahu kurê Yehoyada li şûna wî danî ser ⟨the⟩ leşker, û ⟨את⟩ Tsadok kahn key li şûna Evyatar danî.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "û-danî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "li-şûna-wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "leşker"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li-şûna"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:00.286782480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Dawid di wê rojê de ji ⟨את⟩ Elohîm ditirsî, û got: «Çawa ez ê ⟨את⟩ sandiqa Elohîm bi xwe re bînim?»",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "û ditirsî"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di wê rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "היך",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ez ê bînim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bi xwe re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqa Elohîm"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:36:36.502602826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Ez gazi te kirim, ji ber ku tu bersiva min didî, Êl; guhê xwe berî min rake, gotina min bihîze.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "gazi te kirim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "bersiva min didî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "הט",
+      "gloss": "rake"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "berî min"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîze"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "gotina min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:19.977706226Z",
+  "model": "glm-5.3"
+}

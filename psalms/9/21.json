@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Yahwe, tirsê li ser wan deyne; bila netewan bizanin ku ew tenê miroh in. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "deyne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "tirsê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bizanin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "netewan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "miroh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:44.132502168Z",
+  "model": "glm-5.3"
+}

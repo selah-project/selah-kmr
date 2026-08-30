@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û ji ⟨את⟩ civata zarokên Yisraêl ew ê du nêrên bizinan ji bo gunehan bigire, û yek qûj ji bo qurbana sotinî.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "civata zarokên Yisraêl"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "nêrên"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ji bo gunehan"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "û yek qûj"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ji bo qurbana sotinî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:55.395957509Z",
+  "model": "glm-5.3"
+}

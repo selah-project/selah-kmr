@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ez im Yahwe — ew e navê min; rûmeta min êdî ji kesekî din re nadim, pesnê min jî ji bo pûtên çêkirî.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "navê min"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "rûmeta min"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "ji kesekî din re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nadim"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nadim"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "pesnê min"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "ji bo pûtên çêkirî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:01.651874044Z",
+  "model": "glm-5.3"
+}

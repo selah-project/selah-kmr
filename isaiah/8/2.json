@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ez ê ji bo xwe şahidên dilsoz bidim: ⟨את⟩ Ûrîyahê kahîn û ⟨את⟩ Zekaryahû kurê Yeverekyahû.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Û ez ê şahid bidim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "şahidên"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "dilsoz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ûrîyahê kahîn"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ûrîyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekaryahû"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaryahû"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekyahû"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:36.483482226Z",
+  "model": "glm-5.3"
+}

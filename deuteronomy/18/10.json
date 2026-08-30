@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Di te de neyê dîtin yê ku kurê xwe û keça xwe di agir de derbas dike, falbêj, falan-dibîne, ewînbêj, pîşebêj û efsûnkar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yê dîtin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "derbas dike"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "û keça xwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "di agir de"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "falbêj"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "falan dibîne"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "ewînbêj"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "û pîşebêj"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "û efsûnkar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:06:06.907176369Z",
+  "model": "glm-5.3"
+}

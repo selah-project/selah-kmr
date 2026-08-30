@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Ji bo Yahwe bibêjin, navê wî birokin, rizgariya wî ji rojê heta rojê ragihînin.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "birokin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ragihînin"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ji rojê"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "heta rojê"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "rizgariya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:25.405610560Z",
+  "model": "glm-5.3"
+}

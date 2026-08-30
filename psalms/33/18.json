@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Va, çavê Yahwe li ser yên ji wî ditirsin e, li ser yên li xesedê wî çaverê ne.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Va"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çavê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "yên ji wî ditirsin"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "yên li bendê ne"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:45.816409950Z",
+  "model": "glm-5.3"
+}

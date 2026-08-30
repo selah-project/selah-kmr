@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û ⟨ew⟩ got: Ji kerema xwe ⟨את⟩rûmeta xwe nîşanî min bike.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ⟨ew⟩ got"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "nîşanî min bike"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji kerema xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûmeta xwe"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "rûmeta te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:16.712213977Z",
+  "model": "glm-5.3"
+}

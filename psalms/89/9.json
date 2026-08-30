@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Yahwe, Elohîmê orduyan! Kî wekî te ye, ey hêzdar ê, Yah? Û bawerîya te li dora te ye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "orduyan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wekî te"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "û bawerîya te"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "li dora te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:24.428572209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 142,
+  "translation": "Dema canê min li ser min bêhêz dibû, Te dizanî ⟨⟨⟨rêya min⟩⟩⟩; di rêya ku ez tê de diçûm, tawîlê ji min re veşartin.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Dema ... bêhêz dibû"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dizanî"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "rêya min"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "di rêya"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ku ez tê de"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "diçûm"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "veşartin"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tawîlê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:18.679275750Z",
+  "model": "glm-5.3"
+}

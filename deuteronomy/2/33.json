@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Yahwe Elohîmê me wî berî me da û em ⟨את⟩ wî dan ber, û ⟨את⟩ kurrên wî û ⟨את⟩ tevaya gelê wî.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "da wî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "berî me"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "em dan ber"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurrên wî"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurrên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tevaya gelê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevaya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:17.829520788Z",
+  "model": "glm-5.3"
+}

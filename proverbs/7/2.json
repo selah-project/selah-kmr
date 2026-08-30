@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Fermanên min biparêze û bijî, û Tora min wekî tîrikê çavê xwe.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "Fermanên min"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "û bijî"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "û Tora min"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "wekî tîrikê"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "çavê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:21.967470690Z",
+  "model": "glm-5.3"
+}

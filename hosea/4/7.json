@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Çiqas zêde bûn, ewqas li min guneh kirin; rûmeta wan ez dê biguherînim ruspayî.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "li gorî zêdebûna wan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ewqas"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "guneh kirin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "rûmeta wan"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "bi ruspayî"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ez dê biguherînim"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:11.060952218Z",
+  "model": "glm-5.3"
+}

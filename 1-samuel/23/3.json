@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û mêrên Dawid ji wî re gotin: “Hûn binêrin, em vir li Yehûdê ditirsin — çiqas zêdetir ku em herin Qeîlayê, ber bi rêzên artêşa Filistiyan ve!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hûn binêrin"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "פה",
+      "gloss": "vir"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "li Yehûdê"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ditirsin"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "çiqas zêdetir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "em herin"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Qeîlayê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rêzên artêşa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:10.115394336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Di nîştîkahiya me de bîr me anî, ji bo hertimî xesedê wî ye.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "di nîştîkahiya me de"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bîr (me) anî"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:52.776120272Z",
+  "model": "glm-5.3"
+}

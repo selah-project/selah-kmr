@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 67,
+  "translation": "Da ku di ⟨the⟩ erdê de rêya te were zanîn, rizgariya te di nav hemû gelan de.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "da ku ... were zanîn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "rêya te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di nav hemû"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "rizgariya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:01.030170239Z",
+  "model": "glm-5.3"
+}

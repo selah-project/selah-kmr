@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û Yahwe ⟨את⟩ Kûşiyan li ber Asa û li ber Yehûda da — û Kûşî reviyan.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "û ... da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kûşî (Etiyopyayî)"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kûşî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "û li ber"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "û reviyan"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kûşî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:47:31.607766236Z",
+  "model": "glm-5.3"
+}

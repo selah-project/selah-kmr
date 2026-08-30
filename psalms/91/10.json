@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Xerabî nayê ser te, û nexweşî nêzîkî çadê te nabe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "tê ser"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "û nexweşî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "nêzîk dibe"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "çadê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:15.437732935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Yaaqov jî got: «Îro ⟨את⟩ mafê yekemtiya xwe ji min re bifroşe.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "bifroşe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafê yekemtiya xwe"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "mafê yekemtiya xwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:44.987878483Z",
+  "model": "glm-5.3"
+}

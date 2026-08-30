@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Dor ji dor re karên te dê pesindan bike, û hêzên te dê ragihînin.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ji dor re"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "dê pesindan bike"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karên te"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "û hêzên te"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "dê ragihînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:16.501037460Z",
+  "model": "glm-5.3"
+}

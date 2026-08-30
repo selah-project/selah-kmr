@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û ji Dawid re ragihandin ku: “Hûn binêrin, Filistî li dijî Qeîlayê şer dikin û ew ⟨את⟩ garanan talan dikin.”",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ragihandin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hûn binêrin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "şer dikin"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "li dijî Qeîlayê"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "talan dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garanan"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "garanan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:10.114678997Z",
+  "model": "glm-5.3"
+}

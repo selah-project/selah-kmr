@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Bi tinebûnê û birçîbûnê valatir û bêkes dibin — direvîn bal devera hişk a ku dîwal bû, xirabe û bêav.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "bi tinebûnê"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "û birçîbûnê"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "valatir û bêkes"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "direvîn"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "devera hişk"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "dîwal"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "xirabe"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "bêav"
+    }
+  ],
+  "timestamp": "2026-08-30T05:58:50.772211845Z",
+  "model": "glm-5.3"
+}

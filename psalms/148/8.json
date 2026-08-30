@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Agir û birûsk, berf û dûman, ba yê bahozî ku peyva wî pêk tîne:",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "û birûsk"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "berf"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "û dûman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ba"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "yê bahozî"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pêk tîne"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "peyva wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:33.703296652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ma şer ne ji bo mirov li ser erdê ye? Û rojên wî wekî rojên kedxwazê ne.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma…ne"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "şer"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "ji bo mirov"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "û wekî rojên"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "kedxwazê"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "rojên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:39.018989517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Moşe û Aharon ji hemû zarokên Yisraêl re gotin: êvarê hûn ê bizanibin ku Yahwe ⟨את⟩ we ji welatê Mîtsrayim derxistiye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "êvarê"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "hûn ê bizanibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "derxistiye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:17.032419006Z",
+  "model": "glm-5.3"
+}

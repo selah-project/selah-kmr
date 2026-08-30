@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Bi milê xwe gelê xwe xelas kirî — kûrên Yaqûb û Yûsif. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "xelas kirî"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "bi milê"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "û Yûsif"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:00.278570703Z",
+  "model": "glm-5.3"
+}

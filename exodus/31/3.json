@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û min wî bi ruhê Elohîm tijî kiriye, bi jîrbûn û bi fêrbûn û bi zanîn û bi hemû melaketê,",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Û min… tijî kiriye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "bi jîrbûn"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "û bi fêrbûn"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "û bi zanîn"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û bi hemû"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "melaketê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:27.815811215Z",
+  "model": "glm-5.3"
+}

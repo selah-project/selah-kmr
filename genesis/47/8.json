@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Û Paroh ji Yaaqob re got: \"Çend ⟨in⟩ rojên salên jiyana te?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "çend"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "שני",
+      "gloss": "salên"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jiyana te"
+    }
+  ],
+  "timestamp": "2026-08-29T17:58:37.732172569Z",
+  "model": "glm-5.3"
+}

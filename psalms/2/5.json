@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Êdî ew ê di qehra xwe de bi wan re biaxive, û di hêrsa xwe de wan ditirsinîne.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "biaxive"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "di qehra xwe de"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "û di hêrsa xwe de"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "wan ditirsinîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:36.662245160Z",
+  "model": "glm-5.3"
+}

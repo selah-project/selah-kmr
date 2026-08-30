@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Esav jinan ji keçên Kenaanê hilda: ⟨את⟩ Adahê, keça Eylonê Hîtî, û ⟨את⟩ Oholibamahê, keça Anahê, keça Tsibonê Hîvî.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinan"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jinan"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ji keçên"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adahê"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adahê"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eylonê"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hîtî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Oholibamahê"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamahê"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahê"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibonê"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hîvî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:40.421097284Z",
+  "model": "glm-5.3"
+}

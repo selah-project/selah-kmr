@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wê gavê gazî min bikin, lê ez bersîv nade; wê bi lezgîn li min bigerin, lê min êdî nabînin.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wê gavê"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "gazî min bikin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê…na"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "bersîv nade"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "bi lezgîn li min bigerin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê…na"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "min êdî nabînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:05.113613807Z",
+  "model": "glm-5.3"
+}

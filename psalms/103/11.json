@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Çawa bilindîya ezmanan li ser erdê ye, xesedê wî wisa bilind li ser yên ku ji wî ditirsin serkeftî ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "wisa bilind"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "serkeftî ye"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "yên ku ji wî ditirsin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:31.279255718Z",
+  "model": "glm-5.3"
+}

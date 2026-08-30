@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û ⟨את⟩ wî heta sibê bihêştin, gorî ku Moşe ferman kiribû; û ne bêhn Tirş bû, û kerm zû de ne bû.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "û bihêştin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sibê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gorî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kiribû"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "bêhn Tirş bû"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "û kerm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בו",
+      "gloss": "zû de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:14.176261771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ez jî di xesedê te de hêvî kirine, dilê min dê di rizgariya te de şa bibe, ez ê ji bo Yahwe stranan bilîzim, ji ber ku ew bi min qencî kiriye.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ez jî"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "di xesedê te de"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "hêvî kirine"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "dê şa bibe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "di rizgariya te de"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ez ê stranan bilîzim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "qencî kiriye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bi min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:45.598595926Z",
+  "model": "glm-5.3"
+}

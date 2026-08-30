@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Şemûel hat cem Şaul, û Şaul ji wî re got: Tu bi Yahwe yî bêrûmet, min ⟨את⟩ peyva Yahwe bi cih anî.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bêrûmet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "min… bi cih anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyva Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:12.039500779Z",
+  "model": "glm-5.3"
+}

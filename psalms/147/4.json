@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Hejmara stêrkan didide, êdin bi navên wan diqîre.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "didide"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmara"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "stêrkan"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "êdin"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bi navên"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "diqîre"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:22.040470320Z",
+  "model": "glm-5.3"
+}

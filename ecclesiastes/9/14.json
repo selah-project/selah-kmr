@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Bajarekî biçûk, û hindik mêr tê de; û keyekî mezin hat ser wê, û ⟨את⟩ wê dorpêç kir û li ser wê xebatên dorpêçê yên mezin çê kir.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "biçûk"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "û mêr"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hindik"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ser wê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "û dorpêç kir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "û çê kir"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "xebatên dorpêçê"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:20.480739636Z",
+  "model": "glm-5.3"
+}

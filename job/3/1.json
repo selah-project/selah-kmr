@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Piştî wê, Îyob devê xwe vekir û roja xwe nifir kir.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vekir"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Îyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "devê xwe"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "devê xwe"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "nifir kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roja xwe"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "roja xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:47.099645192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Yaakov bihîstibû ji bavê xwe û ji diya xwe, û çûbû Padan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîstibû"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "diya xwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "çûbû"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-29T17:47:43.806050071Z",
+  "model": "glm-5.3"
+}

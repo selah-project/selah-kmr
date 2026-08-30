@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û ⟨את⟩ hezar û heft sed û pênc û heftî şeqelan kir gîşokên bo stûnan, û serên wan zêr kir, û wan bi qerîşan girêda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hezar û heft sed û pênc û heftî şeqel"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "û heft"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "û pênc"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "û heftî"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "וןים",
+      "gloss": "gîşokên"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "bo stûnan"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "û zêr kir"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "serên wan"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "û bi qerîşan girêda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:06.060984314Z",
+  "model": "glm-5.3"
+}

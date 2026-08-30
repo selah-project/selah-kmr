@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Û tu wê ⟨את⟩ parê gunehkar bigirî û wê ew di cihê destnîşankirî yê xaniyê de, li derveyî perestgehê, ji bo şewitandinê bilind bikin.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "bigirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parê gunehkar"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "parê"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ji bo şewitandinê bilind bikin"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "di cihê destnîşankirî"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xaniyê"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "li derveyî"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "perestgehê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:00:14.654219065Z",
+  "model": "glm-5.3"
+}

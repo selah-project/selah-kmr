@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û wî got: \"Bavêjin wê!\" û ew bavêjin wê, û ji xwîna wê li ser dîwar û li ser hespan hat şilkirin, û ⟨hesp⟩ wê peliqand.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "bavêjin wê"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "û bavêjin wê"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "û şilkand"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ji xwîna wê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dîwar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hespan"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "û wê peliqand"
+    }
+  ],
+  "timestamp": "2026-08-29T20:17:48.923402776Z",
+  "model": "glm-5.3"
+}

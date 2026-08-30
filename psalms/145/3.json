@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Mezin ⟨e⟩ Yahwe, û pirr ⟨e⟩ yê pesindayî, û ji bo mezinahiya wî tu lêgerîn ⟨tune⟩.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mezin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "û yê pesindayî"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pirr"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "û ji bo mezinahiya wî"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "tu lêgerîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:16.500902026Z",
+  "model": "glm-5.3"
+}

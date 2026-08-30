@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji wê welatî Aşûr derket û ⟨את⟩ Nînaway û ⟨את⟩ Rehobot-Ûr û ⟨את⟩ Kelah avakir.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Ji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wê welatî"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûr"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "û … avakir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nînaway"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nînaway"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rehobot-Ûr"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehobot-Ûr"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ûr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kelah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelah"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:54.537949542Z",
+  "model": "glm-5.3"
+}

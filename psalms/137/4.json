@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 137,
+  "translation": "Çawa em ⟨את⟩ stranê Yahwe bibêjin li ser axa biyanî?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "em bibêjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stranê Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stranê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "axa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "biyanî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:55.510338971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Destên min ji bo şer hîn dike, û ziravika sifir birên min davêjin.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "hîn dike"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên min"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ji bo şer"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "davêjin"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ziravik"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "sifir"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "birên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:47.074031108Z",
+  "model": "glm-5.3"
+}

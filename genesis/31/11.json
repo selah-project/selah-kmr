@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û firîşteya Elohîm di xewnê de ji min re got: 'Ya'qov!' û min got: 'Ez vir im.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "firîşteya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "di xewnê de"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'qov"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "min got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ez vir im"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:35.196208653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Êlê min, Êlê min, çima min berda? Dûr ji rizgariya min, ji gotinên heyîna min.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "min berda"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "dûr"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "ji rizgariya min"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ji gotinên"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "heyîna min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:10.713205052Z",
+  "model": "glm-5.3"
+}

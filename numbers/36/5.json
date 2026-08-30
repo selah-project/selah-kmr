@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Moşe li gorî devê Yahwe ferman da kurên Îsraêlê, got: \"Êşa reqa (êwa rast dibêjin) -- êşa qebîleya kurên Yûsif dibêje rast e.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên Îsraêlê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rast e"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qebîleya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yûsif"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "dibêje"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:38.657421386Z",
+  "model": "glm-5.3"
+}

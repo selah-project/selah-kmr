@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Ji te re stêrkek bi hêz ⟨ye⟩; destê tê xurt ⟨e⟩, destê rastê yê te bilind ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "stêrk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "xurt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "destê rastê yê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:53.442475533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Hemû dewlemendên erdê xwarin û li pêş wî serê xwe dan; hemû yên ên ku ber bi tozê ve diçin li ber wî çûk dibin — û canê wî nekir ku bijî.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "û serê xwe dan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "dewlemendên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li pêş wî"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "çûk dibin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "yên ên ku ber bi … ve diçin"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozê"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "û canê wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kir ku bijî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:29.559118385Z",
+  "model": "glm-5.3"
+}

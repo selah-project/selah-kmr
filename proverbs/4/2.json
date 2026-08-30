@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Çimkî hînkirineke baş min daye we; şerîeta min beride nekin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hînkirin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min da"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "we"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "şerîeta min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "beride nekin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:58.610881656Z",
+  "model": "glm-5.3"
+}

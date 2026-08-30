@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Nanê xwe li ser rûyê avê bişîne, ji ber ku di gelek rojan de wê ê bibînî.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "bişîne"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "nanê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "di gelek"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "rojan de"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "wê ê bibînî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:14.930503447Z",
+  "model": "glm-5.3"
+}

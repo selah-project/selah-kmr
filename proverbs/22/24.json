@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Hevaltiyê ⟨את⟩ bi xwediyê hêrsê re neke, û ⟨את⟩ bi mêrê tund re neçe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "hevaltiyê neke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bi xwediyê hêrsê re"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "xwediyê"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrsê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ û"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "tund"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "neçe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:18.464758815Z",
+  "model": "glm-5.3"
+}

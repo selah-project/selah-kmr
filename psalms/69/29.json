@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Bila ji kitêba jiyanê werin jêbirin û bi sadîqan re neyên nivîsîn.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "bila-werin-jêbirin"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ji-kitêbê"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyanê"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û-bi…re"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sadîqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "neyên-nivîsîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:24.783408402Z",
+  "model": "glm-5.3"
+}

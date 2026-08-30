@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û birayên wî jê hesud bûn; lê bavê wî ⟨את⟩ peyvê di bîr girt.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "hesud bûn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jê"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên wî"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "lê bavê wî"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "di bîr girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyvê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:18.766282663Z",
+  "model": "glm-5.3"
+}

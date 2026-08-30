@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Êdî Yahwe ⟨את⟩ Yerubbaal û ⟨את⟩ Bedan û ⟨את⟩ Yiftah û ⟨את⟩ Şemuel şand û ⟨את⟩ we ji destê dijminên we yên derdor rizgar kir, û hûn bi ewlehî rûniştin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yiftah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "û rizgar kir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dijminên we"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "yên derdor"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "û hûn rûniştin"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bi ewlehî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:41.038415111Z",
+  "model": "glm-5.3"
+}

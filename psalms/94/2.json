@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Bilind bibe, dadwerê ⟨the⟩ erdê; xelatê bîne ser gewran!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Bilind bibe"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dadwerê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "xelatê"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "gewran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:51.910613826Z",
+  "model": "glm-5.3"
+}

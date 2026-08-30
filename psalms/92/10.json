@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Çimkî binihêre, dijminên te, Yahwe — çimkî binihêre, dijminên te wê binemûsî; hemû kirêdarên xerabiyê wê belav bibin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binihêre"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dijminên te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binihêre"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dijminên te"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "wê binemûsî"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "wê belav bibin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kirêdarên"
+    },
+    {
+      "surface": "און",
+      "gloss": "xerabiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:35.723851618Z",
+  "model": "glm-5.3"
+}

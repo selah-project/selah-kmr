@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ez ê ji Êlê kevirê xwe bibêjim: Çima min ji bîr kirî? Çima bi dilê tarî diçim, di bin pêdaçûna dijmin de?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Ez ê bibêjim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ji Êlê"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "kevirê xwe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Çima"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "min ji bîr kirî"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Çima"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "bi dilê tarî"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "diçim"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "di bin pêdaçûnê de"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:44.596296877Z",
+  "model": "glm-5.3"
+}

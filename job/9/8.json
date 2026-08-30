@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ezmanan bi tena serê xwe dirêdike û li ser bilindahiya deryayê digerîne.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "dirêdike"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "bi tena serê xwe"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "û digerîne"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "bilindahiya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:10.334259835Z",
+  "model": "glm-5.3"
+}

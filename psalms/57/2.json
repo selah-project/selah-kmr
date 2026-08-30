@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Dilovanî li min bike, Elohîm, dilovanî li min bike, çinku canê min di te de penah digire; û di siya bâlan ê te de ez ê penah bigirim, heta ku xirabî derbas bibin.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "dilovanî li min bike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "dilovanî li min bike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "penah digire"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "û di siya"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "bâlan ê te"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ez ê penah bigirim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "derbas bibin"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "xirabî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:18.768464780Z",
+  "model": "glm-5.3"
+}

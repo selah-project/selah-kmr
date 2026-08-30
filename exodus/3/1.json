@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Moşe ⟨את⟩ pezê Yitro, zava yê wî, kahînê Midyan, di çêwanî dikir; û wî ⟨את⟩ pez dûrî çolê bir û hat çiyayê Elohîm, Horebê.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di… bû"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "di çêwanî dikir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pez"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pez"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "zava yê wî"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "bir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pez"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "pez"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dûrî"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Horebê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:49.820070993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û tu wê ji bo Aharon û ji bo kurên wî wusa bikî, li gorî hemû tiştên ku min ⟨את⟩ te ferman kirine; heft rojan destên wan tijî bikî.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "û tu ... bikî"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "û ji bo kurên wî"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "li gorî hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştên ku"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "min ... ferman kirine"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "tijî bikî"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "destên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:50.802572772Z",
+  "model": "glm-5.3"
+}

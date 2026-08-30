@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Mîtsrayim (Misir) li pey wan da û wan gihand — ew li cem deryayê rûniştîbûn — hemû hesp, keriyên Paroh, siwarên wî û artêşa wî, li Pi-ha-Chiroth, berî Baal-Tsefon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "li pey wan da"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim (Misir)"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "li pey wan"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "gihandin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "rûniştîbûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li cem"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hesp"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "keriyên"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "siwarên wî"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "artêşa wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "פי",
+      "gloss": "dev"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "Pi-ha-Chiroth"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:53.591227743Z",
+  "model": "glm-5.3"
+}

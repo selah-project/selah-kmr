@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ma rojên te wekî rojên mirovê fanî ne, an salên te wekî rojên mêr?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "wekî rojên"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirovê fanî"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "rojên te"
+    },
+    {
+      "surface": "אם",
+      "gloss": "an"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "salên te"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "wekî rojên"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mêr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:58.901065375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "wê hingê şînavanên bajarê wî bişînin, wî ji wir bistînin ⟨את⟩ û wî bidin ⟨את⟩ destê goêlê-xwînê — û ew bimire.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "wê hingê bişînin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "şînavanên"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "bajarê wî"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "û bistînin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "û bidin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "destê goêlê-xwînê"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goêlê"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "û bimire"
+    }
+  ],
+  "timestamp": "2026-08-29T19:06:39.139002757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Çandkera guh, ma nabihîze? Yê ku çav çê dike, ma nabîne?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "çandker"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "guh"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nabihîze"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "çê dike"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çav"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "nabîne"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:51.097980500Z",
+  "model": "glm-5.3"
+}

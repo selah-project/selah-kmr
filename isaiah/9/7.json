@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Adonay peyvek şand nav Yaqûbê, û ew li Îsraêlê ket.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "peyvek"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "nav Yaqûbê"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "û ket"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:54.666543918Z",
+  "model": "glm-5.3"
+}

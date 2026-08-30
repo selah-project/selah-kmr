@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 3:27",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ji Kehatê malbata Amramî, malbata Yitsaharî, malbata Hevronî û malbata Uzîelî — ev in malbatên Kehatî.",
+  "tokens": [
+    {
+      "surface": "ולקהת",
+      "gloss": "û ji Kehatê"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "העמרמי",
+      "gloss": "Amramî"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "û malbata"
+    },
+    {
+      "surface": "היצהרי",
+      "gloss": "Yitsaharî"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "û malbata"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "Hevronî"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "û malbata"
+    },
+    {
+      "surface": "העזיאלי",
+      "gloss": "Uzîelî"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הם",
+      "gloss": "in"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehatî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:32.413141660Z",
+  "model": "glm-5.3"
+}

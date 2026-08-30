@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Dengê Yahwe agirê ji pêlan dor dibe.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "dor dibe"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "pêlan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agirê ji"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:28.540749691Z",
+  "model": "glm-5.3"
+}

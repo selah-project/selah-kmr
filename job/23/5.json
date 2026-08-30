@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ez ê bizanim ⟨ka⟩ çi peyvan ew ê bide bersiva min, û ez ê fêm bikim ka ew ê çi bêje min.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "ez ê bizanim"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "ew ê bide bersiva min"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "û ez ê fêm bikim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ka çi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:57:32.801566701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Destê wî nebihrîn — ⟨את⟩ roja ku wî wan ji ber dijmin rizgar kir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bihrîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê wî"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "rizgar kir"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dijmin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.248191281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Heta kengî, Elohîm, dê dijminar sûdkî bike? Dê dijmin navê te heta paşerojê bêrûmet bike?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "sûdkî bike"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dijminar"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "bêrûmet bike"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "heta paşerojê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:58.223297811Z",
+  "model": "glm-5.3"
+}

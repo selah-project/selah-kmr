@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û te ⟨את⟩ kurên min sêr kir û wan da, di derbaskirin ⟨את⟩ wan de ji bo wan.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "Û te sêr kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên min"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên min"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "û te da wan"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "di derbaskirinê de"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:48:06.006272598Z",
+  "model": "glm-5.3"
+}

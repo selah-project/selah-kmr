@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber ku di pir hînmendiyê de pir êş heye, û kî zêde zanînê dike, ew zêde êşan dike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "di pir"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hînmendiyê de"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pir"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "êş"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "û kî zêde dike"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanînê"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ew zêde dike"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "êşan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:59.517008700Z",
+  "model": "glm-5.3"
+}

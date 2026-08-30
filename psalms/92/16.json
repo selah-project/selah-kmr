@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Ji bo ku were ragihandin ku Yahwe rast e, kevirê min e, û di wî de neheqî nîne.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ji bo ku were ragihandin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rast e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kevirê min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nîne"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "neheqî"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:54.907662584Z",
+  "model": "glm-5.3"
+}

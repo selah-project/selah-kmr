@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Nêrîn bal wî, ronihî bûn, û rûyên wan ne kêmtir bûn ⟨⟨ne⟩⟩ şerm kirin.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "nêrîn bal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "ronihî bûn"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "û rûyên wan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "şerm kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:22.113616014Z",
+  "model": "glm-5.3"
+}

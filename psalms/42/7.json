@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Elohîmê min, li ser min canê min tê xwarî; ji ber wê yekê ez te ji welatê Yarden, ji Hermûnan û ji Çiyayê Mîtsar bi bîr tînim.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "tê xwarî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê yekê"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ez te bi bîr tînim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatê"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ji Hermûnan"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ji Çiyayê"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mîtsar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:20.363698656Z",
+  "model": "glm-5.3"
+}

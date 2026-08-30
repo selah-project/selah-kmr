@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Ma ji bo miriyan gotinên ecêb dikî? Ma Refaîm radibin û te şan dikin? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ma ji bo miriyan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dikî"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "gotinên ecêb"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaîm"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "radibin"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "te şan dikin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:36.510713606Z",
+  "model": "glm-5.3"
+}

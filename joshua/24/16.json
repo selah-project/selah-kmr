@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û gel bersiv da û got: Dû be ji me ku em ⟨את⟩ Yahwe bihelînin da ku xizmetê xwedayên din bikin!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Dû be"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ku em bihelînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "da ku xizmet bikin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xwedayên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:05.744317367Z",
+  "model": "glm-5.3"
+}

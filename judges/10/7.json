@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û hêrsa Yahwe li Îsraêlî geş bû, û wan firot destên Fîlîstînan û destên zarokên Emon.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "geş bû"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li Îsraêlî"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "wan firot"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "destên"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîstînan"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "û destên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Emon"
+    }
+  ],
+  "timestamp": "2026-08-29T19:29:23.352118502Z",
+  "model": "glm-5.3"
+}

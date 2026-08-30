@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Ka gelê min guh bidana min — Yisraêl êdî di rêyên min de bihurata!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guh bidana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di rêyên min de"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "bihurata"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:58.101157196Z",
+  "model": "glm-5.3"
+}

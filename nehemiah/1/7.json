@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Bi xerabî me li te xwest; em ⟨את⟩ fermanan, ⟨את⟩ biryarnameyan û ⟨את⟩ hukman, ku te ji Moşe, xulamê xwe re ferman kirî, neparêz bûn.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "bi xerabî"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "me li te xwest"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "em…neparêz bûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "fermanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biryarnameyan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "biryarnameyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukman"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "te…ferman kirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:25:18.874363078Z",
+  "model": "glm-5.3"
+}

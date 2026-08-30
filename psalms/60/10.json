@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Moab sîtilê şûştina min e; li ser Edom pêlavên xwe davêjim; li ser min, Filistiyê, qêrînê bilivî!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "sîtil"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "şûştina min"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "davêjim"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "pêlavên xwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistiyê"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "qêrînê bilivî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:41.281617907Z",
+  "model": "glm-5.3"
+}

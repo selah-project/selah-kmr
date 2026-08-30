@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û ew di nav kampeka wan de xist, dor li dora jêrgehên wan.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Û ew xist"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kampeka wan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dor li dora"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "jêrgehên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:22.563845973Z",
+  "model": "glm-5.3"
+}

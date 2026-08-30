@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û tu ê li ser pêşiyê du mohrên zêrê çê bikî, û tu ê ⟨את⟩ du mohran li ser herdu dawiyên pêşiyê bidî.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "çê bikî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pêşiyê"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "mohrên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "bidî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du mohran"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "mohran"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שני",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dawiyên"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pêşiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:43.316227715Z",
+  "model": "glm-5.3"
+}

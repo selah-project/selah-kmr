@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Dawid ji Şelomo kurê xwe re ⟨את⟩ şêwira verencê û ⟨את⟩ malên wî, û cîhên xezîneyên wî, û odeyên jorîn ên wî, û odeyên wî yên hundirîn, û mala kaporetê da.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ji Şelomo re"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şêwira verencê"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "şêwira"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "verencê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malên wî"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "malên wî"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "û cîhên xezîneyên wî"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "û odeyên jorîn ên wî"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "û odeyên wî"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "yên hundirîn"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "û mala"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:42:59.133676122Z",
+  "model": "glm-5.3"
+}

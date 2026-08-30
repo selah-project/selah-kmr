@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Şotir ji bo hesp, lêv (mêc) ji bo ker, û çûpek ji ji dinêviyê kêmdêran.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "şotir"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ji bo hesp"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "lêv (mêc)"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ji bo ker"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "û çûpek"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "ji pişta"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kêmdêran"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:30.986205870Z",
+  "model": "glm-5.3"
+}

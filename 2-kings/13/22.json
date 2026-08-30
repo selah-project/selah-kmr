@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Hazaêl, keyê Aramê, di hemû rojên Yehoahaz de ⟨את⟩ Îsraêl zextî kir.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "û Hazaêl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramê"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "zextî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    }
+  ],
+  "timestamp": "2026-08-29T20:21:06.015748351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Yahwe, te canê min ji Şeolê bilind kir, te ji wan ên ku diçûn çalê jiyan da min.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "te bilind kir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeolê"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "te jiyan da min"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "ji wan ên ku diçûn"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çalê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:48.779652190Z",
+  "model": "glm-5.3"
+}

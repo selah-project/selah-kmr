@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Bi rastî, bi valahî min dilê xwe paqij kiribû û bi bêgunehî destên xwe şûştibûn.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "bi valahî"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "paqij kiribûm"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "û şûstim"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "bi bêgunehî"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "destên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:08.981547875Z",
+  "model": "glm-5.3"
+}

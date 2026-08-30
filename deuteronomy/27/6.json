@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Bi kevirên temam ⟨את⟩ qurbangeha Yahwe Elohîmê te bibîne, û li ser wê ji bo Yahwe Elohîmê te qurbanên şewatê bilind bike.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "temam"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bibîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangeha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangeha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "û bilind bike"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "qurbanên şewatê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:19.458973601Z",
+  "model": "glm-5.3"
+}

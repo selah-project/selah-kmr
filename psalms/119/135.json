@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Rûyê xwe li ser xulamê xwe ronî bike, û ⟨את⟩ biryaran ji min re hîn bike.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ronî bike"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "li ser xulamê xwe"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "û hîn bike min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biryaran"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "biryarên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:18.162280551Z",
+  "model": "glm-5.3"
+}

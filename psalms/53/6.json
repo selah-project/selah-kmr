@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Wê derê bi tirs hatine tirsin — tirsên ku tune bû — çiku Elohîm hestiyên yê ku li dijî te xwê danî belav kir; tu wan şekandî, çiku Elohîm wan dûr avêtine.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "wê derê"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "hatine tirsin"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bi tirs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tirs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "belav kir"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "yê ku xwê danî"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "tu wan şekandî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "wan dûr avêtine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:06.099134357Z",
+  "model": "glm-5.3"
+}

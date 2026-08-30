@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û ⟨את⟩ navê wî Yosef kir, û got: Yahwe ji min re kurekî din zêde bike.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "kir navê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "zêde bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurekî"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:16.118285074Z",
+  "model": "glm-5.3"
+}

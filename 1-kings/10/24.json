@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û hemû erd rûyê Şelomo digeriyan ⟨את⟩, da ku jîrîya wî — ya ku Elohîm daye dilê wî — bibihîzin ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "digeriyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê Şelomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "da ku … bibihîzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jîrîya wî"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "jîrîya wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dilê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:48.243294675Z",
+  "model": "glm-5.3"
+}

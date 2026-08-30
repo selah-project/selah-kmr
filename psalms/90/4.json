@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Ji ber ku hezar sal di çavên te de wekî roja dî ku derbas bûye ne, wekî paseyek şevê.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sal"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di çavên te de"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wekî roja"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "dî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "derbas bûye"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "û wekî paseyek"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "şevê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:03.827170040Z",
+  "model": "glm-5.3"
+}

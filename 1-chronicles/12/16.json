@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ev ⟨in⟩ ew in ku ⟨את⟩ Urdunê di meha yekem de derbas kirin — û ew li ser hemû kenarên xwe tijî bû — û ⟨את⟩ hemû xelkê newalan ber bi rojhilat û ber bi rojava revandin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "הם",
+      "gloss": "in ew"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "derbas kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdunê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdunê"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "di mehê de"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yekem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "tijî dikir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "kenarên wî"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "û revandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû xelkê newalan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "newalan"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ber bi rojhilat"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "û ber bi rojava"
+    }
+  ],
+  "timestamp": "2026-08-30T06:36:48.186563409Z",
+  "model": "glm-5.3"
+}

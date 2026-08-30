@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Bibin şerm û serxweş ên ku canê min digerin, paşde vegerin û bi şermî biherikin ên ku xerabiya min difikirin.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bibin şerm"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "û serxweş"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ên ku digerin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "paşde vegerin"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paşde"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "û bi şermî biherikin"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ên ku difikirin"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "xerabiya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:40.373186276Z",
+  "model": "glm-5.3"
+}

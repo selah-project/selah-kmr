@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ji gel re got: 'Sê rojan amade bin; nêzîkî jinekê nebin.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji…re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "amade"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "nêzîkî nebin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jinekê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:21.128512966Z",
+  "model": "glm-5.3"
+}

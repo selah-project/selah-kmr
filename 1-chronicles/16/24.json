@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Di nav netewan de ⟨את⟩ rûmeta wî bibêjin, di nav hemû gelan de tiştên ecêb ên wî.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav netewan de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûmeta wî"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "rûmeta wî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di nav hemû"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan de"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "tiştên ecêb ên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:38:23.340667149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Şeş rojan tu xebitî, û di roja heftemîn de tu radiwestî; di dema ajotinê û di dema birînê de tu radiwestî.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Şeş"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tu xebitî"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "û di roja"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "heftemîn de"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "tu radiwestî"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "di dema ajotinê"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "û di dema birînê de"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "tu radiwestî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:24.096929723Z",
+  "model": "glm-5.3"
+}

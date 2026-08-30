@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Elî gazî ⟨את⟩ Şemûel kir û got: Şemûel, kurê min! Û ew got: Ez li vir im.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şemûel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ez li vir im"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:38.328127030Z",
+  "model": "glm-5.3"
+}

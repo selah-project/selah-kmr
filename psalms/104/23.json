@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Mirov derdikeve bo karê xwe û bo xizmeta xwe heta êvarê.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "derdikeve"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "bo karê xwe"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "û bo xizmeta xwe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "êvarê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:50.032866347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ji van, ên ku ser karê mala Yahwe rawestîne, bîst û çar hezar bûn; û çavdêr û darbêjer şeş hezar bûn.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "ji van"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ser … rawestîne"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "karê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "û çar"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "çavdêr"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "darbêjer"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    }
+  ],
+  "timestamp": "2026-08-30T06:40:01.455537721Z",
+  "model": "glm-5.3"
+}

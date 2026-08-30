@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û niha bişîne, kom bike li cem min ⟨את⟩ tevayî Yisrael, çiyayê Karmel, û ⟨את⟩ pêxemberên Baalê — çarsed û pêncî — û pêxemberên Aşera çarsed, yên ku ji sofrê Îzevel dixwin.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bişîne"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "kom bike"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "li cem min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevayî Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevayî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pêxemberên Baalê"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "pêxemberên"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalê"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "û pêncî"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "û pêxemberên"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Aşera"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sofrê"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Îzevel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:20.837816856Z",
+  "model": "glm-5.3"
+}

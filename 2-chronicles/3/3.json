@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ev in bingehên ku Şelomo danîn ji bo çêkirina ⟨את⟩ mala Elohîm: dirêjahî bi çepiyan li gorî pîvana yekem çepiyên şêst bû, û firehî çepiyên bîst.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Û ev in"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "bingehên ku danîn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ji bo çêkirina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala Elohîm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "dirêjahî"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "bi çepiyan"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "li gorî pîvana"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "yekem"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "çepiyên"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "şêst"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "û firehî"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "çepiyên"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:35.028068887Z",
+  "model": "glm-5.3"
+}

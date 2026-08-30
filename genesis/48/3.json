@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Yaqûb ji Yosef re got: “Êl Şaday li cem min xuya bû — di Luzê de, di welatê Kenaan de — û min ⟨את⟩ bîrozkir.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şaday"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "xuya bû"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "li cem min"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "di Luzê de"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan de"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bîrozkir"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ min",
+      "marks": "min"
+    }
+  ],
+  "timestamp": "2026-08-29T17:59:07.302791725Z",
+  "model": "glm-5.3"
+}

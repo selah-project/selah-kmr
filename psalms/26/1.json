@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ji Dawid re. Yahwe, min bi dadrêsî bike, çimko ez bi paqijiya xwe meşiyan, û di Yahwe de bawerî birîm; êdî ez nagirim.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid re"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "min bi dadrêsî bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "bi paqijiya xwe"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "meşiyan"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "û di Yahwe de"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bawerî birîm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "girim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:08.445470319Z",
+  "model": "glm-5.3"
+}

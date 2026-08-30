@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û Moşe ji çiyê hat xwarê bal gel, û ⟨את⟩ gel pîroz kir, û ew kincên xwe şûştin.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "hat xwarê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "pîroz kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "şûştin"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "kincên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:21.128309678Z",
+  "model": "glm-5.3"
+}

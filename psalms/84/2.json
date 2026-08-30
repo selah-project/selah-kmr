@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Çend delal in niştecîhên te, Yahweyê Tsavaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çend"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "delal in"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "niştecîhên te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavaot"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.229260184Z",
+  "model": "glm-5.3"
+}

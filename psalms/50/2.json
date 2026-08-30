@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Ji Siyonê, ji temama rûnedayînê, Elohîm bihûrî.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "ji Siyonê"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "temama"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "rûnedayînê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "bihûrî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:38.644726246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û wan ji wî re got: \"Mêrekî mûdar bû, û qemereke çerm li kêleka wî girêdan bû.\" Û wî got: \"Eliya yê Tişbî ye ew.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "û wan got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "xwediyê"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mû (por)"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "û qemerik"
+    },
+    {
+      "surface": "עור",
+      "gloss": "çerm"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "girêdan"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "li kêleka wî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "yê Tişbî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:41.203585169Z",
+  "model": "glm-5.3"
+}

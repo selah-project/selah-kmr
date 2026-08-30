@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Bi Elohîm min hêvya xwe danaye, natirsim — mirov çi dike ji min re?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Bi Elohîm"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "min hêvya xwe danaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tirsim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:46.054021805Z",
+  "model": "glm-5.3"
+}

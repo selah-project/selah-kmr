@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ⟨את⟩ hemû gelê tevlihev, û ⟨את⟩ hemû keyên welatê Ûz, û ⟨את⟩ hemû keyên welatê Filistînan, û ⟨את⟩ Aşkelon, û ⟨את⟩ Gazayê, û ⟨את⟩ Eqron, û ⟨את⟩ mayîna Aşdodê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû gelê tevlihev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "gelê tevlihev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû keyên welatê Ûz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "keyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Ûz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû keyên welatê Filistînan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "keyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistînan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Aşkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aşkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Gazayê"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gazayê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Eqron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Eqron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mayîna Aşdodê"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "mayîna"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Aşdodê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:59:55.876058471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Şûna bavên te dê kurên te bibin; wan dê li seranserê hemû erdê bidî serweran.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Şûna"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bavên te"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dê bibin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "kurên te"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "wan bidî"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "serweran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li seranserê hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:50.388897969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ji jor ve bi sedran hatibû girtin, li ser hêlên alî yên li ser stûnan — çil û pênc,înozdeh li her rêzekê.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "û hatibû girtin"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "bi sedran"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ji jor ve"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "hêlên alî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "stûnan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "û pênc"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "rêzekê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:09.746486355Z",
+  "model": "glm-5.3"
+}

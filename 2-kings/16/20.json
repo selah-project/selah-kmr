@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Achaz bi bavên xwe re radiza û bi bavên xwe re li bajarê Dawid hate veşartin, û Chizkiyahu kurê wî şûna wî bû şah.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "radiza"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "hate veşartin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "li bajarê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "şah bû"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:10.433378842Z",
+  "model": "glm-5.3"
+}

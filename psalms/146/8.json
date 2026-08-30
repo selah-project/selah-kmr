@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 146,
+  "translation": "Yahwe çavên koran vedike, Yahwe xwarkirî rûnî dike, Yahwe rastgeran hez dike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "çavên ... vedike"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "koran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "rûnî dike"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "xwarkirî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hez dike"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastgeran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:17.726011337Z",
+  "model": "glm-5.3"
+}

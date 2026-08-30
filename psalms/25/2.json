@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Elohîm ê min, min di te de spêde kiriye; nebe ku ez rûşyam, nebe ku dijminên min li ser min keyf bikin.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm ê min"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "min spêde kiriye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nebe ku"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ez rûşyam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nebe ku"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "keyf bikin"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:52.502141104Z",
+  "model": "glm-5.3"
+}

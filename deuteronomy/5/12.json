@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Roja Şabatê biparêze ku wê pîroz bikî, wek ku Yahwe, Elohîmê te, fermanî te kiriye.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roja"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabatê"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ku wê pîroz bikî"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wek ku"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "fermanî te kiriye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:50.043115097Z",
+  "model": "glm-5.3"
+}

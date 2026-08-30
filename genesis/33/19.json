@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 33:19",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û ew ⟨את⟩ beşa zeviyê ku konê xwe li wir danibû, ji destê kurên Chamor, bavê Şekem, bi sed kesîta kirî.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "kirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beşa zeviyê"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "beşa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "danibû"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "konê xwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "bi sed"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "kesîta"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:31.158088085Z",
+  "model": "glm-5.3"
+}

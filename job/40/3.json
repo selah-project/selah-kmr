@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û Eyûb bersiv da ⟨את⟩ Yahwe û got:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Eyûb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-30T06:01:15.882231012Z",
+  "model": "glm-5.3"
+}

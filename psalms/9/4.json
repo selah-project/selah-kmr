@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Dema ku dijminên min êdî paşve vegerin, ew ê bidarîkên û ji ber rûyê te winda bibin.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "dema ku ... paşve vegerin"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "êdî paşve"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ew ê bidarîkên"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "û ... winda bibin"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ji ber rûyê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:15.155810278Z",
+  "model": "glm-5.3"
+}

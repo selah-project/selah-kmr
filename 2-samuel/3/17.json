@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Peyva Avnerê bi kal û pîreyên Îsraêl re bû, ku: «Duh û beriya du rojan hûn ⟨את⟩ Dawid wek key li ser xwe dixwestin.»",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Peyva"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerê"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kal û pîreyên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "her"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "duh û beriya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "her"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "du rojan"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "dixwestin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wek key"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "li ser xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:49:50.700762053Z",
+  "model": "glm-5.3"
+}

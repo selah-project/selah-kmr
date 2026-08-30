@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Di Yahwe de şad bin, rastdar, bi keyf bilibin, û hemû yên dilê wan rast e ranayîn bikin!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "şad bin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe de"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "bi keyf bilibin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "ranayîn bikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "yên dilê wan rast e"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:25.109020707Z",
+  "model": "glm-5.3"
+}

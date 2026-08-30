@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Hemû ji rêya rast derketin, bi hev re xirab bûn; kiriyarê qencîyê tune ye, ji bilî yekî jî tune ye.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ji rêya rast derketin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "xirab bûn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune ye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiriyarê"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qencîyê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune ye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekî jî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:00.954580039Z",
+  "model": "glm-5.3"
+}

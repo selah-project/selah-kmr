@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 15:9",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Wî li ber çavên Yahwe xerabî kir, wek bavên wî kiribûn; wî ji gunehên Yarobeam kurê Nevat, yê ku Yisrael ⟨את⟩ kir gunehkar, ne qut kir.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kir"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "li ber çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wek"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "qut kir"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "ji gunehên"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "gunehkar kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-30T05:04:23.674243737Z",
+  "model": "glm-5.3"
+}

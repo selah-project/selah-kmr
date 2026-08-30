@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û zarokên Yisraêl ji mîratiya xwe da Lewiyan, gorî fermana Yahwe — ⟨את⟩ van bajaran û ⟨את⟩ zozanên wan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Û ... da"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewiyan"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "ji mîratiya xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gorî"
+    },
+    {
+      "surface": "פי",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van bajaran"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zozanên wan"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "zozanên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:50.379084516Z",
+  "model": "glm-5.3"
+}

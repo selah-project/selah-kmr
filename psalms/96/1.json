@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Ji bo Yahwe stranekê bibêjin, straneke nû; ji bo Yahwe bibêjin, hemû erd.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:25.405328726Z",
+  "model": "glm-5.3"
+}

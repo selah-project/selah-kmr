@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û hemû zanan ên ku ⟨את⟩ hemû karê pîroziyê dikirin, ji karê xwe yê ku dikirin, yek ji yek hatin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "zanan"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "dikirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû karê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "karê"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroziyê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ji yek"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "ji karê xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "dikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:17.925826094Z",
+  "model": "glm-5.3"
+}

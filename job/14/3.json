@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ê din, li ser vê yekê çavên xwe vedikî, û ⟨את⟩ min bi dozê re digihînî xwe?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ê din"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vê yekê"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "(çavên xwe) vedikî"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "çavên te"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "digihînî"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "bi dozê re"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:44.837347129Z",
+  "model": "glm-5.3"
+}

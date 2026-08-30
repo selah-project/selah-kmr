@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ew ji kurên xwe re got: \"Kerhê ⟨את⟩ ji min re bibînin.\" Wan kerhê ji wî re biband, û ew siwarê wî bû.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ew got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "bibînin (biband)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "kerhê"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "wan biband"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "kerhê"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "û ew siwar bû"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "serê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:36.371041452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Ez bêhêz bûm û heta awayî hatime şikandin; ji hêsîra dilê min ez heyam.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "ez bêhêz bûm"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "û hatime şikandin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "awayî"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ez heyam"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ji hêsîra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:40.375029591Z",
+  "model": "glm-5.3"
+}

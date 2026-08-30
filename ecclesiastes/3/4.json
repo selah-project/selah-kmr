@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Dem ji bo girînê, û dem ji bo kenînê; dem ji bo sînewanê, û dem ji bo govendê.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ji bo girînê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ji bo kenînê"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ji bo sînewanê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ji bo govendê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:32.999269373Z",
+  "model": "glm-5.3"
+}

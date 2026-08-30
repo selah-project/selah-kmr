@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Êmin jî ê çavê xwe nesparim û ê dilovanî nekim; ez ê rêya wan li serê wan danînim.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "êmin jî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "êsparim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavê xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û … na"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "dilovanî bikim"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "rêya wan"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "li serê wan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "danînim"
+    }
+  ],
+  "timestamp": "2026-08-30T03:44:10.836881795Z",
+  "model": "glm-5.3"
+}

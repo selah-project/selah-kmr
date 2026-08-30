@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Hûn bûne şahidê tiştê ku min bi Mîtsrayimê kir, û min hûn li ser bal a bazinan hildan, û min hûn birin bal xwe.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Hûn"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "bûne şahidê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min kir"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "bi Mîtsrayimê"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "min hildan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hûn",
+      "marks": "hûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "bal a"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "bazinan"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "min birin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hûn",
+      "marks": "hûn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bal xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:46.573459799Z",
+  "model": "glm-5.3"
+}

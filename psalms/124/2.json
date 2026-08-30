@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 124,
+  "translation": "Ger Yahwe nebûya ku ⟨bûya⟩ ji bo me, dema ku mirov li ser me rabûn,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ger…nebûya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bûya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji bo me"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "dema ku…rabûn"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "li ser me"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:52.668907518Z",
+  "model": "glm-5.3"
+}

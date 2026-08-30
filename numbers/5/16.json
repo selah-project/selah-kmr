@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û kâhin ⟨את⟩ wê nêzîk kir û wê berî Yahwe rawestand.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "û nêzîk kir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "û rawestand"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:40:30.271571396Z",
+  "model": "glm-5.3"
+}

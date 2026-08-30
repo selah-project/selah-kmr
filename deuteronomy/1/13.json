@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 1:13",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji bo xwe mêrên bijîrek, têgihîştî û naskirî ji êlên xwe hilbijêrin, û ez ê wan bikim serê we.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "hilbijêrin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bijîrek"
+    },
+    {
+      "surface": "ונבנים",
+      "gloss": "têgihîştî"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "û naskirî"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "ji êlên xwe"
+    },
+    {
+      "surface": "ואשימם",
+      "gloss": "û ez ê wan bikim"
+    },
+    {
+      "surface": "בראשיכם",
+      "gloss": "serê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:16.173696306Z",
+  "model": "glm-5.3"
+}

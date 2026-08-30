@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "û efsûnbêjê efsûnê, û yê ku ji canê dipirse, û zanayê canan, û yê ku ji miriyan dipirse.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "û efsûnbêjê"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "efsûnê"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "û yê ku dipirse"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ji canê"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "û zanayê canan"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "û yê ku lê digere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "miriyan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:06:06.907388113Z",
+  "model": "glm-5.3"
+}

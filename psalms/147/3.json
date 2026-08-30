@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "⟨Ew⟩ dilşikestîyan şînda dike, birînên wan dipêçe.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "şînda dike"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "şikestî"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "dipêçe"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "birînên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:22.040315328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 75,
+  "translation": "Û ez ê heta hetalê diyar bikim, ez ê ji bo Elohîmê Yaqûb stranan bêjim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Û ez"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "diyar bikim"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "heta hetalê"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "stran dibêjim"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ji bo Elohîmê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:40.464819896Z",
+  "model": "glm-5.3"
+}

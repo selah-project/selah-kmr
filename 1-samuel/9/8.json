@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 9:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û xulam dîsa bersivê da ⟨את⟩ Şaul û got: \"Binêre, çaryek şeqel zîv di destê min de tê dîtin; ez ê wê bidim mêrê Elohîm, û ew ê ⟨את⟩ rêya me nîşanî me bide.\"",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "xulam"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "bersivê da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Binêre"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tê dîtin"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "di destê min de"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "çaryek"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şeqel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "nîşanî me bide"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rêya me"
+    },
+    {
+      "surface": "דרכנו",
+      "gloss": "rêya me"
+    }
+  ],
+  "timestamp": "2026-08-29T19:39:15.213803964Z",
+  "model": "glm-5.3"
+}

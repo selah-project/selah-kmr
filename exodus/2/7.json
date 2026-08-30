@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Xwîska wî ji keça Paroh re got: «Çawa ye, ez herim û ji te re jinikeke şîrmêd ji Ivriyan bînim, da ku ⟨את⟩ zarok ji te re şîr bide?»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "xwîska wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji... re"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "çawa ye, ez herim"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "û bînim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jinikeke"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "şîrmêd"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Ivriyan"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "şîr bide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarok"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarok"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:03.481130746Z",
+  "model": "glm-5.3"
+}

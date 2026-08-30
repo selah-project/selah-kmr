@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Ji ber ku tu, Adonay, baş û bexşendekar î, û xesedê te yê mezin ji bo hemû yên ku gazî te dikin heye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "û bexşendekar"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û yê mezin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "yên ku gazî te dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.242876779Z",
+  "model": "glm-5.3"
+}

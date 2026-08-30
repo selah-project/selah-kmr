@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Yûsif xewnek dît û ⟨את⟩ ji birayên xwe re got, û wan zêde bû ku hîn bêhtir ji wî nefret bikin.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "xewnek dît"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yûsif"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "xew"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "got"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ji birayên xwe re"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "zêde bûn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn bêhtir"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nefret bikin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:11.132896848Z",
+  "model": "glm-5.3"
+}

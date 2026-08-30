@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Û netewe dê ⟨את⟩ navê Yahwe bitirsin, û hemû şahên erdê jî ⟨dê⟩ ⟨את⟩ şêwaziya te ⟨bitirsin⟩.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Û … dê bitirsin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "şahên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şêwaziya te"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "şêwaziya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:14.234375538Z",
+  "model": "glm-5.3"
+}

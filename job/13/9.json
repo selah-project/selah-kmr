@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ma qenc e ku ew ⟨את⟩ we bi lêkolîn bigere? An wekî îstihzakirina mirovî, hûn îstihza bi wî dikin?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Ma qenc e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "bi lêkolîn bigere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אם",
+      "gloss": "An"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "wekî îstihzakirina"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "mirovî"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "hûn îstihza dikin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bi wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:38.722312158Z",
+  "model": "glm-5.3"
+}

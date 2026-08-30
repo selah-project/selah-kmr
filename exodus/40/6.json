@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û tu dê ⟨את⟩ mizbexa qurbana sotî li pêşya deriyê meşkana çadira civînê deyî.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "û tu dê … deyî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbexa qurbana sotî"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbex"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana sotî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêşya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "derî"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "meşkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:47.762402090Z",
+  "model": "glm-5.3"
+}

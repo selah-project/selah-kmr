@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û yên hatine jimartin ên malbatên kurên Merarî, li gorî malbatên xwe, li gorî malên bavên xwe.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "û yên hatine jimartin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarî"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên xwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "li gorî malên"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:38.735541082Z",
+  "model": "glm-5.3"
+}

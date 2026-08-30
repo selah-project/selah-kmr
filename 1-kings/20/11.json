@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û keyê Îsraêl bersiv da û got: «Bibêjin: yê ku kembera xwe girêdide bila wekî yê ku wê vedike xwe bilind neke.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bila… ne"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "xwe bilind neke"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "yê ku kembera xwe girêdide"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "wekî yê ku vedike"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:33.094506722Z",
+  "model": "glm-5.3"
+}

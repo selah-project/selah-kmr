@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Kurên Yehûda li gorî malbatên xwe bûn: ji Şelah malbata Şelanî; ji Perets malbata Partsî; ji Zerah malbata Zerhî.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Kurên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên xwe"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "ji Şelah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Şelanî"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "ji Perets"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Partsî"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "ji Zerah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerhî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:51:32.614059270Z",
+  "model": "glm-5.3"
+}

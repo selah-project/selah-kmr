@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Şîreta Yahwe hertim raweste, ramanên dilê wî ji nifşekî heta nifşekî.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "şîreta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "raweste"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ramanên"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşekî"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşekî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:11.762489703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Gotina te gelek zelal bêye helandin, û xulamê te wê hez dike.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "bêye helandin"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "gotina te"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "û xulamê te"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "hez dike wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:10.115806418Z",
+  "model": "glm-5.3"
+}

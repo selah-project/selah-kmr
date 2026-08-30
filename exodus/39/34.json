@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "⟨את⟩ rûpûşa çermên bizinan yên sorkirî, ⟨את⟩ rûpûşa çermên tehaşî û ⟨את⟩ perdeya pêrdiya çadirê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûpûşa çermên bizinan"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "rûpûşa"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "çermên"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "yên sorkirî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûpûşa çermên tehaşî"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "rûpûşa"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "çermên"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tehaşî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "perdeya pêrdiyê"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perdeya"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "pêrdiya çadirê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:12.188634760Z",
+  "model": "glm-5.3"
+}

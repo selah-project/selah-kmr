@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ev peyv li ber çavên Adonay xweş bû, ku Şelomo ⟨את⟩ vê peyvê xwestî bû.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "xweş bû"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ev peyv"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "li ber çavên"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "xwestî bû"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê peyvê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyvê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:21.093574110Z",
+  "model": "glm-5.3"
+}

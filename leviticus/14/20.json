@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û kahîn dê ⟨את⟩ qurbana-şewatê û ⟨את⟩ pêşkeşa-arvan li ser altorê bilind bike, û kahîn dê ji bo wî kiper bike û ew dê pak bibe.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Û dê … bilind bike"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana-şewatê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana-şewatê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "pêşkeşa-arvan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pêşkeşa-arvan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser altorê"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "û dê kiper bike"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "û dê pak bibe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:19.721040806Z",
+  "model": "glm-5.3"
+}

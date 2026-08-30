@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Hema bi kêmasî ez dijminên wan serkutî bikirana, û li dijî zilmeke-wan destê xwe bizivirînama.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Hema bi kêmasî"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dijminên wan"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "serkutî bikirana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li dijî"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "zilmeke-wan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "bizivirînama"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:58.101353048Z",
+  "model": "glm-5.3"
+}

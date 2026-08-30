@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Ez ê reva xwe bilezînim — ji ba yê hovîn, ji tofanê.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "bilezînim"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "rev"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ji ba"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "yê hovîn"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "ji tofanê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:24.732363016Z",
+  "model": "glm-5.3"
+}

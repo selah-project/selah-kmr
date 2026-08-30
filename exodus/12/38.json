@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û komelekî tevliheval jî bi wan re bilind bû, û pez û ga — dewarên pir giran.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Û ... jî"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "komelekî tevliheval"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bi wan re",
+      "marks": "komelekî tevliheval bi wan re"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "û pez"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "û ga"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "dewar"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "giran"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:09.215960236Z",
+  "model": "glm-5.3"
+}

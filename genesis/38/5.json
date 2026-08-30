@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û dîsa zêde kir û kurekî çê kir û navê wî Şela kirîye; ew li Kzîb bû, dema ku ew ew çê kir.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "zêde kir"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "çê kir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurekî"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nav kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Şela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ew bû"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "li Kzîb"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "dema ku çê kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:10.774768731Z",
+  "model": "glm-5.3"
+}

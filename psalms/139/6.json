@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Ew zanîn ji bo min ecêb e, ji bilindahiyê hatiye bilindkirin, ez nikarim wê bigihîjim.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ecêb"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanîn"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "hatiye bilindkirin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ez dikarim"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:04.609382749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "⟨את⟩ rojê ji bo hukimkirina rojê, ji ber ku xesedê wî heta dawiyê ye.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rojê"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ji bo hukimkirina"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:00.030056287Z",
+  "model": "glm-5.3"
+}

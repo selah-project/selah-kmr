@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 99,
+  "translation": "Yahwe, Elohîmê me, tu bersivê da wan; Êlê biborîne tu bû yî ji wan re û tol-hildêr li ser kirinên wan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "bersivê da wan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ê biborîne"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu bû yî"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "û tol-hildêr"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "kirinên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:28.152462007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Çunkî ger tu bi rastî dengê wî bibihîzî û her tiştê ku ez dibêjim bikî, ez ê ⟨את⟩ dijminên te bidijminim û ⟨את⟩ dijberên te bêdeng bikim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çunkî"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bi rastî (bihîzî)"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "bibihîzî"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "dengê wî"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "û bikî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ez dibêjim"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "û ez ê bidijminim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijminên te"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dijminên te"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "û bêdeng bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijberên te"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dijberên te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:34.184460587Z",
+  "model": "glm-5.3"
+}

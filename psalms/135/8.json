@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Ku ⟨ew⟩ yê ewilî-jidayikbûyî yên Mîtsrayimê liband, ji mirovan heta ajalan.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "ku liband"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "yê ewilî-jidayikbûyî yên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ji mirovan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ajalan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:27.624543356Z",
+  "model": "glm-5.3"
+}

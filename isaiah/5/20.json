@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Way ji wan ku ji xerabiyê re dibêjin 'baş' û ji başî 'xerab'; yên ku tarîtî ji bo ronahiyê û ronahî ji bo tarîtiyê datînin; yên ku tal ji bo şîrîn û şîrîn ji bo tal datînin.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Way"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ji wan ku dibêjin"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ji xerabiyê re"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "û ji bo başî"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "datînin"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarîtî"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ji bo ronahiyê"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "û ronahî"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "ji bo tarîtiyê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "datînin"
+    },
+    {
+      "surface": "מר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "ji bo şîrîn"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "û şîrîn"
+    },
+    {
+      "surface": "למר",
+      "gloss": "ji bo tal"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:56.819075051Z",
+  "model": "glm-5.3"
+}

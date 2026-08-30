@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Dê li aliyê te yê çepê hezar kesin bikevin, û deh hezar li aliyê te yê rastê — lê nêzîkî te nabe.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "dê bikevin"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "li aliyê te yê çepê"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar kesin"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "û deh hezar"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "li aliyê te yê rastê"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nêzîkî te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "nabe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:32.575694904Z",
+  "model": "glm-5.3"
+}

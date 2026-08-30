@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Firîşteya Yahwe ji bo yên ku ditirsin ji wî li dora wan kanêdar dike, û wan felat dike.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "kanêdar dike"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "firîşteya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ji bo yên ku ditirsin ji wî"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "û wan felat dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:22.113903225Z",
+  "model": "glm-5.3"
+}

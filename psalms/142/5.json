@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 142,
+  "translation": "Li milê rastê ya min binêre û bibîne, çimkî nasdarekî ji bo min tune ye; reva ji min winda bûye; ji bo canê min lêgerînvan tune ye.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "milê rastê"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "û bibîne"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune ye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "nasdar"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "winda bû"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "rev"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune ye"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "lêgerînvan"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ji bo canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:27.872953313Z",
+  "model": "glm-5.3"
+}

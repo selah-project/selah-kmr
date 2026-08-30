@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ew ji wan re got: \"Yahwe bila wusa bi we be, wekî ku ez ⟨את⟩ we û ⟨את⟩ zarokên we bişînim; binêrin, çinku xerabî li ber rûyê we ye.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ew got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bila be"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bi we"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ez bişînim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zarokên we"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "zarokên we"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "binêrin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "rûyê we"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:41.563867164Z",
+  "model": "glm-5.3"
+}

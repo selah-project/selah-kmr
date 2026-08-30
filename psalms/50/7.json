@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Bihîze, gelê min, û ez ê biaxivim; Îsraêl, û ez ê li ser te şahidî bikim: Elohîm, Elohîmê te, ez im.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Bihîze"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "û ez ê biaxivim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "û ez ê şahidî bikim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez im"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:37.646548356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û ⟨את⟩ kincên ketenê spî, karê rêsaziyê, ji bo Aharon û ji bo kurên wî çêkirin.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincên ketenê spî"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kincên"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ketenê spî"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karê"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "rêsaziyê"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "û ji bo kurên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:38.356108951Z",
+  "model": "glm-5.3"
+}

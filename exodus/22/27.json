@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Elohîm qet nexirînit, û serokekî ji gelê xwe qet ne`nifirînit.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qet ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "nexirînit"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "û serokekî"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ji gelê xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qet ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ne`nifirînit"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:20.569235326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 121,
+  "translation": "Alîkariya min ji Yahwe tê, çêkerê ezman û erdê.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "alîkariya min"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkerê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "ו ארץ",
+      "gloss": "û erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:42.964629298Z",
+  "model": "glm-5.3"
+}

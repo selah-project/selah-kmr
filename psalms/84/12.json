@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Ji ber ku roj û perde Yahwe Elohîm ⟨in⟩; dilovanî û rûmetê Yahwe dide; tişteke baş ji yên di tehmî de diçin naparêze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "û perde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "חן",
+      "gloss": "dilovanî"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "û rûmet"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "naparêze"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tişteke baş"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "ji yên diçin"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "di tehmî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:13.898792736Z",
+  "model": "glm-5.3"
+}

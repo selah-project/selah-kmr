@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Bila ezman û erd pesnê wî bidin, deryan û hemû tiştên ku di wan de dilivin.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "bila pesnê wî bidin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "û erd"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "deryan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "tiştên ku dilivin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:05.577362380Z",
+  "model": "glm-5.3"
+}

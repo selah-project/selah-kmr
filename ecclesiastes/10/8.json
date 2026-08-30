@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Yê ku çalekê diçelîne, tê de dikeve; û yê ku dîwêrê dirêşîne, mar wî gez dike.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "yê ku diçelîne"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "çalekê"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "dikeve"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "û yê ku dirêşîne"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "dîwêrê"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "gez dike wî"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mar"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:05.076290180Z",
+  "model": "glm-5.3"
+}

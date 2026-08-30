@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Hêza min wekê xerap bûye pêrekî axê; zimanê min çewisî ye; û ez danîne çêla mirinê.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "xerap bûye"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "wekê pêrekî axê"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Hêza min"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "zimanê min"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "çewisî ye"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "(ji bo çewisandinê)"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "û çêla"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirinê"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ez danîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:28.435809517Z",
+  "model": "glm-5.3"
+}

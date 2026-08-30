@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 142,
+  "translation": "Maşkîlê Dawid, dema ew di şikeftê de bû — duayeke.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maşkîlê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "dema ew ... bû"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di şikeftê de"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "duayeke"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:18.678600606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Hijmartî yên wan ji bo êla Gad çil û pênc hezar û şeş sed û pêncî bûn.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "hijmartî yên wan"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ji bo êla"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "û çil"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "û pêncî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:32.293298040Z",
+  "model": "glm-5.3"
+}

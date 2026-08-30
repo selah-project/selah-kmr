@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Û zeviyan çand û rezan çand û berên berdar dan.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "û … çand"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "zeviyan"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "û … çand"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "rezan"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "û … dan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "berên"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "berdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.933628996Z",
+  "model": "glm-5.3"
+}

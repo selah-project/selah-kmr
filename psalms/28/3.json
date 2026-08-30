@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Nehêde ku ez bi bedanan re, bi kedsazên xerabiyê were kişandin; yên bi cîranên xwe re aştî diaxivin, lê di dilên xwe de xerabî heye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "nehêde ku ez were kişandin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bedanan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi … re"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kedsazên"
+    },
+    {
+      "surface": "און",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "diaxivin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "cîranên xwe"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "û xerabî"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "di dilên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:11.635688779Z",
+  "model": "glm-5.3"
+}

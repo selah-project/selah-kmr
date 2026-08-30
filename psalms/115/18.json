@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Lê em — em ê Yah dyaribin, ji niha û vir de heta hertimî. Yah bilîzin!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Lê em"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "em ê dyaribin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ji niha û vir de"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bilîzin!"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:14.829100191Z",
+  "model": "glm-5.3"
+}

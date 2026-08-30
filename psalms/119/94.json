@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez ê ⟨te⟩ me — min rizgar bike, çimkî ez fermanên te lê gerandine.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ê te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "min rizgar bike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "min lê gerand"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:05.355465596Z",
+  "model": "glm-5.3"
+}

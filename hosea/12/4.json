@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Di zik de ⟨את⟩ birayê xwe li pêy girt, û di hêza xwe de bi Elohîm re serkeftin bi dest xist.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "di zik de"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "li pêy girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayê xwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "û di hêza xwe de"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "serkeftin bi dest xist \/ şer kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bi ... re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:20.509643953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û tu dê fermanî ⟨את⟩ zarokên Îsraêlî bikî ku ji te re rûnê zeytê yê paqij ê lêdanî bînin, bo ronahiyê, da ku çira hertim bê pêxistin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Û tu"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "dê fermanî … bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên Îsraêlî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ku … bînin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytê"
+    },
+    {
+      "surface": "זך",
+      "gloss": "yê paqij"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ê lêdanî"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "bo ronahiyê"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "da ku … bê pêxistin"
+    },
+    {
+      "surface": "נר",
+      "gloss": "çira"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:53.461490058Z",
+  "model": "glm-5.3"
+}

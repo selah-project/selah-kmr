@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ji ber ku ne bi şûrê xwe welat bi dest xist û ne jî milê wan wan rizgar kir; lê destê te yê rast, milê te û roniya rûyê te — ji ber ku tu ji wan razî bû.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "bi şûrê xwe"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "bi dest xist"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "û ne jî milê wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "rizgar kir"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "destê te yê rast"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "û milê te"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "û roniya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "tu ji wan razî bû"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:37.808966261Z",
+  "model": "glm-5.3"
+}

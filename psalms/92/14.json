@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Ên ku di mala Yahwe de hatine rêbirin, di baxçeyên Elohîmê me dê şîn bidin.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "hatine rêbirin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di baxçeyên"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "dê şîn bidin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:54.907353789Z",
+  "model": "glm-5.3"
+}

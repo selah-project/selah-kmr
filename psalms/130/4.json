@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 130,
+  "translation": "Ji ber ku li cem te bexşandin ⟨heye⟩, da ku tu bên tirsin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "li cem te"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "bexşandin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "tu bên tirsin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:44.156188572Z",
+  "model": "glm-5.3"
+}

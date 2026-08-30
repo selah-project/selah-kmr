@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û wî li ser hespan bar kirin û wî ⟨את⟩ bi kal û bavên wî re, di bajêrê Yehudah de, veşartin.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "wî bar kirin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hespan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "veşartin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kal û bavên wî"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajêrê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-30T06:51:34.994225498Z",
+  "model": "glm-5.3"
+}

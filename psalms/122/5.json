@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 122,
+  "translation": "Ji ber ku li wir kursiyên dadweriyê rûniştine, kursî ji bo mala Dawid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "rûniştine"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "kursiyên"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "dadweriyê"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "kursî"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ji bo mala"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:36.425715842Z",
+  "model": "glm-5.3"
+}

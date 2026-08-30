@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Hîn di kalîniyê de fêkî didin, têr û hêşinî dibin.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "fêkî didin"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "di kalîniyê de"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "têr"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "û hêşinî"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:54.907504939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û tu ⟨את⟩ wê bi zêrê pak bipêçî — ji hundir û ji der ve tê bipêçî — û li ser wê zîvorekî zêrî dorbidor çêkî.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Û tu bipêçî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (sandiqê)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pak"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji hundir"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "û ji der ve"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "tê bipêçî"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "Û tu çêkî"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zîvorekî"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrî"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dorbidor"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:03.973363667Z",
+  "model": "glm-5.3"
+}

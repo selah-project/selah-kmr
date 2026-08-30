@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 82,
+  "translation": "Nizanin û nefêmin; di tarîtiyê de digerin: hemû bingehên erdê dihejin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nizanin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "nefêmin"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "di tarîtiyê de"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "digerin"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "dihejin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "bingehên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:54.725805242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yahwe dê zimanê deryaya Mîtsrayim ⟨את⟩ bi tevahî wêran bike, û bi tirsandina ba xwe dê destê xwe li ser çemê bitewitîne, û wê lê bide û bike heft newal, û mirovan bi pêlavan lê dimeşîne.",
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "dê bi tevahî wêran bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimanê deryaya Mîtsrayim"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "zimanê"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryaya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "û dê bitewitîne"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "çemê"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "bi tirsandina"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ba xwe"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "û wê lê bide"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "bo heft"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "newalan"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "û mirovan dimeşîne"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "bi pêlavan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:16.499717706Z",
+  "model": "glm-5.3"
+}

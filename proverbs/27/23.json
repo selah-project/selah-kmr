@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Baş bizane rûyê kerihên xwe, dilê xwe bide çêlan.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "bizane"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "baş bizane"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "kerihên te"
+    },
+    {
+      "surface": "שית",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dilê te"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "çêlan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:45.965577361Z",
+  "model": "glm-5.3"
+}

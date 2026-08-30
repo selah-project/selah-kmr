@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Moşe ⟨את⟩ wan ferman kir, gotê: “Di dawiya heft salan, di dema xwerûyî (mohreya) salera berdanê de, di cejna Sûkotan de,”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotê"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "di dawiya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "di dema xwerûyî de"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "salera"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "berdanê"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "di cejna"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sûkotan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:12:28.125938023Z",
+  "model": "glm-5.3"
+}

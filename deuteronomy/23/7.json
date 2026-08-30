@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Aştîya wan û qenciya wan naxwaze, hemû rojên te, heta herdemî.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "naxwaze"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "aştîya wan"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "û qenciya wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "rojên te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta herdemî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:08:24.151835013Z",
+  "model": "glm-5.3"
+}

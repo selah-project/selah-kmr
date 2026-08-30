@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Deriyên rastiyê ji min re vekin, ez ê têkevim nav wan, ez ê Yah spas bikim.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "vekin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ez ê têkevim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nav wan"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ez ê spas bikim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:21.442338682Z",
+  "model": "glm-5.3"
+}

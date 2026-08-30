@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Şaul mir, û sê kurên wî, û tevahiya malbata wî — bi hev re mirin.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "malbata wî"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mirin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:27.710838298Z",
+  "model": "glm-5.3"
+}

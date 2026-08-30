@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Elohîm Nuh bi bîr anî, û ⟨את⟩ hemû canewerên zindî û ⟨את⟩ hemû dewarên ku bi ⟨את⟩-wî re di kelekê de bûn; Elohîm bayekî ser erdê şand derbas bike û av kêm bûn.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "bi bîr anî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nuh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû canewerên zindî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canewerên zindî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû dewaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dewaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bi ⟨את⟩-wî re"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "di kelekê de"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "şand derbas bike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bayekî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "kêm bûn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:41.130574968Z",
+  "model": "glm-5.3"
+}

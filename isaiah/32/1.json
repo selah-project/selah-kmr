@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Wê bigihîje! Bi rastîkeyê keyekî padîşahî bike, û bi biryarê (mişpetê) serokekî hukim bikin.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Wê bigihîje!"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "bi rastîkeyê"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "padîşahî bike"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyekî"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "û serokekî"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "bi biryarê"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "hukim bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:22.538094576Z",
+  "model": "glm-5.3"
+}

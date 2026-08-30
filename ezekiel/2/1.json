@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Wî ji min re got: Kurê mirov, li ser lingên xwe rabe, û ez ê biaxivim ⟨את⟩ te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurmê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "lingên te"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ez ê biaxivim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    }
+  ],
+  "timestamp": "2026-08-30T03:42:04.515117796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Nefesa min bihêle parisîyê, û rizgar bike min; nehêle ez şerm bikim, çimkî ez xwe spartiye te.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "bihêle parisîyê"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesa min"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "û rizgar bike min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nehêle"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ez şerm bikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ez xwe spartiye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:45.989021419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Çimkî kur rûreşî bavê xwe dike, keç radibe li dijî diya xwe, bûk li dijî xêzûra xwe; dijminên mêrî, mêrên mala wî ne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "rûreşî dike"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keç"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "radibe"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "li dijî diya xwe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bûk"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "li dijî xêzûra xwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrî"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî ne"
+    }
+  ],
+  "timestamp": "2026-08-30T04:11:42.079852048Z",
+  "model": "glm-5.3"
+}

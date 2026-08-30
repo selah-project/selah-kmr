@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Bi lêvên xwe min hemû hukmên devê te hesibandin\/dabar kirin.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "bi lêvên xwe"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "min hesibandin\/dabar kirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmên"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "devê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:08.340135680Z",
+  "model": "glm-5.3"
+}

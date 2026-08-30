@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û ⟨את⟩ rûnê meshê bistînin û wê li ser serê wî berdî û ⟨את⟩ wî bimeşînî.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "bistînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûnê meshê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "meshê"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "berdî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "serê wî"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "bimeşînî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:48.326044307Z",
+  "model": "glm-5.3"
+}

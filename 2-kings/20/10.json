@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 20:10",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Hizkiyay got: “Ji bo siya hêsan e ku bi de pileyan bilive; na, lê bila siya paş de de pileyan vegerê.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û … got"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "hêsan e"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "ji bo siya"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "bilive"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "pileyan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bila … vegerê"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "paş de"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "pileyan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:52.263040500Z",
+  "model": "glm-5.3"
+}

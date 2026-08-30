@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û niha here, û ez ê bi devê te re bim, û ez ê te hînî tiştê ku tu yê bibêjî bikim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ê … bim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "devê te"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "û ez ê te hînî … bikim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tu yê bibêjî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:29.114565191Z",
+  "model": "glm-5.3"
+}

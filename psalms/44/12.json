@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Tu me wekê miyzekî xwarinê dayî, û di nav gelan de belav kirî.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "tu me dayî"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "wekê miyzekî"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "xwarinê"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "û di nav gelan de"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "belav kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:56.274317573Z",
+  "model": "glm-5.3"
+}

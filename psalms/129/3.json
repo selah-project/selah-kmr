@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 129,
+  "translation": "Li ser pişta min cotkar cotiyan kirin, alîkên xwe dirêj kirin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "pişta min"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "cotiyan kirin"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "cotkar"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "dirêj kirin"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "alîkên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.178060947Z",
+  "model": "glm-5.3"
+}

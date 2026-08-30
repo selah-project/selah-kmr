@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 14:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Tu wê ev mesela serwiranî li ser keyê Babîlê hildî û bibêjî: Çawa sekinî zordar, çawa sekinî berhevkera zêrê!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "û hildî"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ev mesel"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîl"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "û bibêjî"
+    },
+    {
+      "surface": "איך",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sekinî"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "zordar"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "sekinî"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "berhevkera zêrê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:05.955212423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û tiştikê wî — navê wê Reûma bû — ew jî ⟨את⟩ Tebaḥ û ⟨את⟩ Gaḥam û ⟨את⟩ Taḥaş û ⟨את⟩ Maaka anî dinyayê",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Û tiştikê wî"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "navê wê"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reûma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "anî dinyayê"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebaḥ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Gaḥam"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaḥam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Taḥaş"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Taḥaş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:57.972269502Z",
+  "model": "glm-5.3"
+}

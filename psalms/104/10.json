@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Yê ku kanî di newalan dişîne — di nav çiyan re diherin.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "yê dişîne"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "kanî"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "di newalan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyan"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "diherin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:17.042523074Z",
+  "model": "glm-5.3"
+}

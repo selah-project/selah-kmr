@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Binêrin gelutan û temaşe bikin, emaze bibin û bi matmayî heyir bimînin; ji ber ku karekî di rojên we de tê kirin — we bawer nake ger were vegotin.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Binêrin"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gelutan"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "û temaşe bikin"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "û emaze bibin"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "bi matmayî heyir bimînin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "karekî"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tê kirin"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "di rojên we de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "bawer dikin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "were vegotin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:14:11.383525189Z",
+  "model": "glm-5.3"
+}

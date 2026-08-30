@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 150,
+  "translation": "Pesnê Yah bidin, pesnê Êl di pîroziya wî de bidin, pesnê wî di reqaîqê hêza wî de bidin.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pesnê…bidin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pesnê…bidin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "di pîroziya wî de"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pesnê wî bidin"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "di reqaîqê de"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "hêza wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.684150123Z",
+  "model": "glm-5.3"
+}

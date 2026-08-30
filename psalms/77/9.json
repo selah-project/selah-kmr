@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Qediya xesed ê Wî ji bo hertimî? Ma peyman ji nifşê heta nifşê têma?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "qediya"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ji bo hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesed ê wî"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "têma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "peyman"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:28.262639627Z",
+  "model": "glm-5.3"
+}

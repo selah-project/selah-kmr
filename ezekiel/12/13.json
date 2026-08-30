@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 12:13",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Êrê tora xwe li ser wî belav bikim û ew di toya min de were girtin; û ez ê ⟨את⟩ wî bînim Babilê, erda Kasdiyan, ⟨את⟩ û ⟨ew⟩ nebîne, û li wir bimire.",
+  "tokens": [
+    {
+      "surface": "וּפָרַשְׂתִּי",
+      "gloss": "belav bikim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tora min"
+    },
+    {
+      "surface": "רִשְׁתִּי",
+      "gloss": "tora min"
+    },
+    {
+      "surface": "עָלָיו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "וְנִתְפַּשׂ",
+      "gloss": "were girtin"
+    },
+    {
+      "surface": "בְּמְצֻדָתִי",
+      "gloss": "di toya min"
+    },
+    {
+      "surface": "וְהֵבֵאתִי",
+      "gloss": "ez bînim"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ wî",
+      "marks": "Babilê"
+    },
+    {
+      "surface": "בָּבֶלָה",
+      "gloss": "Babilê"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "כַּשְׂדִּים",
+      "gloss": "Kasdiyan"
+    },
+    {
+      "surface": "וְאוֹתָהּ",
+      "gloss": "⟨את⟩ û ⟨ew⟩"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "וְשָׁם",
+      "gloss": "û li wir"
+    },
+    {
+      "surface": "יָמוּת",
+      "gloss": "bimire"
+    }
+  ],
+  "timestamp": "2026-08-30T03:47:33.861278156Z",
+  "model": "glm-5.3"
+}

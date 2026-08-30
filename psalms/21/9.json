@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Destê te dê hemû dijminên te bibîne; rastika te dê yên ku ji te nefret dikin bibîne.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "dê bibîne"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dijminên te"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "rastika te"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "dê bibîne"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "yên ku ji te nefret dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:59.014542339Z",
+  "model": "glm-5.3"
+}

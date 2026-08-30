@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Binêre, agir ji ezmanan daket û ⟨את⟩ du şazdeyên pêncî yên yekem û ⟨את⟩ pêncîyên wan xwar; û êdî bila canê min di çavên te de biqîmet be.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "daket"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "û xwar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du şazdeyên pêncî yên yekem"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "şazdeyên"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "pêncî"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yên yekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pêncîyên wan"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "pêncîyên wan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "û êdî"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "biqîmet be"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di çavên te de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:16.218520056Z",
+  "model": "glm-5.3"
+}

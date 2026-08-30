@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ji ber ku ew ê min di konê xwe de veşêre, di roja xerabiyê de; ew ê min di veşartiya çadira xwe de veşêre; ew ê min li ser kevir bilind bike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "ew ê min veşêre"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "di konê de"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja de"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "wî min veşart"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di veşartiyê de"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "çadira wî"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "li ser kevir"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "wî min bilind kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:46.363794341Z",
+  "model": "glm-5.3"
+}

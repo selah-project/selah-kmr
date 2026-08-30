@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Rizgarî ji bedkaran dûr e, çimkî biryarên te negerrandine.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "dûr"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ji bedkaran"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "rizgarî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "biryarên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "negerrandine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:58.530485669Z",
+  "model": "glm-5.3"
+}

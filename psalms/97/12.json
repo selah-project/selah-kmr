@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Gelî sadiqan, di Yahwe de şad bibin û bi bîra pîroziya wî sipasdar bin.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "şad bibin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "gelî sadiqan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe de"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "û sipasdar bin"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "bi bîra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroziya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:35.849553124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Şeş ji navên wan li ser kevirekê, û ⟨את⟩ navên şeşên mayî li ser kevirê duyem, li gorî zayînên wan.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "ji navên wan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kevirekê"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "navên şeşên mayî"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navên"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "şeşên"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "mayî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kevirê"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "duyem"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "li gorî zayînên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:12.818583600Z",
+  "model": "glm-5.3"
+}

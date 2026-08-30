@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Bira bavê te û diya te bi dilşadî bin, û ya ku te anî dinya bi kêfê be.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bi dilşadî bin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "û diya te"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "û bi kêfê be"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ya ku te anî dinya"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:38.057270319Z",
+  "model": "glm-5.3"
+}

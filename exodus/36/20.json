@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ew ⟨את⟩ diranan ji bo stargehê çêkir, darên şîta, rastsekinî.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "û ew çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diranan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "diranan"
+    },
+    {
+      "surface": "لמשכן",
+      "gloss": "ji bo stargehê"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîta"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "rastsekinî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:35.778859237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û tu yê Lêwîyan ⟨את⟩ nêzîkî li ber çadira civînê bîne, û tu yê hemû civata zarokên Yisraêl ⟨את⟩ kom bike.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "û tu yê nêzîkî bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lêwîyan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêwîyan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "û tu yê kom bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû civata zarokên Yisraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:42:58.011595030Z",
+  "model": "glm-5.3"
+}

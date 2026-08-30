@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Kurmancî: Û ⟨את⟩ Patrusîm û ⟨את⟩ Kasluhîm — ji wan der Filistî û ⟨את⟩ Kaftorîm derketin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Patrusîm"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Kasluhîm"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhîm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Kaftorîm"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorîm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:10.003729281Z",
+  "model": "glm-5.3"
+}

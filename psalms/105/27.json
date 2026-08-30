@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Di nav wan de nîşanên wî bi cih anîn, û egerî di welatê Ham de.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "bi cih anîn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di nav wan de"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "(tiştên)"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "nîşanên wî"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "û egerî"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:03.041258841Z",
+  "model": "glm-5.3"
+}

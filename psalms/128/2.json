@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 128,
+  "translation": "Berhemê destên te — hûnê wê bixwin; çawa xweşbext î, û ji te re baş e.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "berhem"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "destên te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hûnê"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bixwin"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "çawa xweşbext î"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:14.540815490Z",
+  "model": "glm-5.3"
+}

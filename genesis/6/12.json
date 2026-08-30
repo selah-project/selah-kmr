@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Elohîm ⟨את⟩ erdî dît, û va ye, ew hatibû xerakirin; ji ber ku hemû kesên di ser laş de ⟨את⟩ rêya xwe li ser erdê xera kiribû.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdî"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdî"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va ye"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "hatibû xerakirin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "xera kiribû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kesên di ser laş de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rêya xwe"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rêya xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:16.817781554Z",
+  "model": "glm-5.3"
+}

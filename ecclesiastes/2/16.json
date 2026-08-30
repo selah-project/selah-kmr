@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji ber ku ji bo baqil, wekî sefîh, heta hertim bîranîn tune ye; berî ku rojên bê hemû tên jibîrkirin — û çawa baqil dimire, bi sefîh re!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bîranîn"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ji bo baqil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wekî … bi … re"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "sefîh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertim"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "berî ku \/ dema ku"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "bê"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "tên jibîrkirin"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "û çawa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dimire"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "baqil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "sefîh"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:21.915359769Z",
+  "model": "glm-5.3"
+}

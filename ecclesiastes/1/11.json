@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Bîranîna ên berê tune; û ji bo ên ku dê bên, ên paşerojê, bîranîn ⟨nabe⟩ bi wan re yên ku dê di paşerojê de bên.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bîranîn"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "ji bo ên berê"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û ji bo"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "ên paşerojê"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "dê bên"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nabe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨nabe⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bîranîn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "dê bên"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "di paşerojê de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:27.365055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û te min neda destê dijmin; lingên min di cihekî fireh da daniye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "te min neda"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "te ... daniye"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "di cihekî fireh da"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lingên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:06.507556441Z",
+  "model": "glm-5.3"
+}

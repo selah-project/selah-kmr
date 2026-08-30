@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Bi paqijan re paqijî nîşan didî, û bi xwartzan re xwartî nîşan didî.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "paqijî nîşan didî"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi… re"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "xwart"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "xwartî nîşan didî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:47.756993514Z",
+  "model": "glm-5.3"
+}

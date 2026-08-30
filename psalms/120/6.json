@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 120,
+  "translation": "Gelek maye canê min, bi dijmînê aştiyê re.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Gelek"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "maye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "…"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "dijmînê"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:52.377503178Z",
+  "model": "glm-5.3"
+}

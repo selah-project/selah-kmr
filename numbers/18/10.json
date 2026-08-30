@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Di pîroztîya pîrozîyan de wê bixwî; her nêr wê ⟨את⟩ bixwe; pîroz ê ji te re bibe.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Di pîroztîya"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pîrozîyan de"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "wê bixwî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nêr"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wê bixwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (pîroz)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ê ... bibe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:48:19.857624573Z",
+  "model": "glm-5.3"
+}

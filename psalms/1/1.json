@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Çawa bextiyar e ew mêrê ku ne di meşwere şaşiyan de çûye, û ne di rêya gunehkaran de rawestiya, û ne jî li cihê maskeran rûniştiye.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "çawa bextiyar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ew mêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "çûye"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "di meşwere"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şaşiyan"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "û di rêya"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunehkaran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "rawestiya"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "û li cihê"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "maskeran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûniştiye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:42.731357047Z",
+  "model": "glm-5.3"
+}

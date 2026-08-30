@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ez ê ji Eloha bibêjim: min sûcdar neke; nîşanî min bide ka tu çima li ser min doz dikî.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "bibêjim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "min sûcdar neke"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "nîşanî min bide"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ka çima"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "li ser min doz dikî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:13.499332634Z",
+  "model": "glm-5.3"
+}

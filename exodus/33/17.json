@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Yahwe ji Moşe re got: Ev gotar jî — ya ku te gotî — ezê ⟨את⟩ê bikim, ji ber ku te di çavên min de xelat dîtiye û ez te bi navê nas dikim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev gotar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gotar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "te gotî"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ezê bikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "te dîtiye"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xelat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên min de"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "ez te nas dikim"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:16.711938326Z",
+  "model": "glm-5.3"
+}

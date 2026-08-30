@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Darikên ji darê şîtê çê bikî û wan bi zêr bipêçî.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "çê bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darikên"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "darikên"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ji darê"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîtê"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "bipêçî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:29.124859074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û Dawid û koma ku ⟨את⟩ bi wî re bû ⟨את⟩ dengê xwe bilind kirin û girîn, heta ku êdî di wan de hêz ji bo girînê nemabû.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Û ... bilind kirin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "û koma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê xwe"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dengê xwe"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "û girîn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "êdî ... nema"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan de"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ji bo girînê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:25.452047903Z",
+  "model": "glm-5.3"
+}

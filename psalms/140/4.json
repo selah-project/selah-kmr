@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Zimanê xwe wekî marê şûr kirine; jehra eydêrê binê lêvên wan e. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "şûr kirine"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "zimanê xwe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "marê"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "jehra"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "eydêrê"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "binê"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lêvên wan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:16.482404142Z",
+  "model": "glm-5.3"
+}

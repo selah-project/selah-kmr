@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ger leşker li ser min bicamp bike, dilê min natirse; ger şer li ser min rabe, di vê de ez spêdidim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "bicamp bike"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leşker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ditirse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "di vê de"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "spêdidim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:26.066031222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Elohîm! Zed li dijî min rabîne, û civata hovan canê min xwest, û te li pêşiya wan nedan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "zed"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "rabîn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li dijî min"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "û civata"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "hovan"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "xwest"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "te dan"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "li pêşiya wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:26.361574530Z",
+  "model": "glm-5.3"
+}

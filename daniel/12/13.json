@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Lê tu ⟨tu⟩ here heta dawiyê, û tu bêhnvedanê bikî, û tu rabî li ber beşa ⟨a⟩ xwe, heta dawiya rojan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lê tu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "û tu bêhnvedanê bikî"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "û tu rabî"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "li ber beşa xwe"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "heta dawiya"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:20:30.317965302Z",
+  "model": "glm-5.3"
+}

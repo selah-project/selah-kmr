@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Gava ew sîştîya ⟨את⟩ Lo-Ruhamah biqedand, ew ducanî ma û kurekî anî-dinyayê.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "sîştîya wê biqedand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Lo-Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ew ducanî ma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "anî-dinyayê"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kur"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:41.157012023Z",
+  "model": "glm-5.3"
+}

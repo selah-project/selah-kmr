@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Hemû gelan, destên xwe bihev bikin! Ji bo Elohîm bi dengê şahiyê bilûqin!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bihev bikin"
+    },
+    {
+      "surface": "כף",
+      "gloss": "destên"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bilûqin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji bo Elohîm"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "şahiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:33.766095568Z",
+  "model": "glm-5.3"
+}

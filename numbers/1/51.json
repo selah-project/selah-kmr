@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û gava kon rêdibe, Lêwî ⟨את⟩ wê datînin; û gava kon tê kamp kirin, Lêwî ⟨את⟩ wê radikin; û yê xerîb ê ku nêzîk dibe, tê kuştin.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "Û gava rêdibe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "datînin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wê",
+      "marks": "kon"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêwî"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "û gava tê kamp kirin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "radikin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wê",
+      "marks": "kon"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêwî"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "û yê xerîb"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ku nêzîk dibe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tê kuştin"
+    }
+  ],
+  "timestamp": "2026-08-30T03:32:10.937675174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Hêsîrên min bûne nanê min, ro û şev, dema ku ew rojê tevahî dibêjinê min: “Ka Elohîmê te li ku ye?”",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "bûne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "hêsîrên min"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ro"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "û şev"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "dema ku dibêjin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahî"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ka… li ku ye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:25.564834170Z",
+  "model": "glm-5.3"
+}

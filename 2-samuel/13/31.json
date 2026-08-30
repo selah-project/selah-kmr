@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û padîşah rabû, kincên xwe ⟨את⟩ qeland û xist xwarê erdê; û hemû şûndarên wî li cem wî rawestîne, bi kincên qelandî.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "qeland"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincên xwe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kincên xwe"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "xist xwarê"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "şûndarên wî"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "rawestîne"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "qelandî"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "bi kincên"
+    }
+  ],
+  "timestamp": "2026-08-29T19:54:09.109400247Z",
+  "model": "glm-5.3"
+}

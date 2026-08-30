@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û Avraham xwe da û çû rehmetê, bi kalatiyeke baş, kal û têr û tûj, û hate civandin cem gelê xwe.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "xwe da û çû rehmetê"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "bi kalatî"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "baş"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kal"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "û têr û tûj"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "û hate civandin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "gelê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:00.893080818Z",
+  "model": "glm-5.3"
+}

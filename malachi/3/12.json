@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û hemû netewe ên ⟨את⟩ we bibêjin dilşad, ji ber ku hûn ê bibin welatê kêfdar, got Yahwe Seferan.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "ê bibêjin dilşad"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "hûn ê bibin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kêfdar"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Seferan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:24.429703552Z",
+  "model": "glm-5.3"
+}

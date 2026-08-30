@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Hûr ⟨את⟩ Ûrî bi anî dinyayê, û Ûrî ⟨את⟩ Betsalel bi anî dinyayê.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Û Hûr"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi anî dinyayê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ûrî"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ûrî"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "û Ûrî"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi anî dinyayê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:59.667947233Z",
+  "model": "glm-5.3"
+}

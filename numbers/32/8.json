@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Wusa kirin bav û kalên we, dema ez ⟨את⟩ wan ji Qadeş-Berneyê şand da ku ⟨את⟩ erdê bibînin.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Wusa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bav û kalên we"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "dema ez şand"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Qadeş"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Berneyê"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da ku bibînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:55:53.678632758Z",
+  "model": "glm-5.3"
+}

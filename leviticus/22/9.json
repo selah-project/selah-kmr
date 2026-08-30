@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Wê ⟨את⟩ parêzgeha min biparêzin, û guneh li ser wî hilnedin û tê de nemirin, ji ber ku wî pîs dikin; ez im Yahwe, yê ku wan pîroz dike.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parêzgeha min"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "parêzgeha min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û…ne"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hilnedin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "guneh"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "û nemirin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "wî pîs dikin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "wan pîroz dike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:29.600162090Z",
+  "model": "glm-5.3"
+}

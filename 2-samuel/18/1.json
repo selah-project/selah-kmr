@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Dawid ⟨את⟩ gelê ku ⟨את⟩ bi wî bû hijmart, û li ser wan seroke ji hezaran û seroke ji sedan bi cih kir.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "hijmart"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bi wî ⟨את⟩"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "bi cih kir"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "seroke"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ji hezaran"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "û seroke"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ji sedan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:56:06.005091470Z",
+  "model": "glm-5.3"
+}

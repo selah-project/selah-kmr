@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ew ê ⟨את⟩ aşamê xwe bîne ji bo Yahwe, ber deriyê çadira civînê — qûçekî aşamê.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ew ê bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aşamê xwe"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "aşamê xwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qûçekî"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "aşamê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:28.218164239Z",
+  "model": "glm-5.3"
+}

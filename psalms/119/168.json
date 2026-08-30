@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez fermanên te û şahidiyên te parastine, ji ber ku hemû rêyên min berdevî te ne.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Ez parastine"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "şahidiyên te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rêyên min"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "berdevî te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:09.679610858Z",
+  "model": "glm-5.3"
+}

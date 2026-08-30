@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Xwe rizgar bike, wekî kîvkê ji dest û wekî çûkê ji destê dîlvan",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "xwe rizgar bike"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "wekî kîvkê"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji dest"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "û wekî çûkê"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji dest"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "dîlvan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:55.974848415Z",
+  "model": "glm-5.3"
+}

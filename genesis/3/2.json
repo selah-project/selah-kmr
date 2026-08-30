@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Jinê jî ji mar re got: “Em ji fêkiyên darên baxçê dixwin.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jinê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mar"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ji fêkiyên"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "darên"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "baxçê"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "dixwin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:28.289611656Z",
+  "model": "glm-5.3"
+}

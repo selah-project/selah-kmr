@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ⟨את⟩ hemû bajarên van keyan û ⟨את⟩ hemû keyên wan Yehoşua girt û wan bi devê şûr xist, wan herem kir — wekî ku Moşe, xulamê Yahwe, ferman kiribû.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû bajarên van keyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "keyan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû keyên wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "keyên wan"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "girt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "xist wan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bi devê"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûr"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "herem kir"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kiribû"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xulamê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:42.352613945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Berî ku dirêjî zîv ⟨neyê⟩ qutkirin, û tepsiya zêr neyê şikandin, û kulil li ser kanî ⟨neyê⟩ şikandin, û çerx ber bi çal ve ⟨neyê⟩ şikandin.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "berî ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "neyê qutkirin"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "dirêjî"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "û neyê şikandin"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "tepsiya"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "û neyê şikandin"
+    },
+    {
+      "surface": "כד",
+      "gloss": "kulil"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "kanî"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "û neyê şikandin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "çerx"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "çal"
+    }
+  ],
+  "timestamp": "2026-08-30T06:59:29.476748688Z",
+  "model": "glm-5.3"
+}

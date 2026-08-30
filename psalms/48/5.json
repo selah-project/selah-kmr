@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Ji ber ku, binêre, şah civiyan, ew bi hev re derbas bûn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "şah"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "derbas bûn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:15.511312568Z",
+  "model": "glm-5.3"
+}

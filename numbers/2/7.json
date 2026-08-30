@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Hûniyê ⟨את⟩ Zebûlun û serokê zarokên Zebûlun Elyab kurê Helon e.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Hûniyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebûlun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebûlun"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "Û serokê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebûlun"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elyab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Helon"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:10.468588998Z",
+  "model": "glm-5.3"
+}

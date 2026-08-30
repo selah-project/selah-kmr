@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Tevahiya rojê şermê min li ber min e û rusmetiya rûyê min girtiye min.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "şermê min"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "li ber min"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "û rusmetiya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "girtiye min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:59.040550123Z",
+  "model": "glm-5.3"
+}

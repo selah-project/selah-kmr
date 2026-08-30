@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Ev ehnana min e ⟨heta⟩ timî; vir de ez ê rûnim, ji ber ku min ew xwest.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ehnana min"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "timî"
+    },
+    {
+      "surface": "פה",
+      "gloss": "vir de"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ez ê rûnim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "ew (min xwest)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:20.708932646Z",
+  "model": "glm-5.3"
+}

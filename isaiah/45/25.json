@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Di Yahwe de hemû zirê Yisraêlê dê rast werin dadrêsîkirin û dê pesnê wî bidin.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Di Yahwe de"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "dê rast werin dadrêsîkirin"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "û dê pesnê bidin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zirê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:12.535356520Z",
+  "model": "glm-5.3"
+}

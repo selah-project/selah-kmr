@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û ew ferman da ewran ji jor, û deriyên ezmanan vekir.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "û ew ferman da"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ewran"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ji jor"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "û deriyên"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vekir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:17.494844365Z",
+  "model": "glm-5.3"
+}

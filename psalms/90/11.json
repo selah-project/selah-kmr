@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Kî hêza qehra te dizane, û qehra te li gor tirsandina te?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêza"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "qehra te"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "û li gor tirsandina te"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "hêrsa te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:09.911508985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Wê ew û ⟨את⟩ hemû amûrên wê bidin bin çêreka çermê tehaş, û wê li ser milê hildanê datînin.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ew (şûşe)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû amûrên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "amûrên wê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "çêreka"
+    },
+    {
+      "surface": "עור",
+      "gloss": "çermê"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tehaş"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "datînin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "milê hildanê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:40:03.241607374Z",
+  "model": "glm-5.3"
+}

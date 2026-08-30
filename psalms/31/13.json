@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Ez wek miriyekî ji dil hatime jibîrkirin; ez bûme wek amûrekî wenda.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "hatime jibîrkirin"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "wek miriyekî"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "ji dil"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ez bûm"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "wek amûrekî"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "wenda"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:07.639354849Z",
+  "model": "glm-5.3"
+}

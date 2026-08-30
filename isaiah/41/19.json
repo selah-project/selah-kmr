@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Ez di çolê de sedr, dara şîttayê, mûr û dara zeytê datînim; ez di stepekê de sipindar, çinar û dara qut bi hevre radigirim.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "datînim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedr"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "dara şîttayê"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "mûr"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "û dara"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zeytê"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "radigirim"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di stepekê de"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "sipindar"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "çinar"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "û dara qut"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hevre"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:06.078229561Z",
+  "model": "glm-5.3"
+}

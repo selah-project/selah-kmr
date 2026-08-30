@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Ji ber ku şûrê min di ezmanan de tê sermastkirin; wiha, dê li ser Edom û li ser gelê heremkirî yê min, ji bo dadrêsiyê dakeve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "tê sermastkirin"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "şûrê min"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "dê dakeve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "heremkirî yê min"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ji bo dadrêsiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:01.651358680Z",
+  "model": "glm-5.3"
+}

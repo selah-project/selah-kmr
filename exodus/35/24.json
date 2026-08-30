@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Hemû yê ku pêşkeşa zîv û paxir hilda, ⟨את⟩ pêşkeşa Yahwe anîn; û her kesê ku ⟨את⟩ darên şîta bi wî re hat dîtin, ji bo hemû karê xizmetê anîn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû yê"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ku hilda"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "pêşkeşa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "û paxir"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêşkeşa Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "pêşkeşa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û her kesê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "hat dîtin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re",
+      "marks": "bi wî re ('with him') — preposition, not DOM"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "karê"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "xizmetê"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "anîn"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:26.131636952Z",
+  "model": "glm-5.3"
+}

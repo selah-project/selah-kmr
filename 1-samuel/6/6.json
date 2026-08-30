@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û çima hûn ⟨את⟩ dilên xwe giran dikin, wekî Mîtsrayim û Fîrawûn ku ⟨את⟩ dilê xwe giran kirin? Ma ne wisa bû ku dema ew li wan xwe rakir, wan ew şandin û ew çûn?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "û-çima"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "giran-dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilên-we"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dilên-we"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî-ku"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "giran-kirin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "û-Fîrawûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê-wan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê-wan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma-ne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "demeku"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "xwe-rakir-li-wan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "li-wan"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "wan-eşandin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "û-ew-çûn"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:30.120612927Z",
+  "model": "glm-5.3"
+}

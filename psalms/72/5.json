@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Bi rojê re û beriya hîvê dê te tirsînin, nifş bi nifşan.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "te tirsînin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "û beriya"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "hîvê"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nifş"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nifşan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:23.713358730Z",
+  "model": "glm-5.3"
+}

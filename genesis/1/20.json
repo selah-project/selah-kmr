@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elohîm got: “Bila av zindiyan bi zindiyan êşin, canewerên zinde, û balinde bifirin li ser erdê, li ser rûyê firaziyê ya ezmanan.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "bila êşin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "zindiyan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canewer"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "zinde"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "û balinde"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "bifirin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "firaziyê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:30.499702648Z",
+  "model": "glm-5.3"
+}

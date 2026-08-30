@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û li serî wî ⟨את⟩ destarê danî; û li ser destarê, ber bi rûyê wî ve, ⟨את⟩ rûpila zêr, nêzira pîrozê danî, wekî ku Yahwe ⟨את⟩ Moşe ferman kir.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destarê"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "destarê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "serî wî"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "destarê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ber bi rûyê wî ve"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûpila zêr"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "rûpila"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nêzira"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîrozê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:09.769661884Z",
+  "model": "glm-5.3"
+}

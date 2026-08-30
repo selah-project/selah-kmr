@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 125,
+  "translation": "Û yên ku berê xwe didin rêyên xwe yên çewt, Yahwe wan bi ⟨את⟩ kiryarkarên neyînîyê re dibe; şano li ser Yisraêl.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Û yên ku berê xwe didin"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "rêyên xwe yên çewt"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "wan dibe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiryarkarên neyînîyê"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kiryarkarên"
+    },
+    {
+      "surface": "האון",
+      "gloss": "neyînîyê"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şano"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:19.473753611Z",
+  "model": "glm-5.3"
+}

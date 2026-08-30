@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Ji ber ku ne dijmin bû yê min rexne kir — ê min giran bigirta; ne jî yê ji min nefret dikir bû yê li ser min xwe mezin kir — ê min xwe ji wî veşarta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "min rexne kir"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ê min giran bigirta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "yê ji min nefret dike"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "xwe mezin kir"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ê min xwe veşarta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:10.588881592Z",
+  "model": "glm-5.3"
+}

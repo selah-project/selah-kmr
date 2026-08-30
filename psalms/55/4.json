@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Ji dengê dijmin û ji ber zordariya ⟨a⟩ rêşa; çimkû êşan li ser min avêtin û di hêrsê de ez dihesibînin.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ji dengê"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "zordariya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rêşa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkû"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "êşan li ser min avêtin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "און",
+      "gloss": "êş"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "û di hêrsê de"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ez dihesibînin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:23.747398108Z",
+  "model": "glm-5.3"
+}

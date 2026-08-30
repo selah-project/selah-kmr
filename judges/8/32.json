@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 8:32",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Gîdeon kurê Yoşaş di kalikiyeke baş de mir, û hate veşartin di gorê Yoşaş bavê wî de, li Ofrayê ya Ebî-ha-Ezrî.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "û mir"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gîdeon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoşaş"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "di kalikiyê de"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "û hate veşartin"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "di gorê de"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoşaş"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "li Ofrayê"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ya Ebî"
+    },
+    {
+      "surface": "העזרי",
+      "gloss": "ha-Ezrî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:27:32.287891872Z",
+  "model": "glm-5.3"
+}

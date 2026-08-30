@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ji bo rêveber, mizmorek ji Dawid re.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo rêveber"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmorek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:37.202098777Z",
+  "model": "glm-5.3"
+}

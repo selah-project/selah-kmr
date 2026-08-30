@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û bû ku gava Dawid û mêrên wî hatin Tsiklagê, di roja sêyem de, ên Amalekî êrîşî Negevê û Tsiklagê kir, û Tsiklagê dan û wê bi agir şewitand.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû ku"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "gava ... hatin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "û mêrên wî"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklagê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja ... de"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sêyem"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ên Amalekî"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "êrîşî ... kir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negevê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ser"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklagê"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklagê"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklagê"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "û ... şewitand"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:25.451271525Z",
+  "model": "glm-5.3"
+}

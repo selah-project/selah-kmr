@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Ez jî di leza xwe de gotim: Ji ber çavên te hatim jêbirîn; lê belê tu dengê lavaziyên min bihist, dema ez qirîm bal te.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ez jî"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "di leza xwe de"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "hatim jêbirîn"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ji ber dûriyê"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "çavên te"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "lê belê"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu bihist"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lavaziyên min"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "di qirîna xwe de"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bal te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:29.220340375Z",
+  "model": "glm-5.3"
+}

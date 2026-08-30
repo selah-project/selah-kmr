@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Çav li perda me bavêje, Elohîm, û li rûyê Maşîahê xwe binêre.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "perda me"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "çav bavêje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "û binêre"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maşîahê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:13.898464733Z",
+  "model": "glm-5.3"
+}

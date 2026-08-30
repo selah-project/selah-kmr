@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 87,
+  "translation": "Yahwe deriyên Siyonê ji hemû cihên rûniştinê yên Yaqûb zêdetir diheje.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "diheje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonê"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "cihên rûniştinê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:34.182403103Z",
+  "model": "glm-5.3"
+}

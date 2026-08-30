@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û min ji wan re got: “Ger di çavên we de rast be, meaşê min bînin; ger ne, rawestin.” Û wan ⟨את⟩ meaşê min pîvan — sîh şikelekên zîv.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "û min ... got"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rast"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "di çavên we de"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "meaşê min"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ger ne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "rawestin"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "û wan ... pîvan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meaşê min"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "meaşê min"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sîh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:38.941333701Z",
+  "model": "glm-5.3"
+}

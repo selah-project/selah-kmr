@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ronahî şîrîn e, û ji bo çavan baş e dîtina ⟨את⟩ rojê.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "şîrîn e"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "baş e"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ji bo çavan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "dîtina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rojê"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:17.419667500Z",
+  "model": "glm-5.3"
+}

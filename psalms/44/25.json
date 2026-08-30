@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Çima rûyê xwe dizî, êş û zorberiya me ji bîr dikî?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "dizî"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ji bîr dikî"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "êşên me"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "û zorberiya me"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:57.270689917Z",
+  "model": "glm-5.3"
+}

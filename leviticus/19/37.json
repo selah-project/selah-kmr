@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û hûn ⟨את⟩ hemî hûkûmên min û ⟨את⟩ hemî mîzên min biparêzin û ⟨את⟩ wan bikin — ez Yahwe im.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "hûn biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemî hûkûmên min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemî"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "hûkûmên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemî mîzên min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemî"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mîzên min"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "û bikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (hûkûm û mîz)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:06.707094175Z",
+  "model": "glm-5.3"
+}

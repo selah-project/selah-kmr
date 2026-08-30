@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Tu ⟨את⟩ du kevirên şohamê bigirî û li ser wan navên kurên Yisraêlê bikolî.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "bigirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du kevirên şohamê"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "şohamê"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "bikolî"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:12.818285256Z",
+  "model": "glm-5.3"
+}

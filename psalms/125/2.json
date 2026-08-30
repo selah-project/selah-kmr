@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 125,
+  "translation": "Yeruşalayim — çiya li dora wê ne, û Yahwe li dora gelê ⟨xwe⟩ ye, ji niha ve heta hertimî.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çıya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "û Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ji niha ve"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:59.390256086Z",
+  "model": "glm-5.3"
+}

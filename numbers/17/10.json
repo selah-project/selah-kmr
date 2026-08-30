@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "«Hûn ji nav vê civatê rabin, da ku ez wan ⟨את⟩ di demeke kêr de biqewirînim.» Û ew ketin ser rûyên xwe.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ji nav"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "וואכלה",
+      "gloss": "biqewirînim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "di demeke kêr de"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ketin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "rûyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:47:51.492162692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wan zindî wekî Şeol biqurtînin, û yên temamî wekî daketiyên çalê.",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "biqurtînin wan"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "wekî Şeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "û yên temamî"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "wekî daketiyên"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çalê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.705770038Z",
+  "model": "glm-5.3"
+}

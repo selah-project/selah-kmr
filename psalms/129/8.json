@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 129,
+  "translation": "Û yên rê derbas dibin nabêjin: “Bereketê Yahwe li ser we be, me ⟨את⟩ we bi navê Yahwe pîroz kir.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û… na"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bêjin"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "yên rê derbas dibin"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bereketê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "me pîroz kir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:30.829493207Z",
+  "model": "glm-5.3"
+}

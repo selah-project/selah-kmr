@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û wî ⟨את⟩ hemû yên ku li Yerûşalayim û Binyamîn hatibûn dîtin rawestand; û niştecîhên Yerûşalayimê li gorî peymana Elohîm, Elohîm ê bavên wan, kirin.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "rawestand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yên ku hatibûn dîtin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yerûşalayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "û Binyamîn"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecîhên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerûşalayimê"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "li gorî peymana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm ê"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bavên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:55:36.805123881Z",
+  "model": "glm-5.3"
+}

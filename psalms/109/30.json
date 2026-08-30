@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Ez ê Yahwe bi devê xwe bi mezintî sipas bikim, û di nav gelekanda ez ê wî bilind bikim.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ez sipas bikim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bi mezintî"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "bi devê xwe"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "û di nav"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelekanda"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ez ê wî bilind bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:30.017800658Z",
+  "model": "glm-5.3"
+}

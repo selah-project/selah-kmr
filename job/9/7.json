@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "⟨את⟩ Rojê dibêje û ew dernakeve, û stêrkan mohr dike.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "ji rojê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "dernakeve"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "û bi awayekî"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "stêrk"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "mohr dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:10.334115529Z",
+  "model": "glm-5.3"
+}

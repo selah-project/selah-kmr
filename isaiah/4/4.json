@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Dema Adonay xerîbiya keçên Sîyonê şûst û xwîna Rûşalayîmê ji nava wê bi rûhê dadê û bi rûhê ejdahîya şewitandinê paqij kir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dema"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "şûst"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xerîbiya keçên Sîyonê"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "xerîbî"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sîyonê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xwîna Rûşalayîmê"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Rûşalayîmê"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "paqij kir"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "ji nava wê"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "bi rûhê"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadê"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "û bi rûhê"
+    },
+    {
+      "surface": "בער",
+      "gloss": "şewitandinê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:19.568946593Z",
+  "model": "glm-5.3"
+}

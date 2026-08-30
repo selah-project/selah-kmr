@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Hemû malbatên ku mane, malbate-malbate bi tenê, û jinên wan bi tenê.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "ku mane"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbate-"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbate"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bi tenê"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "û jinên wan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bi tenê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:08:24.219957517Z",
+  "model": "glm-5.3"
+}

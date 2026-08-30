@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Şêniyên Yabeşê Gîl'adê ⟨את⟩ tiştê ku Filistî ji Şaul re kiribû bihîstîn.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bihîstîn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "derbarê wî"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "şêniyên"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeşê"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gîl'adê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kiribû"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji Şaul re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:25.099655982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Deryayê guhert û kir xwelî ⟨zemin⟩; di çemê re bi pê derbas bûn — li wir bi wî şah bûn em.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "guhert"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Deryayê"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "û kir xwelî ⟨zemin⟩"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di çemê re"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "derbas bûn"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "bi pê"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "şah bûn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bi wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:27.843734823Z",
+  "model": "glm-5.3"
+}

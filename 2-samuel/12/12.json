@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ji ber ku tu di veşartî de kirî, lê ez ê ⟨את⟩ vê tiştî bikim ber çavên hemû Yîsraêl û ber çavên rojê.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kirî"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di veşartî de"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lê ez"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ê bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê tiştî"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tiştî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ber çavên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsraêl"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "û ber çavên"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:53:50.054467467Z",
+  "model": "glm-5.3"
+}

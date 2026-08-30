@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Bedew bi bilindahî, kêfa ⟨hemû⟩ erdê — Çiyayê Tsiyon, aliyên bakur, bajarê keyê mezin.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Bedew"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "bi bilindahî"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kêfa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Çiyayê"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "aliyên"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bakur"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:12.746969097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Bi bihîstina guhê min te bihîstibû, û niha çavê min te dîtîye.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "bi bihîstina"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "guhê"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "min te bihîstibû"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "û niha"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavê min"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "te dîtîye"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:33.100603017Z",
+  "model": "glm-5.3"
+}

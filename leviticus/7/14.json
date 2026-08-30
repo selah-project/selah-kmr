@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ji wê yek ji hemû qurbanî wek terumayê ji bo Yahwe derdixe; ji kahanê yê ku ⟨את⟩ xwîna selaman dişapîne re, ji wê re dibe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "derdixe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurbanî"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumayê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahanê"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "yê dişapîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwîn"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwîna"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "selaman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dibe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:19.713776923Z",
+  "model": "glm-5.3"
+}

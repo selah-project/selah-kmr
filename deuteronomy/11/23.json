@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Wê çaxê Yahwe ⟨את⟩ hemû van gelan ji ber we bide der û hûn wê gelên ji xwe mezintir û bêtir hêzdar bi mêras bigirin.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "bide der"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû van gelan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "ji ber we"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "hûn wê bigirin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelên"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ji xwe mezintir"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "û bêtir hêzdar"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ji we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:00.240399515Z",
+  "model": "glm-5.3"
+}

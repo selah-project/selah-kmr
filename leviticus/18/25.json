@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û ⟨the⟩ erd xerab bû, û ez gunehê wê lê ser wê hesab kir, û erd niştecihên xwe ⟨את⟩ qe kişand.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "xerab bû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "û ez hesab kir"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "gunehê wê"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lê ser wê"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "û qe kişand"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niştecihên xwe"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "niştecihên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:50.147152380Z",
+  "model": "glm-5.3"
+}

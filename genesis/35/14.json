@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 35:14",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û Yaqûb li cihê ku bi ⟨את⟩ wî re peyivî bû darmegek darist, darmegeke kevirî, û libasyonekê li ser wê rijand û rûn li ser wê rijand.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "darist"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "darmegek"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "li cihê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyivî bû"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bi wî re (Elohîm)"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "darmegeke"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kevirî"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "libasyonekê"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:59.059997811Z",
+  "model": "glm-5.3"
+}

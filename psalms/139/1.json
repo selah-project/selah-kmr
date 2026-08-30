@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Ji bo serokekî muzîkê. Mezamûre Dawid. Yahwe, tu min hilbiri û zanî.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezamûr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "tu min hilbiri"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "û zanî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:02.701462451Z",
+  "model": "glm-5.3"
+}

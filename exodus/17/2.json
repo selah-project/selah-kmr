@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û gel bi Moşe re tekûşiya û got: “Bide me av da ku em vexwin.” Û Moşe ji wan re got: “Çima hûn bi min re dikoşin? Çima hûn Yahwe ⟨את⟩ ceribandine?”",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "tekûşiya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "got"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "da ku em vexwin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "hûn dikoşin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "hûn ceribandine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:16.503074367Z",
+  "model": "glm-5.3"
+}

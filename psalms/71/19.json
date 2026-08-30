@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Û rastîya te, Elohîm, heta bilindahiyê ⟨digihêje⟩; tu yê tiştên mezin kirine; Elohîm, kî wekî te ye?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "û rastîya te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "bilindahiyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu kirî"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tiştên mezin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wekî te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:15.831732799Z",
+  "model": "glm-5.3"
+}

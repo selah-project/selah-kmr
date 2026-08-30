@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ew deriyê jorîn ê ⟨את⟩ mala Yahwe çêkir, û li ser dîwarê Ofel ê gelek çêkir.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ew"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deriyê jorîn ê mala Yahwe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "derî"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "jorîn"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "û li ser dîwarê"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "gelek"
+    }
+  ],
+  "timestamp": "2026-08-30T06:50:24.009721105Z",
+  "model": "glm-5.3"
+}

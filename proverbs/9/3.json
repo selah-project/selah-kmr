@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Keçikên xwe şand, ew bi deng bilind bang dike — li ser bilindahiyên bajar.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "şand"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "Keçikên xwe"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "bang dike"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גפי",
+      "gloss": ""
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "bilindahiyên"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "bajar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:12.793595114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ji tirsа te goştê min ziwa bûye çilmisî; ez ji hukmên te ditirsim.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "çilmisî"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "ji tirsа te"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "goştê min"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ez ji hukmên te"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ditirsim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:35.649900354Z",
+  "model": "glm-5.3"
+}

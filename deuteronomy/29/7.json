@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Me ⟨את⟩ erdê wan girt û me ew da Reubenîyan, Gadîyan û nîvê eşîra Men aşîyan wek mîras.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "me girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê wan"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "erdê wan"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "me ew da"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "wek mîras"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Reubenîyan"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "Gadîyan"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "û nîvê"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "eşîra"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Men aşîyan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:11:16.563097250Z",
+  "model": "glm-5.3"
+}

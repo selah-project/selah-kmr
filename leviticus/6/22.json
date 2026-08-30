@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Her nêr ji kahînan wê bixwe ⟨את⟩ wê; pîrozê pîrozan ew e.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nêr"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ji kahînan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wê bixwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (pêşkêş)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîrozê"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pîrozan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:26.883710771Z",
+  "model": "glm-5.3"
+}

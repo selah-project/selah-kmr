@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Eẗalja bihîst ⟨את⟩ dengê bazdarên gel û hat cem gel, li malê Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "û bihîst"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Eẗalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "bazdarên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:25.141838534Z",
+  "model": "glm-5.3"
+}

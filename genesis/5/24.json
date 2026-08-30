@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Hanokh bi Elohîm re çû, û êdî nebû, çimkî Elohîm ⟨אתו⟩ wî biribû.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "êdî nebû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "biribû"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:46.237912049Z",
+  "model": "glm-5.3"
+}

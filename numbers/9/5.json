@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û wan ⟨את⟩ Pessahê di meha yekem de, di roja çardehê a mehê, di navbera êvaran de, li çola Sînayê amade kirin; gorî hemûyê ku Yahwe ⟨את⟩ Moşe re ferman kir, wiha kirin zarokên Îsraêlê.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "amade kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pessahê"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pessahê"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "di meha yekem de"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "çar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a mehê"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "êvaran de"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sînayê"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gorî hemûyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:42:57.184901801Z",
+  "model": "glm-5.3"
+}

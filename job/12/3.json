@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ê ê, ji min re jî dil e, wekî we; ez ji we neketiye; û ⟨את⟩ kê ji van re tune ye wekî van?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ê ê, ji min re jî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "wekî we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ketiye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ji we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune ye"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:25.449650188Z",
+  "model": "glm-5.3"
+}

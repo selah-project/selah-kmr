@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Yahwe, ji me re şermê rûyî ⟨ye⟩, ji mîrên me, ji seroke me û ji bav û kalên me, ku me li te guneh kirî.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "şermê rûyî"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "rûyî"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ji mîrên me"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "ji seroke me"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "û ji bav û kalên me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "me guneh kirî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li te"
+    }
+  ],
+  "timestamp": "2026-08-30T06:19:17.279259851Z",
+  "model": "glm-5.3"
+}

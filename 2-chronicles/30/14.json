@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û rabûn û rakirin ⟨את⟩ altaran ku li Yeruşalayimê bûn, û ⟨את⟩ hemû cihên bûyan ji dan û avêtin nav Newala Qidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "rabûn"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "rakirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaran"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû cihên bûyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "cihên bûyan"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ji dan"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "avêtin"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "nav Newal"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Qidron"
+    }
+  ],
+  "timestamp": "2026-08-30T06:52:39.868840142Z",
+  "model": "glm-5.3"
+}

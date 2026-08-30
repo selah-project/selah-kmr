@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Bilêvkirinê bikin, rastdaran, di Yahwe de; ji bo rastrevanan ⟨ye⟩ pesn darbend e.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "bilêvkirinê bikin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastdaran"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe de"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ji bo rastrevanan"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "darbend e"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pesn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:42.850828265Z",
+  "model": "glm-5.3"
+}

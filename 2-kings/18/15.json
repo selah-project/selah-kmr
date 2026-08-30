@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Chizkiya ⟨את⟩ hemû zîvê ku hatibû dîtin di malê Yahwe de û di xezîneyên malê key de da.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "û da"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû zîv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîvê"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ku hatibû dîtin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "û di xezîneyên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:48.403343505Z",
+  "model": "glm-5.3"
+}

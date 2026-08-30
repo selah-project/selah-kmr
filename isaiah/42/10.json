@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ji bo Yahwe straneke nû bibêjin; pesnê wî ji dawiya erdê — ên ku diçin deryayê û hemû tiştê wê, giravan û şêniyên wan.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "stran bibêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pesnê wî"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ji dawiya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ên ku diçin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "û hemû tiştê wê"
+    },
+    {
+      "surface": "איים",
+      "gloss": "giravan"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "û şêniyên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:07.383076748Z",
+  "model": "glm-5.3"
+}

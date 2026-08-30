@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Binê! Tiştên pêşîn hatine, û tiştên nû ez eşkere dikim; berî ku şîn derkevin, ez ⟨את⟩ we didim bihîstin.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "tiştên pêşîn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binê"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hatine"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "û tiştên nû"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "eşkere dikim"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "berî ku"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "şîn derkevin"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "didim bihîstin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:07.382793223Z",
+  "model": "glm-5.3"
+}

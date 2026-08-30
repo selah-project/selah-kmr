@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ez ew mêr ⟨im⟩ ê ku bi şevatê hêrs û êşên êzîniyê ⟨ya wî⟩ dîtîye.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ew mêr"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dîtîye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "êşên êzîniyê"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bi şevatê"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "hêrs û êşa wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:06:50.864852581Z",
+  "model": "glm-5.3"
+}

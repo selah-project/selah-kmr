@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Kî ez digihîne bajarê birê? Kî ez digihîne heta Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "digihîne"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "digihîne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:41.281762560Z",
+  "model": "glm-5.3"
+}

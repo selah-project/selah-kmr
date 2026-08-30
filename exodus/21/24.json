@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Çav di şûna çav de, didan di şûna didan de, dest di şûna dest de, ling di şûna ling de.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Çav"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna ... de"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çav"
+    },
+    {
+      "surface": "שן",
+      "gloss": "didan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna ... de"
+    },
+    {
+      "surface": "שן",
+      "gloss": "didan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dest"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna ... de"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dest"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ling"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna ... de"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ling"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:44.711809627Z",
+  "model": "glm-5.3"
+}

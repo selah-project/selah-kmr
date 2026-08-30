@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Xanun bendeyên Dawid ⟨את⟩ girt, ⟨את⟩ nîvê rîyên wan qulî kir, ⟨את⟩ kincên wan ji nîvî ve — heta qûnên wan — birî û wan şandin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Xanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bendeyên Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bendeyên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "qulî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nîvê rîyên wan"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "nîvê"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "rîyên wan"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "birî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincên wan"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "kincên wan"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ji nîvî ve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "qûnên wan"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "şand wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:19.084536600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û hûn ê ji bo min pîroz bin, çimkî ez, Yahwe, pîroz im; û min ⟨את⟩ we ji gelan cuda kir, da ku hûn bibin ji bo min.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "hûn ê bin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "û min cuda kir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "da ku bibin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:54.032534119Z",
+  "model": "glm-5.3"
+}

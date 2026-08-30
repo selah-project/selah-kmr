@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 16:27",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û mayî tiştên Omrî yên ku kir, û hêz û mêrxasiya wî ya ku nîşan da — ma ew ne li ser kitêba çîrokên rojan a ji bo keyên Îsraêl hatine nivîsîn?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "mayî"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tiştên"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "hêz û mêrxasiya wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nîşan da"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma... ne"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "hatine nivîsîn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitêba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "çîrokên"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ji bo keyên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:15.761179533Z",
+  "model": "glm-5.3"
+}

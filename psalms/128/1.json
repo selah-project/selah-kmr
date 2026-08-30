@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 128,
+  "translation": "Strana hilkirinan. Çawa xweşbext e her kesê ku Yahwe ditirse, yê ku di rêyên wî de diçe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hilkirinan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "çawa xweşbext"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her kesê"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ditirse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yê ku diçe"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di rêyên wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:14.540485252Z",
+  "model": "glm-5.3"
+}

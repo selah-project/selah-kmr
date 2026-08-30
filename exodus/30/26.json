@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û pê meshê ⟨את⟩ çadirê civînê û ⟨את⟩ sandiqa şahidiyê,",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Û meshê"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadirê civînê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadirê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqa şahidiyê"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiqa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şahidiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:09.115789203Z",
+  "model": "glm-5.3"
+}

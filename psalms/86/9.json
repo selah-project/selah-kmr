@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Hemû gelên ku te çêkirine wê werin û li ber rûyê te xwe biçemin, Adonay, û navê te bilind bikin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "te çêkirine"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "wê werin"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "û xwe biçemin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li ber rûyê te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "û bilind bikin"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "navê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.837818405Z",
+  "model": "glm-5.3"
+}

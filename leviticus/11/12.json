@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Hemûyê ku sîpik û pûrt lê ninin di avê de, tiştê nefretê ⟨e⟩ ji we re.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hemûyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ninin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lê"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sîpik"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "û pûrt"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avê de"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "tiştê nefretê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:19.306145733Z",
+  "model": "glm-5.3"
+}

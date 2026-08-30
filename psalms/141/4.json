@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 141,
+  "translation": "Dilê min nehevîne ber bi peyva xerab, ji bo kirina kiryaran bi xerabî, ⟨את⟩ mêran kiryarkarên neyariyê; û ez ji xwarinên xweş ên wan naxwim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "nehevîne"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ber bi peyvê"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "ji bo kirina"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "kiryaran"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "bi xerabî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêran kiryarkarên neyariyê"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kiryarkarên"
+    },
+    {
+      "surface": "און",
+      "gloss": "neyarî"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "û ne jî"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "bixwim"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ji xwarinên xweş ên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:02.784166754Z",
+  "model": "glm-5.3"
+}

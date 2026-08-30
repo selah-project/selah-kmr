@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Başa bi bavên xwe re radest bû, û li Tirtsayê hat veşartin; û Elah kurê wî şûna wî bû padîşah.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "radest bû"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "hat veşartin"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "li Tirtsayê"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "bû padîşah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:52.298545065Z",
+  "model": "glm-5.3"
+}

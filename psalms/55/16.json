@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Bila wêranî li ser wan bikeve, bila zindî dakine Şeolê; ji ber ku xerabî di rûniştinên wan de, di nav wan de.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "wêranî"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bila dakine"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "di rûniştinên wan de"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "di nav wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:10.589648095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ez soz da we, keçên Yeruşalayimê: çi hûn dashêdînin, çi hûn ⟨את⟩ evînê bihişyar dikin, heta ku ⟨ew⟩ bixwaze!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ez soz da we"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "keçên Yeruşalayimê"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "hûn dashêdînin"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "û çi"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "hûn bihişyar bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evîn"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "evînê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "bixwaze"
+    }
+  ],
+  "timestamp": "2026-08-30T06:05:36.658506944Z",
+  "model": "glm-5.3"
+}

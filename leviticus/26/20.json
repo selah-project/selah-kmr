@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Hêza we bi valatî tê xerabûn, û erdê we ⟨את⟩ berhemên xwe nade, û darên ⟨את⟩ erdê firekiyên xwe nadidin.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "tê xerabûn"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "bi valatî"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "hêza we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nade"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "erdê we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhemên xwe"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "berhemên wê"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "û darên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nadidin"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "firekiyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:30.021660185Z",
+  "model": "glm-5.3"
+}

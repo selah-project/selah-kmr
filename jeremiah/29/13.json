@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û hûn ê min bibînin û hûn ê ⟨אתי⟩ bibînin — ji ber ku hûn bi tevî dilê xwe li min digerin.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "hûn ê min bibînin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "hûn ê bibînin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "hûn li min digerin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tevî"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dilê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T21:01:12.790493384Z",
+  "model": "glm-5.3"
+}

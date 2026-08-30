@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Bila gunehkar ji ⟨אֵרד⟩ erdê xilas bibin, û nebînar êdî nebin — gelî nefsa min, Yahwe ⟨את⟩ bilûnd bike. Halelû-Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "bila ... xilas bibin"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "û nebînar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nebin"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bilûnd bike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "gelî nefsa min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelû"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:59.385848925Z",
+  "model": "glm-5.3"
+}

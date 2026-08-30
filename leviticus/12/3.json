@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û di roja heştemîn de goştê çermê pêşwextiya wê dê bê sunnetkirin.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "di roja…de"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "heştemîn"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "bê sunnetkirin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "çermê pêşwextiya wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:39.607020581Z",
+  "model": "glm-5.3"
+}

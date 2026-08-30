@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û pêşkeşa Yehûda û Yeruşalayim dê ji bo Yahwe xweş bibe, wekî rojên dûr û wekî salên berê.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "dê xweş bibe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "pêşkeşa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "û Yeruşalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "wekî rojên"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dûr"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "û wekî salên"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "berê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:29.005433841Z",
+  "model": "glm-5.3"
+}

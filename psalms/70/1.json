@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 70,
+  "translation": "Ji bo serokestê, ji Dawid, ji bo bîranînê.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokestê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ji bo bîranînê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:22.704800578Z",
+  "model": "glm-5.3"
+}

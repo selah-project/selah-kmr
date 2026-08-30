@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ferman bike ⟨את⟩ Aharon û ⟨את⟩ kurên wî, bêje: Ev tôrata qurbanê şewatê ye; ew qurbanê şewatê ye ku li ser êgirê wê li ser altarê şevê tev digihêje sibêhê; û êgirê altarê dê tê de biherike.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Ferman bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tôrata"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbanê şewatê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew… ye"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbanê şewatê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "êgirê wê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tev"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "digihêje"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sibêhê"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "û êgirê"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarê"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "dê biherike"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:51.623638822Z",
+  "model": "glm-5.3"
+}

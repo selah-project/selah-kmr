@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Ku lêvên min vekirin, û devê min di tengasiya min de axivî.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "vekirin"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên min"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "û axivî"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "di tengasiyê de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:28.706249858Z",
+  "model": "glm-5.3"
+}

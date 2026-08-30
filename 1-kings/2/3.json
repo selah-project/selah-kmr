@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 2:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Parêzgeha Yahwe Elohîmê te biparêze, ku di rêyên wî de bigerî, biryarên wî, fermanên wî, hukmên wî û şahidiyên wî biparêze, wekî ku di Tora Moşe de nivîsî ye, da ku tu di ⟨את⟩ hemû tiştê ku dikî û di ⟨את⟩ her alî de ku lê dizivrî rast derkevî.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parêzgeh"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "parêzgeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ku bigerî"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di rêyên wî de"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "biryarên wî"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "fermanên wî"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "hukmên wî"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "şahidiyên wî"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "wekî ku nivîsî ye"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "di Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "rast derkevî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştê ku dikî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dikî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "her alî ku lê dizivrî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "lizivrî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:47.817663350Z",
+  "model": "glm-5.3"
+}

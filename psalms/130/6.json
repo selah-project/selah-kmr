@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 130,
+  "translation": "Canê min ji bo Adonay, ji pasdanên sibehê bêtir, pasdanên sibehê.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ji bo Adonay"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "ji pasdanên"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "pasdanên"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sibehê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:04.673787039Z",
+  "model": "glm-5.3"
+}

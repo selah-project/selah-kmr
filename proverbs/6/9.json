@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Hey tembelê, heta kengê rûdînê? Kengê ji xewa xwe radibî?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tembel"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "rûdînî"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "radibî"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ji xewa te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:34.569710556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û min ji sirgûnan re ⟨את⟩ hemû peyvên Yahwe, ên ku min nîşan dabûn, got.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "û min … got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sirgûnan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû peyvên Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "min nîşan dabûn"
+    }
+  ],
+  "timestamp": "2026-08-30T03:45:42.656178435Z",
+  "model": "glm-5.3"
+}

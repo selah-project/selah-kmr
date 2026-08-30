@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ birîca Penuêlê hilweşand û ⟨את⟩ mêrên bajarî kuşt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birîca Penuêlê"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "birîca"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuêlê"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "hilweşand"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "û kuşt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêrên bajarî"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:27:38.724843085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Yahwe, ji dijminên min rizgar bikim; bal te ve min xwe veşart.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "rizgar bikim"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ji dijminên min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bal te ve"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "min xwe veşart"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:15.982497121Z",
+  "model": "glm-5.3"
+}

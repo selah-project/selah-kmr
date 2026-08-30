@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û wî min ⟨את⟩ ji bo cihekî vekirî derxist; wî min rizgar kir, çimkî ew kêfxweş bû bi min.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Û wî derxist"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ji bo cihekî vekirî"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "wî min rizgar kir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kêfxweş bû"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bi min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:07.222546259Z",
+  "model": "glm-5.3"
+}

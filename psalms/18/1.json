@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ji bo serokekî muzîkê, ji bo xulamê Yahwe, ji bo Dawid, ku di roja ku Yahwe ew ji destê hemû dijminên wî û ji destê Şaul rizgar kir ⟨את⟩ peyvên vê stranê ji Yahwe re got.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ji bo xulamê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "got"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên vê stranê"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "vê stranê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja ku"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rizgar kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ew"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dijminên wî"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "û ji destê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:30.458923337Z",
+  "model": "glm-5.3"
+}

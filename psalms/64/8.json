@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 64,
+  "translation": "Elohîm wê bi tîrek nişkoj wan bixe; birînên wan nişkoj dibin.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "wê bixe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "bi tîrek"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "nişkoj"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dibin"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "birînên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:24.006747058Z",
+  "model": "glm-5.3"
+}

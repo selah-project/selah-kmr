@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û her meriv ⟨את⟩ tiştên pîroz ên xwe ên wî dibe; tiştê ku meriv dide kahan, ê wî dibe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "û her meriv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştên pîroz ên xwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "tiştên pîroz ên wî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ê wî"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dibin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meriv"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ê wî"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dibe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:40:54.390433236Z",
+  "model": "glm-5.3"
+}

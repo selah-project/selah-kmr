@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û mêrê ku ⟨את⟩ jina mêrekî din zînayê dike — yê ku ⟨את⟩ jina hevalê xwe zînayê dike — zînkar û zînkara wî bi mirinê bên kuştin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "û mêrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "zînayê dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "zînayê dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê wî"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bên kuştin"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "zînkar"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "û zînkara"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:09.974551658Z",
+  "model": "glm-5.3"
+}

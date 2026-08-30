@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Ew ditirsa, rabû û berbi canê xwe ve çû, hat Bêr-Şebayê ku ji Yehûda ye, û ⟨את⟩ xizmetkarê xwe li wir hêşt.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ditirsa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berbi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canê xwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bêr"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ji Yehûda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "hêşt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xizmetkarê xwe"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "xizmetkarê xwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:18.637803836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û dilê kahin kêfxweş bû, û ew ⟨את⟩ efod, ⟨את⟩ terafîm û ⟨את⟩ pût hildan û ket nav gel.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "kêfxweş bû"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "û ew hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "terafîm"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pût"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "pût"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û ket"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-29T19:32:38.801685866Z",
+  "model": "glm-5.3"
+}

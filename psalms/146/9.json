@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 146,
+  "translation": "Yahwe ⟨את⟩ mêvanan diparêze; sêwî û jina-bîmayî ranahewîne; û rêya bedkaran derewîne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêvanan"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mêvanan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sêwî"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "û jina-bîmayî"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ranahewîne"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "û rêya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bedkaran"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "derewîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:06.529248452Z",
+  "model": "glm-5.3"
+}

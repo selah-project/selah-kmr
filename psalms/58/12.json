@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Û meriv wê bêje: 'Bi rastî ji bo sidaq xelat heye; bi rastî Elohîm hene ku di erdê de berêwanî dikin.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wê bêje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "meriv"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "xelat"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ji bo sidaq"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "יש",
+      "gloss": "heye\/hene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "berêwanî dikin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:52.399409089Z",
+  "model": "glm-5.3"
+}

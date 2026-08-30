@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ qijik şand; ew derdiket û vedigeriya heta ku av ji ser erdê hişk bûn.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Û şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qijik"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "qijik"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "derdiket"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "û vedigeriya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "hişk bûn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:07.634614647Z",
+  "model": "glm-5.3"
+}

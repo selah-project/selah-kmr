@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 44:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Netirsin û nexapin. Ma ji wê demê ve min ne hişyarî we kir û ne daxuyand? Hûn şahidên min in. Ma Eloha ji bilî min heye? Û kelek tune — min nas nekiriye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפחדו",
+      "gloss": "netirsin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תרהו",
+      "gloss": "nexapin"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ji wê demê ve"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "min hişyarî te kir"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "û min daxuyand"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "şahidên min"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ma heye"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ji bilî min"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kelek"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nanasîm"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "min nas nekiriye"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:48.199260772Z",
+  "model": "glm-5.3"
+}

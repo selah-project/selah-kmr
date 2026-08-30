@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Hemû Yabeşê Gîlead bihîst ⟨את⟩ tiştê ku Filiştîn ji bo Şaul kiribûn.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeşê"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gîlead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû tişt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kiribûn"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filiştîn"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji bo Şaul"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:31.979647082Z",
+  "model": "glm-5.3"
+}

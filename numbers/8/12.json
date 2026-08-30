@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 8:12",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Lêwî yê destên xwe ⟨את⟩ li ser serê ga danînin, û tu yê yekî ⟨את⟩ wekî qurbana gunehan û yê din ⟨את⟩ wekî qurbana şewatê ji bo Yahwe amade bikî, da ku ji bo Lêwiyan ↔ hatine afirandin.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "û Lêwî yê"
+    },
+    {
+      "surface": "יסמכו",
+      "gloss": "danînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "הפרים",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "û tu yê … amade bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yekî"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "wekî qurbana gunehan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "yê din"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yê din"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wekî qurbana şewatê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da ku ↔ hatine afirandin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêwiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:42:58.012382532Z",
+  "model": "glm-5.3"
+}

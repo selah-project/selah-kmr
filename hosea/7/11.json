@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Efrayim bû wekî kewok ⟨a⟩ bêhêjmar, bê dil: gazî Mîtsrayimê kirin, çûn Ashurê.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "wekî kewok"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "bêhêjmar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bê"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "gazî ... kirin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurê"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "çûn"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:36.475473034Z",
+  "model": "glm-5.3"
+}

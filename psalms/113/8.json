@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 113,
+  "translation": "Da ku wan bi serdaran re, bi serdarên gelê wan re rûniştîne bike.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "da ku rûniştîne bike"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "serdaran"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "serdarên"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:30.654551582Z",
+  "model": "glm-5.3"
+}

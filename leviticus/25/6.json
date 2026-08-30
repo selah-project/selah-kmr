@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û Şabata erdê ji we re dibe xwarin — ji te re, ji xulamê te re, ji kênika te re, ji karkerê te yê kirêkirî re û ji mêvanê te yê bi cih bûyî yê digel te re.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Û … dibe"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Şabata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "ji xulamê te re"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "ji kênika te re"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "ji karkerê te yê kirêkirî re"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "ji mêvanê te yê bi cih bûyî re"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "yê digel te re"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "digel te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:57.762877472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Sibehê kulîlk vedike û derbas dibe; êvarê tê birîn û ziwa dibe.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Sibehê"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "kulîlk vedike"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "û derbas dibe"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "êvarê"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "tê birîn"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "û ziwa dibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:53.546835994Z",
+  "model": "glm-5.3"
+}

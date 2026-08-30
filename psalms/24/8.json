@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Kî ye ev Padîşahê rûmetê? Yahwe, bi hêz û qahrehman — Yahwe, qahrehmanê şer.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Padîşahê"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "rûmetê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "bi hêz"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "û qahrehman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qahrehmanê"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:21.299708552Z",
+  "model": "glm-5.3"
+}

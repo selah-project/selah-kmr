@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û şînên civatê ⟨את⟩ destên xwe li ser serê goreyî ber Yahwe bidin, û ⟨את⟩ goreyî ber Yahwe ⟨bibê⟩ serjê bikin.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "şînên"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "goreyî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "serjê bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goreyî"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "goreyî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:39.996351153Z",
+  "model": "glm-5.3"
+}

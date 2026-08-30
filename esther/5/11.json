@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Haman ji wan re ⟨את⟩ rûmeta dewlemendiya xwe û piraniya kurên xwe vegot, û ⟨את⟩ hemû tiştê ku key ew mezin kiribû, û ⟨את⟩ ku ew li ser serban û xulamên key bilind kiribû.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "û vegot"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûmeta dewlemendiya wî"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "dewlemendiya wî"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û piraniya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "mezin kiribû"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ku ew bilind kiribû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "bilind kiribû"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "serban"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "û xulamên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:02.572257811Z",
+  "model": "glm-5.3"
+}

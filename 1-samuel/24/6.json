@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û piştî wê qewmê dilê Dawid ⟨את⟩ wî xist, ji ber ku ⟨את⟩ kêleka ku ji Şaul re bû jê kiribû.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê qewmê"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "jê kiribû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêleka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kêleka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji Şaul re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:24.272879984Z",
+  "model": "glm-5.3"
+}

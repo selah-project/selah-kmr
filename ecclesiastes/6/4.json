@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ji ber ku ew bi hebelê tê û bi tarîyê diçe, û navê wî bi tarîyê tê nixumandin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "bi hebelê"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "û bi tarîyê"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "û bi tarîyê"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "tê nixumandin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:14.426813353Z",
+  "model": "glm-5.3"
+}

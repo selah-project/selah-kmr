@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Moşe û Ahron van hemû berheman li ber Paro kirin; û Yahwe dilê Paro zexm kir, û kurên Îsraêl ji welatê wî berneda.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Û Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Ahron"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van hemû berheman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "berheman"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "Û ... zexm kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... neda"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "berne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên Îsraêl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ji welatê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:14.722882712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Kahîn wan ber Yahwe pêşkêş dike û ⟨את⟩ qurbanê gunehê wî û ⟨את⟩ qurbanê sotinê wî çê dike.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "pêşkêş dike"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "çê dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanê gunehê wî"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "qurbanê gunehê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanê sotinê wî"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "qurbanê sotinê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:42:01.254063267Z",
+  "model": "glm-5.3"
+}

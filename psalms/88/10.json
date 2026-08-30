@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Çavê min ji ber feqîrîyê xelas bûye; gazî te kirim, Yahwe, di hemû rojan de, ber bi te palmlarên min berdidim.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "çavê min"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "xelas bûye"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîrîyê"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "gazî te kirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojan de"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "berdidim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ber bi te"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palmlarên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:36.510552677Z",
+  "model": "glm-5.3"
+}

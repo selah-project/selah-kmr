@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Bi şûr wê hûn bikevin; li ser sînorê Yisraêl ez ê we bibê daraz, û hûn ê bizanibin ku ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûr"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "hûn ê bikevin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sînorê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ez ê bibê daraz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ we",
+      "marks": "we (bibê daraz)"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "û hûn ê bizanibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T03:46:22.037317134Z",
+  "model": "glm-5.3"
+}

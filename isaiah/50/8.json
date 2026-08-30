@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Nêzîk e yê ku min rast dixebitîne; kî ⟨את⟩ bi min re dê kuşî bike? Were em bi hev re rabin; kî xwediyê doza min e? Were nêzîkî min.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Nêzîk e"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "yê ku min rast dixebitîne"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "dê kuşî bike"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bi min re",
+      "marks": "bi min re"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "Were em bi hev re rabin"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "xwediyê"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "doza min"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "Were nêzîkî"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:31.868626299Z",
+  "model": "glm-5.3"
+}

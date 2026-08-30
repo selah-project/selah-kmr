@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 114,
+  "translation": "Çi ji te re hat, deryayê, ku revî? Êrîdan, çima te xwe vegerand paş?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "revî"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Êrîdan"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "xwe vegerand"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "paş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.699139645Z",
+  "model": "glm-5.3"
+}

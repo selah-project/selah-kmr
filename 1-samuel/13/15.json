@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Şemuel rabû û ji Gilgal êrîşî Gebayê Binjaminê kir; Şaul ⟨את⟩ gelê ku bi wî re dihatin dîtin jimart — bi qasî şeş sed merivan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "êrîşî…kir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gebayê"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminê"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "jimart"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ku…dihatin dîtin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "bi qasî şeş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "merivan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:39:13.820384906Z",
+  "model": "glm-5.3"
+}

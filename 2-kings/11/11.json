@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û kûçek rawestîn, her kes amûrên xwe di destê xwe de, ji milê rastê yê malê heta milê çepê yê malê, li ber qurbangehê û ji bo malê, dora şah bi dor girtin.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "rawestîn"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "kûçek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "amûrên xwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê xwe de"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ji milê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "yê malê"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "rastê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "milê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "yê malê"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "çepê"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "li ber qurbangehê"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "û ji bo malê"
+    },
+    {
+      "surface": "על",
+      "gloss": "dora"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bi dor girtin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:03.544677218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û çawa bû, dema kahînan ji cihê pîroz derketin, ewr ⟨את⟩ xaniyê Yahwe tijî kir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çawa bû"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "dem derketin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahînan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cihê pîroz"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ewr"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tijî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaniyê Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xaniyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:31.188505452Z",
+  "model": "glm-5.3"
+}

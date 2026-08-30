@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "\"Û ez ê şandiyekî berî te bişînin, û ez ê Kenaanî, Emilî, û Xetî, û Perîzî, Xiwî û Yebusî derxin.\"",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "û ez ê bişînin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "berî te"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "şandiyekî"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "û ez ê derxin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanî"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanî"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emilî"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "û Xetî"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "û Perîzî"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Xiwî"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "û Yebusî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:47.305714065Z",
+  "model": "glm-5.3"
+}

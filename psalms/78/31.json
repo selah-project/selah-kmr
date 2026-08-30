@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Hînê Elohîm ser bilind bû ⟨li ser wan⟩ û di himbêzên wan de kuşt, û ciwanên Yisraêl bin xist.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Hînê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ser bilind bû"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨li ser wan⟩"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "di himbêzên wan de"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "û ciwanên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "bin xist"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:17.957073797Z",
+  "model": "glm-5.3"
+}

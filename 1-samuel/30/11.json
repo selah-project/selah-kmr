@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û ⟨את⟩ zilamekî Misirî di zeviyê de dîtin, ⟨את⟩ wî anîn cem Dawid; jê re nan dan û xwar, û av da jê vexwarin.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamekî"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Misirî"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "zilamê Misirî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "da jê vexwarin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:51.599619944Z",
+  "model": "glm-5.3"
+}

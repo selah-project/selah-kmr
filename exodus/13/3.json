@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Moşe ji gel re got: «Bîr bînin ⟨את⟩ vê rojê ku hûn ji Mîtsrayim derketin, ji mala koletiyê; çimkî bi destê bihêz Yahwe hûn ⟨אתכם⟩ ji vir derxist; û hevirî nayê xwarin.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Bîr bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê rojê"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "koletiyê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "bi bihêzî"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ hûn",
+      "marks": "hûn (ji vir)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ji vir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û … na"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nayê xwarin"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "hevirî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:30.143104697Z",
+  "model": "glm-5.3"
+}

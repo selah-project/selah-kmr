@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Wî rûyê xwe berda bal ⟨את⟩ dîwarê û ji Yahwe re dua kir, got:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "berda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê xwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dîwarê"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "dua kir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got:"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:49.407904271Z",
+  "model": "glm-5.3"
+}

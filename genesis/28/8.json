@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Esav dît ku keçên Kenaanê di çavên Yîtshaq bavê wî de xerab bûn.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanê"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtshaq"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:47:43.806255292Z",
+  "model": "glm-5.3"
+}

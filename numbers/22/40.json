@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Balak ga û mih qurban kir û ji bo Bilam û serokezên ⟨את⟩ ku bi wî re bûn şand.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "qurban kir"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "û mih"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ji bo Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "û serokezan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bi wî re bûn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:50:20.171193785Z",
+  "model": "glm-5.3"
+}

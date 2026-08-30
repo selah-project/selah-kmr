@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Wê dîsa ⟨את⟩ yê duyem, dîsa ⟨את⟩ yê sêyem û dîsa ⟨את⟩ hemû yên ku li pey kerîyan diçûn ferman kir, û got: \"Hingî weha ji Esav re bipêjin, gava hûn ⟨את⟩ rastê wî bên.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê duyem"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yê duyem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê sêyem"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "yê sêyem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yên ku diçûn"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "li pey"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "kerîyan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "hingî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "weha"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "bipêjin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "gava hûn… bên"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ rastê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:39.354676497Z",
+  "model": "glm-5.3"
+}

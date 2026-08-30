@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "“Rûyê we jî, dewarên we jî hildin — wek ku hûn gotine — û herin, û ⟨את⟩ min jî biresînin.”",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "rûyê we"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "dewarên we"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "hildin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wek ku"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "hûn gotine"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "û herin"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "û…biresînin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ min",
+      "marks": "min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:31.802064064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Nîvê şevê radibim ji bo ku sipasiyê ji te re bikim, li ser hukmên rastîya te.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "nîvê"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "radibim"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ji bo ku sipasiyê bikim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmên"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "rastîya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:48.169019352Z",
+  "model": "glm-5.3"
+}

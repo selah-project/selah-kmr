@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Kalên me di Mîtsrayimê de aşîtayên te nefêm kirin, ji piraniya xesedên te bêbîr bûn û li ser deryayê serî hildan, li deryaya Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "kalên me"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mîtsrayimê de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nefêm kirin"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "aşîtayên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bêbîr bûn ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piraniya xesedên te"
+    },
+    {
+      "surface": "רב",
+      "gloss": "piraniya"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "xesedên te"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "û serî hildan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "בים",
+      "gloss": "li deryaya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:51.058113295Z",
+  "model": "glm-5.3"
+}

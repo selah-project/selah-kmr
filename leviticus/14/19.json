@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û kahîn dê ⟨את⟩ qurbana-gunehan çê bike û ji bo yê-tê-pakirinê ji nepakîya wî kiper bike, û paşê dê ⟨את⟩ qurbana-şewatê serjê bike.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Û dê … çê bike"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana-gunehan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qurbana-gunehan"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "û dê kiper bike"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yê-tê-pakirinê"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "ji nepakîya wî"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "û paşê"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "dê … serjê bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana-şewatê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana-şewatê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:19.720816938Z",
+  "model": "glm-5.3"
+}

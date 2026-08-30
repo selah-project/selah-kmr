@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "yê ku te di çolê de bi manê xwedî dikir, ku bavên te wî nas nedikirin — da ku te nîşanî feqîriyê bide û da ku te biceribîne, da ku di paşeroja te de bi xêra te bike",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "yê ku te xwedî dike"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "nas nedikirin"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bavên te"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "te nîşanî feqîriyê da"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "û da ku"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "te ceriband"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "bi xêra te bike"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "di paşeroja te de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:46.731284454Z",
+  "model": "glm-5.3"
+}

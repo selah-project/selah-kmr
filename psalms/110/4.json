@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 110,
+  "translation": "Yahwe sond xwar û naxe poşman: «Tu kahînî heta hertimî, li gorî rêza Malki-Tsedek.»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sond xwar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nake"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "poşman"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahînî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rêza"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:23.290338850Z",
+  "model": "glm-5.3"
+}

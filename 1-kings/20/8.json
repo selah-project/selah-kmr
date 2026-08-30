@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û hemû kal û hemû gel jê re gotin: Guh nede û razî nebe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "guh nede"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "razî nebe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:36.431446791Z",
+  "model": "glm-5.3"
+}

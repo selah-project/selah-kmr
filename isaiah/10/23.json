@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Çinku tinekirineke bi tevahî biryarkirî Adonay Yahwe Sebaot di nava hemû erdê de çêdike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tinekirin"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "û bi tevahî biryarkirî"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêdike"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:30.197197436Z",
+  "model": "glm-5.3"
+}

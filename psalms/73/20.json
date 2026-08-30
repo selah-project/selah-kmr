@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "⟨Ew mîna⟩ xewekê ne ji dawi hişyariyê; Adonay, gava tu hişyar dibî, tu wêneyê wan biçûk dibînî.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "⟨Ew mîna⟩ xewekê"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ji dawi hişyariyê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "gava tu hişyar dibî"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "wêneyê wan"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "tu … biçûk dibînî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:25.614921356Z",
+  "model": "glm-5.3"
+}

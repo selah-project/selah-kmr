@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Tu ji hînberiyê hez nakî û peyvên min ber paş xwe davêjî.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "hez nakî"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "hînberiyê"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "û davêjî"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên min"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ber paş xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:17.469048305Z",
+  "model": "glm-5.3"
+}

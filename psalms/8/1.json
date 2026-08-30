@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ji bo serokê muzîkê, li ser Gîtît, mezmûrek ji Dawid re.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gîtît"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmûrek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:42.018336670Z",
+  "model": "glm-5.3"
+}

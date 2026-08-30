@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 93,
+  "translation": "Yahwe bûye key, xwe bi serbilindî girtiye, Yahwe xwe bi hêz girtiye û bi wê xwe kiriye palhend, erd jî hatiye sabit kirin ku naye hejandin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bûye key"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "serbilindî"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "xwe girtiye"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "xwe girtiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "xwe kiriye palhend"
+    },
+    {
+      "surface": "אף",
+      "gloss": "û"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "hatiye sabit kirin"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "erd"
+    },
+    {
+      "surface": "בל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "were hejandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:27.543521167Z",
+  "model": "glm-5.3"
+}

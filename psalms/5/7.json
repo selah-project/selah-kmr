@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Tu ê ên ku derewan diaxivin winda bikî; Yahwe ji mêrê xwînrîj û fêlbaz nefret dike.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "winda bikî"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ên ku diaxivin"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "derew"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwînrîj"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "fêlbaz"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "nefret dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:16.598260936Z",
+  "model": "glm-5.3"
+}

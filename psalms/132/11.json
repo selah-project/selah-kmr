@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Yahwe bi rastî ji Dawid re sond xwar, ji wê dernaxê: «Ji fêkiya zikê te ez ê li ser kursiya te bihelandinê.»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sond xwar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dernaxê"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Ji fêkiya"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "zikê te"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ez ê bihelandinê"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "li ser kursiya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:00.252113134Z",
+  "model": "glm-5.3"
+}

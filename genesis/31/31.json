@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Yaqob bersiv da û ji Lavan re got: Ji ber ku min ditirsî, ji ber ku min got: dibe ku tu ⟨את⟩ keçên xwe bi zorê ji min bigirî.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ji Lavan re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "min ditirsî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dibe ku"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "bi zorê bigirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçên te"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "keçên te"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "ji min"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:10.538842788Z",
+  "model": "glm-5.3"
+}

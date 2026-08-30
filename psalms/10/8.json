@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ew li kuncên gundan bi dizî radiweste; di cihên veşartî de bêgunehan dikuje; çavên wî bi dizî li bendê ji bo belengazan disekinin.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "radiweste"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "li kuncên bi dizî"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "gundan"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di cihên veşartî de"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "dikuje"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "bêgunehan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "ji bo belengazan"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "bi dizî li bendê disekinin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:41.195491162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Ew jî yê biaqil e, û xerabî tîne, û ⟨את⟩ peyvên xwe paşve nake; ew radiwe li ser xaneya xerîkaran û li ser alîkariya kedxwazên pûçiyê.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Û … jî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ew"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yê biaqil"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û tîne"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên wî"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "peyvên xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "paşve dike"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "û radiwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xaneyê"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "xerîkaran"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "alîkariya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kedxwazên"
+    },
+    {
+      "surface": "און",
+      "gloss": "pûçiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:36:57.976312586Z",
+  "model": "glm-5.3"
+}

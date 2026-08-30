@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Yahwe bi Moşe û bi Aharon re axift, got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Û ... axift"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bi ... re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got:"
+    }
+  ],
+  "timestamp": "2026-08-29T18:47:16.991899099Z",
+  "model": "glm-5.3"
+}

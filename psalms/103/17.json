@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Ên xeseda Yahwe ji ⟨⟨ezerî⟩⟩ heta ⟨⟨ezerî⟩⟩ li ser yên ji wî ditirsin, û rastîya wî ji bo neviyên zarokan e.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "xeseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ji ezelî"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eiqedet"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "yên ji wî ditirsin"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "û rastîya wî"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo neviyên"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zarokan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:30.732479458Z",
+  "model": "glm-5.3"
+}

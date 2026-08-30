@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Ezê têkeve mala te bi şewatan; ezê sondên xwe ji te re biqedînim.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ezê têkeve"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mala te"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "bi şewatan"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ezê biqedînim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "sondên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:28.705958175Z",
+  "model": "glm-5.3"
+}

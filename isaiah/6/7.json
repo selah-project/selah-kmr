@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û wî li ser devê min da û got: “Va ye, ev li ser lêvên te da; û sûcê te hat rakirin û gunehê te jî hatê nixumandin.”",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "da"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va ye"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "da"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lêvên te"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "û hat rakirin"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "sûcê te"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "û gunehê te"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "hatê nixumandin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:46.700211593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Mezin ⟨e⟩ Adonayê me, û pir xwedî hêz ⟨e⟩; ji bo têgihiştina wî hejmarek tune ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mezin"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonayê me"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û pir"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ji bo têgihiştina wî"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmarek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.759749210Z",
+  "model": "glm-5.3"
+}

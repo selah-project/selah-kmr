@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji ber ku şeş mehan Yoav û tevahiya Îsraêl li wir ma bûn, heta ku li Edomê hemû nêr qut kir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mehan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ma bûn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "qut kir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nêr"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "li Edomê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:39.044946250Z",
+  "model": "glm-5.3"
+}

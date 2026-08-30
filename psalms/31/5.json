@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Tu min ji vê toreyê derdixî ku ji bo min veşartine, ji ber ku tu keleha min î.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Tu min derdixî"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "toreyê"
+    },
+    {
+      "surface": "זו",
+      "gloss": "vê"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "veşartine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "keleha min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:38.278848992Z",
+  "model": "glm-5.3"
+}

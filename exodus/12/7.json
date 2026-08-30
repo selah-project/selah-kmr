@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ji ⟨את⟩ xwînê bigirin û bidin li ser herdu aliyên derî û li ser tixta-serê derî, li ser wan malan ku tê de wî ⟨אתו⟩ dixwin.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Û bigirin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "û bidin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "aliyên derî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "tixta-serê derî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "wan malan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:07.508822838Z",
+  "model": "glm-5.3"
+}

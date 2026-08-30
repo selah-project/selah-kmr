@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Çawa bû — gava Şemûel pîr bû, wî kurên xwe kir darizdar li ser Yisraêlê.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çawa bû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gava"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "pîr bû"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên xwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "darizdar"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "li ser Yisraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:35.604388859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û hûn wî ⟨את⟩ pîs dikin, dema hûn dibêjin: 'Sifata Adonay pîs e, û berê wî, xwarina wî, bêqîmet e.'",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Û hûn"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "pîs dikin"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "wî ⟨את⟩",
+      "marks": "navê Yahwe"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "dema hûn dibêjin"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sifata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "pîs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "û berê wî"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "bêqîmet"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "xwarina wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:03.953654941Z",
+  "model": "glm-5.3"
+}

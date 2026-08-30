@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Yahwe di perestgeha pîroz a xwe de ⟨ye⟩; Yahwe di ezmanan de ⟨textê xwe heye⟩ — çavên wî dibînin, birçavên wî kurên mirovan dinirxînin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di perestgeha … de"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroz a wî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "textê wî"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "dibînin"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "birçavên wî"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "dinirxînin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:28.292336425Z",
+  "model": "glm-5.3"
+}

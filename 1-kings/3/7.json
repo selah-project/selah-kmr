@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û niha, Yahwe, Elohîmê min, tu xulamê xwe ⟨את⟩ li şûna Dawid, bavê min, kirî padîşah; û ez zarokekî biçûk im — derketin û hatin nizanim.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "kirî padîşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamê te"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê te"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "biçûk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bizanim"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "û hatin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:30.092305920Z",
+  "model": "glm-5.3"
+}

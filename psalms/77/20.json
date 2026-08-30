@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Di deryayê de riya te, û rêçên te di avên mezin de; şopên te nehatin naskirin.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "di deryayê de"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "riya te"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "û rêçên te"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "şopên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "hatin naskirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:04.398637889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ji ber ku keyanî ji bo Yahwe ye, û ew di nav neteweyan de hukim dike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "keyanî"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "û hukim dike"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav neteweyan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:29.558792269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 114,
+  "translation": "Yahuda bû pîrozahiya wî, Yisral jî mamûstetiya wî.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pîrozahiya wî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "mamûstetiya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.144353956Z",
+  "model": "glm-5.3"
+}

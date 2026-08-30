@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "da ku li ser wan bi cîn, ku ⟨את⟩ roja çardehê ya meha Adarê û ⟨את⟩ roja panzdehê ya wê, di her salê û salê de bikin",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "bi cîn"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roja çardehê ya meha Adarê"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "çardehê"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "çardehê"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya meha"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adarê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "roja panzdehê"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "panzdehê"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "panzdehê"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya wê"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di her"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salê"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "û salê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:50.703103169Z",
+  "model": "glm-5.3"
+}

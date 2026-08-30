@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ji bo serokê muzîkê, mezmur ji Dawid re.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokê muzîkê"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:15.821231984Z",
+  "model": "glm-5.3"
+}

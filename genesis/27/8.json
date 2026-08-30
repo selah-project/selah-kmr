@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "«Û niha, kurê min, bi dengê min guh bide tiştê ku ez fermana ⟨את⟩ te dikim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "bi dengê min"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "fermana … dikim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    }
+  ],
+  "timestamp": "2026-08-29T17:46:32.611749475Z",
+  "model": "glm-5.3"
+}

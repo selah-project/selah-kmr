@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Yahwe ⟨את⟩ marên sotî di nav gel de şand, û wan ⟨את⟩ gelê gez kir; û gelek ji gelê Yisraêl mirin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "di nav gel de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marên sotî"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "marên sotî"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "sotî"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "û wan ... gez kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û ... mirin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ji Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:49:37.794861475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Çimkî Elohîm padîşahê hemû erdê ye; stranan bêjin bi têgihîştinê!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "stranan bêjin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bi têgihîştinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:27.450793241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ewqas bû: roja din Filistînî hatin ku ⟨את⟩ kujî derbidarî bikin, û ⟨את⟩ Şaul û ⟨את⟩ kurên wî ketî li çiyayê Gîlbo'a dîtîn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ewqas bû"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "roja din"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistînî"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ku … derbidarî bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujî"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "kujî"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "û dîtîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ketî"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gîlbo'a"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:27.711216732Z",
+  "model": "glm-5.3"
+}

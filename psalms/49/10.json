@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Û dîsa bijî hertimî, qelbê ⟨ne⟩bîne.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Û bijî"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "qelbê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:52.582207648Z",
+  "model": "glm-5.3"
+}

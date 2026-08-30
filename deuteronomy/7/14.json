@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Bêrûk be tu ji hemû gelan; di nav te de na mêrê bêzar û na jina bêzar hebîn e, û di halîyên te de jî.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bêrûk"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "be tu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hebîn e"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di nav te de"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "mêrê bêzar"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "û jina bêzar"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "û di halîyên te de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:38.048798398Z",
+  "model": "glm-5.3"
+}

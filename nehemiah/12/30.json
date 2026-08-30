@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Kohên û Leviyan xwe paqij kirin, û ⟨את⟩ gelê û ⟨את⟩ deriyan û ⟨את⟩ dîwarê paqij kirin.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "paqij kirin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Kohên"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "û Leviyan"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "û paqij kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deriyan"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "deriyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "dîwarê"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "dîwarê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:29:45.278810225Z",
+  "model": "glm-5.3"
+}

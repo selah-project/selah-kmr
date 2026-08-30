@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Ez ê rêyên te ji bo serhildêran hîn bikim, û gunehkar dê vegerin bal te.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ez ê ... hîn bikim"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "serhildêran"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "rêyên te"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "û gunehkar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bal te"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "dê vegerin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:20.659224045Z",
+  "model": "glm-5.3"
+}

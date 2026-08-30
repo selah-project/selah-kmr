@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Ji ber ku tu yî Elohîmê kenarga min, çima te avêtî min? Çima bi şîn û reşiyê diçim, di bin zexta dijmin de?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "kenarga min"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "te avêtî min"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "bi şîn û reşiyê"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "diçim"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "di bin zexta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:22.243072146Z",
+  "model": "glm-5.3"
+}

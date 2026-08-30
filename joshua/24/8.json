@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û min hûn ⟨את⟩ anî bo welatê Emoriyî yê ku wê deriyê Urdunê dijiya, û ew bi we re şer kirin, û min ⟨את⟩ wan da destê we, û hûn ⟨את⟩ welatê wan stendin, û min wan ji ber we qir kir.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "û min anî"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "hûn (⟨את⟩ we)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyî"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yê ku dijiya"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "wê deriyê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdunê"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "û ew şer kirin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bi we re"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "û min da"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "destê we"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "û hûn stendin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "welatê wan"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "welatê wan"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "û min wan qir kir"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ji ber we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:10.141121313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 3:12",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Va, û ⟨את⟩ van gotinan ber bi bakur bang bike û bêje: Vegere, Îsraêlê Vegerok, gotîna Yahwe; êdî rûyê xwe li we nakim ku bikeve, ji ber ku ez xeseddar im, gotîna Yahwe; heta hertimî qehrê bernagirim.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "û bang bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van gotinan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "gotinan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ber bi bakur"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "û bêje"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Vegere"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "Vegerok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotîna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "dixim ku bikeve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "li we"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "xeseddar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotîna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אטור",
+      "gloss": "bernagirim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:50:17.484887779Z",
+  "model": "glm-5.3"
+}

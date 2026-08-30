@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Hemû canewarên rexûs ên firîn ên ku li ser çar lingan diçin — ew ji bo we miqerîh e.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "canewarên rexûs"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ên firîn"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ên ku diçin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar (lingan)"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "miqerîh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:39.036348826Z",
+  "model": "glm-5.3"
+}

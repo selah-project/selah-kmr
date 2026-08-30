@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Ji ber ku ez ⟨⟨am ji bo⟩⟩ çemtinê ⟨am⟩ amade me, û êşa min her tim li ber çavên min e.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "ji bo çemtinê amade"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "amade"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "û êşa min"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "li ber çavên min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "her tim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:55.641846821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û êdî, Yahwe, ji kerema xwe ⟨את⟩ canê min ji min bigire, çimkî mirina min ji jiyana min çêtir e.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û êdî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji kerema xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê min"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "çêtir e"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "mirina min"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ji jiyana min"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:50.909197890Z",
+  "model": "glm-5.3"
+}

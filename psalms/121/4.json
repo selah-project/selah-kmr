@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 121,
+  "translation": "Va ye — ne dixeze û naxewe, yê Îsraêlê diparêze.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Va ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "dixeze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "naxewe"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "yê diparêze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:42.964961912Z",
+  "model": "glm-5.3"
+}

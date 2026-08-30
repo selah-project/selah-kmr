@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Rastiya te min di nava dilê xwe de veşart; bawerî û xelasîya te min got, xesed û rastiya te ji bo civata mezin veşart nekir.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "rastiya te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "veşart"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "baweriya te"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "û xelasîya te"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "veşart"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "û rastiya te"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "ji bo civatê"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mezîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:59.507858414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û £irekî nû li ser Mîtsrayim rabû, £î Yosef nedizanibû ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "£irekî"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "£î"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nedizanibû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:39.803900067Z",
+  "model": "glm-5.3"
+}

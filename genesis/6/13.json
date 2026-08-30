@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Elohîm ji Noşê re got: \"Dawiya hemû goştê berî min hatiye, ji ber ku erd ji zordariya wan tije bûye; û va, ez ê wan bi ⟨את⟩ erdê xera bikim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "ji Noşê re"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "dawiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatiye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tije bûye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zordarî"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "û va"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "ez ê wan xera bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:09.305043990Z",
+  "model": "glm-5.3"
+}

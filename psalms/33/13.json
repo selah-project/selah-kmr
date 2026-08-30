@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Ji ezmanan Yahwe nihêrî; dît ⟨את⟩ hemû kûrên mirov.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ji ezmanan"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nihêrî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû kûrên mirov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:10.639908914Z",
+  "model": "glm-5.3"
+}

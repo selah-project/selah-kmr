@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ⟨את⟩ wan mêran ku li deriyê malê bûn bi koriyê dîn — ji biçûk heta mezin — û ew xacis bûn ku derî bibînin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wan mêran"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "li deriyê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "dîn"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "bi koriyê"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ji biçûk"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "û ew xacis bûn"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ku bibînin"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "derî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:41:21.510089352Z",
+  "model": "glm-5.3"
+}

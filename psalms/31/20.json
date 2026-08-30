@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Çawa qenciya te pirr e — ya ku te ji bo xwedîdaran veşartiye, ya ku te ji bo xwedî penahiyê te, berî çavên zuriyêt Adem pêk aniye!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Çawa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pirr"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "qenciya te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "te veşartiye"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ji bo xwedîdaran"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "te pêk aniye"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "ji bo xwedî penahiyê"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "berî çavên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zuriyêt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adem"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:55.727100291Z",
+  "model": "glm-5.3"
+}

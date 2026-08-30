@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Ez im Yahwe, Elohîmê te, yê ku te ji welatê Mîtsrayimê hildaye: devê xwe fireh bike û ez ê wê tijî bikim.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "hildaye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "fireh bike"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "devê te"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "û ez ê tijî bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:35.916642934Z",
+  "model": "glm-5.3"
+}

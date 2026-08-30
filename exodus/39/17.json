@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û ⟨du⟩ zincîrên zêrîn dan ser ⟨du⟩ ringên li ser dawiyên parsanga-sîngê.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "zincîrên"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêrîn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ringên"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dawiyên"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "parsanga-sîngê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:25.956006691Z",
+  "model": "glm-5.3"
+}

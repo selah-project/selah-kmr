@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ê na — em ê ji zarokên wan veşêrin; ji nifşê dawîn re pesnên Yahwe û hêza wî û ecêbayên wî, yên ku ew kirîne, diafirînin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ê na"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "em ê ... veşêrin"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "ji zarokên wan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "dawîn"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "diafirînin"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "pesnên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "Û hêza wî"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "Û ecêbayên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ew kirîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:48.560835372Z",
+  "model": "glm-5.3"
+}

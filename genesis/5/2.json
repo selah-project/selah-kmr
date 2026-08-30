@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Nêr û mê çêkir wan, wan barekat kir û navê wan Adem kir, di roja ku ew hatin afirandin.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "nêr"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "û mê"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "çêkir wan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wan barekat kir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û navê ... kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wan"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "navê wan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja ku"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "ew hatin afirandin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:57.557487573Z",
+  "model": "glm-5.3"
+}

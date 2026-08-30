@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Dawiya hemû peyvê hatiye bihîstin: ji ⟨את⟩ Elohîm bitirse û ⟨את⟩ fermanên wî biparêze, çinko ev hemûyî ⟨ה⟩ mirov e.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "dawiya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyvê"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "hatiye bihîstin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bitirse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên wî"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "fermanên wî"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemûyî"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:27.285280953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ⟨את⟩ Baalat û ⟨את⟩ Tamara, di çolê de, di welêt de.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tamara"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welêt de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:46.397887731Z",
+  "model": "glm-5.3"
+}

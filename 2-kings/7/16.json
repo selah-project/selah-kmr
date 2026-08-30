@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û gel derket û ⟨את⟩ ordiya Eram talan kir; û bû wekî: se'ayeke ardê-nivêkî bi şêkelî, û du se'ên cehê bi şêkelî, gorî peyva Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "û derket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "û talan kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordiya Eram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ordiya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Eram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "se'ayeke"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ardê-nivêkî"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bi şêkelî"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "û du se'ên"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "cehê"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bi şêkelî"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gorî peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:15.870806481Z",
+  "model": "glm-5.3"
+}

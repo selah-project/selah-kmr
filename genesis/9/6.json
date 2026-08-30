@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ku xwînê mirov bihelîne, bi destê mirov xwîna wî tê helandin; çimkî di wêne Elohîm de ⟨את⟩ mirov çê kir.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ku … bihelîne"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "bi destê mirov"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "xwîna wî"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "tê helandin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "di wêne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çê kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirov"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:19.641198479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û wê bibe: ji newalê wê vexwî, û ⟨את⟩ qijikan fermandar kirine ku li wir xwedî te bikin.»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "û wê bibe"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "ji newalê"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "wê vexwî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qijikan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "qijik"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "fermandar kirine"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ku xwedî te bikin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    }
+  ],
+  "timestamp": "2026-08-30T03:36:09.192446971Z",
+  "model": "glm-5.3"
+}

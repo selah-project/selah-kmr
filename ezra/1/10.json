@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Fincaneyên zêrî sî, fincaneyên zîvî yên duyem çarsed û deh, û alavên din hezar.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "fincaneyên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrî"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sî"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "fincaneyên"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîvî"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "yên duyem"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "û deh"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "alavên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    }
+  ],
+  "timestamp": "2026-08-30T06:22:01.025497794Z",
+  "model": "glm-5.3"
+}

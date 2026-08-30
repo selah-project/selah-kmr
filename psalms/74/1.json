@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Maskîl ê Asaf. Çima, ey Elohîm, tu me ji bo ⟨hertim⟩ avêtine? Hêrsa te li berxwê çêrîna te difikire.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskîl"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ê Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Çima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ey Elohîm"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "tu avêtine"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ji bo hertim"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "difikire"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "Hêrsa te"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "li berxwê"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "çêrîna te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:44.887383144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ⟨את⟩ Gat, ⟨את⟩ Mareşa û ⟨את⟩ Zîf.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mareşa"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareşa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zîf"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zîf"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:13.740017004Z",
+  "model": "glm-5.3"
+}

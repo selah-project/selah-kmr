@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Şaul şand ba Yîşay û got: «Bila Dawid, bitaybî, li ber min bisekine, ji ber ku ew di çavên min de xezal peyda kir.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yîşay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bisekine"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bitaybî"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "peyda kir"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xezal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên min de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:39.490654066Z",
+  "model": "glm-5.3"
+}

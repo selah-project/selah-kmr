@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Yê ku li erdê dinêre û ew dilerize, çiyayan dideh û ew dûman dikin.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Yê ku dinêre"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "li erdê"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "dilerize"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "dideh"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "çiyayan"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "dûman dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:49.886946448Z",
+  "model": "glm-5.3"
+}

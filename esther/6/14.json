@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Hîn bi wî re diaxiftin ku xulamên nefîkirî yên key hatin, û lezînin ku Haman ⟨את⟩ bînin bal şahiya ku Ester çêkiribû.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "diaxiftin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "û xulamên nefîkirî yên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "lezînin"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ku bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "şahiya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:40.218143938Z",
+  "model": "glm-5.3"
+}

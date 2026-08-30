@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Dilê min bi amade ye, ey Elohîm, dilê min bi amade ye; ez ê strînan bêjim û pesnê bidim.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "bi amade ye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ey Elohîm"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "bi amade ye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "strînan bêjim"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "û pesnê bidim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:18.099167210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û Yahwe ⟨את⟩ gelê bi têkçûnê lê da, ji ber ku ⟨את⟩ golikê çêkiribûn ku Aharon çêkiribû.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "bi têkçûnê lê da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkiribûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golikê"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "golikê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:41.838738246Z",
+  "model": "glm-5.3"
+}

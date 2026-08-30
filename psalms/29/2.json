@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Bidin Yahwe rûmeta navê wî, li ber Yahwe bi xweşikahiya pîrozahiyê serwerî bikin.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Bidin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "serwerî bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "bi xweşikahiya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîrozahiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:45.748223656Z",
+  "model": "glm-5.3"
+}

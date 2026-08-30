@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Lê ez wekî ker nabihîzim, û wekî lalekî im ku devê xwe venake.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "lê ez"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "wekî ker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "bihîzim"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "û wekî lalekî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "venake"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "devê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:59.933468539Z",
+  "model": "glm-5.3"
+}

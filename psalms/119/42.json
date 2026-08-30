@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Û ez ê bersivê bide yê ku min rexne dike, çimkî min ewlehiya ji peyva te re kir.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "û ez ê bersivê bide"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "yê ku min rexne dike"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bersiv (peyvek)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "min ewlehiya kir"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ji bo peyva te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:03.198546547Z",
+  "model": "glm-5.3"
+}

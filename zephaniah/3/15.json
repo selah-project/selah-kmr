@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Yahwe hukmên te yê xerab rakiriye, dijminê te qels kiriye; Şahê Yisraêl, Yahwe, di nava te de ye; êdî ji xerabîyê netirse.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "rakiriye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmên te"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "qels kiriye"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "dijminê te"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Şahê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di nava te de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "netirse"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ji xerabîyê"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:00.521225398Z",
+  "model": "glm-5.3"
+}

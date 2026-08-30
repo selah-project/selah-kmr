@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Dengê Yahwe li ser avan ⟨ye⟩; Êlê rûmetê dileyîde, Yahwe li ser avên pir ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êlê"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "rûmetê"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "dileyîde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:45.748432010Z",
+  "model": "glm-5.3"
+}

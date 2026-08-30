@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Êla ⟨את⟩ welêt destên gelê Yehûdah sist dikirin û di avakirinê de wan ditirsandin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "sist dikirin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûdah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "û ditirsandin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "di avakirinê de"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:05.319591304Z",
+  "model": "glm-5.3"
+}

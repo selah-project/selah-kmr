@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Wî bi dijwariyê dilê wan netirîhand; ew peliştin û kesê ku alîkarî bike tune bû.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "netirîhand"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "bi dijwariyê"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "peliştin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "alîkar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:20.583561089Z",
+  "model": "glm-5.3"
+}

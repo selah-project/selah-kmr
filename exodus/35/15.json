@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "û ⟨את⟩ altara bûyî û ⟨את⟩ darikên wê û ⟨את⟩ rûnê-xelekê û ⟨את⟩ bûyê biharatan û ⟨את⟩ perdeya derî li deriyê mishkanê",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "altara bûyî"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altara"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "bûyî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "darikên wê"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "darikên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûnê-xelekê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xelekê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "bûyê biharatan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "bûyê"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "biharatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "perdeya derî"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perdeya"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "derî"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "li deriyê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkanê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:11.562479197Z",
+  "model": "glm-5.3"
+}

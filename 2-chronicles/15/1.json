@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û ruhê Elohîm bûbû serê Ezarya, kurê Oded.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Û li ser Ezarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Oded"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bûbû"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "serê wî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:46:50.749456834Z",
+  "model": "glm-5.3"
+}

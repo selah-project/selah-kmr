@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ji bo daristan, avakaran, xirab-dîzanan û ji bo kirîna dar û kevirên qulkirî, da ku ⟨את⟩ xanî sax bikin.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "daristan"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "avakaran"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "xirab-dîzanan"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "ji bo kirîna"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "û kevirên"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "qulkirî"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "da ku sax bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xanî"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:08.693562502Z",
+  "model": "glm-5.3"
+}

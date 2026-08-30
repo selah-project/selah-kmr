@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Û Elohîm, padîşahê min ê ji kevnariyê, di nava erdê de xelasîyan çêdike.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Û Elohîm"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahê min"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ê ji kevnariyê"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "çêdike"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "xelasîyan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:58.223654731Z",
+  "model": "glm-5.3"
+}

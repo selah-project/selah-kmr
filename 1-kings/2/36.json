@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 2:36",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û key şand û gazî Şimî kir û jê re got: “Ji xwe re li Yeruşalayim xanî çêke û li cî bikî, û ji wir dernekebî vir û bir.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "û-şand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û-gazî-kir"
+    },
+    {
+      "surface": "לשמעי",
+      "gloss": "gazî-Şimî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û-got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê-re"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji-xwe-re"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li-Yeruşalayim"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "û-li-cî-bikî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li-wir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û-na"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "derkevî"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji-wir"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "vir"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "û-bir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:00.287021778Z",
+  "model": "glm-5.3"
+}

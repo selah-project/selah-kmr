@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Bila xebat li ser mêran giran bibe û tê de bixebitin, û bila guh nedin peyvên derewîn.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "bila… giran bibe"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "xebat"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bila… bixebitin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bila… ne"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "guh nedin"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:53.767109381Z",
+  "model": "glm-5.3"
+}

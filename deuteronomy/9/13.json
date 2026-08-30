@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Yahwe ji min re got: „Min ⟨את⟩ ev gel dît, û tê binêre, ew gelê stû-sert e.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotinê"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Min dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û tê binêre"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sert"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "stû"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:30.430489820Z",
+  "model": "glm-5.3"
+}

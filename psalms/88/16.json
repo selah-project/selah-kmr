@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Ez bi êş me, û nêzîkê mirinê ji ciwanîyê ve; tirsên te hildayim, ez têdirovim.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "bi êş me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "Û nêzîkê mirinê"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ji ciwanîyê ve"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "hildayim"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "tirsên te"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ez têdirovim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:09.186987615Z",
+  "model": "glm-5.3"
+}

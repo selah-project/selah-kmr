@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Tu wan wek avê rijand; ew dibin xewek; sibehê wek giha derbas dibe.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Tu wan rijand"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "xewek"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dibin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "wek giha"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "derbas dibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:53.546571902Z",
+  "model": "glm-5.3"
+}

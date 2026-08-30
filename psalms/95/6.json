@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 95,
+  "translation": "Werin, em secde bikin û em xwar bike, em li ber Yahwe Afirînerê xwe rûdin.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Werin"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "em secde bikin"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "û em xwar bike"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "em rûdin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Afirînerê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:23.018300641Z",
+  "model": "glm-5.3"
+}

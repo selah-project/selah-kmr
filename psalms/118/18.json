@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Hînî da, hînî da min Yah, û bo mirinê neda min.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "hînî da"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "min hînî kir"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "û bo mirinê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "neda min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:21.442199267Z",
+  "model": "glm-5.3"
+}

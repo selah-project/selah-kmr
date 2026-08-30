@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ji ber ku Yahwe guh dide belengazan û ⟨את⟩ girtiyên xwe biçûk nabîne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guh dide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "belengazan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "girtiyên xwe"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "girtiyên xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "biçûk nabîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:05.577178821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Min lez kir û nesekinîm, ji bo parastina fermanên te.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "min lez kir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "min devjêberand (hesitand)"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ji bo parastinê"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "fermanên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:20.792499256Z",
+  "model": "glm-5.3"
+}

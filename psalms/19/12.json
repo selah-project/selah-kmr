@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Hemû xizmetdarê te jî bi wan tê hişyarkirin, û di parastina wan de xelateke mezin ⟨heye⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hemû… jî"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xizmetdarê te"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "tê hişyarkirin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "di parastina wan de"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "xelat (berdeme)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:25.660692257Z",
+  "model": "glm-5.3"
+}

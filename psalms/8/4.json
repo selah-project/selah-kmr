@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Gava ku min ezmanên te dibînin, karên tiliyên te — heyv û stêrkên ku tu avakirî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gava ku"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "min ... dibînin"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ezmanên te"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karên"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "tiliyên te"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "heyv"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "û stêrk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "tu avakirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:42.019114068Z",
+  "model": "glm-5.3"
+}

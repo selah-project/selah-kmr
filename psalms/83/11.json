@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Li En-Dor hatine nebûnkirin; bûne sergî ⟨ji bo⟩ erdê.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "hatine nebûnkirin"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "li En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûne"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "sergî"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ji bo erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:12.605270436Z",
+  "model": "glm-5.3"
+}

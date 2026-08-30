@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Balakê kurê Tsîpor dît ⟨את⟩ hemû tiştê ku Yisraêl ji bo Emoriyan kiribû.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsîpor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tişt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiribû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ji bo Emoriyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:50:08.684263604Z",
+  "model": "glm-5.3"
+}

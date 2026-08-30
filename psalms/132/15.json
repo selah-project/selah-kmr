@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Xwarina wê ez ê bi xêrkatî bêrîkim; feqîrên wê ez ê bi nan têr bikim.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "xwarina wê"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bêrîkim"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "bêrîkim"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "feqîrên wê"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "têr dikim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:20.709073388Z",
+  "model": "glm-5.3"
+}

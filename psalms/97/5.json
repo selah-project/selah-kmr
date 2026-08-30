@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Çiya wekî donî heliyan li pêşberî Yahwe, li pêşberî Adonay a hemû erdê.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "wekî donî"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "heliyan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "li pêşberî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "li pêşberî"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:28.049596220Z",
+  "model": "glm-5.3"
+}

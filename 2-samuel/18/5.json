@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û padîşah ferman da ⟨את⟩ Yoav û ⟨את⟩ Avîşay û ⟨את⟩ Îtay, got: \"Bi nermî — ji bo min, ji bo xort, ji bo Avşalom.\" Û tevaya gel bihîst gava padîşah ferman da ⟨את⟩ hemû seroke li ser peywa Avşalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avîşay"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avîşay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Îtay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Îtay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "bi nermî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ji bo xort"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "ji bo Avşalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "gava ... ferman da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû seroke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "seroke"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyw"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    }
+  ],
+  "timestamp": "2026-08-29T19:55:42.962756367Z",
+  "model": "glm-5.3"
+}

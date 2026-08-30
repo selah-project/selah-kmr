@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Bi mêşînên xwe û ga xwe digerin ⟨את⟩ Yahwe, lê ew ê wî neyînin; ew ji wan vekişand ⟨e⟩.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "bi mêşînên xwe"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "û bi ga xwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "digerin"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ji bo lêgerînê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ê neyînin"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "vekişand"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:04.905274680Z",
+  "model": "glm-5.3"
+}

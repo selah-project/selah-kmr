@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Yahwe ⟨את⟩ mirov dûr dixe, û ya bêxwedan di nav erdê de zêde dibe.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "û dûr dixe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirov"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "û zêde dibe"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ya bêxwedan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:36:23.250964731Z",
+  "model": "glm-5.3"
+}

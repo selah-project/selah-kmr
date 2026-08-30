@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 23:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û wî got: êdî tu dê nebî ya ku serbilind be, keçika sitemkirî, keça Sîdonê; rabû, derbas bû Kîtîmê; ger çawa li wir jî ji te re aramî nîne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wî got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "dê nebî… êdî"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "לעלוז",
+      "gloss": "serbilind be"
+    },
+    {
+      "surface": "המעשקה",
+      "gloss": "sitemkirî"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "keçika"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Sîdonê"
+    },
+    {
+      "surface": "כתיים",
+      "gloss": "Kîtîmê"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "aramî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:15.406316711Z",
+  "model": "glm-5.3"
+}

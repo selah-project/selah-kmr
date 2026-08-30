@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ew ⟨את⟩ pêkhateka alî li ser tevî ⟨את⟩ xanî çê kir, pênc şîniyan bilindahiya wê; û ew ⟨את⟩ xanî bi darên sedrê girêda.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "çê kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêkhateka alî"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "pêkhateka alî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevî"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "şîniyan"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bilindahiya wê"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "girêda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xanî"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "bi darên"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedrê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:43.600744016Z",
+  "model": "glm-5.3"
+}

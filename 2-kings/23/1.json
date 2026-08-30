@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û key şand, û ber bi wî de hemû kalên Yehûda û Yeruşalayim civiyan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ber bi wî de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:25:35.822399443Z",
+  "model": "glm-5.3"
+}

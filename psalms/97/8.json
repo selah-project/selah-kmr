@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Siyon bihîst û şa bû, û keçên Yehûda kêfxweş bûn ji ber hukmên te, ey Yahwe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "û şa bû"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "û kêfxweş bûn"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmên te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:28.050165127Z",
+  "model": "glm-5.3"
+}

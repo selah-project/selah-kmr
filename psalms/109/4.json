@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Şûna evîna min ew accizên min kirine — û ez ⟨im⟩ dua.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "şûna"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "evîna min"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ew accizên min kirine"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.024685202Z",
+  "model": "glm-5.3"
+}

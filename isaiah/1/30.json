@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber ku hûn ê wek dara ku pelê wê keliya bin, û wek baxçeyê ku avê ji wî re ⟨tune⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "hûn ê bin"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "wek dara"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "pelê wê"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "û wek baxçeyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:27.044359335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Elohîm bi qêrînê bilind bûye, Yahwe bi dengê keriyê (şofar).",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "bilind bûye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "bi qêrînê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "keriyê (şofar)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:27.450455949Z",
+  "model": "glm-5.3"
+}

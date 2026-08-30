@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 2:4",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Eliyahu ji wî re got: «Elişa, li vir rûne, ji kerema xwe, çimkî Yahwe şandiye min Yerîxoyê.» Û wî got: «Wekî ku Yahwe zindî ye û canê te zindî ye, ger ez te bihêlim.» Û ew hatin Yerîxoyê.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "rûne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji kerema xwe"
+    },
+    {
+      "surface": "פה",
+      "gloss": "li vir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "şandiye min"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "YerîXoyê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindî ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "û… zindî ye"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê te"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ez te bihêlim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "YerîXoyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:56.193229052Z",
+  "model": "glm-5.3"
+}

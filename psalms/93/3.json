@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 93,
+  "translation": "Çem bilind bûne, Yahwe, çem bilind bûne dengê xwe, çem bilind dikin pêlên xwe yên dijwar.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "bilind bûne"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "bilind bûne"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çem"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dengê xwe"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bilind dikin"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çem"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "pêlên dijwar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:27.544006886Z",
+  "model": "glm-5.3"
+}

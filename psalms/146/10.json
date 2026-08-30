@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 146,
+  "translation": "Yahwe heta hertimî keyanî dike; Elohîmê te, Siyon, heta nifş û nifşê. Yah pesnê bidin!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "keyanî dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "heta nifş"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "û nifşê"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pesnê bidin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:06.529563394Z",
+  "model": "glm-5.3"
+}

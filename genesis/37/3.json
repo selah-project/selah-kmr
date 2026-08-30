@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û Îsraêl ji hemû kurên xwe zêdetir ⟨את⟩ Yosef dixwazîn, ji ber ku ew kurê kalatiya wî bû; û ji wî re kirasokek dirêj a destdirêj çêkir.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Û Îsraêl"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dixwazîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kalatiyê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "û çêkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kirasok"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "dirêj ên destdirêj"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:14.680014402Z",
+  "model": "glm-5.3"
+}

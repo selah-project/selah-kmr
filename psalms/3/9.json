@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ji Yahwe ra rizgarî ⟨ye⟩; li ser gelê te berekta te ⟨ye⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe ra"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "rizgarî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "berekta te"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:07.338630949Z",
+  "model": "glm-5.3"
+}

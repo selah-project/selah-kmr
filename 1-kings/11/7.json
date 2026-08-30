@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Wê demê Şelomo bilindahiyek çêkir ji bo Kemowş, tiştê-netirsiyayî yê Moab, li ser çiyayê berî Yeruşalayim, û ji bo Molech, tiştê-netirsiyayî yê kurên Ammon.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wê demê"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "במה",
+      "gloss": "bilindahiyek"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "ji bo Kemowş"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "tiştê-netirsiyayî"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li ser çiyayê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "û ji bo Molech"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "tiştê-netirsiyayî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:29.746831768Z",
+  "model": "glm-5.3"
+}

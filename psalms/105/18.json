@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Bi zencîran lingên wî êşandin, hesin kete canê wî.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "êşandin"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "bi zencîran"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wî"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hesin"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ket"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:46.471773162Z",
+  "model": "glm-5.3"
+}

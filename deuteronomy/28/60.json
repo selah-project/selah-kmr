@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û ew ê ⟨את⟩ hemû nexweşiyên Mîtsrayim, yên ku tu ji ber wan ditirsiyayî, dîsa li ser te vegerîne, û ew ê bi te ve bidin.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "Û ew ê ... dîsa vegerîne"
+    },
+    {
+      "surface": "בך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû nexweşiyên Mîtsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "nexweşiyên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "tu ditirsiyayî"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ji ber wan"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "û ew ê bi te ve bidin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bi te ve"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:42.880482123Z",
+  "model": "glm-5.3"
+}

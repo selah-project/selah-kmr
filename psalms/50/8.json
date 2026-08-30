@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Ji ber qurbanên te ez tu guneh dernaxim; şewatên te hertim berî min in.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tu … na"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "qurbanên te"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "guneh dernaxim"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "şewatên te"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "berî min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:37.646709633Z",
+  "model": "glm-5.3"
+}

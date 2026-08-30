@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Ji ber ku ew dibînin ku zimzendî dimirin, bi hev re kêmbîn û nelîs wenda dibin, û dewlemendiya xwe ji bo yên din dihêlin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ew dibînin"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "zimzendî"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "dimirin"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kêmbîn"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "û nelîs"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "wenda dibin"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "û dihêlin"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ji bo yên din"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "dewlemendiya wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:52.582464336Z",
+  "model": "glm-5.3"
+}

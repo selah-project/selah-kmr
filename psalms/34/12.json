@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Werin, gelî zarokan, guhdarî min bikin; ditirsin a Yahwe ez ê we bidim hînkirin.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "werin"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "gelî zarokan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "guhdarî bikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ditirsin a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ez ê we bidim hînkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:25.987712828Z",
+  "model": "glm-5.3"
+}

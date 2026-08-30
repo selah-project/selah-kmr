@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Yonatan posteye (nîşanxaneya) Fîlîstiyan a li Gewa êrîş bir ⟨את⟩; û Fîlîstî bihîstin; û Şaul di hemû welêt de bi karnêt lêdan da, got: 'Bihîzin Îbranî!'",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "û êrîş bir"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posteye (nîşanxaneya) Fîlîstiyan"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "posteye"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîstiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "li Gewa"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "û bihîstin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîstî"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Û Şaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "lêdan da"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "bi karnêt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt de"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "י שמעו",
+      "gloss": "Bihîzin"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Îbranî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:39:21.788022643Z",
+  "model": "glm-5.3"
+}

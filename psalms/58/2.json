@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Ma bi rastî hûn di bêdengiyê de rastiyê diaxivin? Ma hûn rast dadrêsî dikin, kurên mirovan?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Ma bi rastî"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "di bêdengiyê de"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "diaxivin"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "rast"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "dadrêsî dikin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:00.400769905Z",
+  "model": "glm-5.3"
+}

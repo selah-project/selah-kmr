@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Avraham ⟨את⟩ heft beranên mişkan ji mêvanan cihê kir tenê ji xwe re.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "cihê kir"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heft beranên mişkan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "beranên mişkan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ji mêvanan"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "tenê ji xwe re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:41:53.987784750Z",
+  "model": "glm-5.3"
+}

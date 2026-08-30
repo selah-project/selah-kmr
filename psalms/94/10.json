@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Şêwirmendê gelan, ma napixume? Hînkerê mirovan zanînê, ⟨ma nizane?⟩",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "şêwirmend"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "napixume"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "hînker"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanînê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:51.098524639Z",
+  "model": "glm-5.3"
+}

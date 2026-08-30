@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û Yitshaq bavê wî ji wî re got: “Tu kî yî?” Û wî got: “Ez kurê te, yê pêşîn ê te, Eşav im.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ... got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Tu kî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wî got"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "yê pêşîn ê te"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eşav"
+    }
+  ],
+  "timestamp": "2026-08-29T17:47:27.420184247Z",
+  "model": "glm-5.3"
+}

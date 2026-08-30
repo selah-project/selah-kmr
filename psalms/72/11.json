@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Û hemû şah li ber wî secde dikin, hemû gel jî xizmetê wî dikin.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "secde dikin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "şah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "xizmetê wî dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:31.627632313Z",
+  "model": "glm-5.3"
+}

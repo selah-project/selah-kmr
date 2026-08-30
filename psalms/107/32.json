@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Û bila wî di civata gel de bilind bikin, û di rûniştinê kalanan de wî pak bizanibin!",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Û bila wî bilind bikin"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "di civatê de"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "û di rûniştinê de"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kalanan"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "wî pak bizanibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:28.943776692Z",
+  "model": "glm-5.3"
+}

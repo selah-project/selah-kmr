@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û dema ku Aharon ⟨את⟩ fîşîlan di nav êvaran de bilind dike, ê wê biqurtîne — bihûna herdemî li ber Yahwe, ji bo neslên we.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "dema ku bilind dike"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fîşîlan"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "fîşîlan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "êvaran"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "ê wê biqurtîne"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "bihûna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "herdemî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ji bo neslên we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:29.125739626Z",
+  "model": "glm-5.3"
+}

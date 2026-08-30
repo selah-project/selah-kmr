@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ashur (Aşûr) me naye xilaskirin, em ê siwarî hespan nebîn, û em ê êdî nebêjin 'Elohîmên me' ji karê destên me re, çimkî di te de sêwî dilovaniyê dibîne.",
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "me xilas dike"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hesp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "em siwarî ... dibin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "em dibêjin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmên me"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "ji karê ... re"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "destên me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "dilovanî dibîne"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sêwî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:59.214448935Z",
+  "model": "glm-5.3"
+}

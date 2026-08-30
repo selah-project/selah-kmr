@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Ji Dawid. Ji ber xeraban aciz nebe, ji kedsazên çewtiyê durutî neke.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "aciz nebe"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ji ber xeraban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "durutî neke"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ji kedsazên"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "çewtiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:10.846744454Z",
+  "model": "glm-5.3"
+}

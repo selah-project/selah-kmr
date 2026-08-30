@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Şindan hatin, û va, pûtên malê li ser nivînê bûn, û çermê-mûyê-bizinan li serê wî.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "Şindan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "pûtên malê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "nivînê"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "çermê-mûyê-bizinan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "li serê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:56.170071090Z",
+  "model": "glm-5.3"
+}

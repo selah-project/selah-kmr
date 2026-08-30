@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Lê ez, di firehiya xesedê te de, êdî dikevim mala te; ez di tirsa te de berê xwe didim perestgeha pîroz a te.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Lê ez"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "di firehiya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "dikevim"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mala te"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ez secde dikim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berê xwe didim"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "perestgeha"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pîroz a te"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "di tirsa te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:16.598406427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Jîrî zanyar xurt dike, ji deh serdehên ku di bajar de bûn zêdetir.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "jîrî"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "xurt dike"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "zanyar"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ji deh"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "serdehên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajar de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:40.962295936Z",
+  "model": "glm-5.3"
+}

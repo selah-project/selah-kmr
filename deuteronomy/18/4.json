@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Yekemîna genimê te, mêyê te, rûnê te û yekemîna kurdikên miyên te, ji wî re bidî.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "yekemîna"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "genimê te"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "mêyê te"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "û rûnê te"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "û yekemîna"
+    },
+    {
+      "surface": "גז",
+      "gloss": "kurdikên"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "miyên te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bidî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:06:21.061749151Z",
+  "model": "glm-5.3"
+}

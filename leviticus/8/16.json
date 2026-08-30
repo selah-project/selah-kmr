@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨wî⟩ ⟨את⟩ hemû çewriya ku ser rûviyan bû û ⟨את⟩ perçê zêde yê kezebê û ⟨את⟩ herdu gurçikan û ⟨את⟩ çewriya wan girt; Moşe wan li ser altarê şewitand.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû çewrî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "çewriya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "rûviyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "perçê zêde yê kezebê"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "perçê zêde yê"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kezebê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "herdu gurçik"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "gurçikên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çewriya wan"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "çewriya wan"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "şewitand (hûr kir)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser altarê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:33.992203538Z",
+  "model": "glm-5.3"
+}

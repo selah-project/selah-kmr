@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Elohîm ji ezmanan li ser zarokên mirovan nihêrî, ji bo ku bibîne gelo ⟨⟨kî heye⟩⟩ yê têgihîştî, yê ⟨את⟩ Elohîm digere.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ji ezmanan"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nihêrî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ji bo ku bibîne"
+    },
+    {
+      "surface": "היש",
+      "gloss": "gelo kî heye"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yê têgihîştî"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yê digere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:50.585532106Z",
+  "model": "glm-5.3"
+}

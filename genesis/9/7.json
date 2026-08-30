@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û hûn jî hêja bidin û pir bibin, li ser erdê belav bibin û tê de pir bibin.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Û hûn jî"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "hêja bidin"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "û pir bibin"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "belav bibin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li ser erdê"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "û pir bibin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:19.641711804Z",
+  "model": "glm-5.3"
+}

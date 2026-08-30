@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 13:14",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Elohîmê min, ji bo vê yekê ji min re bîr bîne, û xesedê min ji bo mala Elohîmê min û parêzgehên wî ê min kirî ne jê bibe.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "bîr bîne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê yekê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "jê bibe"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "xesedê min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min kirî"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ji bo mala"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "ובמשמריו",
+      "gloss": "û ji bo parêzgehên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:48.619643549Z",
+  "model": "glm-5.3"
+}

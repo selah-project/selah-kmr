@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ⟨את⟩ Ayn û ⟨את⟩ çêzên wê, û ⟨את⟩ Yuta û ⟨את⟩ çêzên wê, ⟨את⟩ Bêt-Şemeş û ⟨את⟩ çêzên wê — neh bajêr, ⟨את⟩ ji van her du eşîran.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Ayn"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêzên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêzên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yuta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêzên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêzên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bêt-Şemeş"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bêt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Şemeş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêzên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêzên wê"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "neh"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ji"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "eşîran"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:53.559244692Z",
+  "model": "glm-5.3"
+}

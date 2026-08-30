@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Ji bo wan yên peymana wî diparêzin û fermanên wî bi bîr tînin da ku wan bikin.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "ji bo wan yên diparêzin"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "peymana wî"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "û ên bi bîr tînin"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "fermanên wî"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "da ku wan bikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:30.732793562Z",
+  "model": "glm-5.3"
+}

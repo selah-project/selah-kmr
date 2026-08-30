@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 64,
+  "translation": "Kû zimanê xwe wek şûr hişk kirin, tîrên xwe dan rê — peyveke tal.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kû"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "hişk kirin"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "wek şûr"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "zimanê xwe"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "dan rê"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "tîrên xwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyvek"
+    },
+    {
+      "surface": "מר",
+      "gloss": "tal"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:47.525328372Z",
+  "model": "glm-5.3"
+}

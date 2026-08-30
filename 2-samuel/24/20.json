@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Aravnah nihêrî û ⟨את⟩ padîşah û ⟨את⟩ xulamên wî dît ku ber bi wî ve derbas dibûn; Aravnah derket û li ber padîşah rûyê xwe bi erdê da secdekir.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "nihêrî"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "û dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padîşah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên wî"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "derbas dibûn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ber bi wî ve"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "û derket"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "û secde kir"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "li ber padîşah"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "bi erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:50.490472495Z",
+  "model": "glm-5.3"
+}

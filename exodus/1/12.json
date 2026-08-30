@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û qasî ku wan ⟨את⟩ wan zordarî kir, ew qas zêde bûn û belav bûn; û Mîtsrayimî ji ber kûrên Yisraêl bi nefretê hatin.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Û qasî ku"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "wan zordarî kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wan (gelê Yisraêl)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ew qas"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "zêde bûn"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "û ew qas"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "belav bûn"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "bi nefretê hatin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:27.021949999Z",
+  "model": "glm-5.3"
+}

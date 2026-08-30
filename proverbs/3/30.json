@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Bi mirovekî re bê sedem ne têkoşe, ger ew xerabî bi te re nekiribe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "têkoşe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bê sedem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "bi te re kirî"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:29.601497089Z",
+  "model": "glm-5.3"
+}

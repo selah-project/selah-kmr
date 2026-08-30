@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û şer di navbera Asa û di navbera Başa, şahê Yisraêl, de hebû, di hemû rojên wan de.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Û şer"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "hebû"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "şahê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "rojên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:28.789079277Z",
+  "model": "glm-5.3"
+}

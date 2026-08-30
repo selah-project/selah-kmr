@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Tu bilind bûyî, tu dîlî girtî dîl; tu diyariyan ji mirovan stendin, û ji serhildêran jî, da ku Yah, Elohîm, lê bi cih bibe.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "tu bilind bûyî"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ber bi bilindahiyê"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "tu dîlî girtî"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "dîl"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "tu stendin"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "diyariyan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ji mirovan"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "serhildêran jî"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "da ku bi cih bibe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:27.991336017Z",
+  "model": "glm-5.3"
+}

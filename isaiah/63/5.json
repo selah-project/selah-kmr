@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Û min nihêrt û ⟨tu⟩ alîkar tune bû, Û min ecêbmayî kir ku ⟨tu⟩ piştgir tune bû; êdî stûna-milê min ji min re rizgarî anî, û hêrsa min — ew piştgirî da min.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "û min nihêrt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune bû"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "alîkar"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "û min ecêbmayî kir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune bû"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "piştgir"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "û rizgarî anî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "stûna-milê min"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "û hêrsa min"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "piştgirî da min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:51.052060216Z",
+  "model": "glm-5.3"
+}

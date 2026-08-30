@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ez ji xwe re kaniyên avê çêkirin, da ku ji wan av bidim daristanê ku darên xwe derdixe.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "çêkirim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "kaniyên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "da ku av bidim"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "יער",
+      "gloss": "daristanê"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ku derdixe (şîn dibe)"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "darên"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:29.878979748Z",
+  "model": "glm-5.3"
+}

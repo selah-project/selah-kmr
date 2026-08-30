@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Elohîmê xesedê min ê pêşî li min bigire; Elohîm dê nîşanî min bide dijminên min.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê min"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ê pêşî li min bigire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "dê nîşanî min bide"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "dijminên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:31.262965159Z",
+  "model": "glm-5.3"
+}

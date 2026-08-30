@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji ber ku Ezrâ dilê xwe amade kirî bû ji bo lêgerîna ⟨את⟩ Tora Yahwe, û ji bo kirinê, û ji bo hînkirina li Îsraêlê biryar û dadbariyê.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezrâ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "amade kirî bû"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ji bo lêgerîna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "û ji bo kirinê"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "û ji bo hînkirina"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li Îsraêlê"
+    },
+    {
+      "surface": "חק",
+      "gloss": "biryar"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "û dadbariyê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:24:55.827774910Z",
+  "model": "glm-5.3"
+}

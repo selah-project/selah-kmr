@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Guhdar bikin, ey ezmanan, û ez ê biaxivim; û bila erd gotinên devê min bibihîze.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "guhdar bikin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ey ezmanan"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "û ez ê biaxivim"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "û bila … bibihîze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:12:23.152914477Z",
+  "model": "glm-5.3"
+}

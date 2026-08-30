@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Yên ku li ser lihtirên ji diranên filîlê radizin û xwe di nivînên xwe de dirêj dikin, û qewirên ji rewîyan û golikan ji nava warîyan dixwin!",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "Yên ku radizin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "lihtirên"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ji diranên filîlê"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "û xwe dirêj dikin"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "nivînên xwe de"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "û dixwin"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "qewirên"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "ji rewîyan"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "û golikan"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ji nava"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "warîyan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:09:55.169308008Z",
+  "model": "glm-5.3"
+}

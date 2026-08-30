@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Bo Tora û bo şahidiyê! Ger ew pê re neyên gotin — ji bo vê peyvê, ku şefaqê sibehê ji wî re tune.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "bo Tora"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "û bo şahidiyê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "werin gotin"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "pê re"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê peyvê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "şefaqê sibehê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:30.266201544Z",
+  "model": "glm-5.3"
+}

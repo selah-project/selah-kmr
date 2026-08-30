@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Ew ji çêjiya mâla te dixwe û têr dibin, û ji newala kêfa te ji wan re didî vexwarin.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "têr dibin"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "ji çêjiya"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mâla te"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "û ji newala"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "kêfa te"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "ji wan re didî vexwarin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:09.721084660Z",
+  "model": "glm-5.3"
+}

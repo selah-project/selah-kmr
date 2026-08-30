@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Gotinê: \"Ez ê ⟨את⟩ welatê Kenanê bidim te, wekî payê mîrata we.\"",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Gotinê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Ez ê bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "welatê Kenanê"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenanê"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "payê"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "mîrata we"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:20.369552178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ew ⟨את⟩ zarok vekir û dît — û va, kurikek digirî — û dilê wê je re hat, û ew got: Ji zarokên Ivriyan ev e.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "û vekir"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "ew dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarok"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û va"
+    },
+    {
+      "surface": "נער",
+      "gloss": "kurikek"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "digirî"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "û dilê wê je re hat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "je"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "û ew got"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "ji zarokên"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ivriyan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev e"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:03.480777214Z",
+  "model": "glm-5.3"
+}

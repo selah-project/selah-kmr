@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 131,
+  "translation": "Sond xwarim — heke min xwe wekhev nekiribûya û canê min êdî bêdeng nekiribûya, wek zarokekî ji dayika xwe hatî betalkirin, wisa canê min li cem min wek zarokî betalkirî ye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "heke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sond xwarim — ne"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "min xwe wekhev nekir"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "û canê min êdî bêdeng kir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "wek zarokî betalkirî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "dayika wî"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "wek zarokî betalkirî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li cem min"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:36.633294369Z",
+  "model": "glm-5.3"
+}

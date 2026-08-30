@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 113,
+  "translation": "Ew bi xerîban ji tozê radike, ji çop û çûkê seqetan hildide.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "radike"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ji tozê"
+    },
+    {
+      "surface": "דל",
+      "gloss": "bi xerîban"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "ji çop û çûkê"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hildide"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "seqetan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:30.654403156Z",
+  "model": "glm-5.3"
+}

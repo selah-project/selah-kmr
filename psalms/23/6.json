@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Bi rastî qencî û xesed ên tev û hemû rojên jiyanê min dû min dikin, û ez ê di malê Yahwe de, bo dirêjiya rojan, rûnibim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qencî"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "dû min dikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tev û hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiyanê min"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ez ê rûnibim"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "bo dirêjiya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:21.396996574Z",
+  "model": "glm-5.3"
+}

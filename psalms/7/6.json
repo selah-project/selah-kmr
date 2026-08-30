@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Bila dijmin nefesa min bişopîne û bigihêje, û jiyana min binpê bike ber erdê, û rûmeta min di tozê de bicî bike. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "bila bişopîne"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesa min"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "û bigihêje"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "û binpê bike"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ber erdê"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiyana min"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "û rûmeta min"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "di tozê de"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bicî bike"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:55.722369413Z",
+  "model": "glm-5.3"
+}

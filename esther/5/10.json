@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Haman xwe girt û çû mala xwe; û şand û ⟨את⟩ hevalên xwe û ⟨את⟩ Zereş, jina xwe, hanî.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "xwe girt"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hanî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalên wî"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "hevalên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zereş"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereş"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:02.571979678Z",
+  "model": "glm-5.3"
+}

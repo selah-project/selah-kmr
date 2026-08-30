@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ⟨a⟩ texteyan ji bo separetê çê bikî: bîst texte ji aliyê başûr, ber bi başûr ve.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Û çê bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "texteyan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "texteyan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ji bo separetê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "texte"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ji aliyê"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "başûr"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ber bi başûr ve"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:35.821013795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û gel ev peyva xerab bihîst û şîn kirin; û tu kesîn xemlên xwe li xwe nekir.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "û bihîst"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev peyva xerab"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "û şîn kirin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û... ne"
+    },
+    {
+      "surface": "שתu",
+      "gloss": "nekir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tu kesîn"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "xemlên xwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:47.306157446Z",
+  "model": "glm-5.3"
+}

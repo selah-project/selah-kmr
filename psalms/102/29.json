@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Zarokên xizmetkarên te dê bi cih bibin, û toxên wan berî te dê were xwedan-kirin.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "xizmetkarên te"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "dê bi cih bibin"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "û toxên wan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "berî te"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "dê were xwedan-kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:10.578657731Z",
+  "model": "glm-5.3"
+}

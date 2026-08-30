@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û ⟨את⟩ bingehên derdora dîwaran, û ⟨את⟩ bingehên derîyê dîwaran, û ⟨את⟩ hemû mîlan ji Mîşkanê, û ⟨את⟩ hemû mîlan ji dîwora dîwaran heta dora wê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bingehên derdora dîwaran"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bingehên"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dîwaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "derdora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bingehên derîyê dîwaran"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bingehên"
+    },
+    {
+      "surface": "שער",
+      "gloss": "derîyê"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dîwaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû mîlan ji Mîşkanê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mîlan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mîşkanê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû mîlan ji dîwora dîwaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mîlan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dîwaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:29.553972371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Kahîn ⟨את⟩ xwarîneyê di roja heftemîn de dibîne, û ta netik belav nebûye û tê de mûyê zer çê nebûye û dîtina netikê ji çerm kûrtir nîne.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dibîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwarîneyê"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "xwarîneyê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "heftemîn de"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "belav bûye"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "çê bûye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mûyê"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "zer"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "û dîtina"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netikê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "kûrtir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העור",
+      "gloss": "çerm"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:02.853153338Z",
+  "model": "glm-5.3"
+}

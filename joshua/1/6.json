@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Xurt be û hêzdar, ji ber ku tu wê vê gelê ⟨את⟩ vê erdê ⟨את⟩ wek mîrasî bidî — ê ku min sond xwaribû ku didim bav û kalên wan.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Xurt be"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "û hêzdar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "wê … wek mîrasî bidî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vê gelê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "vê erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "min sond xwaribû"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ji bo bav û kalên wan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ku bidim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:23.500252476Z",
+  "model": "glm-5.3"
+}

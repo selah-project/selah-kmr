@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û ⟨את⟩ ciwanên kuren Yisraêl şand, û ew qurbanên sotî bilind kirin û qurbanên aştiyê ji bo Yahwe gorî kirin — ga.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciwanên kuren Yisraêl"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ciwanên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuren"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bilind kirin"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "qurbanên sotî"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "gorî kirin"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "qurbanên"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "aştiyê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ga"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:27.051174574Z",
+  "model": "glm-5.3"
+}

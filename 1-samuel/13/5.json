@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 13:5",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Peliştî civiyan ku bi Yisraêl re şer bikin: sîhey sitereke, û şeş hezar siwar, û gelêkî wek qûma ku li ser kênara deryayê ye bi firehî — û bilind bûn û li Mîkmashê (berî Beyt-Avenê) êrîşgehet dan.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Û Peliştî"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ku şer bikin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sî"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hey"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "sitereke"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "siwar"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û gelêkî"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "wek qûmê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kênara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "bi firehî"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "û bilind bûn"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "êrîşgehet dan"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "li Mîkmashê"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "berî"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avenê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:38:49.437930129Z",
+  "model": "glm-5.3"
+}

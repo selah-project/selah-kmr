@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Tu tarîtîyê dadigirî û dibe şev; di wê de hemû ajal daristanî diherin.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "dadigirî"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarîtî"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şev"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di wê de"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "diherin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "יער",
+      "gloss": "daristanî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:48.997164090Z",
+  "model": "glm-5.3"
+}

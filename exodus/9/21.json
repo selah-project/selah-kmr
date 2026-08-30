@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ê yê ku dilê xwe nede ser peyva Yahwe, xulamên xwe û ⟨את⟩ kelên xwe di zeviyê de hişt.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Û ê yê ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "da (nede)"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "û hişt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên xwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kelên xwe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "kelên xwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:57.382608475Z",
+  "model": "glm-5.3"
+}

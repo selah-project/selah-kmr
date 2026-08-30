@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Nanê Elohîmê wî — ji ya herî pîroz û ji ya pîroz — dixwe.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohîmê wî"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ji ya herî pîroz"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ya herî pîroz"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ya pîroz"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dixwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:46.065709722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Heta ku ji bo Yahwe cîyekî bibînim, jêrînan ji bo Avîrê Yaqov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "bibînim"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cîyekî"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "jêrînan"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ji bo Avîrê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:06.766761082Z",
+  "model": "glm-5.3"
+}

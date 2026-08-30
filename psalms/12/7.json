@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Peyvên Yahwe peyvên paqij ⟨in⟩ — wek zîvê ku di kûzeya erdê de hatiye helandin, heft caran hatiye safkirin.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Peyvên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîvê"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "helandî"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "di kûzeya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "safkirî"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "heft caran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:02.529982294Z",
+  "model": "glm-5.3"
+}

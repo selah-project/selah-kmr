@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji bo zanîna xezmê û hînkirinê, ji bo fêmkirina gotinên têgihîştinê —",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Ji bo zanîna"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xezmê"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "û hînkirinê"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ji bo fêmkirina"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "têgihîştinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:20.500588706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Dua ji bo êzişkekî, gava ew dorpêçî dibe, û berî Yahwe şikaya xwe dirêje dike.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Dua"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ji bo êzişkekî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "dorpêçî dibe"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "û berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "dirêje dike"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "şikaya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:00.194748427Z",
+  "model": "glm-5.3"
+}

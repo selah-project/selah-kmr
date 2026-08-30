@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Yahwe, Adonayê me, çawa navê te di hemû erdê de mezin e! Yê ku rûmeta xwe li ser ezmanan danî.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonayê me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "danî"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "rûmeta te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:42.018651121Z",
+  "model": "glm-5.3"
+}

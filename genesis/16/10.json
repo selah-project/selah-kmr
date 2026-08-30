@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û firîşteyê Yahwe ji wê re got: \"Zêdekirinê zêde dikim ⟨את⟩ toya te, û ji pirraniyê nayê hejmartin.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "firîşteyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "zêdekirinê"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "zêde dikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toya te"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "toya te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "tê hejmartin"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ji pirraniyê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:40:17.822830722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ma Êl dadrêşiyan dişewitîne? An Şaday edaletê dişewitîne?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ma Êl"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "dişewitîne"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadrêşiyan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "An"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şaday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "dişewitîne"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "edaletê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:47.144056867Z",
+  "model": "glm-5.3"
+}

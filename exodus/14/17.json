@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ez jî — va, ez ê dilê Mîtsrayimê xurt bikim da ku ew bi pey wan werin; û ez ê li ser Firêwn û li ser tevî hêza wî, li ser erebên wî û siwarên wî bi rûmetdarî bilind bibim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ez jî"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "va"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ez ê… xurt bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "da ku ew bi pey wan werin"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "bi pey wan"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ez ê… bi rûmetdarî bilind bibim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "li ser Firêwn"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û li ser tevî"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hêza wî"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "erebên wî"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "siwarên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:45.180842345Z",
+  "model": "glm-5.3"
+}

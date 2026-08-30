@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "⟨את⟩ Çadira Civînê, û ⟨את⟩ sandûqa şahidiyê, û ⟨את⟩ rûpûşa ku li ser wî ye, û ⟨את⟩ hemû amûrên çadirê,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Çadira Civînê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Civînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "sandûqa şahidiyê"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandûq"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "şahidiyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûpûşa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "rûpûş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû amûrên çadirê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadirê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:02.195976014Z",
+  "model": "glm-5.3"
+}

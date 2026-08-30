@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Ev xelata dijminên min ên tawanbar ⟨את⟩ ji Yahwe ye, û yên ku li ser cana min xerabî diaxivin.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "xelata"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "dijminên min ên tawanbar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ji aliyê",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "û yên ku diaxivin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "cana min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.612501414Z",
+  "model": "glm-5.3"
+}

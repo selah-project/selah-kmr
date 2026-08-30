@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Şemuel bihîst ⟨את⟩ hemû gotinên gel û ⟨wan⟩ di guhên Yahwe de got.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gotinên gel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "wan… got"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di guhên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:51.469922825Z",
+  "model": "glm-5.3"
+}

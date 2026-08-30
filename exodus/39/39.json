@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "⟨את⟩ altêra paxirî, û ⟨את⟩ torika paxirî ya wê, ⟨את⟩ darikên wê, û ⟨את⟩ hemû alavên wê, ⟨את⟩ avdankê û ⟨את⟩ binyeya wê,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altêra paxirî"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altêra"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "paxirî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "torika paxirî"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "torika"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "paxirî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darikên wê"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "darikên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû alavên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "alavên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avdankê"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "avdankê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "binyeya wê"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "binyeya wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:53.537128522Z",
+  "model": "glm-5.3"
+}

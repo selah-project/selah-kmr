@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji ber vê yê meriv êdî dê ⟨את⟩ bavê xwe û ⟨את⟩ diya xwe bihêle û xwe bi jina xwe ve girê bide, û ew dê bibin goşteke yek.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vê yê"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "dê bihêle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meriv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê xwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "diya xwe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "diya xwe"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "û xwe ve girê bide"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "bi jina xwe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "û ew dê bibin"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "goşteke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:06.972984470Z",
+  "model": "glm-5.3"
+}

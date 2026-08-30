@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "di çiya de, di deştê de, di Ereba de, di dîzde, di çolê de û li Negevê — Hîtî, Emorî, Kenanî, Perîzî, Hîvî û Yebusî.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "di çiya de"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "di deştê de"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "di Ereba de"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "di dîzde"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "li Negevê"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hîtî"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorî"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Kenanî"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perîzî"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hîvî"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:19:00.571071448Z",
+  "model": "glm-5.3"
+}

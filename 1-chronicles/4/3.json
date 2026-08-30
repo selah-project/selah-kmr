@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ev in kurên diya Etam: Yizrêel, Yişma û Yidbaş. Navê xweşka wan Tsellelponî bû.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "diya (diya Etam)"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizrêel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "Yişma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "Yidbaş"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "Navê"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "xweşka wan"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tsellelponî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:41.446567714Z",
+  "model": "glm-5.3"
+}

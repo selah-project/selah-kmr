@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Ger tu ⟨את⟩ keçên min zehmet bikî, û ger tu jinan li ser keçên min bigirî — tu mirov bi me re nîne; bibîne, Elohîm şahid e di navbera min û te de.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "zehmet bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçên min"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "keçên min"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "bigirî"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "jinan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "keçên min"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bi me re"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bibîne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahid"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di navbera min"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "û te de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:49:57.416748308Z",
+  "model": "glm-5.3"
+}

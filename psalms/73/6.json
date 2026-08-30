@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Ji ber wê serde wan xemilandiye; cilûtîna zordariyê wan digire.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ji ber wê"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "wan xemilandiye"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "serde"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "digirtin"
+    },
+    {
+      "surface": "שית",
+      "gloss": "cilûtîn"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zordarî"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:40.920063798Z",
+  "model": "glm-5.3"
+}

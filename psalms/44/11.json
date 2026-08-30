@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Tu ji ber dijmin me vegeriyayî paşda, û ên ji me nefret dikin ji xwe re talan kirine.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "tu me vegeriyayî"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paşda"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "û ên ji me nefret dikin"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "talan kirine"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji xwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:56.274175644Z",
+  "model": "glm-5.3"
+}

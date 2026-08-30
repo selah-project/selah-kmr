@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez biyanî di ⟨di⟩ erdê de me; fermanên te ji min veşêre ⟨neke⟩.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neke"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "veşêre"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "fermanên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:55.184382820Z",
+  "model": "glm-5.3"
+}

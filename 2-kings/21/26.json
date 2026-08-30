@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ew di bin goristana xwe de, di baxçê Ûza de, veşartin ⟨him⟩; û Yoşiyahu kurê wî şûna wî bû key.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Û veşartin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ew"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "di goristana wî de"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di baxçê"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ûza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "û ... bû key"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:23:41.635125055Z",
+  "model": "glm-5.3"
+}

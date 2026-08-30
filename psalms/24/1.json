@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Stranek ji Dawid re. Erd û tije bûna wê ji Yahwe ⟨ye⟩; cîhan û ewên têde dijîn.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "stranek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "û tije bûna wê"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "û ewên têde dijîn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "têde"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:58.720981151Z",
+  "model": "glm-5.3"
+}

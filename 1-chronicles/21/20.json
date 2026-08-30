@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Ornan vegeriya û dît ⟨את⟩ ⟨the⟩ mêrê; û çar kurên wî bi wî re veşartî bûn; Û Ornan genim diqelişand.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "û dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêrê"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "û çar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "veşartî bûn"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "Û Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "diqelişand"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "genim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:39:41.799373849Z",
+  "model": "glm-5.3"
+}

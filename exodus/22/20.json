@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û mêvanî nezêrîne û netesîne lê, çimkî hûn mêvan bûn di welatê Mîtsrayimê de.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Û mêvanî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "zêrîne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "tesîne lê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mêvan"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:07.480161119Z",
+  "model": "glm-5.3"
+}

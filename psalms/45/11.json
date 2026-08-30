@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Guh bide, ey keç, û binêre, û guhê xwe verê; û gelê xwe û mala bavê xwe ji bîr bike.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ey keç"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "û binêre"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "û verê"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê te"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "û ji bîr bike"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "û mala"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:13.487787277Z",
+  "model": "glm-5.3"
+}

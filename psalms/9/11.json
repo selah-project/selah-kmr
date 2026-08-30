@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ê ku navê te dinasin dê bawerî bi te bikin, çimkî tu yî ên ku digerin te berne dane, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "dê bawerî ... bikin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bi te"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ê ku ... dinasin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "berne dane"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ên ku digerin te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:07.469297354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ê ku ⟨את⟩ kûlîyê ga wê digire, ⟨את⟩ kincên xwe dişûje û heta êvarê nepaqij dimîne; û ev ji bo zarokên Yisraêl û ji bo mêvanê ku di nav wan de dijî, dibe qanûnekî hertimî.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "dişûje"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "ê ku digire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûlîyê ga wê"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "kûlîyê"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ga wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincên wî"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kincên xwe"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nepaqij dimîne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "êvarê"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "û ji bo mêvanî"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ku dijî"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di nav wan de"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "qanûn"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:49:02.128261652Z",
+  "model": "glm-5.3"
+}

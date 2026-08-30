@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Xweşî li yên temberîn di rê de, yên di Tora Yahwe de digerin.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xweşî li"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "yên temberîn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yên digerin"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "di Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:40.965518102Z",
+  "model": "glm-5.3"
+}

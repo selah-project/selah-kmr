@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Tu rastiyê didî Yaakov, xesed didî Avraham, ê ku tu ji rojên kevnar ve sond dayî ji bavên me re.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "didî"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "tu sond dayî"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ji bavên me re"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ji rojên"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kevnar ve"
+    }
+  ],
+  "timestamp": "2026-08-30T04:13:03.956339435Z",
+  "model": "glm-5.3"
+}

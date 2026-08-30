@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Adonî-Bezek reviya, û ew şopandin, ew girtin, û ⟨את⟩ baştilikên destên wî û pêyên wî qut kirin.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "reviya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonî"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "-Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "şopandin"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "paş wî"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ew",
+      "marks": "Adonî-Bezek"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "qut kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baştilikên"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "baştilikên"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "û pêyên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:23:28.859829847Z",
+  "model": "glm-5.3"
+}

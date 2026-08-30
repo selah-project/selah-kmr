@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Gava tu zeytûna xwe dixilî, şaxan paş xwe venegerîne; ji mêvanî re, ji sêwî re û ji jinê bîmayê re bibe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "tu … dixilî"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "zeytûna xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "şaxan venegerîne"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "paş xwe"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "ji mêvanî re"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ji sêwî re"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "û ji jinê bîmayê re"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bibe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:08:58.151209802Z",
+  "model": "glm-5.3"
+}

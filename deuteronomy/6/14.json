@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Piştra neynin pey elohîmên din, ji elohîmên gelên ku dorberê we ne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "neynin (piştra)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pey"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohîmên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ji elohîmên"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "dorberê we ne"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:09.190745639Z",
+  "model": "glm-5.3"
+}

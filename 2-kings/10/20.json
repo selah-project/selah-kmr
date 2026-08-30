@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Yehû got: Civîneke pîroz ji bo Ba’l ragihînin. Û ew ew îlan kirin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehû"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroz bikin"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "civîn"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ji bo Ba’l"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "îlan kirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:48.973968132Z",
+  "model": "glm-5.3"
+}

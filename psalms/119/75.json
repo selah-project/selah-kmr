@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Min zanî, ey Yahwe, ku dadwariyên te rast in, û bi dilsozî te min aziya kirî.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "min zanî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dadwariyên te"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "û bi dilsozî"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "te min aziya kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:21.874946280Z",
+  "model": "glm-5.3"
+}

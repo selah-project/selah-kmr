@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ji bo cûdakirinê di navbera pîroz û ne-pîroz, di navbera nexûş û paqij de.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "Û ji bo cûdakirinê"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ne-pîroz"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nexûş"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "paqij de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:19.555121535Z",
+  "model": "glm-5.3"
+}

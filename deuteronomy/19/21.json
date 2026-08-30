@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û çavê te neditirse: nefes bi nefesê, çav bi çavê, dan bi danê, dest bi destê, ling bi lingê.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ... nê"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ditirse"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "çavê te"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bi nefesê"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çav"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "bi çavê"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "bi danê"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dest"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ling"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "bi lingê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:05:27.254443779Z",
+  "model": "glm-5.3"
+}

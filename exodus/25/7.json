@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "kevirên şoham û kevirên mîluî, ji bo efodê û ji bo xaîşa-sîngê (hosên),",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "şoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "û kevirên"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "mîluî"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "ji bo efodê"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "û ji bo xaîşa-sîngê (hosên)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:20.540383089Z",
+  "model": "glm-5.3"
+}

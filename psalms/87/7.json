@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 87,
+  "translation": "Û stranbêj û lîstikvan dê bibêjin: «Hemû kaniyên min di te de ne.»",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Û stranbêj"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "û lîstikvan (wek dileyzok)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "kaniyên min"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.826305332Z",
+  "model": "glm-5.3"
+}

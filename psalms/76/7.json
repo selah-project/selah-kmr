@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Ji qêrîna te, Elohîmê Yaqûb, erebe û hesp ketin xewa kûr.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "ji qêrîna te"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ketin xewa kûr"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "û erebe"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "û hesp"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:36.858618536Z",
+  "model": "glm-5.3"
+}

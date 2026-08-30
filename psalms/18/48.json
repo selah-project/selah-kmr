@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Êl ê ku tolê ji min re dide, û gelan binê min de datîne.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ê ku dide"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "tol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "datîne"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "binê min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:41.397616360Z",
+  "model": "glm-5.3"
+}

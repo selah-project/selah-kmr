@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ji Maîr re min ⟨את⟩ Gilad da.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Û ji Maîr re"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:19.277596705Z",
+  "model": "glm-5.3"
+}

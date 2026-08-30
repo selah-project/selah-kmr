@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Gava min ⟨את⟩ ev peyv bihîst, min ⟨את⟩ kincê xwe yê jêrîn qeland, û mantoya xwe, û min ji porê serê xwe û ji rihê xwe kişand, û ez sekinîm — şaş û betal.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "gava min bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev peyv"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyv"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "qeland"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincê min yê jêrîn"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kincê min yê jêrîn"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "mantoya min"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "kişand"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ji porê"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "rihê min"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "sekinîm"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "şaş û betal"
+    }
+  ],
+  "timestamp": "2026-08-30T06:25:22.686374600Z",
+  "model": "glm-5.3"
+}

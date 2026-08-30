@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Erê, neqencîî nekirine, di rêyên wî de geriyane.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Erê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "nekirine"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "neqencîî"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di rêyên wî de"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "geriyane"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:40.966008501Z",
+  "model": "glm-5.3"
+}

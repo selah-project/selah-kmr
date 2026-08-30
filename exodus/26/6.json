@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û tu ê çîl-pênc çengên zêrîn çê bikî, û ⟨את⟩ dîwanan bi çengan bigirêdî, yek bi ya din, û kon dê bibe yek.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "û tu ê çê bikî"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "çîl-pênc"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "çengên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrîn"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "û tu ê bigirêdî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîwanan"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dîwanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "ya din"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "bi çengan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "û dê bibe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:01.025060879Z",
+  "model": "glm-5.3"
+}

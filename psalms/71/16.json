@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Ez ê bi hêzên Adonay Yahwe were, ez ê rastîya te — tenê ya te — bînim bîr.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ez ê were"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "bi hêzên"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "bînim bîr"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "rastîya te"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tenê ya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:37.737543159Z",
+  "model": "glm-5.3"
+}

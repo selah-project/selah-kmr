@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Li gorî pîsbûna wan û li gorî sûcên wan min bi wan kir, û min rûyê xwe ji wan veşart.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "li gorî pîsbûna wan"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "û li gorî sûcên wan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min kir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "û min veşart"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:57:57.391692973Z",
+  "model": "glm-5.3"
+}

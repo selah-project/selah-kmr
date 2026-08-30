@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û hûn ê ⟨את⟩ şopandina tiştên pîroz û ⟨את⟩ şopandina serefedanê biparêzin, da ku êdî qehr li ser zarokên Yisrael nebe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "û hûn ê biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şopandina tiştên pîroz"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "şopandin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tiştên pîroz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şopandina serefedanê"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "şopandin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "serefe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "qehr"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-29T18:48:35.063930398Z",
+  "model": "glm-5.3"
+}

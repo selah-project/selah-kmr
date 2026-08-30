@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Moşe ⟨את⟩ zava-yê xwe şand; ew çû bal welatê xwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Û … şand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zava-yê xwe"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "zava-yê xwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ew çû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ji bo xwe⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "welatê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:08:55.090871830Z",
+  "model": "glm-5.3"
+}

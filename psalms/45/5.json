@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Bi werîfa xwe serketî, siwar bibe ji bo peyva rastiyê, hûrîyê û mafdarîyê; û destê te yê rastê yê tiştên tirsnak nîşanî te dide.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "bi werîfa xwe"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "serketî"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "siwar bibe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "û hûrîyê"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "mafdarîyê"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "û yê nîşanî te dide"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "tiştên tirsnak"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "destê te yê rastê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:29.925110857Z",
+  "model": "glm-5.3"
+}

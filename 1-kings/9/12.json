@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Hîram ji Tsorê derket da ku ⟨את⟩ bajaran bibîne, ên ku Şelomo dabûn wî; û ew di çavên wî de rast nehatin.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hîram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ji Tsorê"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da ku bibîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajaran"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dabûn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "rast nehatin"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:39.929683295Z",
+  "model": "glm-5.3"
+}

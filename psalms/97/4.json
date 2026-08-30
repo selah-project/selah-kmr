@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Birûskên wî cîhan ronahî kirin, erd ditirse û hîs dike.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ronahî kirin"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "birûskên wî"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhan"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "dibîne"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "û ditirse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:21.409339001Z",
+  "model": "glm-5.3"
+}

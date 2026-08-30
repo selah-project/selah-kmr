@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û min got bi mêzinkê ku di min de diaxivî: Ev çi ne? Û wî ji min re got: Ev qiloç in, ên ku ⟨את⟩ Yehûda, ⟨את⟩ Yisraêl û Yeruşalayim belav kirin.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "û min got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mêzinkê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "diaxivî"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di min de"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "qiloç"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "belav kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehûda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "û Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:08:10.315558489Z",
+  "model": "glm-5.3"
+}

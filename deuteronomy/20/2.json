@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û wê bibe, dema hûn nêzikî şer dibin, kahîn nêzîk dibe û bi gel re diaxive.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Û wê bibe"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "dema hûn nêzikî dibin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nêzikî"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "kahîn nêzîk dibe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "û diaxive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:06:50.244868960Z",
+  "model": "glm-5.3"
+}

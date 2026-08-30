@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 33:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û kenîk nêzîk bûn, ew bi zarokên xwe, û serê xwe dan.",
+  "tokens": [
+    {
+      "surface": "ותגשן",
+      "gloss": "û nêzîk bûn"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "kenîk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ew bi xwe"
+    },
+    {
+      "surface": "וילדיהן",
+      "gloss": "û zarokên wan"
+    },
+    {
+      "surface": "ותשתחוין",
+      "gloss": "û serê xwe dan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:08.938656191Z",
+  "model": "glm-5.3"
+}

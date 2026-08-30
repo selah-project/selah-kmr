@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Yahwe, min rûyê min werê ku ez gazî te kirime; bila rast nebin rûnandin û bila bêdeng bibin — heywanên Şeol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "werê"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ez rûyê min (rûnandin)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ez gazî te kirime"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bila rûnandin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rast nebin"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "bila bêdeng bibin"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "heywanên Şeol"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:55.726776759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 23:13",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Balak jê re got: «Ka were, bi min re ⟨את⟩ here cihekî din, ku tu ji wir wî bibînî — tenê qeraxa wî bibînî û hemûyî nabînî — û ji wir ji bo min nifirê lê bike.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "were"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bi min re",
+      "marks": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "here"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cih"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "din"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תראנו",
+      "gloss": "tu wî bibînî"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "qeraxa wî"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bibînî"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "û hemûyî wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nîn"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bibînî"
+    },
+    {
+      "surface": "וקבנו",
+      "gloss": "nifirê lê bike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:50:48.031407576Z",
+  "model": "glm-5.3"
+}

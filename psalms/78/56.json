@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û wan xwest ceribandin û serî hildan li dijî ⟨את⟩ Elohîmê Herî Bilind û şahidiyên wî ne parastin.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "wan xwest ceribandin"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "û serî hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîmê Herî Bilind"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Herî Bilind"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "û şahidiyên wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "parastin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:32.646299989Z",
+  "model": "glm-5.3"
+}

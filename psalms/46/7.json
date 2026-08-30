@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Gel di tevlihevî de bûn, mîrektî hejiyan; Wî bi dengê xwe da — erd heliya.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "di tevlihevî de bûn"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "hejiyan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mîrektî"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "bi dengê xwe"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "heliya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:47.471723770Z",
+  "model": "glm-5.3"
+}

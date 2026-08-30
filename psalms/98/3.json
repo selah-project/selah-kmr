@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 98,
+  "translation": "Wî xeseda xwe û dilsoziya xwe ji mala Yisraêl re bi bîr anî; hemû dawiyên erdê ⟨את⟩ rizgariya Elohîmê me dîtine.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "bi bîr anî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xeseda xwe"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "û dilsoziya xwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl re"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dawiyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rizgariya Elohîmê me"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "rizgariya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:22.355760541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Lê tu, Yahwe, ⟨yî⟩ li bilindahiyê heta hêjayê.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lê tu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "li bilindahiyê"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "heta hêjayê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:35.723579283Z",
+  "model": "glm-5.3"
+}

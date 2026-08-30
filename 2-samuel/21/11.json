@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji Dawid re hat gotin ⟨את⟩ ya ku Ritspa keça Aiyayê, pîlgeşa Şaul, kiribû.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "hat gotin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya ku Ritspa kiribû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "kiribû"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aiyayê"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "pîlgeşa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:47.915127286Z",
+  "model": "glm-5.3"
+}

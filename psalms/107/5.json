@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Birçî — erê — tîneh, canê wan di wan de lawaz ket.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "birçî"
+    },
+    {
+      "surface": "גם",
+      "gloss": "erê"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "tîneh"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canê wan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan de"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "lawaz ket"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:12.396970972Z",
+  "model": "glm-5.3"
+}

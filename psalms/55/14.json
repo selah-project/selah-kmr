@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Lê tu bûyî — merivekî wekî min, hevalê min ê nêzîk û yê naskirî.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lê tu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "merivekî"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "wekî min"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "hevalê min ê nêzîk"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "û yê naskirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:10.589253668Z",
+  "model": "glm-5.3"
+}

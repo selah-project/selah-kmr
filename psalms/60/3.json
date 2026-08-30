@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Elohîm, te me betal kir ⟨avêtî⟩, te me şikest, te hêrs bû — me veggehîne!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "te me betal kir (avêt)"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "te me şikest"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "te hêrs bû"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "me veggehîne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me (ji bo me)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:03.641462280Z",
+  "model": "glm-5.3"
+}

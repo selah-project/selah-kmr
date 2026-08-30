@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 24:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û yê ku navê Yahwe bi nifir bîne, bi mirinê bê kuştin; bi keviran wî bê avêtin, hemû civatê; wek ger û wek xwecihî, di anîna nifîrê li navê wî de, bê kuştin.",
+  "tokens": [
+    {
+      "surface": "ונקב",
+      "gloss": "bi nifir bîne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bi mirinê"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bê kuştin"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "bi keviran"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "bê avêtin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "wek ger"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "wek xwecihî"
+    },
+    {
+      "surface": "בנקבו",
+      "gloss": "di anîna nifîrê"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bê kuştin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:34.508482430Z",
+  "model": "glm-5.3"
+}

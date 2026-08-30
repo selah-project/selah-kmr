@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Lê ez hertim tev te me; tu destê rastê yê min girtiye.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "lê ez"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tev te"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "tu … girtiye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "rastê yê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:12.548676352Z",
+  "model": "glm-5.3"
+}

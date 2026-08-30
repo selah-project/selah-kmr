@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Wek baranê li ser giyayê bijartî dê dakeve, wek şilavên zexm ên ku erdê dadigirin.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "dakeve"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "wek baranê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גז",
+      "gloss": "giyayê bijartî"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "wek şilavên"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "zexm (barana rêkûpêk)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:23.713613672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "⟨את⟩ Amûrên wî di mala elohîmên wan de dan cih, û ⟨את⟩ kûpikê wî di mala Dagon de dan xwarê.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dan cih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amûrên wî"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên wî"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "elohîmên wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kûpikê wî"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "kûpikê wî"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "dan xwarê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:31.979502008Z",
+  "model": "glm-5.3"
+}

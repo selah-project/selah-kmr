@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 25:9",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ji ber wê yekê, era, ez milê Mowabê vedikim — ji deranan, ji bajarên wî yê li ser sinorê wî — şewata welêt: Beyt ha-Yeşîmot, Ba'al Me'on û Qiryatayim.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ji ber wê yekê"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "era, ez"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vedikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milê Mowabê"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowab"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "ji deranan"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "ji bajarên wî"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "li ser sinorê wî"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "şewat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "ha-Yeşîmot"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Me'on"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "û Qiryatayim"
+    }
+  ],
+  "timestamp": "2026-08-30T03:51:58.011655249Z",
+  "model": "glm-5.3"
+}

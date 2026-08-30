@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 21:35",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û wan ⟨את⟩ wî û ⟨את⟩ kuranên wî û ⟨את⟩ tevaya gelê wî şûndar kir, heta ku tu saxmayî ji wî re nehişt; û wan ⟨את⟩ welatê wî bi dest xist.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "û wan … şûndar kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "ויכו-ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuranên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kuranên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tevaya gelê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevaya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "nehişt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "tu saxmayî"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "û wan … bi dest xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "welatê wî"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "welatê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:49:45.271135404Z",
+  "model": "glm-5.3"
+}

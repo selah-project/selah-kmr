@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Kêz û xezal û dîş û bizina kovî û pyarg û tawa kovî û kerê çiyê yê kovî.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "kêz"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "û xezal"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "û dîş"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "û bizina kovî"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "û pyarg"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "û tawa kovî"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "û kerê çiyê yê kovî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:17.891014918Z",
+  "model": "glm-5.3"
+}

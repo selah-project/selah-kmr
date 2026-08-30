@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 141,
+  "translation": "Bila duaya min li pêş te wek bûyînê were danîn; rakirina kefên min wek qurbana êvarî.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "bila were danîn"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "bûyîn"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li pêş te"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "rakirin"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kefên min"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "qurbana"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "êvarî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:02.783756052Z",
+  "model": "glm-5.3"
+}

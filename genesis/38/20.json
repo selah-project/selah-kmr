@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Yehûda bi destê hevalê xwe yê Edumlî ⟨את⟩ kiriyê bizinan şand, da ku kefê ji destê jiné bîne; lê wê nedît.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiriyê bizinan"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kiriyê"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "yê Edumlî"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "da ku bîne"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "kefê"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jiné"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "wê nedît"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:17.139443594Z",
+  "model": "glm-5.3"
+}

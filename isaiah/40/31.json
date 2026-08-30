@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Ên ku li bendê Yahwe ne dê hêza xwe nû bikin, dê wek balindan bilind bibin; dê bimeşin û nêwestin, dê bidome û nêbêhêz bibin.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "Ên ku li bendê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "dê hêza xwe nû bikin"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "dê bilind bibin"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "wek bal"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "balindan"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "dê bimeşin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nê"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "westin"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "dê bidome"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nê"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "bêhêz bibin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:50.620997845Z",
+  "model": "glm-5.3"
+}

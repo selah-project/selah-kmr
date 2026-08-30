@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 18:51",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Mezin dike rizgarbûnên keyê xwe, û xesed dike ji Maşîahê xwe re — ji Dawid re û ji zarrowî re heta hertimî.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "mezindike"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "rizgarbûnên"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "keyê wî"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "û dike"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "ji Maşîahê wî re"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "û ji zarrowî re"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:11.259862985Z",
+  "model": "glm-5.3"
+}

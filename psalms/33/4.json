@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Ji ber ku gotina Yahwe ⟨ya⟩ rast ⟨ye⟩ û hemû karên wî di dilsoziyê de ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rast"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "karên wî"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "di dilsoziyê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:42.851465620Z",
+  "model": "glm-5.3"
+}

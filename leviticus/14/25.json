@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Wî ê bizinê qurbanê sûc ⟨את⟩ serjê bike, û kâhin ji xwîna qurbanê sûc hilde û li ser serê guhê rastê ê yê ku tê pakijkirin, û li ser tiliya mezin ê destê wî yê rast, û li ser tiliya mezin ê lingê wî yê rast dêyne.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "serjê bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizinê qurbanê sûc"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "bizinê"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "qurbanê sûc"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "hilde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kâhin"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ji xwîna"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "qurbanê sûc"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dêyne"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "serê"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "guhê"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ê yê ku tê pakijkirin"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "rastê"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "tiliya mezin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "yê rast"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "tiliya mezin"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "lingê wî"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "yê rast"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:53.212098708Z",
+  "model": "glm-5.3"
+}

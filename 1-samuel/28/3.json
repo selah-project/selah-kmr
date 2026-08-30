@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Şemuêl miribû, û hemû Îsraêl ji bo wî sivêtî kiribû û wî li Rama, di bajaran wî de, veşartibû. Û Şaûl xwedawendên girêdan û ⟨את⟩ zanayên giyanan ji welêt dûrxistibû.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "û Şemuêl"
+    },
+    {
+      "surface": "מת",
+      "gloss": "miribû"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "sivêtî kiribûn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "wî veşartibû"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "li Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "di bajaran wî de"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "û Şaûl"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "dûrxistibû"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "xwedawendên girêdan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zanayên giyanan"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "zanayên giyanan"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "ji welêt"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:01.320718373Z",
+  "model": "glm-5.3"
+}

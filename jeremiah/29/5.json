@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Xaniyan ava bikin û lê rûnin, û bostanan çêbikin û ⟨את⟩ mêweyên wan bixwin.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ava bikin"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "xaniyan"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "û lê rûnin"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "û çêbikin"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "bostanan"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "û bixwin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêweyên wan"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "mêweyên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T21:00:51.639341070Z",
+  "model": "glm-5.3"
+}

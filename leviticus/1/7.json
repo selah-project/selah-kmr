@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Kurên Aharon ên kên agir li ser qurbangehê datînin û darên li ser agir bi rêz datînin.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "datînin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kên"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangehê"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "bi rêz datînin"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "darên"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האש",
+      "gloss": "agir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:11.600746335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Dilovan ⟨e⟩ Yahwe û rast ⟨e⟩, û Elohîmê me yê dilovan e.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Dilovan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "û rast"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "û Elohîmê me"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "yê dilovan e"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:29.403449506Z",
+  "model": "glm-5.3"
+}

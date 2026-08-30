@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ji ber wê, Yahwe, di nav gelan de ez ê spasîya te bikim û ji navê te re ez ê strînim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê (ji ber wê)"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ez ê spasîya te bikim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "û ji navê te re"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ez ê strînim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:11.259618660Z",
+  "model": "glm-5.3"
+}

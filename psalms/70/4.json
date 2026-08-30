@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 70,
+  "translation": "Bila vegerin li ber şerma xwe yên dibêjin: «Hea, hea!»",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bila vegerin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "berdêla"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "şerma xwe"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yên dibêjin"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hea"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:22.705532368Z",
+  "model": "glm-5.3"
+}

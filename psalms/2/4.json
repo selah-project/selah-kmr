@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ê di ezmênan de rûniştî pê dikeve kenê; Adonay pê dilîze ji wan re.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "rûniştî"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmênan de"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "pê dikeve kenê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "pê dilîze"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji wan re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:28.945731986Z",
+  "model": "glm-5.3"
+}

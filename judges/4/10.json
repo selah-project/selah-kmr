@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Barak Zebûlûnê ⟨את⟩ û Naftalîyê ⟨את⟩ heta Qedeşê gazî kir; û ew bilind bû, deh hezar mêr li lingên wî; û Debora jî bi wî re bilind bû.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "û gazî kir"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebûlûnê"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebûlûnê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Naftalîyê"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalîyê"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "heta Qedeşê"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "û ew bilind bû"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "li lingên wî"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "û ew (jî) bilind bû"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-08-29T19:25:41.693534616Z",
+  "model": "glm-5.3"
+}

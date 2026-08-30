@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Lê xesedê min ji wî nabirême û di dilsoziya xwe de derewan nakim.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "lê xesedê min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "nabirême"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "derewan nakim"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "di dilsoziya xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:37.477688838Z",
+  "model": "glm-5.3"
+}

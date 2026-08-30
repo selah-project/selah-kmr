@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û yê ku bavê xwe yan dia xwe li dide, bi kuştinê were kuştin.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Û yê ku … li dide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "yan dia xwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bi kuştinê"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "were kuştin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:26.796202255Z",
+  "model": "glm-5.3"
+}

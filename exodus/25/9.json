@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Li gorî hemû tiştê ku ez ⟨את⟩ nîşanê didim te — ⟨את⟩ şêwira Mîşkanê û ⟨את⟩ şêwira hemû amûrên wî — wisa hûn bipêkin.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "li gorî hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "didim nîşanê"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şêwira Mîşkanê"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "şêwira"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mîşkanê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şêwira hemû amûrên wî"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "şêwira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên wî"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hûn bipêkin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:03.972844591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨wî⟩ ⟨את⟩ ga yê guneh anî, û Aharon û kurên wî destên xwe danîn serê ga yê guneh.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "anî (nêzîk kir)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ga yê guneh"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yê guneh"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yê guneh"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:33.991642158Z",
+  "model": "glm-5.3"
+}

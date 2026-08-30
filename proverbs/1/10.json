@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Kurê min, ger gunehkaran te xapînin, tu razî nebe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "te xapînin"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunehkaran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "razî be"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.705478216Z",
+  "model": "glm-5.3"
+}

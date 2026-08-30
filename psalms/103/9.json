@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Ne heta bi dawî nîqaşî dike, û ne jî heta bi dawî qehirê diparêze.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "heta bi dawî"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "nîqaşî dike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne jî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta bi dawî"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "qehirê diparêze"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:31.278753306Z",
+  "model": "glm-5.3"
+}

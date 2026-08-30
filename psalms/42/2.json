@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Wek xezalê ji bo cemên avê tîh dibe, waha nefsa min ji bo te tîh dibe, ey Elohîm.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "wek xezalê"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "tîh dibe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "cemên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsa min"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "tîh dibe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:25.564495970Z",
+  "model": "glm-5.3"
+}

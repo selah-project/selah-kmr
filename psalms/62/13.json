@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Û ji te re, Adonay, xesed e; çimkî tu ji her kesî re gorî kirinê wî didî.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Û ji te re"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "didî"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ji her kesî re"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "gorî kirinê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:14.292396921Z",
+  "model": "glm-5.3"
+}

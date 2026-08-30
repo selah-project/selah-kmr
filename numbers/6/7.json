@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ji bo bavê xwe û diya xwe, birayê xwe û xûşka xwe, di mirina wan de xwe nemijûje; çimkî veqetandina Elohîmê wî li ser serê wî ye.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "ji bo bavê xwe"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "û diya xwe"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "û xûşka xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "xwe nemijûje"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "di mirina wan de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "veqetandin"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohîmê wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "serê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:40:55.240241155Z",
+  "model": "glm-5.3"
+}

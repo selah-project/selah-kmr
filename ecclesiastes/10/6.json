@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Kêmdeng li bilindahiyan ên pir tên danîn, û dewlemend li cihê nizm rûdinin.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "tên danîn"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "kêmdeng"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "li bilindahiyan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ên pir"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "û dewlemend"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "li cihê nizm"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "rûdinin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:05.075985853Z",
+  "model": "glm-5.3"
+}

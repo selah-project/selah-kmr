@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Dawid dîsa ji Yahwe pirsî, Û Yahwe bersiva wî da û got: “Rabe, dakeve Qeîlayê, çimkî ez ⟨את⟩ Filistiyan di destê te de didim.”",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "carê din"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "pirsî"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "bersiva wî da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "קום",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "רד",
+      "gloss": "dakeve"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeîlayê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "didim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiyan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di destê te de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:10.115613615Z",
+  "model": "glm-5.3"
+}

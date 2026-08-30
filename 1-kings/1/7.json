@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û peyvên wî bi Yoav kurê Tsereyah re bûn, û bi Ebyatar kahîn re; û ew piştî Adoniyah alîkarî kirin.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Û bûn"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "peyvên wî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tsereyah"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi … re"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "û alîkarî kirin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyah"
+    }
+  ],
+  "timestamp": "2026-08-29T20:00:20.659642456Z",
+  "model": "glm-5.3"
+}

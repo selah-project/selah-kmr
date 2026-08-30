@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û wan wan ⟨את⟩ komek-komek civiyan, komek li dor komek; û erd bêhndxwaş bû.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Û civiyan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (beq)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "komek-komek"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "komek li dor komek"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "û bêhndxwaş bû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:59.095614245Z",
+  "model": "glm-5.3"
+}

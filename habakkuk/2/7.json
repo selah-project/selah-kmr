@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 2:7",
+  "book": "habakkuk",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ma nişkêve narabin ên bi berdêl êrîşê te dikin, û şanedar nabin yên te dihejînin? Û tu dibî talan ji bo wan.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "nişkêve"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "narin"
+    },
+    {
+      "surface": "נשכיך",
+      "gloss": "ên bi berdêl êrîşê te dikin"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "û şanedar dibin"
+    },
+    {
+      "surface": "מזעזעיך",
+      "gloss": "yên te dihejînin"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "û tu dibî"
+    },
+    {
+      "surface": "למשסות",
+      "gloss": "talan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:36.205282543Z",
+  "model": "glm-5.3"
+}

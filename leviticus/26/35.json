@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Hemû rojên wêranîbûna wê ew ê şabatê bigire — ⟨את⟩ tiştê ku di şabatên we de, dema hûn li ser wê dijiyan, negirtibû.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "wêranîbûna wê"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "şabatê bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku negirtibû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "negirtibû"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "di şabatên we de"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "dema hûn dijiyan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:59.190317904Z",
+  "model": "glm-5.3"
+}

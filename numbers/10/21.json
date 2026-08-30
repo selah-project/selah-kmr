@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Kehatî derketin rê, hildiberandin ⟨את⟩ pîrozberahan; û yên din jî çêkirin çadirmizgevê heta ku ew hatin.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "rê derketin"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatî"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "hildiberandên"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "pîrozberahan"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "û rabinûnan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadirmizgev"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "çadirmizgev"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ku ew hatin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:43:38.827211050Z",
+  "model": "glm-5.3"
+}

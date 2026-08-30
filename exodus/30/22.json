@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û Yahwe bi Moşe re axivî û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Û axivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:19.787893412Z",
+  "model": "glm-5.3"
+}

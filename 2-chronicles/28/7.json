@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Zikrî, yekî hêzdar ji Efrayimê, ⟨את⟩ Maşeyahu kurê melik kuşt, û ⟨את⟩ Ezrîqam serdara malê, û ⟨את⟩ Elqana yê duyemîn piştî melik.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikrî"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maşeyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maşeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "melik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ezrîqam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Ezrîqam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "serdara"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elqana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "duyemîn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "melik"
+    }
+  ],
+  "timestamp": "2026-08-30T06:51:25.110902894Z",
+  "model": "glm-5.3"
+}

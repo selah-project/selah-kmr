@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ji bo serokekî muzîkê, li ser Şemînîtê (aştaja heştemîn), mezamîreke Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Şemînîtê"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezamîreke"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:40.138651586Z",
+  "model": "glm-5.3"
+}

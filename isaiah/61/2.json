@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 61,
+  "translation": "Da ku sala raziya Yahwe û roja tola Elohîmê me bidim bange, û da ku hemû şînkelan hênik bikim.",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "da ku bidim bange"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sala"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "raziyê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "û roja"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "tola"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "לנחם",
+      "gloss": "da ku hênik bikim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "şînkelan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:46:44.682560532Z",
+  "model": "glm-5.3"
+}

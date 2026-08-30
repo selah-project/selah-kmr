@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Lê ⟨tu⟩ heman yî, û salên te nâtemam dibin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lê ⟨tu⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "heman yî"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "û salên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nâ"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "temam dibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:12.225390253Z",
+  "model": "glm-5.3"
+}

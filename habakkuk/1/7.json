@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ew xedar û tirsnak ⟨e⟩; hukmê wî û bilindahiya wî ji xwe derdikeve.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "xedar"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "û tirsnak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji xwe"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "hukmê wî"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "û bilindahiya wî"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derdikeve"
+    }
+  ],
+  "timestamp": "2026-08-30T04:14:11.384042360Z",
+  "model": "glm-5.3"
+}

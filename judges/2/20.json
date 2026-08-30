@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 2:20",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û hêrsa Yahwe li dijî Îsraêlê pêt bû, û wî got: Ji ber ku ev netwe ⟨את⟩ peymana min — ⟨the⟩ ya ku min fermana ⟨את⟩ bavên wan kir — şikand û dengê min guh neda.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "hêrs pêt bû"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li dijî Îsraêlê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "şikand"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "netwe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana min"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "fermana min kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavên wan"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û … na"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "guh neda"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "dengê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:25:29.971428416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Adonay, çend ⟨bê⟩ dinihêrî? cana min ji wêranên wan vegerîne, ji şêran tenêta min.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "çend"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "dinihêrî"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "vegerîne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "cana min"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "ji wêranên wan"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "ji şêran"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "tenêta min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:02.025780612Z",
+  "model": "glm-5.3"
+}

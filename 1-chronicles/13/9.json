@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ên hatin heta hêlîna Kidonê, û Ûza destê xwe dirêj kir da ku ⟨את⟩ sandiqê bigire, ji ber ku ga xwe berdan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ên hatin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "hêlîn"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidonê"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "û dirêj kir"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ûza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "da ku bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqê"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandiqê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "xwe berdan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ga"
+    }
+  ],
+  "timestamp": "2026-08-30T06:36:36.501898762Z",
+  "model": "glm-5.3"
+}

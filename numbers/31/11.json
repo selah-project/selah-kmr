@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û ⟨את⟩ hemû şalê û ⟨את⟩ hemû şikarê — di mirovan û di ajalan de — hildan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû şalê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "şalê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû şikarê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "şikarê"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "di mirovan de"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "û di ajalan de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:54:16.129557682Z",
+  "model": "glm-5.3"
+}

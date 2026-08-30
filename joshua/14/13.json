@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û Yehoşua wî barkir û ⟨את⟩ Hevron da ji Kalev, kurê Yefune, re wek mîras.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "wî barkir"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ji Kalev re"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "wek mîras"
+    }
+  ],
+  "timestamp": "2026-08-29T19:19:25.365404615Z",
+  "model": "glm-5.3"
+}

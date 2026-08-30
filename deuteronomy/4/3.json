@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Çavên we yên dîtibûn ⟨את⟩ tiştê ku Yahwe bi Baal-Peorê re kir — ji ber ku hemû mêrên ku çûn paş Baal-Peorê, Yahwe, Elohîmê te, wan ji nava te hilweşand.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "Çavên we"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "yên dîtibûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "bi Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paş"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorê"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "hilweşand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ji nava te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:27.252624873Z",
+  "model": "glm-5.3"
+}

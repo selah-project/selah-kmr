@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "⟨את⟩ kirên xizmetê bo xizmetkirinê di pîrozahiyê de, ⟨את⟩ kirên pîroz ji bo Aharon kahîn, û ⟨את⟩ kirên kurên wî ji bo kahîniyê",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirên xizmetê"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kirên"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "xizmetê"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "bo xizmetkirinê"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di pîrozahiyê de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirên pîroz"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kirên"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kirên kurên wî"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kirên"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ji bo kahîniyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:39.379176259Z",
+  "model": "glm-5.3"
+}

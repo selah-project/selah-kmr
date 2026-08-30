@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û zilamekî dît û ji Yoav re ragihand û got: “Wê binêre, min ⟨את⟩ Abşalom dît, di darê de daliqandî.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamekî"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "ji Yoav re"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wê binêre"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abşalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abşalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "daliqandî"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "di darê de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:55:49.952993264Z",
+  "model": "glm-5.3"
+}

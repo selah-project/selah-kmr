@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û kînahê rûnkirî yê ji kurên wî, yê şûna wî, ⟨את⟩ wê çêbike — statûyeke hertimî ji bo Yahwe; bi tevahî bê kvetin.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Û kînahê"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "rûnkirî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "yê şûna wî"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ji kurên wî"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "çêbike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ wê",
+      "marks": "wê (pîşe)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "statûyek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "bê kvetin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:39.971686144Z",
+  "model": "glm-5.3"
+}

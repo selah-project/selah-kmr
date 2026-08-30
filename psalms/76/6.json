@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Ên dilxurt hatin talankirin, xewa xwe xewîtin, û tu mêrên hêzê destên xwe ne dît.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "hatin talankirin"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "xurt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil-"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "xewîtin"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "xewa xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "dît"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêzê"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:38.528404350Z",
+  "model": "glm-5.3"
+}

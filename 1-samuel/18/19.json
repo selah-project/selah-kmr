@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û di dema dayîna ⟨את⟩ Merav, keça þawil, ji Dawid re çûbû, ew ji Adrîelê Meholatî re bi jiné hat dayîn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û… çûbû"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di dema"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dayîna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Þawil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "hat dayîn"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "ji Adrîelê"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Meholatî"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bi jiné"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:03.592312852Z",
+  "model": "glm-5.3"
+}

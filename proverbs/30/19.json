@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Riya balîreyê di ezmanan de, riya marekî li ser zinar, riya kelekê di dilê deryayê de, û riya zilamekî bi jina ciwan.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "riya"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "balîreyê"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "riya"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "marekî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "צור",
+      "gloss": "zinar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "riya"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "kelekê"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di dilê"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê de"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "û riya"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "zilamekî"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "bi jina ciwan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:49:46.355740885Z",
+  "model": "glm-5.3"
+}

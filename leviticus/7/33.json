@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji kurên Aharon yê ku ⟨את⟩ xwîna şelamî û ⟨את⟩ çêrî pêşkêş dike, ji wî re lingê rastê dibe beşa wî.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "yê ku pêşkêş dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwîn"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "şelamî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêr"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "çêr"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ling"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "rastê"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "beş"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:27.220834624Z",
+  "model": "glm-5.3"
+}

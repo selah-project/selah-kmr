@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Gotinên sûpekan bi aramî tên bihîştirin, ji qêrîna yêku serokî di nav valahiyan de.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sûpekan"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "bi aramî"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "tên bihîştirin"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ji qêrîna"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "serokî"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "di nav valahiyan de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:01.978319408Z",
+  "model": "glm-5.3"
+}

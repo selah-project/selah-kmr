@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Ku tu ⟨min⟩ dîtî tengasîyên pir û xerabîyan, tu vegerî û ⟨min⟩ vejînî, û ji kûrahîyên erdê tu vegerî û ⟨min⟩ bilind dikî.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "tu dîtî"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "tengasîyên"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "û xerabîyan"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tu vegerî"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "vejînî"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "û ji kûrahîyên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tu vegerî"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "bilind dikî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:15.831932632Z",
+  "model": "glm-5.3"
+}

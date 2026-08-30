@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Çimkî di saya aqilmendîyê de sih heye, wekî di saya zêr de sih heye; û pêşketina zanînê ew e ku aqilmendî xwediyên xwe dijîne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di saya ... de sih heye"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "aqilmendîyê"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di saya ... de sih heye"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "û pêşketina"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanînê"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "aqilmendî"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "dijîne"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "xwediyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:06.281010904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 122,
+  "translation": "Sekinî bûn pêyên me di deriyên te de, Yeruşalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Sekinî"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "pêyên me"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "di deriyên te de"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:39.695225162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Yahwe hemû yên dikelin digire û rake, û hemû yên qurimî serbilind dike.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "digere û rake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "yên dikelin"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "û serbilind dike"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "yên qurimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:39.451975986Z",
+  "model": "glm-5.3"
+}

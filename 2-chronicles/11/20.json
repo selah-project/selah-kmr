@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û piştî wê ew ⟨את⟩ Maakha, keça Avşalom, girt, û ew ji bo wî ⟨את⟩ Aviya, ⟨את⟩ Attay, ⟨את⟩ Zîza û ⟨את⟩ Şelomit anî dinyê.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "piştî wê"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "anî dinyê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Attay"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zîza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Zîza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Şelomit"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:15.199614881Z",
+  "model": "glm-5.3"
+}

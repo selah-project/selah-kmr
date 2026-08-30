@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "wê ez baranên we di demên wan de bidim, û erdê wê berhemê xwe bide, û darên zeviyê wê fêkiyê xwe bidin.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "wê ez ... bidim"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "baranên we"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "di demên wan de"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "û wê ... bide"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "berhemê xwe"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "û darên"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wê bidin"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "fêkiyê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:23.143557206Z",
+  "model": "glm-5.3"
+}

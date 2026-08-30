@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Wê rojê Adonay dê ⟨את⟩ xemila zengokên lingan, şerîtkên heyvê û heyvîkan rake.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Wê rojê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "dê rake"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xemila zengokên lingan"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "xemil"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "zengokên lingan"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "şerîtkên"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "heyvîkan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:03.392842833Z",
+  "model": "glm-5.3"
+}

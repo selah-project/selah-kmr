@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Bal te, Yahwe, bang dikim, û bal Adonay rehîmî dixwazim.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "bal te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bang dikim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "rehîmî dixwazim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:05.256968433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji ber ku ez Yahwe me, yê ku we ⟨את⟩ ji erda Mîtsrayim bilind kir, da ku ez bibim Elohîmê we; hûnê pîroz bin, ji ber ku ez pîroz im.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "yê ku bilind dike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we (hûn)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "da ku... bibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "û hûnê bin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:47.947474534Z",
+  "model": "glm-5.3"
+}

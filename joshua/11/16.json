@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yeşû ⟨את⟩ hemû vê erdê girt: çiyayî û ⟨את⟩ hemû Necevê û ⟨את⟩ hemû erda Goşenê û ⟨את⟩ Deştên-Nizm û ⟨את⟩ Erebe û ⟨את⟩ çiyayê Îsraêl û deştên wî.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Û … girt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yeşû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû vê erdê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyayî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû Necevê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Necevê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû erda Goşenê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erda"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goşenê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Deştên-Nizm"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Deştên-Nizm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Erebe"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Erebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çiyayê Îsraêl"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "û deştên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:40.349510917Z",
+  "model": "glm-5.3"
+}

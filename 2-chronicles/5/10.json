@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Di sandiqê de tiştek tune bû, tenê du tablo yên ku Moşe li Horev danî bû, yên ku Yahwe bi kûreyên Yisraêl re li dema derketina wan ji Mîtsrayimê birî bû.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tune bû"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "di sandiqê de"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "tablo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "danî bû"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "li Horev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "birî bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûreyên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "li dema derketina wan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:08.334113868Z",
+  "model": "glm-5.3"
+}

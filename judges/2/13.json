@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ew Yahwe ⟨את⟩ berdan, û xizmetî Baal û ⟨את⟩ Astarotan kirin.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "xizmetî kirin"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "û Astarotan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:52.979251590Z",
+  "model": "glm-5.3"
+}

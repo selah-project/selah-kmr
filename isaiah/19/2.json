@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ez ê Mîtsrayimê bi Mîtsrayimê bidim ber hev, û şer dikin — kesî dijî birayê xwe û kesî dijî hevalê xwe, bajar dijî bajar, keyanî dijî keyanî.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "bidim ber hev"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "bi Mîtsrayimê"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "şer dikin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kesî"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "dijî birayê xwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "û kesî"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "dijî hevalê xwe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dijî bajar"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "keyanî"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "dijî keyanî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:32:30.272971089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ keyê Ayê zindî girtin û ⟨את⟩ ew anîn cem Yehoşua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keyê Ayê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayê"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ew"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:57.340153838Z",
+  "model": "glm-5.3"
+}

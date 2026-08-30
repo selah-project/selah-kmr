@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Hemû ⟨את⟩ peyva ku ez fermanî ⟨את⟩ we dikim, ⟨את⟩ wê hûn biparêzin ku bikin; hûn ê li ser wê tu tiştî zêde nekin û jê tu tiştî kêm nekin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû peyva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "fermanî dikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "hûn biparêzin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku bikin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "zêde nekin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "kêm nekin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "jê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:44.982656409Z",
+  "model": "glm-5.3"
+}

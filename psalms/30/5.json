@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Ji bo Yahwe zimre bikin, xeseddarên wî, û ji bo bîra pîroziya wî spas bikin.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "zimre bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "xeseddarên wî"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "û spas bikin"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ji bo bîra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroziya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:25.111724514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Hemû bajar ku hûn didin Lewiyan çil û heşt in; ⟨את⟩ wan û ⟨את⟩ çêzên wan ⟨[bidin]⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "hûn didin"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewiyan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "û heşt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "in"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêzên wan"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "çêzên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:13.757461693Z",
+  "model": "glm-5.3"
+}

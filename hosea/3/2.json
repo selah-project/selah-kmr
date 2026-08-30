@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ez wê ji bo xwe bi panzdehî zîv kirî, û bi homerhekê cevî û bi nîv homerhekê cevî.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "û…kirî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "bi pêncî"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(û deh) — panzdeh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "û homerhekê"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "cevî"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "û nîv homerhekê"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "cevî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:13.702165747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Hûn ⟨את⟩ dijminên xwe taqîb dikin, û ew beriya we bi şûr dikevin.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "hûn taqîb dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijminên xwe"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dijminên xwe"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "û ew dikevin"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "beriya we"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "bi şûr"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:36.821755004Z",
+  "model": "glm-5.3"
+}

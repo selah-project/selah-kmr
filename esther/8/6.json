@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "çimkî çawa ez dikarim û bibînim xerabiya ku dê bi ⟨את⟩ gelê min were? Û çawa ez dikarim û bibînim wêrankiya welatê min?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ez dikarim"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "û bibînim"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "xerabiya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "dê were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê min"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "û çawa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ez dikarim"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "û bibînim"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "wêrankiya"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "welatê min"
+    }
+  ],
+  "timestamp": "2026-08-30T06:15:21.472484841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Binêre, min bi nav gazî kiriye Betsalel, kurê Ûrî, kurê Hûr, ji eşîra Yehûda:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Binêre"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "min gazî kiriye"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi nav"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ûrî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hûr"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ji eşîra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:27.815585954Z",
+  "model": "glm-5.3"
+}

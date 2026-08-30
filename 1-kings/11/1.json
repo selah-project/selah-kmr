@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û key Şelomo gelek jinên biyanî hez kir, û ⟨את⟩ keça Paroh — Moabî, Ammonî, Edomî, Sîdonî, Hetî.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Û key"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hez kir"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "jinên"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "keça Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabî"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammonî"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomî"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Sîdonî"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hetî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:03.234617354Z",
+  "model": "glm-5.3"
+}

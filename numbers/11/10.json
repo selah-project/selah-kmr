@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Moşe bihîst ⟨את⟩ gel digirî, bi malbatên xwe, her kes li deriyê çadira xwe; û hêrsa Yahwe gelek şewitî, û di çavên Moşe de ⟨ew⟩ xerab bû.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Û bihîst"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "digirî"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "bi malbatên xwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "li deriyê"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "çadira xwe"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "û şewitî"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "û di çavên"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerab bû"
+    }
+  ],
+  "timestamp": "2026-08-29T18:44:43.787574702Z",
+  "model": "glm-5.3"
+}

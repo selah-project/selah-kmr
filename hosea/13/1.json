@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Gava Efrayim diaxiv, lerizîn ⟨çêdibû⟩; ew li Yisraêlê bilind bûbû, lê bi Ba'alê guneh kir û mir.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "gava…diaxiv"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "lerizîn"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li Yisraêlê"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "guneh kir û"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "bi Ba'alê"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û mir"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:14.412269988Z",
+  "model": "glm-5.3"
+}

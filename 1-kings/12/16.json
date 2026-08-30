@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 12:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û hemû Îsraêl dît ku key guh nade wan, û gel ⟨את⟩ keyê bi peyvekî bersiv dan, gotin: “Ji me re beşekî me li Dawid çi ye? û mîrasek me li kurê Yîşî nîne! Îsraêl, here çadirên xwe! Niha ji xwe re binêre, malê Dawid!” Û Îsraêl çû çadirên xwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guh nade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bersiv dan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keyê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bi peyvekî"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "beşekî me"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "li Dawid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nîne"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mîrasek"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "li kurê"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yîşî"
+    },
+    {
+      "surface": "לאהליך",
+      "gloss": "here çadirên xwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ji xwe re binêre"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "malê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "çadirên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:11.544061111Z",
+  "model": "glm-5.3"
+}

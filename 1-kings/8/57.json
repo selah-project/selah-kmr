@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Bila Yahwe Elohîmê me bi me be, wekî ku ⟨ew⟩ bi kalên me re bû; ne me berde û ne jî me bihêle.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bila … be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bi me re"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "kalên me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "me berde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne jî"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "me bihêle"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:16.205229862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Ji ber ku ez im Yahwe, Elohîmê te, Pîrozê Îsraêl, Rizgarkerê te; min Mîtsrayim wek fidya ji bo te da, Kûş û Seba şûna te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pîrozê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Rizgarkerê te"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min ... da"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "wek fidya ji bo te"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kûş"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "û Seba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "şûna te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:00.769865462Z",
+  "model": "glm-5.3"
+}

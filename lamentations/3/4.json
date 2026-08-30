@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Goşt û çermê min xistî kiriye; hestiyên min şikandine.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "xistî kiriye"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "goştê min"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "û çermê min"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "şikandine"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "hestiyên min"
+    }
+  ],
+  "timestamp": "2026-08-30T06:06:50.865461165Z",
+  "model": "glm-5.3"
+}

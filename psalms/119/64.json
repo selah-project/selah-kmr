@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Xesedê te, Yahwe, erdigê tijî dike — biryarên te fêrî min bike.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Xesedê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tijî dike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdigê"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "biryarên te"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "fêrî min bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:48.169375853Z",
+  "model": "glm-5.3"
+}

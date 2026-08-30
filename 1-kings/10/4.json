@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û keybanûya Şebayê dît ⟨את⟩ hemû zanîna Şelomoyê û mala ku wî çêkiribû.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Û dît"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "keybanûya"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şebayê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû zanîna Şelomoyê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "zanîna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomoyê"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "û mala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkiribû"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:10.273206712Z",
+  "model": "glm-5.3"
+}

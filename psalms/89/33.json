@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Êdî ez ê serhildana wan bi darê û gunehê wan bi lêdanên serdanî bikim.",
+  "tokens": [
+    {
+      "surface": "ופפקדתי",
+      "gloss": "ê serdanî bikim"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bi darê"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "serhildana wan"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "û bi lêdanên"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "gunehê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:37.477396317Z",
+  "model": "glm-5.3"
+}

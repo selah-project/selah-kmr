@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Yahwe, di êrîşa te de min talim neke, û di hêrsa te de min nede perwerdekirinê.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neke"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "di êrîşa te de"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "min talim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û nede"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "di hêrsa te de"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "min perwerdekirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:47.497087246Z",
+  "model": "glm-5.3"
+}

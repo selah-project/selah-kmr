@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Guh bidin ⟨את⟩ peyvê ku Yahwe li ser we dibêje, malbata Yîsraêl:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Guh bidin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyvê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:52:29.516823589Z",
+  "model": "glm-5.3"
+}

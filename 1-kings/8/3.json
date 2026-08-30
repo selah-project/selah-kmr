@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û kalên hemû Îsraêl hatin, û kohan ⟨את⟩ sandûqê hildan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqê"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandûqê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:24.917361325Z",
+  "model": "glm-5.3"
+}

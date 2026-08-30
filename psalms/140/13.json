@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Ez dizanim ku Yahwe dê doza serbirî bike û mafê feqîran bi cih bîne.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "dizanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dê ... bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "doza"
+    },
+    {
+      "surface": "עני",
+      "gloss": "serbirî"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mafê"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "feqîran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:21.186315170Z",
+  "model": "glm-5.3"
+}

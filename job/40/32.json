@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Destê xwe li ser wî deyne; ji şer bihûr — tu ê êdî wê negirî.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "deyne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bihûr"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "êdî wê negirî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:23.370584572Z",
+  "model": "glm-5.3"
+}

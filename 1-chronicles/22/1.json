@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Dawid got: \"Ev ⟨ye⟩ mala Yahwe Elohîm, û ev jî qurbangeha qurbana şewitandinê ⟨ye⟩ ya Yisraêl.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "û ev jî"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangeh"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "qurbana şewitandinê"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ya Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:37.648088161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ferman da wan ku got: Hûn dibinin — hûn çalî ne di ser bajêr de, li paş bajêr; ne dûr bikevin ji bajêr, pirr zêde; û hûn hemû amade bin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku got"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hûn dibinin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "çalî ne"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "di ser bajêr de"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "li paş"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "dûr bikevin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pirr zêde"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "hûn bin"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "amade"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:45.523196278Z",
+  "model": "glm-5.3"
+}

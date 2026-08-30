@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Hêrsa min dê bişewite, û ez ê hûn ⟨את⟩ bi şûr bikujim, û jînên we dê bîmayî bibin û kûrên we dê sêwî bibin.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "dê bişewite"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "hêrsa min"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "û ez ê bikujim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "hûn"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûr"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "û dê bibin"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "jînên we"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "bîmayî"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "û kûrên we"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "sêwî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:22.923316491Z",
+  "model": "glm-5.3"
+}

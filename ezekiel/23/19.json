@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 23:19",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û wê zînayên xwe pirtir kir ⟨את⟩, bo bîranîna rojên ciwaniya xwe ⟨את⟩, ku tê de wê di welatê Mîtsrayimê de zînê kiribû.",
+  "tokens": [
+    {
+      "surface": "ותרבה",
+      "gloss": "û wê pirtir kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zînayên xwe"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "zînayên xwe"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "bo bîranîna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rojên ciwaniya xwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ciwaniya xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "wê zînê kiribû"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:03:40.834579017Z",
+  "model": "glm-5.3"
+}

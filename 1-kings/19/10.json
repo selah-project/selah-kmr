@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 19:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Êw got: \"Bi gelalekî ez ji bo Yahwe, Elohîmê hostiyan, dilsoz bûme; ji ber ku kurên Îsraêlê peymana te hiştî, ⟨את⟩ altarên te xera kirine û ⟨את⟩ pêxemberên te bi şûr kuştine; û ez, ez bi tenê ma me, û ew ⟨את⟩ canê min digerin ku wî bigirin.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Êw got"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "bi gelal"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ez dilsoz bûme"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "hostiyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hiştî"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "peymana te"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarên te"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "altarên te"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "xera kirine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "pêxemberên te"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "pêxemberên te"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kuştine"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûr"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "û ez ma me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "bi tenê"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "û ew digerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê min"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "ku wî bigirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:24.197641163Z",
+  "model": "glm-5.3"
+}

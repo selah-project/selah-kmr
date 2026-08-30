@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û Lavan ⟨את⟩ Zilpa, kenkera xwe, dabû wê — ji Lea, keça xwe re, wekî kenker.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dabû"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "kenkera xwe"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "ji Lea re"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "keça xwe"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "kenker"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:10.270038322Z",
+  "model": "glm-5.3"
+}

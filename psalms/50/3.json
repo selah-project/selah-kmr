@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Elohîmê me tê û bêdeng namîne; agir berî wî dixwe û dorberê wî bi tundî tevnê dibe.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "bêdeng bimîne"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "berî wî"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dixwe"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "û dorberê wî"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "tevnê dibe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bi tundî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:38.644973994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Çend gazî wan kirin, ewê bêtir ji wan dûr ketin; ji Baalan re qurbanî kirin û ji pûtên kelkirî re buxur dan.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "gazî kirin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ji ber wan"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ji Baalan re"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "qurbanî kirin"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "û ji pûtên kelkirî re"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "buxur dan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:04:30.377788769Z",
+  "model": "glm-5.3"
+}

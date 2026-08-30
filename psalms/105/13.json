@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Û ji neteweyekî ber bi neteweyeke din geriya, ji keyaniyekî ber bi komela din.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "geriya"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ji neteweyekî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "neteweyeke din"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "ji keyaniyekî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "komela"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:10.128051814Z",
+  "model": "glm-5.3"
+}

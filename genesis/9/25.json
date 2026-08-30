@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û wî got: “Kenaan bihov be; şûrê şûran dibe ku ew ji bo birayên wî be.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "bihov be"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "şûrê"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "şûran"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dibe ku ew be"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ji bo birayên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:43.141333149Z",
+  "model": "glm-5.3"
+}

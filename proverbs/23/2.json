@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û tu kêrekî li ser qirika xwe datînî, heke tu xwediyê nefseke [bi daxwaz] yî.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "û ... datînî"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "kêrek"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "li ser qirika xwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "heke"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "xwediyê"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefseke [bi daxwaz]"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ... yî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:19.136947458Z",
+  "model": "glm-5.3"
+}

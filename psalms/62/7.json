@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Tenê ew kevirê min ⟨e⟩ û rizgariya min; birca bilind a min ⟨e⟩, ez nalijim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tenê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kevirê min"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "û rizgariya min"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "birca bilind a min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nalijim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:35.105486104Z",
+  "model": "glm-5.3"
+}

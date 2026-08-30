@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û hemû rojên Nûh neh sed û pêncî sal bûn, û ew mir.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nûh"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "neh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "û pêncî"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û ew mir"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:39.709115735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Kî ne van, yên wek ewr difirin, wek kewan berbi pencereyên xwe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "wek ewr"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "difirin"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "wek kewan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berbi"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "pencereyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:18.156092283Z",
+  "model": "glm-5.3"
+}

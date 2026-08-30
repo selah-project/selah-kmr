@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Gava girêdarê amûrên wî dît ku Şaul miribû, ew jî ket ser şûrê xwe û bi wî re mir.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "girêdarê amûrên"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מת",
+      "gloss": "miribû"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ket"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "şûrê xwe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:23.767547966Z",
+  "model": "glm-5.3"
+}

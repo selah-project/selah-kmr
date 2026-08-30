@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Yaqûb ⟨את⟩ rûyê Lavanê dît û binêre, êdî ne wekî îro-çire bi wî re nebû.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqqûb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û binêre"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "êdî ne"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "wekî îro"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "-çire"
+    }
+  ],
+  "timestamp": "2026-08-29T17:49:32.092087587Z",
+  "model": "glm-5.3"
+}

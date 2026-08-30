@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û padîşahê Mîtsrayimê wî ji Yeruşalayim rakir û ⟨את⟩ erdê bi sed kîkar zîv û kîkarekî zêr ceza kir.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "rakir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ji Yeruşalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "ceza kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kîkar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "û kîkarekî"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    }
+  ],
+  "timestamp": "2026-08-30T06:55:39.924920616Z",
+  "model": "glm-5.3"
+}

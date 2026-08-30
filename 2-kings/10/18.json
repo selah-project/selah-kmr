@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Yehû ⟨את⟩ hemû gel civand û ji wan re got: Ahab kêm ⟨את⟩ Ba’l xizmet kir; Yehû ê wî pir xizmet bike.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "civand"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xizmet kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba’l"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba’l"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kêm"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehû"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ê wî xizmet bike"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:48.973432844Z",
+  "model": "glm-5.3"
+}

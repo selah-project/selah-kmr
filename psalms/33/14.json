@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Ji şûna rûniştina xwe giranî li hemû niştecihên erdê dinêre.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "ji şûna rûniştinê"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "rûniştina wî"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "grananî dinêre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:10.640188861Z",
+  "model": "glm-5.3"
+}

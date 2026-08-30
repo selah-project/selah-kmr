@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Baş e ku meriv spasî bikin bo Yahwe, û stranan bibêjin bo navê te, Êlyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baş e"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "spasîkirin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "û strankirin"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "bo navê te"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Êlyon"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:09.485351508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û peymana ku min ⟨את⟩ bi we re birî, ji bîr nekin; û ji xwedên din netirsin.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "Û peymana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "min ... birî"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bi we re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "ji bîr nekin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "netirsin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xwedan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:02.285409191Z",
+  "model": "glm-5.3"
+}

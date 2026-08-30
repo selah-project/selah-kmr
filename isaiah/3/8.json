@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Çimkî Yeruşalayim ket, û Yehuda rûxiya; çimkî zimanê wan û kirinên wan dijî Yahwe ne — ji bo hêrs kirina çavên rûmeta wî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "ket"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "û Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "rûxiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "zimanê wan"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "û kirinên wan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dijî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ji bo hêrs kirina"
+    },
+    {
+      "surface": "עני",
+      "gloss": "çavên"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "rûmeta wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:29.173596237Z",
+  "model": "glm-5.3"
+}

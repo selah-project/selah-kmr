@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ew Eylatê ⟨את⟩ ava kir û ew ji bo Yehûdayê vegerand, piştî ku padîşah bi bavên xwe re rûnişt.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "vegerand"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ji bo Yehûdayê"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi... re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:29.476821252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Wê ⟨את⟩ salên firotina wî bihesibîne û ⟨את⟩ mayî li mêrê ku ji wî re firotiye vegerîne, û wê vegere milkê xwe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "Wê bihesibîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salên firotina wî"
+    },
+    {
+      "surface": "שני",
+      "gloss": "salên"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "firotina wî"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "û vegerîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayî"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "mayî"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "li mêrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "firotiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "û wê vegerê"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "bo milkê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:43.207096266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û tu ê ⟨את⟩ fermanê û ⟨את⟩ biryarnameyan û ⟨את⟩ hukman ku ez îro ji te re ferman dikim biparêzî, da ku wan bikî.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Û tu ê… biparêzî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanê"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "fermanê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biryarnameyan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "biryarnameyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukman"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ji te re ferman dikim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "da ku wan bikî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:49.898063581Z",
+  "model": "glm-5.3"
+}

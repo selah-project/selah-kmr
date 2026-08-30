@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Di wê rojê de wê rêyek ji Mîtsrayim bo Aşûr hebe, û Aşûr wê were Mîtsrayimê û Mîtsrayim jî Aşûrê; û Mîtsrayim wê bi ⟨את⟩ Aşûr re xizmet bike.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di … rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wê … hebe"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "rê"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "bo Aşûr"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "û wê were"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûr"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "û Mîtsrayim jî"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "û wê xizmet bike"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşûr"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:17.308530946Z",
+  "model": "glm-5.3"
+}

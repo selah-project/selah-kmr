@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Û çend min xwest ev fam bikim, ew di çavên min de zehmetî bû ⟨ku⟩ fam bikim.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "û min xwest"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "fam bikim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zehmetî"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:08.982090589Z",
+  "model": "glm-5.3"
+}

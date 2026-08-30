@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Ji ber ku ew min ji hemû tengasiyan rizgar kir, û çavê min li dijminên min dît!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tengasiyan"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "min rizgar kir"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "û li dijminên min"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "dît"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:59.471502756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û kên wê ⟨את⟩ binirxîne — yan baş yan jî xerab — çawa ku tu binirxînî, ey kên, wê wusa be.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "wê binirxîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kên"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (yan baş yan xerab)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "yan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "yan jî"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "çawa ku tu binirxînî"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ey kên"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:48.541699362Z",
+  "model": "glm-5.3"
+}

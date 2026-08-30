@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Şahî ya rizgariya te ji min re vegerîne, û ruhê dilxwaz ê min bide destgirtin.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "vegerîne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "şahî"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ya rizgariya te"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "û ruhê"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "dilxwaz"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ê min bide destgirtin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:20.659057599Z",
+  "model": "glm-5.3"
+}

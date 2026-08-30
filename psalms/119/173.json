@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Bila destê te bibe ⟨alîkarê⟩ min, ji ber ku ez fermanên te hilbijartim.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "bila ... bibe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "⟨alîkarê⟩ min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ez ... hilbijartim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:01.212177387Z",
+  "model": "glm-5.3"
+}

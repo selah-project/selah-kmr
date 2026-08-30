@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Adonay, hemû bêriya min li pêşiya te ye; û hêsîra min ji te ve nehatiye veşartin.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "li pêşiya te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "bêriya min"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "û hêsîra min"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ji te ve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "hatiye veşartin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:40.375321413Z",
+  "model": "glm-5.3"
+}

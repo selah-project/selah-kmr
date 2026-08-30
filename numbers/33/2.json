@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û Moşe derketinên wan nivîsand ⟨את⟩ li gorî koçên wan, ser devê Yahwe; û ev koçên wan ⟨in⟩ li gorî derketinên wan.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "û nivîsand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derketinên wan"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "derketinên wan"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "li gorî koçên wan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "û ev"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "koçên wan"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "li gorî derketinên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:56:30.933159604Z",
+  "model": "glm-5.3"
+}

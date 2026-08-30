@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Ezarja ⟨את⟩ Seraja bi dest pê anî, û Seraja ⟨את⟩ Yehotsadak bi dest pê anî.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "û Ezarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi dest pê anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "û Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi dest pê anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:55.608569794Z",
+  "model": "glm-5.3"
+}

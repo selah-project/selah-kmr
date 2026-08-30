@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ⟨את⟩ qurbana şewatê pêşkêş kir û li gorî biryarê wê pêk anî.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "pêşkêş kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana şewatê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "pêk anî"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "li gorî biryarê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:47.173161531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Dengê deryayan dadimîne, dengê pêlên wan û xefera gelan.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "dadimîne"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "deryayan"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "pêlên wan"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "û xefera"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "gelan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:02.886127168Z",
+  "model": "glm-5.3"
+}

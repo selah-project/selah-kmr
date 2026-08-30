@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Key ji jinê pirsî û ew ji re vegerand. Key ji re eslexozeke da, û got: Vegerîne ⟨את⟩ hemû tiştên wê û ⟨את⟩ hemû berhemên zeviyê, ji roya ku ⟨את⟩ welat berda heta niha.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "pirsî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Key"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ji jinê"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "vegerand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji re"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Key"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eslexoze"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Vegerîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştên"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû berhemên zeviyê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "berhemên"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ji roya"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "berda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "welat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:26.517866428Z",
+  "model": "glm-5.3"
+}

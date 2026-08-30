@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ji bo serokî stranan. Mezmûrek ji Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokî stranan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmûrek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:03.290475772Z",
+  "model": "glm-5.3"
+}

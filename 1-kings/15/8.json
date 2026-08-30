@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û Ebyam bi bavên xwe re raza û ew di bajarê Dawid de veşartin, û Asa kurê wî şûna wî de key bû",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "raza"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Ebyam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "veşartin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ew"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajarê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "key bû"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:15.385199145Z",
+  "model": "glm-5.3"
+}

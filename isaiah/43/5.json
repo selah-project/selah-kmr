@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Netirse, çimkî ez ⟨את⟩ te re me; ji rojhilatê deriyê te tînim û ji rojavayê te kom dikim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bitirse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ji rojhilatê"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "tînim"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deriyê te"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "û ji rojavayê"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "te kom dikim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:31.195860046Z",
+  "model": "glm-5.3"
+}

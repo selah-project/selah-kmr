@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Kenaan! Di destê wî de teraziyên xapînanê hene; ew ji zalimiyê hez dike.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "Di destê wî de"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "teraziyên"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "xapînanê"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "ji zalimiyê"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hez dike"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:20.088925498Z",
+  "model": "glm-5.3"
+}

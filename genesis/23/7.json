@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Avraham rabû û xwe xist erdê li ber gelê welêt, li ber kênên Hetê.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "xwe xist erdê"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "li ber gelê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "li ber kênên"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:30.569818156Z",
+  "model": "glm-5.3"
+}

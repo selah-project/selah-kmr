@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û hûn ⟨את⟩ Sîkkût keyê xwe û ⟨את⟩ Kîyyûn pûtên xwe hilgirtin — stêra Elohîmên we — ku hûn ji bo xwe çêkirin.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Û hûn hilgirtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sîkkût keyê we"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sîkkût"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "keyê we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kîyyûn pûtên we"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kîyyûn"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "pûtên we"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "stêra"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmên we"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "hûn çêkirin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    }
+  ],
+  "timestamp": "2026-08-30T04:08:55.311924008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Elohîm, di derketina te de berî gelê te, di meşîna te de di çola bijîwakirî, Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "di derketina te de"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "di meşîna te de"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di çola bijîwakirî"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:05.581542110Z",
+  "model": "glm-5.3"
+}

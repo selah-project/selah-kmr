@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û xwe bi Baal-Peor girêdan, û qurbaniyên miriyan xwarin.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "xwe girêdan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "bi Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbaniyên"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "miriyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:47.983392015Z",
+  "model": "glm-5.3"
+}

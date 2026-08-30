@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Êl ê bibihîze û wan bersivê bide, Û Yê ji kevn ve rûniştî — Qedem. Selah. Ku tu guhertin ji wan re tûne ye, û Elohîm natirsin.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "wan bersivê bide"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rûniştî"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ji kevn ve"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tûne"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "guhertin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "natirsin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:56.710334994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 26:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ew ê bibin heşt debitan, û bingehekên wan ên zîv bibin şazdeh binge, du binge bin debiteke, û du binge bin debiteke.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "û ew ê bibin"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "heşt"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "debitan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "û bingehekên wan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-deh"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "binge"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "binge"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨debiteke⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "û du"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "binge"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨debiteke⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:36.074379653Z",
+  "model": "glm-5.3"
+}

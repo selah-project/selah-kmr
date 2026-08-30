@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Elohîm, duaya min bibihîze, guh bide gotinê devê min!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "gotinê"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:11.159954469Z",
+  "model": "glm-5.3"
+}

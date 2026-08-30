@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û mêrên ku nemiribûn, bi eflan hatin xistin; û qêrîna bajarê ber bi ezmanan bilind bû.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Û mêrên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "miribûn"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "hatin xistin"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "bi eflan"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "û bilind bû"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "qêrîna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:23.814341559Z",
+  "model": "glm-5.3"
+}

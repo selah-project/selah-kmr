@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ez ê yên ku li te barikat dikin barikat bikim, û yê ku li te nifirî dike ez ê nifirê lê bikim; û bi te re hemû malbatên erdê barikatê werdigirin.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "û ez ê barikat bikim"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "yên ku li te barikat dikin"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "û yê ku li te nifirî dike"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ez ê nifirê lê bikim"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "û dê bêne barikatkirin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bi te re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:43.567248077Z",
+  "model": "glm-5.3"
+}

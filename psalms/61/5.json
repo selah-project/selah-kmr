@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 61,
+  "translation": "Bila ez di konê te de heta hetalê bi cih bim, di veşartîya baskên te de xwe bide parastinê. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "bila ez bi cih bim"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "di konê te de"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "heta hetalê"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ez xwe dispêrim"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di veşartîya"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baskên te"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:07.283972662Z",
+  "model": "glm-5.3"
+}

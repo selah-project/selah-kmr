@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û ⟨את⟩ tiştên pîroz ên bavê xwe û tiştên ku wî xwe veqetiandibû, aniye malê Yahwe — zîv û zêr û amûr.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Û aniye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştên pîroz ên bavê xwe"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "tiştên pîroz ên"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "û tiştên ku wî xwe veqetiandibû"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "û zêr"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "û amûr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:13.515489958Z",
+  "model": "glm-5.3"
+}

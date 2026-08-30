@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û tu dê Yahwe, Elohîmê xwe ⟨את⟩, bi tevahî dilê xwe, bi tevahî canê xwe û bi tevahî hêza xwe hez bikî.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "û tu dê … hez bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û bi tevahî"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê xwe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û bi tevahî"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "hêza xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:10.860256199Z",
+  "model": "glm-5.3"
+}

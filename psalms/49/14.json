@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Ev riya wan e — kesel ji bo wan; û paşê wan bi devên wan razî dibin. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "riya wan"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kesel"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "û paşê wan"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "bi devên wan"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "razî dibin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:08.893631814Z",
+  "model": "glm-5.3"
+}

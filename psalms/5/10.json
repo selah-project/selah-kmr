@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Ji ber ku di devê wan de tiştê rast nîne, hundirê wan xerabûn e; qirika wan qebreke vekirî ye; bi zimanê xwe xwe nerm dikin (dilan dikin).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "di devê wan de"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "tiştê rast"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "hundirê wan"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "xerabûn"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qebr"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "vekirî"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "qirika wan"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "zimanê wan"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "xwe nerm dikin (dilan dikin)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:34.272820265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û bi pêxemberekî Yahwe ⟨את⟩ Israêl ji Mîtsrayimê hilda û bi pêxemberekî ⟨hat⟩ parastin.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "û bi pêxemberekî"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israêl"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "û bi pêxemberekî"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "parastin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:11.730627054Z",
+  "model": "glm-5.3"
+}

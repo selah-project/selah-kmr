@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ji berî ve ez ji şahidiyên te dizanibûm ku tu wan heta-hertim bi cih kiriye.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "ji berî ve"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ez dizanibûm"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "ji şahidiyên te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta-hertim"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "bi cih kiriye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:21.829175657Z",
+  "model": "glm-5.3"
+}

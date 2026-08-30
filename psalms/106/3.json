@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Xweşbext in ên ku dadê diparêzin, ên ku rastiyê di her demê de dikin.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xweşbext in"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ên ku ... diparêzin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadê"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di her ... de"
+    },
+    {
+      "surface": "עת",
+      "gloss": "demê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:46.454282808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Guh bidin peyva Yahwe, serokên Sedomê; guhên xwe vekin Toreta Elohîmê me, gelê Amorayê.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "guh bidin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomê"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "guhên xwe vekin"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toreta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorayê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:08.787976142Z",
+  "model": "glm-5.3"
+}

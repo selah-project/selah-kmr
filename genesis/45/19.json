@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 45:19",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Tu jî hatî ferman kirin: Ev bikin — ji xwe re ji erda Mîtsrayim erebe bistînin, ji bo zarokên xwe û ji bo jinanên xwe, û ⟨את⟩ bavê xwe hildin û werin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tu jî"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "hatî ferman kirin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "bistînin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "erebe"
+    },
+    {
+      "surface": "לטפכם",
+      "gloss": "ji bo zarokên we"
+    },
+    {
+      "surface": "ולנשיכם",
+      "gloss": "û ji bo jinanên we"
+    },
+    {
+      "surface": "ונשאתם",
+      "gloss": "hildin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê xwe"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "werin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:58:07.579430579Z",
+  "model": "glm-5.3"
+}

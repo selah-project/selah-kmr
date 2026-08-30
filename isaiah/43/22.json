@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Û te ⟨את⟩ min gazî nekir, Yaaqob (Ya'qûb); ji ber ku tu ji min bêtir westiyî, Îsraêl.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "te gazî kir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "tu westiyî"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:09.939879207Z",
+  "model": "glm-5.3"
+}

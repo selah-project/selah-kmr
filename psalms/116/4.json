@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Û bi navê Yahwe bang dikim: «Adarî, Yahwe! Canê min xilas bike!»",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Û bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bang dikim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Adarî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "xilas bike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:22.824691398Z",
+  "model": "glm-5.3"
+}

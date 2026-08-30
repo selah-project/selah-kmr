@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "ji bo parastina fermanên Yahwe û ⟨את⟩ qanûnên wî, ku ez îro ji te re ferman dikim, ji bo qenciya te.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "ji bo parastina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên Yahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qanûnên wî"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "qanûnên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ferman dikim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ji bo qenciya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:22.358037263Z",
+  "model": "glm-5.3"
+}

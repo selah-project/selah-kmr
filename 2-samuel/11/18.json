@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Yowab şand û ji Dawid re ⟨את⟩ hemû gotinên şer ragihand.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "û ragihand"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gotinên şer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:44.504073389Z",
+  "model": "glm-5.3"
+}

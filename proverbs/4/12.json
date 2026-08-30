@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Dema te dimeşe, gavên te dê teng nebin; û ger te bimeşe dê nelîwaye.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "dema te dimeşe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "teng bin"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "gavên te"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "te bimeşe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "lîwaye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:39.336422805Z",
+  "model": "glm-5.3"
+}

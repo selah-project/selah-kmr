@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Guneh li ser gunehên wan zêde bike, û bila nekevin dadweriya te.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "bike (zêde bike)"
+    },
+    {
+      "surface": "עון",
+      "gloss": "guneh"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "gunehên wan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bila ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kevin"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "di dadweriya te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:53.744749570Z",
+  "model": "glm-5.3"
+}

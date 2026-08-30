@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û çermên beranan ên sor-kirî, û çermên tahşan, û darên şîta.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "û çermên"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "beranan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ên sor-kirî"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "û çermên"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahşan"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "û darên"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîta"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:57.638803825Z",
+  "model": "glm-5.3"
+}

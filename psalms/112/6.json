@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 112,
+  "translation": "Ji ber ku ew hertim nehêle were hejandin; ê rastdar dê ji bo bîranîneke ⟨a⟩ hertimê bimîne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hêle were hejandin"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ji bo bîranîneke"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimê"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bimîne"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ê rastdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.644123743Z",
+  "model": "glm-5.3"
+}

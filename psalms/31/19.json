@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Bila lêvên derew bêdeng bibin — yên ku bi serwaşkî û bi serwasî li dijî sadiq diaxivin, di serbilindî û bi rêznedanînê de.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "bila bêdeng bibin"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "diaxivin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadiq"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "bi serwaşkî"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "di serbilindî"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "bi rêznedanînê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:55.726945719Z",
+  "model": "glm-5.3"
+}

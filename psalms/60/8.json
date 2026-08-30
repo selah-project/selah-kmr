@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Elohîm di pîroziya xwe de axivî: ״Ez kêfxweş dibim, Şekemê dabeş dikim û newala Sukkotê dipîve.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "di pîroziya xwe de"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ez kêfxweş dibim"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "dabeş dikim"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemê"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "û newala"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkotê"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "dipîve"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:42.367234366Z",
+  "model": "glm-5.3"
+}

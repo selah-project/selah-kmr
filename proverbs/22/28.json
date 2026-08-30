@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Sînorê kevnar yê ku bavên te danîne, netewîne.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "netewîne"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sînor"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kevnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "danîne"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "bavên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:06.939792242Z",
+  "model": "glm-5.3"
+}

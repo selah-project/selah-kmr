@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Jin jî hilgirt û perdeyê ⟨את⟩ ser rûyê kanîyê belav kir, û ser wî genimê pijandî belav kir, û tiştek nehat zanîn.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "hilgirt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "belav kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeyê"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "perdeyê"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kanîyê"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "belav kir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ser wî"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "genimê pijandî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "hat zanîn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tiştek"
+    }
+  ],
+  "timestamp": "2026-08-29T19:55:53.174196047Z",
+  "model": "glm-5.3"
+}

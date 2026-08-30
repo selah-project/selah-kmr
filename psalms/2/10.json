@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û niha, gelî keyan, biaqil bin; xwe bidin perwerdekirinê, gelî darizêrên erdê!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "gelî keyan"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "biaqil bin"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "xwe bidin perwerdekirinê"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "gelî darizêrên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:54.782259535Z",
+  "model": "glm-5.3"
+}

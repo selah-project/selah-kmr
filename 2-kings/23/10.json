@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Wî ⟨את⟩ Tofetê, ku di newala zarokên Hînôm de ye, xirab kir, da ku kes ⟨את⟩ kurê xwe û ⟨את⟩ keça xwe di nav êrîşê de ji bo Moleh derbas neke.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "xirab kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofetê"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofetê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "di newalê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hînôm"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ku… neke"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "derbas bike"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê xwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keça xwe"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "keça xwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "di nav êrîşê"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji bo Moleh"
+    }
+  ],
+  "timestamp": "2026-08-29T20:25:36.025491672Z",
+  "model": "glm-5.3"
+}

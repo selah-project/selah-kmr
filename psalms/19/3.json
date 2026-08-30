@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Rojek bi rojekî peyivan diherrike û şevek bi şevekî zanînê dide xûyakirin.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "rojek"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bi rojekî"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "diherrike"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "peyivan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "û şevek"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "bi şevekî"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "dide xûyakirin"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanînê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:19.083922710Z",
+  "model": "glm-5.3"
+}

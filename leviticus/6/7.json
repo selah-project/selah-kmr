@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ev şerîata qurbana minçê ye: kên Aharon wê ⟨את⟩ wê berî Yahwe, li ber rûyê mîzbeḥê, pêşkêş bikin.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "şerîata"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "qurbana minçê"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wê pêşkêş bikin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (qurbana minçê)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mîzbeḥê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:00.057384328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Yahwe ji min re got: “Môabê teng neke û xwe bi wan re napêçîne şerî, ji ber ku ez ji te re ji erdê wî wek mîrasê nade, ji ber ku min ji kurên Lût re ⟨את⟩ Er wek mîrasê daye.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "teng neke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Môab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Môab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "xwe napêçîne"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ez … didim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ji erdê wî"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "wek mîrasê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lût"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min … daye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Er"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "wek mîrasê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:34.919516308Z",
+  "model": "glm-5.3"
+}

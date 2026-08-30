@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Min peyman bi bijartiyê xwe re birî; min sond xwar ji bo Dawid, kedxwedayê min.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "min birî"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peyman"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "ji bo bijartiyê min"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "min sond xwar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kedxwedayê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:59.603762876Z",
+  "model": "glm-5.3"
+}

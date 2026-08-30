@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Ew ⟨ew⟩ dîtin û wiha matmayî man; ditirsin û bezîyan.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "matmayî man"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ditirsin"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "bezîyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:15.511545159Z",
+  "model": "glm-5.3"
+}

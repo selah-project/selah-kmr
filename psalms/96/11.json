@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Bila ezman bibin şad û erd bi keyfxweşî bibe; bila deryay bilivîne û tijahiya wê.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "bibin şad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "bi keyfxweşî bibe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "bilivîne"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryay"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "tijahiya wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:54.259218431Z",
+  "model": "glm-5.3"
+}

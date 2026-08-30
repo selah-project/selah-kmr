@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û jin ducanî ma, û şand û ji Dawid re ragihand û got: \"Ez ducanî me.\"",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ducanî ma"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "ducanî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:46.478135094Z",
+  "model": "glm-5.3"
+}

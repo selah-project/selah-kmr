@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Ji ber ku bi dilê xwe yekcar şêwirîne; li dijî te peymanekê qut kirine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "şêwirîne"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bi dilê xwe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yekcar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li dijî te"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymanekê"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "qut kirine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:10.929475857Z",
+  "model": "glm-5.3"
+}

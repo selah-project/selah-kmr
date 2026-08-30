@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ⟨את⟩ Hilen û ⟨את⟩ deştên wê, ⟨את⟩ Devîr û ⟨את⟩ deştên wê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Hilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devîr"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devîr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:33:43.675747784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Ku ez raza te bikim, Elohîm-a min, min bi daxwaz dixwest; û Tora te di nava zikê min de ye.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ku ez … bikim"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "raza te"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm-a min"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "min bi daxwaz dixwest"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "û Tora te"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "zikê min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:59.507310463Z",
+  "model": "glm-5.3"
+}

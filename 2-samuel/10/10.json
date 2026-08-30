@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ⟨את⟩ mayê gel da destê Avîşay birayê xwe, û ew rêz da li hember bênên Emmon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mayê gel"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mayê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avîşay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "û rêz da"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "li hember"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bênên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Emmon"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:23.327124294Z",
+  "model": "glm-5.3"
+}

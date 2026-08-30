@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Wê ⟨את⟩ qûrê yek bigirî, û Aharon û kurên wî ⟨את⟩ destên xwe li ser serê qûrê danişînin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "qûr"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qûr"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "bigirî"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "danişînin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ser"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qûr"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:56.551133113Z",
+  "model": "glm-5.3"
+}

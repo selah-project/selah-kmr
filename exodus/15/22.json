@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û Moşe ⟨את⟩ Îsraêl ji Deryaya Qamîşan bir, û ew derketin çola Şûr û sê rojan di çolê de çûn û av nedîtin.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Û bir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Deryaya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamîşan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çola"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Şûr"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:04.836046009Z",
+  "model": "glm-5.3"
+}

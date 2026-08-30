@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û gelê hemû mêran ku xwe dilbestî pêşkêş kirin ku li Yeruşalayim bi cî bibin, pîroz kirin.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "pîroz kirin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "ku xwe dilbestî pêşkêş kirin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ku bi cî bibin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:19.825739303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Dibarînin, peyvên serwênî dipeyivin; hemû kiryarên şer xwe mezin dikin.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Dibarînin"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "dipeyivin"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "serwênî"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "xwe mezin dikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kiryarên"
+    },
+    {
+      "surface": "און",
+      "gloss": "şer"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:51.910933238Z",
+  "model": "glm-5.3"
+}

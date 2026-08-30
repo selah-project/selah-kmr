@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ev in yên bi Paro, keyê Mîtsrayimê re axaftin, da ku zarokên ⟨את⟩ Îsraêlî ji Mîtsrayimê derîne — ev ên Moşe û Aharon in.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Ev in"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "yên axaftin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "da ku derîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên Îsraêlî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ev ên"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:01.065435707Z",
+  "model": "glm-5.3"
+}

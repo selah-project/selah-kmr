@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Kûş û Fut û Lud û hemû gelê tevlihev û Kub û şêniyên welatê ⟨את⟩-peymanê — bi wan re bi şûr bikevin erdê.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kûş"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "û Fut"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "û Lud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "gelê tevlihev"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "û Kub"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û şêniyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "peymanê"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "şêniyên welatê peymanê (bi wan re)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûr"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bikevin erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:54:00.472836307Z",
+  "model": "glm-5.3"
+}

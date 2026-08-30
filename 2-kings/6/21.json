@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Keyê Îsraêlî, dema ku ⟨את⟩ wan dît, ji Elîşa re got: “Bavê min, ma bikujim, bikujim?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji…re"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elîşa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "dema ku dît"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ma bikujim"
+    },
+    {
+      "surface": "אכה",
+      "gloss": " bikujim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:16:54.297171080Z",
+  "model": "glm-5.3"
+}

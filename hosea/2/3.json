@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji birayên xwe re bibêjin: Ammî (Gelê-min), û ji xwişkên xwe re: Ruhamah (Dilovanî).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ji birayên xwe re"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammî (Gelê-min)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "û ji xwişkên xwe re"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah (Dilovanî)"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:37.640901831Z",
+  "model": "glm-5.3"
+}

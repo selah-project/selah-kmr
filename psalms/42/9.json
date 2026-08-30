@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ro rojê Yahwe xesedê xwe ferman dike, û şevê strana wî bi min re ye, duayeke ji Êlê jiyana min.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Ro rojê"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ferman dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê xwe"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "û şevê"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "strana wî"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "duayeke"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ji Êlê"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiyana min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:44.596038372Z",
+  "model": "glm-5.3"
+}

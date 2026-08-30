@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Yahwe nêzîkê yên dilşikestî ye, û ⟨את⟩ yên bi ruha peliştî ferestdar dike.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nêzîkê ... e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "yên dilşikestî"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yên bi ruha peliştî"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "peliştî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ferestdar dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:50.138003284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Hemû gel ⟨את⟩ Yardên derbas kirin û key derbas bû; û key Barzîlay maşand, wî pîroz kir, û ew vegere cihê xwe.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "derbas kir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardên"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardên"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "û key"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "maşand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzîlay"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "wî pîroz kir"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "vegere"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "cihê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:58.665527262Z",
+  "model": "glm-5.3"
+}

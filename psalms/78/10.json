@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Peymana Elohîm parêz nekirin û gotin na ku di şerîeta wî de bigerin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "parêz nekirin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "di şerîeta wî de"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "gotin na"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "bigerin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:28.214706220Z",
+  "model": "glm-5.3"
+}

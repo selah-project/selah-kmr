@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Min ji Yahwe re got: Tu yî Êlê min; guhê xwe bide, Yahwe, dengê îltîcacên min.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Min ... got"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "guhê xwe bide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "îltîcacên min"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:07.105567913Z",
+  "model": "glm-5.3"
+}

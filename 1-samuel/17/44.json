@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Filistî ji Dawid re got: “Were cem min, û ez ê ⟨את⟩ goştê te bidim Xwînawirên ezmanan û heywanên çolê.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "were"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cem min"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goştê te"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "goştê te"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "Xwînawirên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "û heywanên"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "çolê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:26.358330565Z",
+  "model": "glm-5.3"
+}

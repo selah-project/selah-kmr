@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ew min ji çala dengdew hilda, ji lîvê xamelî, û pêy min li ser kevir rawestand, gavên min sabit kir.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "û ew min hilda"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ji çal"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dengdew"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "ji lîvê"
+    },
+    {
+      "surface": "היון",
+      "gloss": "xamelî"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "rawestand"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kevir"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pêy min"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "sabit kir"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gavên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:39.733429895Z",
+  "model": "glm-5.3"
+}

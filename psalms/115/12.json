@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Yahwe me bi bîr anî; wê birûmet bike, wê ⟨את⟩ mala Yisraêl birûmet bike, wê ⟨את⟩ mala Aharon birûmet bike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "me bi bîr anî"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wê birûmet bike"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wê birûmet bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala Yisraêl"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wê birûmet bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:45.706716275Z",
+  "model": "glm-5.3"
+}

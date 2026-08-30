@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Tu bi wan û bi Elohîmên wan re peyman nadîn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "tu nadîn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "û bi Elohîmên wan re"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peyman"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:53.715396591Z",
+  "model": "glm-5.3"
+}

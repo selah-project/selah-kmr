@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 3:12",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û gelek ji kahînan û Lewiyan, û serokên bav û kalan — pîrên ku ⟨את⟩ Xaniya yekem dîbûn gê bingehê wê hatibû danîn, ev xanî li ber çavên wan — bi dengê bilind digirîyan; û gelek bi qîrînê, bi şahî, deng bilind dikirin.",
+  "tokens": [
+    {
+      "surface": "ורבים",
+      "gloss": "Û gelek"
+    },
+    {
+      "surface": "מהכהנים",
+      "gloss": "ji kahînan"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "û Lewiyan"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "û serokên"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "bav û kalan"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "pîr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîbûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xaniya yekem"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Xanî"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yekem"
+    },
+    {
+      "surface": "ביסדו",
+      "gloss": "gê bingehê wê hatibû danîn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "li ber çavên wan"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "digirîyan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "ורבים",
+      "gloss": "û gelek"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "bi qîrînê"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "bi şahî"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "ji bo bilindkirina"
+    },
+    {
+      "surface": "קול",
+      "gloss": "deng"
+    }
+  ],
+  "timestamp": "2026-08-30T06:23:06.424999287Z",
+  "model": "glm-5.3"
+}

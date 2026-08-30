@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Di aşitiyê de êvarî ⟨אֶ⟩ ez dirêj dibim û dixewim, çimkî tu, Yahwe, bi tenê, bi ewlehî rûniştinê didî min.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Di aşitiyê de"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "êvarî"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ez dirêj dibim"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "û dixewim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "bi tenê"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bi ewlehî"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "rûniştinê didî min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:29.328855147Z",
+  "model": "glm-5.3"
+}

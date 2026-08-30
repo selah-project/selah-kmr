@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Dawid şandin şand û wê girt; ew hat cem wî û ew bi wê re raza — ew ji nepaqijiya xwe paqij dibû — û ew vegeriya mala xwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "wê girt"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cem wî"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "raza"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bi wê re"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "paqij dibû"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "ji nepaqijiya xwe"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mala xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:53:16.234633428Z",
+  "model": "glm-5.3"
+}

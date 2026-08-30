@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Arpakşad piştî ku ⟨את⟩ Şelaj bû bavê xwe sê sal û çar sed sal jiya, û kûr û keç anîn dinyayê.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiya"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakşad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "bû bavê xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelaj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Şelaj"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sal"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "û çar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anîn dinyayê"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kûr"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "û keç"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:04.916642816Z",
+  "model": "glm-5.3"
+}

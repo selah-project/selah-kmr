@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ji Dawid re. Berbi te, Yahwe, canê min bilind dikim.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid re"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "berbi te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "bilind dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:52.501802275Z",
+  "model": "glm-5.3"
+}

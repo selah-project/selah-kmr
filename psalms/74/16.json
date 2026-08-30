@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Roja ⟨ya⟩ te ye, şev jî ⟨ya⟩ te ye; tu ronahî û tav amade kirî.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ya te"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ya te"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şev"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "amade kirî"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "û tav"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:34.238343453Z",
+  "model": "glm-5.3"
+}

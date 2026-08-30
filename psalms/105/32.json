@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Sel da ji dewsa barîna wan, û agirê pêlît di erdê wan de.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "barîna wan"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "sel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "pêlît"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di erdê wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:11.025102087Z",
+  "model": "glm-5.3"
+}

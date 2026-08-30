@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Ajalên kovî û hemû dewar; xwêjok û teyreyên baskdar.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "ajalên kovî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dewar"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "xwêjok"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "û teyreyên"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "baskdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.635270099Z",
+  "model": "glm-5.3"
+}

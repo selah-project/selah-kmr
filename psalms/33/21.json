@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Ji ber ku di wî de dilê me dibîneşe, ji ber ku em li navê wî yê pîroz spêdikin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di wî de"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "dibîneşe"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "dilê me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "li navê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "yê pîroz ê wî"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "em spêdikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:03.828548368Z",
+  "model": "glm-5.3"
+}

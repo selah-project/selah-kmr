@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 122,
+  "translation": "Strana hildanê, ji bo Dawid. Şa bûm dema ew ji min re digotin: «Xaniyê Yahwe — emê biçin.»",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hildanê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Şa bûm"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "dema ew digotin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xaniyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "emê biçin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:39.694954364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û ⟨את⟩ mizgefta pêşkêşkirinê çêkir, ji darên şitim; pênc ξulan dirêjahiya wê, û pênc ξulan firehiya wê, çargoşe, û sê ξulan bilindahiya wê.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizgefta pêşkêşkirinê"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizgeft"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pêşkêşkirinê"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ξulan"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjahiya wê"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "û pênc"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ξulan"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "firehiya wê"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "çargoşe"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ξulan"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bilindahiya wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:25.110972194Z",
+  "model": "glm-5.3"
+}

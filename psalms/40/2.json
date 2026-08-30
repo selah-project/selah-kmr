@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Bi hêvî — bi hêvî min li Yahwe rawestiya, û ew ber bi min ve xwar û qêrîna min bihîst.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "bi hêvî"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "min hêvî kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "û ew xwar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ber bi min ve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "û bihîst"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "qêrîna min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:39.733270573Z",
+  "model": "glm-5.3"
+}

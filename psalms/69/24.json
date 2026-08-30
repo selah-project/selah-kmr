@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Bila çavên wan ji dîtinê tarî bibin, û qeremilokên wan hertim lihevin.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "bila tarî bibin"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "çavên wan"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ji dîtinê"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "û qeremilokên wan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "lihevin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:30.718299351Z",
+  "model": "glm-5.3"
+}

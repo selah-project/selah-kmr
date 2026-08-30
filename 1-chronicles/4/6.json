@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Naarah ji bo wî ⟨את⟩ Axûzam û ⟨את⟩ Hefer û ⟨את⟩ Temenî û ⟨את⟩ Haaxretarî çêkir; ev kurên Naarah in.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axûzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Axûzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Temenî"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temenî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haaxretarî"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haaxretarî"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:15.696649485Z",
+  "model": "glm-5.3"
+}

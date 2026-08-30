@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Êdî tu qiloçên min wekî yê gayê kovî bilind kirî; ez bi rûnê teze hatim rûnkirin.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "bilind kirî"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "wekî yê gayê kovî"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "qiloçên min"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "hatim tijîkirin"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bi rûnê"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "teze"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:35.724050404Z",
+  "model": "glm-5.3"
+}

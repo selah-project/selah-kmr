@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ji Yahwe re stran bêjin, ⟨את⟩ Yahwe bilind bikin, ji ber ku ⟨את⟩ canê sêwî ji destê xeraban rizgar kir.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "stran bêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe re"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bilind bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rizgar kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê sêwî"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "sêwî"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "xeraban"
+    }
+  ],
+  "timestamp": "2026-08-29T20:56:31.244863777Z",
+  "model": "glm-5.3"
+}

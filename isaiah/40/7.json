@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Siwar hişk dibe, gul winda dibe, çiku bayê Yahwe lê pêk hat; bi rastî gel siwar e.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "hişk dibe"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "siwar"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "winda dibe"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "gul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çiku"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bayê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "pêk hat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lê"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "siwar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:52.554005500Z",
+  "model": "glm-5.3"
+}

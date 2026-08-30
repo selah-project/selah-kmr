@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û Yehuda ji birayên xwe re got: «Çi feyde heye ku em ⟨את⟩ birayê xwe bikujin û ⟨את⟩ xwîna wî veşêrin?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "feyde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "bikujin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayê xwe"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "veşêrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwîna wî"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "xwîna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:30.639710483Z",
+  "model": "glm-5.3"
+}

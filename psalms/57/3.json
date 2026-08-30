@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Ez ê gazî Elohîmê Herî Bilind bikim, gazî Êlê ku kirinê min temam dike.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ez ê gazî bikim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Herî Bilind"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "temam dike"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:18.768623054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Elohîm ji me re ⟨ye⟩ penah û hêz, alîkariyeke di tengasiyan de zêde ⟨tê⟩ dîtin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "penah"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "û hêz"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "alîkarî"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "di tengasiyan de"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tê dîtin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zêde"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:16.517978540Z",
+  "model": "glm-5.3"
+}

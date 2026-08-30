@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Ê dî ez ê wî bikim pêşînê xwe, bilindtir ji keyên erdê.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ê dî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pêşîn"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ê wî bikim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "bilindtir"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ji keyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:35.691221524Z",
+  "model": "glm-5.3"
+}

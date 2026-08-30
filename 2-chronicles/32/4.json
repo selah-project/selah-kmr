@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Gelek gel kom bû û wan ⟨את⟩ hemû kanî û ⟨את⟩ çemê ku di nav welêt re diherikî girt, û gotin: Çima keyên Aşûrê bên û avên pir bidîtin?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "û kom bû"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "û wan... girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû kanî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "kanî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çemê"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "çemê"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "ku diherikî"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "bên"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "keyên"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "û"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pir bidîtin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:52:53.591842080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Ji Dawid re. Pîroz be Yahwe, kevire min, ê ku destên min ji bo şer hîn dike, tilîyên min ji bo cengê.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid re"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Pîroz be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kevire min"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ê ku hîn dike"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên min"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ji bo şer"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "tilîyên min"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ji bo cengê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:17.003075450Z",
+  "model": "glm-5.3"
+}

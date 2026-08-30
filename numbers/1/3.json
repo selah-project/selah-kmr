@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji zarokê bîst salî û jor, hemû yê ku di Îsraêlî de derdikeve leşkeriyê, hûn ⟨את⟩ wan bi rêza leşkerên wan bihejmêrin — tu û Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "ji zarokê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salî"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "û jor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yê derdikeve"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "leşkeriyê"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Îsraêlî de"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "bihejmêrin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "bi rêza leşkerên wan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:56.353631394Z",
+  "model": "glm-5.3"
+}

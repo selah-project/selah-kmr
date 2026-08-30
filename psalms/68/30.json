@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Ji perestgeha te li ser Yeruşalayim, keyan diyariyan ji te re dibînin.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "ji perestgeha te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "dibînin"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "keyan"
+    },
+    {
+      "surface": "שי",
+      "gloss": "diyariyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:03.624681292Z",
+  "model": "glm-5.3"
+}

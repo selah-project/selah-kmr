@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û bavê zava, bavê keçikê, wî bi ⟨את⟩ xwe re girt û sê rojan bi wî re rûnişt; û xwarin, û vexwarin, û li wir razan.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "girt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "bavê zava"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "keçikê"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bi ⟨את⟩ wî re",
+      "marks": "wî"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "vexwarin"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "razan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:33:08.852831566Z",
+  "model": "glm-5.3"
+}

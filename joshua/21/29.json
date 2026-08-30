@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmut û ⟨את⟩ zemînên wê, ⟨את⟩ Eyn-Ganim û ⟨את⟩ zemînên wê — çar bajaran.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmut"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zemînên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zemînên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eyn-Ganim"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eyn"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-Ganim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zemînên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zemînên wê"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:04.484957348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Wî got: Ji tengasiya min min gazî Yahwe kir û wî bersiva min da; ji zikê Şeolê min qêrî, û tu dengê min bihîst.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wî got"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "min gazî kir"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "tengasiyê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "wî bersiva min da"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ji zikê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "min qêrî"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu bihîst"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    }
+  ],
+  "timestamp": "2026-08-30T04:09:51.411275848Z",
+  "model": "glm-5.3"
+}

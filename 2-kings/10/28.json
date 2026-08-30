@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Yehû ⟨את⟩ Baʿal ji Îsraêlê qirêj kir.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "qirêj kir"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baʿal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baʿal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ji Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:32.082241347Z",
+  "model": "glm-5.3"
+}

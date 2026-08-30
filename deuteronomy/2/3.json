@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Bi we re bes e ku hûn li dora ⟨את⟩ vê çiyê bigerin; hûn ji bo xwe ber bi bakur bizivirin.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "bes"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bi we re"
+    },
+    {
+      "surface": "סב",
+      "gloss": "bigerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê çiyê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vê çiyê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "bizivirin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ber bi bakur"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:46.441662396Z",
+  "model": "glm-5.3"
+}

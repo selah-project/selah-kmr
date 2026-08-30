@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Keçika xwe nexerabîne ku ⟨את⟩ wê bide zînabûnê, û welat ji zînabûnê bêpar bimîne, û welat neyê tijîkirin bi kiryarên xirab.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "nexerabîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçika xwe"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "keçika xwe"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "ku wê bide zînabûnê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "zînabûyî bike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "û neyê tijîkirin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kiryarên xirab"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:22.937971413Z",
+  "model": "glm-5.3"
+}

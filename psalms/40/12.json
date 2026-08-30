@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Tu, Yahwe, dilovanîyên xwe ji min re negirî; xesed û rastiya te bê dawî li min digirin.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "girî"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dilovanîyên te"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "û rastiya te"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bê dawî"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "li min digirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:59.508068724Z",
+  "model": "glm-5.3"
+}

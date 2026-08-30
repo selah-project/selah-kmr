@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Bibe ku Yahwe bibibe hemû lêvên xweşikbêj û zimanê ku tiştên mezin diaxive.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "bibe ku ... bibibe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "xweşikbêj"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "zimanê"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "diaxive"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tiştên mezin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:40.139565674Z",
+  "model": "glm-5.3"
+}

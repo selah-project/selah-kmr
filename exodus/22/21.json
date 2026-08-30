@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Li jina bîmayê û sêwî zilm nekin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "jina bîmayê"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "û sêwî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "zilm bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:22.922839378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û tu çê bikî ⟨את⟩ hewşa Mîşkanê: ji bo aliyê başûr, ber bi başûr, perde ji kincên spî yên qumaşê bizivirandî, sed pê dirêjahî ji bo aliyê yek.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Û tu çê bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hewşa Mîşkanê"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "hewş"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mîşkanê"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ji bo aliyê"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "başûr"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ber bi başûr"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "perde"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ji bo hewşê"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kincên spî"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "qumaşê bizivirandî"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "pê"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dirêjahî"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "ji bo aliyê"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:29.705574986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Dewlemend ji Mîtsrayimê tên, Kûş zû destên xwe berbi Elohîm dirêj dike.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "tên"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "dewlemend"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kûş"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "zû dirêj dike"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "berbi Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:03.625130689Z",
+  "model": "glm-5.3"
+}

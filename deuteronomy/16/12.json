@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û bîra xwe bînî ku tu di Mîtsrayimê de kolemabûyî, û ⟨את⟩ van biryaran biparisî û bicî bînî.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Û bîra xwe bînî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kolemabûyî"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu bûyî"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mîtsrayimê de"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "û biparisî"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "û bicî bînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van biryaran"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "van biryaran"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-29T19:05:12.908240614Z",
+  "model": "glm-5.3"
+}

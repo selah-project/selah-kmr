@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Viha, me wê li Efratayê bihîst, me wê li zeviyên daristanê dît.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Viha"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "me wê bihîst"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "li Efratayê"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "me wê dît"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "li zeviyên"
+    },
+    {
+      "surface": "יער",
+      "gloss": "daristanê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:06.767029226Z",
+  "model": "glm-5.3"
+}

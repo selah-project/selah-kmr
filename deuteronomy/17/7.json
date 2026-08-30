@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Destê şahidan dê pêşî li ser wî be ji bo kuştina wî, û destê tevahiya gel dê paşê be; û tu xerabiyê ji nav xwe derxî.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "şahidan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dê ... be"
+    },
+    {
+      "surface": "בו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "pêşî"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ji bo kuştina wî"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "û destê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "paşê"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "û tu derxî"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ji nav xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:06:37.266362907Z",
+  "model": "glm-5.3"
+}

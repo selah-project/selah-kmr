@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Hevalê hemû yên ku ditirsin te me, û yên parêzvanên pêşengên te.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "hevalê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "ditirsin te"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "û yên parêzvanên"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pêşengên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:48.169229453Z",
+  "model": "glm-5.3"
+}

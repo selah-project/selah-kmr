@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Û Yisraêl ji Yosef re got: Vê carê ez dimirim, piştî ku min ⟨את⟩ rûyê te dît, ji ber ku tu hîn jî zindî yî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "ez dimirim"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "vê carê"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "min dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê te"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "tu hîn jî"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindî yî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:59:18.048293490Z",
+  "model": "glm-5.3"
+}

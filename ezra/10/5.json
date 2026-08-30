@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Êzra rabû û ⟨את⟩ serokên kohênan, Lewî û hemû Îsraêlê hilda ku gorî vê gotinê bikin; ew swêr dan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Êzra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serokên kohênan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohênan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku bikin"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gorî gotinê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "swêr dan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:59:44.970973167Z",
+  "model": "glm-5.3"
+}

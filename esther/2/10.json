@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ester ⟨את⟩ gelê xwe û ⟨את⟩ eslê xwe eşkera nekir, çunku Mordehay ferman da wê ku nebike eşkere.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "eşkera nekir"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê xwe"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eslê xwe"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "eslê xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çunku"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "bike eşkere"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:10.768380186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Bilind nebîn, ji ber ku Yahwe di nav we de nîne, û hûn berî dijminên xwe nayên xistinkirin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "hûn bilind dibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di nav we de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nayên"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "xistinkirin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dijminên we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:46:08.102993175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Dawid diçû û ji Şaul vedigeriya, da ku ⟨את⟩ rewiyê bavê xwe li Beyt-Lahem çêr bike.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Û Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "diçû"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "vedigeriya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "da ku çêr bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rewiyê"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "rewiyê"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lahem"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:55.628169643Z",
+  "model": "glm-5.3"
+}

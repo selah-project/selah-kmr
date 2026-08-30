@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Çavê ên ku min didîtin êdî min nabinîn; çavên te li min in, û ez êdî nime.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "min nabinîn"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çavê"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ên ku min didîtin"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "çavên te"
+    },
+    {
+      "surface": "בי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "û ez êdî nime"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:30.383980800Z",
+  "model": "glm-5.3"
+}

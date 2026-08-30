@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ev ⟨ev bûn⟩ yên gazîkirî yên civînê, serokên êlên bavên wan, serên hezaranên Yisrael in.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "yên gazîkirî"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "êlên"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serên"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "hezaranên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הם",
+      "gloss": "in"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:26.265920725Z",
+  "model": "glm-5.3"
+}

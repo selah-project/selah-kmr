@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Çi ku xulamê te di dema mayîna xwe de li Gşûrê, li Aramê, soz da û got: Ger Yahwe bi rastî vegerîne min Yeruşalayimê, ez ê ⟨את⟩ Yahwe xizmet bikim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çi ku"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "soz"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê te"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "di dema mayîna xwe de"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "li Gşûrê"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "li Aramê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bi rastî vegerîne"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "vegêrîne min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "ez ê xizmet bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:54:24.353188003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Û zêreyê xulamên wî wê ⟨bi⟩hûrmînin, û ên ku navê wî dihêjin dê tê de bi cih bibin.",
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "Û zêreyê"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "wê wê bihûrmînin"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "û ên ku dihêjin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "dê bi cih bibin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:44.307154362Z",
+  "model": "glm-5.3"
+}

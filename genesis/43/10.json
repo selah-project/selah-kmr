@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Ji ber ku ger em ne.Rawartan bûna, îcar ê em êdî du caran vegeriyana bûna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "ger ne"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "em nerawartana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "îcar"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "em vegeriyana bûna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "du caran"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:45.874446326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ev bun kurên Oholîbamah, keça Anah, keça Tsîvon, jina Esav; û ji bo Esav ⟨את⟩ Yeîş û ⟨את⟩ Yaalam û ⟨את⟩ Korah anî dinê.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholîbamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsîvon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "û anî dinê"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ji bo Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeîş"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeîş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:42.817413197Z",
+  "model": "glm-5.3"
+}

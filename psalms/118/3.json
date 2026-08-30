@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Bila malbata Aharon êdî bibêje: \"Heta hertimî xesedên wî ye.\"",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bila … êdî"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedên wî ye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:55.877226731Z",
+  "model": "glm-5.3"
+}

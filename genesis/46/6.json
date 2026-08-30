@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Û ⟨את}} dewarên xwe û ⟨את}} milkê xwe yê ku di welatê Kenanê de bi dest xistibûn, hildan û hatin Mîtsrayimê — Yaakov û hemû zurewî wî ⟨bi⟩ wî re.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewarên xwe"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "dewarên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "milkê xwe"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "milkê xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "bi dest xistibûn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenanê"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "û hatin"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zurewî wî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:19.553718868Z",
+  "model": "glm-5.3"
+}

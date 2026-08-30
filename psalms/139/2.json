@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Tu dizanî rûniştina min û rabûna min; ji dûr ve dûra min dibînî û fêm dikî.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dizanî"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "rûniştina min"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "û rabûna min"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "dibînî û fêm dikî"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "dûra min"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ji dûr ve"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:02.701728220Z",
+  "model": "glm-5.3"
+}

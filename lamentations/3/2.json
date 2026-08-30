@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "⟨את⟩ min birû û hilda ⟨û⟩ birê tarîtiyê, û ne ronahiyê.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "birû û hilda"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "birê"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarîtiyê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:06:50.865146431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Miqtam ji Dawid re: Parêz min, Êl, çimku ez di te de penah girtime.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miqtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Parêz min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimku"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ez penah girtime"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:52.262004469Z",
+  "model": "glm-5.3"
+}

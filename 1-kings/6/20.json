@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û berî debîrê bîst arşîn dirêjî, bîst arşîn firehî û bîst arşîn bilindiya wê bû; ew bi zêrê pak vegirt û altarekê bi sedrê vegirt.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "Û berî"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debîrê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "arşîn"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dirêjî"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "û bîst"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "arşîn"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "firehî"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "û bîst"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "arşîn"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bilindiya wê"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "û wê vegirt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "pak"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "û vegirt"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "bi sedrê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:03:55.614241604Z",
+  "model": "glm-5.3"
+}

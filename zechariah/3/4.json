@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û bersiv da û ji yên ku ber wî radiwestin re got, ku: “Kincên pîs ji ser wî rakin.” Û ji wî re got: “Binêre, min ⟨את⟩ gunehê te ji ser te derbas kir û min tu bi kincên xemilî lixweçikand.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Û bersiv da"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û … got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "yên ku radiwestin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ber wî"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "rakin"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "kincên"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "pîs"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ji ser wî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û … got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Binêre"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "min … derbas kir"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ji ser te"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "gunehê te"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "û min … lixweçikand"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kincên xemilî"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "kincên xemilî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:07:25.896020959Z",
+  "model": "glm-5.3"
+}

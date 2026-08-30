@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Hê çi qas zêdetir mirovê falêt kerm e û kurê mirov kirmarok e!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "hê çi qas zêdetir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirovê falêt"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "kerm"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "û kurê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "kirmarok"
+    }
+  ],
+  "timestamp": "2026-08-30T05:57:24.321961807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û Avraham ⟨את⟩ darên qurbanê şewatê girt û li ser Yîtshaq kurê xwe danî; û ew di destê xwe de ⟨את⟩ agir û ⟨את⟩ kêr girt; û herduyan bi hev re çûn.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darên qurbanê şewatê"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbanê şewatê"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtshaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê xwe de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agir"
+    },
+    {
+      "surface": "האש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kêr"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "kêr"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herduyan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:28.772195463Z",
+  "model": "glm-5.3"
+}

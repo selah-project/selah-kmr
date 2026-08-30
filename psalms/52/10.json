@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Ez jî wek zeytûneke şîn ⟨im⟩ di malê Elohîm de; ez xwe spaye xesedê Elohîm, ji hertimê û hertimî.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "wek zeytûnê"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "şîn"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di malê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "min xwe spaye"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "di xesedê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimê"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:37.485476793Z",
+  "model": "glm-5.3"
+}

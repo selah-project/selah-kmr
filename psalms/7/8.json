@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û civata gelan bila dora te bigire, û tu ji bilindahiyê ser wê vegere.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "û civata"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "dora te bigire"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "û ser wê"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ji bilindahiyê"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "vegere"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:55.722717670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ez ê ⟨אתכם⟩ ji bo xwe bigirim wek netewe, û ez ê ji we re bibim Elohîm; û hûn ê zanibin ku ez im Yahwe, Elohîmê we, yê ku ⟨אתכם⟩ ji bin barên Mitzrayim derdixe.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "û ez ê bigirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "wek netewe"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "û ez ê bibim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "û hûn ê zanibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "yê ku derdixe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ji bin"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "barên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:26.244849777Z",
+  "model": "glm-5.3"
+}

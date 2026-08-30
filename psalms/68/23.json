@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Adonay got: «Ez ji Başanê vedigerînim, ji kûriyên deryayê vedigerînim.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "ji Başan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ez vedigerînim"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ez vedigerînim"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "ji kûriyên"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:30.680845145Z",
+  "model": "glm-5.3"
+}

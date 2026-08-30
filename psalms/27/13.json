@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Heke min nebaweri kiribaya ku ez bibînama qenciya Yahwe di erda ⟨the⟩ jiyandaran de!",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "heke...ne"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "min nebaweri kiribaya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ku ez bibînama"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "qenciya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erda"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyandaran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:32.341127815Z",
+  "model": "glm-5.3"
+}

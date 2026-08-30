@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Yahwe mêrekî pêxember şand ba kurên Îsraêl û wî ji wan re got: “Bi vî awayî Yahwe, Elohîmê Îsraêl, dibêje: Ez ⟨את⟩ we ji Mîtsrayimê bilind kirim û ⟨את⟩ we ji malekî koliyan derxistim.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û ... got"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bi vî awayî"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "bilind kirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩we",
+      "marks": "we (ji Mîtsrayimê)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "û derxistim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩we",
+      "marks": "we (ji malekî koliyan)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji malekî"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "koliyan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:26:28.292741958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ne di Gat de bêjin, ne di kolanên Aşkelonê de mizginî bidin — dê keçên Filistî şa bibin, dê keçên ne-sûnêtkirî bi kêfî bilizin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "bêjin"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "di Gat de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "mizginî bidin"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "di kolanên"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aşkelonê"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dê … şa bibin (ji tirsnak)"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "şabibin"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dê … bilizin (ji tirsnak)"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "bi kêfî bilizin"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "ne-sûnêtkirî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:27.755164135Z",
+  "model": "glm-5.3"
+}

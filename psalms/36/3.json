@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Ji ber ku ew di çavên wî de ji xwe re xweş û nerm xuya kir, ji bo ku sûcê wî bê dîtin û bê nefretkirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "xweş û nerm xuya kir"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên wî de"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ji bo ku ... bê dîtin"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sûcê wî"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "bê nefretkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:56.849991318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Gelek dibêjin: “Kî ji me re başî nîşan bide?” Yunikka ronahiya rûyê xwe li ser me bilind bike, ey Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Gelek"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ji me re nîşan bide"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "başî"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "bilind bike"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "li ser me"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahiya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:23.866104320Z",
+  "model": "glm-5.3"
+}

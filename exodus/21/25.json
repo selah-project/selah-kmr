@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Şewatandin li şûna şewatandinê, birîn li şûna birînê, şîn li şûna şînê.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "şewatandin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "şewatandinê"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "birîn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "birînê"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "şîn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "şînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:33.059899993Z",
+  "model": "glm-5.3"
+}

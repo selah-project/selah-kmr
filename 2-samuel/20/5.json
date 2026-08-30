@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Amasa çû ku Yehudayê ⟨את⟩ bang bike; lê ji ⟨the⟩ dema destnîşankirî ku ji re destnîşan kiribû, zêdetir dereng ma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "ku bang bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudayê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "lê dereng ma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "dema destnîşankirî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "destnîşan kiribû"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:04.596436411Z",
+  "model": "glm-5.3"
+}

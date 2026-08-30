@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 134,
+  "translation": "Hûn destên xwe hildin ber pîroziyê û ⟨את⟩ Yahwe bibextyar bikin!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hûn hildin"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ber pîroziyê"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "û bibextyar bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:52.748617495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ger qurbana wî bi soz an jî bi dilxwazî be, di roja anîna ⟨את⟩ qurbana wî de tê xwarin; û di roja sibê de jî ya mayî ji wê tê xwarin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "bi soz"
+    },
+    {
+      "surface": "או",
+      "gloss": "an jî"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "bi dilxwazî"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbana"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "anîna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurban"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "qurbana wî"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tê xwarin"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "û di roja sibê de"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "û ya mayî"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tê xwarin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:19.714217977Z",
+  "model": "glm-5.3"
+}

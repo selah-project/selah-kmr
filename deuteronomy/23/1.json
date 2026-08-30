@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Kes nikare ⟨את⟩ jina bavê xwe bigire, û nikare binê bavê xwe vek e.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina bavê xwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "vek e"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "binê"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:50.191604698Z",
+  "model": "glm-5.3"
+}

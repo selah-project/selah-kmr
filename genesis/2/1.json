@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ezman û erd û hemû leşkerê wan hatin temamkirin.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "hatin temamkirin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "û erd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "leşkerê wan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:28.273849622Z",
+  "model": "glm-5.3"
+}

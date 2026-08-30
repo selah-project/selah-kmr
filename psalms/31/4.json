@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Çimkî keleha min û birc û benda min tu yî; û ji ber navê te rê nîşanî min bide û rêwîtiya min rêve bibe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "keleha min"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "û birc û benda min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    },
+    {
+      "surface": "וולמען",
+      "gloss": "û ji ber"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "rê nîşanî min bide"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "û rêwîtiya min rêve bibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:50.416796163Z",
+  "model": "glm-5.3"
+}

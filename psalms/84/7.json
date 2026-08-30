@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Ewên ku derbasî Newala Baka dibin, wê çavkaniyekê lê çêkin; û baranê destpêkê jî wê wê bi dawetan bixemilîne.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ewên ku derbas dibin"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "bi newalê"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Newala Baka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "çavkanî"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "wê wê çêkin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "û ... jî"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bi dawetan"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "wê bixemilîne"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "baranê destpêkê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:58.405632817Z",
+  "model": "glm-5.3"
+}

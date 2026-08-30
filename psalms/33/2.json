@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Spasî bikin Yahwe bi çengê; bi nêvela de-têlan jê re bilêv bikin.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "spasî bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bi çengê"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "bi nêvela"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "de-têlan"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bilêv bikin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:42.851087747Z",
+  "model": "glm-5.3"
+}

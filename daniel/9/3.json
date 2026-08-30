@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û min rûyê xwe ⟨את⟩ ber bi Adonay Elohîm kir, ji bo xwestina duayan û lavijeyan, bi rojîyê û çorsûyê û xweliyê.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "û min ... kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê min"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ji bo xwestina"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "duayan"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "û lavijeyan"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "bi rojîyê"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "û çorsûyê"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "û xweliyê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:19:25.855658424Z",
+  "model": "glm-5.3"
+}

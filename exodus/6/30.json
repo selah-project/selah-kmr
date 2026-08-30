@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Moşe di beriya Yahwe de got: \"Va ye, ez bi lêvên ne-xetkirî me, çawa Paro guhê xwe bide min?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di beriya … de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "va ye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "ne-xetkirî"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lêv"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:47.209537177Z",
+  "model": "glm-5.3"
+}

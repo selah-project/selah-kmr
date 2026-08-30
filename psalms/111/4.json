@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 111,
+  "translation": "Ji şaşbûnên xwe re bîranîn çêkir; Yahwe dilovan û merhemetdar e.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "bîranîn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "ji şaşbûnên xwe re"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "dilovan"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "û merhemetdar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:54.471030074Z",
+  "model": "glm-5.3"
+}

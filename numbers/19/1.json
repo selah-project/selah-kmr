@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û Yahwe ji Moşe û ji Aharon re peyivî, û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "peyivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ji … re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:48:53.298421047Z",
+  "model": "glm-5.3"
+}

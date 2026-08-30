@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Wan Yahwe, Elohîmê xwe, ji bîr kirin; ⟨את⟩ wan di destê Sîsera, serdestê artêşa Hatsor, û di destê Fîlistiyan û di destê keyê Moav firot; ewan li dijî wan şer kirin.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ji bîr kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmê wan"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "firot"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di destê"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sîsera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serdestê"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "artêşa"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "û di destê"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlistiyan"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "û di destê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "şer kirin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li dijî wan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:41.037802049Z",
+  "model": "glm-5.3"
+}

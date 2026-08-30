@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Ez bêaqil bûm û nedizanibûm; wek ajalekî bêhna teng bûm cem te.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bêaqil bûm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nedizanibûm"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "wek ajalekî"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cem te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:12.548537496Z",
+  "model": "glm-5.3"
+}

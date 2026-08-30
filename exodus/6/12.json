@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Moşe berî Yahwe axivî, got: Va ye, zarokên Îsraêl guh nadin min, û çawa Fîrʿawnê wî guhê min bide, û ez bi lêvên bêzen im?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "û axivî"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "הן",
+      "gloss": "va ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "guh nadin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "û çawa"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "guhê min bide"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fîrʿawn"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "bêzen"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lêv"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:43.133901794Z",
+  "model": "glm-5.3"
+}

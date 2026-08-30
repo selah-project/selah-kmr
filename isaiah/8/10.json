@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Şêwirinekê şêwirin û ⟨is⟩ hilanîn; peyvekê biaxivin û ew ranabe; çimkî Êl bi me ra ye.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "şêwirin"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "şêwirinekê"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "û ⟨is⟩ hilanîn"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "biaxivin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyvekê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ranabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bi me ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:14.330926677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Serbilindiya Yîsraêl li ber rûyê wî şahidî dike; Yîsraêl û Efrayîm di gunehên xwe de didin, Yehûda jî bi wan re dikeve.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "şahidî dike"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "serbilindî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsraêl"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "li ber rûyê wî"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yîsraêl"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "û Efrayîm"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "didin"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "di gunehên xwe de"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "dikeve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bi wan re"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:04.904941881Z",
+  "model": "glm-5.3"
+}

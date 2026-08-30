@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Û Yaakov ji Bêr-Şevayê rabû, û kurên Yisraêl Yaakov bavê xwe û ⟨את⟩ zarokên xwe û ⟨את⟩ jinên xwe di erebeyên ku Firawn şandibû da ku wî bibin, hildan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ji Bêr-Şevayê"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bêr-Şeva"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zarokên xwe"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "zarokên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "jinên xwe"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "jinên xwe"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "di erebeyan de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "şandibû"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawn"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "da ku bibin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:19.552953917Z",
+  "model": "glm-5.3"
+}

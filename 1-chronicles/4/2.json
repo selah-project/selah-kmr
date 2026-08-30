@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Reayah kurê Şobal bû, ew ⟨את⟩ Yaḥat bû. Û Yaḥat ⟨את⟩ Aḥûmay û ⟨את⟩ Lahad bû. Ev malbatên Tsoratiyan in.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Û Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Şobal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû (dayik-bûyî)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaḥat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yaḥat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "Û Yaḥat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bû (dayik-bûyî)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥûmay"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Aḥûmay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Tsoratiyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:41.446419357Z",
+  "model": "glm-5.3"
+}

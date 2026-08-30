@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Yehoşafat, kurê wî, li şûna wî bû padîşah, û xwe li ser Îsraêl xurt kir.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "bû padîşah"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "li şûna wî"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "xwe xurt kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T06:47:54.139493578Z",
+  "model": "glm-5.3"
+}

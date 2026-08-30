@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û di Cihê-Herî-Pîroz de du kerubîm çêkir, keda heykelan, û wan bi zêr ⟨את⟩ girtin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "û çêkir"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di … de"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Cihê Pîroz"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "Herî Pîroz"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubîm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "keda"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "heykelan"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "û girtin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (kerubîm)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    }
+  ],
+  "timestamp": "2026-08-30T06:43:27.231548841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Xwarî li te be, axê, ku keyê te lawik e û serwerên te sibehê dixwin!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "xwarî li te be"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li te"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "axê"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ku keyê te"
+    },
+    {
+      "surface": "נער",
+      "gloss": "lawik"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "û serwerên te"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dixin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:26.089698295Z",
+  "model": "glm-5.3"
+}

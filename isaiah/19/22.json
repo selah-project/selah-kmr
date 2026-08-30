@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Wê Yahwe ⟨את⟩ Mîtsrayim lê dide — didaye û şêr dike; wê vegerin ber bi Yahwe ve, û wê ji wan re bêhûrkirin û wan şêr bike.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "wê lê dide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîtsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "lêdan"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "û şêr dike"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "wê vegerin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ber bi … ve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "wê bêhûrkirin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "û wan şêr bike"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:17.308300796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Di rûnê xwe de ⟨⟩ girtî ne; devê wan bi serbilindî diaxivin.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "rûnê wan"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "girtî ne"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "devê wan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "diaxivin"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "bi serbilindî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:16.479215143Z",
+  "model": "glm-5.3"
+}

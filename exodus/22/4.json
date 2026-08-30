@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ger mêrekî çol an rez bi xwarinê lê dide û ⟨את⟩ dewarê xwe bişîne û ew di çola yê din de xwarinê bike, ji çêtirînê çola xwe û ji çêtirînê rezê xwe ê bide.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "bi xwarinê lê dide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "çol"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "rez"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "bişîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewarê xwe"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "dewarê xwe"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "xwarinê bike"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yê din"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ji çêtirînê"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "çola xwe"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "û ji çêtirînê"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "rezê xwe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bide"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:30.539276981Z",
+  "model": "glm-5.3"
+}

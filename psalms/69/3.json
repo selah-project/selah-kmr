@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ez di çaleke kûr a lifê de binav bûm û pişta min li cihê mayîn tune; ez ketim nav kûrahiyên avê û pêlê herikî min ji pê ve bir.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "ez binav bûm"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "di … de"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "çaleke kûr a lifê"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û … tune"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "cihê mayîn"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ez ketim"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "di nav kûrahiyên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "û pêlê herikî"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "min ji pê ve bir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:45.231723335Z",
+  "model": "glm-5.3"
+}

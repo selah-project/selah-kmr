@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Hemû paşde vegeriyan, bi hev re xerab bûn; kiryarê qencî tune ye, peyde yek jî tune ye.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "סג",
+      "gloss": "paşde vegeriyan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "xerab bûn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiryarê"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qencî"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "גם",
+      "gloss": "peyde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek jî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:50.585715315Z",
+  "model": "glm-5.3"
+}

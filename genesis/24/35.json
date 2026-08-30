@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Yahwe xwediyê min pirr barkir ⟨את⟩, û wî mezin bû, û daye wî êl û ga, zîv û zêr, kul û kînan, histiran û keran.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Û Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwediyê min"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "xwediyê min"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pirr"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "û wî mezin bû"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û daye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "êl"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "û ga"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "û zîv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "û zêr"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "û kul"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "û kîn"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "û histir"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "û ker"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:33.890130749Z",
+  "model": "glm-5.3"
+}

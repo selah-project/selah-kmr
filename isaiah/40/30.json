@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ciwanan dê bidin bêhêzî û xortan dê bi temamî bikevin.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "dê bidin bêhêzî"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ciwanan"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "û"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "xortan"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "bi temamî"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bikevin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:50.620808183Z",
+  "model": "glm-5.3"
+}

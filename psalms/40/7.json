@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Qurban û pêşkêşkirin tu nexwest; guhên min ji bo min êrêşî kolîn (çal kirin); qurbana şewatê û qurbana gunehan tu nexwest.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Qurban"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "û pêşkêşkirin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "xwest"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "guhên"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "kolîn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "û qurbana gunehan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "xwest"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:49.425604533Z",
+  "model": "glm-5.3"
+}

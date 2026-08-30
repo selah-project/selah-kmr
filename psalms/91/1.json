@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Yê ku di veşartîya Elyon de rûdinê, di siya Şaday de dihêle xwe.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "rûdinê"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di veşartîyê de"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di siya"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şaday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "dihêle xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:13.358247979Z",
+  "model": "glm-5.3"
+}

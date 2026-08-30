@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Di rojên wî de rastdar dê şîn bibe û firehiya aştiyê heta ku hîv nemîne.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "şîn bibe"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "di rojên wî de"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û firehiya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştiyê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bêyî \/ nemîne"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "hîv"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:23.713757139Z",
+  "model": "glm-5.3"
+}

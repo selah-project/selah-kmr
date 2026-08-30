@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Yanzdehêm ji bo Elyeşîb ⟨bû⟩, dwanzdehêm ji bo Yaqîm ⟨bû⟩.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "Elyeşîb"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "yanzdeh-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-êm"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "Yaqîm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwanzdeh-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-êm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:39:36.168117406Z",
+  "model": "glm-5.3"
+}

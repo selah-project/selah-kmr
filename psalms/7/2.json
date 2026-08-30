@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Yahwe, Elohîmê min, di te de min xwe spart; ji hemû şopandaran ên min min xilas bike û min rizgar bike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "min xwe spart"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "min xilas bike"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "şopandaran ên min"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "û min rizgar bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:50.472833125Z",
+  "model": "glm-5.3"
+}

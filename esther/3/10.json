@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Key ⟨את⟩ mohra xwe ji destê xwe derxist û da ew Haman, kurê Hemedata yê Agagî, dijminê Cihûyan.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohra wî"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "mohra wî"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "û da ew"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hemedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "yê Agagî"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Cihûyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:09.052279592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Di nav gelan de bibêjin: «Yahwe keyîtî dike!» ⟨The⟩ cîhan ⟨is⟩ sazkirî, nayê hejandin; wî ⟨dê⟩ gelan bi rastdadariyê darizîne.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyîtî dike"
+    },
+    {
+      "surface": "אף",
+      "gloss": "her wiha"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "sazkirî ye"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "hejandin"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "darizîne"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "bi rastdadariyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:54.259063859Z",
+  "model": "glm-5.3"
+}

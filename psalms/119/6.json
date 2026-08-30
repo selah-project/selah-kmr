@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Wê çaxê ez natirsim ku şerm bikim, dema ez li hemû fermanên te dinêrim.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wê çaxê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "şerm bikim"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "dema ez dinêrim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "fermanên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.696817558Z",
+  "model": "glm-5.3"
+}

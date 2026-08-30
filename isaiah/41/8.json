@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Êdî tu Îsraêl, koley min ⟨î⟩, Yaqûb ê ku min hilbijart, toximê Ebrahîm ê hezkiriyê min:",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Êdî tu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "koley min"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "min hilbijart"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toximê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ebrahîm"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ê hezkiriyê min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:37.372503174Z",
+  "model": "glm-5.3"
+}

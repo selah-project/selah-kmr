@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "⟨את⟩ Hemû tişt di rojên hevala min de min dîtin; hin rastdar di rastdariya xwe de winda dibin, û hin fesad di xerabiya xwe de dirêj dibin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tişt"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hemû tişt"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min dîtin"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "di rojên"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hevala min"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "winda dibin"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "di rastdariya xwe de"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "û hin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "fesad"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "dirêj dibin"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "di xerabiya xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:07.692676980Z",
+  "model": "glm-5.3"
+}

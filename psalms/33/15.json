@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "⟨Ew yê⟩ ku dilên wan dişuxulîne, yê bi hev re afirand; fêm dike hemû karên wan.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "şuxulînerê"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilên wan"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "fêmker"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "karên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:10.640366064Z",
+  "model": "glm-5.3"
+}

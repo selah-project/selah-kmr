@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û di Yeşurûn de key ⟨bû⟩, dema ku serên gelê, hemû êlên Yisraêlê yekdeng, kom dibûn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û...bû"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "di Yeşurûn de"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "dema ku...kom dibûn"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serên"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yekdeng"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "êlên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:12:56.297481116Z",
+  "model": "glm-5.3"
+}

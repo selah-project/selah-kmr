@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ew pênc perde ⟨את⟩ bi tenê ve girêda, û şeş perde ⟨את⟩ bi tenê ve girêda.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ve girêda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pênc perde"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perde"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bi tenê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şeş perde"
+    },
+    {
+      "surface": "שש",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perde"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bi tenê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:35.602700580Z",
+  "model": "glm-5.3"
+}

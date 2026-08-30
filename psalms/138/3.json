@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 138,
+  "translation": "Di roja ku min gazî kir, tu bersivê da min; tu bi hêzê di canê min de xurt kir min.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Di roja"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ku min gazî kir"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "tu bersivê da min"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "tu xurt kir min"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "di canê min de"
+    },
+    {
+      "surface": "עז",
+      "gloss": "bi hêzê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:32.466328031Z",
+  "model": "glm-5.3"
+}

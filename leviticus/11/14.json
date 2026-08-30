@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ⟨את⟩ çîlê, û ⟨את⟩ şahinê bi cureyê wê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çîlê"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "çîlê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "şahinê"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "şahinê"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "bi cureyê wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:12.101145574Z",
+  "model": "glm-5.3"
+}

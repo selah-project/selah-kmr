@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ⟨את⟩ deveçûkê, û ⟨את⟩ kundê, û ⟨את⟩ martînê, û ⟨את⟩ bazê bi cureyê wî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deveçûkê"
+    },
+    {
+      "surface": "בת",
+      "gloss": "deveçûkê"
+    },
+    {
+      "surface": "היענה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kundê"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "kundê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "martînê"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "martînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "bazê"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "bazê"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "bi cureyê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:12.101580857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û artêşa wî û hijmartiyên wî heft û pêncî hezar û çar sed bûn.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Û artêşa wî"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "û hijmartiyên wî"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "heft"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "û pêncî"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "û çar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:10.468763309Z",
+  "model": "glm-5.3"
+}

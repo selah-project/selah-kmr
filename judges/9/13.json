@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 9:13",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ê dirêvê ji wan re got: «Ma ez ê ⟨את⟩ şeraba min a ku Elohîm û mirovan şad dike berdim, û ezê çim ku li ser daran bilivim?»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "ê dirêvê"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "berdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şeraba min"
+    },
+    {
+      "surface": "תירושי",
+      "gloss": "şeraba min"
+    },
+    {
+      "surface": "המשמח",
+      "gloss": "şad dike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "û mirovan"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "û ezê çim"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "bilivim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "daran"
+    }
+  ],
+  "timestamp": "2026-08-29T19:28:13.949232914Z",
+  "model": "glm-5.3"
+}

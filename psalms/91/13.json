@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Li ser şêr (şahal) û marê zehardar dê rava bikî; şêrê ciwan û ejder dê dîsa binê lingên xwe de bicih bikî.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "şêr (şahal)"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "û marê zehardar"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "dê rava bikî"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "dê binê lingên xwe de bicih bikî"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "şêrê ciwan"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "û ejder"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:00.395969161Z",
+  "model": "glm-5.3"
+}

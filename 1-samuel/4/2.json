@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 4:2",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Filistî xwe dan rêzekirin li hember Îsraêlê; şer belav bû û Îsraêl li ber Filistiyan hat pelhandin; ewan di rêzkirinên meydanê de bi qasî çar hezaran mêran dan.",
+  "tokens": [
+    {
+      "surface": "ויערכו",
+      "gloss": "û xwe dan rêzekirin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "li hember"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ותטש",
+      "gloss": "û belav bû"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "û hat pelhandin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "û dan"
+    },
+    {
+      "surface": "במערכה",
+      "gloss": "di rêzkirinên"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di meydanê de"
+    },
+    {
+      "surface": "כארבעת",
+      "gloss": "bi qasî çar"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezaran"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêran"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:51.227359938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Halleluyah! Yahwe ji ezmanan bilind bikin, wî di bilindahiyan de bilind bikin!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bilind bikin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bilind bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilind bikin"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "di bilindahiyan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:35.693535785Z",
+  "model": "glm-5.3"
+}

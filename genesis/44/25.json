@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Û bavê me got: “Vegerin, ji bo me hindik xwarinê bikirin.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bavê me"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vegerin"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "bikirin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji bo me"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hindik"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwarinê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:58:22.837170391Z",
+  "model": "glm-5.3"
+}

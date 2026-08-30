@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 127,
+  "translation": "Wê binêrin! Zarok milkê Yahwe ne; xelat fêkiya zik e.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wê binêrin"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "milk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Zarok"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "xelat"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fêkî"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "zik"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:47.936701256Z",
+  "model": "glm-5.3"
+}

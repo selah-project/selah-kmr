@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ji ber ku ew bi Elohîm bawer nekirin û xwe ne spartin rizgariya wî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bawer nekirin"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "bi Elohîm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "xwe ne spartin"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "rizgariya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:17.494704042Z",
+  "model": "glm-5.3"
+}

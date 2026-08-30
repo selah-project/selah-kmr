@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ew ji wî re got: \"Were bi min re ⟨את⟩ malê, û nan bixwu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ew got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "were"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bi min re"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "malê"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "û bixwu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:36.371643269Z",
+  "model": "glm-5.3"
+}

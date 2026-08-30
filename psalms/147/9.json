@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Dide çêjewanan re xwarina wan, û ji hûnên çalikan re, yên ku qêrînin.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "çêjewanan re"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "xwarina wan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji hûnên… re"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "çalikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "qêrînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:40.194756826Z",
+  "model": "glm-5.3"
+}

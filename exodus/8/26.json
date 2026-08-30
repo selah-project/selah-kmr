@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Moşe ji cem Firên derket û ji Yahwe xwest.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "û derket"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ji cem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firên"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "û xwest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:34.663454818Z",
+  "model": "glm-5.3"
+}

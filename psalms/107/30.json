@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Û şa dibin ku hûş bûn, û ew wan digihîne bendera kêfa wan.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Û şa dibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "hûş bûn"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "û digihîne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "bendera"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "kêfa wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:28.943522867Z",
+  "model": "glm-5.3"
+}

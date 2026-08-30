@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Di Gat de nenihêrin, negirîn; di Bêt-Leafrayê de xwe di tozê de bilivînin.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "di Gat de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "nenihêrin"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "negirîn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "negirîn"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di… de"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Bêt-Leafrayê"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozê"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "xwe bilivînin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:58.688841623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Kemberên pêwetî biguhêzin ser wan; di agir de wana bixe; di çalên kûr de — çu car ranebin.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "biguhêzin"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ser wan"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "kemberên pêwetî"
+    },
+    {
+      "surface": "באש",
+      "gloss": "di agir de"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "wana bixe"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "di çalên kûr de"
+    },
+    {
+      "surface": "בל",
+      "gloss": "çu car"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ranebin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:56.249413477Z",
+  "model": "glm-5.3"
+}

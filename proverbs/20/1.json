@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Mey rûmet dike, şerab deng vedide; û her kesê ku tê de şa dibe, bîrewer nabe.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "rûmet dike"
+    },
+    {
+      "surface": "היין",
+      "gloss": "mey"
+    },
+    {
+      "surface": "המה",
+      "gloss": "deng vedide"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "şerab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û her kesê"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "şa dibe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "bîrewer dibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:56.479323576Z",
+  "model": "glm-5.3"
+}

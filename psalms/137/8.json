@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 137,
+  "translation": "Keça Babîlê, ya talankirî! Xweşî bi wî be, yê ku ⟨את⟩ xelata te bide te, ya ku te ji me re kiriye.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "ya talankirî"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "xweşî bi wî be"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xelata te"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "xelata te"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "te ... kiriye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:45.361564517Z",
+  "model": "glm-5.3"
+}

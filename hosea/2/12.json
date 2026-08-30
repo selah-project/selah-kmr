@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ê ji bo Ba'al amade kirin.\" Û niha ez ê ⟨את⟩ şermê wê li ber çavên evîndarên wê eşkere bikim, û kesî wê ji destê min rizgar neke.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "û niha"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ez ê eşkere bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şermê wê"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "şermê wê"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "li ber çavên"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "evîndarên wê"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "û kesî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ji destê min"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:02.589534990Z",
+  "model": "glm-5.3"
+}

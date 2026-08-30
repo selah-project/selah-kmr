@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Bo hertimî tu caran fermanên te ji bîr nakim, çimkî bi wan te ⟨⟨ez⟩⟩ zinde kir.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "bo hertimî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu caran"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ji bîr nakim"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ez zinde kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:05.355179152Z",
+  "model": "glm-5.3"
+}

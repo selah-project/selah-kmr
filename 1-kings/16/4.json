@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Yê ji malbata Başa ku di bajarê de bimre, kûçik wê bixwin; û yê ji wî ku di zeviyê de bimre, balindeyên ezmanê wê bixwin.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "yê ku bimre"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "ji malbata Başa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajarê de"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wê bixwin"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "kûçik"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "û yê ku bimre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wê bixwin"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "balindeyên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:14.688391783Z",
+  "model": "glm-5.3"
+}

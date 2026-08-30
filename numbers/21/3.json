@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Yahwe dengê Îsraêl bihîst û Kenaanîyî ⟨את⟩ radestî wan kir; wan ew ⟨את⟩ û ⟨את⟩ bajarên wan biawayî biherand; û navê wî cihî kirin Horma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "radestî ... kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanîyî"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanîyî"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "biawayî biherand"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ew"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bajarên wan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "bajarên wan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "cihî"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-08-29T18:49:35.981270039Z",
+  "model": "glm-5.3"
+}

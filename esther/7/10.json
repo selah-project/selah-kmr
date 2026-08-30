@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ⟨את⟩ Haman li ser wê darê dar kirin ku ew ji bo Mordoxayî amade kiribû, û xezeba key kêm bû.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "dar kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "amade kiribû"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ji bo Mordoxayî"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "û xezeba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "kêm bû"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:37.197188878Z",
+  "model": "glm-5.3"
+}

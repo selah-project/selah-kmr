@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û tiştê nefretê dibe ji we re; ji goştê wan naxwin û ⟨את⟩ laşên wanê mirî bi nefretê digrin.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Û tiştê nefretê"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ji goştê wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "xwin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laşên wanê mirî"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "laşên wanê mirî"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "bi nefretê digrin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:19.305934239Z",
+  "model": "glm-5.3"
+}

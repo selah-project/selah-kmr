@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Min ji parêzvanên pûçiyên derewî nefret kir; lê ez ê hêviya xwe bi Yahwe danî.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "min nefret kir"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ji parêzvanên"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "pûçiyên"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "derewî"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lê ez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "hêviya xwe danî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:38.279433263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Şand berî wan mêrek — bo xulamtiyê Yosef hat firotin.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "berî wan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrek"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bo xulamtiyê"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "hat firotin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:46.471521642Z",
+  "model": "glm-5.3"
+}

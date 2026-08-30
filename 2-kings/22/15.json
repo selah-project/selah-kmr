@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û ew ji wan re got: «Waha dibêje Yahwe, Elohîmê Yisraêl: Ji wî mêrî re bibêjin ku we şand ⟨את⟩-we cem min.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Waha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mêrî re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-we"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cem min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:32.022173256Z",
+  "model": "glm-5.3"
+}

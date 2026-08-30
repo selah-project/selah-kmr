@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Ji ber ku xerabî bêhejmar dora min girtin, heta ku ⟨hejmar nîne⟩; gunehên min gihîştine min û min nikarî bibîne; ji porê serê min zêdetir bûn û dilê min min berda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "dora min girtin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li dora min"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmar"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "gihîştine min"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "gunehên min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "min nikarî"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "bibîne"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "zêdetir bûn"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "ji porê"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "û dilê min"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "min berda"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:03.130381257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Ester got: «Ger li padîşah rind be, bila padîşah û Haman îro ba miştê ku ez ji bo wî amade kiriye werin.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rind be"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bila were"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "û Haman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "miştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ez amade kiriye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:26.674443825Z",
+  "model": "glm-5.3"
+}

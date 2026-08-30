@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Û piştî deriyê û berwarê bîranîna xwe danî, ji ber ku ji min ⟨את⟩ xwar bûyî û bilind bûyî; ranê xwe fireh kirî, ji xwe re bi wan re peyman girîbûyî; ranê wan hesiband, destê ⟨wan⟩ dîtî.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "û piştî"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "û berwarê"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "danî"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "bîranîna te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ji min",
+      "marks": "tu xwe ji min re xuya kirî"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "xwar bûyî"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "û bilind bûyî"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "fireh kirî"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ranê xwe"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "û peyman girîbûyî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "hesiband"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "ranê wan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dest"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "dîtî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:46:00.740124693Z",
+  "model": "glm-5.3"
+}

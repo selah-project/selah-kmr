@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Erd wekî mêjû dilive û dilerize, wekî konê xwendekaran bi cih direve; serhildana wê giran li ser wê ketiye, ew dê bikeve û dê çê nibe ku dê bilinde.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "dilive"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "dilerize"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "wekî mêjû"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "û bi cih direve"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "wekî konê"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "û giran ketiye"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "serhildana wê"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "ew dê bikeve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "dê çê bike"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bilinde"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:39.675963211Z",
+  "model": "glm-5.3"
+}

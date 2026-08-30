@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û mêr ji Êlî re got: «Ez im yê ji şerî hatiye, û ez îro ji şerî reviyame.» Û ew got: «Kurê min, çi bû?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Êlî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "yê hatiye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "şerî"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "şerî"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "reviyame"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "(tişt)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:50.098237508Z",
+  "model": "glm-5.3"
+}

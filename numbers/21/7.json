@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 21:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û gel hat ba Moşe û gotên: «Me guneh kir, ji ber ku em li ser Yahwe û li ser te axavtin; lava bike ji Yahwe re ku wî mar ji ser me rake.» Û Moşe ji bo gelê lava kir.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û gotên"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "me guneh kir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "em axavtin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "li ser Yahwe"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "û li ser te"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "lava bike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ku wî ... rake"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "ji ser me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mar"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mar"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "û ... lava kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:49:37.795169458Z",
+  "model": "glm-5.3"
+}

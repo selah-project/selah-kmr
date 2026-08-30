@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Tu ji kurên mirovan xweşiktir î, kerem di lêvên te de hatiye rijandin, ji ber wê Elohîm te heta hertimî pîroz kiriye.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "xweşiktir î"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "hatiye rijandin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kerem"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "di lêvên te de"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "te pîroz kiriye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:32.482160297Z",
+  "model": "glm-5.3"
+}

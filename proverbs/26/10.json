@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Pîrekî zerer dide hemû tiştan, û ewî yê kesalê dikire û ewî yê rêbazan (gava-deryan) dikire.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "pîr"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "zerer dide"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû tiştan"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "û ewî yê ... dikire"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kesalê"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "û ewî yê ... dikire"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "rêbazan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:39.854664380Z",
+  "model": "glm-5.3"
+}

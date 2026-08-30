@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û li ser wan man barand da ku bixwin, û genimê ezmanan da wan.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "û ... barand"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da ku bixwin"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "û genimê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:17.495448893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Ji bo serokê muzîkvanan, li ser Yedutun, mezmur ji Dawid re.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkvanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:44.063951936Z",
+  "model": "glm-5.3"
+}

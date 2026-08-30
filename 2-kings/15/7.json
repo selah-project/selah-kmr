@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û Azaryah bi bavên xwe re ket xewê, û ⟨את⟩ wî bi bavên xwe re veşartin, li bajêrê Dawid; û Yotam kurê wî li şûna wî key bû.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ket xewê"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe re"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "veşartin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe re"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "li bajêrê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "key bû"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "li şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:23.759498139Z",
+  "model": "glm-5.3"
+}

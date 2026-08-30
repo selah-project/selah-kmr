@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Gava ku mijarek ji wan hebe, tê ba min, û ez di navbera merivekî û hevalê wî de dadbarî dikim, û ez ⟨את⟩ biryarên Elohîm û ⟨את⟩ şerîetên wî didim nasîn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gava ku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hebe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mijarek"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba min"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "û ez dadbarî dikim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "merivekî"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê wî"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "û ez didim nasîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biryarên Elohîm"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "biryarên"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şerîetên wî"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "şerîetên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:06.641381845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Hordî! Ew diêşîne bi awanîyê, û ducanî zorkêşiyê bûye, û derew dinyayê tîne.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "hordî!"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "diêşîne"
+    },
+    {
+      "surface": "און",
+      "gloss": "awanî"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "û ducanî bû"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zorkêşî"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "û dizaîne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:07.608091780Z",
+  "model": "glm-5.3"
+}

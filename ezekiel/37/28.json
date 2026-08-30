@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 37:28",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û neteweyan ê bizanibin ku ez Yahwe me, ê ku ⟨את⟩ Îsraêl pîroz dike, dema ku pîrozgeha min di nava wan de be ‹bi-her-dem›.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Û … ê bizanibin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neteweyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ê pîroz dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "dema ku … be"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pîrozgeha min"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di nava wan de"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "‹bi-her-dem›"
+    }
+  ],
+  "timestamp": "2026-08-30T03:57:52.117626637Z",
+  "model": "glm-5.3"
+}

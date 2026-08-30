@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Av ji ser erdê vegeriyan — diçe û vedigere — û di dawiya pêncî û sed rojan de av kêm bûn.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "vegeriyan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "û vedigere"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "kêm bûn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "di dawiya"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pêncî"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "û sed"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:41.131785097Z",
+  "model": "glm-5.3"
+}

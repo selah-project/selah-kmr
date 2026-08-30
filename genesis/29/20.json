@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û Yaakob ji bo Rahel heft salan xizmet kir, û ji ber evîna wî ya ⟨ji bo⟩ ⟨wê⟩ ⟨את⟩, ew li ber çavên wî mîna çend rojan bûn.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "û xizmet kir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "ji bo Rahel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "û bûn"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "li ber çavên wî"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "mîna rojan"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "çend"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ji ber evîna wî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:48.781308557Z",
+  "model": "glm-5.3"
+}

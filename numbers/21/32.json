@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Moşe şand venihêran bo ⟨את⟩ Yazerê; û gundên wî girtin û ⟨את⟩ Emoriyên ku li wir bûn derxistin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "bo venihêran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazerê"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazerê"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "gundên wî"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "derxistin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emoriyên"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir bûn"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:09.665886897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ⟨את⟩ hûndirên wê û ⟨את⟩ lingên wê şûşt, û li ser qurbana şewatê li ser mêzê qetirand.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "şûşt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hûndirên wê"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "hûndirên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lingên wê"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "lingên wê"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "qetirand"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser mêzê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:47.172777649Z",
+  "model": "glm-5.3"
+}

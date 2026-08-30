@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Wexta ew gazî min bike, ez ê bersîvê wî bidim; ez bi wî re me di tengasîyê de; ez ê wî rizgar bikim û ez ê şerefê wî bidim.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "gazî min bike"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ez ê bersîvê wî bidim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "di tengasîyê de"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ez ê wî rizgar bikim"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ez ê şerefê wî bidim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:00.396380422Z",
+  "model": "glm-5.3"
+}

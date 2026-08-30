@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Bi rastî, nexweşiyên me ew hilgirt û êşên me ew bar kir; û em — me ew hesiband ku ew hatiye xiwarin, ji Elohîm hatiye lêdan û hatiye êşandin.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "nexweşiyên me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hilgirt"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "û êşên me"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "bar kir"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "û em"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "me ew hesiband"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "hatiye xiwarin"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "hatiye lêdan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ji Elohîm"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "û hatiye êşandin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:01.022344834Z",
+  "model": "glm-5.3"
+}

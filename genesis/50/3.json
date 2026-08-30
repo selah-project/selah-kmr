@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Ji bo wî çil roj hatin temam kirin, çunku wisa rojên balsamkirinê tên temam kirin; û Mîtsrayimiyan wî ⟨את⟩ heftê roj şûn darû kirin.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "hatin temam kirin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çunku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "tên temam kirin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "balsamkirinê"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "şûn darû kirin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimiyan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "heftê"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:50.443102190Z",
+  "model": "glm-5.3"
+}

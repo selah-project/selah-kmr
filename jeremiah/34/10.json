@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 34:10",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û hemû seroke û hemû gelê ku ketibûn peymanê bihîstin — da her kes xulamê xwe ⟨את⟩ û her kes kena xwe ⟨את⟩ azad bişîne û êdî wek kûl wan bikar neynin — û bihîstin û şandin.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "û bihîstin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "seroke"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ketibûn"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "di peymanê de"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "da azad bişîne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamê xwe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê xwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "û her kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kena xwe"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "kena xwe"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "azad"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wek kûl bikar bînin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "û bihîstin"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "û şandin"
+    }
+  ],
+  "timestamp": "2026-08-29T21:02:53.239338835Z",
+  "model": "glm-5.3"
+}

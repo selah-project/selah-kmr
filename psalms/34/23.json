@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Yahwe nefesê xulamên xwe diazadîne, û hemû yên ku xwe dispêrin wî nayên sûckirin.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "diazadîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesê"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "têne sûckirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "yên ku xwe dispêrin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:13.134019190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û destê xwe li ser serê qurbana-gunehê dide, û ⟨את⟩ qurbana-gunehê li cihê ku qurbana-şewatê tê qetilkirin qetil dike.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "dide (destê xwe dide)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qurbana-gunehê"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "qetil dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana-gunehê"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qurbana-gunehê"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "li cihê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana-şewatê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:32.572051669Z",
+  "model": "glm-5.3"
+}

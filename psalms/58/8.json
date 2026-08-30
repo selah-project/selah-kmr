@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Bila wek avê winda dibin, bila diherikin; gava tîrê xwe radikişîne, bila bêbirrîn bin.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "winda bibin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wek"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "diherikin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bila"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "radikişîne"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "tîrê xwe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wek"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "bêbirrîn bin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:42.683721513Z",
+  "model": "glm-5.3"
+}

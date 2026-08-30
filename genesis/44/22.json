@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Û me ji Adonayê xwe re got: \"Xort nikare bavê xwe bihêle; ger ew bavê xwe bihêle, ⟨ew⟩ dimire.\"",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "û me got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayê min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dikare"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "xort"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "bihêle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê xwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ger ew bihêle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê xwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dimire"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:21.280430612Z",
+  "model": "glm-5.3"
+}

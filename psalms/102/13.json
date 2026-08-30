@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Lê tu, Yahwe, bo hertimî rûdinî, û bîra te ⟨heye⟩ ji nifşê heta nifşê.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lê tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bo hertimî"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "rûdinî"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "û bîra te"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:14.233702558Z",
+  "model": "glm-5.3"
+}

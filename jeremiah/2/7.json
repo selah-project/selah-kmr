@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Min ⟨את⟩ we anî heta erda bexçan, da ku hûn fêkiyên wê û qenciya wê bixwin; hûn hatin û ⟨את⟩ erda min pîs kirin, û mîrata min we kirin ji bo rixçê.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "min anî"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erda"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "bexçan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da ku bixwin"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "fêkiyên wê"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "û qenciya wê"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "hûn hatin"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "pîs kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erda min"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "erda min"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "û mîrata min"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "we kirin"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "ji bo rixçê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:49:14.846304385Z",
+  "model": "glm-5.3"
+}

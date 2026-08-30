@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 4:21",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Niha fermanê bidin ku ev mêr bêne sekinandin û ev benda neyê avakirin, heta ku ji aliyê min ve fermanekî din bê dayîn.",
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "niha"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "fermanê"
+    },
+    {
+      "surface": "לבטלא",
+      "gloss": "ku…bêne sekinandin"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ev"
+    },
+    {
+      "surface": "וקריתא",
+      "gloss": "û benda"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתבנא",
+      "gloss": "neyê avakirin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji…aliyê"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "fermanekî"
+    },
+    {
+      "surface": "יתשם",
+      "gloss": "bê dayîn"
+    }
+  ],
+  "timestamp": "2026-08-30T06:22:38.445421177Z",
+  "model": "glm-5.3"
+}

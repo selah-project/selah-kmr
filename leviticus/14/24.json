@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û kahîn ⟨את⟩ qebişê aşamê û ⟨את⟩ loga rûn bistîne, û kahîn ⟨את⟩ wan wek hejandinê ber Yahwe hejîne.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "û bistîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qebişê aşamê"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "qebişê"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "aşamê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "loga rûn"
+    },
+    {
+      "surface": "לג",
+      "gloss": "loga"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "rûn"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "û hejîne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "wek hejandinê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:19.582970561Z",
+  "model": "glm-5.3"
+}

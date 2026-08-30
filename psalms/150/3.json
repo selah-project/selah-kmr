@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 150,
+  "translation": "Pesnê wî bi dengê kererê bidin, pesnê wî bi saz û çelo bidin.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pesnê wî bidin"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "kerer"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pesnê wî bidin"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "bi saz"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "û çelo"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.684562502Z",
+  "model": "glm-5.3"
+}

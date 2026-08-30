@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Mîryam pêxembera, xwîşka Ahron, defê ⟨את⟩ bi destê xwe girt; û hemû jin pişt wê derketin bi defan û bi reqsan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Mîryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "pêxembera"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "xwîşka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "defê"
+    },
+    {
+      "surface": "התף",
+      "gloss": "defê"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "bi destê xwe"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "û derketin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "jin"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "pişt wê"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "bi defan"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "û bi reqsan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:39.701140356Z",
+  "model": "glm-5.3"
+}

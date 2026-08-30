@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Şigayonê Dawid, ku ji bo Yahwe strân got, serê peyvên Kuşê kurê Benyamînî.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Şigayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ê Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שר",
+      "gloss": "strân got"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "serê"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benyamînî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:50.472427244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û di roja heştemîn de Moşe gazî Aharon û kurên wî û kalên Îsraêlê kir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û … bû"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di rojê de"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "heştemîn"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "û kalên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:55.796085414Z",
+  "model": "glm-5.3"
+}

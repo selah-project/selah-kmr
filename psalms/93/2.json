@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 93,
+  "translation": "Textê te ji wê demê ve sabit e, ji êdanê tu yî.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "sabit e"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "textê te"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ji wê demê ve"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ji êdanê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:27.543801744Z",
+  "model": "glm-5.3"
+}

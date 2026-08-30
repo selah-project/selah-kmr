@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Rûyê xwe ji min nenihêre, di roja tengasiya min de; guhê xwe bal min vegerîne; di roja ku ez gazî dikim, bilez bersivê bide min.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "nenihêre"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tengasiyê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya min"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "vegerîne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê te"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ku ez gazî dikim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "bilez"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bersivê bide min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:00.195305599Z",
+  "model": "glm-5.3"
+}

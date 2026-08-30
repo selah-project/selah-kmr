@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "⟨את⟩ her qijikekî bi cureyê xwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her qijikekî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qijikekî"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "bi cureyê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:12.101362950Z",
+  "model": "glm-5.3"
+}

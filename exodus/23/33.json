@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ew ê li erda te ne rûnin, dibe ku ew te bidin gunehkirinê li dijî min, ji ber ku tu ê xizmeta xelatên wan bikî, ji ber ku ⟨ew ê⟩ bibin tawîreke ji bo te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "rûnin"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "li erda te"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dibe ku"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "bidin gunehkirinê"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te (diyaloga פן-ê de: ew te) — ⟨את⟩+kaf"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li dijî min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "xizmeta … bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xelatên wan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "xelatên wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bibin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tawîreke"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:11.057452337Z",
+  "model": "glm-5.3"
+}

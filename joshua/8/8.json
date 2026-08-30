@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û wê bibe, dema ku hûn ⟨את⟩ bajarê girt, hûn ⟨את⟩ bajarê bi agir bişewitînin; gorî peyva Yahwe hûn bikin. Binêrin, min ⟨את⟩ we ferman daye.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Û wê bibe"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "dema ku hûn girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bajarê",
+      "marks": "bajarê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "hûn bişewitînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bajarê",
+      "marks": "bajarê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gorî peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hûn bikin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Binêrin"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "min ferman daye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:41.956801825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Şatan ⟨את⟩ Yahwe bersivand û got: «Çerm û dajo çerm, û hemû tiştên ku ji bo mêrî in, dê bide bo canê xwe.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersivand"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Şatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Çerm"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "û dajo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "çerm"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ji bo mêrî"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dê bide"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:04.036410789Z",
+  "model": "glm-5.3"
+}

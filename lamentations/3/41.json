@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Em dilê xwe bi destên xwe hildin ber Êl ê li ezmanan.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "hildin"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "li ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:07:48.060173421Z",
+  "model": "glm-5.3"
+}

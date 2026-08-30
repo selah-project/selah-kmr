@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ⟨את⟩ Yehûyê kurê Nîmşîyî tû(yê) ji bo keyatiyê(ser) Yisraelê bi rûn(miş bikî) — û ⟨את⟩ Êlîşa'yê kurê Şafatê, ji Ebel-Meholayê(yê), tû(yê) ji bo pêxemberiya(xwe)di şûna xwe de bi rûn(miş bikî).\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehûyê kurê Nîmşîyî"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehû"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nîmşî"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "tû miş bikî"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji bo key"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Êlîşa'yê kurê Şafatê"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Êlîşa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Şafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "ji Ebel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mehola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "tû miş bikî"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "ji bo pêxember"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "di şûna te de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:40.866386818Z",
+  "model": "glm-5.3"
+}

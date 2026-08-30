@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Ew ê gazî min bike: 'Tu bavê min î, Êlê min û kevire rizgariya min î.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ê gazî min bike"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "û kevir"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "rizgariya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:35.691074425Z",
+  "model": "glm-5.3"
+}

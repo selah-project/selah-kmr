@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û baran çil rojan û çil şevan li ser erdê barî.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "baran"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "û çil"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şevan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:13.897502446Z",
+  "model": "glm-5.3"
+}

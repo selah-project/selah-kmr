@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Çavên hemûyan li bal te dinihêrin, û tu xwarina wan ⟨a⟩ ⟨את⟩ di dema wê de didî ⟨wan⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Çavên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemûyan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "li bal te"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "dinihêrin"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "didî"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwarina wan"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "xwarina wan"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "di dema wê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:39.452187763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û di dawiya dorên rojan de qewî: Xanna bizar bû û kurekî zayî, û navê wî Şemuel kir, ji ber ku ji Yahwe min ew xwestibû.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "qewî"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "di dorên"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "bizar bû"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Xanna"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "zanî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nav da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "min ew xwestibû"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:36.616354616Z",
+  "model": "glm-5.3"
+}

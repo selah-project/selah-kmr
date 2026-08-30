@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Êdî Îsraêl ⟨את⟩ vê stranê stranê: «Bilind bibe, bêrê! Hûn jê re bidin stranan!»",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Êdî"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "stranê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê stranê"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "vê stranê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "stranê"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Bilind bibe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "bêrê"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "bidin stranan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jê re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:50:08.391479471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û bi Yahwe kefxweşî hildibe, û ew ê daxwazên dilê te bide te.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "kefxweşî hildibe"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ew ê ... bide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "daxwazên"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dilê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:10.847418898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Di hemberê Yahwe de xîyanet kirine, ji ber ku zarokên biyanî anîne dinyayê; niha mehek ⟨את⟩ beşên wan bi wan re duxwe.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "di hemberê Yahwe de"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "xîyanet kirine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "anîne dinyayê"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "duxwe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "meh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beşên wan"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "beşên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:04.905495441Z",
+  "model": "glm-5.3"
+}

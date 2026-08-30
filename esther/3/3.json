@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Xulamên şah ên di deriyê şah de ji Mordekayî re gotin: Çima tu ⟨את⟩ fermana şah derbas dikî?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di deriyê şah de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ji Mordekayî re"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "çima"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "derbas dikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermana şah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:33.658203309Z",
+  "model": "glm-5.3"
+}

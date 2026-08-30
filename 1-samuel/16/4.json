@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Şemuel ⟨את⟩ yê ku Yahwe gotibû kir, û hat Bêtlahmê; û kalên bajarî lerizîn, çûn pêşwaziya wî, û ew got: Aştî ye hatina min.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kir"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê ku Yahwe gotibû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bêtlahmê"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bêtlahmê"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "lerizîn"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarî"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "pêşwaziya wî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "aştî ye"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "hatina min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:18.832503378Z",
+  "model": "glm-5.3"
+}

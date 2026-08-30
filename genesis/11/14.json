@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Şelaj sîh sal jiya, û ⟨את⟩ Eber bû bavê.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Û Şelaj"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jiya"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sîh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:04.916978072Z",
+  "model": "glm-5.3"
+}

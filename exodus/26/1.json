@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ⟨את⟩ çadirê wê çê bikî: deh perde, ji kincê zirav ê şelandî, û şîn, û mor, û sorê kermê; bi keruban, keda hunermendekî, wê çê bikî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "çadirê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "çadirê"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wê çê bikî"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "perde"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kincê zirav"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "şelandî"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "û şîn"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "û mor"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "û kermê"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sor"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruban"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "keda"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hunermendekî"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wê çê bikî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "perdeyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:42.682314051Z",
+  "model": "glm-5.3"
+}

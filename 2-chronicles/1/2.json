@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 1:2",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Şelomo bi tevî Îsraêlê axaft — bi serkeyên hezaran û sedan, bi darizan û bi her serokekî ji tevî Îsraêlê re, serên malbatan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "axaft"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bi tevî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "bi serkeyên"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "hezaran"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "û sedan"
+    },
+    {
+      "surface": "ולשפטים",
+      "gloss": "û bi darizan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "û bi hemû"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "serokekî"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji tevî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serên"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "malbatan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:42:04.418375437Z",
+  "model": "glm-5.3"
+}

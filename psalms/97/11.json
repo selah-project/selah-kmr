@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Ronahî ji bo sadiqîk hatiye çandin û ji bo yên dilên rast jî şahî.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hatiye çandin"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ji bo sadiqîk"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "û ji bo yên… rast"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilên"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "şahî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:35.849384792Z",
+  "model": "glm-5.3"
+}

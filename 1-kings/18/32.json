@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û bi wan keviran re ⟨את⟩ mestabadekî bi navê Yahwe çêkir, û kanelek wek qada du seahan toximî li dora mestabadê çêkir.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Û … çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mestabadekî bi navê Yahwe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "bi wan keviran re"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mestabadekî"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "û çêkir"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kanel"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "wek qada"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "du seahan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mestabadê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:34.216852429Z",
+  "model": "glm-5.3"
+}

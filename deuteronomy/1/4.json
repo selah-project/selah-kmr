@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Piştî ku wî ⟨את⟩ Sihon, keyê Emoriyan, yê ku rûniştî bû li Heşbonê, û ⟨את⟩ Og, keyê Bashanê, yê ku rûniştî bû li Eştaretê, li Edreîyê, dayî war.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "wî… dayî war"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "rûniştî bû"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "li Heşbonê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩û",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashanê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "rûniştî bû"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "li Eştaretê"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "li Edreîyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:08.162023388Z",
+  "model": "glm-5.3"
+}

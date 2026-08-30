@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û naha min berde, da ku hêrsê min li wan bişewitîne û min wan biqirîne; û ez ê ⟨את⟩ te bikim neteweyeke mezin.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û naha"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "berde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "da ku … bişewitîne"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "hêrsê min"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "li wan"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "û min wan biqirîne"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "û ez ê … bikim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "neteweyeke"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:49.484704401Z",
+  "model": "glm-5.3"
+}

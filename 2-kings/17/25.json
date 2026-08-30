@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û çawa bû, di destpêka mayîna wan a wir da, ew Yahwe nedîtirsin; ji ber wî Yahwe şand di nav wan de ⟨את⟩ şêran, û ew di nav wan da dikujan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "di destpêka"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "mayîna wan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ditirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di nav wan de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şêran"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "şêran"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "û bûn"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "dikujan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di nav wan da"
+    }
+  ],
+  "timestamp": "2026-08-29T20:21:47.145932668Z",
+  "model": "glm-5.3"
+}

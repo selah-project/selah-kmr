@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û Barzîlayê Gîleadî ji Rogelîm daket û bi şah re derbas bû ⟨את⟩ Urdunê, da ku wî li derveyî ⟨את⟩ Urdunê bişîne.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "û Barzîlay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gîleadî"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "daket"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ji Rogelîm"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "û derbas bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdunê"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "da ku wî bişîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdunê"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "li Urdunê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:56:46.896351896Z",
+  "model": "glm-5.3"
+}

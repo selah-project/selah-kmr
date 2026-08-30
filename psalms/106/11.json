@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û av dijminên wan girt; yek ji wan ne ma.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "dijminên wan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:46.710521784Z",
+  "model": "glm-5.3"
+}

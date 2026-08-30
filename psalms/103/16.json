@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Çimkî ba derbas dibe ser wî û ew êdî nîne; û cihê wî êdî wî nas nake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "derbas dibe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ser wî"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "û ew êdî nîne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û … na"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "nas nake"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "cihê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:35.439920290Z",
+  "model": "glm-5.3"
+}

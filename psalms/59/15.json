@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Û êvarê vegêrin, wek kûçikan qêrînin û dorê bajêr bigirin.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "û vegêrin"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "êvarê"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "qêrînin"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "wek kûçikan"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "û dorê bigirin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajêr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:31.830381160Z",
+  "model": "glm-5.3"
+}

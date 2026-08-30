@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 24:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "«Ez ê te bi Yahwe, Elohîmê ezmanan û Elohîmê erdê, sond bidim xwar, ku tu ji keçên Kenaanî, ku ez di nav wan de dijim, ji bo kurê min jin nagirî.»",
+  "tokens": [
+    {
+      "surface": "ואשביעך",
+      "gloss": "Ez ê te sond bidim xwar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "û Elohîmê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nagirî"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo kurê min"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ji keçên"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dijim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di nav wan de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:43:21.758861143Z",
+  "model": "glm-5.3"
+}

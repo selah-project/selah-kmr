@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 11:17",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û evrîlê Yahwe li we bişewite, û ew ⟨את⟩ ezmanan bigire ku baran nebe, û erdên çandiniyî ⟨את⟩ berhema xwe nede; û hûn bilez ji ser erdê baş a ku Yahwe dide we, wenda dibin.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "bişewite"
+    },
+    {
+      "surface": "אף",
+      "gloss": "evrîlê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "li we"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "û bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezmanan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ku ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "be"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "baran"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "û erdên çandiniyî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhema xwe"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "berhema xwe"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "û hûn wenda dibin"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "bilez"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "baş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:08.509504440Z",
+  "model": "glm-5.3"
+}

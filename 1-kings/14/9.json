@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Tu xirabtir ji hemû yên ku berî te bûn kirîye; te çû û ji xwe re Elohîmên din û pêkelerî çêkirine ku min bi qehr bînî, û ⟨את⟩ min te avêt paş pişta xwe.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "kirîye"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "berî te"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "û te çû"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "û te çêkir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ên din"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "û pêkelerî"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "ku min bi qehr bînî"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "te avêt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paş"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "pişta te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:53.500820744Z",
+  "model": "glm-5.3"
+}

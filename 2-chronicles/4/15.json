@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "⟨את⟩ Deryayê — yek — û ⟨את⟩ dwazde ga li jê wê.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Deryayê"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Deryayê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "dwazde ga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "li jê wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:36.088227357Z",
+  "model": "glm-5.3"
+}

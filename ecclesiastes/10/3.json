@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Her wiha gava ahmaq di rê de diçe, dilê wî kêm ⟨ye⟩ û ji her kesî re eşkere dike ku ew ahmaq ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "her wiha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "gava ahmaq"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kêm"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji her kesî re"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ahmaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:52.675634797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Tê zanîn — wek yê ku balto bilind datîne ser çalên daristanan, daristanên dar.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "tê zanîn"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "wek yê ku bilind datîne"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "ser çalên daristanan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dar"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "balto"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:08.323536821Z",
+  "model": "glm-5.3"
+}

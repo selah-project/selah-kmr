@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Çetsron ⟨את⟩ Ram bûye bavê, Û Ram ⟨את⟩ Emînadbav bûye bavê.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Û Çetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bûye bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "Û Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bûye bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emînadbav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Emînadbav"
+    }
+  ],
+  "timestamp": "2026-08-30T06:05:36.447229875Z",
+  "model": "glm-5.3"
+}

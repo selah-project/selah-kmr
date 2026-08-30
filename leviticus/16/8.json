@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Aharon ê li ser du nêrên bizinan goran bavêje — gorek bo Yahwe û gorek bo Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "bavêje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "nêrên bizinan"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "goran"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "gorek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bo Yahwe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "û gorek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "bo Azazel"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:55.396967638Z",
+  "model": "glm-5.3"
+}

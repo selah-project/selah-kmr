@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ger dizîn bê guman di destê wî de zindî were dîtin — ji ga heta ker heta mi — ê du caran bide.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "bê guman"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "were dîtin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê wî de"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "dizîn"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ji ga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ker"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du caran"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bide"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:30.539013335Z",
+  "model": "glm-5.3"
+}

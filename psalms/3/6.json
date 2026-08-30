@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ez ketim û xewîm, hûşyar bûm, ji ber ku Yahwe piştgirîya min dike.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ketim (rûniştim)"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "û hûndir kirim"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "hûşyar bûm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "piştgirîya min dike (min girt)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:31.783306690Z",
+  "model": "glm-5.3"
+}

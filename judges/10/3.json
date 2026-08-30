@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Piştî wî Yairê Gileadî rabû û Îsraêl ⟨את⟩ bîst û du salan darizand.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "piştî wî"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yairê"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gileadî"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "darizand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "û du"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:29:16.693973359Z",
+  "model": "glm-5.3"
+}

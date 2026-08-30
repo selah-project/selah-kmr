@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Û wî welatên gelan ji wan re da, û xebata komelan bi milkî girtin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Û wî ... da"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "welatên"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "û xebata"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "komelan"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bi milkî girtin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:36.394228093Z",
+  "model": "glm-5.3"
+}

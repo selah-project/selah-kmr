@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "⟨את⟩ Ûts ê yêkemilî, û ⟨את⟩ Bûz birayê wî, û ⟨את⟩ Kemûêl bavê Aram",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ûts"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Ûts"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ê yêkemilî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Bûz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Bûz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Kemûêl"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemûêl"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:57.970070812Z",
+  "model": "glm-5.3"
+}

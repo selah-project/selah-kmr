@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Pir zêde bişo min ji sûcê min, û ji gunehê min paqij bike min.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "pir zêde"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "bişo min"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ji sûcê min"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "û ji gunehê min"
+    },
+    {
+      "surface": "تהרני",
+      "gloss": "paqij bike min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:04.277137765Z",
+  "model": "glm-5.3"
+}

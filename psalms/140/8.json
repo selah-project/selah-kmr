@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Yahwe, Adonay, hêza rizgariya min, tu serê min di roja şer de rûpoş kirî.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêza"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "rizgariya min"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "rûpoş kirî"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "şer"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:07.105858386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Moşe hat û ji gel re ⟨את⟩ hemû peyvên Yahwe û ⟨את⟩ hemû hukman vegot; û hemû gel bi dengê yekî bersiv da û got: \"Hemû peyvên ku Yahwe gotî ye, em ê bikin.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "û … hat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "û … vegot"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ji gel re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû peyvên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû hukman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukman"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "û … bersiv da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û got"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotî ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "em ê bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:55.690697464Z",
+  "model": "glm-5.3"
+}

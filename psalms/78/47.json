@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Kuşt bi hailê rezên wan, û hejîrên wan bi (cemed-serê) sarîcemedê.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "bi hailê"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "rezên wan"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "û hejîrên wan"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "bi cemedê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:49.692727878Z",
+  "model": "glm-5.3"
+}

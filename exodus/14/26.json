@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û Yahwe ji Moşe re got: Destê xwe dirêj bike ser ⟨את⟩ deryayê, da ku av vegere ser Mîtsrayim, ser siwarên wî û ser siwarên hespan wî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "dirêj bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "da ku vegere"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "siwarên wî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ser"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "siwarên hespan wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:20.198286440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Ez jî di rastiya xwe de tu min danigirt, û tu min li ber rûyê xwe danî ji bo hertimî.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ez jî"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "di rastiya xwe de"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "tu min danigirt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "û tu min danî"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li ber rûyê xwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:23.342367931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Nanê Abîran her kesî xwar; xwarinê ji bo wan şand, bigihîje têrbûnê.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "nanê"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "Abîran"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kesî"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "xwarinê"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "bigihîje têrbûnê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:22.563242212Z",
+  "model": "glm-5.3"
+}

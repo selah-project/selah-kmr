@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Kî ev e ku şîret bê zanînû ve dişêre? Ji ber wê min got û min fêm nekir; tiştên ecêb ji min dûr in û ez ê nizanim.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev e"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "dişêre"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "şîret"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bê"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanînû"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ji ber wê"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "min fêm kir"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "tiştên ecêb"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ez ê nizanim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:42.266343822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Wê ez ⟨את⟩ peymana xwe ya bi Yaakov, û ⟨את⟩ peymana xwe ya bi Yitsxak, û ⟨את⟩ peymana xwe ya bi Avraham bibîr bînim, û ez ê axê jî bibîr bînim.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "wê ez bibîr bînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "bi Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "û"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "bi Yitsxak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "û jî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "bi Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ez ê bibîr bînim"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "û axê"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "bibîr bînim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:43.752260486Z",
+  "model": "glm-5.3"
+}

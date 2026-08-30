@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û ⟨את⟩ bi me re şêranekî Îberî hebû, xulamê serê jeberan; me ji re got û ew şirovekirina xewnên me ⟨את⟩ ji me re kir — her yekî li gorî xewna wî şirove kir.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "û"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bi me re"
+    },
+    {
+      "surface": "נער",
+      "gloss": "şêranekî"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Îberî"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xulamê"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "serê"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "jeberan"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "me got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji re"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "şirovekirina kir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xewnên me"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "xewnên me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her yekî"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "li gorî xewna wî"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "şirove kir"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:11.115202587Z",
+  "model": "glm-5.3"
+}

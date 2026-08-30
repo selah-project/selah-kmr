@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û wê bibî xêz û têgihîştineke baş di çavên Elohîm û mirovan de.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Û wê bibî"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xêz"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "û têgihîştin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên ... de"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "û mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:42.857840813Z",
+  "model": "glm-5.3"
+}

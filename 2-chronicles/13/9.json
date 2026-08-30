@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 13:9",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ma hûn kohananên Yahwe — ⟨את⟩ komeleya Aharon û ⟨את⟩ Lûwiyan — ne avêtin, û ji xwe re kohan çêkirin, wek gelên welatan? Her kesê ku hat ⟨destê xwe⟩ tijî kirin bi golizekî, kurê ga, û heft quehan, ew bû kohanekî ji bo ên ku ne Xwedê ne.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הדחתם",
+      "gloss": "ne avêtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohananên"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohananên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komeleya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "komeleya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "û Lûwiyan"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "û çêkirin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "wek gelên"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "welatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her kesê"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "tijî kirin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "bi golizekî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "û quehan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "heft"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ew bû"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohanekî"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ji bo...ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Xwedê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:48:20.441824555Z",
+  "model": "glm-5.3"
+}

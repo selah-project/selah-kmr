@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Avîşua ⟨את⟩ Bukî zayî; û Bukî ⟨את⟩ Uzî zayî.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Û Avîşua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukî"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukî"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "û Bukî"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzî"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:27.260590961Z",
+  "model": "glm-5.3"
+}

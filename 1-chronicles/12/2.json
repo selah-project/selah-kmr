@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Kêşane (tîr) di dabûn, bi destê rastê û bi destê çepê, bi kevirên (xeml) û bi tîran (kevan) — ji birayên Şaul, ji (Benyamîn).",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "dabûn"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kevan"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "destê rastê"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "û destê çepê"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "bi keviran"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "û bi tîran"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "bi kevan"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "ji birayên"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "ji Benyamîn"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:44.836658667Z",
+  "model": "glm-5.3"
+}

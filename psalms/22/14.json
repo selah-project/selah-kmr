@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Devê xwe li ser min vekirine, şêre dîqar û bilinde.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "vekirine"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "devê xwe"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "şêre"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "dîqar"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "û bilinde"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:28.435488639Z",
+  "model": "glm-5.3"
+}

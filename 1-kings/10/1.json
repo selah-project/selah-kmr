@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û keybanûya Şebayê bihîst ⟨את⟩ navdariya Şelomoyê — bi navê Yahwe — û hat ku wî bi pirsên dijwar ceribandine.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Û keybanûya"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şebayê"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navdariya Şelomoyê"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "navdariya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomoyê"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "ku wî ceribandine"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "bi pirsên dijwar"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:10.272403771Z",
+  "model": "glm-5.3"
+}

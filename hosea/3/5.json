@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Piştre zarokên Yisraêlê ên vegerin û ⟨את⟩ Yahwe, Elohîmê xwe, û ⟨את⟩ Dawidê keyê xwe bigerin, û bi tirsê bên cem Yahwe û cem qenciya wî, di dawiya rojan de.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Piştre"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vegerin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "û bigerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Elohîmê xwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidê keyê xwe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "keyê xwe"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "û bi tirsê bên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û cem"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "qenciya wî"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "di dawiya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "rojan de"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:06.361042124Z",
+  "model": "glm-5.3"
+}

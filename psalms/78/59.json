@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Elohîm bihîst û xezeb bû û bi tundî ji Yîsrayêl bezand.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "xezeb bû"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "bezand"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bi tundî"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ji Yîsrayêl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:00.673895864Z",
+  "model": "glm-5.3"
+}

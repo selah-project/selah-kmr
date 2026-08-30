@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yahwe bi Moşe re li çolê Sînay axavt, û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axavt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sînay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:16.227412435Z",
+  "model": "glm-5.3"
+}

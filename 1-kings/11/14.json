@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yahwe ji bo Şelomo dijminekî raber kir — ⟨את⟩ Hadadê Edomî; ew ji nifşê padîşah bû, li Edomê.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "raber kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "dijminekî"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ji bo Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadê Edomî"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomî"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "li Edomê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:39.044394851Z",
+  "model": "glm-5.3"
+}

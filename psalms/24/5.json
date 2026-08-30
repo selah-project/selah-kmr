@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Ji ⟨את⟩ Yahwe bêrkeke hildigire û ji Elohîmê yê rizgariya wî rastiyekê.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "hildigire"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bêrkeke"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "û rastiyekê"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ji Elohîmê"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "yê rizgariya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:21.299192522Z",
+  "model": "glm-5.3"
+}

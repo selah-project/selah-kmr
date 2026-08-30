@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û balindeyên dirûnî daketin ser goştên miriyan, û Avram ⟨את⟩ wan da paş.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "daketin"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "balindeyên dirûnî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "goştên miriyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "da paş"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-29T17:40:21.534436601Z",
+  "model": "glm-5.3"
+}

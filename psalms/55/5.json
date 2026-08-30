@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Dilê min di hundurê min de dimeşiye, û tirên mirinê ketine ser min.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "dimeşiye"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di hundurê min de"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "û tirên"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirinê"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ketine"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:03.406263858Z",
+  "model": "glm-5.3"
+}

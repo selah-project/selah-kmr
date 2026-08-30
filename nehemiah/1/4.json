@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û çêbû, dema ku min ⟨את⟩ van peyvan bihîst, min rûnişt û min girî û min rojan şîn kir; û ez bûm rojhildî û dia li ber Elohîmê ezmanan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û çêbû"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "dema ku min… bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van pevyan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "van peyvan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "min rûnişt"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "û min girî"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "û min şîn kir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "û ez bûm"
+    },
+    {
+      "surface": "צם",
+      "gloss": "rojhildî"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "û dia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:24:51.765864605Z",
+  "model": "glm-5.3"
+}

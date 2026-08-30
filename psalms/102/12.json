@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Rojên min wek siyeke dirêjbûyî ⟨ne⟩, û ez wek giya hişk bûm.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "rojên min"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "wek siyeke"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "dirêjbûyî"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "wek giya"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "hişk bûm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:01.257094662Z",
+  "model": "glm-5.3"
+}

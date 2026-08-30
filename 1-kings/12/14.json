@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û bi wan re wek şîreta ciwanan axaft, got: “Bavê min ⟨את⟩ cûkê we giran kir, û ez ê li ser cûkê we zêde bikim; bavê min we bi kamçiyan dida, û ez ê we bi pirtûkan didim.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axaft"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "wek şîreta"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ciwanan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "giran kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cûkê we"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "cûkê we"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ez ê zêde bikim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "cûkê we"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "dida"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bi kamçiyan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ez ê didim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "bi pirtûkan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:11.543512087Z",
+  "model": "glm-5.3"
+}

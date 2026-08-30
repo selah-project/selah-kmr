@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ji bo aliyê duyemîn yê separetê, ji aliyê bakur, bîst texte.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Û ji bo aliyê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "separetê"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "duyemîn"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ji aliyê"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bakur"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "texte"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:35.821513513Z",
+  "model": "glm-5.3"
+}

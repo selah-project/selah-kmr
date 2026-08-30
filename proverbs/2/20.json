@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji bo ku tu di rêya başan de bigerî û rêyên rastanan biparêzî.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "bigerî"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rêya … de"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "başan"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "û rêyên"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastanan"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "biparêzî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:09.776490313Z",
+  "model": "glm-5.3"
+}

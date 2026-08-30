@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Yahwe ji Moşe re got: «Vê yekê wek bîranînê di ⟨the⟩ pirtûkê de binîvîse û wê di guhên Yehoşua de deh ne, ji ber ku ez ê bîranîna ⟨את⟩ Amalek ji binê ezmanan bi tevahî jê bibim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û … got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "binîvîse"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê yekê"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "wek bîranînê"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di pirtûkê de"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "û … deh ne"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di guhên"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "jê bibim"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "ez ê bi tevahî jê bibim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bîranîna Amalek"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bîranîna"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ji binê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:19.866170620Z",
+  "model": "glm-5.3"
+}

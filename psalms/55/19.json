@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Canê min bi silametî rizgar kir ji yê nêzîkî min; çimkî gelek bi min re bûn.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "rizgar kir"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "bi silametî"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ji nêzîk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bi min re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:56.710176860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ji eşîra Binjamin: ⟨את⟩ Geba û ⟨את⟩ deştên wê, ⟨את⟩ Alemet û ⟨את⟩ deştên wê, ⟨את⟩ Anatot û ⟨את⟩ deştên wê — hemû bajaran wan sêzdeh bûn, li gorî malbatên wan.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "û ji eşîra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "bajaran wan"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "li gorî malbatên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:07.261326391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Niha şîrîzî û zanînî bide min, da ku ez deriyim û bikevim berî vê gelî, ji ber ku kê dikare ⟨את⟩ vê gelê te yê mezin bi darizandinê darizîne?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "şîrîzî"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "û zanînî"
+    },
+    {
+      "surface": "תן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "da ku ez deriyim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vê gelî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "û bikevim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dikare… darizîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê gelê te yê mezin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yê mezin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:42:05.819161571Z",
+  "model": "glm-5.3"
+}

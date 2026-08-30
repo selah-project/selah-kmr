@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Bi valahî min ⟨את⟩ zarokên we xist; ew şandinê negirtin. Şûrên we pêxemberên we xwar — wek şênekî wêranker.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Bi valahî"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "min ... xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên we"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "zarokên we"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "şandinê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "negirtin"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "Şûrên we"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "pêxemberên we"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "wek şên"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "wêranker"
+    }
+  ],
+  "timestamp": "2026-08-29T20:49:45.871785111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 98,
+  "translation": "Mizmorekî. Ji bo Yahwe strîneke nû bistrînin, çimkî wî tiştên acayib kirine; destê wî yê rast û milê wî yê pîroz rizgarî bi dest xistine.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmorekî"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "bistrînin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "strînek"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "tiştên acayib"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kirine"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "rizgarî bi dest xistine"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "destê wî yê rast"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "û milê wî"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "yê pîroz"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:22.355280271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Li derveyî Erdan, di axa Moab de, Moşe dest pê kir ⟨את⟩ vê Torê eşîre kirinê, û got:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "li derveyî"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Erdan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di axa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "dest pê kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "eşîre kirinê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê Torê"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:25.002639505Z",
+  "model": "glm-5.3"
+}

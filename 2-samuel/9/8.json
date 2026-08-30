@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Wî dîsa serê da erdê û got: Dewlete te kî ye, ku te rû bi kûçikê mirî yê wekî min vegerand?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "serê da erdê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kî"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dewlete te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "te rû vegerand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "kûçikê"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mirî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "wekî min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:51:31.716057632Z",
+  "model": "glm-5.3"
+}

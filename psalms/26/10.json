@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ên ku di destên wan de planê şer e, û destê rastê yê wan ji rûşvetê tijî ye.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "di destên wan de"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "planê şer"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "û destê rastê yê wan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tijî ye"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ji rûşvetê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:47.874991044Z",
+  "model": "glm-5.3"
+}

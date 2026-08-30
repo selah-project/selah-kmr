@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 129,
+  "translation": "Gelek caran ji ciwantiya min êş didan min — lê li ser min serkeftî nebûn.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Gelek caran"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "êş didan min"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ji ciwantiya min"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "serkeftî bûn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.177847074Z",
+  "model": "glm-5.3"
+}

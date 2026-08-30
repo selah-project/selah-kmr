@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "⟨את⟩ nûqeyên te ez ê biparêzim; tu min bi temamî berne!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nûqeyên te"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "nûqeyên te"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ez ê biparêzim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tu min berne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bi temamî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.697517428Z",
+  "model": "glm-5.3"
+}

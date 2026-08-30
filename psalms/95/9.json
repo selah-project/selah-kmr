@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 95,
+  "translation": "Ku bavên we min ceriband, min piştgirt kir, erê keda min dîtin.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "min ceriband"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bavên we"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "min piştgirt kir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "erê"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "keda min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:19.028128704Z",
+  "model": "glm-5.3"
+}

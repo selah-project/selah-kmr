@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Wek heval, wek birayekî ji bo min geriyam; wek şînvaneke dayikê, bi tarîbûnê xwe xwar da.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "wek heval"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "wek birayekî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "geriyam"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "wek şînvaneke"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dayikê"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "bi tarîbûnê"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "xwe xwar da"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:24.669574346Z",
+  "model": "glm-5.3"
+}

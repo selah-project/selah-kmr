@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ka em bizanin, em bi zanebûnê bidin pey ku em ⟨את⟩ Yahwe nas bikin; wekî sibehê derketina wî ⟨ê⟩ rast ⟨e⟩, û wê wekî baranê were bal me, wekî barana dereng a ku erdê av dide.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "ka em bizanin"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "em bidin pey"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ku em nas bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "wekî sibehê"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "rast"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "derketina wî"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "û wê were"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "wekî baranê"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bal me"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "wekî barana dereng"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "av dide"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:09.011732824Z",
+  "model": "glm-5.3"
+}

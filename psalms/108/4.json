@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Ez ê di nav gelan de nîşanî spasiyê bidim Te, Yahwe, û ez ê di nav neteweyan de pesnê Te bilêzim.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ez ê ... spasiyê bidim Te"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "ez ê pesnê Te bilêzim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di nav neteweyan de"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "netewe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.001722452Z",
+  "model": "glm-5.3"
+}

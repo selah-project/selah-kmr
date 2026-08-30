@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Gava tu ⟨את⟩ erdê bi dibî, êdî êdî qewata xwe nade te; rewdar û belûger li erdê yî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tu… bi dibî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "êdî nade"
+    },
+    {
+      "surface": "תת",
+      "gloss": "bide"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "qewata xwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "נע",
+      "gloss": "rewdar"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "belûger"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yî"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:30.518418662Z",
+  "model": "glm-5.3"
+}

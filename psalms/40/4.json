@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ew strîneke nû da devê min — pesn ji bo Elohîmê me; gelek dibînin û ditirsin, û xwe dispêrin Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "û ew da"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di devê min de"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "strîn"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pesn"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ji bo Elohîmê me"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "dibînin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "û ditirsin"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "û xwe dispêrin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:39.733574339Z",
+  "model": "glm-5.3"
+}

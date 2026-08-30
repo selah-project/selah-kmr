@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 15:26",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Wî ê ku di çavên Yahwe de xerab bû kir, û di riya bavê xwe de û di gunehê wî — yê ku ⟨את⟩ Yisrail gunehdar kiribû — çû.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wî kir"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "û çû"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di riya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "ובחטאתו",
+      "gloss": "û di gunehê wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "gunehdar kiribû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:28.493704889Z",
+  "model": "glm-5.3"
+}

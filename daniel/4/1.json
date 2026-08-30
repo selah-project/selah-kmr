@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ez, Nevukadnetser (Nebuchadnezzar), di malê xwe de di aştiyê de bûm û di qesrê xwe de gulî dabûm.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetser"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "di aştiyê de"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "bûm"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "di malê xwe de"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "û gulî dabûm"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "di qesrê xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:17:45.033407548Z",
+  "model": "glm-5.3"
+}

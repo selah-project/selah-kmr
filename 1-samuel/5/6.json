@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û destê Yahwe li ser Eşdodiyan giran bû; wan xera kir û ⟨את⟩ wan bi basûran lêdan — ⟨את⟩ Eşdod û ⟨את⟩ sînorên wê.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "giran bû"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "Eşdodiyan"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "wan xera kir"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lêdan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "basûran"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "bi basûran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eşdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Eşdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sînorên wê"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sînorên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:29.993752030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Kurê min, neçe di rêyê ⟨את⟩ wan re; lingê xwe ji şepalên wan biparêze.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "biçe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lingê te"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "ji şepalên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:03.327768460Z",
+  "model": "glm-5.3"
+}

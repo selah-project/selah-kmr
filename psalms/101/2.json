@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 101,
+  "translation": "Ez ê riya tamin bi îdare bikim; kengê tu ê werî ba min? Ez ê di nava malê xwe de bi dilê xwe yê tamin bimeşim.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "ez ê bi îdare bikim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "riya"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tamin"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tu ê werî"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba min"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ez ê bimeşim"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "bi tamiya"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "malê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:46.258822215Z",
+  "model": "glm-5.3"
+}

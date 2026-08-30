@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û ez li ser wî biçim — û ew westiya û destên wî lawaz in — û ez tirse bidim ⟨אתו⟩, û ew î ⟨את⟩ di cem wî de birevin, û ez tenê ⟨את⟩ key li tenê wî bidarim.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "û ez biçim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "westiya"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "û lawaz"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "destên"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "û ez tirse bidim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ew (Dawid)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "û birevin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ di cem wî de"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "û ez bidarim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "key"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "li tenê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:55:08.168269599Z",
+  "model": "glm-5.3"
+}

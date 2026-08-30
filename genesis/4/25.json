@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Adem dîsa ⟨את⟩ jina xwe nas kir, û ew kurekî anî dinê, û ⟨את⟩ navê wî Şet kir, ji ber ku Elohîm ji bo min toxulekî din danî şûna Hebel, ji ber ku Kayn wî kuşt.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "nas kir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina xwe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina xwe"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "anî dinê"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurekî"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Şet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שת",
+      "gloss": "danî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxulekî"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "din"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "şûna"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayn"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:15.476604202Z",
+  "model": "glm-5.3"
+}

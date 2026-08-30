@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Min ji Yîtshaq re ⟨את⟩ Yaqup û ⟨את⟩ Esaw da; û min ji Esaw re ⟨את⟩ Çiyayê Seîr da ku wî bigire, lê Yaqup û kurên wî çûn Mîtsrayimê.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "min… da"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ji Yîtshaq re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqup"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "min… da"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ji Esaw re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Çiyayê Seîr"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Çiyayê"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seîr"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ku… bigire"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "Çiyayê Seîr"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaqup"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:07.207748174Z",
+  "model": "glm-5.3"
+}

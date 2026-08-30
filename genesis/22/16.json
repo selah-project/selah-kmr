@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "û got: 'Bi xwe bi xwe sond xwarim, gotina Yahwe, ji ber ku tu ev peyvî kir ⟨את⟩ û kurê xwe ⟨את⟩ yê te yê tek, ⟨את⟩ nesparî.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bi xwe bi xwe"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "sond xwarim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev peyv"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyv"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "nesparî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê te"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê te yê tek"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "yê te yê tek"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:46.235541317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Ji bo navê min ezê hêrsê xwe dirêj bikim, û ji bo pesnê min ezê wê ⟨ji te re⟩ rawanim, da ku ez te nebînim qutkirî.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "navê min"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "dirêj bikim"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "hêrsê min"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "û ji bo pesnê min"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "rawanim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ku ne"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "ez te qut bikim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:43:40.497860173Z",
+  "model": "glm-5.3"
+}

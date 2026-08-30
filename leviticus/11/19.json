@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "û ⟨את⟩ leylekê, hêronê bi cureyê xwe, û ⟨את⟩ kundo û ⟨את⟩ şevçûk,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "leylekê"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "leylekê"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "hêronê"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "bi cureyê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kundo"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "kundo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "şevçûk"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "şevçûk"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:39.036117222Z",
+  "model": "glm-5.3"
+}

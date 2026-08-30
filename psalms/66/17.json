@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Bal wî de bi devê xwe bang kirim, û ew bi zimanê min hat bilindkirin.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "bal wî de"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bi devê xwe"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "bang kirim"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "hat bilindkirin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "zimanê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:37.553585618Z",
+  "model": "glm-5.3"
+}

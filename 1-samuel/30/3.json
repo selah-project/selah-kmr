@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û Dawid û mêrên wî hatin ba bajêr, û binêre, ⟨ew⟩ bi agir şewitîbû, û jinên wan, kurên wan û keçên wan êsîr hatibûn girtin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Û ... hatin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "û mêrên wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û binêre"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "şewitîbû"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "û jinên wan"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "kurên wan"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "û keçên wan"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "êsîr hatibûn girtin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:25.451850978Z",
+  "model": "glm-5.3"
+}

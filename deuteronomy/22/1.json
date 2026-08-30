@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Gayê birayê xwe ⟨את⟩ an riheyê wî ⟨את⟩ yê dûrketî nabînî û xwe ji wan venedişîne; bêguman wan ji nû ve ji birayê xwe re vegerîne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gayê"
+    },
+    {
+      "surface": "שור",
+      "gloss": "gayê"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riheyê"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "riheyê"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "dûrketî"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "xwe venedişîne"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bêguman"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "vegerîne"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ji birayê te re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:43.554421252Z",
+  "model": "glm-5.3"
+}

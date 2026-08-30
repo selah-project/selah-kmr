@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Kî dizane ku ruhê kurên Mirov bilind dibe ew ⟨ew⟩ ji bo jor, û ruhê ajalê dadikeve ⟨ew⟩ ji bo jêr, ber bi erdê ve?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Mirov"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bilind dibe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ew⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ji bo jor"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "û ruhê"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ajalê"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "dadikeve"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ew⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ji bo jêr"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ber bi erdê ve"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:41.740461273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Çetîtiya te tê xuyakirin, her wiha eybiya te tê dîtin; tolê hildim, û tu mirovî nade pokirin.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "tê xuyakirin"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "çetîtiya te"
+    },
+    {
+      "surface": "גם",
+      "gloss": "her wiha"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tê dîtin"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "eybiya te"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "tolê"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "hildim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nade"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "pokirin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:37.804236583Z",
+  "model": "glm-5.3"
+}

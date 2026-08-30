@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Çimkî dema ez bêdeng mam, hestiyên min bêhnteng bûn, bi qîrîna min a tevahiya rojê.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ez bêdeng mam"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "bêhnteng bûn"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "hestiyên min"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "bi qîrîna min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:53.237481828Z",
+  "model": "glm-5.3"
+}

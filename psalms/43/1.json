@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Bi min dadvanî bike, ey Elohîm, û doza min derbas bike, ji miletekî ku xesed nîne, û ji mêrekî xapînok û nesix te rizgar bikim.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "bi min dadvanî bike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "û derbas bike"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "doza min"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ji miletekî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ji mêrekî"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "xapînok"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "û nesix"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "te rizgar bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:22.242706286Z",
+  "model": "glm-5.3"
+}

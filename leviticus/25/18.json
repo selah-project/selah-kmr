@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û hûn ⟨את⟩ biryarên min dikin û ⟨את⟩ dadên min diparêzin û ⟨את⟩ wan dikin; û hûn bi ewlehî li ser ⟨the⟩ erdê rûdinin.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "û hûn dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biryarên min"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "biryarên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dadên min"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dadên min"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "diparêzin"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "û hûn dikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "û hûn rûdinin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bi ewlehî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:36.953024126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û ⟨את⟩ amûrên ku li ser masê ne çêkir — ⟨את⟩ tasên wê, ⟨את⟩ kovanên wê, ⟨את⟩ çînanên wê, ⟨את⟩ qepên wê — yên ku bi wan tê rijandin — ji zêrê paqij.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amûrên"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tasên wê"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "tasên wê"
+    },
+    {
+      "surface": "ויתן כפתיו-placeholder",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kovanên wê"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "⟨את⟩ kovanên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çînanên wê"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "⟨את⟩ çînanên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qepên wê"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "qepên wê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "tê rijandin"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:12.908609436Z",
+  "model": "glm-5.3"
+}

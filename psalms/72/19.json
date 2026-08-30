@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Û bêrûke navê rûmeta wî heta hertimî; û bila rûmeta wî ⟨את⟩ hemû erdê tijî bike. Amîn û Amîn.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Û bêrûke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "rûmeta wî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "û bila … tijî bike"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "rûmeta wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû erdê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amîn"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "Û Amîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:50.175956277Z",
+  "model": "glm-5.3"
+}

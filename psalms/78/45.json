@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Şandî li ser wan (mixînên) pelan — xwarin da wan; û (beqan) — xerab kirin ji wan re.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "koma pelan"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "û xwarin da wan"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "û beq"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "û xerab kirin wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:49.692271077Z",
+  "model": "glm-5.3"
+}

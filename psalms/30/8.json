@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Yahwe, di raza te de min çiyayê xwe yê xurt danîbû ser piyan; rûyê xwe veşartibû û ez ketim tirsan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "di raza te de"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "danîbû ser piyan"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "çiyayê min"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xurt"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "veşartibû"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ez bûm"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "di tirs û linghejê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:25.112402310Z",
+  "model": "glm-5.3"
+}

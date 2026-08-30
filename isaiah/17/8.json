@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û dê çav li sunetan — kirinên destên xwe — neke, û ên ku tiliyên wî çêkirine dê nebîne; Eyşîre û xaneyên rojê.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Û dê ... neke"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "çav neke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "sunetan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kirinên"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ên ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkirine"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "tiliyên wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "dê bibîne"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "Eyşîre"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "û xaneyên rojê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:32:23.949329832Z",
+  "model": "glm-5.3"
+}

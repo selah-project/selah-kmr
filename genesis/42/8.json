@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Yosef ⟨את⟩ birayên xwe nas kir, lê ew wî nas nekirin.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "nas kir"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayên xwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "وהם",
+      "gloss": "lê ew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "wî nas nekirin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:09.547076587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Lêvên min dê pesnê rih bikin, çimkî tu min bi qanûnên te hîn didî.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "dê… rih bikin"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên min"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pesn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "hîn didî min"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanûnên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:19.831901736Z",
+  "model": "glm-5.3"
+}

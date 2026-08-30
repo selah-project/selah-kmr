@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Nifadek diçe û nifadek tê, û erd heta hertimî ⟨disekine⟩.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Nifadek"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "û nifadek"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "û erd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "⟨disekine⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:25.562058529Z",
+  "model": "glm-5.3"
+}

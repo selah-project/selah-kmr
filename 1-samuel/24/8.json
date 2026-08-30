@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Dawid bi gotinan ⟨את⟩ mêrên xwe sekinand û destûr neda ku li hember Şaul rabin; Û Şaul ji şikeftê rabû û çû rêya xwe.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "sekinand"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêrên xwe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "mêrên xwe"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "bi gotinan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û destûr neda"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": ""
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ku rabin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li hember"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Û Şaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "ji şikeftê"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "rêya xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:24.273505036Z",
+  "model": "glm-5.3"
+}

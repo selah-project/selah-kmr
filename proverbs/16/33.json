@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Gorîl li ser singê tê avêtin, lê ⟨את⟩ hukmê wî yî temamî ji Yahwe tê.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "li ser singê"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "tê avêtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorîl"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "gorîl"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "lê ji Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "temamî"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "hukmê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:44:29.029613714Z",
+  "model": "glm-5.3"
+}

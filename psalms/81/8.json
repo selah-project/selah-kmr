@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Di tengasiyê de tu gazî kirî û min te rizgar kir; min di veşartiyê de bi tîrêjê bersivê te da; min te li ser avên Merîbayê ceriband. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "di tengasiyê de"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tu gazî kirî"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "û min te rizgar kir"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "min bersivê te da"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di veşartiyê de"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "bi tîrêjê"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "min te ceriband"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merîbayê"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:11.890984976Z",
+  "model": "glm-5.3"
+}

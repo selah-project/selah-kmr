@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Di hewşên mala Yahwe de, di nava te de, ey Yeruşalayim! Halelû-Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "di hewşên... de"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "di nava te de"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ey Yeruşalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hildin!"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:24.485925036Z",
+  "model": "glm-5.3"
+}

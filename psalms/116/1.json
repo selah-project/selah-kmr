@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Ez evînim, çinkû Yahwe ⟨את⟩ dengê min, îltîcayên min dibihîze.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ez evînim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinkû"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dibihîze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê min"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "îltîcayên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:22.824082888Z",
+  "model": "glm-5.3"
+}

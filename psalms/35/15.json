@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Di ketina min de şah bûn û civiyan; êrîşkarên bê şoref li ser min civiyan — û ⟨ez⟩ nizanibûm; çirandin û nesekinin.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "di ketina min de"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "şah bûn"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "û civiyan"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "êrîşkarên bê şoref"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nizanibûm"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "çirandin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sekinîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:24.669726054Z",
+  "model": "glm-5.3"
+}

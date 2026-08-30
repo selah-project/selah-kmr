@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Şaul û tevaya gelê ku bi ⟨את⟩ wî re bû gazî hatin kirin, û ew hatin heta şer; û li ber çavan şûrê her kesî li dijî hevalê xwe bû — tevliheviyeke pir mezin.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "gazî hatin kirin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bi ⟨את⟩ wî re",
+      "marks": "tevaya gelê"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "û ew hatin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û li ber çavan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûrê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kesî"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "li dijî hevalê xwe"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "tevlihevî"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "pir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:09.904036030Z",
+  "model": "glm-5.3"
+}

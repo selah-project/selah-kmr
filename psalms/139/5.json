@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Pişt û pêş tu min dorpêç kir, û kefê xwe danî ser min.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "pişt"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "û pêş"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "tu min dorpêç kir"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "û danî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ser min"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "kefê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:04.609133953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Elohîm ji bo wî dijberekê raber kir: ⟨את⟩ Rezon kurê Elyadayê, yê ji ⟨את⟩ Hadadezer, padîşahê Tsobayê, axayê wî, reviyabû.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "raber kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "dijbereke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyadayê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "reviyabû"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsobayê"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "axayê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:14.683538812Z",
+  "model": "glm-5.3"
+}

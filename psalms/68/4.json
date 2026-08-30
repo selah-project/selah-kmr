@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Û rastgiran bibin şad, li pêş Elohîm bijan bifiriyan û bi kêfxweşiyê şahiyê bikin.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "û rastgiran"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bibin şad"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "bijan bifiriyan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "û şahiyê bikin"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "bi kêfxweşiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:59.228514956Z",
+  "model": "glm-5.3"
+}

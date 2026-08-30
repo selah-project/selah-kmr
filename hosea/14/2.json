@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Vegere, ey Yisraêl, heta Yahwe Elohîmê xwe, çimkî tu di gunehê xwe de rûjiyayî.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vegere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey Yisraêl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "tu rûjiyayî"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "di gunehê xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:59.213939120Z",
+  "model": "glm-5.3"
+}

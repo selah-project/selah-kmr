@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "⟨Ew in⟩ ên ku xwe bi hêza xwe diêsinîn, û bi zêdebûna dewlemendiya xwe serbilind dibin —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "ên ku xwe diêsinîn"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hêza xwe"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "û bi zêdebûna"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "dewlemendiya xwe"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "serbilind dibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:04.349485336Z",
+  "model": "glm-5.3"
+}

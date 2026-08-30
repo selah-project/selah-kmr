@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û tu çêkî ⟨את⟩ altarê bi darê şîmşîrê; pênc şînî dirêjahî û pênc şînî firehî — çargoşe bibe ⟨את⟩ altarê — û sê şînî bilindahîya wî.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "û tu çêkî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarê"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarê"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bi darê"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîmşîrê"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "şînî"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dirêjahî"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "û pênc"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "şînî"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "firehî"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "çargoşe bibe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarê"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "şînî"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bilindahîya wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:37.174579911Z",
+  "model": "glm-5.3"
+}

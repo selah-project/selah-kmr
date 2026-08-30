@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Belkû ji ber evîna Yahwe ya bi we û ji ber parastina sondê ku ew ji bavên we re sond xwaribû, Yahwe we bi destê xurt derxist û we ji mala koleyî, ji destê Firêwn keyê Mîtsrayim rizgar kir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "belkû"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "ji ber evîna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ji ber parastina sondê"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "û ji ber parastina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sondê"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sondê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sond xwaribû"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ji bavên we re"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bi destê xurt"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "xurt"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "û rizgar kir"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "koleyî"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firêwn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:43.660608657Z",
+  "model": "glm-5.3"
+}

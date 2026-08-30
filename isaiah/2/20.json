@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Di wê rojê de mirov dê pûtên zîvê xwe yên bi ⟨את⟩ bavêje û ⟨את⟩ pûtên zêrê xwe, ku ew çêkirine ji bo xwe, ji bo perestinê — ji kûçikan (jermyan) re û ji bayêbazan re.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Di … rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "dê bavêje"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pûtên zîvê xwe"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "pûtên"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "zîvê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pûtên zêrê xwe"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "pûtên"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "zêrê xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ew çêkirine"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ji bo perestinê"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "ji kûçikan (jermyan) re"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "kûçik"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "û ji bayêbazan re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:22.148071891Z",
+  "model": "glm-5.3"
+}

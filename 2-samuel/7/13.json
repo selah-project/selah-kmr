@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ew ê ji bo navê min xanî çêke, û ez ê ⟨את⟩ texta keyaniya wî heta heyamê bicih bikim.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ew"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ê çêke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ji bo navê min"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "û ez ê bicih bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "texta"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "texta"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "keyaniya wî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "heyamê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:51:04.814825067Z",
+  "model": "glm-5.3"
+}

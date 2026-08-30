@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Û wan di rêyeka ⟨rast de rê kir, ku ⟨bihere⟩ bajarekî rûniştinê.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "û wan rê kir"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rêyeke"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "rast"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ku bihere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarekî"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "rûniştinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:12.397444397Z",
+  "model": "glm-5.3"
+}

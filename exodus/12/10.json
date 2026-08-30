@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û hûn ji wê tiştekî heta sibê bernadin; û tiştê mayî jê heta sibê, hûn ê bi agir bişewitînin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "hûn bernadin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sibê"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "û tiştê mayî"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "jê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sibê"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "hûn bişewitînin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:53.172366781Z",
+  "model": "glm-5.3"
+}

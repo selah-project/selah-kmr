@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 14:30",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Mixabin, gelo ger gel îro ji malênên dijminên xwe yên ku dîtibûn bi awayê xweş xwaribûna, êdî îro li ser Filistîyan ew qas ne darbeke mezin çêbibûya?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "mixabin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gelo"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ger"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwaribûna"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "bi awayê xweş"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "משלל",
+      "gloss": "ji malênên"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dijminên xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ku dîtibûn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "îro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "ew qas ne... bû"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "darbe"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "li ser Filistîyan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:37.158304284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Wê heta deryayê û heta çemê şitilên xwe şandin.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "xitilên xwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "çemê"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "şitilên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:35.727751921Z",
+  "model": "glm-5.3"
+}

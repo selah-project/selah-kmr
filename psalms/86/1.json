@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Dua ji aliyê Dawid. Guhê xwe Yahwe, bersivê bide min, çimkî ez feqîr û belengaz im.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji aliyê Dawid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "bistîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê te"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bersivê bide min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîr"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û belengaz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.201015046Z",
+  "model": "glm-5.3"
+}

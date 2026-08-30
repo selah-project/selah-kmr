@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Û Îsraêl ji nav wan derxist — ji ber ku xeseda wî heta hertimî ye.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Û... derxist"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "ji nav wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xeseda wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:09.989174732Z",
+  "model": "glm-5.3"
+}

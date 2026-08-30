@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Yahwe dê bibe birca bilind ji bo bindestan, birca bilind di demên tengahiyan de.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û dê bibe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "birca bilind"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ji bo bindestan"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "birca bilind"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "di demên"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tengahiyan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:07.469106182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Kî dikare hêzên Yahwe bibêje? Kî dikare ⟨hemû⟩ pesnê wî bidihîne?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "dikare bibêje"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "dikare bidihîne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨hemû⟩"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pesnê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:57.301500582Z",
+  "model": "glm-5.3"
+}

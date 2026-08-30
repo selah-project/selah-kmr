@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Tenê ⟨את⟩ kabileya Lêwî nejmêre û ⟨את⟩ serê wan di nav zarokên Îsraêl de negre.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabileya Lêwî"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabile"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lêwî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "nejmêre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "serê wan"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "serê wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "negre"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T03:32:10.936744519Z",
+  "model": "glm-5.3"
+}

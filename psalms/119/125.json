@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ezd kedayî te me; fêmê bidê min, da ku ez şahidiyên te bizanibim.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "kedayî te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "fêmê bidê min"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "da ku ez bizanibim"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şahidiyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:39.581802444Z",
+  "model": "glm-5.3"
+}

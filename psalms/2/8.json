@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji min re bixwaze, û ez ê neteweyan wekî mîrata te bidim te, û dawiyên erdê wekî milkê te.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "bixwaze"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "û ez ê bidim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mîrata te"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "û milkê te"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dawî"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:36.662898020Z",
+  "model": "glm-5.3"
+}

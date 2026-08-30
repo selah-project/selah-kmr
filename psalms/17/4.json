@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Ez ji kirinên mirovan, bi peyva lêvên te, xwe ji rêyên zordest parisandim.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "ji kirinên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bi peyva"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lêvên te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "xwe … parisandim"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ji rêyên"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "zordest"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:09.355853910Z",
+  "model": "glm-5.3"
+}

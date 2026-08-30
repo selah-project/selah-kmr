@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Û derbasgehên ⟨vegerîn girtin⟩ hatin girtin, û ⟨את⟩ çêman bi agir şewitandin, û şervan dijiwaşin û ditirsin.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "derbasgeh"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "hatin girtin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çêman"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "çêm"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "şewitandin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "û şervan"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "diwaşin"
+    }
+  ],
+  "timestamp": "2026-08-30T03:40:34.372532133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Şêrên ciwan ji bo talan difirin û ji Êl xwarina xwe digerin.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "Şêrên ciwan"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "difirin"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "ji bo talan"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "û digerin"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "ji Êl"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "xwarina xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:50.032441745Z",
+  "model": "glm-5.3"
+}

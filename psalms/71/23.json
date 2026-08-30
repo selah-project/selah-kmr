@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Lêvên min dê kêfxweş bistrênin, çimkî ez ji te re distrênim, û canê min ê ku te xilas kir.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "kêfxweş bistrênin"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "distrênim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "te xilas kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:42.221071176Z",
+  "model": "glm-5.3"
+}

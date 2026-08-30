@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Bêrok be tu di hatina xwe de, û bêrok be tu di derketina xwe de.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bêrok be"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "di hatina xwe de"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "û bêrok be"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "di derketina xwe de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:52.220304968Z",
+  "model": "glm-5.3"
+}

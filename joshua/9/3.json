@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û şêniyên Gibonê bihîstin ⟨את⟩ tiştê ku Yehoşua ji bo Yerîho û ji bo Ayê kiribû.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "şêniyên"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibonê"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bihîstin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku Yehoşua kiribû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiribû"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "ji bo Yerîho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "û ji bo Ayê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:17:13.125071113Z",
+  "model": "glm-5.3"
+}

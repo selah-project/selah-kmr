@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Dema ku Îsraêl zarok bû, ez evîndarê wî bûm, û ji Mîtsrayimê min kurê xwe gazî kir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "û min jê hez kir"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "û ji Mîtsrayimê"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "min gazî kir"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kurê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:04:30.377411803Z",
+  "model": "glm-5.3"
+}

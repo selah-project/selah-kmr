@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ez di dîtinên serê xwe de, li ser sehetê xwe dilîtam, û lê bin! Çavdêrekî û pîrozekî ji ezmanan daket.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "dilîtam"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ez bûm"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "di dîtinên"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "sehetê xwe"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "û lê bin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Çavdêrekî"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "û pîrozekî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "daket"
+    }
+  ],
+  "timestamp": "2026-08-30T06:17:33.852915366Z",
+  "model": "glm-5.3"
+}

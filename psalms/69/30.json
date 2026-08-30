@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ez ê jî xizan im û bi êş im; rizgariya te, Elohîm, dê min bilind bike.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ez-ê-jî"
+    },
+    {
+      "surface": "עני",
+      "gloss": "xizan"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "û-bi-êş"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "rizgariya-te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "dê-min-bilind-bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:24.783656221Z",
+  "model": "glm-5.3"
+}

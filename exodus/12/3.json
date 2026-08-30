@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Hûn bibêjin hemû civata Yisraêlê: Di dehemîn ê vê meh de her kes ji xwe re mihêkê bigire, li gorî malê bavê xwe — mihêke ji bo her malê.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "di dehemîn ê"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ê vê meh"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mihêkê"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ji bo malê"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mihêke"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ji bo her malê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:44.065278190Z",
+  "model": "glm-5.3"
+}

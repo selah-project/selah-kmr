@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ⟨את⟩ xudayên wan di agir de avêtin, ji ber ku ew xuda nebûn, lê berhemê destên mirovan — dar û kevir; û wan helak kirin.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "û … avêtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xudayên wan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "xudayên wan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "di agir de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xuda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lê"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "berhemê"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "û kevir"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "û wan helak kirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:23:54.596703055Z",
+  "model": "glm-5.3"
+}

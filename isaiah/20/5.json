@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Wê tirsin û şerm bikin ji Kûş, hêviya wan, û ji Mîtsrayim, rûmeta wan.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "wê tirsin"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "û şerm bikin"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "ji Kûş"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "hêviya wan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "rûmeta wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:32:40.402694878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û tu xwîna bêguneh ji nav xwe dûr bibe, ji ber ku tu ya rast di çavên Yahwe de dikî.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Û tu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "dûr bibe"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "bêguneh"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ji nav xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dikî"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ya rast"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:02.196371199Z",
+  "model": "glm-5.3"
+}

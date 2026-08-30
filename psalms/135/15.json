@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Pûtên neteweyan zîv û zêr in, karê destên mirovan.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "pûtên"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neteweyan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "û zêr"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karê"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:57.126532466Z",
+  "model": "glm-5.3"
+}

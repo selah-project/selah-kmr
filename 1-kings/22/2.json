@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û di sala sêyemîn de bû ku Yehoşafat, padîşahê Yehûda, daket ba padîşahê Yisraêl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "di sala"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "sêyemîn"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "daket"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:41.847356565Z",
+  "model": "glm-5.3"
+}

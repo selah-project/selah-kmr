@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Kurê Deker, li Makats, û li Şaalbîm, û li Beyt Şemeş, û Êylon-Beyt-Çanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Kurê"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "li Makats"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "û li Şaalbîm"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "û li Beyt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Şemeş"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "û Êylon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Çanan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:29.180246984Z",
+  "model": "glm-5.3"
+}

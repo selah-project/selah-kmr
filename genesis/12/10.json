@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û çirîsî çûbû di ⟨the⟩ erdê de, û Ebram daket Mîtsrayimê ku li wir mêvan bimîne, ji ber ku giran bû çirîsî di ⟨the⟩ erdê de.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çûbû"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "çirîsî"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di ⟨the⟩ erdê de"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "daket"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Ebram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ku mêvan bimîne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "giran bû"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "çirîsî"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di ⟨the⟩ erdê de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:36.307911192Z",
+  "model": "glm-5.3"
+}

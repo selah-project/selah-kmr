@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji ber ku ger hûn bi rastî baştir bikin rêyên xwe û kirinên xwe, ger hûn dadê bi cih bikin di navbera mirov û hevalê wî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "bi rastî baştir"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rêyên xwe"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "rêyên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kirinên xwe"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "kirinên xwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bi cih"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadê"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:51:52.359656146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Yahwe ji Moşe re got: Heta kengê hûn red dikin ku fermanên min û Tora min bihêzin?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "hûn red dikin"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ku … bihêzin"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "fermanên min"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "û Tora min"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:10.344648589Z",
+  "model": "glm-5.3"
+}

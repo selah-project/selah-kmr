@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Moşe wan ⟨אתם⟩ li ser devê Yahwe bijmêrî, wekî ku ⟨hatibû⟩ emir kirin.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "bijmêrî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wan (Lêwî)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hatibû emir kirin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:16.227796136Z",
+  "model": "glm-5.3"
+}

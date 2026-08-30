@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Min ji te re ji wê demê ve ragihand, berî ku ⟨tu⟩ were, min didehîstandin — da ku tu nebêjî: „Pûtên min ew çêkirin, û pûten min ên hişkkirî û yên rijandî ferman da wan.“",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "min ragihand"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ji wê demê ve"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "berî ku"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "were"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "min dadehîstandin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ku…ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "tu nebêjî"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "pûtên min"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "ew çêkirin"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "û yên hişkkirî yên min"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "û yên rijandî yên min"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ferman da wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:43:24.607933625Z",
+  "model": "glm-5.3"
+}

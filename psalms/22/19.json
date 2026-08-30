@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ew kincên min di nav xwe de parve dikin û li ser xerçika min goran davêjin.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "parve dikin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kincên min"
+    },
+    {
+      "surface": "להם",
+      "gloss": "di nav xwe de"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "xerçika min"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "davêjin"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "goran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:36.430295724Z",
+  "model": "glm-5.3"
+}

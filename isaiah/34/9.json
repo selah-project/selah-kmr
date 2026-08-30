@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Çemên wê dê werin guhertin bo ziftê, û toza wê bo kibrîtê; û erdê wê dibe ziftê ⟨yê⟩ dişewitîne.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "dê werin guhertin"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "çemên wê"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "bo ziftê"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "û toza wê"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "bo kibrîtê"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "û dibe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "erdê wê"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "ziftê"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "yê dişewitîne"
+    }
+  ],
+  "timestamp": "2026-08-29T20:38:06.586879658Z",
+  "model": "glm-5.3"
+}

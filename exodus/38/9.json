@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û ⟨את⟩ deriyê çêkir — aliyê başûr, ber bi başûr ve, perdeyên deryî yên hevrîşimî, sed bi amme dirêj bûn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "der"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "aliyê"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "başûr"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ber bi başûr ve"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "perdeyên"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "deryî"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hevrîşimî"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "qumaşê pêçandî"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "bi amme"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:10.594698966Z",
+  "model": "glm-5.3"
+}

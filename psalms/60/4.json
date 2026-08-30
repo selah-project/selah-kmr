@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Te erd hejand, te wê şeqand; qelişên wê derman bike, ji ber ku ew dilerize!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "te hejand"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "te wê şeqand"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "derman bike"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "qelişên wê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ew dilerize"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:03.641624325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û padîşah rûyê xwe bizivirand û ⟨את⟩ hemû civata Îsraêlê pîroz kir, û tevaya civata Îsraêlê radiwestiya.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "bizivirand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê xwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "pîroz kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû civata Îsraêlê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "tevaya"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "radiwestiya"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:57.308861269Z",
+  "model": "glm-5.3"
+}

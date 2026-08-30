@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û birayên wî dîtin ku bavê wan ji hemû birayên wî zêdetir ⟨את⟩ wî dixwazîn; û ji ⟨את⟩ wî nefret kirin û nedikarîn bi aştiyane biaxivinan.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "û dîtin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dixwazîn"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bavê wan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên wî"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "û nefret kirin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dikarîn"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "biaxivinan"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "bi aştiyane"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:14.680235264Z",
+  "model": "glm-5.3"
+}

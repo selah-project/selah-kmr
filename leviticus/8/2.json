@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "“Aharon û kurên wî bi xwe re bîne, û ⟨את⟩ cilan, û ⟨את⟩ rûnê meshê, û ⟨את⟩ ga yê gunehê, û ⟨את⟩ du bizinan, û ⟨את⟩ sebetê nanên mayî.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kurên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bi wî re ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "cilan"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "cilan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûnê meshê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "meshê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ga yê gunehê"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yê gunehê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "du bizinan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "sebetê nanên mayî"
+    },
+    {
+      "surface": "סל",
+      "gloss": "sebetê"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "nanên mayî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:18.146066820Z",
+  "model": "glm-5.3"
+}

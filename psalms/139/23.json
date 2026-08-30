@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Êl, min bi lêkolîn bigire û dilê min bizane; min bihûne û ramanên min bizane.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "min bi lêkolîn bigire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "û bizane"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "min bihûne"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "û bizane"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ramanên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:51.653994066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Elohîm, ne bêdeng bî, ne bêdeng bimîne û aşit nebe, Êl.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "bêdeng bî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "bêdeng bimîne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "aşit nebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:17.151083297Z",
+  "model": "glm-5.3"
+}

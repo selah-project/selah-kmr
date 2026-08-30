@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ez ⟨את⟩ pêxemberan neşand — ew qelibîn; ez bi wan re nepeyivî — ew pêxemberî kirin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "neşand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêxemberan"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "qelibîn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nepeyivî"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "pêxemberî kirin"
+    }
+  ],
+  "timestamp": "2026-08-29T21:00:00.164439372Z",
+  "model": "glm-5.3"
+}

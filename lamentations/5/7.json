@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Bavên me guneh kirin, ew êdî in în — em jî sûcên wan kişandin li ser xwe.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "guneh kirin"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ew êdî in în"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em jî"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "sûcên wan"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "kişandin li ser xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:49.216252755Z",
+  "model": "glm-5.3"
+}

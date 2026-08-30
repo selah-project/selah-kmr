@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û wan ⟨את⟩ xwedawendên xwe li wr hiştin, û Dawid got, û ew di agir de hatin şewitandin.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Û wan ... hiştin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwedawendên xwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "xwedawendên xwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ... got"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "û ew ... hatin şewitandin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "di agir de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:36:49.683521361Z",
+  "model": "glm-5.3"
+}

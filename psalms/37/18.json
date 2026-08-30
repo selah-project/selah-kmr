@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Yahwe rojên yên temam dinase, û mîrata wan bo hertimê dimîne.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "dinase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "yên temam"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "û mîrata wan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bo hertimê"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dimîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:50.912843123Z",
+  "model": "glm-5.3"
+}

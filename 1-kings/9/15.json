@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ev bûyera leonê (karkirina bi zorê) ya ku key Şelomo bilind kiribû: ji bo avakirina ⟨את⟩ Mala Yahwe û ⟨את⟩ mala wî û ⟨את⟩ Mîloyê û ⟨את⟩ dîwarê Yeruşalayimê û ⟨את⟩ Hatsorê û ⟨את⟩ Megîdo û ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bûyera"
+    },
+    {
+      "surface": "המס",
+      "gloss": "leonê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bilind kiribû"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ji bo avakirina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mala Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mala wî"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mîloyê"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Mîloyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dîwarê Yeruşalayimê"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "dîwarê"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsorê"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsorê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Megîdo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megîdo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:04.259838003Z",
+  "model": "glm-5.3"
+}

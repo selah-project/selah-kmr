@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Ew ê ku hatirên odeyên xwe yên bilind di avê de datîne, ewrên xwe yên req dikuje şîpanya xwe, û li ser baskên bayê digere.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "hatirên odeyên... datîne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avê de"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "odeyên wî yên bilind"
+    },
+    {
+      "surface": "השם",
+      "gloss": "dikuje"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "ewrên req"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "şîpanya wî"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "digere"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "baskên"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.699985613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Peymana min bi ⟨את⟩ wî re ji jiyînê û aşitiyê bû; û min ditirsandin û aşitiyê dane wî; ew ji min ditirsî û ji ber navê min hate serê xwe xwarê.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "Peymana min"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî re",
+      "marks": "ji wî re"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ji jiyînê"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "û aşitiyê"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "û min ... dane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "ditirsandin"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "ew ji min ditirsî"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "û ji ber"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "navê min"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "hate serê xwe xwarê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:38.532437918Z",
+  "model": "glm-5.3"
+}

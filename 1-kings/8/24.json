@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ku tu ji bo bendavê xwe Dawid, bavê min, ⟨את⟩ wê parast ku te bi wî re got; û te bi devê xwe axivî û bi destê xwe bi cih anî, wekî roja îro.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "tu parast"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ji bo bendavê xwe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wê (ya ku hatibû gotin)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "te got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "û te axivî"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "bi devê xwe"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "û bi destê xwe"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "bi cih anî"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wekî roja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:54.844403307Z",
+  "model": "glm-5.3"
+}

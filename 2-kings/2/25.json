@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ji wir çû bal Çiyayê Karmelê, û ji wir vegeriya Şomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Çiyayê"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelê"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "û ji wir"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:30.602911485Z",
+  "model": "glm-5.3"
+}

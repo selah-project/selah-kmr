@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ew daxist nav gorezgehê û li gorî hemû tiştê ku xezûra wê ferman kiribû, kir.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "û ew daxist"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gorezgehê"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "û kir"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "li gorî hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "ferman kiribû"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "xezûra wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:34.344667276Z",
+  "model": "glm-5.3"
+}

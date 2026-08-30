@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Ji bo ku serleshêrên wî bi dilê wî girêbide, û kalên wî biaqil bike.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ji bo girêdanê"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "serleshêrên wî"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "bi dilê wî"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "û kalên wî"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "biaqil bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:36.183359236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û ⟨את⟩ Qedeq li Gelîlî, li çiyayê Naftalî, û ⟨את⟩ Şekem li çiyayê Efrayim, û ⟨את⟩ Qiryat-Arba — ew Hevron e — li çiyayê Yehuda veqetandin.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Û veqetandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedeq"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedeq"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "li Gelîlî"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Şekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Qiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron e"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:23.907669988Z",
+  "model": "glm-5.3"
+}

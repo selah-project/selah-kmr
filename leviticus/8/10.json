@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Moşe ⟨את⟩ rûnê xelkdanînê girt û ⟨את⟩ çadirmê xelk da û ⟨את⟩ hemû tiştê ku tê de ye; û ⟨את⟩ wan pîroz kir.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûnê xelkdanînê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xelkdanînê"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "xelk da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadirmê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "çadirmê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştê ku tê de ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de ye"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "pîroz kir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:09.770136935Z",
+  "model": "glm-5.3"
+}

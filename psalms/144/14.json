@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Ga yên me bi bar in, windatuneye, derketin tuneye, qêrîn tuneye di meydanên me de.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ga yên me"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "bi bar in"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tuneye"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "winda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tuneye"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tuneye"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "qêrîn"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "di meydanên me de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:09.626839522Z",
+  "model": "glm-5.3"
+}

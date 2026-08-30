@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Hatakh hat û ji Ester re ⟨את⟩ peyvên Mordexay ragihand.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ji Ester re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên Mordexay"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordexay"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:57.595416731Z",
+  "model": "glm-5.3"
+}

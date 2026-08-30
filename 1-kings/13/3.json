@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û wî di wê rojê de nîşanek da, got: Ev e nîşana ku Yahwe bi wê axivîye: Binêre, altar dê biqelişe û kûlîşka ku li ser wê ye dê were rijandin.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Û da"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê de"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "nîşanek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "nîşana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivîye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Binêre"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "dê biqelişe"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "û dê were rijandin"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kûlîşka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê ye"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:52.466090136Z",
+  "model": "glm-5.3"
+}

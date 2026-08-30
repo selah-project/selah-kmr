@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Û piştre ez ê şemitîya kurên Ammon vegerînim ⟨את⟩, nûşandina Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "û piştre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "paşê"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ez ê vegerînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şemitîya kurên Ammon"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "şemitî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nûşandina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T03:39:59.418612987Z",
+  "model": "glm-5.3"
+}

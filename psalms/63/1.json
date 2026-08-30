@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Mezmûrek ji bo Dawid, di dema wî de, di çolê Yehûdayê de.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mezmûrek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "di dema wî de"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûdayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:02.777639427Z",
+  "model": "glm-5.3"
+}

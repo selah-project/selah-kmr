@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Hêza min û strana min Yah e, û ⟨ew⟩ bûye ji min re xilasî.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "û strana min"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "xilasî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:37.368481192Z",
+  "model": "glm-5.3"
+}

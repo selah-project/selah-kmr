@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Xelayeta me! Kê em ji destê van Elohîmên hêzdar rizgar bike? Ev in ew Elohîmên ku ⟨את⟩ Mîtsrayim bi her pelî di çolê da dan.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Xelayeta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîmên"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ev in"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîmên"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîtsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi her"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pelî"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê da"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:52.354564945Z",
+  "model": "glm-5.3"
+}

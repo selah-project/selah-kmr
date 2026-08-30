@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ne daxwaza xwarinên têne yên wî bike, ew xwarina derewê ye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "daxwaz ... bike"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "xwarinên têne yên wî"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "derewê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:19.137085410Z",
+  "model": "glm-5.3"
+}

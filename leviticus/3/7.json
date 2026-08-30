@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ger razekê bîne nêzîk, qurbanê xwe ⟨את⟩, wê ⟨אתו⟩ li ber Yahwe bîne.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "razek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "bîne nêzîk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanê wî"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbanê xwe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "wê bîne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ew (razek)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:35.799682627Z",
+  "model": "glm-5.3"
+}

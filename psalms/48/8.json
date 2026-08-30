@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Tu keştiyên Tarşîş bi bayê rojhilatê dişikînî.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "bi bayê"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "rojhilatê"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "dişikînî"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "keştiyên"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşîş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:15.511816586Z",
+  "model": "glm-5.3"
+}

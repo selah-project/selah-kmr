@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Ya yekem û bîstî ji bo Yakîn, ya duyem û bîstî ji bo Gamul.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ji bo Yakîn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekem"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "û bîstî"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ji bo Gamul"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duyem"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "û bîstî",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-30T06:40:14.781977484Z",
+  "model": "glm-5.3"
+}

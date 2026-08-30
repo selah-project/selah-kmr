@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Kurên HaSenaah ⟨את⟩ deriyê masiyan avakirin; ew ew bi dîwar danî, deriyên wî, qufulên wî û darikên wî saz kirin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deriyê masiyan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "derî"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "masiyan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "avakirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "HaSenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "bi dîwar danî"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "saz kirin"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "deriyên wî"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "qufulên wî"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "darikên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:27:30.595400927Z",
+  "model": "glm-5.3"
+}

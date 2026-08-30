@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Derdên wî yê şa reş pir in; lê yê ku bawer dike di Yahwe de, xesed dorpêçe wî dike.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "pir"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "derd"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "yê şa reş"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "û yê ku bawer dike"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe de"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "dorpêçe wî dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:25.108839873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Û min got: 'Tenê tarîtî wê min bitewîne' — lê şev ronahî li dora min e.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Û min got"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Tenê"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarîtî"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "wê min bitewîne"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lê şev"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "li dora min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:19.527787379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 64,
+  "translation": "Ji bo ku di veşartîyan de li ⟨bêkêşan⟩ bide tîrbarkirin — nişkoj wî didin û natirsin.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "ji bo ku bide tîrbarkirin"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di veşartîyan de"
+    },
+    {
+      "surface": "תם",
+      "gloss": "bêkêş"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "nişkoj"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "wî didin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "tirsin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:24.006190585Z",
+  "model": "glm-5.3"
+}

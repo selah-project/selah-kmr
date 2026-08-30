@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Tu rêya jiyanê didî min zanîn; têrî şahiyê ⟨את⟩ rûyê te ye; di rastê te de hêcan in, heta hetanê.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Tu … didî min zanîn"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rêya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyanê"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "têrî"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "şahiyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê te"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "hêcan"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "di rastê te de"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "heta hetanê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:59.036181464Z",
+  "model": "glm-5.3"
+}

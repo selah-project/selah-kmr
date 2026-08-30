@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Evîl ji ber rêya serhildana xwe û ji ber gunehên xwe hatin tengkirin.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "evîl"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ji ber rêya"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "serhildana xwe"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "û ji ber gunehên xwe"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "hatin tengkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:28.566216568Z",
+  "model": "glm-5.3"
+}

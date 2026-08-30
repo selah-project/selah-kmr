@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 138,
+  "translation": "Ger ez di nava tengasiyê de biçim, Te ez zindî dikî; Te destê xwe li dijî hêrsa dijminên min dişîne, û destê rastê yê te ez xilas dikî.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ez biçim"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tengasiyê"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "Te zindî dikî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrsa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "dişîne"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "û ez xilas dikî"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "destê rastê yê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:57.195714364Z",
+  "model": "glm-5.3"
+}

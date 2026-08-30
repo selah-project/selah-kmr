@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Gava wî Îsraêl ricifand, Yehonatan kurê Şima, birayê Dawid, wî kuşt.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ricifand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wî kuşt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Şima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T06:39:41.650321912Z",
+  "model": "glm-5.3"
+}

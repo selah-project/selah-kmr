@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Wê çaxê Şelomo got: «Yahwe got ku ewê di ewrê tarî de cih bigire.»",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wê çaxê"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "cih bigire"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "di ewrê tarî de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:01.327419514Z",
+  "model": "glm-5.3"
+}

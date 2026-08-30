@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ez padîşahê xwe li ser Siyonê, çiyayê pîroz ê min, bi cih kirî ye.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "bi cih kirî ye"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahê min"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonê"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pîroz ê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:36.662522313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û şîn, û morî-arsûn, û sorê kerme, û kîtan, û mûyên bizinan.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "Û şîn"
+    },
+    {
+      "surface": "וירגמן",
+      "gloss": "Û morî-arsûn"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "Û sorê kerme"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sor"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "Û kîtan"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "Û mûyên bizinan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:24.712681577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "û ez ê rehmê ji we re bidim, û wî dê rehmê bi we bike, û wî dê we vegerîne ser axa we.”",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "û ez ê bidim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rehm"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "û wî dê rehmê bike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "û wî dê vegerîne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "axa we"
+    }
+  ],
+  "timestamp": "2026-08-29T21:07:46.206387054Z",
+  "model": "glm-5.3"
+}

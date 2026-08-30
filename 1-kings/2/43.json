@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Çima ji ber vê yekê tu ⟨את⟩ sonda Yahwe û ⟨את⟩ fermana ku min li ser te dane parastine?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "çima ji ber vê yekê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "parastine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonda Yahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sonda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fermana"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "min dane"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:16.984205967Z",
+  "model": "glm-5.3"
+}

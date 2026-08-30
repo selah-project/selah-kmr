@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 133,
+  "translation": "Wek rûnê qenc ê serî, yê dadigire ser rihê — riha Aharon — yê dadigire ser devê libasên wî.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Wek rûnê"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "qenc"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "serî"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "dadigire"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "rihê"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "riha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "yê dadigire"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "libasên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:26.478478711Z",
+  "model": "glm-5.3"
+}

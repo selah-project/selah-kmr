@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "«Yê ji malbata Ehab ku di bajar de dimire wê kûçik bixwin, û yê ku di zeviyê de dimire wê balindeyên ezmanan bixwin.»",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Yê ... dimire"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ji malbata Ehab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajar de"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wê ... bixwin"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "kûçik"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "û yê ku ... dimire"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wê ... bixwin"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "balindeyên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:56.585849335Z",
+  "model": "glm-5.3"
+}

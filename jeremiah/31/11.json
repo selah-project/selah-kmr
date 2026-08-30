@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Çimkî Yahwe ⟨את⟩ Yaqoub xilas kir û ji dest ê ji wî hêzdartir wê azad bike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "xilas kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqoub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqoub"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "û wê azad bike"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji dest"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hêzdartir"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-29T21:01:57.844949004Z",
+  "model": "glm-5.3"
+}

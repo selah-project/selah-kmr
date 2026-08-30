@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ⟨wî⟩ got: \"Wê bavêje erdê!\" Û wî ⟨wê⟩ avêt erdê, û ⟨wê⟩ bû mar, û Moşe ji ber wî reviya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ⟨wî⟩ got"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "wê bavêje"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "û ⟨wê⟩ avêt"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û ⟨wê⟩ bû"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "mar"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "reviya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ji ber wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:16.949526659Z",
+  "model": "glm-5.3"
+}

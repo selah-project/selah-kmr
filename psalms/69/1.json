@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ji bo serokê muzîkvanan, li gorî «Şûşannim» (lalan), ji Dawid re.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkvanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "«Şûşannim» (lalan)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:45.231339105Z",
+  "model": "glm-5.3"
+}

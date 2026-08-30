@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elohîm navê reqîayê kir ezman; û êvar bû û sibeh bû — roja duyem ⟨bû⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Û … navê … kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "reqîayê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û … bû"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "êvar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û … bû"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sibeh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duyem"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:26.076401521Z",
+  "model": "glm-5.3"
+}

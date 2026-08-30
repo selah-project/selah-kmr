@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Bi tirs xizmetê ⟨את⟩ Yahwe bikin, û bi lerizîn şahî bikin.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "xizmetê bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "bi tirs"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "û şahî bikin"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "bi lerizîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:54.782513568Z",
+  "model": "glm-5.3"
+}

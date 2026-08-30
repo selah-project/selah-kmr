@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û tu çêkîrî dikevîyên wî, kûpikên wî, bergirtinên wî û fîreqanên wî, ku bi wan tê rêdkirin — ji zêrê paqij tu wan çêkî ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "û tu çêkî"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "dikevîyên wî"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "kûpikên wî"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "bergirtinên wî"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "fîreqanên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "tê rêdkirin"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu çêkî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (dikevî, kûpik, bergirtin, fîreqan)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:46.996648351Z",
+  "model": "glm-5.3"
+}

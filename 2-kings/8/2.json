@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 8:2",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û jin rabû û li gorî peyva mêrê Elohîm kir, û ew bi xwe û mala xwe çûn û heft salan li welêt Filistîstiyan bi cih bûn.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "kir"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "li gorî peyva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew bi xwe"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "û mala xwe"
+    },
+    {
+      "surface": "ותגר",
+      "gloss": "bi cih bû"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welêt"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistîstiyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:09.741574972Z",
+  "model": "glm-5.3"
+}

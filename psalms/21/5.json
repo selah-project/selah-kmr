@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Jiyan ji te xwest, tu daye wî — dirêjahiya rojan, hertim û hertim.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "jiyan"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "xwest"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ji te"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tu daye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dirêjahî"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:14.937556287Z",
+  "model": "glm-5.3"
+}

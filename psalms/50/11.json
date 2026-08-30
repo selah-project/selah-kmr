@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Ez hemû balindeyên çiyayan dinasim, û zîzên zeviyan bi min in.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "dinasim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "balindeyên"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyayan"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "û zîzên"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zeviyan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bi min in"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:08.805072061Z",
+  "model": "glm-5.3"
+}

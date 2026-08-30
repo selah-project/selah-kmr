@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ger tu ⟨את⟩ vê peyva me eşkere bikî, em ê ji vî sondê te yê ku te dayê me paqij bibin.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "eşkere bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyva me"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "peyva me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "em ê bibin"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "ji sondê te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "te dayê me"
+    }
+  ],
+  "timestamp": "2026-08-29T19:14:54.061374502Z",
+  "model": "glm-5.3"
+}

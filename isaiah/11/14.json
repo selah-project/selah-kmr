@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û dê bifirin ser milan Filistiyan ber bi rojava, bi hev re dê ⟨את⟩ zarokên rojhilat talan bikin; Edom û Moab dirêjkirina destê wan dê bin, û zarokên Ammon jî dê bi fermana wan bin.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "dê bifirin"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "ser milan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ber bi rojava"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "dê talan bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên rojhilat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "rojhilat"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "û Moab"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "dirêjkirina"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "destê wan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û zarokên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "bi fermana wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:16.499454591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ew hat Şomeronê û ⟨את⟩ hemû yên mayî yên Ahab li Şomeronê xist, heta ku ewî bi temamî hilweşand, gorî peyva Yahwe ku ewî ji Eliya re got.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeronê"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû yên mayî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "yên mayî"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "yên Ahab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "li Şomeronê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "bi temamî hilweşand"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gorî peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:48.973115063Z",
+  "model": "glm-5.3"
+}

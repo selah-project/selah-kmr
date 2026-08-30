@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û her jinek ji cîrana xwe û ji mêvana di mala wê de, amûrên zîv û amûrên zêr û kirasên daxwaz bike; û hûnê li ser kurên xwe û li ser keçên xwe bidin; û hûnê ⟨את⟩ Mîtsrayimê talan bikin.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "daxwaz bike"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "cîrana wê"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "mêvana"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "di mala wê"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "kirasên"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "hûnê bidin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "kurên we"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "keçên we"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "hûnê talan bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîtsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:24.858417642Z",
+  "model": "glm-5.3"
+}

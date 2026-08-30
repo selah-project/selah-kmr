@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Şaul heta bajarê Emelek hat û di newalê de xwe veşart.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Emelek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "xwe veşart"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di newalê de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:43.320582158Z",
+  "model": "glm-5.3"
+}

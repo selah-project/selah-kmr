@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û wan erda dildar bêrî kirin, bawerî bi peyva wî neanîn;",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "û wan bêrî kirin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "dildar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bawerî neanîn"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "bi peyva wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:38.594875931Z",
+  "model": "glm-5.3"
+}

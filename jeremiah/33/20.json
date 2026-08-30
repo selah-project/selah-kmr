@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Çawa Yahwe dibêje: Ger hûn peymana min a rojê ⟨את⟩ û peymana min a şevê ⟨את⟩ bidin vedan, û roj û şev di dema xwe de hebin.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Çawa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "bidin vedan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana min a rojê"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana min"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a rojê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peymana min a şevê"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana min"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "a şevê"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "û … ne"
+    },
+    {
+      "surface": "היות",
+      "gloss": "hebin"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "roj"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "û şev"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "di dema xwe de"
+    }
+  ],
+  "timestamp": "2026-08-29T21:03:17.570546996Z",
+  "model": "glm-5.3"
+}

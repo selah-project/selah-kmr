@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Sekî bû, lê min şêwira wî nas nekir — sîmetek li ber çavên min bû; bêdengî, û min deng bihîst —",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "Sekî bû"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê … ne"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "nas kir"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "şêwira wî"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "sîmetek"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "bêdengî"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "û deng"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "bihîst"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:26.198628361Z",
+  "model": "glm-5.3"
+}

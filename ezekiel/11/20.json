@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji bo ku di biryarên min de bimeşin û ⟨את⟩ dadrêsiyên min biparêzin û pêk bînin; û êdî wê bibin ji bo min gel, û ez ê ji bo ⟨את⟩ wan Elohîm bim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "di biryarên min de"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bimeşin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "dadrêsiyên min"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dadrêsiyên min"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "û pêk bînin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "dadrêsî û biryaran"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "û êdî wê bibin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ê ... bim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T03:47:15.868287890Z",
+  "model": "glm-5.3"
+}

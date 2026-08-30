@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ji berî Yahwe agir derket, ⟨את⟩ wan xwar, û ew berî Yahwe mirin.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ji berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "mirin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:32.249015903Z",
+  "model": "glm-5.3"
+}

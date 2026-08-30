@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Çûn û xizmetî ji xwedayên din kirin û li ber wan xwe dan; xwedayên ku wan nedizanîn, û yên ku ji wan re nehatine parekirin.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "xizmetî kirin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xweda"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "yên din"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "xwe dan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "li ber wan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xweda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "wan nedizanîn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "parekirin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:11:17.696634839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Rizgar ke min ji karkirên neqenciyê û ji mêrên xwînê xilas ke min.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "rizgar ke min"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "ji karkirên"
+    },
+    {
+      "surface": "און",
+      "gloss": "neqenciyê"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "û ji mêrên"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "xilas ke min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:28.182253437Z",
+  "model": "glm-5.3"
+}

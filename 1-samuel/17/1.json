@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Pelîştî lihev kom bûn ⟨את⟩ leşkerên xwe ji bo şer, û li Şokoh (Şokoya Yehûdayê) kom bûn, û li navbera Şokoh û Ezêqah, li Efes-Damîm kamp girtin.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "û kom bûn"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelîştî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leşkerên xwe"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "leşkerên xwe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ji bo şer"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "û kom bûn"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Şokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ji bo Yehûdayê"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "û kamp girtin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "li navbera"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Şokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Ezêqah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "li Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damîm"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:11.119155458Z",
+  "model": "glm-5.3"
+}

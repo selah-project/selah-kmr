@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ê ji Yerobeam ku di bajêr de dimire, kûçik wî dixwin; û ê ku di zevî de dimire, balindeyên ezmanan wî dixwin; ji ber ku Yahwe axivîye.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ê ku dimire"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ji Yerobeam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajêr de"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "kûçik"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "û ê ku dimire"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zevî de"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "balindeyên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivîye"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:53.501481957Z",
+  "model": "glm-5.3"
+}

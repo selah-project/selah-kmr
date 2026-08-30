@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ev ên Aharon û Moşe bûn, ku Yahwe ji wan re got: «Zarokên ⟨את⟩ Îsraêlî ji welatê Mîtsrayimê derîne, li gorî çekên wan.»",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ev ên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "û Moşe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "derîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zarokên Îsraêlî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "çekên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:01.065221909Z",
+  "model": "glm-5.3"
+}

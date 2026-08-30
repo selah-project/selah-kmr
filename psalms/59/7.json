@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Ew êvarê vedigerin, wek kûçikan dinalekînin û li dora bajêr digerin.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Ew vedigerin"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "êvarê"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "dinalekînin"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "wek kûçikan"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "û li dora... digerin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajêr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:03.177328077Z",
+  "model": "glm-5.3"
+}

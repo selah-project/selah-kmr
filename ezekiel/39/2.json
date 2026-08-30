@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 39:2",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Ez te dizivirînim, ez te digerim, ez ji aliyan ên dûr ên bakur bilind dikim, û ez tînim ser çiyayên Îsraêl.",
+  "tokens": [
+    {
+      "surface": "ושבבתיך",
+      "gloss": "Ez te dizivirînim"
+    },
+    {
+      "surface": "וששאתיך",
+      "gloss": "ez te digerim"
+    },
+    {
+      "surface": "והעליתיך",
+      "gloss": "ez bilind dikim"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "ji aliyan ên dûr"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bakur"
+    },
+    {
+      "surface": "והבאותך",
+      "gloss": "û ez tînim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "çiyayên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T03:58:21.615526104Z",
+  "model": "glm-5.3"
+}

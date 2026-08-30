@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Kerê birayê xwe ⟨את⟩ an gayê wî yê di rê de ketî nabînî û xwe ji wan venedişîne; bêguman bi wî re rake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerê"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kerê"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "gayê wî"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ketî"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "xwe venedişîne"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "bêguman"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "rake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:43.555605670Z",
+  "model": "glm-5.3"
+}

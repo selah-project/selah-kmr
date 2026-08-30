@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Rastî li pêş wî dimeşe, û gavên wî ji bo rê çêdike.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li pêş wî"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "dimeşe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "û çêdike"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "ji bo rê"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "gavên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:14.297916942Z",
+  "model": "glm-5.3"
+}

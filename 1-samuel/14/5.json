@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ê yek ê li bakur, beramberî Mîkmaş, yê din ê li başûr, beramberî Gîba.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "ê (zinarê bilind)"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "li bakur"
+    },
+    {
+      "surface": "מול",
+      "gloss": "beramberî"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mîkmaş"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "yê din"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "li başûr"
+    },
+    {
+      "surface": "מול",
+      "gloss": "beramberî"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gîba"
+    }
+  ],
+  "timestamp": "2026-08-29T19:38:07.499037901Z",
+  "model": "glm-5.3"
+}

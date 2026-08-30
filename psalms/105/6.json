@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Zêrê Avraham, xulamê wî, kurên Yaakov, bijartiyên wî!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê wî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "bijartiyên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:18.396938986Z",
+  "model": "glm-5.3"
+}

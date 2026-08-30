@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Şahî û xweşî bidê min bibihîstin; bila hestiyên ku te şikestî bilîzin.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "bidê min bibihîstin"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "şahî"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "û xweşî"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "bila bilîzin"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ku te şikestî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:05.619822697Z",
+  "model": "glm-5.3"
+}

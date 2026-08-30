@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ez çavên xwe hildan û min dît, û va, çar qiloç.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "û hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavên xwe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên xwe"
+    },
+    {
+      "surface": "ווארא",
+      "gloss": "min dît"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "qiloç"
+    }
+  ],
+  "timestamp": "2026-08-30T05:08:10.315097776Z",
+  "model": "glm-5.3"
+}

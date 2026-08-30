@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Xweşiyên ⟨⟨ew⟩⟩ gelê ku wisa ye! Xweşiyên ⟨⟨ew⟩⟩ gelê ku Elohîmê wî Yahwe ye!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xweşiyên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ku wisa ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Xweşiyên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "ku Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohîmê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:09.627019309Z",
+  "model": "glm-5.3"
+}

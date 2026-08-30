@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û Şelomo ⟨את⟩ mala xwe çêkir — sêzdeh salan — û ⟨את⟩ hemû mala xwe temam kir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mala xwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala xwe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "û temam kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû mala xwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:09.745808390Z",
+  "model": "glm-5.3"
+}

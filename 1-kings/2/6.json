@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û tu li gorî şîratiya xwe bikî, û kalatiya wî — pirçên spî — nehêle ku bi aştiyê dakeve Şêol.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "û tu bikî"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "li gorî şîratiya te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nehêle"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "dakeve"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "kalatiya wî"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "bi aştiyê"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Şêol"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:11.447892831Z",
+  "model": "glm-5.3"
+}

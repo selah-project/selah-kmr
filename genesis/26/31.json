@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û di beyanî de zû rabûn, û her kes ji bo birayê xwe sond xwar; û Yitsxaq ew şand, û ew ji ⟨את⟩-wî çûn bi aştiyê.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "zû rabûn"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di beyanî de"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "û sond xwarin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ji bo birayê xwe"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "û ew şand"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaq"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "û ew çûn"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ji wî",
+      "marks": "wî"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "bi aştiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:46:21.302597535Z",
+  "model": "glm-5.3"
+}

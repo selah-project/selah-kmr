@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Di hatina Doegê Edomî de, ew ji Şaul re ragihand û jê re got: «Dawid hatiye malê Ahîmelex.»",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "di hatina … de"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomî"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ew ragihand"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji Şaul re"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…î"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahîmelex"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:08.550282772Z",
+  "model": "glm-5.3"
+}

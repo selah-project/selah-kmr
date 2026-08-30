@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "mîrasek ji bo Îsraêlê, xulamê wî, ji bo hertimî xesedê wî ye.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "mîrasek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ji bo Îsraêlê"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:52.775970939Z",
+  "model": "glm-5.3"
+}

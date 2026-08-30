@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û piştî rojan bû, kurên Emmonê li dijî Îsraêlê şer kirin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "piştî rojan"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "şer kirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Emmonê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:29:41.571306494Z",
+  "model": "glm-5.3"
+}

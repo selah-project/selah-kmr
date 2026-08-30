@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û wê bibe ku piştî ku ez ⟨את⟩ wan heland, ez ê vegerim û dilovanîya wan bikim, û ez ê wan vegerînim — her kes bo mîrata xwe û her kes bo welatê xwe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "û wê bibe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "ez heland"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ez ê vegerim"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "û dilovanîya wan bikim"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "û wan vegerînim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "bo mîrata xwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "û her kes"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "bo welatê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:55:21.173576557Z",
+  "model": "glm-5.3"
+}

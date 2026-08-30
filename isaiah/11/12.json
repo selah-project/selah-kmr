@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ê alîyê ji bo gelan bilind bike, û yên hatine avêtin ên Îsraêlê kom bike, û yên belavbûyî yên Yehûdayê ji çar baskên erdê bihev civîne.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "Û ê ... bilind bike"
+    },
+    {
+      "surface": "נס",
+      "gloss": "alîyê"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ji bo gelan"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "û ê ... kom bike"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "yên hatine avêtin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ên Îsraêlê"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "û yên belavbûyî"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yên Yehûdayê"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "ê bihev civîne"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "ji çar"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "baskên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:56.713492544Z",
+  "model": "glm-5.3"
+}

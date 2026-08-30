@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Di sibehê de bi xesedê xwe têr me bike, û em wê bibêjin heyran û em şa bibin di hemû rojên me de.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "têr me bike"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "Di sibehê de"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "bi xesedê xwe"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "û em wê bibêjin heyran"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "û em şa bibin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "rojên me de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:05.290199955Z",
+  "model": "glm-5.3"
+}

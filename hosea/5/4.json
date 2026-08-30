@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Kirinên wan nadin destûrê ku vegerin cem Elohîm ê xwe, çinkî ruhê zînayê di nava wan de ye, û ⟨את⟩ Yahwe nas nakin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "nadin"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "kirinên wan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ku vegerin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîm ê xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinkî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zînayê"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "di nava wan de"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nas nakin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:40.527859913Z",
+  "model": "glm-5.3"
+}

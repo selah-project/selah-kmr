@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Çimkî ji pencereya mala min, bi dûrîkên min ve, min derê nihêrî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "ji pencereya"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mala min"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bi … ve"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "dûrîkên min"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "min derê nihêrî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:05.585810966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Yahwe zêde kir ku dîsa bi min re biaxive, û got:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "zêde kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "biaxive"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:14.432284567Z",
+  "model": "glm-5.3"
+}

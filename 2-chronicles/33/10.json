@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û Yahwe bi Menasheh û bi gelê wî re axivt, lê ⟨ew⟩ guh nedin.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axivt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ויאל... ואל",
+      "gloss": "û bi… re"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê… nedin"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "guh nedin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:53:58.260947314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Yehonatan li Şaûl, bavê xwe, bersiv da ⟨את⟩ û ji wî re got: “Çima wê bê kuştin? Çi kirîye?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Û ... bersiv da"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaûl, bavê xwe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û ji wî re got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wê bê kuştin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kirîye"
+    }
+  ],
+  "timestamp": "2026-08-29T19:43:36.992439566Z",
+  "model": "glm-5.3"
+}

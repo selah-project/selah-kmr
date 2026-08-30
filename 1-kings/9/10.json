@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û di dawiya bîst salan de — di ⟨demê⟩ ku Şelomo ⟨את⟩ her du malan avêtin, ⟨את⟩ malê Yahwe û ⟨את⟩ malê key —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "di dawiya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "avêtin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her du malan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "her du"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "malan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malê Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "malê key"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:39.929166034Z",
+  "model": "glm-5.3"
+}

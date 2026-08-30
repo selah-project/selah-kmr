@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Kevanên Şeolê dora min girtin, dafilên mirinê berê min dan.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "kevanên"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeolê"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "dora min girtin"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "berê min dan"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "dafilên"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:50.264400326Z",
+  "model": "glm-5.3"
+}

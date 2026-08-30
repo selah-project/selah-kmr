@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 5:12",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Loma ji ber ku bavên me hêrsî Êlahayê ezman anîn, wan da û di destê Nevûkadneçar, padîşahê Babîlê yê Kasdî de hişt; wî vê malê hilweşand û gelê wê sirgûnî Babîlê kir.",
+  "tokens": [
+    {
+      "surface": "להן",
+      "gloss": "loma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "די",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרגזו",
+      "gloss": "hêrs anîn"
+    },
+    {
+      "surface": "אבהתנא",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "Êlahayê"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "da û hişt"
+    },
+    {
+      "surface": "המו",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di destê"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevûkadneçar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "כסדיא",
+      "gloss": "yê Kasdî"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "û vê malê"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "סתרה",
+      "gloss": "hilweşand"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "û gelê wê"
+    },
+    {
+      "surface": "הגלי",
+      "gloss": "sirgûn kir"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babîlê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:23:51.385015272Z",
+  "model": "glm-5.3"
+}

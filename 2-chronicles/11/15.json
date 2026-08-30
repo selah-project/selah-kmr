@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Wî ji bo xwe kahînên bamên bilind danîn, û ji bo şêran, û ji bo dewaran — ên ku wî çêkiribû.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kahînên"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "bamên bilind"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "û ji bo şêran"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "û ji bo dewaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wî çêkiribû"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:25.654344892Z",
+  "model": "glm-5.3"
+}

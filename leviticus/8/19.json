@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨wî⟩ serjê kir; Moşe ⟨את⟩ xwînê li ser gorîgehê dor pê ve rijand.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "serjê kir"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwînê"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gorîgehê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dor pê ve"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:49.824033182Z",
+  "model": "glm-5.3"
+}

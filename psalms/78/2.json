@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ez ê devê xwe bi mesalan veke, tiştên veşartî ji kêniyê heyam derbarim.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ez ê ... veke"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "bi mesalan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê xwe"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "derbarim"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "tiştên veşartî"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kêniyê heyam"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:48.560546973Z",
+  "model": "glm-5.3"
+}

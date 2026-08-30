@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Bi kî re şêwirî, ku wî fam kir û wî di rêya mafê de hînî kir? Kî ji wî re zanîn hînî kir û rêya şîretê nîşanî wî da?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ Bi … re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "şêwirî"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "ku wî fam kir"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "wî hînî kir"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "di rêya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mafê"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "hînî kir"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanîn"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "rêya"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "şîretê"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "nîşanî wî da"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:00.588200644Z",
+  "model": "glm-5.3"
+}

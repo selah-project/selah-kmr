@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û bû ku dema Şaul ji pey Pelîştiyan vegeriya, ji wî re hate gotin ku: Va ye, Dawid li çolê En Gedî ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ku dema"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ji pey"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelîştiyan"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "hate gotin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Va ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:52.004304088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 128,
+  "translation": "Va, bi rastî wusa merivê ku Yahwe ditirse tê bireaketin.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "tê bireaketin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "meriv"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ditirse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:14.541311826Z",
+  "model": "glm-5.3"
+}

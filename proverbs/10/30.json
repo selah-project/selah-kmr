@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Sadiq heta ⟨hertimî⟩ nayê hejandin, lê şaed li erdê rû nakin.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "sadiq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "בל",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hejandin"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "lê şaed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nakin"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "rû kin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:40.298190406Z",
+  "model": "glm-5.3"
+}

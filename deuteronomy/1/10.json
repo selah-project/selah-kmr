@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Yahwe, Elohîmê we, ⟨את⟩ we pirr kir, û hûn îro wekî stêrkên ezmanan bi pirrahî ne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pirr kir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (hûn)"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "û hûn in"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "wekî stêrkên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "bi pirrahî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:45.126504824Z",
+  "model": "glm-5.3"
+}

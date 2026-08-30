@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ew yekî nexweşiyek mezin li Yûna hat û wî acî bû.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "nexweşiyek … hat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yûna"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nexweşî"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "acî bû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:50.908390091Z",
+  "model": "glm-5.3"
+}

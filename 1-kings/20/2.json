@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û ew şand elçîyan bal Axab, keyê Îsraêlê, bo bajêr.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ew şand"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "bo bajêr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:57.446456716Z",
+  "model": "glm-5.3"
+}

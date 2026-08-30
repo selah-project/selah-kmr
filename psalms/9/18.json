@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Nebaş vedigerin Şeolê — hemû neteweyên ku Elohîm ji bîr dikin.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "vedigerin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nebaş"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "Şeolê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neteweyên"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ku ji bîr dikin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:18.564811791Z",
+  "model": "glm-5.3"
+}

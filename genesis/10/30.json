@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Cihê rûniştina wan ji Meşa bû, heta ku meriv digihîje Sefarayê, çiyayê rojhilatê.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "cihê rûniştina wan"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "ji Meşa"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "heta ku meriv digihîje"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sefarayê"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "rojhilatê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:16.645236924Z",
+  "model": "glm-5.3"
+}

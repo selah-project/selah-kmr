@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yahwe Elohîm gazî ⟨the⟩ mirov kir û ji wî re got: «Tu li ku derê yî?»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "li ku derê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:20.938286425Z",
+  "model": "glm-5.3"
+}

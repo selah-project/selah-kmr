@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Bila deyndar bi tawanî tiştê ku ji wî re ye bigire, û biyanî keda wî talan bikin.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "bi tawanî bigire"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "deyndar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tiştê hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "û talan bikin"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "keda wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:02.234278677Z",
+  "model": "glm-5.3"
+}

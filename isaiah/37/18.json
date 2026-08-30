@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Bi rastî, Yahwe, keyên Aşûrê ⟨את⟩ hemû welatan û ⟨את⟩ welatê wan bê ava kirine.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Bi rastî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "bê ava kirine"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "keyên"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû welatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "welatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "welatê wan"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "welatê wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:38:38.670287828Z",
+  "model": "glm-5.3"
+}

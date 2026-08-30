@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Ez Elohîm bi bîr tînim û ez li ber xwe direşim; ez di dilê xwe de dipeyivim, û ruhê min bi zarbûnê dihujt. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ez bi bîr tînim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "û ez direşim"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ez di dilê xwe de dipeyivim"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "û bi zarbûnê dihujt"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhê min"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:38.603416505Z",
+  "model": "glm-5.3"
+}

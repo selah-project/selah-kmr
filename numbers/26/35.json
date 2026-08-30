@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Evîn kurên Efrayim in, li gorî malbatên wan: ji Shutelah malbata Shutelahî, ji Becher malbata Becherî, ji Tahan malbata Tahanî.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Evîn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên wan"
+    },
+    {
+      "surface": "לשותלח",
+      "gloss": "ji Shutelah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "השתלחי",
+      "gloss": "Shutelahî"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "ji Becher"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "הבכרי",
+      "gloss": "Becherî"
+    },
+    {
+      "surface": "לתחן",
+      "gloss": "ji Tahan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "התחני",
+      "gloss": "Tahanî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:33.026742018Z",
+  "model": "glm-5.3"
+}

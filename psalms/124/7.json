@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 124,
+  "translation": "Nefesa me wekî çûçekî ji damên damkêşan filitî; dam şikî û em jî filitîyan.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefesa me"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "wekî çûçekî"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "filitî"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ji damên"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "damkêşan"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "dam"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "şikî"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "û em jî"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "filitîyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.281132392Z",
+  "model": "glm-5.3"
+}

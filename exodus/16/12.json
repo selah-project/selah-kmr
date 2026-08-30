@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "\"Ez ⟨את⟩ gazindên zarokên Yisraêl bihîstine; ji wan re bêje: 'Di navbera êvaran de hûn goşt dixwin, û di sibehê de ji nanê têrdibin; û hûn ê bizanin ku ez im Yahwe, Elohîmê we.'\"",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ez bihîstine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazindên zarokên Yisraêl"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "gazindên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera… de"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "êvaran"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hûn dixwin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "û di sibehê de"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "hûn têrdibin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ji nanê"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "û hûn ê bizanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:08:29.742055534Z",
+  "model": "glm-5.3"
+}

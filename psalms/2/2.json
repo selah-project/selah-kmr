@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Padîşahên erdê xwe radikin û serdar bi hev re civiyan, li dijî Yahwe û li dijî Maşîahê wî.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "xwe radikin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "û serdar"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li dijî"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Maşîahê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:28.945341330Z",
+  "model": "glm-5.3"
+}

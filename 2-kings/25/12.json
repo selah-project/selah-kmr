@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ji kêmtirînên welêt, serokê çavêtiran, hin ji bo rezvaniyê û cotkariyê hişt.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "ji kêmtirînên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hişt"
+    },
+    {
+      "surface": "רב",
+      "gloss": "serokê"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "çavêtiran"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ji bo rezvaniyê"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "û ji bo cotkariyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:25.831384572Z",
+  "model": "glm-5.3"
+}

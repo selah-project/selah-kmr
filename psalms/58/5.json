@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Zêrîna wan mîna zêrîna marekî ye, wek kobra ya ker ku guhê xwe digire.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "zêrîna"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wan"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "mîna"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zêrîna"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "marekî"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wek"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "kobra"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ker"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "digire"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "guhê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:42.661030240Z",
+  "model": "glm-5.3"
+}

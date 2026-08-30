@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ji ber şûrên kişandî reviyan, ji ber şûrê hatî kişandin, ji ber kevanê hatî xwar kirin û ji bin barê şer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "şûrên"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "reviyan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûrê"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "hatî kişandin"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kevanê"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "hatî xwar kirin"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bin barê"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:20.138549117Z",
+  "model": "glm-5.3"
+}

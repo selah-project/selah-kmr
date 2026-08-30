@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Tiştên pir ditbînî, lê wan nagirî; guhên vekirî, lê nabihîze.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ditbînî"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê na"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "wan nagirî"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "vekirî"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "guhên"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê na"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "bibihîze"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:36.155821267Z",
+  "model": "glm-5.3"
+}

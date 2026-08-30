@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 137,
+  "translation": "Eger ez te biberim, Yeruşalayim, rastêya min jibîr bike.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eger"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ez te biberim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "jibîr bike"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "rastêya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:45.360839152Z",
+  "model": "glm-5.3"
+}

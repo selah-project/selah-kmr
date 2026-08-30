@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Binêre! Îro ez li ber te danîne ⟨את⟩ jiyînê û ⟨את⟩ qenciya, û ⟨את⟩ mirinê û ⟨את⟩ xerabiyê.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ez danîne"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li ber te"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiyînê"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jiyînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qenciya"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "û qenciya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mirinê"
+    },
+    {
+      "surface": "המות",
+      "gloss": "û mirinê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xerabiyê"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "û xerabiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:11:13.418550304Z",
+  "model": "glm-5.3"
+}

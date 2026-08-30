@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Ww Aharon û lawên wî ⟨את⟩ goştê qûçê û ⟨את⟩ nanê di sebetê de, li deriyê çadira civînê, bixwin.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "w bixwin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û lawên wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goştê qûçê"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qûçê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "nanê di sebetê de"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "nanê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "di sebetê de"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "li deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:48.410664839Z",
+  "model": "glm-5.3"
+}

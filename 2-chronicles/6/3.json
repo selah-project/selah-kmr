@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Şûnda Şah bizivirî ⟨את⟩ rûyê xwe û xêrat kir ⟨את⟩ tevahiya civata Yisraelê, û tevahiya civata Yisraelê rawestaye sekinî.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "şûnda zivirî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Şah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê xwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "û xêrat kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya civata Yisraelê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelê"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "rawestaye sekinî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:01.327841254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Şemuel ⟨את⟩ hemû peyvên Yahwe ji gelê re got — ên ku ji wî ⟨את⟩ desthilatdar dixwazin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû peyvên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "ên ku dixwazin"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ji wî ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "desthilatdar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:36.547659140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Ew ê ⟨את⟩ zêr û ⟨את⟩ şînê û ⟨את⟩ ergewanê û ⟨את⟩ tolêta şanîyê û ⟨את⟩ kêtanê rûn bigirin.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ew"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ê — bigirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zêr"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "şînê"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "şînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ergewanê"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ergewanê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "tolêta şanîyê"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolêta"
+    },
+    {
+      "surface": "השני",
+      "gloss": "şanîyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kêtanê rûn"
+    },
+    {
+      "surface": "השש",
+      "gloss": "kêtanê rûn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:09.659897322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û tu derên pîroz ji bo Aharon, birayê xwe, çêkî — ji bo rûmetê û ji bo şahidiyê.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Û tu çêkî"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "derên"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ji bo rûmetê"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "û ji bo şahidiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:10.543183642Z",
+  "model": "glm-5.3"
+}

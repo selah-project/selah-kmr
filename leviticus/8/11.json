@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ji wî derbasî ser ⟨את⟩ sifrê kir, heft caran; û ⟨את⟩ sifrê û ⟨את⟩ hemû alavên wî xelk da, û ⟨את⟩ avdanî û ⟨את⟩ seknê wê, ji bo ku wan pîroz bike.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "derbasî ser kir"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sifrê"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "caran"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "xelk da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sifrê"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sifrê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû alavên wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "alavên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "avdanî"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "avdanî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seknê wê"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "seknê wê"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "ji bo ku wan pîroz bike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:09.770376755Z",
+  "model": "glm-5.3"
+}

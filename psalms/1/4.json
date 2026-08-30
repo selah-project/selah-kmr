@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Şaşî ne wiha ne, lê wek pûk in, ku ba wan davêje û dibibe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "şaşî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tenê (pêkutî)"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "wek pûk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "davêje û dibibe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:42.732008584Z",
+  "model": "glm-5.3"
+}

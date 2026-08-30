@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Û Yosef got: 'Malên xwe binin, û ez ê we bi malên we bidim, ger zêr xelas bibûye.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "binin"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "malên xwe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "we"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "bi malên we"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "xelas bibûye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zêr"
+    }
+  ],
+  "timestamp": "2026-08-29T17:58:53.312475105Z",
+  "model": "glm-5.3"
+}

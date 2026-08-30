@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Rûmeta ⟨את⟩ bavê xwe û ⟨את⟩ dayika xwe bigire, ji bo ku rojên te li ser erdê ku Yahwe Elohîmê te dide te dirêj bibin.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Rûmeta … bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê xwe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dayika xwe"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "dayika xwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "dirêj bibin"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "rojên te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:33.375390131Z",
+  "model": "glm-5.3"
+}

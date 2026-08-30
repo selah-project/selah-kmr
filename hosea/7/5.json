@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Roya keyê me serkirde bi germiya şerabê nexweş bûne; ew destê xwe dirêjî ⟨את⟩ goşekaran dike.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "keyê me"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "nexweş bûne"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "serkirde"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "germiya"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "şerabê"
+    },
+    {
+      "surface": "משך",
+      "gloss": "dirêj kir"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goşekaran"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "goşekar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:04:11.804370076Z",
+  "model": "glm-5.3"
+}

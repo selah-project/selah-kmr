@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 33:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û ev ji bo Yehûda ⟨bû⟩; û got: Yahwe, dengê Yehûda bibihîze, û ⟨wî⟩ ji gelê xwe re bîne; destên wî ⟨ji wî re⟩ têr û tije bin, û tu ji dijminên wî re alîkarî bin.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ji bo Yehûda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ji...re"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "תביאנו",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "רב",
+      "gloss": "têr û tije"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "alîkarî"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "ji dijminên wî"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:12:56.298209933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ez ê şa bibim û di te de kêfxweş bibim, ez ê navê te bilîzim, Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ez ê şa bibim"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "û ... kêfxweş bibim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ez ê ... bilîzim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (Bilind)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:15.155607443Z",
+  "model": "glm-5.3"
+}

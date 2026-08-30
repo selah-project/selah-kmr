@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Dê xwerûyan di mîz de rê nîşanî wan bide, û xwerûyan rêya xwe hîn bike.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "dê ... rê nîşanî wan bide"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "xwerûyan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "di mîz de"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "û ... hîn bike"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "xwerûyan"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rêya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:14.317766292Z",
+  "model": "glm-5.3"
+}

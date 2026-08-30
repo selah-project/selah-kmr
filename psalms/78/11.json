@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Karên wî û hewayên wî yên ecêb ji bîr kirin — ên ku wî nîşanî wan dabûn.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ji bîr kirin"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "karên wî"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "hewayên wî yên ecêb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "nîşanî wan dabûn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:28.214836834Z",
+  "model": "glm-5.3"
+}

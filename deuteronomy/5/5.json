@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Ez di wê demê de di navbera Yahwe û we de disekinam, da ku ez ⟨את⟩ peyva Yahwe ji we re bibêjim, ji ber ku hûn ji ber ⟨the⟩ êgir ditirsiyan û neçûn serê çiyê, ku wê gotin:",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "disekinam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "û we de"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di demê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê de"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "da ku ez bibêjim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "hûn ditirsiyan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "האש",
+      "gloss": "êgir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "çûn serê"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku wê gotin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:55.812135937Z",
+  "model": "glm-5.3"
+}

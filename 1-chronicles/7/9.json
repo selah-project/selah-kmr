@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 7:9",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ew li gorî nîjadnamên wan, li pey nifşên wan, hatin hejmartin — serên malên bavên wan, camêrên hêzê — bîst hezar û du sed.",
+  "tokens": [
+    {
+      "surface": "והתיחשם",
+      "gloss": "hatin hejmartin bi nîjadê"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "li gorî nifşên wan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malên"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "camêrên"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêzê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "û du sed"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:47.085661659Z",
+  "model": "glm-5.3"
+}

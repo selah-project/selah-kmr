@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û kahînê ku paqij dike ⟨את⟩ mêrê ku tê paqijkirin û ⟨את⟩ wan herdu berî Yahwe, li deriyê çadira civînê rawestîne.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "Û rawestîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ku paqij dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêrê ku tê paqijkirin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ku tê paqijkirin"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan herdu (qurbanan)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "li deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:26.893422779Z",
+  "model": "glm-5.3"
+}

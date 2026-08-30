@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û nebê ku ⟨את⟩ pîrozên kurên Îsraêlî xerab bikin — ⟨את⟩ tiştê ku ji bo Yahwe hildidin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Û nebê ku"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "xerab bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pîrozên kurên Îsraêlî"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pîrozên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku hildidin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "hildidin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:00.349987452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Li wir ew bi tirs hatin tirsandin, çimkî Elohîm ⟨di⟩ dora ahdaran de ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Li wir"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "hatin tirsandin"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bi tirs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "di dora"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ahdaran de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:48.675433379Z",
+  "model": "glm-5.3"
+}

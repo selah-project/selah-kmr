@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û got: Şelom; ez hatim ku ji bo Yahwe qurbanî bikim; xwe pîroz bikin û hûn bi min re werin bo qurbanîyê. Û Yîşay û kurên wî pîroz kir, û wî ew ji bo qurbanîyê gazî kir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şelom"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ji bo qurbanîyê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ez hatim"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "xwe pîroz bikin"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "û hûn werin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ min re"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "bo qurbanîyê"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "û pîroz kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yîşay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yîşay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kurên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û gazî kir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ji bo qurbanîyê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:30.102958776Z",
+  "model": "glm-5.3"
+}

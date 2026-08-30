@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û Yahwe bi Moşe re axavt, ku bêje:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Û … axavt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku bêje"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:51.062424869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Hin hene ku belav dikin û êdî zêdetir dibin; û ên ji rastiyê didarin, tenê ji bo kêmîyê.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "hin hene"
+    },
+    {
+      "surface": "מפזר",
+      "gloss": "belav dikin"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "û zêdetir dibin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "וחושך",
+      "gloss": "û didarin"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ji rastiyê"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ji bo kêmîyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:44:20.953002513Z",
+  "model": "glm-5.3"
+}

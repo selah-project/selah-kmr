@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 2:34",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Em di wê demê de ⟨את⟩ hemû bajarên wî girtin, em ⟨את⟩ her bajarekî ji bo tunebûnê ji heq navitîn — mêran, jinan û zarokan; tu saxmayî me nehîşt.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "em girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû bajarên wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "bajarên wî"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di wê demê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ונחרם",
+      "gloss": "em ji heq navitîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her bajarekî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarekî"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "jinan"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "zarokan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השארנו",
+      "gloss": "me hîşt"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "tu saxmayî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:17.829977622Z",
+  "model": "glm-5.3"
+}

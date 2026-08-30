@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elohîm qencî li jînên jidayikbûnê kir, û gel pir bû û pir caran bi hêz bûn.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "qencî kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "li jînên jidayikbûnê"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "pir bû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "bi hêz bûn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir caran"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:11.899308971Z",
+  "model": "glm-5.3"
+}

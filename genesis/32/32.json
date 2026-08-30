@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û roj ji bo wî derket, dema ku ew ji ⟨את⟩ Penuel derbas bû; û ew bi ranê xwe çepelt dibû.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "û … derket"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "çepelt dibû"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ranê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:47.459481568Z",
+  "model": "glm-5.3"
+}

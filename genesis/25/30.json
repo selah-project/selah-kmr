@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Esav ji Yaaqov re got: «Da qulîne bitê ⟨ji⟩ vê sor sor a, çimkî ez westiyame.» Ji ber wê yekê navê wî Edom hate binavkirin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "da qulîne bitê"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bitê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sor"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sor"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê … a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "westiyame"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê yekê"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hate binavkirin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:44.987573778Z",
+  "model": "glm-5.3"
+}

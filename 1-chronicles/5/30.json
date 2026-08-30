@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Elazar ⟨את⟩ Pînchas zayî; Pînchas ⟨את⟩ Avîşua zayî.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pînchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pînchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pînchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avîşua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avîşua"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:27.260447913Z",
+  "model": "glm-5.3"
+}

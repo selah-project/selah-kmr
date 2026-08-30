@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ên jêhatî jî nikarîbûn li ber Moşe rawestin, ji ber kînarê, ji ber ku kînar li ser wan jêhatiyan û li ser hemû Mîtsrayiyan bû.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nikarîbûn"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ên jêhatî"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "rawestin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "kînarê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "kînar"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "li ser wan jêhatiyan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û li ser hemû"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:00.199092884Z",
+  "model": "glm-5.3"
+}

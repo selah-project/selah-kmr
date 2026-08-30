@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Çandin ji bo rehîv bilind ⟨e⟩; li derî devê xwe venake.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ji bo rehîv"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "çandin"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "li derî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "venake"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "devê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:58.117751539Z",
+  "model": "glm-5.3"
+}

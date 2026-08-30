@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Ji bo Elohîm stranan bibêjin, bi saz navê wî bilind bikin, rêyekî ji bo yê ku li ser çolan siwar e bilind bikin; bi Yah navê wî ⟨ye⟩, û li pêşiya wî şahiyê bikin.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "stranan bibêjin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji bo Elohîm"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bi saz bibêjin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "bilind bikin"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "ji bo yê siwar"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "li ser çolan"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "bi Yah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "şahiyê bikin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li pêşiya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:05.580993879Z",
+  "model": "glm-5.3"
+}

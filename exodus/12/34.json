@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û gel ⟨את⟩ xwarîneya xwe hîn berî ku turş bibe hilgirt, tekniyên wan bi berçavên wan ve girêdayî li ser milên wan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "hilgirt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwarîneya xwe"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "xwarîneya xwe"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "berî ku"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "turş bibe"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "tekniyên wan"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "girêdayî"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "bi berçavên wan ve"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "milên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:07.557578101Z",
+  "model": "glm-5.3"
+}

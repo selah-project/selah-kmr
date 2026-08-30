@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û tu ê pê re biaxivî û ⟨את⟩ peyvan di devê wî de bi cîh bikî; û ez ê bi devê te û bi devê wî re hebim, û ê ⟨את⟩ we fêr bikim ka hûn ê çi bikin.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "tu ê biaxivî"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pê re"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "bi cîh bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di devê wî de"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ê hebim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "devê te"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi… re"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "devê wî"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ê fêr bikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka hûn ê çi bikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "hûn ê bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:29.430496709Z",
+  "model": "glm-5.3"
+}

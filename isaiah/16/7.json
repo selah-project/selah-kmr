@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ji ber wê yê Moab bêrîne, ji bo Moab — bi tevahî bêrîne; ji bo kekên tirî yên Qîr-Çeres hûnîn bêrînê — rastî ew hatine lêdan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ji ber wê"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "bêrîne"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "ji bo Moab"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "bêrîne"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "ji bo kekên tirî"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Qîr"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "Çeres"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "hûn bêrînê"
+    },
+    {
+      "surface": "אך",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "hatine lêdan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:32:50.028450665Z",
+  "model": "glm-5.3"
+}

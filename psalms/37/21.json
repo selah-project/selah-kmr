@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Xirab debdar digire û venagere; û sadiq dilovanî dike û dide.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "debdebarekê digire"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xirab"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û venagere"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dida paş"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "û sadiq"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "dilovanî dike"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "û dide"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:17.921441535Z",
+  "model": "glm-5.3"
+}

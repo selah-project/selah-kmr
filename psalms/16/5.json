@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Yahwe beşa min e û kasê min; Tu-yî yê texteya min li ser piyan digirî.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "beşa (tê pîvandin)"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "beşa min"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "û kasê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "li ser piyan digirî"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "texteya min (gopal)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:08.333508070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Lê ger ew di çermî de xwedî belavbûnê bibe û belav bibe, kohn wî ⟨את⟩ bi nepaqiyê binary bike; ew zexm e.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lê ger"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "xwedî belavbûnê"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "belav bibe"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di çermî de"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "bi nepaqiyê binary bike"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "zexm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-29T18:28:31.525044315Z",
+  "model": "glm-5.3"
+}

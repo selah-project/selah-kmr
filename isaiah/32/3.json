@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Çavên dîdaran êdî nesteminin, û guliyên guhdaravan dê bi baldarî bihîzin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "nesteminin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "dîdaran"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "û guliyên"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "guhdaravan"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "dê bi baldarî bihîzin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:22.538703540Z",
+  "model": "glm-5.3"
+}

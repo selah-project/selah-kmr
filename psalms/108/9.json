@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Gilad ê min ⟨e⟩; Menaşe ê min ⟨e⟩; Efrayim biryardariya serê min ⟨e⟩; Yehuda qanûndanê min ⟨e⟩.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ê min"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ê min"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "û Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "biryardarî"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "qanûndanê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.632843122Z",
+  "model": "glm-5.3"
+}

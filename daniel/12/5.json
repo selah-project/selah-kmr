@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ez Danîêl min dît, û va, du kesên din sekinibûn: yek li vir li kêleka çemî û yek li wir li kêleka çemî.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "min dît"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danîêl"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û va"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kesên din"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "sekinibûn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "li vir"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "li kêleka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çemî"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "û yek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "li kêleka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çemî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:21:44.406719105Z",
+  "model": "glm-5.3"
+}

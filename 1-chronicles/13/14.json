@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û sandûqa Elohîm sê mehan li cem malbata Oved-Edom, li malê wî rûnişt, û Yahwe ⟨את⟩ malê Oved-Edom û ⟨את⟩ hemû tiştên wî barekat kir.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "li cem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "li malê wî"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mehan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "barekat kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malê Oved-Edom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştên ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:36:28.476757592Z",
+  "model": "glm-5.3"
+}

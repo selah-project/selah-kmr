@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 22:13",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Wê çaxê bi ser bikevî, ger tu biparêzî ku bikî ⟨את⟩ biryarnameyan û ⟨את⟩ hukman, ên ku Yahwe ferman da ⟨את⟩ Moşe li ser Îsraêl; xurt be û hêzdar, netirse û nebişewite.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wê çaxê"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "bi ser bikevî"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "biparêzî"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biryarnameyan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "biryarnameyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hukman"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "xurt be"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "û hêzdar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "netirse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nebişewite"
+    }
+  ],
+  "timestamp": "2026-08-30T06:41:12.167530005Z",
+  "model": "glm-5.3"
+}

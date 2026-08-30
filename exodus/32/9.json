@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û Yahwe ji Moşe re got: «Min ⟨את⟩ vê gelî dît, û mêze, ev gel ê hişkê-mila ⟨ye⟩.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min … dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê gelî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vê gelî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û mêze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ê hişk"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:49.484382950Z",
+  "model": "glm-5.3"
+}

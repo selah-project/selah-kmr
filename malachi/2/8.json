@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 2:8",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û hûn ji rê derketin; hûn gelek kesan di Şerîetê de dan ketinê; hûn Peymana Lêwî xera kirin, got Yahwe-yê Tsabaot.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Û hûn"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rê"
+    },
+    {
+      "surface": "הכשלתם",
+      "gloss": "hûn ... dan ketinê"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek kesan"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "di Şerîetê de"
+    },
+    {
+      "surface": "שחתם",
+      "gloss": "hûn ... xera kirin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Peymana"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Lêwî"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:38.533084984Z",
+  "model": "glm-5.3"
+}

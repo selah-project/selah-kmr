@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û di roja din de, gava Filistî hatin ku mirîyan bi talan bikin, ⟨את⟩ Şaul û ⟨את⟩ sê kurên wî li çiyayê Gîlboa rûbiştî dîtin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "di roja din de"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ku … bi talan bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirîyan"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "mirîyan"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sê"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ketibûn"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gîlboa"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:23.768575806Z",
+  "model": "glm-5.3"
+}

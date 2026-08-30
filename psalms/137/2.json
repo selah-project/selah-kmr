@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 137,
+  "translation": "Li ser biqên havînê di nava wan de me kînarên xwe da darve.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "biqên havînê"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "di nava wan de"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "me da darve"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kînarên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:55.510044076Z",
+  "model": "glm-5.3"
+}

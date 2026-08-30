@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Ahîtûb ⟨את⟩ Tsadok bi dest pê anî, û Tsadok ⟨את⟩ Şallûm bi dest pê anî.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "û Ahîtûb"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi dest pê anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "û Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi dest pê anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şallûm"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şallûm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:55.608236830Z",
+  "model": "glm-5.3"
+}

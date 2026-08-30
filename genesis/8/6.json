@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û di dawiya çil rojan de qewimî, Noşe ⟨את⟩ paceya kelekê vekir ku çêkiribû.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û qewimî"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "di dawiya"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "vekir"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paceya kelekê"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "paceya"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kelekê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkiribû"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:07.634088697Z",
+  "model": "glm-5.3"
+}

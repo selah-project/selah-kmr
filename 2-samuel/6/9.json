@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Dawid wî rojî ji Yahwe ⟨את⟩ ditirsî, û got: “Çawa aronê Yahwe dê were cem min?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ditirsî"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wî rojî"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wî (yê)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "איך",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dê were"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cem min"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:50:43.084099028Z",
+  "model": "glm-5.3"
+}

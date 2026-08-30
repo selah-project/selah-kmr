@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Qurbanên Elohîm ruhekî şikestî ⟨ye⟩; dilekî şikestî û xistî — Elohîm, tu ⟨wê⟩ biçûk nabînî.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanên"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhekî"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "şikestî"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilekî"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "şikestî"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "û xistî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "biçûk dibînî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:22.025000744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "«Û niha ez yek daxwaz ji ⟨את⟩ te dikim: rûyê min neguherîne.» Û ⟨wê⟩ got bal wî: «Bêje.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "daxwaz"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "dikim"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ji ⟨את⟩ te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "neguherîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê min"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "ותאמר אליו",
+      "gloss": "Û ⟨wê⟩ got bal wî"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Bêje"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:45.042717595Z",
+  "model": "glm-5.3"
+}

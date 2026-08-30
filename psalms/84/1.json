@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Ji bo serokekî muzîkê, li ser Gîtît, ji kurên Korah, mizmûr.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gîtît"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmûr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.228984846Z",
+  "model": "glm-5.3"
+}

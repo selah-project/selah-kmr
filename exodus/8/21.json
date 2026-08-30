@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Paroh gazî Moşe û Aharon kir û got: \"Herin, ji bo Elohîmê xwe li ⟨di⟩ erdê qurbanî bikin.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "herin"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "qurbanî bikin"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ji bo Elohîmê xwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:24.437906190Z",
+  "model": "glm-5.3"
+}

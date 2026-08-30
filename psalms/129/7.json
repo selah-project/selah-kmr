@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 129,
+  "translation": "Ku destê çinêrî tijî nake, û berîxweyê berhevkarê govatan tijî nake.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ku… nake"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tijî nake"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "destê"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "çinêrî"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "û berîxweyê"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "berhevkarê govatan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:30.829305946Z",
+  "model": "glm-5.3"
+}

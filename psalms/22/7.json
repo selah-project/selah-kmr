@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û ez ⟨im⟩ kirm, ne mirov; rûreşiya mirovan û yê ku gel biçûk dibîne.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kirm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "rûreşiya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "yê ku... biçûk dibîne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:11.717010005Z",
+  "model": "glm-5.3"
+}

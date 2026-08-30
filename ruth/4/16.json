@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Nêomî ⟨את⟩ zarok girt û wê danî nav sîna xwe, û bû ji wî re parêzvan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Û girt"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Nêomî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarok"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "û wê danî"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "nav sîna xwe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "parêzvan (dayîk)"
+    }
+  ],
+  "timestamp": "2026-08-30T06:05:00.255326722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û min ⟨את⟩ bavên we ji Mîtsrayim derxist, û hûn hatin ber deryayê, û Mîtsriyan bi sîwan û bi siwaran li pey bavên we meziyan — Deryaya Sûf.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "û min derxist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavên we"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bavên we"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "û hûn hatin"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "ber deryayê"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "û ew meziyan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsriyan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "li pey"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bavên we"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "bi sîwan"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "û bi siwaran"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Deryaya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sûf"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:10.140657054Z",
+  "model": "glm-5.3"
+}

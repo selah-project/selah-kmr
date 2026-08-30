@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Rojên mirov wekî siwar in; wekî kulîlka zeviyê wîsa dikulîle.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "wekî siwar"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "rojên … in"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "wekî kulîlk"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya zeviyê"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wîsa"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "dikulîle"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:35.439770537Z",
+  "model": "glm-5.3"
+}

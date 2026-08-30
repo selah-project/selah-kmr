@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Yehuda û Yisrael bi ewlehî rûniştin, her kesî bin darikî reza xwe û bin darikî tûya xwe, ji Dan heta Bêr-Şeva, hemû rojên Şelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "rûniştin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "û Yisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bi ewlehî"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kesî"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bin"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "darikî reza xwe"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "û bin"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "darikî tûya xwe"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ji Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bêr"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:02.296788849Z",
+  "model": "glm-5.3"
+}

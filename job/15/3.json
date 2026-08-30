@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Ma bi peyveke bêkêr dadbendî bike, û bi axiftanên ku tu kêrî wan nayîne?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "dadbendî bike"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bi peyveke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bê-"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "kêr"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "û bi axiftanên"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nayîne"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "kêrî"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:54:53.801350857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Destê rastê yê te, Yahwe, di hêzê de mezin bûye; destê rastê yê te, Yahwe, dijmin şikand.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "destê rastê yê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "mezin bûye"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "di hêzê de"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "destê rastê yê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "şikand"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:39.286998565Z",
+  "model": "glm-5.3"
+}

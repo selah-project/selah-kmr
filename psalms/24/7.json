@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Serê xwe bilind bikin, ey deriyan! Werin bilindkirin, ey deriyên dawîtî! Û Padîşahê rûmetê bêve hundir.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "bilind bikin"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ey deriyan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "serê xwe"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "werin bilindkirin"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dawîtî"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "bêve hundir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Padîşahê"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "rûmetê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:21.299557403Z",
+  "model": "glm-5.3"
+}

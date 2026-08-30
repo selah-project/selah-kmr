@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û hemû gel ⟨את⟩ gûzikên zêrîn ku di guhên wan de bûn qeland û anîn bal Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "qeland"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gûzikên zêrîn"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "gûzikên"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêrîn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "di guhên wan de"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:06.924647751Z",
+  "model": "glm-5.3"
+}

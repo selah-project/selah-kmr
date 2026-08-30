@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Tu yê ⟨את⟩ hemû tiştên ku ez ê fermanî te bikim bibêjî, û Aharon birayê te yê bi Firavn re biaxive, û ⟨ew⟩ ⟨yê⟩ zarokên Îsraêlî ji welatê wî bişîne.”",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "yê bibêjî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên ku ez ê fermanî te bikim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "fermanî te bikim"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "yê biaxive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavn"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "û … bişîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên Îsraêlî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ji welatê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:50.628383767Z",
+  "model": "glm-5.3"
+}

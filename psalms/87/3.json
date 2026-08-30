@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 87,
+  "translation": "Tiştên rûmetdar di derheqê te de tên gotin, ey bajarê Elohîm. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "tiştên rûmetdar"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tên gotin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di derheqê te de"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ey bajar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ê Elohîm"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:34.182532391Z",
+  "model": "glm-5.3"
+}

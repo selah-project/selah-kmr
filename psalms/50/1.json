@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Mizmora Asaf. Êl, Elohîm, Yahwe axivt û erdê bang kir, ji rohilatina rojê heta ava wê.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ji bo Asaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivt"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û bang kir"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ji rohilatina"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "ava wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:38.644269515Z",
+  "model": "glm-5.3"
+}

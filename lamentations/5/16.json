@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Tacê serê me ketiye — vay ji me re! — ji ber ku me guneh kiriye.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ketiye"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "tacê"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "serê me"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "me guneh kiriye"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:42.611131488Z",
+  "model": "glm-5.3"
+}

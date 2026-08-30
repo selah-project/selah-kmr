@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ew ⟨את⟩ perdeyên mîşkanê, ⟨את⟩ çadira civînê, ŝûşeya wê û ŝûşeya çermê tehaş a ku li ser wê ji jor e, û ⟨את⟩ perdeya deriyê çadira civînê hildigirin.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "hildigirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeyên mîşkanê"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "perdeyên"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mîşkanê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çadira civînê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "ŝûşeya wê"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "û ŝûşeya"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "çermê tehaş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ji jor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "perdeya"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perdeya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:30.700086546Z",
+  "model": "glm-5.3"
+}

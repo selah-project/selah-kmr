@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Rastiyê bikirî û wê nefiroşî — jîrî û perwerde û têgihîştin.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bikirî"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "nefiroşî"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrî"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "û perwerde"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "û têgihîştin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:12.886161807Z",
+  "model": "glm-5.3"
+}

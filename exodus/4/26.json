@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Wî ji wî berda; wê gote ⟨is⟩ zava yê xwînê, ji ber xetnan.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "berda"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "gote"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "zava"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "ji ber xetnan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:16.346626850Z",
+  "model": "glm-5.3"
+}

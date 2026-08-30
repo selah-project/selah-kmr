@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Ez jî, birayên min û xortên min, deyndarîya wan bi zêr û genim didin; ka em ⟨את⟩ vî deynî bihêlin, ji kerema xwe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayên min"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "û xortên min"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "deyndarîya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "û genim"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "ka em bihêlin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji kerema xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vî deynî"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "deynî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:26:59.903990289Z",
+  "model": "glm-5.3"
+}

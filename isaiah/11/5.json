@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Rastdarî dibe kembera hêriya wî û bawerî dibe kembera helqê wî.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastdarî"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "kembera"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "hêriya wî"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "bawerî"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "kembera"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "helqê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:15.145319189Z",
+  "model": "glm-5.3"
+}

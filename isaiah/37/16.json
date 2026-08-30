@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "\"Yahwe-yê-Sebaot, Elohîmê Yisraêl, yê ku li ser keruban rûdine, te tenê Elohîm î ji bo hemû padîşahiyên erdê; te ⟨את⟩ ezmanan û ⟨את⟩ erdê çêkir.\"",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûdine"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "li ser keruban"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew bi xwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "padîşahiyên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezmanan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:37:29.047926751Z",
+  "model": "glm-5.3"
+}

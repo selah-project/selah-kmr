@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Roja jî nedîtiye û nizane; ji vê re aramî ⟨zêdetir⟩ heye ji wî re.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dîtiye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zane"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "aramî"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ji vê re"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:33.830387202Z",
+  "model": "glm-5.3"
+}

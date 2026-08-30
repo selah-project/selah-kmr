@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û got: Pîroz be Yahwe, Elohîmê Îsraêlê, yê ku bi devê xwe ⟨את⟩ Dawid bavê min bi xwe re axivî û bi destê xwe bi cih kir, ku wiha got.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Pîroz be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "bi devê xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid bavê min"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "û bi destê xwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "bi cih kir"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku wiha got"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:57.309097520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Yahwe wî li ser textê nexweşiyê piştgirî dike; te teva razana wî di nexweşiya wî de guhert.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "piştgirî dike wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "textê"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "nexweşiyê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "teva"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "razana wî"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "te guhert"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "di nexweşiya wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:28.830440014Z",
+  "model": "glm-5.3"
+}

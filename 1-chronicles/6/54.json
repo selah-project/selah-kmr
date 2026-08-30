@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ⟨את⟩ Ayalonê û ⟨את⟩ deştên wê û ⟨את⟩ Gat-Rimonê û ⟨את⟩ deştên wê",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalonê"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalonê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimonê"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimonê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:01.150615312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Netirse dema merivek tê kirin dewletmend, dema rûmeta malê wî tê zêdekirin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "netirse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dema"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "tê kirin dewletmend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "merivek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dema"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "tê zêdekirin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "malê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:57.249641675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Kom dibin, xwe veşêrin, ew li pêyên min çavdarî dikin, wekî ku li benda canê min rawestîne.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "kom dibin"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "xwe veşêrin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "pêyên min"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "çavdarî dikin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "li benda ... rawestîne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:27.828551251Z",
+  "model": "glm-5.3"
+}

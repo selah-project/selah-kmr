@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Lêbelê zêvên ku di destê wan de hatiye danîn, bi ⟨את⟩ wan re nayê hesibandin, çimkî ew bi rastbûnê dikarin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lêbelê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hesibandin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zêvên hatine danîn"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zê"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "hatiye danîn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ber"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "destê wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "bi rastbûnê"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "dikarin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:08.693799215Z",
+  "model": "glm-5.3"
+}

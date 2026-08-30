@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Dilovanîya te bigihîje min û ez bijîm, çûnku Şerîeta te kêfa min e.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "bigihîje min"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dilovanîya te"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "û ez bijîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnku"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Şerîeta te"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kêfa min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:50.743466141Z",
+  "model": "glm-5.3"
+}

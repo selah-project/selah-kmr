@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Torê ji gavên min amade kirin, canê min xwar bû; berî min çal çêkirin — ew bixwe ketine navê wê. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "torê"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "amade kirin"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "ji gavên min"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "xwar bû"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "çêkirin\/çal kolîn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî min"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "çal"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ketine"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "navê wê"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:18.099020810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û ew du Keruban ji zêrê çêkir; ji karê lêdayî çêkir ⟨אתם⟩, ji her du serên Sêrbargê.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "Keruban"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "karê lêdayî"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Keruban"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ji her du"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "serên"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Sêrbargê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:11.448139384Z",
+  "model": "glm-5.3"
+}

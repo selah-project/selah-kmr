@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û feqîr di doza wî de di cih de neke.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "û feqîr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "di cih de neke"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "di doza wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:33.488019974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Ebrahim ⟨את⟩ Saray jina xwe û ⟨את⟩ Lût kurê birayê xwe û ⟨את⟩ hemû milkên wan ên ku bi dest xistibûn û ⟨את⟩ canên ku li Haran bi dest dabûn girt; derketin ku herin welatê Kenaan, û hatin welatê Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Ebrahim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saray"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lût"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lût"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû milkên wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "milkên wan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "bi dest xistibûn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "canên"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "canên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bi dest dabûn"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "li Haran"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ku herin"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "û hatin"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:36.828315051Z",
+  "model": "glm-5.3"
+}

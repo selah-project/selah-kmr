@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Bi rastî Elohîm dê taca serê porî yê ku di gunehên xwe de digere û serê dijminên xwe bişkîne.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "bişkîne"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ser"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dijminên wî"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "taca serî"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porî"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "digere"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "di gunehên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:30.680690643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Peyvên devê wî şaşî û xapandin in; wî ji aqilmendî û ji kirina qenciyan dest berda.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "devê wî"
+    },
+    {
+      "surface": "און",
+      "gloss": "şaşî"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "û xapandin in"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "dest berda"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ji aqilmendî"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ji kirina qenciyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:56.850135343Z",
+  "model": "glm-5.3"
+}

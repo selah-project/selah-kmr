@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Wê rastiya te wek ronahî derxîne, û mafê te wek nîvro.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "wê … derxîne"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "wek ronahî"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "rastiya te"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "û mafê te"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "wek nîvro"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:17.161935615Z",
+  "model": "glm-5.3"
+}

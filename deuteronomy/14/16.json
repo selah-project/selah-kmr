@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "⟨את⟩ pitirê-biçûk, ⟨את⟩ pitirê-mezin û pitira-spî.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitirê-biçûk"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "pitirê-biçûk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pitirê-mezin"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "pitirê-mezin"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "pitira-spî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:01.595677612Z",
+  "model": "glm-5.3"
+}

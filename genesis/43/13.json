@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Û ⟨את⟩ birayê xwe bigirin, û rabin, vegerin bal ⟨wî⟩ mêrî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birayê xwe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "bigirin"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "û rabin"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "vegerin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨wî⟩ mêrî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:26.644946530Z",
+  "model": "glm-5.3"
+}

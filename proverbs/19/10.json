@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Lewazî û xweşî ji bo kelfî nayê xweşkirin, çi tir ji bo xulamekî ku ser serokeyan hukim bike.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "tê xweşkirin"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ji bo kelfî"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "lewazî û xweşî"
+    },
+    {
+      "surface": "אף",
+      "gloss": "çi tir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ji bo xulamekî"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hukim bike"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ser serokeyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:59.089838448Z",
+  "model": "glm-5.3"
+}

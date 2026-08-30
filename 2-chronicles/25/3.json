@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û dema padîşahî li ser wî bihêz bû, ew ⟨את⟩ xulamên xwe yên ku ⟨את⟩ padîşahê bavê wî kuştibûn kuşt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dema"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "bihêz bû"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "padîşahî"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên xwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "yên kuştibûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padîşah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:50:51.460591197Z",
+  "model": "glm-5.3"
+}

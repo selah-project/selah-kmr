@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û padîşah Dawid kal bûbû, di rojan de ketibû, û wî bi kincan digirtin, lê germî ji bo wî çênedbû.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Û padîşah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kal bûbû"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ketibû"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di rojan de"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "wî digirtin"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "bi kincan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "germî çênedbû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:44.875085828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Ji ber ku dilê min turş bû û xwîna min heyş bû, gurçikên min hatin kûlkirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "turş bû"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "û gurçikên min"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "hatin kûlkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:12.548303019Z",
+  "model": "glm-5.3"
+}

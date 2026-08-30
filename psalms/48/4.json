@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Elohîm di birîcên ⟨wê⟩ de wek birc hatiye naskirin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "di birîcên wê de"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "hatiye naskirin"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "wek birc"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:12.747094403Z",
+  "model": "glm-5.3"
+}

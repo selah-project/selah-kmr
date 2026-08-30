@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ew di cihê veşartî de dicive, wek şêr di dora xwe de; ew radibe da ku feqîrî bide girtin; ew feqîrî digire, dema ku wî di tora xwe de dikişîne.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "dicive"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "di cihê veşartî de"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "wek şêr"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "di dora xwe de"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "radibe"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "da ku bide girtin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîrî"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "digire"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîrî"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "demа ku wî dikişîne"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "di tora xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:30.347774168Z",
+  "model": "glm-5.3"
+}

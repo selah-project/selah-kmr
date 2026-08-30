@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Ji ber ku ew serî li gotinên Êl hildan û şîreta Elyon bi serçavî lê dît.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "serî hildan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "şîreta"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "bi serçavî lê dît"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:20.583410707Z",
+  "model": "glm-5.3"
+}

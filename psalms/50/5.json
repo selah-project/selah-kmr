@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Xasîdên min li cem min kom bikin, yên peymana min li ser qurbanê birîne.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "kom bikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li cem min"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "xasîdên min"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "birîne"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana min"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbanê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:37.646107620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Wî got: Gazî wê bike. Wî gazî wê kir, û ew li ber deriyê rawestî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wî got"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gazî wê bike"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wî gazî kir"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ew rawestî"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "li ber deriyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:16:16.328850317Z",
+  "model": "glm-5.3"
+}

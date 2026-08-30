@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ez ê Sîsra, serleşkerê leşkerê Yavîn, bi ⟨את⟩ resiyên wî û bi ⟨את⟩ êrişa wî, ber bi newala Kişon bikişînim bal te, û ez ê wî bidim destê te.",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "ez ê bikişînim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bal te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "newala"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kişon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sîsra"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sîsra"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serleşkerê"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "leşkerê"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yavîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "bi ⟨את⟩",
+      "marks": "resiyên wî"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "resiyên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "bi ⟨את⟩",
+      "marks": "êrişa wî"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "êrişa wî"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "ez ê wî bidim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "destê te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:26:14.983672050Z",
+  "model": "glm-5.3"
+}

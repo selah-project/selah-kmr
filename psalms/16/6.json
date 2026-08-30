@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Xetên pîvanê ketine aliyê min, di deverên şîrîn de; erê, mîraseke şandar a li ser min ⟨heye⟩.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "xetên pîvanê"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ketine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aliyê min"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "di deverên şîrîn de"
+    },
+    {
+      "surface": "אף",
+      "gloss": "erê"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mîraseke"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "şandar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:08.334062096Z",
+  "model": "glm-5.3"
+}

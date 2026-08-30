@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û mêrên Yisraêl dîtîn ku ew di tengasiyê de ne — ji ber ku gel hatibû zordayîn — û gel xwe veşartin di şikeftan de, di darberan de, di keviran de, di cihên bilind de û di kûlan de.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Û mêrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtîn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צר",
+      "gloss": "di tengasiyê de ne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ew"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "hatibû zordayîn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "û xwe veşartin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "di şikeftan de"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "di darberan de"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "di keviran de"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "di cihên bilind de"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "di kûlan de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:38:49.438384638Z",
+  "model": "glm-5.3"
+}

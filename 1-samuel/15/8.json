@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Wî ⟨את⟩ Agag, keyê Emelek, zînde girt, û ⟨את⟩ hemû gel bi devê şûr ji holê rabû kir.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Emelek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zînde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ji holê rabû kir"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bi devê"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûr"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:43.321519912Z",
+  "model": "glm-5.3"
+}

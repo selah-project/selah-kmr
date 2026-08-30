@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û di roja paşê de çêbû ku Moşe rûnişt da ku ⟨את⟩ gel dadbar bike, û gel li ser Moşe rawestabû, ji sibehê heta êvarê.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çêbû"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "di roja paşê de"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "da ku dadbar bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "û rawestabû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "êvarê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:06.640497516Z",
+  "model": "glm-5.3"
+}

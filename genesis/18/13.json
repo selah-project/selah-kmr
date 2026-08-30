@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Yahwe ji Avraham re got: \"Çima Sarah kenî û got: Ma rastî ye ku ez ê zarokê bînim, û ez pîr bûme?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "kenî"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "rastî ye"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "ez ê zarokê bînim"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "pîr bûme"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:48.491614645Z",
+  "model": "glm-5.3"
+}

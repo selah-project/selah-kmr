@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Yahwe ji we re bêtir bide, ji we û ji zarokên we re.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "bêtir bide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "zarokên we re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:43.576634976Z",
+  "model": "glm-5.3"
+}

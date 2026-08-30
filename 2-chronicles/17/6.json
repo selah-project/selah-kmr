@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û dilê wî di rêyên Yahwe de bilind bû, û hîn ⟨את⟩ bilindahiyan û ⟨את⟩ Asherîm ji Yehûda rakir.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di rêyên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "û hîn"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "rakir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilindahiyan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bilindahiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asherîm"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherîm"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ji Yehûda"
+    }
+  ],
+  "timestamp": "2026-08-30T06:47:48.581319046Z",
+  "model": "glm-5.3"
+}

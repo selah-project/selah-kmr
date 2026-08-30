@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û ger birayên wî ji bo wî nîne, hûn ⟨את⟩ mîrasa wî didin birayên bavê wî.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "birayên wî"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "hûn didin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîrasa wî"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "mîrasa wî"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ji birayên"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:08.397943994Z",
+  "model": "glm-5.3"
+}

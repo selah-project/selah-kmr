@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Yahwe ⟨את⟩ milê pîroz ê xwe rûxand ber çavên hemû gelan, û dûmahiyên hemû erdê ⟨את⟩ rizgariya Elohîm ê me dîtin.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "rûxand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milê pîroz ê xwe"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "milê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroz ê xwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ber çavên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "û dîtin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dûmahiyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rizgariya Elohîm ê me"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "rizgariya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîm ê me"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:03.058496575Z",
+  "model": "glm-5.3"
+}

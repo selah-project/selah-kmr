@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Ji min ji kerihî dikin, dûr ji min ketin, û ji ber rûyê min tûkê ⟨nespariyan⟩.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "ji min ji kerihî dikin"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "dûr ketin"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "û ji ber rûyê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "spariyan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tûkê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:59:10.479660430Z",
+  "model": "glm-5.3"
+}

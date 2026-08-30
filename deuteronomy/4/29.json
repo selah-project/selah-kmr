@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û hûn ê ji wir Yahwe ⟨את⟩ Elohîmê xwe bigerin, û hûn ê wî bibînin, çimkî hûn wî digerin bi hemû dilê xwe û bi hemû canê xwe.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "û hûn ê bigerin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "û hûn ê bibînin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "hûn wî digerin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û bi hemû"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:28.065624234Z",
+  "model": "glm-5.3"
+}

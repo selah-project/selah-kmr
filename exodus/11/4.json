@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Moşe got: «Wisa Yahwe dibêje: Nîvê şevê ez ê di nav Mîtsrayim de derkevim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "nîvê"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ê derkevim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav… de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:28.815707743Z",
+  "model": "glm-5.3"
+}

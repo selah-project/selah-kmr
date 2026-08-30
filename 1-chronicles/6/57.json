@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ji eşîra Yîssaşkêr ⟨את⟩ Qedeş û ⟨את⟩ zozanên wê, ⟨את⟩ Davrat û ⟨את⟩ zozanên wê.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "û ji eşîra"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yîssaşkêr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedeş"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedeş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zozanên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davrat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Davrat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zozanên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:12.800396983Z",
+  "model": "glm-5.3"
+}

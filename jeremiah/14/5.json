@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ji ber ku kêzha kûvî jî di zeviyê de zarok anî û ⟨wî⟩ berda, ji ber ku giya tune bû.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "kêzha kûvî"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zarok anî"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "û berda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tune"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "giya"
+    }
+  ],
+  "timestamp": "2026-08-29T20:55:15.005406588Z",
+  "model": "glm-5.3"
+}

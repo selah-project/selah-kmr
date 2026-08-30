@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Hûn çê nekin ⟨את⟩ min re xwedayên zîv, û xwedayên zêr ji xwe re çê nekin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "çê nekin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ min re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "xwedayên"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "û xwedayên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "çê nekin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji xwe re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:31.563163371Z",
+  "model": "glm-5.3"
+}

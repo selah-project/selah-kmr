@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Lê gelê min guh neda dengê min, û Yisraêl ji min ra nexwest.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Lê … ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guh neda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "û Yisraêl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nexwest"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:35.916836201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 14:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Rojên ku Yarovam padîşahî kir bîst û du sal bûn; ew bi bavên xwe re raza û Nadab kurê wî şûna wî padîşahî kir.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahî kir"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "û du"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "raza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "padîşahî kir"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:26.700740525Z",
+  "model": "glm-5.3"
+}

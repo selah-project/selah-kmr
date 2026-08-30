@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Dilê min gotinekê baş dikeribo, ez dibêjim karên min ji bo keyî ne; zimanê min ⟨e⟩ pênûsa nivîskareke lezgîn ⟨e⟩.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "dikeribo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotinekê"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ez dibêjim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karên min"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji bo keyî"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "zimanê min"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pênûsa"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "nivîskarekê"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "lezgîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:32.481927008Z",
+  "model": "glm-5.3"
+}

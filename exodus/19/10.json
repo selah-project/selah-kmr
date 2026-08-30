@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Yahwe ji Moşe re got: “Here cem gel û îro û sibê wan pîroz bike, û bila kincên xwe bişon.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Here"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "wan pîroz bike"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "û sibê"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "û bila bişon"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "kincên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:04.603692515Z",
+  "model": "glm-5.3"
+}

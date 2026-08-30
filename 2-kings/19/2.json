@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û şand ⟨את⟩ Elyaqîm yê ser malê, û Şevna katib û ⟨את⟩ kalên kahînan — bi cilên hiriyê girtî — li cem Yeşayahu pêxember, kurê Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaqîm"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyaqîm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "û Şevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "katib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kalên kahînan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahînan"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "girtî"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "bi cilên hiriyê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li cem"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-29T20:23:43.660738158Z",
+  "model": "glm-5.3"
+}

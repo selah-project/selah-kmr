@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û zengilên zêrê paqij çêkirin, û zengilan danîne ⟨את⟩ di nav narincan de, li ser binê camedanê, dorberî, di nav narincan de.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "zengilên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "danîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zengilan"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "zengilan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "narincan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "binê"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "camedanê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dorberî"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "narincan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:38.355469767Z",
+  "model": "glm-5.3"
+}

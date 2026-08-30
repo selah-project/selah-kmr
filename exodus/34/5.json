@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û Yahwe di ewrê de daket, û li wir bi wî re xwe danî, û bi navê Yahwe bang kir.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "daket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "di ewrê de"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "xwe danî"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bang kir"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:54.265533563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û tê de mêrekî hejar ê zana hate dîtin, û ew bi çandiniya xwe ⟨את⟩ bajar rizgar kir; lê kes ⟨את⟩ wî mêrê hejar bi bîr ne anî.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "û hate dîtin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "hejar"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "û rizgar kir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "bi çandiniya xwe"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "û kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bi bîr anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wî mêrê hejar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "hejar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:20.480968667Z",
+  "model": "glm-5.3"
+}

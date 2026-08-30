@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 6:5",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ji ber ku ew bi heywanên xwe ve bilind dibûn û çadirên wan bi wan re dihatin — wek kerraban ji ber pirrê — û ji wan re û ji ştîrên wan re hejmar tune bû; û ketin nav ⟨את⟩ erdê da ku wê xera bikin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "bi heywanên xwe ve"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bilind dibûn"
+    },
+    {
+      "surface": "ואהליהם",
+      "gloss": "çadirên wan"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "dihatin"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "wek"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "kerraban"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ji ber pirrê"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "ולגמליהם",
+      "gloss": "ji ştîrên wan re"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmar"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "û ketin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nav erdê"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "da ku wê xera bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:26:28.291995393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Baştir e ruhelivî digel ⟨את⟩ feqîran, ji parvekirina talan digel ⟨את⟩ serbilindan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baştir e"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ruhelivî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feqîran"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "feqîran"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "parvekirin"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "talan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serbilindan"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "serbilindan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:19.392019656Z",
+  "model": "glm-5.3"
+}

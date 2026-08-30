@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ev qurbana Aharon û kurên wî ye, ku roja rûnkirina ⟨את⟩ wî dê ji bo Yahwe pêşkêş bikin: dehemîna êfayê ardik, pîşeya domdar; nîvê wê sibehê û nîvê wê êvarê.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "dê pêşkêş bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "rûnkirina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Aharon)"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "dehemîna"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "êfayê"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ardik"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pîşe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "domdar"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "nîvê wê"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "û nîvê wê"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "êvarê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:39.971137959Z",
+  "model": "glm-5.3"
+}

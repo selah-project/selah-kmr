@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Tu roniya wî sekinandî û textê wî heta erdê daxistî.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "sekinandî"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "roniya wî"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "û textê wî"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "heta erdê"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "daxistî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:44.408365067Z",
+  "model": "glm-5.3"
+}

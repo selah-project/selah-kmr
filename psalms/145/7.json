@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Bîranîna qenciya te ya pir ew ê bi awayekî deryadar derbar bikin, û rastiya te ew ê stranan bilîvîn.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "bîranîna"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pir"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "qenciya te"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "ew ê derbar bikin"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "û rastiya te"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ew ê stranan bilîvîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:24.439979727Z",
+  "model": "glm-5.3"
+}

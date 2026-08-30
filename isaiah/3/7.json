@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ew wê rojê bilind bike dê wisa bibêje: 'Ez dermanker nawîm, û di mala min de ne nan heye ne şermil; we min neke serokê gel.'",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "wê bilind bike"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wê rojê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wisa bibêje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nawîm"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "dermanker"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "û di mala min de"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "heye ne"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "şermil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "we min neke"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "serok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:29.173400554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "û bû — ji ber ku jinên-jidayîkbûnê ji Elohîm ⟨את⟩ ditirsin — ew ⟨ji bo wan⟩ mal çêkir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ditirsin"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "jinên-jidayîkbûnê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ew çêkir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mal"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:39.844104781Z",
+  "model": "glm-5.3"
+}

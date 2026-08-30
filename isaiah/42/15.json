@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Çiya û giran wê xera bikim, hemû giyayên wan wê hişk bikim; çeman dê bikim giravên hişk û batakan wê hişk bikim.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "wê xera bikim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "û giran"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "giyayên wan"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "wê hişk bikim"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "dê bikim"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çeman"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "giravên hişk"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "û batakan"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "wê hişk bikim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:15.437406191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Ben-Hadad, keyê Aramê, ⟨את⟩ hemû hêza xwe civand, û sî û du key bi ⟨את⟩ wî re, û hesp û relî; û bilind bû û li ser Şomeronê dorpêç kir û bi wê re şer kir.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Û Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramê"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "civand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû hêza wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hêza wî"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "sî"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "û hesp"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "û relî"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "dorpêç kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeronê"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "şer kir"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bi wê re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:57.446167009Z",
+  "model": "glm-5.3"
+}

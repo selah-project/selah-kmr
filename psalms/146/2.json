@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 146,
+  "translation": "Ez ê di jiyana xwe de Yahwe pesnê bidim; heta ku ez hevim, ez ê ji Elohîmê xwe re stranan bêjim.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ez ê pesnê bidim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "di jiyana xwe de"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ez ê stranan bêjim"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ji Elohîmê xwe re"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "heta ku ez hevim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:45.735282784Z",
+  "model": "glm-5.3"
+}

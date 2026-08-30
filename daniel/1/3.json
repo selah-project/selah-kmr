@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û padîşah ji raşpenazê, serokayê xulamên xwe re got ku ji kurên Îsraêlê û ji nifşê keyatîyê û ji esîlzadeyan bîne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ... got"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "ji raşpenazê re"
+    },
+    {
+      "surface": "רב",
+      "gloss": "serokayê"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ku ... bîne"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "û ji nifşê"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "keyatîyê"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "esîlzadeyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:15:08.242275403Z",
+  "model": "glm-5.3"
+}

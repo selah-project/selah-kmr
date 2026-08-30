@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Êşîn ji ken çêtir e, ji ber ku bi rûyê kîskî dil baş dibe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "çêtir e"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "êşîn"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ji ken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bi kîskî"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "baş dibe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:21.584917833Z",
+  "model": "glm-5.3"
+}

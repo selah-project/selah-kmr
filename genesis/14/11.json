@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û girtin ⟨את⟩ tevahiya milkê Sedomê û Emorayê, û ⟨את⟩ tevahiya xwarinên wan, û çûn.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Û girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya milkê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "milkê"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomê"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "û Emorayê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya xwarinên wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "xwarinên wan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "û çûn"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:32.589691378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û hûn dora şah bigirin, dor bi dor, her kes bi çekên xwe di destê xwe de; û yê ku ber bi rêzan ve tê bila were kuştin; û hûn bi ⟨את⟩ şah re bin, di derketina wî de û di hatina wî de.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "Û hûn dora…bigirin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dor bi dor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "bi çekên xwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê xwe de"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "yê ku tê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "rêzan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bila were kuştin"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "hûn bin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bi…re",
+      "marks": "şah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "di derketina wî de"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "û di hatina wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:20.233792737Z",
+  "model": "glm-5.3"
+}

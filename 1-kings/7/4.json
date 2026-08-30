@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û pencereyên badayî di sê rêzan de, û pencere berovajî pencere, sê caran.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "Û pencereyên badayî"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "rêzan"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "û pencere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berovajî"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "pencere"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "caran"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:09.746711395Z",
+  "model": "glm-5.3"
+}

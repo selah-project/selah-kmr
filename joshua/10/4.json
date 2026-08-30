@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "“Hûn werin ba min û alîkariya min bikin, da ku em ⟨את⟩ Giv'înê bikujin, ji ber ku ew bi Yehoşua û ⟨את⟩ kûrên Yisra'êlê re aştî çêkiriye.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Hûn werin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba min"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "û alîkariya min bikin"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "da ku em bikujin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'înê"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'înê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "aştî çêkiriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoşua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'êlê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:12.624279910Z",
+  "model": "glm-5.3"
+}

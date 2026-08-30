@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Axîmaas, li Neftalî; ew jî ⟨את⟩ Boşemat, keça Şelomo, ji bo jinî girt.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Axîmaas"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "li Neftalî"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boşemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Boşemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ji bo jinî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:59.340867810Z",
+  "model": "glm-5.3"
+}

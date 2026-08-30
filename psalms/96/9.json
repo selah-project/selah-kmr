@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Li ber Yahwe di xweşiya qadeşê de serîdanîn bikin; ji ber rûyê wî bizivirin, dinyaye — hemû ⟨the⟩ erd.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "serîdanîn bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "li ber Yahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "di xweşiya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qadeşê"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "bizivirin"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ji ber rûyê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:54.258765122Z",
+  "model": "glm-5.3"
+}

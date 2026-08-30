@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Elohîmê Tzewaot, veger îha; ji ezmanan binêre û bibîne, û vê rezê sêrda bike!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzewaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "veger"
+    },
+    {
+      "surface": "נא",
+      "gloss": "îha"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ji ezmanan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "û bibîne"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "û sêrda bike"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "rez"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.400518884Z",
+  "model": "glm-5.3"
+}

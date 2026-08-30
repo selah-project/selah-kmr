@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Ez ê ji Elohîm re bang bikim, û Yahwe min rizgar dike.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bang bikim"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "û Yahwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "min rizgar dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:56.709776565Z",
+  "model": "glm-5.3"
+}

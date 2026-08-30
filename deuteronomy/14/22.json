@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Dehem bigihîze dehem ⟨את⟩ tevahiya berhemê tovê te, ya ku ji zeviyê derdikeve, sal bi sal.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dehem"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "bigihîze dehem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya berhemê tovê te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "berhem"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tovê te"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ya ku derdikeve"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ji zeviyê"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bi sal"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:31.141140930Z",
+  "model": "glm-5.3"
+}

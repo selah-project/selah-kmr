@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 16:15",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û te bawerî bi rindiya xwe kir, û te li ser navê xwe zînayî kir, û te ⟨את⟩ zînayiyên xwe li ser her derbasdarî rişt, ew ê wî bû.",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "te bawerî kir"
+    },
+    {
+      "surface": "ביפיך",
+      "gloss": "bi rindiya te"
+    },
+    {
+      "surface": "ותזני",
+      "gloss": "û te zînayî kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "ותשפכי",
+      "gloss": "û te rişt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zînayiyên te"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "zînayiyên te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "derbasdar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bo wî"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bû"
+    }
+  ],
+  "timestamp": "2026-08-30T03:48:27.635201811Z",
+  "model": "glm-5.3"
+}

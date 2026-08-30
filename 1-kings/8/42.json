@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "ku ⟨את⟩ navê te yê mezin û ⟨את⟩ destê te yê hêzdar û milê te yê dirêjkirî dibihîzin, û werin û ber bi vê malê ve lava bikin;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "dibihîzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê te"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yê mezin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "destê te"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "yê hêzdar"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "û milê te"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "yê dirêjkirî"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "û tê"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "û lava dike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:02.074236952Z",
+  "model": "glm-5.3"
+}

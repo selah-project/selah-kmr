@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ji kılıçê rûmeta min rizgar bike; ji destê kûçikê yekta-ya min.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ji kılıçê"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rûmeta min"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "kûçikê"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "yekta-ya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:31.025756551Z",
+  "model": "glm-5.3"
+}

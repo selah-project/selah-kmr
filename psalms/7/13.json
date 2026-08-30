@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ger ew negerive, şûrê xwe tûj dike; kevanê xwe kişandiye ser rê û wî amade kiriye ⟨ew⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vegere"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "şûrê wî"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "tûj dike"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "kevanê wî"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kişand ser rê"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "û amade kir ew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:07.607528744Z",
+  "model": "glm-5.3"
+}

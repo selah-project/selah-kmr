@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Di nav miriyan de azad, wek ên kuştî yên di gorê de dirêzin, ên ku tu êdî ji bîra xwe nabî, û ew ji destê te hatine qutkirin.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "di nav miriyan de"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "azad"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wek"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ên kuştî"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "dirêzin"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "di gorê de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "ji bîra xwe nabî"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ji destê te"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "hatine qutkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:17.250753504Z",
+  "model": "glm-5.3"
+}

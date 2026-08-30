@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Çawa bextewar e yê ku tu hildibijêrî û nêzîkî xwe dikî — ew ê li ⟨deriyên⟩ te bi cih bibe; em ê bi qenciyê ⟨malbata⟩ te, ⟨bi⟩ perestgeha pîroz a te têr bibin.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "çawa bextewar"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "tu hildibijêrî"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "û nêzîkî xwe dikî"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bi cih dibe"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "deriyên te"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "em têr dibin"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "bi qenciyê"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "malbata te"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "perestgeha te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:02.885564968Z",
+  "model": "glm-5.3"
+}

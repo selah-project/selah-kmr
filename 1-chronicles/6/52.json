@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ji wan re dan ⟨את⟩ bajarên penahiyê: ⟨את⟩ Şixem û ⟨את⟩ deverên wê yên vekirî li çiyayê Efrayîmê, û ⟨את⟩ Gezer û ⟨את⟩ deverên wê yên vekirî.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajarên penahiyê"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "penahiyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şixem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şixem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deverên wê yên vekirî"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deverên wê yên vekirî"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayîmê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deverên wê yên vekirî"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deverên wê yên vekirî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:06.031130410Z",
+  "model": "glm-5.3"
+}

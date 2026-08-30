@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Elohîmê min, ji destê neyar rizgar bike min, ji palan yê çewt û zordar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "rizgar bike min"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "neyar"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ji palan"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "yê çewt"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "û zordar"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:47.720119592Z",
+  "model": "glm-5.3"
+}

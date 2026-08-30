@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Ji ber ku min çavbirçîtî li ser pesnvanan kir, dema min aşitiya reşanan dît.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "min çavbirçîtî kir"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "li ser pesnvanan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aşitiya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "reşanan"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "dît"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:43.549264783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Yahwe, ez ji ciwara mala te û ji cihê jêrûna rûmeta te hez dikim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ez ... hez dikim"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ciwara"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mala te"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "û ji cihê"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "jêrûna"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "rûmeta te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:30.839746120Z",
+  "model": "glm-5.3"
+}

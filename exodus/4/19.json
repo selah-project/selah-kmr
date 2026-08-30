@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Yahwe li Midyanê ji Moşe re got: «Here, vegerî Mîtsrayimê, çinku hemû mêrên ku ⟨את⟩ canê te digerînin mirine.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji... re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "li Midyanê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vegerî"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mirine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "digerînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê te"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:12.183416992Z",
+  "model": "glm-5.3"
+}

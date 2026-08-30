@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û gelê ⟨ê⟩ erdê Yehoachaz kurê Yoşiya girt û li şûna bavê wî li Yeruşalayim kir padîşah.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "girt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiya"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "kir padîşah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:55:39.924439484Z",
+  "model": "glm-5.3"
+}

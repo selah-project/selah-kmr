@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Ku ez ji bo dema tengahiyê, ji bo roja ceng û şer hilgirtine?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "ez hilgirtine"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ji bo dema"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tengahiyê"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ji bo roja"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ceng"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "û şer"
+    }
+  ],
+  "timestamp": "2026-08-30T06:01:44.758371271Z",
+  "model": "glm-5.3"
+}

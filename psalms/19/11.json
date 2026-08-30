@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Ew ji zêr û ji zêrê zêrîtir ⟨tê xwestin⟩, û ji hingiv û şîrê hingivê şîrtir ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "tê xwestin"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ji zêr"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "û ji zêrê zêrî"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bi gelekî\/estê"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "û şîrtir"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "ji hingiv"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "û ji şîrê"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "hingivê (kombê)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:25.660458898Z",
+  "model": "glm-5.3"
+}

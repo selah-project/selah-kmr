@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Li dijî gelê te dîsojiyekî xwar datînin, û li dijî yên veşartî yên te şêwirdarî dikin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "dîsojiyekî xwar datînin"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "şêwirdarî"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "û şêwirdarî dikin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "yên veşartî yên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:17.151455374Z",
+  "model": "glm-5.3"
+}

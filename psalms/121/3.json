@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 121,
+  "translation": "Nehêle ku lingê te bihêje; yê ku diparêze tu dê nixewebe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hêle"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "bihêje"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lingê te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "nixewebe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "yê ku diparêze tu"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:42.964776676Z",
+  "model": "glm-5.3"
+}

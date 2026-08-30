@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û tevahiya civata zarokên Yisraêl li ser Moşe û li ser Aharon di çolê de nalîn kirin.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "nalîn kirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:08:09.385795927Z",
+  "model": "glm-5.3"
+}

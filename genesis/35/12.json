@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û ⟨את⟩ erdê ku min da Avraham û Yitshaq, êdî didim te, û ji zirrê te yê piştî te re ⟨את⟩ wî erdî didim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min da"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "û Yitshaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "didim"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "û ji zirrê te"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "piştî te"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "didim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wî erdî"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:15.814991355Z",
+  "model": "glm-5.3"
+}

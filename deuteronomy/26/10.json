@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û êdî, va, min anî ⟨את⟩ yekem-frêhtî ya fêkiyê erdê ku te da min, Yahwe; û tu wê datavî berî Yahwe Elohîmê xwe, û tu wê reza di berî Yahwe Elohîmê xwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û êdî"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "min anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yekem-frêhtî ya fêkiyê erdê"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "yekem-frêhtî"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fêkiyê"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "te da"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "Û tu wê datavî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "Û tu wê reza di"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:08.686181631Z",
+  "model": "glm-5.3"
+}

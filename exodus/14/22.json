@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "û zarokên Yisraêl ketin navîn deryayê ser erdê ziwa, û av bûn ji bo wan dîwarekî ji aliyê rastê yê wan û ji aliyê çepê yê wan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ketin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "navîn"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ser erdê ziwa"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "û av"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "dîwar"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "ji aliyê rastê yê wan"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "û ji aliyê çepê yê wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:26.724869185Z",
+  "model": "glm-5.3"
+}

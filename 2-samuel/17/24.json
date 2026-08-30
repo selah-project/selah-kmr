@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Dawid hat Mahanayimê; û Avşalom derbasî ⟨את⟩ Urdunê bû — ew bi xwe û hemû mêrên Îsraêlê bi wî re.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "û Dawid"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Mahanayimê"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "û Avşalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdunê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdunê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew bi xwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:55:24.288446574Z",
+  "model": "glm-5.3"
+}

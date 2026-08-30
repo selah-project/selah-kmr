@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Nabe ku di te de Êlekî biyanî ⟨hebe⟩, û tu ji ber Êlekî biyanî serî nestînî.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nabe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hebe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "זר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û … ne"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "serî nestînî"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ber Êl"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "biyanî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:35.916442123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Rabe, ey Elohîm, doza xwe parêz; şermnama te ji bêaqilan rojê tevahî bi bîr bîne.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "parêz"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "doza xwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bi bîr bîne"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "şermnama te"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bêaqilan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahî"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:33.381123879Z",
+  "model": "glm-5.3"
+}

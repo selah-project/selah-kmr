@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û şahî û henek ji rezê hatine rakirin; di rezan de stran nemabe, qêrîn nemabe; şerab di meşinan de nemaze tê pêçîn; min qîrîna pêçandêran sekinand.",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "û hatine rakirin"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "şahî"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "û henek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "rezê"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "di rezan de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "distranin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "qêrînin"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şerab"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "di meşinan de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "tê pêçîn"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yê pêçandê"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "qîrîn"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "min sekinand"
+    }
+  ],
+  "timestamp": "2026-08-29T20:32:24.534860556Z",
+  "model": "glm-5.3"
+}

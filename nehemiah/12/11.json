@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Yoyada ⟨את⟩ Yonatan wek kur peyda kir; û Yonatan ⟨את⟩ Yadûa wek kur peyda kir.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Û Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wek kur peyda kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "û Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wek kur peyda kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadûa"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadûa"
+    }
+  ],
+  "timestamp": "2026-08-30T06:29:53.691898853Z",
+  "model": "glm-5.3"
+}

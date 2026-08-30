@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ji ber ku deriyên zikê negirt û êşî ji çavên min ve neşûşt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "girt"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "zikê"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "û ... veşart"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "êşî"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ji çavên min ve"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:19.181944730Z",
+  "model": "glm-5.3"
+}

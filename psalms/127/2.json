@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 127,
+  "translation": "Bi valahiyê ji we re ⟨ye⟩ ku hûn berî raştirê radibin, paşê dadişênin, xwarina êşan dixwin; wisa Yahwe ji jêhezên xwe re xew dide.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Bi valahiyê"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "berî raştirê radibin"
+    },
+    {
+      "surface": "קום",
+      "gloss": "radibin"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "paşê"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "dadişênin"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "êşan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "ji jêhezên xwe re"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "xew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:47.936531667Z",
+  "model": "glm-5.3"
+}

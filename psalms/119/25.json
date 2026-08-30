@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Nefşa min li axê zeliqî ye; li gorî peyva te min zindî bike.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "zeliqî ye"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "li axê"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefşa min"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "min zindî bike"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "li gorî peyva te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:07.466220108Z",
+  "model": "glm-5.3"
+}

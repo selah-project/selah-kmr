@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ji te re dilê min got: «Rûyê min bigerin»; ⟨את⟩ rûyê te, Yahwe, ez ê bigerim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "bigerin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê te"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ez digerim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:46.364368624Z",
+  "model": "glm-5.3"
+}

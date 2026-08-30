@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Raş gunehkaran dike pey, û ⟨את⟩ yên rast bi qencî dinêre (dike xelat)",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "gunehkaran"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "dike pey"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "raş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yên rast"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "yên rast"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dinêre (dike xelat)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qencî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:39.564409199Z",
+  "model": "glm-5.3"
+}

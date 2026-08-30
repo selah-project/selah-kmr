@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Cihû ⟨את⟩ tiştê ku dest pê kiribûn bikin û ⟨את⟩ tiştê ku Mordehay ji wan re nivîsîbû pejirandin",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "pejirandin"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Cihû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku dest pê kiribûn bikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "dest pê kiribûn"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku Mordehay nivîsîbû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "nivîsîbû"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ji wan re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:50.703552848Z",
+  "model": "glm-5.3"
+}

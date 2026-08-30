@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ji bo Yahwe stranan bibêjin, çimkî tiştên hêrzeker kirine; ev bila di hemû erdê de were zanîn.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "stranan bibêjin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "tiştên hêrzeke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kirine"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "were zanîn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:12.992036779Z",
+  "model": "glm-5.3"
+}

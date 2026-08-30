@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ma balta xwe li dijî yê ku bi wê dixwişe dinaz e? An jî mablerî li dijî yê ku wê dilivîne xwe mezin dike? Wek ku darikê ←⟨את⟩→ yên wî bilivînin bilivîne, û wek ku tewere yê ku ne dar e bilivîne!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "xwe dinaz e"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "balta"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "yê dixwişe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bi wê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "an jî"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "xwe mezin dike"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "mablerî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "yê wê dilivîne"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "wek dilivîne"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "darik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yên wî bilivînin"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "yên wî bilivînin"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "wek bilivandina"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tewere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dar"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:37.628067637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û li seranserê sînorê Îsraêl keçeke rindî hat gerandin, û ⟨את⟩ Avîşag a Şûnamî ya dîtîn û anîn ⟨את⟩ wê bal padîşah.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "hat gerandin"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "keçek"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "rindî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li seranserê"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sînorê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dîtîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avîşag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avîşag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "a Şûnamî"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bal padîşah"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:44.876070071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 101,
+  "translation": "Sibeh bi sibeh ez ê hemû şerîdarên welêt bişkînim, da ku hemû kirêdarên ⟨און⟩ sûcî ji bajarê Yahwe bibrîm.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "sibeh bi sibeh"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ez bişkînim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "şerîdarên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "da ku bibrîm"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ji bajarê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kirêdarên"
+    },
+    {
+      "surface": "און",
+      "gloss": "sûcî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.542088651Z",
+  "model": "glm-5.3"
+}

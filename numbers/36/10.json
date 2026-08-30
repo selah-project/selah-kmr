@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Wekî ku Yahwe ferman da ⟨את⟩ Moşe, wusa kirin keçên Tselofhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofhad"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:20.436980789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û gel vegerna ba wî yê ku wan dixe, û ⟨את⟩ Yahwe-yê Ordîyan negeriya.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Û gel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vegerna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "wî yê ku wan dixe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe-yê Ordîyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ordîyan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "geriya"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:36.321422449Z",
+  "model": "glm-5.3"
+}

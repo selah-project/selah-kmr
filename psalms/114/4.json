@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 114,
+  "translation": "Çiyayan wekî nêçîravan hilkişiyan, giravan jî wekî zarokên refikan.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Çiyayan"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "hilkişiyan (reqsandin)"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "wekî nêçîravan (qûçik)"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "giravan"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "wekî zarokên"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "refikan (mih)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.144667780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ev in cihên diyarkirî yên Yahwe, civînên pîroz, ku hûn ê wan ⟨את⟩ di dema wan de bidarivînin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "cihên diyarkirî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "civînên"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "hûn bidarivînin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "di dema wan de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:03.245693037Z",
+  "model": "glm-5.3"
+}

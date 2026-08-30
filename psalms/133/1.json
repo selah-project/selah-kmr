@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 133,
+  "translation": "Stranên hilkişînê, ji bo Dawid. Ey va, çawa qenc e û çawa xweş e, rûniştina birayan, herwiha bi hev re.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hilkişînê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ey va"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qenc e"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "û çawa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "xweş e"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "rûniştina"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "birayan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "herwiha"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:26.478152664Z",
+  "model": "glm-5.3"
+}

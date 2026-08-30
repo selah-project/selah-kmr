@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û ji wê demê êdî, dema min çû bal Paroh da ku bi navê te biaxivim, ewî vê gelê xirab kir, û tu ⟨את⟩ gelê te qet rizgar nekir.”",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "û ji wê demê êdî"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "dema min çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "da ku biaxivim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "bi navê te"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xirab kir"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vê gelê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ê"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "û rizgar kir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "tu rizgar nekir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê te"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:43.980290128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Qêrî bi qirikê, netavê; wek şofarê dengê xwe bilind bike, û ji gelê min re serhildana wan eşkere bike, û ji malbata Yaqub re gunehên wan.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Qêrî"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "bi qirikê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "net"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "tavê"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "wek şofarê"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "bilind bike"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "dengê te"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "û eşkere bike"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ji gelê min re"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "serhildana wan"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "û ji malbata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "gunehên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:07.259316413Z",
+  "model": "glm-5.3"
+}

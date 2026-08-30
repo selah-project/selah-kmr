@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Te hemû yên ji xoqên te xeda dikin biçûk dîtin, ji ber ku derew fêlbaza wan e.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Te biçûk dîtin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "yên xeda dikin"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "ji xoqên te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "fêlbaza wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:36.316417707Z",
+  "model": "glm-5.3"
+}

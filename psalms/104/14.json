@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Çimê ji bo ajalan didime û giha ji bo xizmeta mirovan, da ku nan ji erdê derîne.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "didime"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "çimê"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ji bo ajalan"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "û giha"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ji bo xizmeta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "da ku derîne"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:15.117969596Z",
+  "model": "glm-5.3"
+}

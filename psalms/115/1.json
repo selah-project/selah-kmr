@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Ne ji me re, Yahwe, ne ji me re, lê ji navê te re rûmetê bide, li ser xesedê te, li ser rastiya te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ji navê te re"
+    },
+    {
+      "surface": "תן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "rastiya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:25.770434816Z",
+  "model": "glm-5.3"
+}

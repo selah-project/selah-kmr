@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Du milên hevgirtî ⟨כֵּן⟩ dê bin ji bo wî, li ser du dawiyên wî, û ⟨ku⟩ hevgirtî ne.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "Du"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "milên"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "hevgirtî"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dê bin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "dawiyên wî"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "hevgirtî ne"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:09.660531562Z",
+  "model": "glm-5.3"
+}

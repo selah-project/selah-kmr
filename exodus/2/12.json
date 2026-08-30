@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û wê li vir û li wir nihêrî, dît ku kes nîne, û ⟨את⟩ Mîtsrayî xist û wî di qûmê de veşart.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "û nihêrî"
+    },
+    {
+      "surface": "כה",
+      "gloss": "li vir"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "û li wir"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîtsrayî"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mîtsrayî"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "wî veşart"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "di qûmê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:58.599804067Z",
+  "model": "glm-5.3"
+}

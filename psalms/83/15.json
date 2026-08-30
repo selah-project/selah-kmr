@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Wek agir ku daristanî dişewitîne, û wek şewatê çiyan dipesinîne.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "wek agir"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "dişewitîne"
+    },
+    {
+      "surface": "יער",
+      "gloss": "daristan"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "û wek şewatê"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "dipesinîne"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:21.857571805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Tarîtî wek cihê veşartî yê xwe danî; çadira wî li dora wî, tarîtiya avan, ewrên stûr ên ezmanan.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "danî"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarîtî"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "cihê veşartî yê wî"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "li dora wî"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "çadira wî"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "tarîtiya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "ewrên stûr"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ê ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:44.111009691Z",
+  "model": "glm-5.3"
+}

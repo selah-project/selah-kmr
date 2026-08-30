@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Ahiya girt kirasoka nû ya ku li ser wî bû, û wê di duwêdeh parçeyan de qeland.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "girt"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "kirasoka"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "nû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "wê qeland"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "parçe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:34.209070958Z",
+  "model": "glm-5.3"
+}

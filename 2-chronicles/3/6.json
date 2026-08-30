@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û malperê ⟨את⟩ ji bo bedewiyê bi kevirên biha xemilandin, û zêr — zêrê Parvayim bû.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "xemiland"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malperê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malper"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kevir"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "biha"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ji bo bedewiyê"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "û zêr"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvayim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:43:29.013574467Z",
+  "model": "glm-5.3"
+}

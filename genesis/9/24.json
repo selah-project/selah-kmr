@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Noach ji mêya xwe hişyar bû, û ⟨את⟩ zanî ku kî ji bo wî çi kiribû — kurê wî yê biçûk.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "hişyar bû"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "ji mêya xwe"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "zanî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku kî ji bo wî çi kiribû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiribû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yê biçûk"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:32.288613505Z",
+  "model": "glm-5.3"
+}

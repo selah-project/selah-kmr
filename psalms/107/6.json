@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Êdî wan di tengasiya xwe de qîrîyan ber bi Yahwe, û ew ji desttengiyanên xwe rizgar kirin.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "êdî wan qîrîyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "di tengasiyê de"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ya xwe"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ji desttengiyanên xwe"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "rizgar kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:12.397253155Z",
+  "model": "glm-5.3"
+}

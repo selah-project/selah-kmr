@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Êrî wan ber bi Yahwe qîrî û gotin: \"Me guneh kir, ji ber ku me Yahwe berda û me ⟨את⟩ Baalan û ⟨את⟩ Aştoretan xizmet kir; û niha tu me ji destê dijminên me rizgar bike, êdî em ê te xizmet bikin.\"",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "qîrî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "me guneh kir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "me berda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "û em xizmet kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalan"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aştoretan"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Aştoretan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "û niha"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "tu me rizgar bike"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "dijminên me"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "êdî em ê te xizmet bikin"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:41.038158588Z",
+  "model": "glm-5.3"
+}

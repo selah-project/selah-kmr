@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û mêrên Babîlê ⟨את⟩ Sukkot-Benot çêkirin, û mêrên Kutê ⟨את⟩ Nergal çêkirin, Û mêrên Hamatê ⟨את⟩ Aşîma çêkirin.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "û mêrên"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot-"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "û mêrên"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kutê"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "û mêrên"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatê"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşîma"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Aşîma"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:32.461572368Z",
+  "model": "glm-5.3"
+}

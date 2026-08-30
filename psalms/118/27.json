@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Êl ⟨is⟩ Yahwe û ⟨Ew⟩ rûnî da me; qurbanê (cejnê) bi hespan girêdin heta qornên mezelê.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "û rûnî da"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "girêdin"
+    },
+    {
+      "surface": "חג",
+      "gloss": "qurbanê (cejnê)"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "bi hespan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "qornên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezelê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:38.099964580Z",
+  "model": "glm-5.3"
+}

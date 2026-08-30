@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Û qerborî hiz kir, ew hat bal wî; û ew ji bîrkatê re dilxwaz nebû, û ew ji wî dûr ket.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "û hiz kir"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "qerborî"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ew hat bal wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dilxwaz nebû"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "ji bîrkatê re"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "û ew dûr ket"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.611687692Z",
+  "model": "glm-5.3"
+}

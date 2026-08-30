@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û ew ji dûr ve ditînin, û berî ku nêzîkî wan bibe, ew ÎEw ⟨אתו⟩ xwe dişêwirînin ku wî bikujin.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Û ew ditînin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ji dûr ve"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "Û berî ku"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "nêzîk bibe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nêzîkî wan"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "ew xwe dişêwirînin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ku wî bikujin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:04.789084274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 61,
+  "translation": "Ji ber ku tu bûye penah ji min re, birca hêzê berî dijmin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu bûye"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "penah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "birca"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêzê"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:38.044370697Z",
+  "model": "glm-5.3"
+}

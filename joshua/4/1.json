@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û bû wekî ku hemû gel biqedînin derbasbûna ⟨את⟩ Urdunê, û Yahwe ji Yehoşua re got ku:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "biqedînin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "gel"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "derbasbûnê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdunê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdunê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku:"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:44.785112402Z",
+  "model": "glm-5.3"
+}

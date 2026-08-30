@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Bi kurrên Îsraêl re bipeyive û ji wan re bêje: cihên diyarkirî yên Yahwe — ên ku hûn ê wan ⟨את⟩ wek civînên pîroz bidarivînin — ev ⟨in⟩ cihên min ên diyarkirî.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bipeyive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "û bêje"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "cihên diyarkirî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "hûn bidarivînin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "civînên"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הם",
+      "gloss": "in"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "cihên min ên diyarkirî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:03.245200342Z",
+  "model": "glm-5.3"
+}

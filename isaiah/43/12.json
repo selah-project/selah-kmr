@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Ez ragihandim û xilas kirim û bihîndarim; û di we de biyanî tune bû; û hûn ⟨in⟩ şahidên min, gotina Yahwe, û ez ⟨im⟩ Êl.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ragihandim"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "û xilas kirim"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "û bihîndarim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "di we de"
+    },
+    {
+      "surface": "זר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "û hûn"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "şahidên min"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:35.613331253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û hîn hindik, û yê şerî nîne; û tu li cihê wî dinihêrî — û ew nîne.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "û hîn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hindik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û nîne"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yê şerî"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "û tu dinihêrî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "cihê wî"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "û ew nîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:04.798428904Z",
+  "model": "glm-5.3"
+}

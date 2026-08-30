@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Şandin cem Îzebelê û gotin: Nabot hat keviravêtin û miriye.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Îzebelê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "hat keviravêtin"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "miriye"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:55.012908998Z",
+  "model": "glm-5.3"
+}

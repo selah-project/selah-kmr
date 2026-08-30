@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Ez heta hertimê ji Te re sipasî dikim, ji ber ku Tu ev kirî; û ez li benda navê Te me, ji ber ku ew baş e, li pêş dilsozên Te.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ez sipasî dikim ji Te re"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Te kir"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "û ez li bendê me"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê Te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "dilsozên Te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:37.485761560Z",
+  "model": "glm-5.3"
+}

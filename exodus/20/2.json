@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ez im Yahwe, Elohîmê te, yê ku te ji welatê Mîtsrayim derxistiye, ji mala koletiyê.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "te derxistiye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "koletiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:21.931325345Z",
+  "model": "glm-5.3"
+}

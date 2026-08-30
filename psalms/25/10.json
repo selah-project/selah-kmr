@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Hemû rêyên Yahwe xesed û rastî ⟨ne⟩, ji bo wan yên ku peymana wî û şahidiyên wî diparêzin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "rêyên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "û rastî"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "ji bo wan yên ku ... diparêzin"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "peymana wî"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "û şahidiyên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:14.318050151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Aharon axavî ⟨את⟩ hemû peyvan ku Yahwe ji Moşe re gotibû, û nîşanan li ber çavên gelê çêkir.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axavî"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû peyvan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "nîşanan"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "li ber çavên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:38.003299213Z",
+  "model": "glm-5.3"
+}

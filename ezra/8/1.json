@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ev in serên bavên wan û nifşên wan, yên ku bi min re di padîşahiya Artachşasta padîşah de ji Babîlê bilind bûn.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "û ev"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serên"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "û nifşên wan"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "yên bilind bûn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "di padîşahiya"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachşasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ji Babîlê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:23:37.115442006Z",
+  "model": "glm-5.3"
+}

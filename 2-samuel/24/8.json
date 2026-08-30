@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Li seranserê erdê geriyan û piştî neh mehan û bîst rojan hatine Yeruşalaymê.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "geriyan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li seranserê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hatine"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "piştî \/ di dawiya"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "neh"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mehan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "û bîst"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalaymê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:31.241834217Z",
+  "model": "glm-5.3"
+}

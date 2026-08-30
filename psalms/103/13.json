@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Wekî ku bav li ser zaroyan dilovanî dike, Yahwe li ser yên ji wî ditirsin dilovanî dike.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Wekî ku … dilovanî dike"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bav"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zaroyan"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "dilovanî dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "yên ji wî ditirsin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:35.439381488Z",
+  "model": "glm-5.3"
+}

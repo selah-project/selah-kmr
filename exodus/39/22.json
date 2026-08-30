@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û wî çêkir ⟨את⟩ kincê êfodê, keda şêlandsazî, bi temamî şîn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincê"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kincê"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "êfodê"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "keda"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "şêlandsazî"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bi temamî"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "şîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:27.029050547Z",
+  "model": "glm-5.3"
+}

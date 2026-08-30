@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Ji tengiyê ez gazi Yah kirim; Yah min bi firehiyê bersiv da.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "tengiyê"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gazi … kirim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "min … bersiv da"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "bi firehiyê"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:12.127553617Z",
+  "model": "glm-5.3"
+}

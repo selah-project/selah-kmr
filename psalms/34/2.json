@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Yahwe ⟨את⟩ ez di her demê de dibêrîvanim; pesnê wî hertim di devê min de ye.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "ez dibêrîvanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di her ... de"
+    },
+    {
+      "surface": "עת",
+      "gloss": "demê"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pesnê wî"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di devê min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:17.624705118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 21:13",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û wê kincên dîlgeriyê xwe ji xwe rake, û êdî li mala te rûnê, û êdî ⟨את⟩ bavê xwe û ⟨את⟩ diya xwe mehekê bêhne bike; û piştî wê tu ê nêzî wê bibe, tu ê wê bizewicîne, û ew ê ji te re bibe jin.",
+  "tokens": [
+    {
+      "surface": "והסירה",
+      "gloss": "wê rake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincên dîlgeriyê"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "kincên"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "dîlgeriyê"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "ji xwe"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "li mala te"
+    },
+    {
+      "surface": "ובכתה",
+      "gloss": "bêhne bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê xwe"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diya xwe"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "diya"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mehek"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bêhne"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "nêzî wê bibe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "nêzî wê"
+    },
+    {
+      "surface": "ובעלתה",
+      "gloss": "bizewicîne"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:37.849278827Z",
+  "model": "glm-5.3"
+}

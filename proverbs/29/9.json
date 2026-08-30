@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Zanayekî bi ⟨את⟩ mêrekî nelîr re têdikoşe — û ew qêrî dibe, û pêdikene, û tu aramî tuneye.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "zanayekî"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "têdikoşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêrekî nelîr"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nelîr"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "û qêrî dibe"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "û pêdikene"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tu … tuneye"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "aramî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:49:07.478993048Z",
+  "model": "glm-5.3"
+}

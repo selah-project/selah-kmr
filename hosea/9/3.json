@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ew ê li welatê Yahwe rûnênin; Efrayim ê vegere Mîtsrayimê, û li Asûrê tiştê nepaqij bixwin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ê rûnênin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "û vegere"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "û li Asûr"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tiştê nepaqij"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bixwin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:50.731146424Z",
+  "model": "glm-5.3"
+}

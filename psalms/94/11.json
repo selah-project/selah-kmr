@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Yahwe ramanên mirovan dizane, ku ew pûç in.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ramanên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pûç in"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:34.254773795Z",
+  "model": "glm-5.3"
+}

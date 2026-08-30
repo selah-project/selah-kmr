@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Pir in xerabiyên sadiq, lê Yahwe ji hemûyan wî rizgar dike.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "pir in"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "xerabiyên"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadiq"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "lê ji hemûyan"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "wî rizgar dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:50.138169520Z",
+  "model": "glm-5.3"
+}

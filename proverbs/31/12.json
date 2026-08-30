@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Wê bi qencî, ne bi xerabî, dest bi wê dihê û hemû rojên jiyana wê.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "dest bi wê dihê û"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bi qencî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bi xerabî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "jiyana wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:49:58.548866873Z",
+  "model": "glm-5.3"
+}

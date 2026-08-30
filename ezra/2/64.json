@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Hemû civatê ⟨bihevra⟩ çil û du hezar, sêsed û şêst.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "wek yekî (bihevra)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çil û du hezar (çar-deh-hezar)"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "deh-hezar"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "du hezar"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "şêst"
+    }
+  ],
+  "timestamp": "2026-08-30T06:23:16.602120370Z",
+  "model": "glm-5.3"
+}

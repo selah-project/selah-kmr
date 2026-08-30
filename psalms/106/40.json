@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û hêrsa Yahwe li dijî gelê wî teqî û ew ⟨את⟩ ji mîrata xwe nefret kir.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "teqî (hêrs)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "li dijî gelê wî"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "nefret kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ji mîrata xwe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "mîrata xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:37.707442216Z",
+  "model": "glm-5.3"
+}

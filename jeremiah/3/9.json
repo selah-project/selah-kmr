@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û bû, ji ber hêsaniya zînakariya wê ⟨את⟩ erdê xerab kir û ⟨את⟩ kevirî û ⟨את⟩ daran bi zînayê girt.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ji ber hêsaniya"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "zînakariya wê"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "xerab kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "bi zînayê girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevirî"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kevirî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daran"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daran"
+    }
+  ],
+  "timestamp": "2026-08-29T20:50:17.484168590Z",
+  "model": "glm-5.3"
+}

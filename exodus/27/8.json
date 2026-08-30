@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Bi dîwaran vala tê çêkirin ⟨אתו⟩; wekî ku te li çiyê da dîtin ⟨אתך⟩, wusa wê çêbikin.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "vala"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "bi dîwaran"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tê çêkirin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "êlikê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "da dîtin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyê"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wê çêbikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:17.927016638Z",
+  "model": "glm-5.3"
+}

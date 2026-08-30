@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Xerabiya wî vajiyake serê wî, û şîdeta wî dê were xwarê ser çiyayê serê wî.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "vajiyake"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "xerabiya wî"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "serê wî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ser"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "çiyayê serê wî"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "şîdeta wî"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "dê were xwarê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:04.551766007Z",
+  "model": "glm-5.3"
+}

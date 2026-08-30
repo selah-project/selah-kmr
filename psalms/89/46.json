@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Tu rojên ciwaniya wî kurt kirî, bi şermî girtîye. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "kurt kirî"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "ciwaniya wî"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "girtîye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "şermî"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:44.408620289Z",
+  "model": "glm-5.3"
+}

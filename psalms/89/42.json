@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Hemû yên ku derbasî rê dibin talan ji wî kirin; ew bû riswatiya cîranên wî.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "talan ji wî kirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "derbasbûyên"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rê"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "riswatî"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "cîranên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:35.015660942Z",
+  "model": "glm-5.3"
+}

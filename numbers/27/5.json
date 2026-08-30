@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û Moşe doza wan anî berdev Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "anî berdev"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doza wan"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "doza wan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berdev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:31.401968844Z",
+  "model": "glm-5.3"
+}

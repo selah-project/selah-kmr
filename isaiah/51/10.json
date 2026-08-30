@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Ma tu ne ew e ku deryayê hişk kir, avên kûrahiya mezin? Ew ê ku kûrên deryayê kirin rê ji bo xelaskirîyan bên derbas kirin?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu",
+      "marks": "tu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "hişk kir"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kûrahiya"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "kirin rê"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rê"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "derbas bibin"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "xelaskirîyan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:30.961577336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Şer li ser Şaûl giran bû, û kevanvan wî girt û ew ji kevanvanan êşya.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "giran bû"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "Şer"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "û wî girt"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "kevanvan"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "bi kevan"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "êşya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "kevanvanan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:45.438599034Z",
+  "model": "glm-5.3"
+}

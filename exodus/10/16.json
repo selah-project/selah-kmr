@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Paroh lezîya ku Moşe û Aharon bîne, û got: «Ez li hember Yahwe, Elohîmê we, guneh kiriye û li hember we.»",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "lezîya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ku bîne"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "guneh kiriye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "li hember Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "û li hember we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:23.896552643Z",
+  "model": "glm-5.3"
+}

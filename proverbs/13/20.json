@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "⟨את⟩ mêran re bigere û bibe zana; yê ku xwe bi kervalan ve girêdide tê xirabkirin.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "bigere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêran"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "û bibe zana"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "yê ku xwe ve girêdide"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "bi kervalan"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "tê xirabkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:42.958837416Z",
+  "model": "glm-5.3"
+}

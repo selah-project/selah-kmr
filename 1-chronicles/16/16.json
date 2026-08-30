@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "ku bi Avraham re ⟨את⟩ jêbirinê çêkir, û sondê xwe da Yîtshaq —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "çêkir (jêbirinê)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "û sondê wî"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "da Yîtshaq"
+    }
+  ],
+  "timestamp": "2026-08-30T06:36:28.254524423Z",
+  "model": "glm-5.3"
+}

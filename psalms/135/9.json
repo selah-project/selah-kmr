@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Şand nîşanan û matemat li navenda te, Mîtsrayim, li ser Firavn û li ser hemû xulamên wî.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Şand"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "nîşanan"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "û matemat"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "li navenda te"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "li ser Firavn"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û li ser hemû"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.663316543Z",
+  "model": "glm-5.3"
+}

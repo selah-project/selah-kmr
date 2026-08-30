@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ji bo aliyê duyem yê Mîşkanê, aliyê bakur, çar bîstan çêkir — bîst daristan.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "û ji bo aliyê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "yê Mîşkanê"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "aliyê duyem"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ji bo aliyê"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bakur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "daristan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:33.434476394Z",
+  "model": "glm-5.3"
+}

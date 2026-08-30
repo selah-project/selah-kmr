@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û niha vê erdê ⟨את⟩ wek mîrasê parve bike ji bo neh eşîran û nîvê eşîra Menashe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "parve bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "wek mîrasê"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "ji bo neh"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "eşîran"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "û nîvê"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "eşîra"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:19:15.900347517Z",
+  "model": "glm-5.3"
+}

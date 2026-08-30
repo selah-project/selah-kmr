@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û wî ⟨את⟩ wê bi zêrê paqij ûrû kir, û ji bo wê dora zêrî çêkir — dorhûl.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ûrû kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wê"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dora"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrî"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dorhûl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:08.383315301Z",
+  "model": "glm-5.3"
+}

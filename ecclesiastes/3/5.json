@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Dem avêtina keviran e û dem berhevkirina keviran; dem miçokkirinê e û dem dûrketinê ji miçokkirinê.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "avêtina"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "keviran"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "berhevkirina"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "keviran"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "miçokkirinê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "dûrketinê"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "ji miçokkirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:47.254048592Z",
+  "model": "glm-5.3"
+}

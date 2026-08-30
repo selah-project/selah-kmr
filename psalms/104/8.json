@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Çiya bilind dibin, newal dadikevin — ber bi cihê ku tu ji bo wan danî.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "bilind dibin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "dadikevin"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "newal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "danî"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:17.599315752Z",
+  "model": "glm-5.3"
+}

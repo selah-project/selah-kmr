@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Dengê lavajiyên min bibihîze, di qîrîna min a ber bi te de, di hilkirina destên min a ber bi debîra pîroza te de.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lavajiyên min"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "di qîrîna min de"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ber bi te"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "di hilkirina min de"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debîrê"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pîroza te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:11.635523381Z",
+  "model": "glm-5.3"
+}

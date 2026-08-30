@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Yahwe, dilovanîya xwe li min bike; binêre zeidetîya min ji alîyê dijminên min ve — ê ku min ji deriyên mirinê bilind dike.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "dilovanîya xwe li min bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "zeidetîya min"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ji dijminên min"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "ê ku bilind dike"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "ji deriyên"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:22.264072500Z",
+  "model": "glm-5.3"
+}

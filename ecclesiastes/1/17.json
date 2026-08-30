@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Min dilê xwe da ku ez hînmendî û şêwirmendiyê bizanibim, û ez ji dînî û rewîtiyê haydar bibim; min zanî ku ev jî kenifekî ba ye.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "min da"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ku ez bizanibim"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hînmendî û şêwirmendî"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "û ez haydar bibim"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "dînî"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "û rewîtî"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "min zanî"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "ku ev jî"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ev"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "kenif"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:59.516748657Z",
+  "model": "glm-5.3"
+}

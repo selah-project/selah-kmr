@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Wê jê çêkî: rûnê meshkirînê pîroz, têkelê bêhnî, karê bêhnî-çêker; rûnê meshkirînê pîroz dê be.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Wê jê çêkî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rûnê meshkirînê pîroz"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "meshkirînê"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "têkelê bêhnî"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "têkû"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karê"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "bêhnî-çêker"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "meshkirînê"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dê be"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:09.115431664Z",
+  "model": "glm-5.3"
+}

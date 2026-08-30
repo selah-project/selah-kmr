@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ger ez guneh kiribam, tu min digerandinî û ji aûna min re tu ê min paqij dernexî.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ez guneh kiribam"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "tu min digerandinî"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "û ji aûna min re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "tu ê min paqij dernexî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:48.718399880Z",
+  "model": "glm-5.3"
+}

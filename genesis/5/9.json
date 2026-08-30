@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Enoş ninety salan jiyî û ⟨את⟩ Keynan bû bav.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiyî û"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoş"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ninety"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bû bav û"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keynan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keynan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:10.843548996Z",
+  "model": "glm-5.3"
+}

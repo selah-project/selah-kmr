@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "û ⟨את⟩ hemû Naftalî, û ⟨את⟩ erdê Efrayim û Menoşe, û ⟨את⟩ hemû erdê Yehuda, heta deryaya paşîn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû Naftalî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "erdê Efrayim û Menoşe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "û Menoşe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû erdê Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryaya"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "paşîn"
+    }
+  ],
+  "timestamp": "2026-08-29T19:13:50.578196273Z",
+  "model": "glm-5.3"
+}

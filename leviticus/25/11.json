@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Yovel ew e, sala pêncîemîn sal ⟨e⟩, ji bo we be; hûn nêkin çandin û hûn nê çînin ⟨את⟩ çandina-xwe-serê wê, û hûn nê komirin ⟨את⟩ tirîyên wê yên bêçavanîkirî.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sal"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "pêncîemîn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nê"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "hûn çandin bikin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nê"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "hûn çînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çandina-xwe-serê wê"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "çandina-xwe-serê wê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nê"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "hûn tirî komirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirîyên wê"
+    },
+    {
+      "surface": "נזרים",
+      "gloss": "bêçavanîkirî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:10.389955407Z",
+  "model": "glm-5.3"
+}

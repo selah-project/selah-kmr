@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Tu erdê serdan dike û wê ava dike, bi pirranî tu wê dewlemend dike; kaniya Elohîm ji avê tijî ye; genimê wan amade dike, çawa wê amade dike.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "serdan dike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "û wê ava dike"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "bi pirranî"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "dewlemend dike"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tijî"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji avê"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "amade dike"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "genimê wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "amade dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:06.090968601Z",
+  "model": "glm-5.3"
+}

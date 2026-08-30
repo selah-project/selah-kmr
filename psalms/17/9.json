@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Ji rûyê neyînan yên ku min wêran kirin; dijminên min bi can li dor min digrin.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ji rûyê"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "neyînan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "min wêran kirin"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bi can"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "li dor digrin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:16.478677740Z",
+  "model": "glm-5.3"
+}

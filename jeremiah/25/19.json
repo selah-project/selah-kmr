@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "⟨את⟩ Firawn, keyê Mîtsrayimê, û ⟨את⟩ xulamên wî, û ⟨את⟩ serokên wî, û ⟨את⟩ hemû gelê wî.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Firawn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "xulamên wî"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "serokên wî"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "serokên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû gelê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:59:55.875661264Z",
+  "model": "glm-5.3"
+}

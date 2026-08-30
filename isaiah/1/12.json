@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Dema ku hûn tên ji bo dîtina rûyê min, kî vê yekê ji destên we xwest — gava hûn li deriyên min dihesin?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "hûn tên"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ji bo dîtina"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "xwest"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê yekê"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "ji destên we"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "dihesin (pê dikin)"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "li deriyên min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:08.788391104Z",
+  "model": "glm-5.3"
+}

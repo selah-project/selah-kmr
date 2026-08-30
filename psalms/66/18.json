@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Ger ez di dilê xwe de xerabî bibînim, Adonay û nabihîse.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "bibînim"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "di dilê xwe de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "bihîse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:37.553910477Z",
+  "model": "glm-5.3"
+}

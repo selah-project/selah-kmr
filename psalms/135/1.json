@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Yah bilînin, ⟨את⟩ navê Yahwe bilînin, xizmetkarên Yahwe, bilînin!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bilînin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bilînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bilînin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmetkarên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:04.340919458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Wî bihuştînê dît ku baş e û ⟨את⟩ erdê ku delal e; wî milê xwe berdan ji bo barkirinê û bû xizmetkarê bacê.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Wî ... dît"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "bihuştînê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "delal e"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "milê xwe"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "ji bo barkirinê"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "למס",
+      "gloss": "bacê"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xizmetkarê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:46.389166587Z",
+  "model": "glm-5.3"
+}

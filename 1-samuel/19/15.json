@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û Şaul ⟨את⟩ şindan şandin da ku Dawid bibînin, gotibû: “Wî bi nivînê hildin bîne min, da ku ez wî bikujim.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şindan"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "şindan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da ku bibînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "hildin bîne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "bi nivînê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "da ku ez wî bikujim"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:56.169873804Z",
+  "model": "glm-5.3"
+}

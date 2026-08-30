@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û xizmetkarên keyê Aramê ji wî re gotin: Elohîmên çiyan Elohîmên wan in; ji ber wê ji me xurtir bûn; lê belê em bi ⟨את⟩ wan re li deştê şer bikin — ma em ne xurtir bin ji wan?",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "Û xizmetkarên"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramê"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmên"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmên wan in"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "xurtir bûn"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji me"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "lê belê"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "şer bikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bi ⟨את⟩ … re",
+      "marks": "wan"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "li deştê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "xurtir bin"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:51.036389309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Hêz ji Elohîm re bibêjin; serbilindiya wî li ser Yisraêl e, û hêza wî di ewran de ye.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "עז",
+      "gloss": "Hêz"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji Elohîm re"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "serbilindiya wî"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "û hêza wî"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "di ewran de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:10.672224781Z",
+  "model": "glm-5.3"
+}

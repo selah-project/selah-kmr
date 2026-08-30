@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "û xulamên Amon li dijî wî plan dan hev û padişah di malê wî de kuştin.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "û plan dan hev"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li dijî wî"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "û kuştin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padişah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padişah"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di malê wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:46.722227971Z",
+  "model": "glm-5.3"
+}

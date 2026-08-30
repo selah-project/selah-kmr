@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ji ber ku xesed ⟨a⟩ te li ber çavên min e, û ez di rastiya te de geriyam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesed-a te"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "û ez geriyam"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "di rastiya te de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:58.645375367Z",
+  "model": "glm-5.3"
+}

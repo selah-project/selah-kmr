@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "û ⟨את⟩ kincên xizmetê, û ⟨את⟩ kincên pîrozîyê ji bo Aharon kahîn, û ⟨את⟩ kincên kurên wî ji bo kahîntîyê,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kincên xizmetê"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kincên"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "xizmetê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kincên pîrozîyê"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kincên"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîrozîyê"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kincên kurên wî"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kincên"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ji bo kahîntîyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:33.603603545Z",
+  "model": "glm-5.3"
+}

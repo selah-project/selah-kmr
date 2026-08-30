@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "(⟨⟨Eymîm⟩⟩ berê tê de dijiyan — komelake mezin û pir û bilind, wek Enaqiyan.)",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Eymîm"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "berê"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dijiyan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "עם",
+      "gloss": "komel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û pir"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "û bilind"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "wek Enaqiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:34.919869749Z",
+  "model": "glm-5.3"
+}

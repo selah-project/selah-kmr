@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Eniyên te bi zînaran xweş dibin, stûyê te jî bi dilopan.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "xweş dibin"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "eniyên te"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "bi zînaran"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "stûyê te"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "bi dilopan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:51.256330282Z",
+  "model": "glm-5.3"
+}

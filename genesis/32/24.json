@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û wan girt, û wan ji aliyê çemê derbas kir, û ⟨את⟩ tiştên ku ji wî re bun derbas kir.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "û wan girt"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "û wan derbas kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çem"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "çem"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "û derbas kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştên ku ji wî re bûn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:15.171715201Z",
+  "model": "glm-5.3"
+}

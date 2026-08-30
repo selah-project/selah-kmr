@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "„Yekî ji we bişînin û bila ⟨את⟩ birayê xwe bîne; hûn jî werin girtin, da ku gotinên we werin ceribandin — gelo rastî ⟨bi⟩ we re ye an na; û ger na — bi jiyana Paroh, hûn bi rastî casûs in.“",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "bişînin"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "yekî ji we"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "bila … bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayê xwe (אחיכם)"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "birayê we"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "hûn jî"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "werin girtin"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "werin ceribandin"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "gotinên we"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we (bi we re)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bi jiyana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casûs"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:42.353198488Z",
+  "model": "glm-5.3"
+}

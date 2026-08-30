@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û şer hebû di navbera Asa û Başa, keyê Îsraêl, de, hemû rojên wan.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Û şer"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "hebû"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera … de"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "rojên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:13.515636305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û qediya hemû xebata çadirê — çadira civînê; û kurên Îsraêlî ji bo hemû tiştên ku Yahwe ferman da ⟨את⟩ Moşe wisa kirin.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "Û qediya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xebata"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "çadirê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "û kirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştên ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:54.377944151Z",
+  "model": "glm-5.3"
+}

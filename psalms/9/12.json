@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ji bo Yahwe yê ku li Siyonê rûniştiye stranan bibêjin, di nav gelan de kiryarên wî eşkere bikin.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "stranan bibêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Ji bo Yahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûniştiye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonê"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "eşkere bikin"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "kiryarên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:07.469493414Z",
+  "model": "glm-5.3"
+}

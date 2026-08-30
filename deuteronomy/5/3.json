@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Na bi ⟨את⟩ bavên me Yahwe ⟨את⟩ vê peymanê birî, lê bi me — em, ev, li vir îro, em hemû zindî ne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "bi ⟨את⟩",
+      "marks": "bavên me"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "birî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê peymanê"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "vê peymanê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "bi me ⟨את⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "פה",
+      "gloss": "li vir"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "em hemû"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:31.331481318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Derew û xerabî li bal derê xwe digundirîne; xwe li ser riyeke ku ne qenc e radike; ji xerabîyê naqewe.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "derew û xerabî"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "digundirîne"
+    },
+    {
+      "surface": "על",
+      "gloss": "li bal"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "derê xwe"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "radike xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "riyê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qenc"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabîyê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "naqewe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:42.319630319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Û gazî min bike di roja tengasiyê de; ez ê te rizgar bikim, û tu yê min bi rûmet bigirînî.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "û gazî min bike"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tengasiyê"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ez ê te rizgar bikim"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "û tu yê min bi rûmet bigirînî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:11.237329686Z",
+  "model": "glm-5.3"
+}

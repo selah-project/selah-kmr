@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Tu kanî û çem vêkirî; tu çemên domdar hişk kirî.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "vêkirî"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "kanî"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "û çem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "hişk kirî"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çemên"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "domdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:34.238115402Z",
+  "model": "glm-5.3"
+}

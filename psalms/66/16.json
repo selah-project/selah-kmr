@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Werin, bibihîzin, ên hemû ji Elohîm ditirsin, û ezê bêjim ka ew çi ji cana min re kirîye.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Werin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bibihîzin"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "û ezê bêjim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ên ditirsin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kirîye"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ji cana min re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:28.706683958Z",
+  "model": "glm-5.3"
+}

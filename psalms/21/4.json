@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ji ber ku tu wî bi bendewariyên baş pêşwazî dikî, tacê zêrê safî li serê wî datênî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "tu wî pêşwazî dikî"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bi bendewariyan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "datênî"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "li serê wî"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "tacê"
+    },
+    {
+      "surface": "פז",
+      "gloss": "zêrê safî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:03.291412282Z",
+  "model": "glm-5.3"
+}

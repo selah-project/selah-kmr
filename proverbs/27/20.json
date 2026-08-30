@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Şeol û Abadon (tunebûn) têr nabin, û çavên mirov jî têr nabin.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "û Abadon (tunebûn)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nakin"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "têr"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "û çavên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nakin"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "têr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:49.517836504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Şîretê ⟨dî⟩ sedetan hûn bi şerm dixin, çimkî Yahwe penahê wî ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Şîretê"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sedetan"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "hûn bi şerm dixin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "penahê wî ye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:48.675788411Z",
+  "model": "glm-5.3"
+}

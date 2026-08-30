@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Moab destşûşeya min ⟨e⟩; li ser Edomê pêlavê xwe davêjim; li ser Fîlîştîyê qêrîna xwe dikim.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "destşûşe"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "şûştina min"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomê"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "davêjim"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "pêlavê xwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Fîlîştîyê"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "qêrîna xwe dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.633242090Z",
+  "model": "glm-5.3"
+}

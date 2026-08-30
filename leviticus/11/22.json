@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji wan van ⟨את⟩ hûn dikarin bixwin: ⟨את⟩ kêzika çolê bi cureyê xwe, ⟨את⟩ kêzika keven bi cureyê xwe, ⟨את⟩ kêzika zeviyê bi cureyê xwe û ⟨את⟩ kêzikê bi cureyê xwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hûn dikarin bixwin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêzika çolê"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "kêzika çolê"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "bi cureyê xwe"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "kêzika keven"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "kêzika keven"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "bi cureyê xwe"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "kêzika zeviyê"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "kêzika zeviyê"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "bi cureyê xwe"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "kêzikê"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "kêzik"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "bi cureyê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:13.941294955Z",
+  "model": "glm-5.3"
+}

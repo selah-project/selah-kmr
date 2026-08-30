@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Bextiyar e wî mirovî ku hêza wî ji te re ye, û rêyên mezin di dilê wan de ne.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "bextiyar e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wî mirovî"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "rêyên mezin"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "di dilê wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:58.405461901Z",
+  "model": "glm-5.3"
+}

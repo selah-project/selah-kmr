@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Wî hêrsa xwe ya sotî li wan şand, êrîş û qehr û tengasî — Şandina şandyarên nebaş.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li wan"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "sotbûn"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hêrsa wî"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "êrîş"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "û qehr"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "û tengasî"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "Şandina"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "şandyarên"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "nebaş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.092738965Z",
+  "model": "glm-5.3"
+}

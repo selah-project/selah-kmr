@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Hîram, keyê Tsorê, şand ⟨את⟩ xulamên xwe ji Şelomo re, ji ber ku bihîstibû ku ⟨את⟩ wî ji bo keyîyê di şûna bavê wî de rûnandibûn, ji ber ku Hîram hemû diwman ji Dawid re hezbû.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Û şand"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hîram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsorê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên wî"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîstibû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "rûnandibûn"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji bo keyîyê"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hezbû"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hîram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "diwman"
+    }
+  ],
+  "timestamp": "2026-08-30T03:36:18.716639363Z",
+  "model": "glm-5.3"
+}

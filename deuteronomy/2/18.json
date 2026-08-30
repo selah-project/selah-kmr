@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Tu îro ⟨את⟩ sinorê Moabê, ⟨את⟩ Ar derbas dikî:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas dikî"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinorê Moabê"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sinor"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:49.833291498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber ku hûn ê ji daran ên ku we lê xwest şerm bikin, û hûn ê ji baxçeyên ku we hilbijart şerm bibin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "şerm bikin"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "ji daran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "we lê xwest"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "û şerm bibin"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "ji baxçeyên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "we hilbijart"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:27.044041353Z",
+  "model": "glm-5.3"
+}

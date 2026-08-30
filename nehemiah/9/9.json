@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ⟨את⟩ êşa bavên me li Mîtsrayim dîtî û ⟨את⟩ qêriya wan li ser Deryaya Qamîş bihistî.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dîtî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êşa bavên me"
+    },
+    {
+      "surface": "עני",
+      "gloss": "êş"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "li Mîtsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qêriya wan"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "qêriya wan"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "bihistî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamîş"
+    }
+  ],
+  "timestamp": "2026-08-30T06:28:30.240625597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Akîş (Akish) ji xulamên xwe re got: «Hûn dibînin, ev mêrê dîn e! Çima hûn ⟨את⟩ wî dibinin bal min?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akîş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hûn dibînin"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "hûn dibînin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "dîn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "hûn dibinînin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bal min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:31.844918963Z",
+  "model": "glm-5.3"
+}

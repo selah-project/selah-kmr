@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û piştî wan ên dê heft salên birçîbûnê rabin, û hemû têrbûn ê wê li erda Mîtsrayim bê jibîrkirin, û birçîbûn ê wê erdê ⟨את⟩ xerab bike.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "ê rabin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שני",
+      "gloss": "salên"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "birçîbûnê"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "piştî wan"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "ê bê jibîrkirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "têrbûn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ê xerab bike"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "birçîbûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:00.815097212Z",
+  "model": "glm-5.3"
+}

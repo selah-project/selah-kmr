@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Avraham zû çû ber bi çadirê, ber bi Sara, û got: Zû bike — sê seah arda hûr bîne, têke û nanên sor çêke.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "zû kir"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "ber bi çadirê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "zû bike"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "seah"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ard"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "arda hûr"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "têke"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "çêke"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "nanên sor"
+    }
+  ],
+  "timestamp": "2026-08-29T17:40:20.049144438Z",
+  "model": "glm-5.3"
+}

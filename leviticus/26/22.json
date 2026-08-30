@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "û ez ê ajelên çolê bi şandinê li we bişînim, ew ê ⟨את⟩ ⟨את⟩ hûn bêzar û sêwî bikin, ⟨את⟩ dewarên we qut bikin û hûn kêm bikin, û rêyên we wê wêran bibin.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "ez ê bişînim"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "li we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajelên çolê"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ajelên"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "wê bêzar û sêwî bike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "hûn"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "wê qut bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewarên we"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "dewarên we"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "wê kêm bike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "hûn"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "wê wêran bibin"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "rêyên we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:29.027078010Z",
+  "model": "glm-5.3"
+}

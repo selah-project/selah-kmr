@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Ji ber ku tîrên te di min de xwarê çûn, û destê te li ser min daxist.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "tîrên te"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "xwarê çûn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di min de"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "û … daxist"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:28.489824921Z",
+  "model": "glm-5.3"
+}

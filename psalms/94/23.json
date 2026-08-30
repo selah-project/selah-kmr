@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Û ⟨את⟩ belaya wan li ser wan vegerand, û di xerabiya wan de dê wan bêdav bike; dê wan bêdav bike — Yahwe, Elohîmê me.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "û vegerand"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belaya wan"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "belaya wan"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "û di xerabiya wan de"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "dê wan bêdav bike"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "dê wan bêdav bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:45.811137780Z",
+  "model": "glm-5.3"
+}

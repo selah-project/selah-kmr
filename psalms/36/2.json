@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Sûcdarî ji gunehkar re dibêje, di nava dilê min de: tirsandina Elohîm li ber çavên wî nîne.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "gotina pêşayanê dibêje"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "sûcdarî"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ji gunehkar re"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min de"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tirsandina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:56.849828364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ xulamên we û ⟨את⟩ kînan we û ⟨את⟩ xortên we yên çêtirîn û ⟨את⟩ kerên we dê bistîne û dê bikarîne bo keda xwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "xulamên we"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "xulamên we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kînan we"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "kînan we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "xortên we"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "xortên we"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "yên çêtirîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kerên we"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "kerên we"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dê bistîne"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "û dê bikarîne"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "bo keda xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:29.660199946Z",
+  "model": "glm-5.3"
+}

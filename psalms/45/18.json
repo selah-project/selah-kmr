@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Navê te dê di hemû nifş û nifş de bi bîr bînim; ji ber wê gelan dê heta dawî û her û her pesnê te bidin.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "bi bîr bînim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Navê te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nifş"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "û nifş"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "pesnê te bidin"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "heta dawî"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û her û her"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:50.389208231Z",
+  "model": "glm-5.3"
+}

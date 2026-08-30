@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Yahwe poşman bû ku ⟨את⟩ mirov li ser erdê çêkiribû, û li dilê xwe hîn xemgîn bû.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "poşman bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirov"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erdê"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "xemgîn bû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:48.398444561Z",
+  "model": "glm-5.3"
+}

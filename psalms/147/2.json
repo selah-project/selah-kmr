@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Yahwe Yeruşalayimê ava dike, awirî yên Îsraêlê dicivîne.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "ava dike"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "awirî yên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "dicivîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:22.040138754Z",
+  "model": "glm-5.3"
+}

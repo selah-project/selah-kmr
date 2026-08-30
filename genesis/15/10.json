@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û ew ⟨את⟩ hemû van ji xwe re girt û wan ⟨את⟩ di navberê de qut kir, her perçeyê li hember hevalê xwe danî; lê balindeyê ⟨את⟩ nequtand.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "qut kir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di navberê de"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her perçeyê"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "perçeya wî"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "li hember"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "balindeyê"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "balindeyê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "qutand"
+    }
+  ],
+  "timestamp": "2026-08-29T17:40:21.534033321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û min li ber çavên wan ferman da ⟨את⟩ Barux, gotinên ku:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "û min ferman da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barux"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barux"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "li ber çavên wan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotinên ku:"
+    }
+  ],
+  "timestamp": "2026-08-29T21:03:45.047693514Z",
+  "model": "glm-5.3"
+}

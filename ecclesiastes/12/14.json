@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Çinko Elohîm ⟨את⟩ hemû karan dibe ⟨ג⟩ dadgehê, li ser hemû tiştê veşartî — çi baş be û çi xerab be.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çinko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû karan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dadgehê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "tiştê veşartî"
+    },
+    {
+      "surface": "אם",
+      "gloss": "çi... be"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û çi... be"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerab"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:27.285566490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Tu netewanan rexne kir, tu yê rastê xerab ji holê rakir; navê wan ji bo hertimî û hertimî jê birî.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "tu rexne kir"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "tu ji holê rakir"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yê rastê xerab"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "navê wan"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "jê birî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertimî"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:56.374135861Z",
+  "model": "glm-5.3"
+}

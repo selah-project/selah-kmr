@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Dengê Yahwe bi hêz ⟨ye⟩, dengê Yahwe bi dilovanî ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "bi hêz"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "bi dilovanî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:45.748574778Z",
+  "model": "glm-5.3"
+}

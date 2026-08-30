@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Þû kurên Îsraêlê li deştên Moabê sê rojan serê Moşe şûnandin, û rojên girî û sîna lêdanê yên serê Moşe qedinîn.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "serê Moşe şûnandin, girîyan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "li deştên"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabê"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sê rojan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "qedinîn"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "girî"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "û sîna lêdanê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "serê Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:13:27.982949518Z",
+  "model": "glm-5.3"
+}

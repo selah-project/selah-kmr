@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Balak ji Bilam re got: “Tu qet lînînî û qet nelînînî, tu qet birûmetî û qet nebirûmetî.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "qet"
+    },
+    {
+      "surface": "קב",
+      "gloss": "lînînî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "nelînînî"
+    },
+    {
+      "surface": "גם",
+      "gloss": "qet"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "birûmetî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "nebirûmetî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:50:39.346166994Z",
+  "model": "glm-5.3"
+}

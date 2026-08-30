@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Da ku tubit Yahwe, Elohîmê xwe, bitirsîni û biparêzî ⟨את⟩ hemû hukmên wî û fermanên wî, ku ezê fermanî te bidim — tu û kurê te û kurê kurê te, hemû rojên jiyanê xwe — û da ku rojên te dirêj bibin.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bitirsîni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "û biparêzî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû hukmên wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "hukmên wî"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "û fermanên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "fermanî te bidim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "û kurê te"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "û kurê"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jiyanê te"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "û da ku"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "dirêj bibin"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "rojên te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:24.010151253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û Yaakob çavên xwe hildan, temaşe kir û lêre, Esav dihat, û bi wî re çar sed mêr; û zarokan ⟨את⟩ li ser Lea û li ser Raheel û li ser herdu dikan parva kir.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên xwe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "temaşe kir"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lêre"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dihat"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "û bi wî re"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "parva kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokan"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "zarokan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "dikan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:45.311235561Z",
+  "model": "glm-5.3"
+}

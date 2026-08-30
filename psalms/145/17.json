@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Rast e Yahwe di hemû rêyên xwe de, û xeseddar di hemû karên xwe de.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "rêyên xwe de"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "û xeseddar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:10.270866253Z",
+  "model": "glm-5.3"
+}

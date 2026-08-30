@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Mîka kurê wî, Reayah kurê wî, Baal kurê wî.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "Mîka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Reayah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:35.195835754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ⟨את⟩ çermê ga û ⟨את⟩ hemû goştê wî, bi serê wî û bi lingên wî, û navikên wî û seqên wî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çermê ga"
+    },
+    {
+      "surface": "עור",
+      "gloss": "çermê"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû goştê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "serê wî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û bi"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "lingên wî"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "û navikên wî"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "û seqên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:44.392999937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Êdî wê werin wê derê û ⟨את⟩ hemû tiştên nefretê û ⟨את⟩ hemû tiştên netirsnak ji wê derê rakejin.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "û wê werin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wê derê"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "û ... rakejin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên nefretê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "tiştên nefretê yên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû tiştên netirsnak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "tiştên netirsnak yên wê"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ji wê derê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:47:15.866807419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Bila gelê te bi rastî bike dadî, û feqîrên te bi dad.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "bike dadî"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "û feqîrên te"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "bi dad"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:56.502007280Z",
+  "model": "glm-5.3"
+}

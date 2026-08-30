@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Wek cilê tu bi tehomê (kûrahiya mezin) veşartî; li ser çiyan av radiwestin.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "tehomê (kûrahiya mezin)"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "wek cilê"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "veşartî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyan"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "radiwestin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:17.599046700Z",
+  "model": "glm-5.3"
+}

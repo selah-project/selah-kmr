@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Mirovê rast wekî xurmeyê şîn dide, wekî sedrê li Lubnanê dê bilind bibe.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "mirovê rast"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "wekî xurmeyê"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "şîn dide"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "wekî sedrê"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "li Lubnanê"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "dê bilind bibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:54.907088579Z",
+  "model": "glm-5.3"
+}

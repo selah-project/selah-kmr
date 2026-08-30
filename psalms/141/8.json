@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 141,
+  "translation": "Çimkî çavên min ber bi te ne, Yahwe Adonay; di te de ez bawerî kirime; canê min vala neke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ber bi te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ez bawerî kirime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תער",
+      "gloss": "vala neke"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:28.115737229Z",
+  "model": "glm-5.3"
+}

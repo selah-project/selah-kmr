@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ba xwe bigirin û hûn ⟨את⟩ fermanên Yahwe Elohîmê xwe biparêzin, û şahidiyên wî û biryarên wî, ku ji te re ferman kiriye.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ba-xwe-bigirin"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "hûn-biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê-xwe"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "û-şahidiyên-wî"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "û-biryarên-wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ji-te-re-ferman-kiriye"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:07.075382125Z",
+  "model": "glm-5.3"
+}

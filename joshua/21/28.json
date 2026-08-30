@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji eşîra Yisasxar (Yisasxar) ⟨את⟩ Kishyon (Kishyon) û ⟨את⟩ çêreza wê, ⟨את⟩ Daberat (Daberat) û ⟨את⟩ çêreza wê.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "û ji eşîra"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisasxar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêreza wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêreza wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêreza wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêreza wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:52.380414784Z",
+  "model": "glm-5.3"
+}

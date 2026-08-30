@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û ew bihîst ⟨את⟩ gotinên kurên Lavanê, ku digotin: Yaqûb ⟨את⟩ hemû tiştê bavê me girtiye; û ji tiştê bavê me ev ⟨את⟩ hemû rûmet çê kiriye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gotinên"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku digotin"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "girtiye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqqûb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "bavê me"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "û ji tiştê"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "bavê me"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çê kiriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû rûmet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-08-29T17:49:32.091599483Z",
+  "model": "glm-5.3"
+}

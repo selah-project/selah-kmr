@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Xwe biparêze ku Yahwe Elohîmê xwe ji bîr neke, ji bo ku ne fermanên wî û hukmên wî û biryarên wî yên ku ez îro ji te re ferman dikim, bigirî.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Xwe biparêze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "xwe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ku ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ji bîr neke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ji bo ku ne"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bigirî"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "fermanên wî"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "û hukmên wî"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "û biryarên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ji te re ferman dikim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:33.207853085Z",
+  "model": "glm-5.3"
+}

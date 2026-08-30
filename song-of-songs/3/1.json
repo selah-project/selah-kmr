@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ser textiyê min, di şevan de, min ⟨את⟩ yê ku cana min hez dike lê geriya; min lê geriya û nedîtin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "textiyê min"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "di şevan de"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "min geriya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê ku cana min hez dike"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "yê ku... hez dike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "cana min"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "min lê geriya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "nedîtin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:33.246279362Z",
+  "model": "glm-5.3"
+}

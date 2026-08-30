@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Di te de, ey Yahwe, ez bawer kirim; bila tu caran neşermîn bim; di rastiya xwe de rizgar bikim.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ez bawer kirim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "şermîn bim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tu caran"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "di rastiya xwe de"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "rizgar bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:50.416438406Z",
+  "model": "glm-5.3"
+}

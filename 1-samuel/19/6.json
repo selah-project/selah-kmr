@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û Şaul dengê Yehonatan bihîst û Şaul sond xwar: «Her ku Yahwe zindî ye, ew nayê kuştin.»",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "sond xwar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ke>"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "nayê kuştin"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:50.232467599Z",
+  "model": "glm-5.3"
+}

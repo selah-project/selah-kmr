@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ey dijmin! Xerabûn bi temamî qediyan; û bajaran tu hûnandî — bîra wan bi xwe re winda bûye.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Ey dijmin"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "qediyan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "xerabûn"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "bi temamî"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "û bajaran"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "tu hûnandî"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "winda bûye"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "bîra wan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bi xwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:56.374382211Z",
+  "model": "glm-5.3"
+}

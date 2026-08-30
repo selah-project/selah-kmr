@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 138,
+  "translation": "Yahwe, hemû padîşahên erdê te bênimet, çimkî wan gotinên devê te bihistine.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "te bênimet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wan ... bihistine"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "devê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:32.466449076Z",
+  "model": "glm-5.3"
+}

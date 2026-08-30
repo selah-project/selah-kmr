@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ên wan ji cihê bilind daketin ⟨heta⟩ bajarê, û ⟨Samûêl⟩ bi Şaul re li ser banê axaft.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "daketin"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "ji cihê bilind"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "û axaft"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "banê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:38:18.292408398Z",
+  "model": "glm-5.3"
+}

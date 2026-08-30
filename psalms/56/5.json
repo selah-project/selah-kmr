@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Bi Elohîm pesnê dibeleya wî didim, bi Elohîm spêde kirime, êdî natirsim — goşt çi dikare ji min re bike?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Bi Elohîm"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "pesnê didim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dibeleya wî"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "bi Elohîm"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "spêde kirime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ditirsim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:27.827940367Z",
+  "model": "glm-5.3"
+}

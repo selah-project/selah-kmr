@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Yahwe hêzê dide gelê xwe; Yahwe ⟨את⟩ gelê xwe bi aşitiyê diberîkatîne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "diberîkatîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê xwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "bi aşitiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:39.920505667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û wan ketin peymanê ku ⟨את⟩ Yahwe, Elohîmê bavên xwe, bi tevahiya dilê xwe û bi tevahiya canê xwe bigerînin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "û wan ketin"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "peymanê"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ku bigerînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tevahiya"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û bi tevahiya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:47:04.207589428Z",
+  "model": "glm-5.3"
+}

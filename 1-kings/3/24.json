@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û şah got: Ji min re şûrî bînin. Û şûrî anîye ber şah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûrî"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "û anîye"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "şûrî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:13.316231994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Ger ez balên sibehê bidihêlim û li dawiyên deryayê bi cih bibim,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "bidihêlim"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "balên"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "bi cih bibim"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "li dawiyên"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:19.527432554Z",
+  "model": "glm-5.3"
+}

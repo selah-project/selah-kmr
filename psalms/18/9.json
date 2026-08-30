@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ash ji pozê wî bilind bû, û agir ji devê wî dixwar; komir ji wî hatin pêketin.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ash"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ji pozê wî"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "û agir"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ji devê wî"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dixwar"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "komir"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "hatin pêketin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:44.110161049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Û qerborî wek kincê xwe li xwe kir, û ew wek avê ketê hundirên wî, û wek rûnê di hestiyên wî de.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "û li xwe kir"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "qerborî"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "wek kincê wî"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "û ket"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wek avê"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di hundirên wî de"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "û wek rûnê"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "di hestiyên wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.612163003Z",
+  "model": "glm-5.3"
+}

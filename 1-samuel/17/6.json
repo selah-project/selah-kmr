@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "û parêzgehên sifir li lingên wî bûn, û tûrekî sifir di navbera milên wî.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "û parêzgehên"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sifir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wî"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "û tûrekî"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sifir"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "milên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:28.585001132Z",
+  "model": "glm-5.3"
+}

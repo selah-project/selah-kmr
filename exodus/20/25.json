@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û ger mizgefta keviran ji bo min çê bikî, wê bi kevirên hişkîbirî ava nekî ⟨את⟩ wan; ji ber ku tiliya te di ser wan da han kir û tu wan xerab kir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizgefta"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "keviran"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "çê bikî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ava bikî"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "wan (kevirên hişkîbirî)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "kevirên hişkîbirî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "tiliya te"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "han kir"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di ser wan da"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "û tu wan xerab kir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:09.417555766Z",
+  "model": "glm-5.3"
+}

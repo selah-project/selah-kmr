@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Wî ⟨את⟩ mizbexa buxûrê çêkir, ji darên şittim; emek dirêjahiya wî û emek firehiya wî — çargoşe — û du ame bilindahiya wî; ji wê re kernehên wî bûn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbexa buxûrê"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbex"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "buxûrê"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "emek"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjahiya wî"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "û emek"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "firehiya wî"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "çargoşe"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "û du ame"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bilindahiya wî"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "kernehên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:38.365754327Z",
+  "model": "glm-5.3"
+}

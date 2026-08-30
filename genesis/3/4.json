@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Mar jî ji jina re got: “Hûn bi qasî nemirin — na, hûn nêmirin.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bi qasî nemirin"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "nêmirin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:28.290176331Z",
+  "model": "glm-5.3"
+}

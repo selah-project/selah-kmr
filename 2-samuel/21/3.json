@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Dawid ji Gîb'oniyan re got: “Ez çi ji we re bikim, û bi çi şûnda bidim, da ku hûn ⟨את⟩ mîrata Yahwe bêrîkin?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Gîb'oniyan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bikim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "û bi çi"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "şûnda bidim"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "û bêrîkin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîrata Yahwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mîrata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:58:07.996974553Z",
+  "model": "glm-5.3"
+}

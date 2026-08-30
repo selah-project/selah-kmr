@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Hallelu-Yah! Spasdarî ji bo Yahwe bikin, ji ber ku ew baş e, ji ber ku xesedê wî heta dawî ye.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu ( pesnê bide )"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "spasdarî bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta dawî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:57.301057714Z",
+  "model": "glm-5.3"
+}

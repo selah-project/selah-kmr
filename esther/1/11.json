@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji bo ku ⟨את⟩ Vaştî keybanû bi taca keyîtîyê ber key bînin û gelan û serbiran re ⟨את⟩ bedewbûna wê nîşan bidin — çimkî ew qencê dîtbar bû.",
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaştî"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaştî"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "keybanû"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "bi taca"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "keyîtîyê"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "nîşandayîn"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "û serbiran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bedewbûna wê"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "bedewbûna wê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "qencê"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "dîtbar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:57.005689867Z",
+  "model": "glm-5.3"
+}

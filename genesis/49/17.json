@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Dê Dan bibê marî li ser rêyê, kertal li ser çolê — yê ku dilovên hespî digezîne, û siwara wî ji paş ve dikeve.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rêyê"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "kertal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "yê ku digezîne"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "dilovên"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hespî"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "Û dikeve"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "siwara wî"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ji paş ve"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:21.783842028Z",
+  "model": "glm-5.3"
+}

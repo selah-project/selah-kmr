@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Peleg piştî ⟨ku⟩ ⟨ew⟩ Reu bû, neh û dused salan jiya, û kûr û keçan bû.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiya"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "bû ( Bavê-… bû)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "neh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "û du sed"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bû (zarok bû)"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kûr"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "û keç"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:26.115279514Z",
+  "model": "glm-5.3"
+}

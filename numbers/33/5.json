@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û kûnên Îsraêlî ji Raamsêsê çûn û li Sûkotê çadir dan.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûnên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "Raamsêsê"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "çadir dan"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "li Sûkotê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:55:44.899874575Z",
+  "model": "glm-5.3"
+}

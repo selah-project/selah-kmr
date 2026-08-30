@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Di êrişê de biqedin, biqedin û bila nebin; û bila bizanibin ku Elohîm li Yaakov hukim dike, heta dawiyên erdê. Selah.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "biqedin"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "di êrişê de"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "biqedin"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "bila nebin"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "bila bizanibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hukim dike"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "li Yaakov"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "heta dawiyên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:31.830190826Z",
+  "model": "glm-5.3"
+}

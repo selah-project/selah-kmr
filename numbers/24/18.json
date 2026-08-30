@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Edom dibe milk û Seîr dibe milk ji bo dijminên wî, û Îsraêl bi mêrxasî dike.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Û dibe"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "milk"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Û dibe"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "milk"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seîr"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dijminên wî"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "û Îsraêl"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bi mêrxasî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:44.882229299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Lez bike bo alîkariya min, Adonay, rizgariya min!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "lez bike"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "bo alîkariya min"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "rizgariya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:40.623225743Z",
+  "model": "glm-5.3"
+}

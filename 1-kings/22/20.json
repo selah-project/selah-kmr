@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Yahwe got: “Kî dê ⟨את⟩ Ahab bixapîne, da ku bilive û bikeve Ramotê Gîlêdê?” Yekê aha digot, û yê din jî aha digot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "bixapîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "bilive"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "bikeve"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "li Ramotê"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gîlêdê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "aha"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "û yê din"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "digot"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:32.157306580Z",
+  "model": "glm-5.3"
+}

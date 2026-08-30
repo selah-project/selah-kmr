@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Yahwe keviyê min ⟨e⟩ û birca min ⟨e⟩ û rizgarkera min; Êlê min kevira min ⟨e⟩, min xwe spand ⟨ji wî re⟩; parêzvana min ⟨e⟩ û qerata rizgarîya min ⟨e⟩, bilindahiya min.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "keviyê min"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "û birca min"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "û rizgarkera min"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ûlê min"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kevira min"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "min xwe spand"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "parêzvana min"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "û qerata"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "rizgarîya min"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "bilindahiya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:30.459802502Z",
+  "model": "glm-5.3"
+}

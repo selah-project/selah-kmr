@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û leşkerê wî û hijmartiyên wî çar û heftê hezar û şeş sed in.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "leşkerê wî"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "hijmartiyên wî"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "çar"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "heftê"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "eş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:13.550469450Z",
+  "model": "glm-5.3"
+}

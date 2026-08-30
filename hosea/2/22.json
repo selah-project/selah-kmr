@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ez ê te ji bo min bi bawerî bizewicim; û tu yê Yahwe ⟨את⟩ nas bikî.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "û ez ê te bizewicim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "bi bawerî"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "û tu yê nas bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:40.935875515Z",
+  "model": "glm-5.3"
+}

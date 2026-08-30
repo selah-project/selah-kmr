@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ew çû û ⟨את⟩ Gomer (Gomer), keça Diblayîm girt; û ew ducanî bû û kurek ji wî re zayî.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "û ew çû"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "û … girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayîm"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "û ew ducanî bû"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "û … zayî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurek"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:00.537233091Z",
+  "model": "glm-5.3"
+}

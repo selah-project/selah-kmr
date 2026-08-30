@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Tamar, bûka wî, ji wî re ⟨את⟩ Perets û ⟨את⟩ Zerah zayî. Hemû kurên Yehudayî pênc bûn.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Û Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "bûka wî"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerah"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudayî"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pênc"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:50.488367504Z",
+  "model": "glm-5.3"
+}

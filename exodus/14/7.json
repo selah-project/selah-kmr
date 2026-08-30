@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 14:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û şeş sed siwarên hilbijartî û hemû siwarên Mîtsrayim digirt, û ⟨⟨serdegên sêyem⟩⟩ li ser hemûyan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "digirt"
+    },
+    {
+      "surface": "שש",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "siwarên"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "hilbijartî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "siwarên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "ושלשם",
+      "gloss": "û serdegên sêyem"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hemûyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:19.176208678Z",
+  "model": "glm-5.3"
+}

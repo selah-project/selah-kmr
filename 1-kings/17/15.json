@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Ew çû û li gorî peyva Elyahu kir; û ew xwar — ew û ew û mala wê — rojan.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "û … çû"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "û … kir"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "li gorî peyva"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "û … xwar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "û mala wê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:53.096645442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û ezman xwar kir û daxist, û tarîtî ya qelîr di bin lingên wî de bû.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "û xwar kir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "û daxist"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "û tarîtî ya qelîr"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bin... de"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:44.110527118Z",
+  "model": "glm-5.3"
+}

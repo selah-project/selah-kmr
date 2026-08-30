@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û erd wê ⟨את⟩ genim, ⟨את⟩ şeraba nû û ⟨את⟩ rûnê zeytê bersivê bide; û ew ê ⟨את⟩ Yizreel bersivê bidin.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Û erd"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "wê bersivê bide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "genim"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "genim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şeraba nû"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "şeraba nû"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rûnê zeytê"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "rûnê zeytê"
+    },
+    {
+      "surface": "והם",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ê bersivê bidin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:40.936396501Z",
+  "model": "glm-5.3"
+}

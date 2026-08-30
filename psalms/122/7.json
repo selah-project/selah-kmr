@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 122,
+  "translation": "Bila di kelên te de aştî be, aramî di qesrên te de.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bila…be"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştî"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "di kelên te de"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "aramî"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "di qesrên te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:36.426139536Z",
+  "model": "glm-5.3"
+}

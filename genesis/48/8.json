@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Û Yisraêl kurên Yosefê dît — ⟨את⟩ — û got: «Ev kî ne?»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Û dît"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên Yosefê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev…ne"
+    }
+  ],
+  "timestamp": "2026-08-29T17:59:35.063555746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Ji bo serokê muzîkaran, bi amûrên têlan, helbesteke hînkirinê, ji Dawid re.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkaran"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "bi amûrên têlan"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "helbesteke hînkirinê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:11.860244109Z",
+  "model": "glm-5.3"
+}

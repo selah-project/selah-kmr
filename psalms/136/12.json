@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Bi destê hêzdar û bi milê dirêjkerî — ji ber ku xeseda wî heta hertimî ye.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Bi destê"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "û bi milê"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "dirêjkerî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xeseda wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:09.989300737Z",
+  "model": "glm-5.3"
+}

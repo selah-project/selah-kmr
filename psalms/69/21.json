@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Şerm dilê min şikand, û ez bêçare mayî bûm; ez hêvî dikirim ku yekî were serê xwe bilivîne, lê nehat; û ji alîkaran jî — min tu kesî nedît.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "Şerm"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "şikand"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "û ez bêçare mayî bûm"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "û ez hêvî dikirim"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "ku yekî were serê xwe bilivîne"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lê nehat"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "û ji alîkaran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "min tu kesî nedît"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:30.717642368Z",
+  "model": "glm-5.3"
+}

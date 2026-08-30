@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û hemû gel wî û ⟨את⟩ kurê wî û ⟨את⟩ kurê kurê wî xizmet bikin, heta ku dema welatê wî were — ew jî — û gelek gel û padîşahên mezin êdî li wî xizmet bikin.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "û … xizmet bikin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "hemû gel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kurê wî"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kurê kurê wî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "were"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dema"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "welatê wî"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ew jî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "û xizmet bikin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "li wî"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "û padîşahên"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:59:01.443838441Z",
+  "model": "glm-5.3"
+}

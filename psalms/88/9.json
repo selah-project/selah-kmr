@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Tu nasên min ji min dûr kirî, tu min ji bo wan tiştê netirrandî danî; girtî me û nikarim derkevim.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "dûr kirî"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "nasên min"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "min danî"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "tiştê netirrandî"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "girtî me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "derkevim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:36.510290331Z",
+  "model": "glm-5.3"
+}

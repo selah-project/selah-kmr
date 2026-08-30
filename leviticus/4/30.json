@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û kîn bi tiliya xwe ji xwîna wê digire û li ser qemçên mêrgeha qurbana-şewatê dide, û ⟨את⟩ hemû xwîna wê berbi binyata mêrgehê diherrike.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "digire"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kîn"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ji xwîna wê"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "bi tiliya xwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "qemçên"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mêrgehê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana-şewatê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû xwîna wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "xwîna wê"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "diherrike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berbi"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "binyata"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mêrgehê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:32.572330737Z",
+  "model": "glm-5.3"
+}

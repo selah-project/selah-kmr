@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ji ber ku kî Eloha ye ji bilî Yahwe? û kî sûr (kevir) e ji bilî Elohîmê me?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û kî"
+    },
+    {
+      "surface": "צור",
+      "gloss": "sûr (kevir)"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:28.404704959Z",
+  "model": "glm-5.3"
+}

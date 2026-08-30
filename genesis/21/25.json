@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Avraham Avîmelex serdoz kir li ser bêra avê ku xulamên Avîmelexê bi darê zorî girtibûn.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "serdoz kir"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avîmelex"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avîmelex"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "li ser (serdozî)"
+    },
+    {
+      "surface": "באר",
+      "gloss": "bêr"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "bi darê zorî girtibûn"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avîmelexê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:41:53.986619228Z",
+  "model": "glm-5.3"
+}

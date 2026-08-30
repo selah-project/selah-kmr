@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 21:21",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "«Hînê, ez bi ser te de xerabî tînim, û ez te dixinim, û ez ji Ehabê mayî pê dixinim: yê ku di dîwar de mîz dike, û yê girtî û yê behremayî di Îsraêlê de.»",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Hînê"
+    },
+    {
+      "surface": "מבי",
+      "gloss": "ez tînim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bi ser te de"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "û ez te dixinim"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pê dixinim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "û ez ji ... dixinim"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ehabê"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "yê ku ... mîz dike"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "di dîwar de"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "yê girtî"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "yê behremayî"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Îsraêlê de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:56.585059030Z",
+  "model": "glm-5.3"
+}

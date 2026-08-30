@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û wan ⟨את⟩ wek dilovanî dan, li ber çavên hemû dîlgirên wan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "û dan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "wek dilovanî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber çavên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "dîlgirên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:53.877596387Z",
+  "model": "glm-5.3"
+}

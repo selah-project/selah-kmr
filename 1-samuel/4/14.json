@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Êlî ⟨את⟩ dengê qêrînê bihîst û got: «Çi ye ev dengê têketinê?» Û mêr lez hat û ji Êlî re ragihand.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Êlî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê qêrînê"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "qêrînê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "têketinê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "û mêr"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "lez"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "ji Êlî re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:50.097669498Z",
+  "model": "glm-5.3"
+}

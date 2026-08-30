@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Filistî nihêrî û ⟨את⟩ Dawid dît û wî biçûk xist, ji ber ku ew ciwan bû û sorik, bi xweşikiya dîtinê.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "nihêrî"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "wî biçûk xist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ciwan"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "û sorik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "xweşik"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "dîtin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:26.357801630Z",
+  "model": "glm-5.3"
+}

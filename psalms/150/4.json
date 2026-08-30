@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 150,
+  "translation": "Pesnê wî bi def û reqsê bidin, pesnê wî bi sazên têldar û bilûrê bidin.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pesnê wî bidin"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "bi def"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "û reqsê"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pesnê wî bidin"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "bi sazên têldar"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "û bilûrê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.684679427Z",
+  "model": "glm-5.3"
+}

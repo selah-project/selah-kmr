@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Ez ê rastiya te û ⟨את⟩ kirinên te eşkere bikim, û ew sûd nedin te.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ê eşkere bikim"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "rastiya te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kirinên te"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "kirinên te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "sûd didin te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:42.623391876Z",
+  "model": "glm-5.3"
+}

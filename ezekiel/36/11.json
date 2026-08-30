@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 36:11",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ez ê li ser we mirov û sewal zêde bikim, û ew ê pir bibin û bidin ber; û ez ê we ji nû ve bi cih bikim wek beriya we, û ez ê ji destpêkên we çêtir bikim; û hûn ê bizanibin ku ez Yahwe me.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "ez ê zêde bikim"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "sewal"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "pir bibin"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "bidin ber"
+    },
+    {
+      "surface": "והושבתי",
+      "gloss": "ez ê bi cih bikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we (hûn, çiya)"
+    },
+    {
+      "surface": "כקדמותיכם",
+      "gloss": "wek beriya we"
+    },
+    {
+      "surface": "והטבתי",
+      "gloss": "ez ê çêtir bikim"
+    },
+    {
+      "surface": "מראשתיכם",
+      "gloss": "ji destpêkên we"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "hûn ê bizanibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T03:56:26.675312914Z",
+  "model": "glm-5.3"
+}

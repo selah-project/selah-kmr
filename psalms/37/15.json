@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Şerên wan dê bigihîjin dilên wan û kevanên wan dê bişkênin.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "şerên wan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bigihîjin"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dilên wan"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "kevanên wan"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "bişkênin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:00.845753395Z",
+  "model": "glm-5.3"
+}

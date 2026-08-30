@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Çimkî jiyana min bi xem xelas bûye, û salên min bi hînînê; hêza min bi gunehên min ketiye, hestiyên min xelas bûne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "xelas bûye"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "bi xem"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiyana min"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "û salên min"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "bi hînînê"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ketiye"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "bi gunehên min"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "hestiyên min"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "xelas bûne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:06.508250023Z",
+  "model": "glm-5.3"
+}

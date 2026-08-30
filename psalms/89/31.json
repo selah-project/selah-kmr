@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Ger kurên wî Şerîeta min bihêlin, û di hukmên min de negêrin —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "bihêlin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Şerîeta min"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "û di hukmên min de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "negêrin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:24.732461778Z",
+  "model": "glm-5.3"
+}

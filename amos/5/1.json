@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Bihîzin ⟨את⟩ vê peyvê ku ez li ser we hildigirim — kînêyek, li malbata Îsraêl.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "bihîzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê peyvê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vê peyvê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hildigirim"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "kînêyek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T04:08:25.281891920Z",
+  "model": "glm-5.3"
+}

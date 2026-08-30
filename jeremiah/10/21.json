@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji ber ku şivan bêhiş bûn û ⟨את⟩ Yahwe nanewan lêgerînê, ji ber wê baş nefêhmîn, û hemû keriyên wan belav bûye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "bêhiş bûn"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "şivan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "nanewan lêgerînê"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "baş nefêhmîn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "keriyên wan"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "belav bûye"
+    }
+  ],
+  "timestamp": "2026-08-29T20:53:13.482803843Z",
+  "model": "glm-5.3"
+}

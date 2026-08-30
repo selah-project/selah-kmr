@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Ne gorî gunehên me li me kir, û ne gorî sûcên me me xelat kir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "gorî gunehên me"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "li me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "gorî sûcên me"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "xelat kir"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:31.279064825Z",
+  "model": "glm-5.3"
+}

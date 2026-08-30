@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Şaul gel civand û wan li Telaimê hejmart: du sed hezar pêswan û deh hezar mêrên Yehûda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "civand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "hejmart"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "li Telaimê"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "du sed"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pêswan"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ji",
+      "marks": "mêrên Yehûda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:22.461964110Z",
+  "model": "glm-5.3"
+}

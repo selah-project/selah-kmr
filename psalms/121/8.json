@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 121,
+  "translation": "Yahwe ê derketina te û hatina te biparêze, ji niha ve heta hertimî.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ê biparêze"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "derketina te"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "û hatina te"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ji niha ve"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:30.313425606Z",
+  "model": "glm-5.3"
+}

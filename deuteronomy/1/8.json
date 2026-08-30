@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Binêrin, min ⟨את⟩ erd li ber we danî; werin û ⟨את⟩ erdê bistînin — êr Yahwe ji bo bavên we sondayê xwar: ji Avraham, ji Yîtshaq û ji Yaqûb — ku wê bidê wan û nifşên wan piştî wan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "binêrin"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "danî"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "li ber we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erd"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "באו",
+      "gloss": "werin"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "bistînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "êr"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sondayê xwar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ji bo bavên we"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ji Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ji Yîtshaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "û ji Yaqûb"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ku bidê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "û nifşên wan"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "piştî wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:25.003413319Z",
+  "model": "glm-5.3"
+}

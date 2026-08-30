@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Bi kî re hûn min wekhev dikin? Bi kî re min didin ber hev û min dixin pêvanî, da ku em wekhev xuya bikin?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "bi kî re"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "hûn min wekhev dikin"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "hûn didin ber hev"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "hûn min didin ber hev û didin pêvanî"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "da ku em wekhev xuya bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:19.499536913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ez ê fermana berketa xwe ⟨את⟩ ji we re bidim di şeşem salê de, û ew ê ⟨את⟩ berhemê ji bo sê salan çêke.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ez ê ferman bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berketa min"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "berketa min"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "di salê de"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "şeşem"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "û ew ê çêke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhem"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "berhem"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "ji sê"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "salan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:26.875034009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Adem navê jina xwe wekî Havva binav kir, ji ber ku ew diya hemû zindiyan bû.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "û binav kir"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina wî"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "אם",
+      "gloss": "diya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:49.252020474Z",
+  "model": "glm-5.3"
+}

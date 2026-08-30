@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Fîlîtî sibeh û êvar nêzîk dibû û berxwe dida, çil rojan.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "nêzîk dibû"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Fîlîtî"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "sibeh"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "û êvar"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "berxwe dida"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:55.628352280Z",
+  "model": "glm-5.3"
+}

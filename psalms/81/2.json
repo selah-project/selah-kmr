@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Hûn bilind bikin dengê xweşbêjî ji bo Elohîm, hêza me; hûn qêrînin ji bo Elohîmê Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "hûn bilind bikin dengê xweşbêjî"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji bo Elohîm"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "hêza me"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "hûn qêrînin"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ji bo Elohîmê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:15.460021399Z",
+  "model": "glm-5.3"
+}

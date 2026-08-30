@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Kî ku çopa xwe ji kurê xwe digire, ji kurê xwe hez nake; lê kî ku ji wî hez dike, zû û demzû wî hînî perwerdehiyê dike",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "digire (parse dike)"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "çopa wî"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "hez nake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "lê kî ku ji wî hez dike"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "zû û demzû"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "perwerdehî (terbiye)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:39.565024205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û ez ê destê xwe rake, û tu yê ⟨את⟩ paşê min bibînî; lê rûyê min nayê dîtin.”",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "û-ez-ê-rake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê-min"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "destê-min"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "û-tu-yê-bibînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paşê-min"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paşê-min"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "û-rûyê-min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "tê-dîtin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:47.377536822Z",
+  "model": "glm-5.3"
+}

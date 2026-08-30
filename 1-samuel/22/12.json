@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û Şaul got: «Hey kurê Aḥîtûb, guh bide!» Û ew got: «Ez vir im, Adonayê min!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hey \/ niha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Aḥîtûb"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ez vir im"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:07.094557295Z",
+  "model": "glm-5.3"
+}

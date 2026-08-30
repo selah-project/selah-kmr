@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 121,
+  "translation": "Roj ê di rojê de nê lê dide, hîv jî ê di şevê de nê lê dide.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "di rojê de"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Roj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nê"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "lê dide"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "hîv jî"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "di şevê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:30.313094879Z",
+  "model": "glm-5.3"
+}

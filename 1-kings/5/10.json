@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Jêriya Şelomo ji jêriya hemû zarokên rojhilat û ji hemû jêriya Mîtsrayim zêdetir bû.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "zêdetir bû"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "jêriya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ji jêriya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "rojhilat"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "û ji hemû"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "jêriya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:27.563420096Z",
+  "model": "glm-5.3"
+}

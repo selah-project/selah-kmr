@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ⟨את⟩ hemû canên ku tê de bûn bi devê şûr kuştin, herem kirin; tu nefes nehat hiştin, û ⟨את⟩ Hatsor bi agir şewitand.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "kuştin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû canên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "canên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bi devê"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûr"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "herem kirin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "hat hiştin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:42.352322976Z",
+  "model": "glm-5.3"
+}

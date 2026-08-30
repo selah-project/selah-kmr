@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Paroh-Nekoh Elyaqîm, kurê Yoşiya, şûnda bavê wî Yoşiya kir padîşah û navê wî guherand û kir Yehoyaqîm; û ⟨את⟩ Yehoahaz girt û bir Mîtsrayimê û ew li wir mir.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "kir padîşah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaqîm"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyaqîm"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "şûnda"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "û guherand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyaqîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yehoahaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û mir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:00.811132643Z",
+  "model": "glm-5.3"
+}

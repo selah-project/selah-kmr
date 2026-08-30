@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Lê bi rastî Elohîm bihîst; guh da dengê duaya min.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "lê bi rastî"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "guh da"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:37.554082092Z",
+  "model": "glm-5.3"
+}

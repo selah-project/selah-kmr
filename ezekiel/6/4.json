@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 6:4",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û cihên qurbanên we wê bê avabûn, stûnên rojê yê we wê bişkênin, û ez ê miriyên we ber pêşiyê pûtên we biavêjim.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "û bê avabûn"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "cihên qurbanên we"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "û bişkênin"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "stûnên rojê yê we"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "û ez ê biavêjim"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "miriyên we"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber pêşiyê"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "pûtên we"
+    }
+  ],
+  "timestamp": "2026-08-30T03:45:00.211576419Z",
+  "model": "glm-5.3"
+}

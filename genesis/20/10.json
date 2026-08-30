@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Avimelex ji Avraham re got: \"Çi te dîtiye ku tu ⟨את⟩ ev kiriye?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "te dîtiye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kiriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:31.440443584Z",
+  "model": "glm-5.3"
+}

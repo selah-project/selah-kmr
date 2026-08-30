@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Yahwe dijberên Retsîn li ser wî bilind kir, û ⟨את⟩ dijberên wî hev kir.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijberên Retsîn"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dijberên"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsîn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dijberên wî"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dijberên wî"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "hev kir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:36.320972810Z",
+  "model": "glm-5.3"
+}

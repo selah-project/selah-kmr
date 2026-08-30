@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ez ê didim ⟨את⟩ qenciya vê gelî di çavên Mîtsrayimiyan de; û wê bû ku dema hûn diçin, hûnê vala naçin.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ez ê didim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qencî"
+    },
+    {
+      "surface": "חן",
+      "gloss": "qencî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimiyan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wê bû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "hûn diçin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "diçin"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "vala"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:24.858054001Z",
+  "model": "glm-5.3"
+}

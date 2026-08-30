@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û şah Şelomo bi destê Benayahu kurê Yehoyada şand; ewî li wî xist û ew mir.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "li wî xist"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:12.948888930Z",
+  "model": "glm-5.3"
+}

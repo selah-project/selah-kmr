@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Yosef ji Paroh re got: \"Xewna Paroh yek e; ⟨את⟩ tiştê ku Elohîm dike ji Paroh re diyar kiriye.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh re"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "xewna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku Elohîm dike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "diyar kiriye"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ji Paroh re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:41.059950034Z",
+  "model": "glm-5.3"
+}

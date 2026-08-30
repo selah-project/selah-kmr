@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Bila sûcê bavên wî li cem Yahwe were bi bîr anîn, û gunehê diya wî neyê jêbirin.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "bila … were bi bîr anîn"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sûc"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li cem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "û guneh"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "diya wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "neyê jêbirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:53.971262293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û ew şevê rabû, û herdu jinên xwe û herdu cotkarên xwe yên jin û yazdeh zarokên xwe girt û derbasê derbasera Yabboqê bû.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "û rabû"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herdu jinên xwe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jinên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "herdu cotkarên xwe yên jin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "cotkarên xwe yên jin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yazdeh zarokên xwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yaz-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-deh"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "zarokên xwe"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "û derbas bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derbasera Yabboqê"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "derbaser"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboq"
+    }
+  ],
+  "timestamp": "2026-08-29T17:51:15.171459281Z",
+  "model": "glm-5.3"
+}

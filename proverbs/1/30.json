@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ew qayîlbûna şîreta min nekirin, hemû rexneyên min bi serê xwe avêtin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "qayîlbûn nekirin"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "şîreta min"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "bi serê xwe avêtin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "rexneyên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:58.552467394Z",
+  "model": "glm-5.3"
+}

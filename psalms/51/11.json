@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Rûyê xwe ji gunehên min veşêre û hemû sûcên min jê bibe.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "veşêre"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "ji gunehên min"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "sûcên min"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "jê bibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:05.620041599Z",
+  "model": "glm-5.3"
+}

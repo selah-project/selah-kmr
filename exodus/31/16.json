@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Kuranên Yisrael ⟨את⟩ şabatê biparêzin, da ku ⟨את⟩ şabatê biparêzin, ji nifşên wan û pê ve — peymanek e hertimî.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuranên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şabatê"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabatê"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da ku…biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şabatê"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabatê"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ji nifşên wan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymanek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:14.128227420Z",
+  "model": "glm-5.3"
+}

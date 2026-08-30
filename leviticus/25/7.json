@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ji ajalên te re û ji ajalên kovî yên di erdê te de — hemû berhemên wê dibe xwarin.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ji ajalên te re"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "ji ajalên kovî re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di erdê te de"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "berhemên wê"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "xwarin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:57.763064979Z",
+  "model": "glm-5.3"
+}

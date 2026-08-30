@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Şerabê nû şîn girt, tirî welaz bû, hemû yê dilşad ah derdan.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "şîn girt"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "şerabê nû"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "welaz bû"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "tirî"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "ah derdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "yê dilşad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:06.772375635Z",
+  "model": "glm-5.3"
+}

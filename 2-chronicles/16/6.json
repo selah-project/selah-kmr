@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Asa, ⟨the⟩ padîşah, hemû Yehudayê girt; ew kevirên Ramahê û darên wê, yên ku Başa bi wan dabû avakirin, hildan, û bi wan ⟨את⟩ Geba û ⟨את⟩ Mîtspehê ava kir.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Û Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû Yehudayê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudayê"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevirên Ramahê"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramahê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "darên wê"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "darên wê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "avakirin"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Mîtspehê"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mîtspehê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:48:24.856320272Z",
+  "model": "glm-5.3"
+}

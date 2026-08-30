@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ew sekinî û ⟨את⟩ hemû civata Îsraêl pîroz kir, bi dengê biliv, ku gotin:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Û ew sekinî"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "û ... pîroz kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû civata Îsraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "biliv"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku gotin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:54.849967770Z",
+  "model": "glm-5.3"
+}

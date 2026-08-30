@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Êdî ez jî ⟨את⟩ we kirine biçûkxistin û nizm li ber hemû gelî, li gorî ku hûn rêyên ⟨את⟩ min nagirin û di Toraê de rû digirin.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "êdî … jî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "biçûkxistin û nizm"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "biçûkxistin"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "nizm"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "li ber hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelî"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "nîn in"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "girin (nagirin)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rêyên min"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rêyên min"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "digirin"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rû"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "di Toraê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:12.906083422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û bi destê Natanê pêxember şand, û navê wî Yedîdya binavkir, ji ber Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û binavkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedîdya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:14.433184652Z",
+  "model": "glm-5.3"
+}

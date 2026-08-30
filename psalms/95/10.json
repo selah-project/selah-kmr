@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 95,
+  "translation": "Çil salan min bi wî nifşê qehr bû, û min got: ⟨Ew⟩ gelê şaşiyên dilî ⟨ne⟩, û ew rêyên min nas nakin.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Çil"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "min qehr bû"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "bi wî nifşê"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "û min got"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "şaşiyên dilî"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨Ew⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nakin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nas"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rêyên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:19.028613165Z",
+  "model": "glm-5.3"
+}

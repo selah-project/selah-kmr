@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Mêrekî hejar ku hejaran dixwe, wek barana lehiyê ye û nan tune.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "רש",
+      "gloss": "hejar"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "ku ... dixwe"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "hejaran"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "baran"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "lehiyê xelk dike"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û ... tune"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:49:20.918230261Z",
+  "model": "glm-5.3"
+}

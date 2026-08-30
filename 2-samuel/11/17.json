@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Mercên bajarê derketin û şer kirin ⟨את⟩ Yowab, û ji gelê, ji karmendên Dawid, hin ketin, û Ûrîya Hetîtî jî mir.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mercên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "û şer kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "û ketin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ji karmendên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û mir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ûrîya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetîtî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:44.503829592Z",
+  "model": "glm-5.3"
+}

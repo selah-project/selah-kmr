@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Hilgirin serê xwe, deriyan, û bilind bibin, deriyên ⟨sersûdeyê⟩, û Padîşahê-rûmetê were.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hilgirin"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "deriyan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "serê xwe"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "û bilind bibin"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨sersûdeyê⟩"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û were"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Padîşahê"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "rûmetê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:01.037411390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ji xwe re serê hezaran û serê pênciyan bi cih bike, û biçûnê erdê wî biçînin, û birinî wî birîne, û amûrên şerê wî û amûrên resa wî çê bike.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "û bi cih bike"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serê"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezaran"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "û serê"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pênciyan"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "û biçûnê biçînin"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "erdê wî"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "û birinî birîne"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "birinî wî"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "û çê bike"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "şerê wî"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "û amûrên"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "resa wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:36.548237410Z",
+  "model": "glm-5.3"
+}

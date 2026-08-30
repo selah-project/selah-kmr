@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Di raza xwe de ⟨את⟩ Siyonê qenc bikî; tu bendên Yeruşalayimê ava bike.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "qenc bikî"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "di raza xwe de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siyonê"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonê"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ava bike"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "bendên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:22.025400099Z",
+  "model": "glm-5.3"
+}

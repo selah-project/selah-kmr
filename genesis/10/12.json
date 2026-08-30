@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ⟨את⟩ Resen — di navbera Nînaway û Kelah de; ew ⟨e⟩ bajarê mezin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nînaway"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:54.538217567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Û ez, ber bi te Yahwe, qêrînim, û di sibehê de duaya min pêşiyê te digire.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Û ez"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ber bi te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "qêrînim"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "Û di sibehê de"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "pêşiyê te digire"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:09.186670299Z",
+  "model": "glm-5.3"
+}

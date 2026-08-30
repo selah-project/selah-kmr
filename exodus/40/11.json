@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û tu ⟨את⟩ avdanê û ⟨את⟩ lingê wê miş bike, û wê pîroz bike.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "miş bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avdanê"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "avdanê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lingê wê"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "lingê wê"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "pîroz bike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:43.349248734Z",
+  "model": "glm-5.3"
+}

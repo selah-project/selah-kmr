@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Pîrozîyên min bi rûmet kirîn, û ⟨את⟩ şemitên min xerab kirî.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "pîrozîyên min"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "bi rûmet kirîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "şemitên min"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "şemitên min"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "xerab kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:49:59.656404536Z",
+  "model": "glm-5.3"
+}

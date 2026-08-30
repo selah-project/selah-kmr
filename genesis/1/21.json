@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elohîm ⟨את⟩ ejdarên mezin afirand û ⟨את⟩ hemû canewerên zinde yên dilivin ku av bi cureyên xwe êşandibûn, û ⟨את⟩ hemû balindeyên bask li gorî cureyê wî; û Elohîm dît ku qenc e.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "afirand"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ejdarên mezin"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "ejdarên"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû canewerên zinde yên dilivin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canewerên"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zinde"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "dilivin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "êşandibûn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "bi cureyên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû balindeyên bask"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "balindeyên"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "bask"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "li gorî cureyê wî"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qenc e"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:30.500163761Z",
+  "model": "glm-5.3"
+}

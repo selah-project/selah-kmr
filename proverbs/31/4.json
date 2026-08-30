@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Ne ji keyan e, ey Lemuel, ne ji keyan e ku mê vexwin, û ne jî ji erkêşaran daxwaza serxweşiyê.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ji keyan"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ey Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ji keyan"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "vexwin"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mê"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "û ji erkêşaran"
+    },
+    {
+      "surface": "או",
+      "gloss": "daxwaza"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "serxweşiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:24.636036351Z",
+  "model": "glm-5.3"
+}

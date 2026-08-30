@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Bila ew hertim beriya Yahwe bin, da ku ew bîranîna wan ji erdê jê bike.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bila … bin"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "beriya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "da ku … jê bike"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erdê"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "bîranîna wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:53.971405620Z",
+  "model": "glm-5.3"
+}

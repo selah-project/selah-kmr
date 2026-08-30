@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Çinkî hemû heywanên daristanê yên min in û dewarên li ser çiyayên hezaran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çinkî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yên min in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "heywanên"
+    },
+    {
+      "surface": "יער",
+      "gloss": "daristanê"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "dewarên"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "li ser çiyayên"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezaran"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:14.780053446Z",
+  "model": "glm-5.3"
+}

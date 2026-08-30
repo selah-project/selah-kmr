@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Gotine: «Were, ⟨את⟩ wan ji bo ku netewe nebin qut bikin, û navê Îsraêlê êdî neyê bi bîr anîn.»",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Gotine"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Were"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "qut bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ji bo ku netewe nebin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "neyê bi bîr anîn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:10.929185222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Bi zarokên Yisraêl re biaxive û ji wan re bêje: Gava hûn ⟨את⟩ Urdun derbas dikin û diçin welatê Kenan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "biaxive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "û ji wan re bêje"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "derbas dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:56:34.324553474Z",
+  "model": "glm-5.3"
+}

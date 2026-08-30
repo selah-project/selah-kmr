@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û ⟨את⟩ malbata Yahwe, Elohîmê bavên xwe, berdan û xizmetî ⟨את⟩ Aşerayan û ⟨את⟩ pûtan kirin; û hêrsêrketin li ser Yehûda û Yerûşalaymê hat, ji ber vê sûcê wan.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malbata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "xizmetî kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşerayan"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Aşerayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "pûtan"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "pûtan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hat"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "hêrsêrketin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "û Yerûşalaymê"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "ji ber sûcê wan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:51:11.048656197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û Oholîbamah ⟨את⟩ Yêîş û ⟨את⟩ Yaelam û ⟨את⟩ Korah anîn dinyê. Ev in kurên Esav, ku di welatê Kenakan de ji wî re hatin dinê.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Û Oholîbamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anîn dinyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yêîş"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yêîş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yaelam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaelam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "hatin dinê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenakan de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:08.029968137Z",
+  "model": "glm-5.3"
+}

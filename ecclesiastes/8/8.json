@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Mirovekî serdest li ser ruh tuneye ku ⟨את⟩ ruh bigire, û serdestî roja mirinê de tuneye, û di şer de berdan tuneye, û neqetandina sûc ⟨את⟩ xwediyê xwe nake.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tuneye"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovekî"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "serdest"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "li ser ruh"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "ku bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruh"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tuneye"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "serdestî"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mirinê"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tuneye"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "di şer de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "dizelate"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sûc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwediyê xwe"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "xwediyê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:15.413030058Z",
+  "model": "glm-5.3"
+}

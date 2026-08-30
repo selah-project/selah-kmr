@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Ji bo serokekî muzîkê, mezamîra Dawid. Elohîmê pesnê min, tu bêdeng nebe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ê Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezamîr"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "pesnê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "bêdeng nebe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.024005657Z",
+  "model": "glm-5.3"
+}

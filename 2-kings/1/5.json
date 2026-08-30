@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û şandin vegeriyan bal wî, û wî ji wan re got: \"Çi ye — hûn vegeriyan?\"",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "û vegeriyan"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bal wî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "hûn vegeriyan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:41.202621730Z",
+  "model": "glm-5.3"
+}

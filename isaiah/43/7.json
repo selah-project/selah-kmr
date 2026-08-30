@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Hemû yê bi navê min hatiye gazîkirin û ji bo rûmeta min — ez ⟨את⟩ wî afirandime, ez ⟨את⟩ wî şêwandime, erê, ez ⟨את⟩ wî çêkirime.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "yê hatiye gazîkirin"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "bi navê min"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "û ji bo rûmeta min"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ez afirandime"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ez şêwandime"
+    },
+    {
+      "surface": "אף",
+      "gloss": "erê"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ez çêkirime"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:31.196489900Z",
+  "model": "glm-5.3"
+}

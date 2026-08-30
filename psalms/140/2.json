@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Min rizgar bike, Yahwe, ji mirovê şerîr; ji zilamê tundcan tu min biparêze.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Min rizgar bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ji mirovê"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şerîr"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ji zilamê"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "tundcan"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "tu min biparêze"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:47.299845385Z",
+  "model": "glm-5.3"
+}

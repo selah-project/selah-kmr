@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Kevanekî şikestî nawêşîne, û mûmekê pîs-nepixî naşewitîne; bi rastî mizdabanî derdixe.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "kevanekî"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "şikestî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "wêşîne"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "û mûmekê"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "pîs-nepixî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "şewitîne"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "derdixe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mizdabanî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:58.342155160Z",
+  "model": "glm-5.3"
+}

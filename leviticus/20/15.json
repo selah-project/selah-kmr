@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û mêrekî ku cînbûna xwe ligel ajalekê bide — bi mirinê bimire; û ⟨את⟩ ajalê jî bikujin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "û mêrekî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "cînbûna xwe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ligel ajalekê"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bi mirinê"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bimire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ajalê"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ajalê"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "bikujin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:41.370654132Z",
+  "model": "glm-5.3"
+}

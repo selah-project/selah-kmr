@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Êlî jê re got: Heta kengê wê teşt? Dûr bîne ⟨את⟩ şerabê xwe ji xwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Êlî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "wê teşt"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "dûr bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şerabê xwe"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "şerabê xwe"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ji xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:21.568284542Z",
+  "model": "glm-5.3"
+}

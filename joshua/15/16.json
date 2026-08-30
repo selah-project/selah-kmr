@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Kaleb got: Yê ku Qiryat-Séferê bişkîne û bigire, ê wî re ez ê ⟨את⟩ Aksa keça xwe bi jiné bidim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "bişkîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat-Séfer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "û bigire"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "û ez ê bidim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ê wî re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "keça min"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bi jiné"
+    }
+  ],
+  "timestamp": "2026-08-29T19:20:28.382518892Z",
+  "model": "glm-5.3"
+}

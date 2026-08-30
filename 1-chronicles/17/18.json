@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Çi dikare Dawid ji bo rûmeta ⟨את⟩ xulamê te zêde bêje te? Û tu ⟨את⟩ xulamê xwe dinasî.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "dikare zêde bêje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ji bo rûmeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamê te"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê te"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamê te"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê xwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dinasî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:38:28.293079237Z",
+  "model": "glm-5.3"
+}

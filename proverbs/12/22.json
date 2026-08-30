@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Lêvên derew li ber Yahwe şermil in, lê ên dilsoz rçona wî ne.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "şermil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Lêvên"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "lê ên dikin"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "dilsozî"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "rçona wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:56.877435312Z",
+  "model": "glm-5.3"
+}

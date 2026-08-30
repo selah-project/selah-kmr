@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Elohîm li ser gelan serwerî dike; Elohîm li ser textê pîroza xwe rûniştiye.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "serwerî dike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûniştiye"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "textê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroza xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:16.173511502Z",
+  "model": "glm-5.3"
+}

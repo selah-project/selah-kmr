@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 100,
+  "translation": "Bizanin ku Yahwe ew ⟨e⟩ Elohîm; ew me afirand, û ⟨ne⟩ em xwe; em gelê wî ne û beranê çêreka wî.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "bizanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "me afirand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em xwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "beranê"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "çêreka wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:32.855651975Z",
+  "model": "glm-5.3"
+}

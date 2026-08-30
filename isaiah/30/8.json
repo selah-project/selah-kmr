@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Niha were, wê li ser tabletê binivîsîne ⟨אתם⟩, û li ser pirtûkê bihovane binivîse, da ku bibe ji bo roja dawîn şahidî heta domdariyê, heta hertî û hertî.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "were"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "binivîsîne"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tabletê"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bi wan re (li pêş wan)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pirtûkê"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "bihovane binivîse"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "da ku bibe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ji bo roja"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "dawîn"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "heta domdariyê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertî û hertî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:28.852345052Z",
+  "model": "glm-5.3"
+}

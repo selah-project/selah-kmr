@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "û şitila ku destê rastê te çandî, û kurê ku te ji bo xwe xurt kirî.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "û şitila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "çandî"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "destê rastê te"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "xurt kirî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.400677996Z",
+  "model": "glm-5.3"
+}

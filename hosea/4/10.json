@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ên dixwin û têr nabin; zîna dikin û zêde nabin; ji ber ku wan ⟨את⟩ Yahwe berda û dev ji şopandinê berda.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Ên dixwin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nê"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "têr dibin"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "zîna dikin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nê"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "zêde dibin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "şopandin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:22.157179964Z",
+  "model": "glm-5.3"
+}

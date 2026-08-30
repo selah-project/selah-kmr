@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Şemuel ji gel re got: “Yahwe — ku ⟨את⟩ Moşe û ⟨את⟩ Aharon çêkir û ⟨את⟩ bavên we ji welatê Mîtsrayimê bilind kir.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ew got"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ku"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavên we"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bavên we"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:39:05.517938947Z",
+  "model": "glm-5.3"
+}

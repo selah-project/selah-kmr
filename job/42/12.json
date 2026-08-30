@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û Yahwe ⟨את⟩ dawiyê Eyûb zêdetir ji destpêka wî bareket kir; ji bo wî çardeh hezar mexel, şeş hezar dev, hezar cot ga û hezar kerên mê çêbûn.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Û Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bareket kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawiyê Eyûb"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dawiyê"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Eyûb"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ji destpêka wî"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "çar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mexel"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "dev"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "û hezar"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "cot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "û hezar"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "kerên mê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:56.904073541Z",
+  "model": "glm-5.3"
+}

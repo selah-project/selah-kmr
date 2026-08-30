@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 35:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û her mêrê ku ⟨את⟩ bi wî re hat dîtin — şîn û ergewan û qirmiz û kincê rîsan ên rûn, û kêşê bizinan, û çermên qûçikan ên rengsor û çermên tahaşan — anîn.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "û her"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "hat dîtin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re",
+      "marks": "bi wî re ('with him') — preposition, not DOM"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "şîn"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "û ergewan"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "û kermê"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qirmiz"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û kincê rîsan ên rûn"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "û kêşê bizinan"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "û çermên"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "qûçikan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "rengsor"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "û çermên"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahaşan"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "anîn"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:26.131408664Z",
+  "model": "glm-5.3"
+}

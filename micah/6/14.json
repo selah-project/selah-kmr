@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Tu yê bixwî û têr nebî, û bişkoftina te di nava te de ye; tu yê bigire û xilas neke, û ya ku tu xilas bikî, ez ê bidim şûr.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yê bixwî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û…ne"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "têr nebî"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "û bişkoftina te"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di nava te de"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "û tu yê bigire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û…ne"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "xilas neke"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ya ku"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "tu xilas bikî"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "bidim şûr"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ez ê bidim"
+    }
+  ],
+  "timestamp": "2026-08-30T04:11:36.561681645Z",
+  "model": "glm-5.3"
+}

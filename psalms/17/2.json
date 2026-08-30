@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Beriya te dadrêya min derkeve, çavên te rastiyê bibînin.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "beriya te"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dadrêya min"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derkeve"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "çavên te"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "bibînin"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "rastiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:09.355021404Z",
+  "model": "glm-5.3"
+}

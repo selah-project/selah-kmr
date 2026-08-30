@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ew rû kişandin û bilhînin çiyayê, û gihiştin heta newala Eşkol, û ⟨את⟩ wê lêkolîn kirin.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "rû kişandin"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bilhînin"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gihiştin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "newala"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eşkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "lêkolîn kirin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (erdê)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:48.093394543Z",
+  "model": "glm-5.3"
+}

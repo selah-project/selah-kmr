@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û tu dê ⟨את⟩ gelê li dora çiyê sînor bikî û bêjî: “Xwe biparêzin, nehêlin hûn li çiyê bilind bibin û dest nedin dawîna wî; her kî yê li çiyê dest bide, dê bi mirinê bimire.”",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "û sînor bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û bêjî"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "xwe biparêzin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "bilind bibin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyê"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "û dest nedin"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "dawîna wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her kî"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yê dest bide"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyê"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bimire"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:04.604362776Z",
+  "model": "glm-5.3"
+}

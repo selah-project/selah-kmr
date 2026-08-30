@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "û destên mirovan binê balên wan de, li ser çar aliyên wan, û rûyên wan û balên wan ji çar re ⟨bûn⟩.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "û destên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "binê … de"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "balên wan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "çar"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "aliyên wan"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "û rûyên wan"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "û balên wan"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "ji çar re"
+    }
+  ],
+  "timestamp": "2026-08-30T03:42:28.047828594Z",
+  "model": "glm-5.3"
+}

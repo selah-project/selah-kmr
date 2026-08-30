@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Nevot ji Ahab re got: «Rûmet nebe ji min, ji Yahwe, ku ez ⟨את⟩ erda bavên xwe bidim te.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nevot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji…re"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Rûmet nebe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ku ez bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erda bavên xwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "erda"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:00.213569344Z",
+  "model": "glm-5.3"
+}

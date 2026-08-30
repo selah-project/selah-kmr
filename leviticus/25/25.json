@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ger birayê te xizan bikeve û ji ⟨את⟩ milkê xwe firotibe, û xilaskarê wî yê nêzîk were, wê ⟨את⟩ firotina birayê xwe xilas bike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ger"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "xizan bikeve"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "û firotibe"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "ji milkê xwe"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "û were"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "xilaskarê wî"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yê nêzîk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "wê xilas bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firotina birayê wî"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "firotin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:43.206495770Z",
+  "model": "glm-5.3"
+}

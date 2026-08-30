@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Moşe dît ⟨את⟩ gelê — ku ew bêserûber bû — ji ber ku Aron wan hîştibû bêserûber, ji bo rispiyê di nav dijminên wan de.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "bêserûber bû"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "hîştibû bêserûber"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "ji bo rispiyê"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "di nav dijminên wan de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:35.593428760Z",
+  "model": "glm-5.3"
+}

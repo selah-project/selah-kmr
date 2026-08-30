@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Ji bo rêveberê muzîkê, bi sazên têldar, mezmûrekî Asaf, stran.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo rêveberê muzîkê"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "bi sazên têldar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmûr"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ji bo Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:04.080355217Z",
+  "model": "glm-5.3"
+}

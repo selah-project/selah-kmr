@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Canê min dikeve destên min, her tim, û Tore te ji bîr nekirim.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "dikeve destên min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "her tim"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "û Tore te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ji bîr nekirim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:41.993233870Z",
+  "model": "glm-5.3"
+}

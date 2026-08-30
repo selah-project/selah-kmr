@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û ew jê re gotin: Na, Adonay; gulamên te ji bo kirîna xwarinê hatine.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "û ew gotin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "gulamên te"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hatine"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ji bo kirînê"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwarinê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:24.021803435Z",
+  "model": "glm-5.3"
+}

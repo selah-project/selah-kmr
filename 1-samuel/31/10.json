@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "⟨את⟩ Çekên wî di malê Aştarotan de danî, ⟨את⟩ laşê wî jî li dîwarê Bet-Şanê dî dan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çekên wî"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "çekên wî"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Aştarotan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laşê wî"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "laşê wî"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "dî dan"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "li dîwarê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Şanê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:25.099475408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Te dît ⟨wî⟩, Yahwe; bêdengî neke, Adonay; ji min dûr nekeve.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Te dît"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neke"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "bêdengî"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nekeve"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "dûr"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:02.059249137Z",
+  "model": "glm-5.3"
+}

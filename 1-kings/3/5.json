@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Li Gîbʿonê Yahwe ji Şelomo re di xewna şevê de xuya bû, û Elohîm got: “Bixwaze — çi ez bidim te?”",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Li Gîbʿonê"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "xuya bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "di xewnê de"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bixwaze"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çî"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ez bidim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:30.091439116Z",
+  "model": "glm-5.3"
+}

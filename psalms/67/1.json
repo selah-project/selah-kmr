@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 67,
+  "translation": "Ji bo serokekî muzîkê, bi alavên têlan. Mizmorekî, stranek.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "bi alavên têlan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmorekî"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stranek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:01.029676978Z",
+  "model": "glm-5.3"
+}

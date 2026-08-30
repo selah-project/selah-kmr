@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Mêşa keyê Moabê şivanê pez bû, û ji keyê Yisraêl re sed hezar beran û sed hezar nêrkerên bi hiriyên wan vedigeriya.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Û Mêşa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabê"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "şivanê pez"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "û ... vedigeriya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji keyê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "beran"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "û sed"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "nêrkerên"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "bi hiriyên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:55.456059810Z",
+  "model": "glm-5.3"
+}

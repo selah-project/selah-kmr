@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 11:15",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û keyê bakur were û çiyayê dorpêçê ava bike û bajarekî bi biryar bigire; û birên başûr nê şêwerin, û gelê bijarteyê wî jî — û hêz nîne ku ê şêwere.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "were"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "bakur"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "ava bike"
+    },
+    {
+      "surface": "סוללה",
+      "gloss": "çiyayê dorpêçê"
+    },
+    {
+      "surface": "ולכד",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarekî"
+    },
+    {
+      "surface": "מבצרות",
+      "gloss": "bi biryar"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "û birên"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "başûr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nê"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "şêwerin"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û gelê"
+    },
+    {
+      "surface": "מבחריו",
+      "gloss": "bijarteyê wî"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û ... nîne"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ku ê şêwere"
+    }
+  ],
+  "timestamp": "2026-08-30T06:21:50.649785379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Guhên wan hene, lê guh nadin ⟨wan⟩; pûzên wan jî ⟨nîne⟩ — ruh di devên wan de tune.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "guhên"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê na"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "guh nadin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pûzên wan jî"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨heye⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "di devên wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:04.320736011Z",
+  "model": "glm-5.3"
+}

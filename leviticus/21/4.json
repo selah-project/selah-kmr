@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Baş mêr, di nav gelê xwe de, nabe ku xwe nelal bike û xwe bêşerif bike.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "xwe nelal bike"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baş mêr"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "di nav gelê xwe de"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "û xwe bêşerif bike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:06.376486172Z",
+  "model": "glm-5.3"
+}

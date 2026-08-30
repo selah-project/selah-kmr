@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Kurê min, ji bo gotinên min guh bihêje, guhê xwe gehêne peyvên min.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "ji bo gotinên min"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "guh bihêje"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "gehêne peyvên min"
+    },
+    {
+      "surface": "הט",
+      "gloss": "gehêne"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:40.792027404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 61,
+  "translation": "Û biyanî dê rawestin û keriyên we çêr bikin, û kurên biyaniyan dê ⟨bin⟩ cotkarên we û rezvanên we.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "Û dê rawestin"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "û çêr bikin"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "keriyên we"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "biyaniyan"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "cotkarên we"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "û rezvanên we"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:36.830636653Z",
+  "model": "glm-5.3"
+}

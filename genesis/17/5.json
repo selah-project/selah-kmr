@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Êdî ⟨את⟩ navê te êdî Abram nayê gazîkirin, û navê te dibe Avraham, çimkî bavê dûbarekî gelan min te kiriye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Êdî"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nayê gazîkirin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê te"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "û dibe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "המון",
+      "gloss": "dûbarekî"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "min te kiriye"
+    }
+  ],
+  "timestamp": "2026-08-29T17:41:13.917194353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Şaul sê hezar mêrên bijartî ji tevahiya Yisraêlê girt, û çû bo ku li dawî û mêrên wî li ser rûyê zinarên kezan bigere.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "bijartî"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji tevahiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "bo ku... bigere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "û mêrên wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "zinarên"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "kezan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:52.004536182Z",
+  "model": "glm-5.3"
+}

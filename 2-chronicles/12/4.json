@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ew ⟨את⟩ bajarên parêzbar yên Yehûda girt û heta Yeruşalayimê hat.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Û ew girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajarên parêzbar yên Yehûda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "parêzbar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:46:09.020690334Z",
+  "model": "glm-5.3"
+}

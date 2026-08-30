@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û wî xerabî kir, çunku dilê wî ne rêkûpêv kiribû ku ⟨את⟩ Yahwe bigera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "û wî kir"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çunku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "rêkûpêv kiribû"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ku bigera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:48:12.935160807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Rûniştiyên tarî û sîya mirinê, girtiyên êş û hesinî.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "rûniştiyên"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarî"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "sîya mirinê"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "girtiyên"
+    },
+    {
+      "surface": "עני",
+      "gloss": "êş"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "hesinî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:20.583234622Z",
+  "model": "glm-5.3"
+}

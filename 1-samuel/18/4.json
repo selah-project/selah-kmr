@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Yehonatan ⟨את⟩ kincê yê li ser xwe bû derxist û da Dawidê, û kincên wî yên din, heta şûrê wî, heta kevanê wî û heta kêşiya wî.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "û … derxist"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincê"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kincê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser xwe bû"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "û … da"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidê"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "û kincên wî yên din"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "şûrê wî"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "kevanê wî"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "kêşiya wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:46.909184696Z",
+  "model": "glm-5.3"
+}

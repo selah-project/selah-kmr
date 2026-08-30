@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û mêr ji xwarinên wan qebûl kirin, lê ⟨şîreta⟩ devê Yahwe nekirin.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Û qebûl kirin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "ji xwarinên wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "devê Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "kirin (persîn)"
+    }
+  ],
+  "timestamp": "2026-08-29T19:17:29.463007080Z",
+  "model": "glm-5.3"
+}

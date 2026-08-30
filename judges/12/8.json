@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û piştî wî Îbtsanê Bet-Lehemê ⟨את⟩ Yisraêl mezin kir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "mezin kir"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "piştî wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Îbtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lehem"
+    }
+  ],
+  "timestamp": "2026-08-29T19:30:04.532255075Z",
+  "model": "glm-5.3"
+}

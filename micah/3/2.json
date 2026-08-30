@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ên ku ji qenciyê nefret dikin û xerabiyê hez dikin; çermê wan ji ser wan didirin û goştê wan ji ser hestiyên wan.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "ji ... nefret dikin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qenciyê"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "û ... hez dikin"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "didirin"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "çermê wan"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ji ser wan"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "û goştê wan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "hestiyên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:12:20.663673615Z",
+  "model": "glm-5.3"
+}

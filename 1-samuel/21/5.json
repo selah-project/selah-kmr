@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û kahîn bersiv da ⟨את⟩ Dawid û got: Nanê layiq di bin destê min de tunîne, lê tenê nanê pîroz heye; heke xortan xwe herî kêm ji jinan biparêzibin.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tunîne"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חל",
+      "gloss": "layiq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "יש",
+      "gloss": "heye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "heke"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "xwe biparêzibin"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "xortan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "herî kêm"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "ji jinan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:57.756891430Z",
+  "model": "glm-5.3"
+}

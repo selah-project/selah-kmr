@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Ez rojên berê bi bîr anîm; ez di dilê xwe de li ser hemû kirinên te digeriyam; ez li ser karê destên te difikirim.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "bi bîr anîm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "berê"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "digeriyam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "kirinên te"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "li ser karê"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "destên te"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "difikirim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:56.401464064Z",
+  "model": "glm-5.3"
+}

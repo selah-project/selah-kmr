@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û mîşberfê li ser serê wî deynî û ⟨את⟩ nîşana pîroz li ser mîşberfê deynî.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "deynî"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mîşberfê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "serê wî"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "deynî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nîşana pîroz"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nîşan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mîşberfê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:48.325827844Z",
+  "model": "glm-5.3"
+}

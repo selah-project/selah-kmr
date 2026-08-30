@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Kenan ⟨את⟩ Tsîdon yê kurê xwe yê pêşin û ⟨את⟩ Het birîn.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Û Kenan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "birîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsîdon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsîdon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "yê kurê xwe yê pêşin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:44.835679297Z",
+  "model": "glm-5.3"
+}

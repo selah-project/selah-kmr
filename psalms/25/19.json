@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Binêre dijminên min, çimkî pir bûn, û bi nefreta tund ji min nefret dikin.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "pir bûn"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "û bi nefreta"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tund"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "ji min nefret dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:45.988831016Z",
+  "model": "glm-5.3"
+}

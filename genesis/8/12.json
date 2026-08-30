@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Wî dîsa heft rojên din li bendê ma û ⟨את⟩ kewanî şand, û ew êdî necarekê din bal wî vegeriya.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "li bendê ma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kewanî"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kewanî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bal wî"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "carekê din"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:37.314946364Z",
+  "model": "glm-5.3"
+}

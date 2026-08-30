@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Tu ê rabî, tu ê dilovanîya Sihon bikî, çimkî dem hatiye ku merhameta wê bikî, çimkî dema diyarkirî hatiye.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ê rabî"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ê dilovanîya … bikî"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "hatiye ku merhameta wê bikî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatiye"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "dema diyarkirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:14.234009188Z",
+  "model": "glm-5.3"
+}

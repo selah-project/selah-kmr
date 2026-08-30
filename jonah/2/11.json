@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Yahwe ji masî re got, û ⟨ew⟩ ⟨את⟩ Yonah hêst ser erdê hişk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "ji masî re"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "hêst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "erdê hişk"
+    }
+  ],
+  "timestamp": "2026-08-30T04:08:57.294195985Z",
+  "model": "glm-5.3"
+}

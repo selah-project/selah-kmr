@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Li gorî hejmara ku hûn çêdikin, wisa ji bo yekî bikin, li gorî hejmara wan.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "li gorî hejmara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hûn çêdikin"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ji bo yekî"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "li gorî hejmara wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:46:39.522622811Z",
+  "model": "glm-5.3"
+}

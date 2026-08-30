@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Û Yaqûb ⟨את⟩ Paroh pîroz kir, û ji ber Paroh derket.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "pîroz kir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-29T17:59:01.002404635Z",
+  "model": "glm-5.3"
+}

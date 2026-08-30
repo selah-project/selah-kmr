@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji bo dadbarîkirina sêwî û xizan, êdî mirovê ji erdê zêdetir netirse.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ji bo dadbarîkirinê"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sêwî"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "û xizan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "zêde bike"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "bitirsîne"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirovê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:04.305544049Z",
+  "model": "glm-5.3"
+}

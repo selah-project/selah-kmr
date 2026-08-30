@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Yerîho ⟨bû⟩ girtî û dabêjî, ji ber sûka kurên Îsraêlê — tu derketîk tune, û tu hatîk tune.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Û Yerîho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "girtî"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "û dabêjî"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber sûka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "derketîk tune"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatîk tune"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:52.098402005Z",
+  "model": "glm-5.3"
+}

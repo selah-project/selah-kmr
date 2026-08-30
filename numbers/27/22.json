@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Moşe wekî ku Yahwe ji wî re ferman dabû kir, û ⟨את⟩ Yehoşua girt û wî li pêş Elazar kahîn û li pêş hemû civatê sekinand.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman dabû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ji wî re"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoşua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "û wî sekinand"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "û li pêş"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:53.945567193Z",
+  "model": "glm-5.3"
+}

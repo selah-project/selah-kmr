@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Ji bo ku kurên mirovan celadetên wî bidin zanîn, û şan û şewata padîşahiya wî.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "bidin zanîn"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "celadetên wî"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "û şan û şewat"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "grandûr"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "padîşahiya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:35.141725605Z",
+  "model": "glm-5.3"
+}

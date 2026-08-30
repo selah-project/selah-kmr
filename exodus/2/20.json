@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ew got ji bo keçên xwe re: \"Û ew li ku ye? Çima vê zilamî hûn bi cî hişt? Gazî wî bikin, da ku wî nan bixwe.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ew got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo... re"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "keçên xwe"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Û ew li ku ye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "hûn bi cî hişt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zilamî"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "zilamî"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "gazî wî bikin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "da ku wî bixwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:35.434438058Z",
+  "model": "glm-5.3"
+}

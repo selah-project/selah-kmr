@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yehoşafat got: 'Peyva Yahwe bi wî re ⟨את⟩ he ye.' Û padîşahê Yisraêl û Yehoşafat û padîşahê Edom daketin ba wî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "he ye"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "peyva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "daketin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba wî"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "û Yehoşafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "û padîşahê"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:24.095494454Z",
+  "model": "glm-5.3"
+}

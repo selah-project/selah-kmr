@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Yahwe ji Avram re got: «Tu, ji bo xwe, ji welatê xwe û ji eslê xwe û ji mala bavê xwe here, ber welatê ku ez ê nîşanî te bidim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji…re"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "ji welatê te"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "û ji eslê te"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "û ji mala"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ez ê nîşanî te bidim"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:43.566592213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Leşî naye dayîn ku kedxwiyên te, û birincan ji me re dibêjin: ‘Çêkin!’ Ùwa, kedxwiyên te tên lêdan, û gûnah ê gelê te ye.”",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "leşî"
+    },
+    {
+      "surface": "אין",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ye dayîn"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ku kedxwiyên te"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "û birincan"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ûwa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kedxwiyên te"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "tên lêdan"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "û gûnah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ê gelê te ye"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:58.565333937Z",
+  "model": "glm-5.3"
+}

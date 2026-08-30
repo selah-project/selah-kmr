@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Elisha mir, û wan wî veşart. Û komên Moabê dihatin ⟨di⟩ warê, di hatina salê de.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "û mir"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "û wan wî veşart"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "û komên"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabê"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "dihatin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨di⟩ warê"
+    },
+    {
+      "surface": "בא",
+      "gloss": "di hatina"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:21:06.489996838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Ez dibêjim: Êlê min, di nîvê rojên min de rake min, di nifşê nifşan de salên te ne.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dibêjim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "rake min"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di nîvê"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên min"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "di nifşê"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nifşan"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "salên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:12.224792709Z",
+  "model": "glm-5.3"
+}

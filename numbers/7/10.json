@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û serokan ⟨את⟩ veqetandina altûrê pêşkêş kirin — ⟨di⟩ roja ku ew hat meshkirin, û serokan ⟨את⟩ pêşkêşîya xwe berî altûrê anîn.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "Û ... pêşkêş kirin"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "serokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veqetandina altûrê"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "veqetandina"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altûrê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "meshkirin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ew (altûr)"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "Û ... anîn"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "serokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêşkêşîya xwe"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "pêşkêşîya xwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altûrê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:41:33.193801079Z",
+  "model": "glm-5.3"
+}

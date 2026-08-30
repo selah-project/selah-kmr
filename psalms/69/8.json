@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ji ber te ez pelax hilda; şerm rûyê min girtiye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ez hilda"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "pelax"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "girtiye"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "şerm"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:52.423169408Z",
+  "model": "glm-5.3"
+}

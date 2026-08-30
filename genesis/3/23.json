@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yahwe Elohîm wî ji baxçeyê Edenê şand, da ku ⟨את⟩ erdê bi xebitîne, ku ji wê hatibû girtin.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "Û … wî şand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ji baxçeyê"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenê"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "da ku … bi xebitîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hatibû girtin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:20.282226150Z",
+  "model": "glm-5.3"
+}

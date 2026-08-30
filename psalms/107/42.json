@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Rastderan dibînin û şah dibin, û her neyarî devê xwe digire.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "dibînin"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rastderan"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "Û şah dibin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "Û her"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "neyarî"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "devê xwe digire"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "devê wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:57.663598829Z",
+  "model": "glm-5.3"
+}

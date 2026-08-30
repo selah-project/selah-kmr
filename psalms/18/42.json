@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ew qêrîyan, lê rizgarker tune bû; heta Yahwe qêrîyan, lê ⟨ew⟩ bersivê da wan neda.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "qêrîyan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lê ... tune bû"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "rizgarker"
+    },
+    {
+      "surface": "על",
+      "gloss": "heta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê ... ne"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "bersivê da wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:51.052257046Z",
+  "model": "glm-5.3"
+}

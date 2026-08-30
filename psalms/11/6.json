@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ew li ser şaşan kevil, agir û sulfur baranê dike; û ba ê dijwar beşa kaseya wan e.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "baranê dike"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şeşan"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "kevil"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "û sulfur"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "û ba"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ê dijwar"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "beşa"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "kaseya wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:27.824291412Z",
+  "model": "glm-5.3"
+}

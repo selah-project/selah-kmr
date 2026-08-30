@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Binêrin ber bi Avraham, bavê we, û ber bi Sara, ku we anîye dinyayê; çimkî ez wî yek tenî bi navî qêrî bûm, û ez pîrozîya wî kir, û ez wî pir kir.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "binêrin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bavê we"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ber bi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "ku we anîye dinyayê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek tenî"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ez… bi navî qêrî bûm"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "û ez pîrozîya wî kir"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "û ez wî pir kir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:33.429594245Z",
+  "model": "glm-5.3"
+}

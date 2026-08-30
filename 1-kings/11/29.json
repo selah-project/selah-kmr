@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 11:29",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Di wê demê de çêbû: Yarov'am ji Yeruşalayimê derket, û Ahiyayê Şîlonî pêxember ⟨את⟩ wî li rê dît — ew bi xwe bi kirasokeke nû xwe digirt, û herdu bi tenê di zeviyê de bûn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çêbû"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di wê demê de"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ji Yeruşalayimê"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Yarov'am)"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "Şîlonî"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "li rê"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "מתכסה",
+      "gloss": "xwe digirt"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "bi kirasokê"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nû"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "û herdu"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "bi tenê"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:34.208701295Z",
+  "model": "glm-5.3"
+}

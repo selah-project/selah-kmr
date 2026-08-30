@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Guhên wan ⟨hene⟩ û nabihîzin; pozê wan ⟨heye⟩ û bêhnê nabînin.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "guh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ê wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bihîzin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "poz"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ê wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "bêhnê dibînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:55.899065414Z",
+  "model": "glm-5.3"
+}

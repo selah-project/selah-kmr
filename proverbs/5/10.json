@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Netube biyanî ji hêza te têr bibin û xebatên te di malbata biyanî de biçin.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "netube"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "têr bibin"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "hêza te"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "û xebatên te"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di malbata"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "biyanî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:37.211504765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Dawid û hemû malbata Yisraêl li pêş Yahwe dilîstin, bi hemû amûrên ji darên sirwê, û bi kenaran, û bi nabilan, û bi defan, û bi mena'ne'an, û bi selçelan.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "û Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "dilîstin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sirwê"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "û bi kenaran"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "û bi nabilan"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "û bi defan"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "û bi mena'ne'an"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "û bi selçelan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:50:27.705603183Z",
+  "model": "glm-5.3"
+}

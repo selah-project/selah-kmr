@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Ez ê bi hemû dilê xwe sipasî te bikim, Adonay, Elohîmê min, û navê te heta hertimî bilind bikim.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ez ê sipasî te bikim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "û bilind bikim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.838430966Z",
+  "model": "glm-5.3"
+}

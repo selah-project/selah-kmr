@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 126,
+  "translation": "Yên ku bi girî diçînin, dê bi stranan çinin.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "yên diçînin"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "bi girî"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "bi stranan"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "dê çinin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:26.301785679Z",
+  "model": "glm-5.3"
+}

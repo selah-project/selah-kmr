@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 22:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ji ber wê yekê, min rûmet: ez ê te bal bavên te kom bikim, û tu yê bal gorên xwe were kom kirin di aşitiyê de, û çavên te hemû xerabiya ku ez dê tînim li ser vî cihî nabinînin. Û ew ⟨את⟩ keyî bêjê vegerandin.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ji ber wê yekê"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "min rûmet"
+    },
+    {
+      "surface": "אספך",
+      "gloss": "ez ê te kom bikim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bavên te"
+    },
+    {
+      "surface": "ונאספת",
+      "gloss": "û tu yê were kom kirin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "קברתיך",
+      "gloss": "gorên te"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "di aşitiyê de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "binînin"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "çavên te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "xerabiya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "tînim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vî cihî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "û ew vegerandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "key"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "keyî"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bêjê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:25:20.919837012Z",
+  "model": "glm-5.3"
+}

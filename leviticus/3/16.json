@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û kîn wan di metbalê de bi agirêsandinê ve bisewitîne — nanê pêşgeşta agir ji bo bêhna xweş; hemû çewrî ji bo Yahwe ye.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "bisewitîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kîn"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di metbalê de"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nanê"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pêşgeşta agir"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ji bo bêhna"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xweş"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "çewrî"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:31.421164442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Wan wekî golikekî dilivîne dike, Lubnan û Şiryon wekî şêwrêyê çiyayan.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Wan dilivîne dike"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "golikekî"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnan"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "û Şiryon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "şêwrêyê"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "çiyayan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:28.540599938Z",
+  "model": "glm-5.3"
+}

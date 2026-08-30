@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ferîşteyê Yahwe ji Elîyahû re got: Bixe binê bi wî re, ji wî netirse; wî rabû û bi wî re çû bin cem key.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ferîşteyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elîyahû re"
+    },
+    {
+      "surface": "רד",
+      "gloss": "bixe binê"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "netirse"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wî rabû"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "û çû binê"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:16.218893818Z",
+  "model": "glm-5.3"
+}

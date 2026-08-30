@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û hûn sandiqeke ji darê şitim çêkin — du amah û nîv dirêjahiya wê, û amah û nîv firehiya wê, û amah û nîv bilindahiya wê.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Û hûn çêkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiq"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darê"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "du amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "û nîv"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjahiya wê"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "û amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "û nîv"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "firehiya wê"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "û amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "û nîv"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bilindahiya wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:03.973145730Z",
+  "model": "glm-5.3"
+}

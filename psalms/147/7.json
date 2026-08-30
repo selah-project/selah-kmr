@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Bi spasdarî li Yahwe bêjin, ji Elohîmê me re bi sazê bilîzin.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "bêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "li Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "bi spasdarî"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bilîzin"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ji Elohîmê me re"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bi sazê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.760256162Z",
+  "model": "glm-5.3"
+}

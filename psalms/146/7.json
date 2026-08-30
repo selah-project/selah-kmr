@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 146,
+  "translation": "Darizana mafan ji bo binpêkiran dike, nanê birçînan dide; Yahwe girtiyan vedike.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "darizana mafan"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ji bo binpêkiran"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ji bo birçînan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "vedike"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "girtiyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:17.725785171Z",
+  "model": "glm-5.3"
+}

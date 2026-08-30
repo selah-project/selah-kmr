@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Şer disekinîne heta dawiya erdê; kevanê dişikîne û sîreyê jê dike, erebeyên şer di agir de dişewitîne.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "disekinîne"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "Şer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "dawiya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kevanê"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "dişikîne"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "jê dike"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sîreyê"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "erebeyên şer"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dişewitîne"
+    },
+    {
+      "surface": "באש",
+      "gloss": "di agir de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:57.146321949Z",
+  "model": "glm-5.3"
+}

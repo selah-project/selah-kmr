@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Rûmetçûnîya min a ku min jê ditirse derbas bike, ji ber ku hukmên te baş in.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "derbas bike"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "rûmetçûnîya min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "min jê ditirse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmên te"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "baş in"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:11.679217508Z",
+  "model": "glm-5.3"
+}

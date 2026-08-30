@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "“Pîroz bû Îsraêl ji bo Yahwe, pêşintrîka berhemê wî; hemû xwedîyarên wî sûcdar dibin — xerabî tê ser wan, dibeje Yahwe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Pîroz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pêşintrîka"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "berhemê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "xwedîyarên"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "sûcdar dibin"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ser wan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "dibeje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:48:18.029961683Z",
+  "model": "glm-5.3"
+}

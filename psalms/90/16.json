@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Bila keda te li ber xulamên te xuya bibe, û rûmeta te li ser zarokên wan.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "bila ... xuya bibe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "xulamên te"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "keda te"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "û rûmeta te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "zarokên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:05.290538645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û mêrê ku bi ⟨את⟩ jina bavê xwe rake, rutîya bavê xwe yê hilanî ⟨e⟩; herdu bi mirinê bên kuştin, xwîna wan li ser wan e.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "û mêrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "rake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina bavê wî"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "rutî"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hilanî"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirin"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bên kuştin"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "xwîna wan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li ser wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:09.974768763Z",
+  "model": "glm-5.3"
+}

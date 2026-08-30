@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Û ⟨ew⟩ gelê wî ⟨את⟩ pir zêde kir, û wî ji dijminên wî xurttir kir.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Û zêde kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê wî"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir zêde"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "û wî xurttir kir"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "dijminên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:36.183638486Z",
+  "model": "glm-5.3"
+}

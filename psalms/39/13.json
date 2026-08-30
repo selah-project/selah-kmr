@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 39:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Duaya min bibihîze, Yahwe, û qîrîna min bihîze; li ber hêstirên min bêdengî neke, ji ber ku ez biyanîyekî ⟨ne⟩ ê ⟨bi⟩ te me, mêvanekî wekî hemû bavên min.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "û qîrîna min"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "bihîze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "hêstirên min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "bêdengî bike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "גר",
+      "gloss": "biyanîyekî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "mêvanekî"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "wekî hemû"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "bavên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:22.671061109Z",
+  "model": "glm-5.3"
+}

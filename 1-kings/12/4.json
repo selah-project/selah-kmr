@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Bavê te ⟨את⟩ xêzê me giran kiribû; êdî tu niha ji xizmeta giran a bavê te û ji xêza wî ya giran a ku danî ser me, sivik bike, û em ê te bi xizmet bikin.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Bavê te"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "giran kiribû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xêzê me"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "xêzê me"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "êdî tu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "sivik bike"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ji xizmeta"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "giran a"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "û ji xêza wî ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "giran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "danî ser me"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ser me"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "em ê te bi xizmet bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:05.780035770Z",
+  "model": "glm-5.3"
+}

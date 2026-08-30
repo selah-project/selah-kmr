@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Em ên kor dibînîn, bi dest dixwînin di dîwar re, û ên bê çavan dixwînin; em di nîvro de didin, wek di êvarê de, di şînaniyan de, wek miriyan.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "dixwînin"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "ên kor"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dîwar"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "û ên bê"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "çavan"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "dixwînin"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "didin"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "di nîvro de"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "wek di êvarê de"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "di şînaniyan de"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "wek miriyan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:46:19.495134712Z",
+  "model": "glm-5.3"
+}

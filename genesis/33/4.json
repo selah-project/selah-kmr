@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û Esav bi meşandin hat pêşiya wî, û wî li ba xwe girt, û kete stûyê wî, û wî maq dan, û herdu jî giriyan.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "bi meşandin hat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "pêşiya wî"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "li ba xwe girt"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kete"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "stûyê wî"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "wî maq dan"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "herdu jî giriyan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:45.312199775Z",
+  "model": "glm-5.3"
+}

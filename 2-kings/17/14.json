@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û nebihîstin, û stûyê xwe req kirin, wekî stûyê bavên xwe yên ku bawerî bi Yahwe Elohîmê xwe neanîn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Û ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bihîstin"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "û req kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stûyê xwe"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "stûyê xwe"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "wekî stûyê"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bawerî neanîn"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:23:18.053565711Z",
+  "model": "glm-5.3"
+}

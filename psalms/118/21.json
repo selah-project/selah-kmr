@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Ez ê sipasî ji te re bikim, ji ber ku tu bersiva min da û tu bûyî rizgariya min.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ez ê sipasî ji te re bikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "tu bersiva min da"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "û tu bûyî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "rizgarî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:37.538228629Z",
+  "model": "glm-5.3"
+}

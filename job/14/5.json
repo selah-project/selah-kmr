@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ger rojên wî diyar in, hejmara mehên wî ⟨את⟩ te ye; tu sinorê wî danîn û ew derbas nabe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "diyar"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "rojên wî"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmara"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "mehên wî"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "sinorê wî"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu danîn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "derbas dibe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:43.548026767Z",
+  "model": "glm-5.3"
+}

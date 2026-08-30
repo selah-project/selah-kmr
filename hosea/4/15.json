@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ger tu Îsraêl zînayê dikî, bila Yehûda guneh neke; û hûn neçin Gilgalê, û neçin ser Beth-Awenê, û sond nexwin: 'Wekî ku Yahwe zinde ye!'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "zînayê dikî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bila... ne"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "guneh neke"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û... ne"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "neçin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û... ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "neçin ser"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awenê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û... ne"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "sond nexwin"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:42.122522042Z",
+  "model": "glm-5.3"
+}

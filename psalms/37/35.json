@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Min xerabekî zordar dît ku xwe berdidal, wek darê welat ê hêşîn.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Min-dît"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xerabekî"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "zordar"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "û-xwe-berdidal"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "wek-darê-welat"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ê-hêşîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:44.239615345Z",
+  "model": "glm-5.3"
+}

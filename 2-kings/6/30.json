@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Çawa ku padîşah ⟨את⟩ gotinên jinê bihîst, cebskir ⟨את⟩ cilên xwe; ew li ser bedenê digeriya, û gel nihêrt — û ho, kincê hêrî ji hundir ve li ser goştê wî bû.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çawa ku"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gotinên jinê"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jinê"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "cebskir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cilên xwe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "cilên xwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "digeriya"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "bedenê"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nihêrt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "השק",
+      "gloss": "kincê hêrî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê wî"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji hundir ve"
+    }
+  ],
+  "timestamp": "2026-08-29T20:17:18.807601272Z",
+  "model": "glm-5.3"
+}

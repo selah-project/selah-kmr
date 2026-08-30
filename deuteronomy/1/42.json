@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Yahwe ji min re got: “Ji wan re bêje: Hûn nayên bilindkirin û nayên şerkirin, ji ber ku ez di nava we de ninim; û hûn nayên xistîna ber dijminên xwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "hûn bilind dibin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "hûn şer dikin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ez ninim"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di nava we de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "hûn têne xistîn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dijminên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:00.123269665Z",
+  "model": "glm-5.3"
+}

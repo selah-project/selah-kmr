@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji bo vî xortî min dua kiribû, û Yahwe ji min re ⟨את⟩ daxwaza min da ku min ji wî xwestibû.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "vî xortî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vî"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "min dua kiribû"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Û ... da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daxwaza min"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "daxwaza min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "min xwestibû"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:34:14.920027026Z",
+  "model": "glm-5.3"
+}

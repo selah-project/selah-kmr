@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Te de bavên me lê xwe dan; ew lê xwe dan û tu wan xilas kirin.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "te de"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "lê xwe dan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "lê xwe dan"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "û tu wan xilas kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:11.716211094Z",
+  "model": "glm-5.3"
+}

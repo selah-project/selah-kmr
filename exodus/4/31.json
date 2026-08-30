@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û gel bawer kir, û gûh dan ku Yahwe zarokên Yisraêl ⟨את⟩ bi dawetî serdan kiribû û ku êşandina wan ⟨את⟩ dîtibû; û xwe xwar kirin û serî dan.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "bawer kir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "gûh dan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "serdan kiribû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên Yisraêl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "û ku"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dîtibû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êşandina wan"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "êşandina wan"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "xwe xwar kirin"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "serî dan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:38.003642975Z",
+  "model": "glm-5.3"
+}

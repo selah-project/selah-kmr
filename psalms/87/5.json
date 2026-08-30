@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 87,
+  "translation": "Û ji bo Tsiyonê tê gotin: ev û ew mêr tê de hatiye jidayikirin; Êl Elyon bi xwe wê bi cih dike.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "Û ji bo Tsiyonê"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "tê gotin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "û ew mêr"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "hatiye jidayikirin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Û ê bi xwe"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "wê bi cih dike"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Êl Elyon"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.825873746Z",
+  "model": "glm-5.3"
+}

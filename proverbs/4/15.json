@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ji wê bêhtir dû bikeve; êdî ji derbas nekeve; ji wê bizivire, ji bo ku derbas bibe.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "ji wê bêhtir dû bikeve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "derbas nekeve"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "bizivire"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "ji bo ku derbas bibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:44.015078765Z",
+  "model": "glm-5.3"
+}

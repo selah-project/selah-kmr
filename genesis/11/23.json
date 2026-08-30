@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Serug piştî ku ⟨את⟩ Nahor bû bavê xwe, du sed salan jijî, û kûr û keçên wî çêbûn.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jijî"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "bû bavê xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "du sed"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "çêbûn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kûr"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "û keçên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:40.145920997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Bi kûrên Îsraêl re biaxive û ji wan re bêje: Mirovekî ji we gava ji bo Yahwe qurbanî bîne, ji dewaran — ji ga û ji pez — qurbanîya xwe ⟨את⟩ bînin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "biaxive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi...re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "û bêje"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovekî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ji we"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurbanî"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dewaran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "pez"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanîya xwe"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "qurbanîya xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:03.110377630Z",
+  "model": "glm-5.3"
+}

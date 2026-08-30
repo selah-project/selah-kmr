@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Yê nexas di çavên wî de tê ezmkirin, lê ew ên ku ji Yahwe ditirsin rêz dike; şûnde ku êşê daye û wê neguherîne.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "yê nexas"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên wî de"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "tê ezmkirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ewn ku ji Yahwe ditirsin"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ên ku ditirsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "rêz dike"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "şûnde daye"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ku êşê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "wê neguherîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:05.032055019Z",
+  "model": "glm-5.3"
+}

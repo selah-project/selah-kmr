@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Serdarên gelan civiyan, gelê Elohîmê Avraham; ji ber ku parêzwanên erdê ji bo Elohîm in; ew ji bilindahiyê hatiye bilindkirin.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Serdarên"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji bo Elohîm"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "parêzwanên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ji bilindahiyê"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "hatiye bilindkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:16.173938338Z",
+  "model": "glm-5.3"
+}

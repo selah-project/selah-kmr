@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Ez ê di nav gelan de sipas ji te re bikim, Adonay; ez ê di nav neteweyên mezin de stranan ji te re bibêjim.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ez ê sipas ji te re bikim"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ez ê stranan ji te re bibêjim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di nav neteweyên mezin de"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "netewe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:11.861846406Z",
+  "model": "glm-5.3"
+}

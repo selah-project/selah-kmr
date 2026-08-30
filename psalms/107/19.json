@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Wan gazî Yahwe kir di tengasiya xwe de, û ji zoriyên wan ew xilas kir.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Wan gazî ... kir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ber bi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "di tengasiya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "xwe"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ji zoriyên wan"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ew xilas kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:28.566685034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Di Yahwe de canê min serbilind dibe; feqîrên rembilind bibihîzin û şah bin.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe de"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "serbilind dibe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bibihîzin"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "feqîrên rembilind"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "û şah bin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:17.624904252Z",
+  "model": "glm-5.3"
+}

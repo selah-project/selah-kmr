@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Ezarja ⟨את⟩ Amarja bi dest pê anî, û Amarja ⟨את⟩ Ahîtûb bi dest pê anî.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "û … bi dest pê anî"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ezarja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "û Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi dest pê anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahîtûb"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahîtûb"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:55.607977276Z",
+  "model": "glm-5.3"
+}

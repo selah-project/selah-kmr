@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Hişyar bibe, çima radizî, ey Adonay? Şiyar bibe, neyje bîne bêpaidanîyan.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Hişyar bibe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "radizî"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ey Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Şiyar bibe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "yje bîne bêpaidanîyan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:13.231576597Z",
+  "model": "glm-5.3"
+}

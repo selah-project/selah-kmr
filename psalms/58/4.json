@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Bêguneh ji zikê dibin xerîb; ji hêkan dibin şa, ên ku derew diaxivin.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "dibin xerîb"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Bêguneh"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ji zikê"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "dibin şa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ji hêkan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ên ku diaxivin"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "derew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:00.401091412Z",
+  "model": "glm-5.3"
+}

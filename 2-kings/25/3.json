@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Di nehemînê ⟨de⟩ mehê de birçîtî di bajar de xurt bû, û ji bo gelê erdê nan nemabû.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "di nehemînê"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mehê"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "xurt bû"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "birçîtî"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajar de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nînin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nemabû"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ji bo gelê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:03.203846363Z",
+  "model": "glm-5.3"
+}

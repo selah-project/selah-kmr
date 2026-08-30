@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Û ⟨את⟩ neqîşên wê bi hev re — bi kêşên hêzdar û bi mûr — dixiriqujitînin.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "û ⟨את⟩",
+      "marks": "neqîşên wê"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "neqîşên wê"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "bi kêşên hêzdar"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "û bi mûr"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "dixiriqujitînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:08.323825710Z",
+  "model": "glm-5.3"
+}

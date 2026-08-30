@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Elişa jê re got: “Kevan û tîran bistîne.” Û ew ji bo wî kevan û tîran girt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "bistîne"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kevan"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "û tîran"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kevan"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "û tîran"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:48.008326921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Faisqê li sedîq digere û dixwaze wî bikuje.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "digere"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Faisqê"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "li sedîq"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "û dixwaze"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "wî bikuje"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:36.046032906Z",
+  "model": "glm-5.3"
+}

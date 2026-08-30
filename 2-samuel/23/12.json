@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ew xwe di navînê parê de danî, wê rizgar kir û ⟨את⟩ Filistîyan da; û Yahwe rizgarîyekê mezin çêkir.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "ew xwe danî"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di navînê"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "parê"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "wê rizgar kir"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "û da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistîyan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistîyan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "û çêkir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "rizgarîyekê"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:03.539802075Z",
+  "model": "glm-5.3"
+}

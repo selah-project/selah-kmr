@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û di konên xwe de kîn barandin, bi dengê Yahwe guh nedarandin.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "kîn barandin"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "di konên xwe de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "guh nedarandin"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:47.982727208Z",
+  "model": "glm-5.3"
+}

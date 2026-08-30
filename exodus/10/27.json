@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Yahwe dilê Firʿawn xurt kir, û ⟨ew⟩ ne xwest wan bişîne.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "xurt kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê Firʿawn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firʿawn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "xwest"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "bişîne wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:40.461074089Z",
+  "model": "glm-5.3"
+}

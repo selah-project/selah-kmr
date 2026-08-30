@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Çimkî binêrin, ên şer kevanê xwe dadigirin, tîrên xwe li ser zîlê amade kirine, ji bo ku di tarîtîyê de li dilrastan biavêjin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binêrin"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ên şer"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "dadigirin"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kevan"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "amade kirine"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "tîrên xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "zîlê"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "ji bo avêtinê"
+    },
+    {
+      "surface": "במו",
+      "gloss": "di … de"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "tarîtîyê"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "li dilrastan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:28.291941440Z",
+  "model": "glm-5.3"
+}

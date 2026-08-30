@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Tu neteweyê pir kir, kêfa wan mezin nekir; ew li pêş te şah bûn, wek şahiya di ceh de, çawa ku şah dibin dema ku ganetiyê dabeş dikin.",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "pir kir"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "mezin kir"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "kêf"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "şah bûn"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li pêş te"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "wek şahiya"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "di ceh de"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "çawa ku"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "şah dibin"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "demal dabeş kirin"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ganetî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:30.032584434Z",
+  "model": "glm-5.3"
+}

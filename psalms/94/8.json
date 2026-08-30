@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Fêm bikin, gewreyên di gel de, û valaberan — hûn kengê biaqil dibin?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Fêm bikin"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "gewreyên"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "di gel de"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "û valaberan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "biaqil dibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:56.531512906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Yisraêl guneh kiriye, û ⟨את⟩ peymana min a ku min bi ⟨את⟩ wan ferman kirî derbas kirine, û ji tiştê veqetandî girtine, û dizî kirine, û înkar kirine, û wê danîne di berhemên xwe de.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "guneh kiriye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "derbas kirine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana min"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "min ferman kirî"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "girtine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tiştê veqetandî"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "dizî kirine"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "înkar kirine"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danîne"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "di berhemên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:49.354333474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Kohen dê binêre, û hûn, ger bilindabûneke spî di çerm de ⟨hebe⟩, û ew mootê spî kiribe, û goştekî xav yê zînde di wê bilindabûnê de ⟨hebe⟩ —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dê binêre"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û hûn"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "bilindabûn"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "spî"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di çerm de"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "kiriye"
+    },
+    {
+      "surface": "שער",
+      "gloss": "moot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "spî"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "û goştxav"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zînde"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "di wê bilindabûnê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:28:23.931653053Z",
+  "model": "glm-5.3"
+}

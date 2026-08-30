@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û min bi brodarî li te xist, min pêlavên çermê txahş li te dan, min bi ketenê zêrîn li te girêda, û min te bi mesî (îpek) girt.",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "û min li te xist"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "bi brodarî"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "min pêlavên ... li te dan"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "çermê txahş"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "min li te girêda"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "bi ketenê zêrîn"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "û min te girt"
+    },
+    {
+      "surface": "משי",
+      "gloss": "bi mesî (îpek)"
+    }
+  ],
+  "timestamp": "2026-08-30T03:48:22.149843442Z",
+  "model": "glm-5.3"
+}

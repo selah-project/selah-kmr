@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Nadîrên xwe ji bo Yahwe dikim temam, ⟨niha⟩ li ber çavê hemû gelê wî.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nadîrên xwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "dikim temam"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "li ber çavê"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨niha⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:45.085802501Z",
+  "model": "glm-5.3"
+}

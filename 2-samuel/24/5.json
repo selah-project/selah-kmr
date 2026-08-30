@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Wan ⟨את⟩ Urdunê derbas kir, li Aroêrê kamp çêkirin, li aliyê rastê yê bajarê ku di nav newalê Gad de ye, û heta Yazerê.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "derbas kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdunê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kamp çêkirin"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "li Aroêrê"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "aliyê rastê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "newalê"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazerê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:31.241081626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Şaul ⟨את⟩ Emelek xist, ji Xewîla heta ketina te ya Şûrê, ku li ber rûyê Mîtsrayimê ye.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emelek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Emelek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "ji Xewîla"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ketina te ya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Şûrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:43.321298409Z",
+  "model": "glm-5.3"
+}

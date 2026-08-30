@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Çi qezenc heye ji bo yê ku dixebite di tiştê ku ew lê dixebite?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "qezenc"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "yê ku dixebite"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "di tiştê ku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "lê dixebite"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:58.008341400Z",
+  "model": "glm-5.3"
+}

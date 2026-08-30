@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ⟨את⟩ van hemû keyan û ⟨את⟩ welatên wan Yehoşua yekcar girt, çimku Yahwe, Elohîmê Yisraêlê, ji bo Yisraêlê şer dikir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "van hemû keyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "keyan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "welatên wan"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "welatên wan"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "girt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "car"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "şer dikir"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ji bo Yisraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:04.293350805Z",
+  "model": "glm-5.3"
+}

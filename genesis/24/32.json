@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û mêrê hat xanî⟨yê⟩, hêştir berdan, û ji hêştiran re xiwar û sêwîr da û av ji bo şûştina lingên ⟨wî⟩ û lingên mêran ⟨את⟩⟨bi wî re⟩ daye.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Û hat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "xaniyê"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "berdan"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "hêştir"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û da"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "xiwar"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "û sêwîr"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "ji bo hêştiran"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "û av"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "ji bo şûştina"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wî"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "û lingên"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:46:02.744905717Z",
+  "model": "glm-5.3"
+}

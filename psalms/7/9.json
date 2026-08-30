@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Yahwe gelan daraz dike: Yahwe, min bi dadbûniya min û bi duristiya min a li ser min daraz bike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "daraz dike"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "min daraz bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "bi dadbûniya min"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "û bi duristiya min"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:55.492636816Z",
+  "model": "glm-5.3"
+}

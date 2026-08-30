@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ma li ber çavan ev ji ⟨את⟩ Yahwe Şevaot nîne? Gel dê ji bo agir bizanebe û netewe dê ji bo valatiyê betile.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma...nîne"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "li ber çavan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩",
+      "marks": "Yahwe Şevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Şevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "dê bizanebe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "û netewe"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "valatî"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "dê betile"
+    }
+  ],
+  "timestamp": "2026-08-30T04:13:40.787389538Z",
+  "model": "glm-5.3"
+}

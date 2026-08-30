@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Jin got: \"Kî ⟨את⟩ ji bo te bilind bikim?\" Ewî got: \"Şemuêl ⟨את⟩ — ji min re bilind bike.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kî"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "bilind bikim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ewî got"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şemuêl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuêl"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "bilind bike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:42.781876128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û wî ji bo Baal altûrek li malê Baal, ê ku wî li Şomron çêkiribû, bilind kir.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altûrek"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ji bo Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "li malê"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "li Şomron"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:51.606394258Z",
+  "model": "glm-5.3"
+}

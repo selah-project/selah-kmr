@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û roj çû ava û wî paqij kir ⟨xwe⟩, û paşê ji pîrozan dixwe, ji ber ku xwariya wî ye.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "û çû ava"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "paqij kir"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "û paşê"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dixwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pîrozan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "xwariya wî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:54.929174131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Rawestin û bizanin ku ez Elohîm im; ez di nav gelan de bilind im, ez li erdê bilind im.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Rawestin"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "bizanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "bilind im"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "bilind im"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:57.146467022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Ne bin wekî hesp, wekî qentîra bêfireh; divê zînar û hêzil — xemlê wê — were danîn ku nêzî te neyên.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "bin"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "wekî hesp"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "wekî qentîra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bê"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "fireh"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "zînar"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "û hêzil"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "xemlê wê"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "were danîn"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nêzî bibin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:25.108537784Z",
+  "model": "glm-5.3"
+}

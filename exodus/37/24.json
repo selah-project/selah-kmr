@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Bi kîştek zêrê paqij çêkir ⟨את⟩ wê, û ⟨את⟩ hemû amûrên wê.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kîştek"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ wê",
+      "marks": "çiradan (menora)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû amûrên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "amûrên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:10.769850681Z",
+  "model": "glm-5.3"
+}

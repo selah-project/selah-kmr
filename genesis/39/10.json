@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û bû ku dema ew roj bi roj bi Yosef re diaxivî, wî guh neda wê — ku ligel wê rake an jî bi wê re be.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû ku"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "demа ew diaxivî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bi roj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guh neda"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ku rake"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "ligel wê"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ku be"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bi wê re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:30.681555738Z",
+  "model": "glm-5.3"
+}

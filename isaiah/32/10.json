@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Bihetilînin rojan û salekê, ey ên bênetewî; ji ber ku tirî bi dawî dibe, komkirin êdî nayê.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "על",
+      "gloss": "û"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salekê"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "bihetilînin"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ey ên bênetewî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bi dawî dibe"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "tirî"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "komkirin"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nayê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:28.727294728Z",
+  "model": "glm-5.3"
+}

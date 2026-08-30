@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Rojên deh ⟨את⟩ bi dixazî-mêde biceribîne, û ji hemû-xwarinên-to jî bide me da ku em bixwin, û av, û em vexwin.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "biceribîne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bi dixazî-mêde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rojên deh"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": ""
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Rojên"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "û … bide"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "hemû-xwarinên-to"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "da ku em bixwin"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "û av"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "û em vexwin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:55.919948270Z",
+  "model": "glm-5.3"
+}

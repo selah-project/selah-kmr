@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ji bo serokekî muzîkê, li gorî \"Almût Laben\" (dibe ku ev navê stryoneke navdar be), mezamîra Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "\"Almût"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben\" (navê stryonekê)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezamîra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:15.155186545Z",
+  "model": "glm-5.3"
+}

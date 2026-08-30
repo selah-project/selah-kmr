@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Yê ku ronahiyên mezin çêkir, ji ber ku xesedê wî heta dawiyê ye.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Yê ku çêkir"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "ronahiyên"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:00.029805605Z",
+  "model": "glm-5.3"
+}

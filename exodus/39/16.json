@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "û çêkirin du pergên zêr û du guhikên zêr, û du guhikan dan ⟨את⟩ ser du dawiyên sîngê.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "û çêkirin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "pergên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "û du"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "guhikên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "û ... dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du guhikan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "guhikan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dawiyên"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sîngê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:56.878761288Z",
+  "model": "glm-5.3"
+}

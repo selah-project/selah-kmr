@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Ji bo navê te, Yahwe, canê min ji nû ve bidê jiyîn; bi rastîya xwe canê min ji tengasîyê derîne.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "canê min ji nû ve bidê jiyîn"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "bi rastîya te"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "derîne"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ji tengasîyê"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:15.983118763Z",
+  "model": "glm-5.3"
+}

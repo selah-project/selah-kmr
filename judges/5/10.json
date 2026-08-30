@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Hûn ên ku siwarê kerên spî ne, ên ku rûniştî li ser berbankan in û ên ku di rê de diçin — hûn bibêjin!",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "siwarê"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "kerên"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "spî"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "rûniştî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "berbankan"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "û ên diçin"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rê de"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "bibêjin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:27:12.591894946Z",
+  "model": "glm-5.3"
+}

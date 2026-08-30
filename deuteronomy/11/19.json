@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û hûn ⟨את⟩ wan ⟨את⟩ zarokên xwe hîn dikin ku pê biaxivin — di rûniştina te de di malê te de, di çûna te de di rê de, di razana te de û di rabûna te de.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "hîn dikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên xwe"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "zarokên xwe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ku biaxivin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pê"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "di rûniştina te de"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di malê te de"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "û di çûna te de"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "û di razana te de"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "û di rabûna te de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:08.510231844Z",
+  "model": "glm-5.3"
+}

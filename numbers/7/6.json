@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û Moşe ⟨את⟩ geriyan û ⟨את⟩ gawar girt û ⟨את⟩ wan da Lêviyan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Û … girt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geriyan"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "geriyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "gawar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "gawar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û … da"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "ber bi Lêviyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêviyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:40:13.779272773Z",
+  "model": "glm-5.3"
+}

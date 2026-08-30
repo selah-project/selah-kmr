@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 67,
+  "translation": "Erd berhemê xwe daye; Elohîm, Elohîmê me, me dybareke.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Erd"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "daye"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "berhemê xwe"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "me dybareke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:29.503085154Z",
+  "model": "glm-5.3"
+}

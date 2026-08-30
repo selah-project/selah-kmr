@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "⟨את⟩ hîvê û stêrkan ji bo serweriya şevê — ji ber ku xeseda wî heta hertimî ye.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hîvê"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "hîvê"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "û stêrkan"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "ji bo serweriya"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xeseda wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:09.988719956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û şandin û gazî wî kirin; hat Yerobeam û tevahiya civata Îsraêlê, û bi Rehabeam re axivîn, gotin:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Û şandin"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "gazî wî kirin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hat"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "axivîn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin:"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:05.779787224Z",
+  "model": "glm-5.3"
+}

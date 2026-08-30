@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Aram ji rojhilatê û Fîlîstî ji paş ve, û ⟨את⟩ Îsraêl bi devê xwe yê têr xwarin. Bi hemû van tiştan hêrsê wî nesekand û hîn jî destê wî dirêj e.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ji rojhilatê"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "û Fîlîstî"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "ji paş ve"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "û xwarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "devê xwe yê têr"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Bi hemû"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "van tiştan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sekand"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hêrsê wî"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "û hîn jî"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "dirêj e"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:36.321209413Z",
+  "model": "glm-5.3"
+}

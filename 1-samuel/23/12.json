@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Dawid got: “Xwediyên Qeîlayê ⟨את⟩ min û ⟨את⟩ mêrên min digirin û didin destê Şaul?” Û Yahwe got: “Didin.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "digirin û didin"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "xwediyên"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeîlayê"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mêrên min"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên min"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "didin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:49.935093286Z",
+  "model": "glm-5.3"
+}

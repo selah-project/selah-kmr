@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Wê gavê Daryûş ⟨şah⟩ ferman da, û li malê nivîsaran lêgerîn hate kirin — li wir ku gonên xezîneyê dihatin danîn, li Babîl.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "wê gavê"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Daryûş"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "şah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "da"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ferman"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "lêgerîn hate kirin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "li malê"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "nivîsaran"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "xezîneyê"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "dihatin danîn"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "li Babîl"
+    }
+  ],
+  "timestamp": "2026-08-30T06:23:37.767694376Z",
+  "model": "glm-5.3"
+}

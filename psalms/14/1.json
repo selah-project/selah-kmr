@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ji bo serokê muzîkê. Ji Dawid re. Ahmeq di dilê xwe de got: \"Elohîm tune ne.\" Winda kirin, ji xwe dur xist; kirinê ji hev şaş — kiriyarê qencîyê tune ye.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokê muzîkê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid re"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Ahmeq"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "di dilê xwe de"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "winda kirin"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ji xwe dur xist"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune ye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiriyarê"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qencîyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:00.953675380Z",
+  "model": "glm-5.3"
+}

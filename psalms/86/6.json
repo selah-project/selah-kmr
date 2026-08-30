@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Guh bide, Yahwe, duaya min, û bizivire guhê ji dengê lavatiyên min.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "û bizivire guhê"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ji dengê"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "lavatiyên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.243111606Z",
+  "model": "glm-5.3"
+}

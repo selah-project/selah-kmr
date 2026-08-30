@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û mêrekî ew dît, û va, ew di zeviyê de winda bûbû; û mêr jê pirsî, got: «Tu çi digerî?»",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "ew dît"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û va"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "winda bûbû"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "jê pirsî"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "digerî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:21.370320086Z",
+  "model": "glm-5.3"
+}

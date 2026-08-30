@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ew ⟨את⟩ sîfeta zêr li çadirê civînê de, berî perdeyê, danî.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sîfeta zêr"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sîfet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "li çadirê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdeyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:50.223602619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Ê, Yahwe! Lewma ez xulamê te me, ez xulamê te me, kurê kenizê te; tu zîncîrên min vekirin.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lewma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê te"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kenizê te"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "vekirin"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "zîncîrên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:45.086074626Z",
+  "model": "glm-5.3"
+}

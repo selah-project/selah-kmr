@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Tenê — ⟨את⟩ tevahiya padîşahiyê naqelînim; êdî ji kurê te re eşîrekê didim, ji bo Dawidê xulamê min, û ji bo Yeruşalayimê ku min hilbijartine.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya padîşahiyê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "padîşahiyê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "naqelînim"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "eşîrekê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "didim"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ji kurê te re"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamê min"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "û ji bo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "min hilbijartine"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:39.044040518Z",
+  "model": "glm-5.3"
+}

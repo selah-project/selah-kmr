@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Û bila peyva rastiyê bi tevahî ji devê min ranebe, çimkî ez li hukmên te hêviyê im.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "û bila ne"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ranebe (dirabe)"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ji devê min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir zêde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "li hukmên te"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ez hêviyê im"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:03.198715159Z",
+  "model": "glm-5.3"
+}

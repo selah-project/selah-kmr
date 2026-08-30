@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Dûbarewên min di hemû rojê de min didiqurtînin, çimkî ji bilindahiyê gelek in ên ku li min şer dikin.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "didiqurtînin"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "dûbarewên min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek in"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "şer dikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ji bilindahiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:40.678387381Z",
+  "model": "glm-5.3"
+}

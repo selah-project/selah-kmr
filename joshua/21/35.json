@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna û ⟨את⟩ mêtingeha wê, ⟨את⟩ Nahalal û ⟨את⟩ mêtingeha wê — çar bajar.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mêtingeha wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mêtingeha wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mêtingeha wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mêtingeha wê"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:54.062038908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Zanayî jî bibihîze û hînkirinê zêde bike, û fêmkirî jî şêwirîyan bidest bîne.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "zanayî"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "û zêde bike"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hînkirinê"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "û fêmkirî jî"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "şêwirîyan"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "bidest bîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:42.275760659Z",
+  "model": "glm-5.3"
+}

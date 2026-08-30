@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Û ⟨את⟩ gelê ew qas derbas kir ⟨את⟩ wan ber bi bajaran, ji dawî sînorê Mîtsrayim heta dawî wî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "derbas kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ber bi bajaran"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "ber bi bajaran"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ji dawî"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sînor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "dawî wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:59:30.133070256Z",
+  "model": "glm-5.3"
+}

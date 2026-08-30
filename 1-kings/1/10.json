@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Lê ⟨את⟩ Natan pêxember û Benayahu û ⟨את⟩ şervanên hêzdar û ⟨את⟩ Şelomo, birayê wî, wî nexwest bang bike.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lê ⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "û Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "şervanên hêzdar"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "şervanên hêzdar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Şelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bang kir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:00:26.733300142Z",
+  "model": "glm-5.3"
+}

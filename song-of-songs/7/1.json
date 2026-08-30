@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 7:1",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Vegere, vegere, ey Şûlamîtî! Vegere, vegere, da ku em ⟨bibînin⟩ te. Çi hûn dixwînin di Şûlamîtî de? Wekî dansa du koman ⟨Mahanaîm⟩.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Vegere"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "vegere"
+    },
+    {
+      "surface": "השולמית",
+      "gloss": "ey Şûlamîtî"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "Vegere"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "vegere"
+    },
+    {
+      "surface": "ונחזה",
+      "gloss": "û da ku em bibînin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "hûn dixwînin"
+    },
+    {
+      "surface": "בשולמית",
+      "gloss": "di Şûlamîtî de"
+    },
+    {
+      "surface": "כמחלת",
+      "gloss": "wekî dansa"
+    },
+    {
+      "surface": "המחנים",
+      "gloss": "du koman (Mahanaîm)"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:27.218953874Z",
+  "model": "glm-5.3"
+}

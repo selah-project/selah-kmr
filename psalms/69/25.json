@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ser wan hêrsa xwe rûxîne, û kîna êrişa te bigihîje wan.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "rûxîne"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ser wan"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "hêrsa te"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "û kîna"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "êrişa te"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "bigihîje wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:53.744210768Z",
+  "model": "glm-5.3"
+}

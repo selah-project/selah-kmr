@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 112,
+  "translation": "Wê dewleta wî mirovî di erdê de hebe; neslên ⟨ yên ⟩ rast bi rûmet in.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "dewleta wî mirovî"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hebe"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "wê"
+    },
+    {
+      "surface": "דור",
+      "gloss": "neslên"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rast"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bi rûmet in"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:47.398620839Z",
+  "model": "glm-5.3"
+}

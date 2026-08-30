@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Û ez ê nifşê wî heta hertimî bi cih bikim, û textê wî wek rojên ezmanan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "û ez ê bi cih bikim"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "nifşê wî"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "û textê wî"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "wek rojên"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:24.732319220Z",
+  "model": "glm-5.3"
+}

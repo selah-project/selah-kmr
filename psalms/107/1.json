@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Spasdarî ji Yahwe bikin, ku ew ⟨e⟩ baş, ku xesedê wî heta ⟨bi⟩-dewamî ye.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Spasdarî bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta-dewamî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:27.099591860Z",
+  "model": "glm-5.3"
+}

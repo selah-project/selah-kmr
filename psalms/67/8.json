@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 67,
+  "translation": "Elohîm me dybareke; û hemû dawiyên erdê ⟨אתו⟩ bitirsin.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "me dybareke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "û … bitirsin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hemû dawiyên erdê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dawiyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:29.503214231Z",
+  "model": "glm-5.3"
+}

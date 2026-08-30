@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Û dê ji deryayê heta deryayê hukim bike, û ji çem heta dawiyên erdê.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "û dê hukim bike"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji deryayê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "û ji çem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dawiyên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:23.713902910Z",
+  "model": "glm-5.3"
+}

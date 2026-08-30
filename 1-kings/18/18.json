@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û wî got: \"Ez Yisraelê nedirşandim ⟨את⟩, lê tu û malê bavê te — di hûn berdanina ⟨את⟩ fermanên Yahwe de û di çûna we piştî Baalan de.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wî got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "ez nedirşandim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraelê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "û malê"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "di hûn berdanina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "û te çû"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalan (pirjimar)"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:20.837516689Z",
+  "model": "glm-5.3"
+}

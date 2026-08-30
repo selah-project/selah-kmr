@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 41:42",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û Paroh mohra xwe ji destê xwe derxist û ⟨את⟩ wê da li ser destê Yosef, û wî ⟨את⟩ wî bi cilên kincên hûr ên sipî li xwe kir, û zînerek zêr dan ser stûyê wî.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "û … derxist"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohra xwe"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "mohra xwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji … der"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û … da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ wê",
+      "marks": "wê (mohr)"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dest"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "û … li xwe kir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Yosef)"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "cil"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hûr ên sipî"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "û … dan ser"
+    },
+    {
+      "surface": "רבד",
+      "gloss": "zînerek"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "stûyê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:23.790945051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Bide me alîkariya ji dijminî; ji ber ku alîkariya mirov vala ye.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "alîkariya"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ji dijminî"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ji ber ku vala"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "alîkariya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:53.362278309Z",
+  "model": "glm-5.3"
+}

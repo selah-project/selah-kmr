@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û hûn dê ⟨את⟩ hemû biryarên min û ⟨את⟩ hemû mafên min bi parêzin û ⟨את⟩ wan bikin, da ku erdê ku ez we bînim wir bo bicihbûnê, we neqeze bike.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Û hûn dê bi parêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû biryarên min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "biryarên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû mafên min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mafên min"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "û bikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ku ... ne"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "qeze bike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "hûn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "bînim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wir"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bo bicihbûnê"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:48.095324906Z",
+  "model": "glm-5.3"
+}

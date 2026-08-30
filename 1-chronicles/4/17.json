@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û kurên Ezrah: Yeter, û Mered, û Efer, û Yalon; û ⟨ew⟩ ducanî kir ⟨את⟩ Miryam û ⟨את⟩ Şamay û ⟨את⟩ Yişbah, bavê Eştemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "û Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "û Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "û Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "û ducanî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şamay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Şamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yişbah"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yişbah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eştemoa"
+    }
+  ],
+  "timestamp": "2026-08-30T06:33:03.999538656Z",
+  "model": "glm-5.3"
+}

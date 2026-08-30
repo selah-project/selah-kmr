@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Dijminên wan wan depsandin, û wan li bin destê wan binxistî bûn.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "wan depsandin"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dijminên wan"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "binxistî bûn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li bin"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "destê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:23.612193424Z",
+  "model": "glm-5.3"
+}

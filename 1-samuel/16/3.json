@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Yîşayî vexwîne qurbanê, û ez ê bidim te zanîn ⟨את⟩ yê ku tu yê bikî; û tu ê yê ku ez bibêjim te re, ji bo min bi rûnê ⟨את⟩ rûnkî bikî.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "û vexwîne"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yîşayî"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "qurbanê"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ê bidim te zanîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê ku tu yê bikî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu yê bikî"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "û rûnkî bikî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê ku ez bibêjim te re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ez bibêjim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:18.832195386Z",
+  "model": "glm-5.3"
+}

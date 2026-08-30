@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û li ser esîlzadên kurên Îsraêlê destê wî neda; û ew ⟨את⟩ Elohîm temaşe kirin, û xwarin û vexwarin.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Û li ser"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "esîlzadên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "Û ew temaşe kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "Û xwarin"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "û vexwarin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:17.390785549Z",
+  "model": "glm-5.3"
+}

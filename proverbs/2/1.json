@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Kurê min, ger tu gotinên min hildigirî û fermanên min wek ⟨את⟩-xwe veşêrî — li cem xwe diparêzî —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "hildigirî"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "gotinên min"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "û fermanên min"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "veşêrî"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "li cem te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:18.060345807Z",
+  "model": "glm-5.3"
+}

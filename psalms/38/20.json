@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û dijminên min zindî û bi hêz in, û ên ku bi şaşîtî ji min hez nakin pir bûne.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Û dijminên min"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "bi hêz in"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "Û pir bûne"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ên ku ji min hez nakin"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bi şaşîtî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:55.642210096Z",
+  "model": "glm-5.3"
+}

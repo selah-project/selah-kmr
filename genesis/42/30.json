@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Zilam, serokê ⟨את⟩ erdê, bi awayekî zor bi me re axivî, û me wekî cîhogeran ⟨את⟩ erdê bi nav kir — em ⟨את⟩ ligel wî bûn:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "zilam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "serokê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bi me re"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "bi awayekî zor"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û me bi nav kir"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "wekî cîhogeran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:57.720714657Z",
+  "model": "glm-5.3"
+}

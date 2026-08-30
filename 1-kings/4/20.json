@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Yehûda û Îsraêl gelek bûn, wek qûma li ser deryayê, di pirreyiyê de — dixwin û vedixwarin û şad dibûn.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "û Îsraêl"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "wek qûm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "di pirreyiyê de"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "û vedixwarin"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "û şad dibûn"
+    }
+  ],
+  "timestamp": "2026-08-29T20:03:29.388684406Z",
+  "model": "glm-5.3"
+}

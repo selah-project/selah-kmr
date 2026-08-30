@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Li ser wî Şalmaneser padîşahê Aşûrê bilind bû, û Hoşea bû bendeyê wî û ji wî re bac anî.",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "Şalmaneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ê wî"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoşea"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bende"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "bac"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:47.291576442Z",
+  "model": "glm-5.3"
+}

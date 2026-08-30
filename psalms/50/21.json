@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Van te kirin û min bêdeng ma; te xeyal kir ku ez wekî te me; ez ê te rexne bikim û ⟨ev⟩ li ber çavên te rêz bikim.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "te kirin"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "û min bêdeng ma"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "te xeyal kir"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wekî te"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ez ê te rexne bikim"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "û rêz bikim"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "li ber çavên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:24.279850657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Çêkerên wan dê wekî wan bibin, hemû yên ku xwe bi wan dispêrin.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "wekî wan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bibin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "çêkerên wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "xwe dispêre"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bi wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:55.899406130Z",
+  "model": "glm-5.3"
+}

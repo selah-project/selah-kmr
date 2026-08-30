@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "«Ma ji dînan kêm im, ku hûn ⟨את⟩ vî anîne bal min da ku li cem min dînî bike? Ma ev ê were malê min?»",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "kêm"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "ji dînan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "hûn anîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vî"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vî"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "da ku dînî bike"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li cem min"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ê were"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "malê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:31.845112261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Kurê ⟨salekê⟩ Şaul bû dema ku ew padîşah bû, û du salan li ser Yisraêl padîşahî kir.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salekê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "di padîşahiya xwe de"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "û du"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahî kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:39:21.787124697Z",
+  "model": "glm-5.3"
+}

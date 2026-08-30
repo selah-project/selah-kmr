@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Ê min, di aşiyanîya xwe de min got: «Qet ê min nehevime, heta-i-abadê.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ê min"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "di aşiyanîya xwe de"
+    },
+    {
+      "surface": "בל",
+      "gloss": "qet"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ê min nehevime"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta-i-abadê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:25.112234537Z",
+  "model": "glm-5.3"
+}

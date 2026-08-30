@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Lê peyiva key li ser Yowab û li ser serdarên leşkerê bi hêz derbas bû; Û Yowab û serdarên leşkerê ji ber key derketin, da ku ⟨את⟩ gelo — ⟨את⟩ Yisraêl — bipîvin.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "bi hêz derbas bû"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyiva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serdarên"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "leşkerê"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "û derketin"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "û serdarên"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "leşkerê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "da ku bipîvin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:34.102703611Z",
+  "model": "glm-5.3"
+}

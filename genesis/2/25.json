@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û herdu jî seretayî bûn — ⟨⟨אדם⟩-ê û jina wî — û serxwe nû bûn û şerm ne dikirin.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herdu jî"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "seretayî"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "û jina wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "şerm ne dikirin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:03.117995333Z",
+  "model": "glm-5.3"
+}

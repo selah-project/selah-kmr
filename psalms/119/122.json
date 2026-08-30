@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Bibê garantiya çêtiyê ji bo şêxwîdê xwe; bila serdest nekevin serî min.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Bibê garantiya"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "şêxwîdê xwe"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "çêtiyê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bila ... ne"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "serdest nekevin serî min"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "serdest"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:24.660961918Z",
+  "model": "glm-5.3"
+}

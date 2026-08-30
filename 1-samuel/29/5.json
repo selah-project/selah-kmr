@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Ma ev ne Dawid e, ku ji bo wî di reqsan de bersivî didan û digotin: Şaul di hezaran xwe de kêsî kir û Dawid di deh-hezaran wî de?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bersivî didan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "di reqsan de"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û digotin"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kêsî kir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "di hezaran xwe de"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "û Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "di deh-hezaran wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:59.598347260Z",
+  "model": "glm-5.3"
+}

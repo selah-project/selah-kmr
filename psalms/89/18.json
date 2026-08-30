@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Çinkî tu rûmeta hêza wan î, û bi raza te qiloçê me tê bilindkirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çinkî"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "hêza wan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu î"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "û bi raza te"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "tê bilindkirin"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "qiloçê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:53.989223797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û verandeya textê ku ew li wê derê dadxurî dike — verandeya dadxuriyê — çêkir; û bi darê sedrê ji erdî heta erdî hat daperîkirin.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "û verandeya"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "textê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dadxurî dike"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wê derê"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "verandeya"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "dadxuriyê"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "û daperîkirin"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "bi darê sedrê"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "ji erdî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "erdî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:03:32.540268895Z",
+  "model": "glm-5.3"
+}

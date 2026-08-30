@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Dilê min germ bû di hundirê min de; di meraqkirina min de agir pêt ket; min bi zimanê xwe axivî.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "germ bû"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di hundirê min de"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "di meraqkirina min de"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "pêt ket"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "min axivî"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "bi zimanê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:07.168505072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "û tu ê ⟨את⟩ Aharon bi cilên pîroz lixwe bikî, û tu ê wî mesh bikî, û tu ê wî pîroz bikî, û ew ê ji bo min kahînîyê bike.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "û tu ê … lixwe bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cilên pîroz"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "cilên"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "û tu ê mesh bikî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "û tu ê pîroz bikî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "û ew ê kahînîyê bike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:32.770357730Z",
+  "model": "glm-5.3"
+}

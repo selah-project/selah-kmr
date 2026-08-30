@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Kî dizane, dê Elohîm vegere, poşman bibe û ji şewata hêrsê wî bizivire — û em nehelakî bin?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vegere"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "poşman bibe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "û bizivire"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ji şewata hêrsê"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "em helakî bin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:34.633674882Z",
+  "model": "glm-5.3"
+}

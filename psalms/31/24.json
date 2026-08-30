@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Ji ⟨את⟩ Yahwe hez bikin, hemû xesîdên wî — Yahwe yên bawer diparêze û bi têra xwe ji kê serbilindî dike xelat dide.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "ji ... hez bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "xesîdên wî"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "baweran"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "û xelat dide"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "têra xwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kê dike"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "serbilindî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:29.220512339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û Adonay wekî ji xewekê şiya, wekî canglekê ku ji meyê qêrî dike.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "şiya"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "wekî ji xewekê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "wekî canglekê"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "qêrî dike"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ji meyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:19.049924601Z",
+  "model": "glm-5.3"
+}

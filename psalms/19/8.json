@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Tora Yahwe bêkêmasî ye, canê vedigerîne; şahidiya Yahwe ewledar e, sadeyan jîrdar dike.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "bêkêmasî"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "vedigerîne"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "şahidiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ewledar"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "jîrdar dike"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "sadeyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:32.514750355Z",
+  "model": "glm-5.3"
+}

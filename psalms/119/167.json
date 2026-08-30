@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Canê min şahidiyên te parastine û ez wan gelek dihejim.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "parastine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Canê min"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şahidiyên te"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "ez wan dihejim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:09.679432188Z",
+  "model": "glm-5.3"
+}

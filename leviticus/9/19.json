@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ⟨את⟩ çewlikên ji ga û ji qûtî: dûvikê-çewl, perdeka hundirîn, gurçikên û pêveka kezebê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çewlikên"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "çewlikên"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qûtî"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "dûvikê-çewl"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "perdeka hundirîn"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "gurçikên"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "pêveka"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kezebê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:55.833049523Z",
+  "model": "glm-5.3"
+}

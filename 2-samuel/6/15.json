@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Dawid û tevî malbata Îsraêlê sandîqa Yahwe ⟨את⟩ bi qêrînan û bi dengê şofarê bilind dikirin.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "û Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevî"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "bilind dikirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandîqa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandîqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "bi qêrînan"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "û bi dengê"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofarê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:50:27.037866918Z",
+  "model": "glm-5.3"
+}

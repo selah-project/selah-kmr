@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Tu li ber min sifre amade dikî, di hembera dijminên min de; serê min bi rûnê mişad dikî, piyaleya min tijî ye.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "amade dikî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber min"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sifre"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hembera"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "mişad dikî"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bi rûnê"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "piyaleya min"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "tijî ye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:21.396581961Z",
+  "model": "glm-5.3"
+}

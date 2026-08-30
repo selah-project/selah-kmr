@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Bo çi, Yahwe, canê min davîjî? Rûyê xwe ji min vedişêrî?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Bo çi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "davîjî"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "vedişêrî"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:09.186819912Z",
+  "model": "glm-5.3"
+}

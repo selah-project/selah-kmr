@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Levîyan ji nav kû zarokên Îsraêlî bigire, û wan paqij bike.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levîyan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levîyan"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ji nav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "û… paqij bike"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan (Levîyan)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:42:27.941051828Z",
+  "model": "glm-5.3"
+}

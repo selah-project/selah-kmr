@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Wî got, û êlîk hat, û êlîkên ciwan — bêhejmar.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Wî got"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "êlîk"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "û êlîkên ciwan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "—"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bêhejmar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:29.631573201Z",
+  "model": "glm-5.3"
+}

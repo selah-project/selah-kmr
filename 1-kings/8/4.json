@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ sandûqa Yahwe, ⟨את⟩ çadîrê civînê û ⟨את⟩ hemû amûrên pîroz ên di çadîrê de bilind kirin; kohan û Lewî ⟨את⟩ wan bilind kirin.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "bilind kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çadîrê civînê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadîrê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû amûrên pîroz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di çadîrê de"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bilind kirin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "û Lewî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:24.917640290Z",
+  "model": "glm-5.3"
+}

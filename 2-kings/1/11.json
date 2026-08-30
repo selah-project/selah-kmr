@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 1:11",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wî careke din vegeriya û ji wî re serdereke pêncî ya din û pênciyên wî şand; wî bersiv da û ji wî re got: \"Ey merê Elohîm, padîşah waha gotiye: zû dakeve!\"",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serder"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pêncî"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ya din"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "û pênciyên wî"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "merê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כה",
+      "gloss": "waha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gotiye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "zû"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "dakeve"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:25.376294224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û li ên li Xebronê, û li hemû cihên ku Dawid bi xwe û mêrên wî li wir geriya bûn",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "û li ên"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Xebronê"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "û li hemû"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "cihên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "geriya bûn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bi xwe"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "û mêrên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:27.403008138Z",
+  "model": "glm-5.3"
+}

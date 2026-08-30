@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Yahwe demekî diyar danî, ku wê bigota: \"Sibê Yahwe wê ev gotin di erdê de bike.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "demekî diyar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku wê bigota"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Sibê"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wê bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ev gotin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:40.147407901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ji ber ku Kayin heft caran tê tomtan, lê Lemek heftê û heft caran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "heft caran"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "tê tomtan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "lê Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "heftê"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "û heft"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:27.251841145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Yahwe, Elohîmê xilasiya min, roj û şev li ber te qêrîn im.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "xilasiya min"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "qêrîn im"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "şev"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "li ber te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:36.009143042Z",
+  "model": "glm-5.3"
+}

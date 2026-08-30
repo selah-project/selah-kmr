@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 149,
+  "translation": "Ji ber ku Yahwe ji gelê xwe hez dike, bi xilasî xemlîdar dike kêmasiyê.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "hez dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ji gelê xwe"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "xemlîdar dike"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kêmasiyê"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "bi xilasî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:09.237337770Z",
+  "model": "glm-5.3"
+}

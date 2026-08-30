@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Gava tu diz dîtibû, bi wî re dilîzî, û beşa te bi zînakaran re bû.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "gava"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "tu dîtibû"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "diz"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "û dilîzî"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi … re"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "zînakaran"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "beşa te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:17.469350464Z",
+  "model": "glm-5.3"
+}

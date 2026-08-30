@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 95,
+  "translation": "Dilê xwe nesîh bikin, wekî li Merîba, wekî roja Massa di çolê de.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "nesîh bikin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "wekî li Merîba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wekî roja"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:23.018587294Z",
+  "model": "glm-5.3"
+}

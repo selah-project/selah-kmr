@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 47,
+  "translation": "Ji bo rêberê muzîkê, ji kurên Qorah re, mizmorek.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo rêberê muzîkê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmorek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:33.765848519Z",
+  "model": "glm-5.3"
+}

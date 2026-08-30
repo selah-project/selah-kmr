@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Rizgar bikim, Elohîm, çimkî av heta canê min hatine!",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "rizgar bikim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hatine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:45.231568344Z",
+  "model": "glm-5.3"
+}

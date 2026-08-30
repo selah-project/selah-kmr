@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ji Moşe re gotin: “Gel pir dibîne — zêdetir ji têra xizmetê ji bo karê ku Yahwe ferman kir ku ⟨את⟩ were çêkirin.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "û ji … re gotin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "pir dibîne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "tîne"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "zêdetir ji têra"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "xizmetê"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "ji bo karê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ku … were çêkirin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (karê)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:47.237084584Z",
+  "model": "glm-5.3"
+}

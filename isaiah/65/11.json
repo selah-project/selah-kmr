@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Hûn ê ku Yahwe berdidin, çiyayê pîroz ê min ji bîr dikin, ên ku ji bo Gad ⟨את⟩ sûfre datînin û ji bo Menî têkelî tijî dikin —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "ê ku berdidin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "ji bîr dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiyayê pîroz ê min"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pîroz ê min"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "datînin"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "ji bo Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sûfre"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "û tijî dikin"
+    },
+    {
+      "surface": "למני",
+      "gloss": "ji bo Menî"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "têkelî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:48:31.284920555Z",
+  "model": "glm-5.3"
+}

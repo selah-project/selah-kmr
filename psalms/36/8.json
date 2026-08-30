@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Çawa bi buhayê bilind ⟨ye⟩ xesedê te, Elohîm! û zarokên mirovan di siya baskên te de penahê digirin.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Çawa"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "bi buhayê bilind"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û zarokên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di siya"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baskên te"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "penahê digirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:42.320235545Z",
+  "model": "glm-5.3"
+}

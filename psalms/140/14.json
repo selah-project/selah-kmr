@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Bi rastî rastan dê navê te bikin spas; ên rast dê li ber ⟨rûyê⟩ te rûnin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bi rastî"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastan"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "bikin spas"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dê rûnin"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ên rast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê te"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:21.186703452Z",
+  "model": "glm-5.3"
+}

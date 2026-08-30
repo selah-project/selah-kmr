@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 122,
+  "translation": "Ji bo aştiya Yeruşalayimê bixwizin; bila yên ku ji te hez dikin bi aştiyê bijîn.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "bixwizin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştiya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "bi aştiyê bijîn"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "yên ku ji te hez dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:36.425993415Z",
+  "model": "glm-5.3"
+}

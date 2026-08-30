@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Wusa wê jê re bêjî: Wusa got Yahwe: Va, ê ku min çêkir — ez bi xwe dikim xira; û ⟨את⟩ ê ku min çand — ez bi xwe dikim derxînin; û ⟨את⟩ hemû ⟨the⟩ erdê — ew bi xwe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wê … bêjî"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "min çêkir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez bi xwe"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "dikim xira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ê ku min çand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "min çand"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez bi xwe"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "dikim derxînin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû erdê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew bi xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T21:07:26.995611637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û ev ⟨את⟩ peywa berdanîyê ye: her xwedîyê deynê ku destê wî daye hevalê xwe wê berde; nabe ku zordarî li ⟨את⟩ hevalê xwe û ⟨את⟩ birayê xwe bike, çimkî berdanî ji bo Yahwe hatiye îlan kirin.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peywa"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "berdanîyê"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "wê berde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "xwedîyê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "deynê"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "daye"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nabe"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "zordarî li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê xwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birayê xwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hatiye îlan kirin"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "berdanî"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:57.030717774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Heta ku min gihîşt pîrozgehên Êl, êdî min fêm kir dawîya wan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Heta ku"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "min gihîşt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pîrozgehên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "min fêm kir"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "dawîya wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:25.614308237Z",
+  "model": "glm-5.3"
+}

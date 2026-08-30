@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Bi ser erdê xwe re derbasibe wekî Çemî Nîl, keça Tarşîş, êdî kember tune.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "derbasibe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "erdê xwe"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "wekî Çemî Nîl"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşîş"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "kember"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:15.405877008Z",
+  "model": "glm-5.3"
+}

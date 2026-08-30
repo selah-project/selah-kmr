@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ji ber ku niha min destê xwe ⟨את⟩ dirêj bikira, te ⟨את⟩ û ⟨את⟩ gelê xwe bi tûdanê tepisandiba, û tu ji erdê hatibû jêbirîn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "min … dirêj bikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê min"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê min"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "tepisandiba"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "te ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gelê te"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bi tûdanê"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "hatibû jêbirîn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:19.218895205Z",
+  "model": "glm-5.3"
+}

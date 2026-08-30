@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Canê me li bendê Yahwe ye; alîkarê me û parêzvana me ⟨ew⟩ e.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "canê me"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "li bendê maye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "alîkarê me"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "û parêzvana me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:45.816730827Z",
+  "model": "glm-5.3"
+}

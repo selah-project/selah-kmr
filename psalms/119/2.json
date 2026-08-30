@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Xweşî li yên şahidiyên wî diparêzin, yên wî bi dilê xwe yê tember dixwînin.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xweşî li"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "yên diparêzin"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "şahidiyên wî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi ... yê tember"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "yên wî dixwînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:40.965776607Z",
+  "model": "glm-5.3"
+}

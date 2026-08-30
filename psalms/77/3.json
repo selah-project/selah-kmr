@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Di roja tengasiya min de min Adonay geriya; destê min şevê hat dirêjkirin û bernedan; canê min dest berneda hêvîdayînê.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di roja… de"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "tengasiya min"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "min geriya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê min"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "hat dirêjkirin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "bernedan"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "dest berneda"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "hêvîdayînê"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:38.603253761Z",
+  "model": "glm-5.3"
+}

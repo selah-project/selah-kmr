@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Rabe, ey Yahwe, berbi rûniştina xwe; tu û sandûqa hêza te.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "berbi rûniştina xwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "û sandûqa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hêza te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:06.767297090Z",
+  "model": "glm-5.3"
+}

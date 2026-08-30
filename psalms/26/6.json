@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ez destên xwe bi paqijî dişom, û li dora ⟨את⟩ qurbangeha te digerim, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "ez ... dişom"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "bi paqijî"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "û ... digerim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangeha te"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "qurbangeha te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:30.839467919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 20:30",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û hêrsa Şaûl pêt ket ser Yehonatan û ew ji wî re got: “Kurê jinê xweda ya serhêl! Ma ez nizanim ku tu kurekî Yîşay ji xwe re hilbijartî — ji bo şerma te û ji bo şermê rûtiya diya te?”",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Û hêrsa ... pêt ket"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrs"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "ביהונתן",
+      "gloss": "ser Yehonatan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û ew got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "xweda"
+    },
+    {
+      "surface": "המרדות",
+      "gloss": "serhêl"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma ... nîne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ez nizanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "hilbijartî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kurekî"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yîşay"
+    },
+    {
+      "surface": "לבשתך",
+      "gloss": "ji bo şerma te"
+    },
+    {
+      "surface": "ולבשת",
+      "gloss": "û ji bo şermê"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "rûtiya"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "diya te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:43:36.991930140Z",
+  "model": "glm-5.3"
+}

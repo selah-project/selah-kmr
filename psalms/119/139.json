@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez xera kir hêrsa min, ji ber ku dijminên min bîr kirîn gotinên te.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "ez xera kir"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "hêrsa min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "bîr kirîn"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "gotinên te"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dijminên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:10.115661345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Û mêr mêran ⟨את⟩ xist malê Yosef; av da wan û pêlavên xwe şûştin; û ji kerên re arrê da.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "xist"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêran"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "xist malê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "şûştin"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "pêlavên xwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "arr"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "ji kerên re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:50.878953851Z",
+  "model": "glm-5.3"
+}

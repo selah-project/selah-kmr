@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ê ez padîşahî ji destê kurê wî distînim û didim te ⟨את⟩ deh eşîran.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Ê ez distînim"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "padîşahî"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "û didim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deh eşîr"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deh"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "eşîr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:49.496457012Z",
+  "model": "glm-5.3"
+}

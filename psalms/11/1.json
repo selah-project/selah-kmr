@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji bo serokî stranan, ji Dawid re. Di Yahwe de sitî xwestim; çawa hûn dibêjin canê min: «Birevîne, çiyayê we yê bilind, ey çûk»?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokî stranan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe de"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sitî xwestim"
+    },
+    {
+      "surface": "איך",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "hûn dibêjin"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "birevîne"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "çiyayê we yê bilind"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ey çûk"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:28.291564126Z",
+  "model": "glm-5.3"
+}

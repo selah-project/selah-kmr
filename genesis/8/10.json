@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Wî dîsa heft rojên din li bendê ma û dîsa zêdekir ⟨את⟩ kewanî ji keştîyê bi şandin.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "li bendê ma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "û dîsa zêdekir"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kewanî"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kewanî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "keştîyê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:37.314056693Z",
+  "model": "glm-5.3"
+}

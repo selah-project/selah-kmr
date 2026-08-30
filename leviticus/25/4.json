@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û di ⟨the⟩ sala heftemîn de dê şabat, şabat-a-sekinînê, ji bo ⟨the⟩ erdê be — şabat ji bo Yahwe: tarîya xwe nede datîn û tirîya xwe neşûne.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "û di sala"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "heftemîn de"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "şabat-a-sekinînê"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dê be"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ji bo erdê"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tarîya xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "nede datîn"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "û tirîya xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "neşûne"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:16.537335134Z",
+  "model": "glm-5.3"
+}

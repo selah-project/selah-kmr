@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Mirî Yah nanêrînin, û ne jî hemû yên dadijîn ber bi bêdengiyê ve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mirî"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "nanêrînin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne jî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "yên dadijîn"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "ber bi bêdengiyê ve"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:14.828709884Z",
+  "model": "glm-5.3"
+}

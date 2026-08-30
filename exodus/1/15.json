@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û keyê Mîtsrayimî ji jînên zayînê yên Îbranî re got — ku navê yekê Şîfra bû, û navê ya duyem Pûa bû.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimî"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ji jînên zayînê re"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "yên Îbranî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Şîfra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "û navê"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya duyem"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pûa"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:43.958577989Z",
+  "model": "glm-5.3"
+}

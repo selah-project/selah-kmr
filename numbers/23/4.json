@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Elohîm hat pêşberî Bilam, û wî ji Wî re got: «⟨את⟩ Heft cîwaran min rêz kir, û min ga û beranek li ser cîwarê hildan.»",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "hat pêşberî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pêşberî"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji Wî re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heft cîwaran"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "cîwaran"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "min rêz kir"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "û min hildan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "û beranek"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "li ser cîwarê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:50:37.881784977Z",
+  "model": "glm-5.3"
+}

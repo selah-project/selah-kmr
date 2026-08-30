@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Mezinbûna Yahwe ⟨את⟩ ligel min bikin, û em navê wî bi hev re bilind bikin.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "mezin bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ligel min"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "û em bilind bikin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:17.625106739Z",
+  "model": "glm-5.3"
+}

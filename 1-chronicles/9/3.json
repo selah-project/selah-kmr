@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "û di Yeruşalayimê de ji kurên Yehuda, ji kurên Binyamîn û ji kurên Efrayîm û Menaşşê rûniştin.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "û di Yeruşalayimê de"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "rûniştin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamîn"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayîm"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "û Menaşşê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:40.351974109Z",
+  "model": "glm-5.3"
+}

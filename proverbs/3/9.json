@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ji malê xwe Yahwe ⟨את⟩ rûmet bike, û ji destpêka hemû hasildarên xwe ⟨bide⟩.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "rûmet bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ji malê xwe"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "û ji destpêka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "hasildarên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:52.516404379Z",
+  "model": "glm-5.3"
+}

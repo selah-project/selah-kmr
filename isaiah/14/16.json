@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ewên ku te dibînin bi te dinêrin, bi te dinihêrin: «Ma ev e ew mêr ku han da erdê, ku han da milketan lerizin?»",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "ewên ku te dibînin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bi te"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "dinêrin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bi te"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "dinihêrin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev e"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ew mêr"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "ku han da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ku han da lerizin"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "milketan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:06.860592566Z",
+  "model": "glm-5.3"
+}

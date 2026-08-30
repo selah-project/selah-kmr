@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Ev in kurên Seir ên Horî, niştecihên ⟨⟨welat⟩⟩: Lotan, û Shoval, û Tsivon, û Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horî"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "û Shoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "û Tsivon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "û Anah"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:38.336079916Z",
+  "model": "glm-5.3"
+}

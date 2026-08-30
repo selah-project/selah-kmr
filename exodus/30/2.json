@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Amah dirêjiya wî û amah firehiya wî — çargoşe ⟨bibe⟩; û du amah bilindahiya wî; qornên wî ji wî ⟨bin⟩.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "Amah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjiya wî"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "û amah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "firehiya wî"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "çargoşe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "û du amah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bilindahiya wî"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "qornên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:04.469190257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Tenê wek ku ⟨את⟩ kêz û ⟨את⟩ xezal tê xwarin, wê hawayî tu wî bixwî; yê nelî û yê paqîj bi hev re wî dixwin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wek ku"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tê xwarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêz"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "kêz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xezal"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "xezal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê hawayî"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "tu wî bixwî"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "yê nelî"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "û yê paqîj"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "wî dixwin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:33.482345198Z",
+  "model": "glm-5.3"
+}

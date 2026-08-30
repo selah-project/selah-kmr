@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Rêçên te hatine dîtin, Elohîm; rêçên Êlê min, padîşahê min, di pîrozahiyê de.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "hatine dîtin"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "rêçên te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "rêçên"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahê min"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di pîrozahiyê de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:26.753129192Z",
+  "model": "glm-5.3"
+}

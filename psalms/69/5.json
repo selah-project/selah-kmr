@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ji mûyên serê min zêdetir in ên ku bê sedem ji min dihezin; ên ku dixwazin min bifinisînin xurt in — dijminên min ên derewîn; tiştê ku min nedize, êdî ez vedigerînim.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "zêdetir in"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "mûyên"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ên ku ji min dihezin"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bê sedem"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "xurt in"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "ên ku dixwazin min bifinisînin"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewîn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "min dize"
+    },
+    {
+      "surface": "אז",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ez vedigerînim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:52.422492797Z",
+  "model": "glm-5.3"
+}

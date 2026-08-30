@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 23:11",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û derxist ⟨את⟩ kurê şah û dane hûnandin li ser wî ⟨את⟩ tacê û ⟨את⟩ şahadetê, û wî kirin şah, û Yehoyada û kurên wî ew mesh kirin, û gotin: Bijî şah!",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê şah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dane hûnandin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tacê"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "tacê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şahadetê"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "şahadetê"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "wî kirin şah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ew"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "mesh kirin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Bijî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    }
+  ],
+  "timestamp": "2026-08-30T06:50:07.427928798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û destên xwe û lingên xwe bişon, da ku nemirin; û ev ê ji bo wî û ji bo zuriyeta wî bibe qanûneke ⟨⟨man⟩⟩ ji bo neslên wan.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "û bişon"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "û lingên xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ku ne"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "mirin"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "û bibe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanûn"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨man⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "û ji bo zuriyeta wî"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ji bo neslên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:19.787603104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û stûnan ⟨את⟩ li ber riwaza perestgehê bilind kir; û ⟨את⟩ stûna rastê bilind kir û navê wî Yakin binav kir; û ⟨את⟩ stûna çepê bilind kir û navê wî Boaz binav kir.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "û bilind kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stûnan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stûnan"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "li ber riwaza"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "perestgehê"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "û bilind kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stûna rastê"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "stûna"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "rastê"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û binav kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "û bilind kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stûna çepê"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "stûna"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "çepê"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û binav kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-29T20:03:30.902893865Z",
+  "model": "glm-5.3"
+}

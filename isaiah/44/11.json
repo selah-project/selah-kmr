@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 44:11",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Wê ha, hemû hevalên wî rû bi rû şerma dikin; û çêker ji mirovan in. Hemû kom dibin, disekinin, ditirsin, bi hev re rû bi rû şerma dikin.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "wê ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חבריו",
+      "gloss": "hevalên wî"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "rû bi rû şerma dikin"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "û çêker"
+    },
+    {
+      "surface": "המה",
+      "gloss": "in"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ji mirovan"
+    },
+    {
+      "surface": "יתקבצו",
+      "gloss": "kom dibin"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "disekinin"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "ditirsin"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "rû bi rû şerma dikin"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:59.664927215Z",
+  "model": "glm-5.3"
+}

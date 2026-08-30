@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 99,
+  "translation": "Yahwe ketiye ser text — gel dilerizin; yê rûniştî li ser keruban, ⟨⟨erd⟩> bila bilerize.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ketiye ser text"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "dilerizin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yê rûniştî"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "li ser keruban"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "bila bilerize"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:57.040841187Z",
+  "model": "glm-5.3"
+}

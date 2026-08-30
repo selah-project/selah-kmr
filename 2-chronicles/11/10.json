@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "û ⟨את⟩ Tsorah û ⟨את⟩ Ajalon û ⟨את⟩ Hebron, ku ⟨di⟩ Yehûda û ⟨di⟩ Binyamîn de ne — bajarên bi birçûn hatine dorpêçkirin",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehûda de"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "û di Binyamîn de"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "bi birçûn hatine dorpêçkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:58.210251474Z",
+  "model": "glm-5.3"
+}

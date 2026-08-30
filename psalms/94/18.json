@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Heke min got: “Lingê min dixişe,” xesedê te, Yahwe, min piştgirî dike.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "heke"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dixişe"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lingê min"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "min piştgirî dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:01.302340836Z",
+  "model": "glm-5.3"
+}

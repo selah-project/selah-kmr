@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Yehoşua di sibehê de zû rabû, ⟨את⟩ gel hijmar kir; ew bi kalên Yisraêl re bilind bû, li pêş gel, ber bi Ayê.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "zû rabû"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di sibehê de"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "hijmar kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "bi kalên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl re"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ber bi Ayê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:17:18.622473738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Dilê min ⟨ye⟩ amade, Elohîm; ez ê strînên bêjim, erê, ez ê strînên bilêzim, heta rûmeta min.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "amade"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Dilê min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ez ê strînên bêjim"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ez ê strînên bilêzim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "erê, heta"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "rûmeta min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.001455146Z",
+  "model": "glm-5.3"
+}

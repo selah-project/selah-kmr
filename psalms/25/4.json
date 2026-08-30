@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Rêyên xwe, Yahwe, min nîşanî bide; şopeleyên xwe hînî min bike.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "rêyên te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "min nîşanî bide"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "şopeleyên te"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "hînî min bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:52.502442005Z",
+  "model": "glm-5.3"
+}

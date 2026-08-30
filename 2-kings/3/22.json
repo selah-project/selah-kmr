@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û sibehê zû rabûn, û roj derketiye li ser avan, û Mowab ji beremberî ⟨את⟩ avê dîtin — sor, wek xwînê.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "sibehê zû rabûn"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di sibehê de"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "û roj"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "derketin pê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "û dîtin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ji beremberî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avê"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "sor"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "wek xwînê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:15:21.870407583Z",
+  "model": "glm-5.3"
+}

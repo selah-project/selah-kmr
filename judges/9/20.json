@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ger ne wisa be, bila agir ji Avîmelex derkeve û ⟨את⟩ serdestên Şekem û ⟨את⟩ mala Milo bixwe; û bila agir ji serdestên Şekem û ji mala Milo derkeve û ⟨את⟩ Avîmelex bixwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "derkeve"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "ji Avîmelex"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "bixwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serdestên Şekem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "serdestên"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mala Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "derkeve"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "ji serdestên"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "bixwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avîmelex"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avîmelex"
+    }
+  ],
+  "timestamp": "2026-08-29T19:28:37.907337870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û hûn mêrên pîroz ên min bin; goştê ku di zeviyê de hatiye cibirandin naxwin — wê ⟨אתו⟩ ji kûçik re bavêjin.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Û mêrên"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "bin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ên min"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "hatiye cibirandin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "xwin"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ji kûçik re"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "bavêjin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wê (goştê cibirandî)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:46.482040193Z",
+  "model": "glm-5.3"
+}

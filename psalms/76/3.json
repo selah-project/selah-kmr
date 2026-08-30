@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Û li Şalemê berengeha wî ye, cihê rûniştina wî jî li Tsiyonê.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û ... bû"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "li Şalemê"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "berengeha wî"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "cihê rûniştina wî jî"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "li Tsiyonê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:04.080800354Z",
+  "model": "glm-5.3"
+}

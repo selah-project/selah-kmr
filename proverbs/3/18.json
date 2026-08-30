@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ew dara jiyanê ye ji bo wan ên ku digrin ⟨את⟩ wê, û bextiyar ⟨in⟩ yên ku diparêzin ⟨את⟩ wê.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "dar"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyanê"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "ji bo wan ên ku digrin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨את⟩ wê",
+      "marks": "wê"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "û yên ku diparêzin"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "bextiyar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:47.796914376Z",
+  "model": "glm-5.3"
+}

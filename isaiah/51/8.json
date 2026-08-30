@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Çimkî kûz wê wek bestir bixwe wan, û Sas wê wek hirî bixwe wan; lê rastîya min heta hertimî dê hebe û rizgarîya min heta neslan nesan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "wek bestir"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "wê bixwe wan"
+    },
+    {
+      "surface": "עש",
+      "gloss": "kûz"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "û wek hirî"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "wê bixwe wan"
+    },
+    {
+      "surface": "סס",
+      "gloss": "Sas"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "û rastîya min"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dê hebe"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "û rizgarîya min"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "heta neslan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nesan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:15.960002387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Aharon û hemû zarokên Yisraêl dîtin ⟨את⟩ Moşe — û mêze, çermê rûyê wî dihûrand — û ji nêzîkbûna wî ditirsin.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û mêze"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "dihûrand"
+    },
+    {
+      "surface": "עור",
+      "gloss": "çermê"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "û ditirsin"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ji nêzîkbûnê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:30.207094962Z",
+  "model": "glm-5.3"
+}

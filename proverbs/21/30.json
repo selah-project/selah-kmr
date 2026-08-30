@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Şîret li dijî Yahwe tune ne, têgihîştin tune ne, meşweret jî tune ne.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tune ne"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "şîret"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "têgihîştin tune ne"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "têgihîştin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "meşweret jî tune ne"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "meşweret"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:46:32.106156491Z",
+  "model": "glm-5.3"
+}

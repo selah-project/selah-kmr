@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ⟨את⟩ dîwarên Yeruşalayimê derûdor tevahî hêzên Kasdiyan ên ku bi serokê çavêtiran re bûn hilweşandin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dîwarên"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "dîwarên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "derûdor"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "hilweşandin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahî"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêzên"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "serokê"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "çavêtiran"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:25.830940434Z",
+  "model": "glm-5.3"
+}

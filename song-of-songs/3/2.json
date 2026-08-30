@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "«Rabim ka, û ez ê di bajarî de bigerim, di bazaran de û di kolanên fireh de, ez ê ⟨את⟩ yê ku cana min hez dike lê bigerim.» Min lê geriya û nedîtin.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "rabim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "û ez ê bigerim"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajarî de"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "di bazaran de"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "û di kolanên fireh de"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ez ê lê bigerim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê ku cana min hez dike"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "yê ku... hez dike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "cana min"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "min lê geriya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "nedîtin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:33.246528509Z",
+  "model": "glm-5.3"
+}

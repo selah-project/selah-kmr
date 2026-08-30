@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Baştirî kêm bi rastî ye, ji zêdeyî berhemên bê dad.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baştirî"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kêm"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ji zêdeyî"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "berhemên"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bê"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dad"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:11.531322573Z",
+  "model": "glm-5.3"
+}

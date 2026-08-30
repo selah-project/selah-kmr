@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Ewan ⟨את⟩ hestiyên wan girtin û wan li bin daracî de veşartin, li Yabeşê, û heft rojan roza xwe girtin.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên wan"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "hestiyên wan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "veşartin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li bin…de"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "daracî"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "li Yabeşê"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "roza xwe girtin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:05.795742574Z",
+  "model": "glm-5.3"
+}

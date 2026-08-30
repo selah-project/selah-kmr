@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Çûn Moşe û Aharon, û hemû pîrewanên zarokên Yisraêl kom kirin ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "kom kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû pîrewanên zarokên Yisraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pîrewanên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:38.002891225Z",
+  "model": "glm-5.3"
+}

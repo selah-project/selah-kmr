@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û hemû gel çû, her kes ji bo xaniyê xwe, û Dawîv vegeriya da ku ⟨את⟩ xaniyê xwe biritin bike (piroz bike).",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "û çû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ji bo xaniyê xwe"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "û vegeriya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawîv"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "da ku biritin bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaniyê xwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "xaniyê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:38:50.077276989Z",
+  "model": "glm-5.3"
+}

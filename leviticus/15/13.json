@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 15:13",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û gava ⟨⟨zavkar⟩⟩ ji zava xwe tê paqijkirin, wî ji bo paqijkirina xwe heft rojan dihejmêre, kincên xwe dişo û goştê xwe di avên zindî de dişo, û paqij dibe.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "û gava"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "tê paqijkirin"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zavkar"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ji zava xwe"
+    },
+    {
+      "surface": "וספר",
+      "gloss": "dihejmêre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "ji bo paqijkirina xwe"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "dişo (kincan)"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kincên xwe"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dişo (goşt)"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê xwe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avên"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "û paqij dibe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:22.955259171Z",
+  "model": "glm-5.3"
+}

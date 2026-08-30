@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Stranek ji bo Dawid: Yahwe şivanê min ⟨e⟩, ez bi tiştî kêm namînim.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Stranek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "şivanê min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "kêm namînim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:38.938449609Z",
+  "model": "glm-5.3"
+}

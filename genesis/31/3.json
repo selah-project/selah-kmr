@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Yahwe ji Yaqûb re got: Vegerre bo welatê bavên te û bo cihê zayîna xwe, û ez ê bi te rabe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqqûb"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Vegerre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "bavên te"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "û bo cihê zayîna te"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "û ez ê"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:49:32.092321434Z",
+  "model": "glm-5.3"
+}

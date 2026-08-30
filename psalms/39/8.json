@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û êdî, Adonay, ez li çi bendê me? Hêviya min ⟨ew e⟩ di te de.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "û êdî"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ez bendê me"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "hêviya min"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ew e⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:32.503184740Z",
+  "model": "glm-5.3"
+}

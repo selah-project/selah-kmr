@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Hûn ê ⟨את⟩ destûrên min û ⟨את⟩ darizandinên min biparêzin, ku mirov wan dike û bi wan dijî; ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "hûn ê… biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destûrên min"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "destûrên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darizandinên min"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "darizandinên min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "û dijî"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:04.256237544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û kürên Îsraêlê li Gîlgalê çêkirin, û ⟨את⟩ Pêsachê di roja çardehê da, di êvarê da, li deştên Yerîxo kirin.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kürên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "li Gîlgalê"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pêsachê"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pêsachê"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "çar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mehê"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "di êvarê da"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "li deştên"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerîxo"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:35.717984329Z",
+  "model": "glm-5.3"
+}

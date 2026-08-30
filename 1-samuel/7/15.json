@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û Şemûel ⟨את⟩ Îsraêlê dihemû rojên jiyanê xwe de dadbarî kir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "û dadbarî kir"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêlê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "jiyanê xwe de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:16.105270391Z",
+  "model": "glm-5.3"
+}

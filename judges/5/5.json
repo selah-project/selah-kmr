@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Çiya ji ber Yahwe herikîn — ev Sinai — ji ber Yahwe, Elohîmê Yisraêl.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "herikîn"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:26:33.776817491Z",
+  "model": "glm-5.3"
+}

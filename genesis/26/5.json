@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ji ber ku Avraham dengê min bihîst û parêzgeha min, fermanên min, biryarên min û Tora min parast.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "û parast"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "parêzgeha min"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "fermanên min"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "biryarên min"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "û Tora min"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:29.188038198Z",
+  "model": "glm-5.3"
+}

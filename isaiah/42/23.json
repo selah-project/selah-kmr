@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Kî ji we vê yekê guh dide? Kî guh vedide û ji bo paşerojê dibihîze?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ji we"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "guh dide"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê yekê"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "guh vedide"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "û dibihîze"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ji bo paşerojê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:18.374226798Z",
+  "model": "glm-5.3"
+}

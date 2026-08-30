@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Lê Noih di çavên Yahwe de dilovanî dît.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Lê Noih"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "חן",
+      "gloss": "dilovanî"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên … de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:48.399289775Z",
+  "model": "glm-5.3"
+}

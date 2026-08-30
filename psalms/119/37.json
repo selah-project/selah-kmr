@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Çavên min ji dîtinina pûçavîyê derbas bike, di rêya xwe de ji nû ve jiyanê bide min.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "derbas bike"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ji dîtininê"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "pûçavîyê"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "di rêya xwe de"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ji nû ve jiyanê bide min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:11.678755048Z",
+  "model": "glm-5.3"
+}

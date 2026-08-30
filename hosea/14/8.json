@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ên di siya wî de rûniştine ên dîsa vedigerin; genim zindî dikin û wekî tirî şîn dibin; bîra wî wekî şeraba Lubnanê ye.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "vedigerin"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ên rûniştine"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "di siya wî de"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "zindî dikin"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "genim"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "şîn dibin"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "wekî tirî"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bîra wî"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "wekî şeraba"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnanê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:35.269989996Z",
+  "model": "glm-5.3"
+}

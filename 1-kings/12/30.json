@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ev tişt ⟨bû⟩ guneh; û gel heta Dan çû beramberê wê yekê.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ev tişt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "guneh"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "çû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "beramberê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wê yekê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:54.839271255Z",
+  "model": "glm-5.3"
+}

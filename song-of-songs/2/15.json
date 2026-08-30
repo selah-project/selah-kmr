@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji bo me rovîyan bigirin — rovî yên biçûk ên ku rezan xerab dikin — ji ber ku rezên me kulîlkdayî ne.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "bigirin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji bo me"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "rovîyan"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "rovî"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "biçûk"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "xerab dikin"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "rezan"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "û rezên me"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "kulîlkdayî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:08.419837428Z",
+  "model": "glm-5.3"
+}

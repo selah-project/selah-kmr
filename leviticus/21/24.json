@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Moşe bi Aharon re, bi kurên wî re û bi hemû kurên Yîsrael re axavt.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "û axavt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bi… re"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bi… re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsrael"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:46.066115506Z",
+  "model": "glm-5.3"
+}

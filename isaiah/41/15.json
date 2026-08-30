@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Êdî va! Ez te kirim mohermekî nû yê tûj, xwedî diranan; tu çiyayan diheleşînî, hinar dikî, û giran wekî kêzê datînî.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Êdî va"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "te kirim"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "mohermekî"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "tûj"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "xwedî"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "diranan"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "diheleşînî"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyayan"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "hinar dikî"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "û giran"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "wekî kêzê"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "datînî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:29.179129393Z",
+  "model": "glm-5.3"
+}

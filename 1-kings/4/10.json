@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Kurê Xesed, li Arubot; ji bo wî Sokoh û hemû erda Çefer ⟨bûn⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Kurê"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Xesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "li Arubot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erda"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Çefer"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:29.180539185Z",
+  "model": "glm-5.3"
+}

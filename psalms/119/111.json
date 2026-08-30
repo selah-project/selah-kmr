@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Mîras girtim şahidiya te, heta hetta, çimkî şahiya dilê min ew in.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "mîras girtim"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şahidiya te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hetta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "şahiya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew in"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:41.993657075Z",
+  "model": "glm-5.3"
+}

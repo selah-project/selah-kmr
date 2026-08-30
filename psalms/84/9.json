@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Yahwe Elohîmê tsavaot, dua ya min bibihîze; guh bide, Elohîmê Yaqub. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tsavaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "dua ya min"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:13.898238847Z",
+  "model": "glm-5.3"
+}

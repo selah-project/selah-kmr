@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Lê belê ji bo vê yekê min tu bilind kirî, ji bo ku hêza xwe ⟨את⟩ nîşanî te bidim û ji bo ku navê min di hemû erdê de bê gotin.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "lê belê"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê yekê"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "min tu bilind kirî"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "nîşanî te bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hêza min"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "û ji bo ku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bê gotin"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "navê min"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû … de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:19.219130235Z",
+  "model": "glm-5.3"
+}

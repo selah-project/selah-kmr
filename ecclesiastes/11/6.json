@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Di sibehê de ⟨את⟩ tovana xwe bîne, û di êvarê de destê xwe bernede; ji ber ku tu nizanî ku ev an yê dî yê bi ser bikeve, an jî dibe ku herdu bi yekî rind bin.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "di sibehê de"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bîne (tovê)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tovana xwe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tovana te"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "di êvarê de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "me"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "berne"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nizanî"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kîjan"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "bi ser dikeve"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yê dî"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "an jî"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "wek yekî"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "rind in"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:17.419524871Z",
+  "model": "glm-5.3"
+}

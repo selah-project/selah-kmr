@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û hûn di konên xwe de roşilandin û gotin: «Ji ber ku Yahwe ji me nefret dike, ew ⟨את⟩ me ji welêt Mîtsrayimê derxist, da ku ⟨את⟩ me bide destê Emoriyan, da ku me helak bike.»",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "roşilandin"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "di konên we de"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "ji ber nefretê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welêt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da ku bide"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di destê"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorî"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "da ku me helak bike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:59.395487751Z",
+  "model": "glm-5.3"
+}

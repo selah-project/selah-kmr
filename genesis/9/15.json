@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ez ê peymana xwe ⟨את⟩ bi bîr bînim, ⟨ku⟩ ew di navbera min û di navbera we û di navbera her canewerekî zînde di hemû goşt de ye, û av êdî nebin ji bo Tofanê, ji bo wêrankirina hemû goşt.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "û ez ê bi bîr bînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di navbera min"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "û di navbera we"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canewer"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "zînde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dibin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ji bo Tofanê"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ji bo wêrankirinê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:59.189002426Z",
+  "model": "glm-5.3"
+}

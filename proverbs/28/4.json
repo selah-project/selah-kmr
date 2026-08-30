@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Ên Tora berdidin, xeraban pesnê didin; lê yên Tora diparêzin, li dijî wan têdikoşin.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "yên ... berdidin"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "pesnê didin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xeraban"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "lê yên ... diparêzin"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "têdikoşin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li dijî wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:49:20.918367095Z",
+  "model": "glm-5.3"
+}

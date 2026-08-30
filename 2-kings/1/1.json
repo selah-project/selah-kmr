@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Moab piştî mirina Ahab li dijî Yisraêl serhildan kir.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "serhildan kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li dijî Yisraêl"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirina"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:22.966114782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Ku dijminên te bi wê riswa kir, Yahwe; ku ew şopên Maşîahê te bi wê riswa kirin.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku bi wê"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "riswa kir"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dijminên te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku bi wê"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "riswa kirin"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "şopên"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maşîahê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:42.211613690Z",
+  "model": "glm-5.3"
+}

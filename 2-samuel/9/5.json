@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Padîşah Dawid şand û wî ji mala Makîr kurê Ammîel, ji Lo-Debar girt.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "wî girt"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makîr"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammîel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "ji Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:51:31.715233520Z",
+  "model": "glm-5.3"
+}

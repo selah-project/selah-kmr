@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û gava dewarên qels digiriyan, ew danî nedikir; Û ên qels dibûn yê Lavan, û yên bihêz yê Yaqûb.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Û gava qels digiriyan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dewarên"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "danî nedikir"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Û dibûn"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "yên qels"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "yê Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "û yên bihêz"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "yê Yaqûb"
+    }
+  ],
+  "timestamp": "2026-08-29T17:49:13.322553885Z",
+  "model": "glm-5.3"
+}

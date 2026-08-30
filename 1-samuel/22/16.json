@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Padîşah got: Tu bi rastî wê bimirî, Aximelex, tu û tevahiya mala bavê te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bi rastî bimirî"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wê bimirî"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aximelex"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:30.599430339Z",
+  "model": "glm-5.3"
+}

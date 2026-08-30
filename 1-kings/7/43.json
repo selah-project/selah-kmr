@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "û ⟨את⟩ deh binyeyan, û ⟨את⟩ deh kelûmûran li ser binyeyan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "binyeyan"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "binyeyan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kelûmûran"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "kelûmûran"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "binyeyan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:08.731541525Z",
+  "model": "glm-5.3"
+}

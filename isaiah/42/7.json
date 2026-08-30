@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ji bo vekirina çavên koran, ji bo derxistina bendî ji girtîgehê, ji xaniya-binîkan yên ku li tarîtiyê rûniştîne.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "ji bo vekirina"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "çavên"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "koran"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ji bo derxistina"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "ji girtîgehê"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "bendî"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji xaniya"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "binîkan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yên ku rûniştîne"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "li tarîtiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:01.651627341Z",
+  "model": "glm-5.3"
+}

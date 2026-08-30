@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Moşe ber bi Yahwe qîrî kir û got: “Ez ê çawa bi vê gelî bikim? Hîn kêm e û ew ê min bi keviran bavêjin.”",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "qîrî kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ez bikim"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bi vê gelî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kêm e"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "ew ê min bi keviran bavêjin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:16.503607881Z",
+  "model": "glm-5.3"
+}

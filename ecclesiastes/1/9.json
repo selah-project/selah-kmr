@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Tiştê ku bûye, ew e ku dê bibe; û tiştê ku hatiye kirin, ew e ku dê were kirin; û tiştekî nû tune ye di bin rojê de.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ew tiştê ku"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bûye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "dê bibe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "û tiştê ku"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "hatiye kirin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "dê were kirin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tiştekî"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bin … de"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:27.364608883Z",
+  "model": "glm-5.3"
+}

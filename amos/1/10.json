@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ê min agir bişînin ser dîwarên Tsor û ew ê qesrên wê bixwe.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ê min bişînim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ser dîwarên"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "û ê bixwe"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "qesrên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:07:18.908657006Z",
+  "model": "glm-5.3"
+}

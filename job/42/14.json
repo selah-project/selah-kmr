@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û ew navê ⟨ya⟩ yekêm Yemîma binavkir, û navê ya duyemin Ketziya, û navê ya sêyemin Keren-Hapûx.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "binavkir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ya yekêm"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Yemîma"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "û navê"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya duyemin"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Ketziya"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "û navê"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "ya sêyemin"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "Hapûx"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:48.707939977Z",
+  "model": "glm-5.3"
+}

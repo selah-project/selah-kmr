@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji wan ⟨את⟩ bigire, û ew bila bikin ⟨את⟩ xizmeta çadê civînê; û tu ⟨את⟩ wan didî Lêviyan, her kesî li gorî xizmeta xwe.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ji wan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bila bibin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ji bo xizmetê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xizmeta"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xizmeta"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "û tu didî"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "ber bi Lêviyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêviyan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kesî"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "xizmeta xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:40:13.778977114Z",
+  "model": "glm-5.3"
+}

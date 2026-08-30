@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Qeraxa serê xwe dor nekin û qeraxa rîyê xwe ⟨את⟩ nexirin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "dor nekin"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "qeraxa"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "serê xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "nexirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qeraxa rîyê te"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "qeraxa"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "rîyê te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:35.818076524Z",
+  "model": "glm-5.3"
+}

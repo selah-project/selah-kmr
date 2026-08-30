@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û çekdarên hêzdar ⟨את⟩ dîlvanên û ⟨את⟩ talanê ber serokeşîran û hemû civatê hiştin.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "û hiştin"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "çekdarên hêzdar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîlvanên"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "dîlvanên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "talan"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "talan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "serokeşîran"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "civatê"
+    }
+  ],
+  "timestamp": "2026-08-30T07:01:31.555074050Z",
+  "model": "glm-5.3"
+}

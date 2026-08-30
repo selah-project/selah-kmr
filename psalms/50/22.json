@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Vê fêm bikin, ên ku Eloha ji bîr dikin; da ku ez we nefirînim û rizgarker nemîne.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "fêm bikin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "we"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ên ku ji bîr dikin"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "ez nefirînim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û nemîne"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "rizgarker"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:24.280175307Z",
+  "model": "glm-5.3"
+}

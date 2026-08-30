@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ji fermanên te têgihiştinê digirim, ji ber wê ez ji her rêya derovan hez nakim — ez jê nefret dikim.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "ji fermanên te"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "têgihiştinê digirim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ez nefret dikim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rêya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:51.349047612Z",
+  "model": "glm-5.3"
+}

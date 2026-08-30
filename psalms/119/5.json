@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Xwezî ku rêyên min rast bibûna, ji bo parastina nûqeyên te!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "xwezî ku"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "rast bibûna"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rêyên min"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ji bo parastina"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "nûqeyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.696294471Z",
+  "model": "glm-5.3"
+}

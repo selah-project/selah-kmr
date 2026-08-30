@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Çimkî ev peyv pirr nêzîkî te ye — di devê te de û di dilê te de — da ku tu ⟨wê⟩ bikî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ev peyv"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pirr"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "di devê te de"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "û di dilê te de"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "da ku tu wê bikî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:11:13.418304213Z",
+  "model": "glm-5.3"
+}

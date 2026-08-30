@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Wê çaxê Yahwe ⟨את⟩ kedên te û ⟨את⟩ kedên tovê te bi awayekî awarte zêde bike — kedên mezin û domdar, û nexweşiyên şer û domdar.",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "wê ... bi awayekî awarte bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedên te"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "kedên te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kedên tovê te"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "kedên"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tovê te"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "kedên"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "û domdar"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "û nexweşiyên"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "şer"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "û domdar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:42.880236703Z",
+  "model": "glm-5.3"
+}

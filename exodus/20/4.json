@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ji bo xwe ×neyî heykêlekê, û ×neyî tu şikilî ku di ezmanan de ji jor ve ye, an ku di erdê de ji jêr ve ye, an ku di avan de ji jêr ve di bin erdê de ye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "×ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "×neyî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "heykêlekê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "şikilî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ji jor ve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "an ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ji jêr ve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "an ku"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avan de"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ji jêr ve"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "di bin erdê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:21.931709477Z",
+  "model": "glm-5.3"
+}

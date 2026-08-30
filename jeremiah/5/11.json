@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Ji ber ku malbata Îsraêl û malbata Yehûda bi xîyanet li min xîyanet kirine — gotina Yahwe ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "bi xîyanet"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "xîyanet kirine"
+    },
+    {
+      "surface": "בי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "û malbata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:51:14.702376807Z",
+  "model": "glm-5.3"
+}

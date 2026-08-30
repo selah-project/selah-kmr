@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û wan ⟨את⟩ Rebeka berenî kirin û ji wê re gotin: «Xwişka me, tu bî dêya hezaran û deh-hezaran, û toxmê te bila ⟨את⟩ deriyê ên ku ji wî nefret dikin bi dest bixe.»",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "Û wan berenî kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rebeka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û ji wê re gotin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "Xwişka me"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "היי",
+      "gloss": "bî"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "dêya hezaran"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "deh-hezaran"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "bila bi dest bixe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "toxmê te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deriyê"
+    },
+    {
+      "surface": "שער",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "ên ku ji wî nefret dikin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:46:41.410051972Z",
+  "model": "glm-5.3"
+}

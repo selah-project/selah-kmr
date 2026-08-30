@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Gilad ji bo min e, û Menashshe ji bo min e; Efrayim parêzvana serê min e; Yehûda qanûndanê min e.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "û ji bo min"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "û Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "parêzvan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "qanûndanê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:41.281326504Z",
+  "model": "glm-5.3"
+}

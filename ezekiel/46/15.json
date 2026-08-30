@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Wê ⟨את⟩ berxê û ⟨את⟩ pêşkeşê û ⟨את⟩ rûnê sibeh sibeh amade bikin — qurbanê ⟨berdewam⟩.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "wê çêkin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berxê"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "berxê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pêşkeşê"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pêşkeşê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rûnê"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibeh"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibeh"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "qurbanê"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "berdewam"
+    }
+  ],
+  "timestamp": "2026-08-30T04:02:28.752058380Z",
+  "model": "glm-5.3"
+}

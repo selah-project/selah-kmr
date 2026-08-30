@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Yahwe ji Moşe re got: «Here cem Paroh, çimkî ez ⟨את⟩ dilê wî û ⟨את⟩ dilê xulamên wî giran kirime, da ku ez van nîşanên xwe di nava wî de deynim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "were"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "giran kirime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê wî"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "dilê xulamên wî"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "deynim"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "nîşanên xwe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di nava wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:10.206924614Z",
+  "model": "glm-5.3"
+}

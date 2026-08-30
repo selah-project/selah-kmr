@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ji ber ku ew ⟨את⟩ şerî di çavên min de kirin û ji roja ku bavên wan ji Mîtsrayimê derketin û heta vê roje min hêrsîn kirin.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ew ... kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şerî"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "şerî"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên min de"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "û bûn"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "hêrsîn kirin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ min",
+      "marks": "min (Yahwe)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "היום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:36:32.378814462Z",
+  "model": "glm-5.3"
+}

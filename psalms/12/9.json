@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Li dora xwe xirab digerin, çawa xirabî ji aliyê kurên mirovan ve tê bilindkirin.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "li dora xwe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "xirab"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "digerin"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "xirabî"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji aliyê kurên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan ve"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:47.505627925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ⟨ew⟩ ji Mordexay re ⟨את⟩ peyvên Ester ragihandin.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "û ragihandin"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ji Mordexay re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên Ester"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:57.596223262Z",
+  "model": "glm-5.3"
+}

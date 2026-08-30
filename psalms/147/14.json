@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Ew sînorên te bi aştiyê digire, bi rûnê genimê tê têrkirin.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "digire"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "sînorên te"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bi aştiyê"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "genimê"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "tê têrkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.117005290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Va, pênave destan rojên min danî, û temenê min li ber te wek tiştê tune ⟨ye⟩; bi rastî hemû vala ⟨ye⟩, her meriv bi xwe sekinî. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "pênave destan"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "danî"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên min"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "û temenê min"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "wek tiştê tune"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "li ber te"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "meriv"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "bi xwe sekinî"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:32.502867215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Hemû şên Dawid bûn — ji bilî şên ên palûkan — û Tamar xûşka wan bû.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "şên"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "şên"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "palûkan"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "û Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "xûşka wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:19.424615401Z",
+  "model": "glm-5.3"
+}

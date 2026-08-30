@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ferman da ⟨את⟩ peyamker, got: \"Gava te ⟨את⟩ hemû gotinên şer bi padîşah re xilas kir,\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Û ferman da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyamker"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "peyamker"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "gava te … xilas kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gotinên şer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bi … re gotin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:44.504246568Z",
+  "model": "glm-5.3"
+}

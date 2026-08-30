@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Her wiha, hemû yên ku li te hêvi dikin, nayên rûşyandin; xayînên bê sedem werin rûşyandin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "her wiha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "li te hêvi dikin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "tên rûşyandin"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "werin rûşyandin"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "xayînên"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bê sedem"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:52.502315931Z",
+  "model": "glm-5.3"
+}

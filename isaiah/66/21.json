@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Û ji wan jî ezê ji bo kohanan û ji bo Lewiyan bigirim, got Yahwe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Û ... jî"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ezê bigirim"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ji bo kohanan"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ji bo Lewiyan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:48:34.433704670Z",
+  "model": "glm-5.3"
+}

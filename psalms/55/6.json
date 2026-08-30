@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Tirs û lerz hatine nav min, û tirsa tarî min poşdayiye.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "tirs"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "û lerz"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hatine"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nav min"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "min poşdayiye"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "tirsa tarî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:03.406543736Z",
+  "model": "glm-5.3"
+}

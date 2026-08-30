@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Yahwe ji kurên Îsraêlî re got: Ma ji Mîtsrayimê, ji Emorîyan, ji kurên Ammonê û ji Filistînan ⟨ne⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ... got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Ma ... ⟨ne⟩"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorîyan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonê"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistînan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:29:23.288348854Z",
+  "model": "glm-5.3"
+}

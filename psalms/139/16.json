@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Çavên te ên bêşikl dîtin, û di pirtûka te de hemû hatine nivîsîn — rojên ku hatine destnîşankirin, û hîn yek ji wan tune bû.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "min ên bêşikl"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "çavên te"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û di"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "pirtûka te de"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "hatine nivîsîn"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "hatine destnîşankirin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... tune"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ji wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:50.293230939Z",
+  "model": "glm-5.3"
+}

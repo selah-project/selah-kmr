@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û gelê ⟨את⟩ erdê hemû ên ku li dijî padişah Amon plan dabûn dan kuştin, û gelê ⟨את⟩ erdê Yoşiya, kurê wî, şûna wî kirin padişah.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "û dan kuştin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû ên ku plan dabûn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "ên ku plan dabûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padişah"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "û kirin padişah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoşiya"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:24:46.722452009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Çawa rojhilat ji rojavayê dûr e, wisa ⟨את⟩ sûcên me ji me dûr xistiye.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "çawa ... dûr"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "rojhilat"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "ji rojavayê"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "dûr xistiye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sûcên me"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "sûcên me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:31.279441931Z",
+  "model": "glm-5.3"
+}

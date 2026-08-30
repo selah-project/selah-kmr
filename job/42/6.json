@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ji ber vê ez ⟨xwe⟩ diherim û poşman dibim — li ser tozê û külê.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ji"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ber vê"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ez diherim"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "û poşman dibim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozê"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "û külê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:33.100836099Z",
+  "model": "glm-5.3"
+}

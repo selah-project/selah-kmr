@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Spasî bibêjin ji Yahwe, ku ew baş e, ku heta hertimî xesedên wî ye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Spasî bibêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedên wî ye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:55.876701269Z",
+  "model": "glm-5.3"
+}

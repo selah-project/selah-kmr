@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û şah vegeriya û hat heta Urdinê; û Yehûda hat Gilgalê, da ku biçin pêşwaziya şah, da ku ⟨את⟩ şah derbasî ⟨את⟩ Urdinê bikin.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Û… vegeriya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdinê"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Û Yehûda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgalê"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da ku biçin"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pêşwaziya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "da ku… derbasî… bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdinê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdinê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:18.552929717Z",
+  "model": "glm-5.3"
+}

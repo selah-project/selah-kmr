@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Min Yahwe geriya ⟨את⟩, ew bersiva min da, û ji hemû tirsnakiyên min min rizgar kir.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "min geriya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "û bersiva min da"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "û ji hemû"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "tirsnakiyên min"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "min rizgar kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:22.113389290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "«Ka niha di guhên gel de biaxive; bila her mêr ji ⟨את⟩ hevalê xwe û her jin ji ⟨את⟩ hevala xwe alavên zîv û alavên zêr bixwaze.»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "biaxive"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di guhên… de"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "bila bixwazin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her mêr"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩",
+      "marks": "hevalê xwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "û her jin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩",
+      "marks": "hevala xwe"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "hevala xwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "alavên"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "û alavên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:28.815196723Z",
+  "model": "glm-5.3"
+}

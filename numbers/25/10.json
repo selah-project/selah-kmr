@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Yahwe ji Moşe re peyivî, û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "peyivî û"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:07.995604887Z",
+  "model": "glm-5.3"
+}

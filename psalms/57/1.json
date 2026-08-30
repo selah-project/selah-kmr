@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Ji bo serokekî muzîkê; \"Wêrankî neke\" (Al-Taşḥet); mînorkirina Dawid, Miktam; dema ew ji rûyê Şaul direviya, di şikeftê de.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "wêrankî bike"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "dema ew direviya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji rûyê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di şikeftê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:18.768200548Z",
+  "model": "glm-5.3"
+}

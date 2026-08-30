@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Bila dawiya wî ji bo qirkirinê ⟨be⟩; di nifşê din de navê wan were jêbirin.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bila … be"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "dawiya wî"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ji bo qirkirinê"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "di nifşê de"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "din"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "were jêbirin"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "navê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:53.971023066Z",
+  "model": "glm-5.3"
+}

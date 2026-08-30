@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û êdî ez jî biryar girtim ku te lê bidim, ku wêran bibe ji ber gunehên te.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Û êdî jî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "biryar girtim"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "ku te lê bidim"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "ku wêran bibe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "gunehên te"
+    }
+  ],
+  "timestamp": "2026-08-30T04:11:36.561316010Z",
+  "model": "glm-5.3"
+}

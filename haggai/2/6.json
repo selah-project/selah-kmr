@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji ber ku wiha dibêje Yahweyê Tsêvaot: Carekê din — ew hindik e — û ez ⟨את⟩ ezmanan û ⟨את⟩ erdê û ⟨את⟩ deryayê û ⟨את⟩ erdê ziwa didirême.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כה",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsêvaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîn"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "carekê"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hindik"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew e"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "didirême"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezmanan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "deryayê"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "erdê ziwa"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "erdê ziwa"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:08.944118099Z",
+  "model": "glm-5.3"
+}

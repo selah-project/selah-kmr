@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Li ser te hatime avêtin ji zikê ve, ji zikê diya min ve tu yî Êlê min.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "hatime avêtin"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ji zikê ve"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ji zikê"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "diya min"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:35.122353423Z",
+  "model": "glm-5.3"
+}

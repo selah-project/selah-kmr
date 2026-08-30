@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Di Elohîm de me tevahiya rojê pesindayî kir, û navê te heta hertimî sipasdarî dikin. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Di Elohîm de"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "me pesindayî kir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "û navê te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "sipasdarî dikin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:56.273742731Z",
+  "model": "glm-5.3"
+}

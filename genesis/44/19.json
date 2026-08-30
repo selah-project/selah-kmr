@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "“Adonayê min ⟨את⟩ xulamên xwe pirsî, got: Ma ji we bav an birayek heye?”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayê min"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "pirsî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên wî"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ma … heye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bav"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "אח",
+      "gloss": "birayek"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:47.876617136Z",
+  "model": "glm-5.3"
+}

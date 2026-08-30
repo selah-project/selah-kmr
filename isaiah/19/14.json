@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Yahwe di nava wê de rûhekî şêwazî tevlî kir, û ew ⟨את⟩ Mîtsrayimê di hemû karê wê de rê şaş birin, wek şêwaziya mirovê mest di qeyûna wî de.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tevlî kir"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di nava wê de"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rûhekî"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "şêwazî"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "û rê şaş birin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîtsrayimê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "karê wê de"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "wek şêwaziya"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "mirovê mest"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "di qeyûna wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:06.413125837Z",
+  "model": "glm-5.3"
+}

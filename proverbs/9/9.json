@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Bidê zana, û ew dîsa bêtir bizane; rastdarî agahdar bike, û ew tûbariya xwe zêde bike.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "bidê"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "û bizane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa bêtir"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "agahdar bike"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "û zêde bike"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tûbarî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:09.195692598Z",
+  "model": "glm-5.3"
+}

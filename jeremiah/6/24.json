@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Me ⟨את⟩ nûçeya wî bihîstiye, destên me bêhêz bûne; tengasî girtiye me, êş wek dayika zayî.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Me … bihîstiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nûçeya wî"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nûçeya wî"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "bêhêz bûne"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "destên me"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tengasî"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "girtiye me"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "êş"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "wek dayika zayî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:51:54.640262306Z",
+  "model": "glm-5.3"
+}

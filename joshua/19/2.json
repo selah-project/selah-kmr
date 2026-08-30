@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ji mîrasa wan bû: Bêr-Şeva, û Şeva, û Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "di mîrasa wan de"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bêr"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "û Şeva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "û Molada"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:03.778760170Z",
+  "model": "glm-5.3"
+}

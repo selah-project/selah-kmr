@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Lê belê ez bi hêzê ⟨את⟩ ruhê Yahwe, bi dad û camêrî tijî me, da ku ez eşkere bikim Yaqoub suça wî û Îsraîl gunehê wî.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Lê belê"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "tijî me"
+    },
+    {
+      "surface": "כח",
+      "gloss": "bi hêzê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhê Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "bi dad"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "û camêrî"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "da ku ez eşkere bikim"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaqoub"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "suça wî"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "û Îsraîl"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "gunehê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:11:56.360395276Z",
+  "model": "glm-5.3"
+}

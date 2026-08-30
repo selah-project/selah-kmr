@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Haman dît ku Mordechai çaz nake û xwe datîne, û Haman ji hêrsê tijî bû.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nake"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "çaz nake"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "û xwe datîne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "berî wî"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "tijî bû"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ji hêrsê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:51.951732581Z",
+  "model": "glm-5.3"
+}

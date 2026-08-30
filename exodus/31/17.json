@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Navbera min û kurren Îsraêl de ew nîşanek e hertimî; çimkî di şeş rojan de Yahwe ⟨את⟩ ezman û ⟨את⟩ erd çêkir, û di roja heftemîn de sekinî û bihn girt.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "navbera min"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurren"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "אות",
+      "gloss": "nîşanek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezman"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "erd"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "û di roja"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "heftemîn de"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sekinî"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "û bihn girt"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:45.650327481Z",
+  "model": "glm-5.3"
+}

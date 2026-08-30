@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "û pelîkan, û ⟨את⟩ rûmê, û ⟨את⟩ qajîkê deryayê",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "û pelîkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rûmê"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rûmê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qajîkê deryayê"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "qajîkê deryayê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:59.338153596Z",
+  "model": "glm-5.3"
+}

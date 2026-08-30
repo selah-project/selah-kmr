@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Tu, Yê Tirsokî, tu ⟨yî⟩; û kî dikare bisekine ber te, ji hingê ku hêrsa te pêk tê?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "Yê Tirsokî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û kî"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dikare bisekine"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ber te"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ji hingê"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hêrsa te"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:36.858961320Z",
+  "model": "glm-5.3"
+}

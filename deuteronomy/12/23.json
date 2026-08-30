@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Tenê bihêz be ku xwî nexwî, çimkî xwîn ew nefs e, û tu yê nefsê ligel goşt nexwî.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "bihêz be"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ku ... ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwî"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nexwî"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefsê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "goşt"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:33.482607973Z",
+  "model": "glm-5.3"
+}

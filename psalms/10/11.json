@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Wî di dilê xwe de got: «Êl ji bîr kiriye, rûyê xwe veşartiye, qet nabîne — hertimî.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "di dilê xwe de"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ji bîr kiriye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "veşartiye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "qet"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nabîne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:30.348359836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 66:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Waha got Yahwe: ezman kursiya min e, û erd jî textiyê lingên min e; ka ev çi mal e ku hûn ji bo min çêdikin, û ka ev çi cih ê rûniştina min e?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "waha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "kursiya min"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "û erd"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "textiyê lingan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lingên min"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תבנו",
+      "gloss": "hûn çêdikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "û ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cih"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "rûniştina min"
+    }
+  ],
+  "timestamp": "2026-08-30T03:38:47.261403972Z",
+  "model": "glm-5.3"
+}

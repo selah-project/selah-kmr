@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Da ku wek şêr nefşa min nedeve û perçe neke, û tu rizgar dike tune ye.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "nedeve"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "wek şêr"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefşa min"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "perçe neke"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tu ... tune"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "rizgar dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:50.473072630Z",
+  "model": "glm-5.3"
+}

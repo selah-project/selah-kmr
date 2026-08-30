@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Kevirek û kevirek, êfake û êfake — herdu jî di çavên Yahwe de ji hev dûrketî ne.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "kevir (pîvan)"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "û kevir"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "êfa (pîvana genim)"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "û êfa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ji hev dûrketî (tiştê nefretkirî)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "herdu jî"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herdu"
+    }
+  ],
+  "timestamp": "2026-08-30T05:46:41.724558014Z",
+  "model": "glm-5.3"
+}

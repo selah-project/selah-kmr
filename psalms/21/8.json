@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ji ber ku şah digirehîje Yahwe û bi xesedê Elyon wê nehewite.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "digerehîje"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "û bi xesedê"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "wê nehewite"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:14.938486371Z",
+  "model": "glm-5.3"
+}

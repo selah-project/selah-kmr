@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Wan ⟨את⟩ kirasê Yosef girt ûû nêçîreke bizinan serrandin û ⟨את⟩ kirasê di xwî de bihelandin.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirasê Yosef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kirasê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "serrandin"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "nêçîreke"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "bihelandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirasê"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kirasê"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "di xwî de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:11.972756637Z",
+  "model": "glm-5.3"
+}

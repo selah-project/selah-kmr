@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ⟨את⟩ sandûqa Yahwe dan ser erebeyê, û ⟨את⟩ qutîkê, û ⟨את⟩ mishkên zêr, û ⟨את⟩ pûtên girîkên wan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "erebeyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qutîkê"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "qutîk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mishkên zêr"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "mishk"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pûtên girîkên wan"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "pût"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "girîkên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:23.187016045Z",
+  "model": "glm-5.3"
+}

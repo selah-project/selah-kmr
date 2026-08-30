@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Yên ku ji Yahwe ditirsin, bitêxin bi Yahwe; alîkarê wan û sipara wan ew e.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Yên ku ditirsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bitêxin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "alîkarê wan"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "û sipara wan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:45.706580213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Uzî ⟨את⟩ Zerachya zayî; û Zerachya ⟨את⟩ Merayot zayî.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Û Uzî"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachya"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachya"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "û Zerachya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:27.260724649Z",
+  "model": "glm-5.3"
+}

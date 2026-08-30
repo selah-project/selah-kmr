@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Ji ber ku tu mezin î û tu tiştên ecêb dikey, tu bi tenê Elohîm î.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "û dikey"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "tiştên ecêb"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "bi tenê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.838092206Z",
+  "model": "glm-5.3"
+}

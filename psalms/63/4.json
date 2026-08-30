@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Çimkî xesedê te ji jiyanê çêtir e, lêvên min êdî pesnê te didin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "çêtir e"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "ji jiyanê"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên min"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "pesnê te didin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:02.778507978Z",
+  "model": "glm-5.3"
+}

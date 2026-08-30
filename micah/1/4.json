@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Çiya di bin wî de heliyan, newal tên qelişandin; wek mamik berî agir, wek avên ku ber bi dajî ve têne rijandin.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "heliyan"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "Çiya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di bin wî de"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "newal"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "tên qelişandin"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "wek mamik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "האש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wek avên"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "têne rijandin"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "ber bi dajî ve"
+    }
+  ],
+  "timestamp": "2026-08-30T04:11:41.123059223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "⟨את⟩ Keriyên wan û ⟨את⟩ gaên wan û ⟨את⟩ kerên wan û ⟨את⟩ tiştê ku di bajêr de bû û ⟨את⟩ tiştê ku di zeviyê de bû, birin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keriyên wan"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Keriyên wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gaên wan"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "gaên wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kerên wan"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kerên wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku di bajêr de bû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajêr de"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku di zeviyê de bû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "birin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:34.138338825Z",
+  "model": "glm-5.3"
+}

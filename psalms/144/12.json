@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Ku kurên me wek darokên di ciwaniya xwe de mezin bûne, keçên me jî wek goşedaranên hûrkirî, şibenda qesrê.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "kurên me"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "wek darokan"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "mezin bûne"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "di ciwaniya xwe de"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "keçên me"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "wek goşedaran"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "hûrkirî"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "şibend"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "qesrê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:18.028377697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 67,
+  "translation": "Gel dê ji te re sipas bikin, Elohîm; gel, hemû gel, dê ji te re sipas bikin.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "dê ji te re sipas bikin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "dê ji te re sipas bikin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemû gel"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:01.030305114Z",
+  "model": "glm-5.3"
+}

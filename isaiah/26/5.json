@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Çûnkî ew datîne niştecihên bilind, bajarê bilind; wê nizim bike, wê nizim bike heta erdê, wê bihêje heta tozê.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "השח",
+      "gloss": "datîne"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "wê nizim bike"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "wê nizim bike"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "wê bihêje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:35.264118579Z",
+  "model": "glm-5.3"
+}

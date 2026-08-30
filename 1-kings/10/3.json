@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Şelomo ji wê re got ⟨את⟩ hemû peyvên wê — tu peyvek ji key veşartî nemabû ku ji wê re negotiye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû peyvên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "peyvên wê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mabû"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyvek"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "veşartî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "negotiye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wê re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:10.273017922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Dem ji bo kuştinê, û dem ji başkirinê; dem ji bo xerabkirinê, û dem ji bo avakirinê.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "ji bo kuştinê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "ji bo başkirinê"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ji bo xerabkirinê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ji bo avakirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:32.999102297Z",
+  "model": "glm-5.3"
+}

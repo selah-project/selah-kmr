@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Rojên Dawid nêzîk bûn ku bimire, û ew ferman da ⟨את⟩ Shelomo (Selman) kurê xwe, û got:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "nêzîk bûn"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ku bimire"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:47.817014081Z",
+  "model": "glm-5.3"
+}

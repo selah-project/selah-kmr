@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ⟨tiştê⟩ ku ji minçahê dimîne ji bo Aharon û zarokên wî ⟨ye⟩ — pîroziya pîrozanan, ji pêşkeşên agir ên Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "mayî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minçahê"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "û ji bo zarokên wî"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroziya"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pîrozanan"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ji pêşkeşên agir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:38.539922504Z",
+  "model": "glm-5.3"
+}

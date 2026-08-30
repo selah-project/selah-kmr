@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Di cihê ku ⟨את⟩ qurbana şewatê serjê dikin, ⟨את⟩ aşamê jî serjê bikin, û ⟨את⟩ xwîna wî li ser cihê qurbanê bi dor wê bipêçînin.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "di cihê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "serjê dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana şewatê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "serjê bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aşamê"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "aşamê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "xwîna wî"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "xwîna wî"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "bipêçînin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cihê qurbanê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bi dor wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:36.094016993Z",
+  "model": "glm-5.3"
+}

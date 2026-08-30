@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Ji te re ez qurbana sipasê pêşkêş dikim û di navê Yahwe de gazî dikim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ez... pêşkêş dikim"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sipasê"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "û di navê... de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "gazî dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:24.485417176Z",
+  "model": "glm-5.3"
+}

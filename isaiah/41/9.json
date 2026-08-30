@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Ku min ji seriyên erdê girt te û ji deverên wê bi navî gazî te kir, û min ji te re got: tu karkerê min î, min te hilbijart û te neavît.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "min girt te"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "ji seriyên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "û ji deverên wê"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "bi navî gazî te kir"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "û min got"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "karkerê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "min te hilbijart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "te neavît"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:04.125634259Z",
+  "model": "glm-5.3"
+}

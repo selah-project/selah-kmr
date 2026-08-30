@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ma tirsa te ⟨ne⟩ pêbaweriya te ye, û hêviya te rastiya rêyên te ⟨ye⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma… ne"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "tirsa te"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "pêbaweriya te"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "hêviya te"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "û rastiya"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "rêyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:11.229571811Z",
+  "model": "glm-5.3"
+}

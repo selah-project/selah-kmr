@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Moşe bi tenê nêzîkî Yahwe dibe, lê ew nayên nêzîkî, û gel bi wî re nayê bilîlî.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "û … nêzîkî dibe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "bi tenê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "lê ew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nayên"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "û gel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bilîlî"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:55.690407346Z",
+  "model": "glm-5.3"
+}

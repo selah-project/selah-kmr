@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Hemû birayên feqîr ji wî nefret dikin, hetta bi zêdetir jî hevalên wî ji wî dûr dibin; bi peyvan diçe pey wan, lê ew ⟨ tune ne ⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayên"
+    },
+    {
+      "surface": "רש",
+      "gloss": "feqîr"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "ji wî nefret dikin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hetta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bi zêdetir jî"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "hevalên wî"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "dûr dibin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "diçe pey"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "bi peyvan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lê"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew tune ne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:46:20.368280269Z",
+  "model": "glm-5.3"
+}

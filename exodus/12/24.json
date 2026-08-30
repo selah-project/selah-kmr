@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û hûn ⟨את⟩ vê peyvê wekî qanûnekî ji bo xwe û ji bo kûrên xwe heta hertimî biparêzin.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Û hûn biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê peyvê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vê peyvê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": " vê (nîşan)"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "wekî qanûnekî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "û ji bo kûrên te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:38.713267316Z",
+  "model": "glm-5.3"
+}

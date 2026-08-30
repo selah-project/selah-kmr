@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ji ber ku ew xulamên min in — yên ku min ⟨את⟩ wan ji welatê Mîtsrayim derxist — ne bi firotina xulamî têne firotin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên min"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew ⟨in⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "min derxist"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "têne firotin"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "bi firotina"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xulamî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:52.491068683Z",
+  "model": "glm-5.3"
+}

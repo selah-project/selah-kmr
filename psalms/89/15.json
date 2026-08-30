@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Rastî û darizandin bingeha textê te ne; xesed û rastbûn berî rûyê te diçin.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Rastî"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "û darizandin"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "bingeha"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "textê te"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "û rastbûn"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "berî ... diçin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:53.442613342Z",
+  "model": "glm-5.3"
+}

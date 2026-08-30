@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 150,
+  "translation": "Pesnê wî di hêzên wî de bidin, pesnê wî li gorî pirbûna mezinahiya wî bidin.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pesnê wî bidin"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "di hêzên wî de"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pesnê wî bidin"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "li gorî pirbûna"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "mezinahiya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.684435380Z",
+  "model": "glm-5.3"
+}

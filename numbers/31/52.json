@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 31:52",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û bû: hemû zêrê pêşkêşiyê ku ji bo Yahwe bilind kiribûn — şazdeh hezar û heft sed û pêncî şeqel — ji serokên hezaran ⟨את⟩ û ji serokên sedan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "pêşkêşiyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "bilind kiribûn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "şazdeh (şeş)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "şazdeh (deh)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "û pêncî"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şeqel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "hezaran"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "û ji ⟨את⟩",
+      "marks": "serokên"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "sedan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:55:10.755480760Z",
+  "model": "glm-5.3"
+}

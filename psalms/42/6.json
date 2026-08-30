@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Çima tê xwarî, canê min, û çima li ser min dinalî? Hêvî ji Elohîm bike, çimkî hîn ez ê wî spas bikim; ew rizgarîya rûyê wî ye.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "tê xwarî"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "û dinalî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "hêvî bike"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji Elohîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ez ê wî spas bikim"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "rizgarî"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:20.363494842Z",
+  "model": "glm-5.3"
+}

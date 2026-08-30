@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Şûrê xwe li ser ranê xwe girêde, ey leheng, rûmeta te û şewqa te!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "girêde"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "şûrê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ranê xwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ey leheng"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "rûmeta te"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "û şewqa te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:32.482326673Z",
+  "model": "glm-5.3"
+}

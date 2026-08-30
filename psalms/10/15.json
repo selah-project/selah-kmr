@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Milê rastiyê-xirab bişikîne, û yê xirab; rastiya wî ya xirab bigere — dê tu caran neyê dîtin.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "bişikîne"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "milê"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rastiyê-xirab"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "û yê xirab"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "bigere"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "rastiya wî ya xirab"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tu caran"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "neyê dîtin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:54.915063367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 93,
+  "translation": "Şahidên te ⟨in⟩ pir bi îstîqamet; ji bo mala te pîrbûn ⟨bi⟩ cih ⟨e⟩, Yahwe, bo dirêjiya rojan.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Şahidên te"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "pir bi îstîqamet ⟨in⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ji bo mala te"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "bi cih e"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîrbûn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "bo dirêjiya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:34.218848972Z",
+  "model": "glm-5.3"
+}

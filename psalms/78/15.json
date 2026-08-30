@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Keviran di çolê de qeland û wan wek kûrahiyên mezin av da.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "qeland"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "keviran"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "av da"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "wek kûrahiyên"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:26.353846342Z",
+  "model": "glm-5.3"
+}

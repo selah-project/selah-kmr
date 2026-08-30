@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û di keleha Şûşanê de Yehudiyan pênc sed mêr kuştin û tunekirin.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Û di Şûşanê de"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "keleh"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kuştin"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudiyan"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "û tunekirin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:41.187454635Z",
+  "model": "glm-5.3"
+}

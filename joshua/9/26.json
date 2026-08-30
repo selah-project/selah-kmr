@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û wiha ji wan re kir û ⟨את⟩ wan ji destê kên Yisraêl rizgar kir û wan nekuştin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û wiha kir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "û rizgar kir"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "nekuştin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:17:43.451041731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Ûrîya li ber deriyê male keyalî, bi ⟨את⟩ hemû bendeyên xwediyê xwe raza; û neçû xwarê malê xwe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "raza"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ûrîya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "li ber deriyê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "male"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "keyalî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû bendeyên xwediyê xwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bendeyên"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "xwediyê xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û neçû"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "xwarê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "malê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:45.222365605Z",
+  "model": "glm-5.3"
+}

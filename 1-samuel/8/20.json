@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ji bo ku em jî bibin wekî hemû netewan; û keyê me me dadbar bike, û derkeve beriya me, û şerên me ⟨את⟩ şer bike.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "ji bo ku em jî bibin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "wekî hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "netewan"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "û me dadbar bike"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "keyê me"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "û derkeve"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "beriya me"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "û şer bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şerên me"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "şerên me"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:19.440674846Z",
+  "model": "glm-5.3"
+}

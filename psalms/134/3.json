@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 134,
+  "translation": "Yahwe ji Siyonê bikin tu bextyar — Çêkerê ezman û erdê!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "bikin tu bextyar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ji Siyonê"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Çêkerê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "û erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:52.748788761Z",
+  "model": "glm-5.3"
+}

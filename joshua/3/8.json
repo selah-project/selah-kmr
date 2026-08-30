@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û tu wê ⟨את⟩ kohan, hilgirên sandiqa peymanê, ferman bikî, bêjî: \"Gava hûn bigihîjin dirêjahiqa ava Yerdanê, di Yerdanê de rawestin.\"",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Û tu"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ferman bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "hilgirên"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandîqa"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "peymanê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bêjî"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "gava hûn bigihîjin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heya"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "dirêjahiq"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ava"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yerdanê"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "di Yerdanê de"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "rawestin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:14:42.591809148Z",
+  "model": "glm-5.3"
+}

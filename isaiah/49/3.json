@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Û ji min re got: “Tu yî xulamê min, Yisraêl, ku ez ê bi te şêrîn bibim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ji min re got"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bi te"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ez ê şêrîn bibim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:43:17.805325264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Şemuelî mezin bû, û Yahwe bi wî re bû, û tu peyvên wî ber bi erdê ve nehistand.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "û mezin bû"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuelî"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "û Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "nehistand"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "peyvên wî"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ber bi erdê ve"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:13.983214341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Mîkal, keça þawil, ⟨את⟩ Dawid hez kir; ji þawil re jê re gotin, û peyiv ⟨di çavên wî de rast bû⟩.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "hez kir"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mîkal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Þawil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji þawil re"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "rast bû"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyiv"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:03.592507432Z",
+  "model": "glm-5.3"
+}

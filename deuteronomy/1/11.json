@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Yahwe, Elohîmê bavên we, ji we re wekî hûn bi hezar caran zêde bike û ⟨את⟩ we bibireke, wekî ku ji we re gotiye!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "bavên we"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "zêde bike"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "wekî hûn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bi hezar"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "caran"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "û bibireke"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (hûn)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotiye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:45.126751176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Û ⟨את⟩ diyariyê amade kirin heta ku Yosef di nîvro de hat, çimkî bihîstibûn ku li wir nanê dixwin.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "amade kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diyariyê"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "diyariyê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "di nîvro de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bihîstibûn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nanê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:12.883446801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Çûzo yên min ji ber rojîyê lawaz bûn, û goştê min ji rûnê xwar bûye.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "çûzo yên min"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "lawaz bûn"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "ji ber rojîyê"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "û goştê min"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "xwar bûye"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ji rûn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:37.064180334Z",
+  "model": "glm-5.3"
+}

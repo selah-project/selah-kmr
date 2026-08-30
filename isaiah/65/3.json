@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Qewmê ku min aciz dikin, ber bi rûyê min êdî her tim — di baxçeyan de qurbanan dikin û li ser kerpîçan bônan diderewînin.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Qewmê"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "aciz dikin"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ min",
+      "marks": "aciz dikin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "her tim"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "qurbanan dikin"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "di baxçeyan de"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "û bônan diderewînin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "kerpîçan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:49:13.330414755Z",
+  "model": "glm-5.3"
+}

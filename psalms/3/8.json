@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Rabe, ey Yahwe, xilas bik min, Elohîmê min, ji ber ku tu hemû ⟨את⟩ dijminên min li çene tehm kirî, diranên xeraban şikandî.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "xilas bik min"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "tehm kirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû dijminên min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "li çene"
+    },
+    {
+      "surface": "שני",
+      "gloss": "diranên"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "xeraban"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "şikandî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:31.783613947Z",
+  "model": "glm-5.3"
+}

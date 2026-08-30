@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Rastîya têkûz rêya wî rast dike, û bi şerîzariya xwe ya xirab ew ê gunehkar bikeve.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "têkûz"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "rast dike"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rêya wî"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "û bi şerîzariya xwe ya xirab"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bikeve"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gunehkar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:58.909233249Z",
+  "model": "glm-5.3"
+}

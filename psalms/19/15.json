@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Bila gotinên devê min û ramana dilê min li pêşiya te bên qebulkirin, Yahwe, kevira min û xilaskarê min.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bila … bên"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "qebulkirin"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "û ramana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li pêşiya te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kevira min"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "û xilaskarê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:18.992037593Z",
+  "model": "glm-5.3"
+}

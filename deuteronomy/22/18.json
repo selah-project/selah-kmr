@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û pîrên wê bajêrî ⟨את⟩ wî zilamî bigirin û wî ⟨אתו⟩ bisîzin.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Û … bigirin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pîrên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wî zilamî"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "zilamî"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "û … bisîzin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wî (zilamî)"
+    }
+  ],
+  "timestamp": "2026-08-29T19:08:37.735808295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Ji bo serokê muzîkê; ji bo kurên Qorach, mizmorek.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo kurên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmorek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:51.982776881Z",
+  "model": "glm-5.3"
+}

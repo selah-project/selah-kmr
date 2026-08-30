@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ⟨hûn ê⟩ kurên xwe dizanînin û hûn bibêjin: Yisraêl li ser ziwa ji ⟨את⟩ vê Urdunê re derbas bû.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "dizanînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên xwe"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û hûn bibêjin"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "li ser ziwa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê Urdunê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:00.746027248Z",
+  "model": "glm-5.3"
+}

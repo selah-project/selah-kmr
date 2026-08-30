@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 111,
+  "translation": "Kiryarên destên wî rastî û dadperwerî ne; hemû fermanên wî pêbawer in.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "kiryarên"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "û dadperwerî"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "pêbawer in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "fermanên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:48.371871090Z",
+  "model": "glm-5.3"
+}

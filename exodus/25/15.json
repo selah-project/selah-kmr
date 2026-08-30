@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Derna di guhikên sindanê de ⟨bin⟩; ji wê neyên dûrkirin.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "di guhikên"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sindanê"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "de ⟨bin⟩"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "Derna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "neyên dûrkirin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:45.070771873Z",
+  "model": "glm-5.3"
+}

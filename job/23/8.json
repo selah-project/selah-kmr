@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Wêne, ez ber bi pêş ve diçim, lê ew tê de nîne; ez ber bi paş ve diçim, lê nikarim wî fêm bikim.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "wêne"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ber bi pêş ve"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ez diçim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "lê ew tê de nîne"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ber bi paş ve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê nikarim ... na"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "fêm bikim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:57:32.802161108Z",
+  "model": "glm-5.3"
+}

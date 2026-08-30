@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Çimkî Yahwe dê ⟨gelê⟩ xwe berê daraz bike û li gor xulamên xwe dilê wî rihet dibe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "dê daraz bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li gor"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "dilê wî rihet dibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:57.126363086Z",
+  "model": "glm-5.3"
+}

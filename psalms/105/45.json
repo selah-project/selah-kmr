@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Ji bo ku ew biryarên wî biparêzin û şerîetên wî bihêzgirtî bidin berxwe. Halleluyah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "biryarên wî"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "û şerîetên wî"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bihêzgirtî bidin berxwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluyah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:34.109573225Z",
+  "model": "glm-5.3"
+}

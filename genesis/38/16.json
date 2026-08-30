@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 38:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Êdî berê xwe da aliyê wê, li ser rê, û got: \"Ka were, bila ez were ba te\" — ji ber ku ew nedizanibû ku ew bûka wî ye. Wê got: \"Tu çi didî min, da ku tu were ba min?\"",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "berê xwe da"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "aliyê wê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ka were"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ez were"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ba te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizanibû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "bûka wî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew ... ye"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wê got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "didî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tu were"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba min"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:17.010633759Z",
+  "model": "glm-5.3"
+}

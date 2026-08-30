@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Lavan ji Yaqub re got: Çi kirîye, ku ⟨את⟩ dilê min dizî û ⟨את⟩ keçên min wek dîlên bi şûr birî?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ji Yaqub re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ç"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kirîye"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "dizî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê min"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "birî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçên min"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "keçên min"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "wek dîl"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûr"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:27.082129141Z",
+  "model": "glm-5.3"
+}

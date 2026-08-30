@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "û ⟨את⟩ nîşanên wî û ⟨את⟩ karên wî yên ku wî di nav Mîtsrayimê de kir — ji Firêwn, keyê Mîtsrayim, û ji bo hemû welatê wî re.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nîşanên wî"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "nîşanên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karên wî"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ji Firêwn re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "û ji hemû"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "welatê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:56.528044654Z",
+  "model": "glm-5.3"
+}

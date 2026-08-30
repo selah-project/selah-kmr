@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û bû, gava Şelomo xelas kir çêkirina ⟨את⟩ mala Yahwe û ⟨את⟩ mala padîşah û ⟨את⟩ hemû daxwaza Şelomo ya ku dilê wî dixwest bike.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "gava xelas kir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mala padîşah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû daxwaza Şelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "daxwaz"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dixwest"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bike"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:06.238531155Z",
+  "model": "glm-5.3"
+}

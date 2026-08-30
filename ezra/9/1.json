@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 9:1",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Piştî qedandina van tiştan, serwan li cem min hatin û gotin: Gelê Yisraêl û kahyn û Lîvî xwe ji gelên ⟨van⟩ welatan ne cudakirine — li gorî dijdaratiyên wan: Kenanî, Hetî, Perizî, Yebusî, Ammonî, Moabî, Mîtsrayî û Emorî.",
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "piştî qedandina"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van tiştan"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "hatin nêzîk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "li cem min"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "serwan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נבדלו",
+      "gloss": "cudakirin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "kahyn"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Lîvî"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "ji gelên"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "welatan"
+    },
+    {
+      "surface": "כתועבתיהם",
+      "gloss": "li gorî dijdaratiyên wan"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "Kenanî"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetî"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizî"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusî"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "Ammonî"
+    },
+    {
+      "surface": "המאבי",
+      "gloss": "Moabî"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mîtsrayî"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emorî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:25:22.685868554Z",
+  "model": "glm-5.3"
+}

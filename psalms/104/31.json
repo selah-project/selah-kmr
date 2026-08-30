@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Rûmeta Yahwe bila hertimî be; Yahwe bila di karên xwe de şa be.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bila be"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Rûmeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "şa be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "di karên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:49.886755066Z",
+  "model": "glm-5.3"
+}

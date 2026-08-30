@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ew tiştê ku di çavên Yahwe de şer bû kir — tenê ne wekî bavê xwe û ne wekî diya xwe; û ew ⟨את⟩ stûna Baalê ku bavê wî çêkiribû rakir.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Û ... kir"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "tiştê ku şer bû"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "wekî bavê xwe"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "û ne wekî diya xwe"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "û ... rakir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stûna Baalê"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stûna"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:55.455577737Z",
+  "model": "glm-5.3"
+}

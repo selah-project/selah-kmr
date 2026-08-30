@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Kenaan ⟨את⟩ Tsîdonê, kurê xwe yê pêşîn, û ⟨את⟩ Hêt anî dinyayê.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Û Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anî dinyayê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsîdonê"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsîdonê"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "kurê xwe yê pêşîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hêt"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hêt"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:44.057640031Z",
+  "model": "glm-5.3"
+}

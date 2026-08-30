@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û tu yê du kerubîmên zêrî çêkîbî; ⟨את⟩ bi karêlêxistî çê bikî, li herdu seriyên kaporetê.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "û tu yê çêkîbî"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubîm"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrî"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "bi karêlêxistî"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "çê bikî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "du kerubîmên zêrî"
+    },
+    {
+      "surface": "משני",
+      "gloss": "li herdu"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "seriyên"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:16.259587996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Dilê min ber bi kirina xetên te xwar davêje, heta hetta, heta dawiyê.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "ber bi ... davêje"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kirina"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xetên te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hetta"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "heta dawiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:41.993800332Z",
+  "model": "glm-5.3"
+}

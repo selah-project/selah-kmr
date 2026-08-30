@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ev in kurrên Şoval: Elvan û Menaxat û Eval, Şefo û Onam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurrên"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Şoval"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Elvan"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "û Menaxat"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "û Eval"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Şefo"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "û Onam"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:34.940732035Z",
+  "model": "glm-5.3"
+}

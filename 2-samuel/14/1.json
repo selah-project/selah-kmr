@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û Yoav kurê Seruyayê zanî ku dilê şah li ser Avşalom e.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "zanî"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Seruyayê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    }
+  ],
+  "timestamp": "2026-08-29T19:54:03.137789491Z",
+  "model": "glm-5.3"
+}

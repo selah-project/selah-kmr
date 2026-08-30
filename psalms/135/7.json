@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Ewrên bilind ji dawiyê ⟨a⟩ erdê derdixe, ji bo baranê belavên ronahiyê çêdike, ji xezînên xwe ba derdixe.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "derdixe bilind"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ewrên"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ji dawiyê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "belavên ronahiyê"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ji bo baranê"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêdike"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "derdixe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ji xezînên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:27.624391577Z",
+  "model": "glm-5.3"
+}

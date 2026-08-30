@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Bila hemû yên ku xwe davêjin te şa bibin, hertim bila stranan bilîzin; tu li ser wan berdanekê bikişîne, û bila yên ku navê te dixwîzin di te de şayî bibin.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "bila şa bibin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "yên ku xwe davêjin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bila stranan bilîzin"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "tu li ser wan berdanekê bikişîne"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "bila şayî bibin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "yên ku... dixwîzin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:34.273170477Z",
+  "model": "glm-5.3"
+}

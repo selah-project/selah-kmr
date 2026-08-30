@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji ber ku rûşî bi hestiyariya canê xwe serbilind dibe, û qezencxwaz xwe pîroz dike — Yahwe bi pêkutî dike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "serbilind dibe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rûşî"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "hestiyariya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canê xwe"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "û qezencxwaz"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pîroz dike"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "bi pêkutî dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:18.616047849Z",
+  "model": "glm-5.3"
+}

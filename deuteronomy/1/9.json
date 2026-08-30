@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û min di wê demê de ji we re got ku ez nikarim bi tenê serê xwe ⟨את⟩ we hilgirim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Û min got"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di wê demê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "de"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nikarim"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ez-ê"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "bi tenê serê xwe"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "hilgirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (hûn)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:45.126186201Z",
+  "model": "glm-5.3"
+}

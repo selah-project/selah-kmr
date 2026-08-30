@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yahwe Elohîm ji jina re got: “Çi kirî ev yek?” û jin got: “⟨mar⟩ min xapand û min xwar.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ji jina re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kirî"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mar"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "min xapand"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "û min xwar"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:28.822679122Z",
+  "model": "glm-5.3"
+}

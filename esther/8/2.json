@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Key mohra xwe ya ku ji Haman girtibû, rakir û da Mordekaî; û Ester Mordekaî ser mala Hamanê da ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "rakir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohra xwe"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "mohra xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ji Haman girtibû"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "ji Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "da"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaî"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "da ⟨is⟩"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekaî"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:52.853523106Z",
+  "model": "glm-5.3"
+}

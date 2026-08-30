@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û ez nexwest guhdarî Bileam bikim; êdî ew biryarkirin-barkir ⟨את⟩-we, û ez ⟨את⟩-we ji destê wî rizgar kirim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ... nexwest"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ez nexwest"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "guhdarî ... bikim"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ew barkir"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "biryarkirin-barkir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-we",
+      "marks": "we"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "û ... rizgar kirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-we",
+      "marks": "we"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ji destê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:23:39.865893695Z",
+  "model": "glm-5.3"
+}

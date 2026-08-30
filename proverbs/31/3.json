@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Nede hêza xwe ji jinan, û rêyên xwe ji ê ku keyan ji holê radike.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "jinan"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "hêza te"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "û rêyên te"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "ji holê rakirin"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "keyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:24.635864663Z",
+  "model": "glm-5.3"
+}

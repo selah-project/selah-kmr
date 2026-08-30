@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Keynan heftê salan jiyî û ⟨את⟩ Mahalalel bû bav.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiyî û"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keynan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "heftê"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bû bav û"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:10.845398366Z",
+  "model": "glm-5.3"
+}

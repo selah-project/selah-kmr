@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Dijminên te di nava civîna te de dilezînin ⟨wekî şêran⟩; nîşaneyên xwe danîne ⟨şûna⟩ nîşanan.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "dilezînin"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Dijminên te"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "civîna te"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danîne"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "nîşaneyên xwe"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "nîşanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:44.888113048Z",
+  "model": "glm-5.3"
+}

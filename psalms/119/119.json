@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Tu wek pirtikê hemû şoreştarên erdê betal kiriye; ji ber wê ez ji şahidiyên te hez dikim.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "wek pirtikê"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "tu betal kiriye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "şoreştarên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ji ber wê"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ez hez dikim"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ji şahidiyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:35.649574821Z",
+  "model": "glm-5.3"
+}

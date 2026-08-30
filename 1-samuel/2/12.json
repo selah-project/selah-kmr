@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û lawên Elî lawên belîyal bûn; ⟨את⟩ Yahwe nas nedikirin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Û lawên"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lawên"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "belîyal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nas nedikirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:42.686230068Z",
+  "model": "glm-5.3"
+}

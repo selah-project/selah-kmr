@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û qewimî, gava wan wî ⟨את⟩ dî, ew sî hevalan girtin û bûn bi wî re ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û qewimî"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "gava wan dî"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sî"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "hevalan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:31:07.847438433Z",
+  "model": "glm-5.3"
+}

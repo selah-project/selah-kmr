@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Ez ji te re qêrîna dikim û tu bersivê nadî min; ez disekinim û tu dinihêrî min.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "ez qêrîna dikim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "bersivê nadî min"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ez disekinim"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "û tu dinihêrî"
+    },
+    {
+      "surface": "בי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:58:57.663142129Z",
+  "model": "glm-5.3"
+}

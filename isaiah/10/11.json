@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Gelo wekî ku min Ji bo Şomeron û pûtên wê kir, wisa Ji bo Yeruşalayim û pûtên wê nekim?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "gelo ... nekim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min kir"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Ji bo Şomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "û pûtên wê"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Ji bo ... nekim"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "û pûtên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:24.457921225Z",
+  "model": "glm-5.3"
+}

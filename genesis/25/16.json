@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ev ⟨in⟩ kurên Yîşmaêl, Û ev navên wan, li gorî warên wan û birwanên wan: dwêdeh seroke li gorî gelên wan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yîşmaêl"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "navên wan"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "li gorî warên wan"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "û birwanên wan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwê"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "seroke"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "li gorî gelên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:44:21.018919058Z",
+  "model": "glm-5.3"
+}

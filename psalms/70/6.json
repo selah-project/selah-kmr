@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 70,
+  "translation": "Û ez feqîr û belengaz im — Elohîm, bal min lez bike! Alîkar û rizgarkerê min ⟨tu yî⟩, Yahwe — ne dereng bike!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîr"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û belengaz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "lez bike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bal min"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "alîkarê min"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "û rizgarkerê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "dereng bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:56.602757988Z",
+  "model": "glm-5.3"
+}

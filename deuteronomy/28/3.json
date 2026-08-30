@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Piroz î tu di bajarî de, û piroz î tu di zeviyê de.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Piroz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "î tu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajarî de"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "û piroz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "î tu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di zeviyê de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:12.376475996Z",
+  "model": "glm-5.3"
+}

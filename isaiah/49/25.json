@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Çawa Yahwe dibêje: Bi rastî dîlî tund xwe dê bê girtin, û talankerê zordar dê bifilitin; û ez ê bi ⟨את⟩ dozgerên te re doz bikim, û ⟨את⟩ zarokên te ez ê rizgar bikim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "כה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "dîlî"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "tund"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dê bê girtin"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "û talankerê"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "zordar"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "dê bifilitin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dozgerên te"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "dozgerên te"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "doz bikim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên te"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "zarokên te"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "rizgar bikim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:43:39.738090451Z",
+  "model": "glm-5.3"
+}

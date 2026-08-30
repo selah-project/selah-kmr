@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ew jê re gotin: Bi rastî em ê bi te re ⟨את⟩ vegerin bal gelê te.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "û ew gotin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bi te re"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "em ê vegerin"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "bal gelê te"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:38.237833793Z",
+  "model": "glm-5.3"
+}

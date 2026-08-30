@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Berî ku ez bên şekirandin ez şaş bûm; lê niha gotina te parastime.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "berî"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ez bên şekirandin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "şaş bûm"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "lê niha"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "gotina te"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "parastime"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:51.947762040Z",
+  "model": "glm-5.3"
+}

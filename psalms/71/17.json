@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Elohîm, ji ciwanîya min ve fêrî min kirî, û heta niha hêmayên te diyar dikim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "fêrî min kirî"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ji ciwanîya min ve"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "diyar dikim"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "hêmayên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:15.831197909Z",
+  "model": "glm-5.3"
+}

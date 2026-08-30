@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Fîlîstî ⟨את⟩ dengê qêrînê bihîst û gotin: “Ev dengê qêrîna mezin di kampa Îbranîyan de çi ye?” û fêm kirin ku Arka Yahwe hatiye kampê.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bihîstin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîstî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "deng"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "qêrînê"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "deng"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "qêrîna"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di kampa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Îbranîyan"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "û fêm kirin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:52.353994090Z",
+  "model": "glm-5.3"
+}

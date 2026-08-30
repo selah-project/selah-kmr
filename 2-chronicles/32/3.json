@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Wî bi sergehên xwe û camêrên xwe re şûrewarî kir ku ⟨את⟩ avên kaniyên ku derveyî bajaran in bigirin û wan alîkariya wî kirin.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "û şûrewarî kir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi... re"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sergehên xwe"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "û camêrên xwe"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "ku... bigirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avên kaniyên"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "kaniyên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "derveyî"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "û wan alîkariya wî kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:52:53.591541665Z",
+  "model": "glm-5.3"
+}

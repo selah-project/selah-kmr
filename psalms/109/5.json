@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Û li şûna qenciyê li min xerabî danîn, û li şûna evîna min nefretê danîn.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "qenciyê"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "û nefretê"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "evîna min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.277354831Z",
+  "model": "glm-5.3"
+}

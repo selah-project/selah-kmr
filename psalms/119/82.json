@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Çavên min ji bo bêja te keltîne, digotin: “Kengê tu min aram dikî?”",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "keltîne"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "ji bo bêja te"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "digotin"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "tu min aram dikî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:33.619368890Z",
+  "model": "glm-5.3"
+}

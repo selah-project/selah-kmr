@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û Yahwe bi Moşe re axivî: Here, dakev, ji ber ku gelê te — yê ku te ji erdê Mîtsrayim bilind kir — xera kiriye.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "רד",
+      "gloss": "dakev"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "xera kiriye"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "te bilind kir"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erdê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:15.766050738Z",
+  "model": "glm-5.3"
+}

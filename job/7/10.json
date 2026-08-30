@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Êdî venagere mala xwe, û êdî cihê wî ⟨wî⟩ nas nake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "venagere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "mala xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "nas nake"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "cihê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:31.409153018Z",
+  "model": "glm-5.3"
+}

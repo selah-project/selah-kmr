@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û tu dê guhdarîkirina dengê Yahwe, Elohîmê te, bikî, û ⟨את⟩ fermanên wî û ⟨את⟩ biryarnameyên wî pêk bînî, ku ez îro ji te re ferman dikim.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Û tu dê guhdarî bikî"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "û tu dê … pêk bînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên wî"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "fermanên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biryarnameyên wî"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "biryarnameyên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ferman dikim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:55.428086476Z",
+  "model": "glm-5.3"
+}

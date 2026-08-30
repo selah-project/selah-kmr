@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Ma tu nû vegere û ji nû ve bidî me jîyan, da ku gelê te di te de şa bibe?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma … nû?"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "nû vegere"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ji nû ve bidî me jîyan"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "û gelê te"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "şa bibe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:59.909070472Z",
+  "model": "glm-5.3"
+}

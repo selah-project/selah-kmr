@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ger kurên te li wî guneh kiribûn, wî wan di destê serhildana wan de hişt.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "kurên te"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "guneh kiribûn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li wî"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wî wan hişt"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di destê"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "serhildana wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:47.144179451Z",
+  "model": "glm-5.3"
+}

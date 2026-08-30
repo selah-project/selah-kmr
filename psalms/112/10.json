@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 112,
+  "translation": "Wî yê xirab dibîne û diêşe; diranên xwe digirîçe û dihele; daxwaza xiraban wê winda bibe.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "wî yê xirab"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "dibîne"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "û diêşe"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "diranên xwe"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "digirîçe"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "û dihele"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "daxwaza"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "xiraban"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "wê winda bibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:58.539610984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Di konan de wê hûn heft rojan rûnin; hemû xwecihêbûyî di Îsraêl de wê di konan de rûnin.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "di konan de"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "wê hûn rûnin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "xwecihêbûyî"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Îsraêl de"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wê rûnin"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "di konan de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:02.833449731Z",
+  "model": "glm-5.3"
+}

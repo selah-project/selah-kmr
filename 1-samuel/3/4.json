@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yahwe gazî Şemûel kir, û ew got: “Ez vir im.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Û ... gazî ... kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û ew got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ez vir im"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:11.614952418Z",
+  "model": "glm-5.3"
+}

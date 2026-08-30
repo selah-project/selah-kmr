@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ⟨את⟩ van ji çûkan hûn dikin dijî — werin xwarin, dijî ⟨ne⟩: ⟨את⟩ heloyê, û ⟨את⟩ qertelê, û ⟨את⟩ eyloyê masîgir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "van"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "hûn dikin dijî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "çûkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werin xwarin"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "dijî"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heloyê"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "heloyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "qertelê"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "qertelê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "eyloyê masîgir"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "eyloyê masîgir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:12.100806730Z",
+  "model": "glm-5.3"
+}

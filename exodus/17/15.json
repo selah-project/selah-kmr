@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Moşe altarek çêkir û navê wî Yahwe-Nîsî (Yahwe Alaya-min) kir.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarek"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û … nav lê kir"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nîsî (Alaya-min)"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:19.866367517Z",
+  "model": "glm-5.3"
+}

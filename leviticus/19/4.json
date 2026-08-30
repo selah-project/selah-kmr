@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Ne bizivirin bal putan, û ji tijên rijandî Elohîm ji xwe re çekin — ez im Yahwe, Elohîmê we.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "bizivirin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "putan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "û Elohîmên"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ji tijên rijandî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "çekin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:57.337214337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Ji xerabiyê bizivire, qencîyê bike; aşitîyê bigere û bişopîne ⟨wê⟩.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "bizivire"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ji xerabiyê"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "û bike"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qencîyê"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "bigere"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aşitîyê"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "û bişopîne ⟨wê⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:02.232872636Z",
+  "model": "glm-5.3"
+}

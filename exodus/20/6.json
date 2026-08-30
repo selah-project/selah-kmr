@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "û xesedê ⟨dike⟩ ji bo hezaran, ji bo ên ku ji min hez dikin û ji bo ên ku fermanên min diparêzin.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "û xesedê dike"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ji bo hezaran"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ji bo ên ku ji min hez dikin"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "û ji bo ên ku diparêzin"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "fermanên min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:53.873396065Z",
+  "model": "glm-5.3"
+}

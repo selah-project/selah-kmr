@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û Yîtshaq ji wan re got: «Çima hûn hatine bal min — hûn ⟨את⟩ min henf dikin û hûn min ji ⟨את⟩-we şandine?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtshaq"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "çima"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "hûn hatine"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bal min"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "henf dikin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "Û hûn min şandine"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ ji we"
+    }
+  ],
+  "timestamp": "2026-08-29T17:46:00.342928924Z",
+  "model": "glm-5.3"
+}

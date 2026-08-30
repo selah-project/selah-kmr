@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Ji bo serokê muzîkê, mizmorek ji Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmorek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:19.083280047Z",
+  "model": "glm-5.3"
+}

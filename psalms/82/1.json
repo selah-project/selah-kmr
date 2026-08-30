@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 82,
+  "translation": "Mezamîr ji bo Asaf. Elohîm radiweste di civata Êl de, di nav Elohîman de daraz dike.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mezamîr"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ji bo Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "radiweste"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "di civata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîman"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "daraz dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:41.240700634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Ji bo serokê muzîkê, ji aliyê kurên Qorah, mizmorek.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji aliyê kurên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmorek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:33.272112424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Min got: «Bihîsin, êdî, serên Yaqûb û seroke malbata Yîsraêl! Ma ne ji bo we ye ku hûn ⟨את⟩ dadê bizanbin?»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Min got"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Bihîsin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serên"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "û seroke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsraêl"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma ne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we ye"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bizanbin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadê"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "dadê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:12:20.663199829Z",
+  "model": "glm-5.3"
+}

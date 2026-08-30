@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Êrêşkar dê bibin fidya ji bo ⟨an⟩ sedsaz, û xayîn dê bikeve şûna rastan.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "fidya"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ji bo sedsaz"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "êrêşkar"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "û şûna"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rastan"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "xayîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:00.745668343Z",
+  "model": "glm-5.3"
+}

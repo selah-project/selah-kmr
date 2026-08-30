@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Ji ber ku hay bisêne, Yahwe bi agir tê, û resiyên wî wekî bagerê, da ku hêrs û qehra xwe vedigerîne, û gazincên wî bi pêlên agir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hay bisêne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "û wekî bagerê"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "resiyên wî"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "da ku vedigerîne"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "qehra"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hêrs û"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "gazincên wî"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "bi pêlên"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:49:12.083944413Z",
+  "model": "glm-5.3"
+}

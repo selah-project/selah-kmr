@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Şaul şandin şand da ku Dawid bînin, û ⟨ew⟩ got: “⟨Ew⟩ nexweş e.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ku bînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "nexweş e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:56.169659986Z",
+  "model": "glm-5.3"
+}

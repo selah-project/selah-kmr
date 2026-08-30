@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Her weha kurên Adem, her weha kurên mêran, bi hev re dewlemend û xizan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "her weha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "her weha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "dewlemend"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û xizan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:51.983271260Z",
+  "model": "glm-5.3"
+}

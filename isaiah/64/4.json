@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 64,
+  "translation": "Te ⟨את⟩ yê şa û kirêdarê rastiyê rû bi rû pêk anî, yên ku di rêyên te de te di bîr tînin; hinê! tu xezeb bûyî û em guneh kirin — di wan de mayîna-dirêj heye û em rizgar dibin.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "te rû bi rû pêk anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê şa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "yê şa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kirêdarê"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "di rêyên te de"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "te di bîr tînin"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hinê!"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "xezeb bûyî"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "em guneh kirin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan de"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mayîna-dirêj"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "em rizgar dibin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:09.356225400Z",
+  "model": "glm-5.3"
+}

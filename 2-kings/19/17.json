@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Bi rastî, Yahwe, keyên Aşûrê ⟨את⟩ gelan û ⟨את⟩ welatên wan wêran kirin.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Bi rastî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "wêran kirin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "keyên"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "welatên wan"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "welatên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:23:54.596385384Z",
+  "model": "glm-5.3"
+}

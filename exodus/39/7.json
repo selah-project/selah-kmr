@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û wî ew danîn ⟨אתם⟩ ser milên ephodê — kevirên bîranînê ji bo kurên Îsraêl — wekî ku Yahwe ⟨את⟩ Moşe ferman kir.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "û wî danîn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ew (keviran)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "milên"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephodê"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bîranînê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:48.932032760Z",
+  "model": "glm-5.3"
+}

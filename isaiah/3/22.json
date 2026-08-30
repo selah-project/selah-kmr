@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 3:22",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Wê li çelikan ên şahî, wê li berpoşan, wê li rûpoşan, wê li kîsanan",
+  "tokens": [
+    {
+      "surface": "המחלצות",
+      "gloss": "çelikên şahî"
+    },
+    {
+      "surface": "והמעטפות",
+      "gloss": "û berpoş"
+    },
+    {
+      "surface": "והמטפחות",
+      "gloss": "û rûpoş"
+    },
+    {
+      "surface": "והחריטים",
+      "gloss": "û kîsan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:43.756821725Z",
+  "model": "glm-5.3"
+}

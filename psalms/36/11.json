@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Xesed a xwe dirêjî yên ku te nas dikin bike, û rastîya xwe ji dilrastên dil.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "dirêjî … bike"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesed a te"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "ji yên ku te nas dikin re"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "û rastîya te"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ji dilrastên"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:09.721542927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Ma ew ne li cem min tê veşartin, di xezîneyên min de mohrkirî ye?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma ... ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "tê veşartin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "li cem min"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "mohrkirî"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "di xezîneyên min de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:13:16.671946226Z",
+  "model": "glm-5.3"
+}

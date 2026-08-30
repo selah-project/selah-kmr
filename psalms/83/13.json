@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Ew ê ku gotin: \"Ka em ⟨את⟩ çêregehên Elohîm ji bo xwe bi dest bixin.\"",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "bi dest bixin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çêregehên Elohîm"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "çêregehan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:21.857198261Z",
+  "model": "glm-5.3"
+}

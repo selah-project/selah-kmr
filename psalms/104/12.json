@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Li ser wan balindeyên ezmanan dijîn; ji nav şaxan deng didin.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "balindeyên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "dijîn"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ji nav"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "şaxan"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "didin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "deng"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:17.042850308Z",
+  "model": "glm-5.3"
+}

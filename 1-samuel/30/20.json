@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Dawid ⟨את⟩ hemû pêsî û ga jî girt; ew li pêş wan dewaran digerandin û digotin: „Ev şelala Dawid e.“",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû pêsî û ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "pêsî"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "û ga"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "digerandin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dewar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û digotin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "şelal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:14.303897739Z",
+  "model": "glm-5.3"
+}

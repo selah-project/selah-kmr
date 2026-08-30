@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Û wan her tim, heta αfirandinê, rûnî kir, qanûnekî dan ku nayê derbas kirin.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "û wan rûnî kir"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "her tim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta αfirandinê"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanûn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nayê"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "derbas kirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:33.703018171Z",
+  "model": "glm-5.3"
+}

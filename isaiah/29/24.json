@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û yên ku di ruh de şa dibin ê fêrî têgihîştinê bibin, û malin jî ê hînbûnê biwergirin.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ê bibin zana"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "yên ku şa dibin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "têgihîştinê"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "û malin"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "ê fêr bibin"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hînbûnê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:35:57.827595883Z",
+  "model": "glm-5.3"
+}

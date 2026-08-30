@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ pîreyên bajarî girt û ⟨את⟩ darokên çolê û ⟨את⟩ giayên guhîn; Û bi wan zilamên Sukot fêr kir.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pîreyên bajarî"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "pîreyên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darokên çolê"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "darokên"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giayên guhîn"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "giayên guhîn"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "fêr kir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zilamên Sukot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "zilamên"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-08-29T19:28:59.253929179Z",
+  "model": "glm-5.3"
+}

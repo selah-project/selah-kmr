@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ruhê Yahwe bi min axivî, û peyva wî li ser zimanê min e.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruhê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bi min"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "û peyva wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "zimanê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:15.037272648Z",
+  "model": "glm-5.3"
+}

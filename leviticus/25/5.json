@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "⟨את⟩ çêdê xwezayî yê cînîya te nenî cîn kirin, û ⟨את⟩ tirîyên tirîdarên te yên bêbirrîn nenî berhev kirin; saleke Şabatonê ji bo erdê dibe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çêdê xwezayî yê cînîya te"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "çêdê xwezayî"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "cînîya te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nenî"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "cîn kirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tirîyên tirîdarên te yên bêbirrîn"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "tirîyên"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "tirîdarên te yên bêbirrîn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nenî"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "berhev kirin"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "saleke"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Şabatonê"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ji bo erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:57.762577475Z",
+  "model": "glm-5.3"
+}

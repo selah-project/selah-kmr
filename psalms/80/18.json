@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Bila destê te li ser mêrê rastê te be, li ser kurê mirov ê ku te ji xwe re xurt kirî.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "bila … be"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "rastê te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "xurt kirî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji xwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.316095160Z",
+  "model": "glm-5.3"
+}

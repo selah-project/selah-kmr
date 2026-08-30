@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Kush ⟨את⟩ Nimrod anî dinyayê; ew dest pê kir ku bibe hêzdar di erdê de.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anî dinyayê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "החל",
+      "gloss": "dest pê kir"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ku bibe"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:10.877797664Z",
+  "model": "glm-5.3"
+}

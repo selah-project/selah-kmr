@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Bihîze, ji kerema xwe, û ez ê biaxivim; ez ê ji te bipirsim û tu yî nîşanî min bidî.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Bihîze"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji kerema xwe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ez ê"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "biaxivim"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ez ê ji te bipirsim"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "tu yî nîşanî min bidî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:42.266474857Z",
+  "model": "glm-5.3"
+}

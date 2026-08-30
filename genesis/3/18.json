@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û gij û gijik dê ji te re şîn bike, û tu dê giyayê zeviyê ⟨את⟩ bixwî.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "û gij"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "û gijik"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "dê şîn bike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "û dê tu bixwî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giyayê zeviyê"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "giyayê"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:49.250735719Z",
+  "model": "glm-5.3"
+}

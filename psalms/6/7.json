@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ez bi ahênên xwe westiyam; di hemû şevê de erefa min di avê de diherim; bi hesinên min textiya min pûk dibe.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "westiyam"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "bi ahênên xwe"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "di avê de diherim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şevê de"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "erefa min"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "bi hesinên min"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "textiya min"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "pûk dibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:52.039036347Z",
+  "model": "glm-5.3"
+}

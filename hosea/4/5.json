@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û tu îro dê bihelîzî, û pêxember jî dê bi şevî bihevêle te bihelize, û ez dê diya te qut bikim.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "û tu îro dê bihelîzî"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "û dê bihelize"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bihvêle te"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bi şevî"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "û ez dê qut bikim"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "diya te"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:11.060401323Z",
+  "model": "glm-5.3"
+}

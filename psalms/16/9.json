@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Lewra dilê min şa dibe û rûmeta min bi kêfê ye, goştê min jî bi ewlehî rûniştî ye.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Lewra"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "şa dibe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "û … bi kêfê ye"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "rûmeta min"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jî"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "goştê min"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "rûniştî ye"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bi ewlehî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:59.035277504Z",
+  "model": "glm-5.3"
+}

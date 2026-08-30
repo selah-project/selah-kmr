@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Tenê ber bi pargînê nebe û ber bi qurbangehê nêzîk nebe, ji ber ku kêmî lê ye; û ⟨את⟩ pêşgeha min a pîroz pispend neke, ji ber ku ez im Yahwe, ê ku wan pîroz dike.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "pargînê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bikeve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ber bi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangehê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "nêzîk nebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מום",
+      "gloss": "kêmî"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "pispend bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêşgeha min a pîroz"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pêşgeha min a pîroz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "wan pîroz dike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:46.065934352Z",
+  "model": "glm-5.3"
+}

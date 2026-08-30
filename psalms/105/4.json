@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Yahwe û hêza wî bigerin, rûyê wî timûtim bigerin.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "bigerin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "û hêza wî"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "bigerin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "timûtim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:03.794109757Z",
+  "model": "glm-5.3"
+}

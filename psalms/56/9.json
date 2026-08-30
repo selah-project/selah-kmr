@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Koçberiya min Te hesaband; kêşbarên min têke nûşkara xwe bike — ma ew di kitêba te de nîne?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "koçberiya min"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "Te hesaband"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "bike"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "kêşbarên min"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "têke nûşkara xwe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "di kitêba te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:46.053451782Z",
+  "model": "glm-5.3"
+}

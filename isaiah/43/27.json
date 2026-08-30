@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Bavê te yê ⟨yekem⟩ guneh kir, û şîretkarên te serî hilda li dijî min.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yê yekem"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "guneh kir"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "û şîretkarên te"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "serî hilda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "li dijî min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:51.093994300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Tu dizanî êrîşa min, û şerma min, û rûreşîya min; tevahiya dijminên min ber te ne.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dizanî"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "êrîşa min"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "û şerma min"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "û rûreşîya min"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ber te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dijminên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:08.038679237Z",
+  "model": "glm-5.3"
+}

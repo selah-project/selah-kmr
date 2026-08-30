@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ger tu nefêrî ⟨bişînî⟩, li ber çavan, ez ê ⟨את⟩ hemû sînorê te bi beqan lêdan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nefêrî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "bişînî"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "li ber çavan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ê ... lêdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû sînorê te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "sînorê te"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "bi beqan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:13.162470398Z",
+  "model": "glm-5.3"
+}

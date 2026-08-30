@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û ⟨את⟩ darikên ji darê şîtişê çêkir û ⟨את⟩ wan bi zêr dapoş kir, ji bo hildana ⟨את⟩ masê.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darikên"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "darikên"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darê"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîtişê"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dapoş kir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bi zêr"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ji bo hildanê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masê"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:12.908233187Z",
+  "model": "glm-5.3"
+}

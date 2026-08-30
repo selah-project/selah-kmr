@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û di nameyê de nivîsî, got: Hûn ⟨את⟩ Ûriya li hember rûyê şerê herî dijwar deynin, û hûn ji paş wî vegerin, û bila ew were xistin û bimire.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nivîsî"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di nameyê de"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "hûn deynin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ûriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ûriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li hember"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ber bi rûyê"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "herî dijwar"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "hûn vegerin"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ji paş wî"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "were xistin"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bimire"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:12.628872259Z",
+  "model": "glm-5.3"
+}

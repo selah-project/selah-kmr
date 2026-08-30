@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û Rabşake vegeriya û dît ⟨את⟩ padîşahê Aşûr li dijî Libnayê şer dike, çûnkî bihîstibû ku ew ji Lakîşê hatiye derxistin (çiçûye).",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "û ... vegeriya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "şake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "û ... dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padîşahê Aşûr"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûr"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "şer dike"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnayê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîstibû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "hatiye derxistin (çiçûye)"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ji Lakîşê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:38:37.395493733Z",
+  "model": "glm-5.3"
+}

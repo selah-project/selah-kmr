@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Karên gunehan ji min zêdetir bûn hêzdar; êrîşên me — tu yê wan veşêrî.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "karên"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "gunehan"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "bûn hêzdar"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "êrîşên me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "yê wan veşêrî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:29.143213583Z",
+  "model": "glm-5.3"
+}

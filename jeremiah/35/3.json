@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û min ⟨את⟩ Yaazanya, kurê Yirmeyahu, kurê Xabasnya hildan, û ⟨את⟩ birayên wî, û ⟨את⟩ hemû kurên wî, û ⟨את⟩ hemû mala Rexabîtan.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Û min hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanya"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Xabasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "birayên wî"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "hemû kurên wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "hemû mala Rexabîtan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Rxabîtan"
+    }
+  ],
+  "timestamp": "2026-08-29T21:02:49.581947210Z",
+  "model": "glm-5.3"
+}

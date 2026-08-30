@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û çil û pênc qelpîkên zêr çêkir, û perdeyek bi ya din ve girêda bi qelpîkan, û Mishkan bû yek.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "çil û pênc"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "qelpîkên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "ve girêda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeyan"
+    },
+    {
+      "surface": "הירעת",
+      "gloss": "perdeyan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ya din"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "bi qelpîkan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:35.601958844Z",
+  "model": "glm-5.3"
+}

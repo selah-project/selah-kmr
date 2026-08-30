@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Yeşûa ⟨את⟩ Yoyakim wek kur peyda kir; û Yoyakim ⟨את⟩ Elyeşîb wek kur peyda kir; û Elyeşîb ⟨את⟩ Yoyada wek kur peyda kir.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Û Yeşûa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wek kur peyda kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "û Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wek kur peyda kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyeşîb"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyeşîb"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "û Elyeşîb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-08-30T06:29:53.691756923Z",
+  "model": "glm-5.3"
+}

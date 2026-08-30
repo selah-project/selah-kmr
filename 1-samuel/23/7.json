@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û ji Şaul re hate gotin ku Dawid hatiye Qeyîlayê; û Şaul got: «Elohîm ⟨את⟩ wî daye destê min, çimkî ew hatiye girtin, di ketina wî de, bajarekî bi derî û dîwaran.»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "hate gotin"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji Şaul re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeyîlayê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "daye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Dawid)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "destê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "hatiye girtin"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "di ketina wî de"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "bajarekî"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "bi derî"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "û dîwaran"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:40.570059906Z",
+  "model": "glm-5.3"
+}

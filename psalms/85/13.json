@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Bê guman Yahwe ⟨tiştê⟩ baş dide, û erdê me berhema xwe dide.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bê guman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tiştê baş"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "û erdê me"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "berhema xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:14.297571966Z",
+  "model": "glm-5.3"
+}

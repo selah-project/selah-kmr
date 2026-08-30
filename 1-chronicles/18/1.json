@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Piştî wê çêbû ku Dawid ‹את› Fîlîştînan xist û bin xwe da wan, û ‹את› Gat û gundên wê ji destê Fîlîştînan girt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çêbû"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Fîlîştînan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîştînan"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "bin xwe da wan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "û gundên wê"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîştînan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:39:07.772652972Z",
+  "model": "glm-5.3"
+}

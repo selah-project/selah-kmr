@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Gava ku wî ew kuştin, ew lê geriyan, vegeriyan û bi zûkî û dilsozî Êl lê geriyan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "gava ku"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "wî ew kuştin"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ew lê geriyan"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "vegeriyan"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "bi zûkî û dilsozî geriyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:34.594144616Z",
+  "model": "glm-5.3"
+}

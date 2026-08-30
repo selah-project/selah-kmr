@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Yahwe ji Moşe re got: Kî ku li dijî min guneh kiriye, ê wî ji pirtûka min jê dibim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "guneh kiriye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li dijî min"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "ê wî jê dibim"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "ji pirtûka min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:41.837802455Z",
+  "model": "glm-5.3"
+}

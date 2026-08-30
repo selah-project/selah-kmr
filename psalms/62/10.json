@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Kurên mirovan ⟨tenê⟩ valahî ne, kurên mêran derew in; di teraziyan de ji bo bilindbûnê, ew ji valahiyê tevî hev ⟨siviktir in⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "valahî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "derew"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêran"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "di teraziyan de"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ji bo bilindbûnê"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ji valahiyê"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tevî hev"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:02.841326368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û niha were, ez ê te bişînim cem Paroh, tu jî ⟨את⟩ gelê min — zarokên Yisrael — ji Mîtsrayimê derbîne.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "were"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ez ê te bişînim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "derbîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê min"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:58.863331317Z",
+  "model": "glm-5.3"
+}

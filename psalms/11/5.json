@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Yahwe yê rast diceribîne; û ê şaş û yê ku tundiyê hez dike, canê Wî ji wan nefret dike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yê rast"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "diceribîne"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "û ê şaş"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "û yê ku hez dike"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tundiyê"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nefret dike"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canê Wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:27.823912911Z",
+  "model": "glm-5.3"
+}

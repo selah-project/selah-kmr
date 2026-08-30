@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û bi rastî heke ez çewt kiribe, çewtiya min ⟨אתי⟩ bi min re dimîne.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "û"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "ez çewt kirim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "bi min re"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "dimîne"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "çewtiya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:55:27.919440836Z",
+  "model": "glm-5.3"
+}

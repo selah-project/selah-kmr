@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û Yokshan bû bavê ⟨את⟩ Sheva û ⟨את⟩ Dedan; û kurên Dedan Ashurim û Letushim û Leummim bûn.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "û Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "û Leummim"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:06.724919426Z",
+  "model": "glm-5.3"
+}

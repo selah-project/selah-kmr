@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û hemû gel û hemû Yisraêl wê rojê zanîn ku ne ji key bû ku ⟨את⟩ Abnerê kurê Ner bikuje.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "zanîn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wê rojê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "ji key"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "bikuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abnerê kurê Ner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    }
+  ],
+  "timestamp": "2026-08-29T19:49:18.497323428Z",
+  "model": "glm-5.3"
+}

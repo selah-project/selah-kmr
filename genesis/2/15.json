@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Yahwe Elohîm ⟨את⟩ mirov girt û wî li baxçeyê Eden bi cih kir, da ku wê xebitîne û wê biparêze.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Û girt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirov"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "û wî bi cih kir"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "li baxçeyê"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "da ku wê xebitîne"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "û wê biparêze"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:43.341528710Z",
+  "model": "glm-5.3"
+}

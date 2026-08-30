@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Ji ber ku tu di çavên min de biqîmet î, ezmetdar î, û ez ji te hez dikim; ji bo wê ez ê mirovan şûna te bidim û neteweyan şûna canê te.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "biqîmet î"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên min de"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "ezmetdar î"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "ji te hez dikim"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ez ê ... bidim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "şûna te"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "û neteweyan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "şûna"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:41:00.770080954Z",
+  "model": "glm-5.3"
+}

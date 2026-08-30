@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Bila qurbanên spasdariyê bikin, û karên wî bi stranan bibêjin.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "û bila… qurban bikin"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanên"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "spasdariyê"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "û bila bibêjin"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karên wî"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "bi stranan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:14.997139325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Elohimê min, rojê bang dikim, lê bersîv nadî; û şevê, lê bêdengî ⟨⟨is⟩⟩ nîne ji min re.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimê min"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bang dikim"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê na"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bersîv nadî"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "û şevê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê nîne"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "bêdengî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:10.713432614Z",
+  "model": "glm-5.3"
+}

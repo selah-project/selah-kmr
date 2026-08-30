@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û bi we re ⟨את⟩ ji her eşîrekî zilamek hebe — zilamekî ser malê bavê xwe, ew bi xwe.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "bi we re ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "hebe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ji her…"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "eşîrekî"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamekî"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ser"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew bi xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:56.353859842Z",
+  "model": "glm-5.3"
+}

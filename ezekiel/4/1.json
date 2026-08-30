@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û tu, kurekî mirov, ji xwe re kêrekî bistîne û wê li ber xwe bînin, û li ser wê bî bajarekî xêz bikî — ⟨את⟩ Yeruşalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Û tu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "קח",
+      "gloss": "bistîne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "kêrek"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "Û bînin"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (kêrek)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li ber xwe"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "Û xêz bike"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarekî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:04:17.026455017Z",
+  "model": "glm-5.3"
+}

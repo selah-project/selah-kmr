@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Wê demê di roja ku ez bang bikim, dijminên min paşde vegerin; ez vê dizanim, ku Elohîm ji bo min e.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "paşde vegerin"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paşde"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ku ez bang bikim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ez dizanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:46.053709378Z",
+  "model": "glm-5.3"
+}

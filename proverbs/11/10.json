@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Di qenciya rastdaran de bajêr dilşad dibe, û di wendabûna xerban de qêrîn ⟨heye⟩.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "di qenciya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastdaran"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "dilşad dibe"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "û di wendabûnê de"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "xerban"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "qêrîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:19.435664183Z",
+  "model": "glm-5.3"
+}

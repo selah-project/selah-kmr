@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Hemû van bajaran bires bûn — bi dîwarê bilind, bi derî û bi darsek — ji bilî gundên bêdîwar, ku pir zêde bûn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "bires"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "dîwar"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "derî"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "û darsek"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "gundên"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "bêdîwar"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zêde"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:08.113078174Z",
+  "model": "glm-5.3"
+}

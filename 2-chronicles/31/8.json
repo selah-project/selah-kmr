@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Yehizqiya û serok hatin û ⟨את⟩ koman dîtin, û Yahwe birûmet kirin û ⟨את⟩ gelê wî Îsraêlê jî.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "û hatin"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizqiya"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "û serok"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "û dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koman"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "koman"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "û birûmet kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "gelê wî Îsraêlê"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:53:01.447632343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û ew gazî Yohanan, kurê Qereax, û hemû serkirdeyên hêzan ku ⟨את⟩ bi wî re bûn, û hemû gelê — ji biçûktirîn heta mezin — kir.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Û ew gazî kir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qereax"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ber bi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serkirdeyên"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "hêzan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re",
+      "marks": "bi wî re"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "ji biçûktirîn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T21:07:41.121570569Z",
+  "model": "glm-5.3"
+}

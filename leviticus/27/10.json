@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Wî\/wê naguhêre û naguhêze ⟨את⟩ wê — baş bi xerab an jî xerab bi baş. Û ger ew bi rastî ajalê bi ajalê biguherîne, ew û guhertoya wê dê pîroz bin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "naguhêre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "naguhêze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (ajal)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bi xerab"
+    },
+    {
+      "surface": "או",
+      "gloss": "an jî"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "bi baş"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "המר",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "biguherîne"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ajalê"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "bi ajalê"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "û guhertoya wê"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dê bin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:48.541139907Z",
+  "model": "glm-5.3"
+}

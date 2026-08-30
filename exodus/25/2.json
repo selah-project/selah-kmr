@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "«Bi kûreyên Yisraêl re bibêje ku ji bo min terûmayê bibînin; ji her mêrê ku dilê dibe nav wî de ⟨את⟩ terûmaya min bistînin.»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bibêje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûreyên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ku ... bibînin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terûmayê"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "dilê dibe nav wî de"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "bistînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terûmaya min"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "terûmaya min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:24.712302195Z",
+  "model": "glm-5.3"
+}

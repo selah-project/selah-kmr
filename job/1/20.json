@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Eyûb rabû, ⟨את⟩ kincê xwe qeland û ⟨את⟩ serê xwe kivirand, û ket erdê û serdanî kir.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Eyûb"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "qeland"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincê xwe"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "kincê xwe"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "kivirand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serê xwe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "serê xwe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ket"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "serdanî kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:14.719953030Z",
+  "model": "glm-5.3"
+}

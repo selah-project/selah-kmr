@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Wê derê ⟨את⟩ Avraham û ⟨את⟩ Saraya jina wî veşartine; wê derê ⟨את⟩ Yitsḥaq û ⟨את⟩ Rivkaya jina wî veşartine; û wê derê min ⟨את⟩ Lea veşart.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "wê derê"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "veşartine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina wî"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wê derê"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "veşartine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina wî"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "û wê derê"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "min veşart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:24.696527849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û padîşahê Aşûr ji Babîl, ji Kût, ji Ewa, ji Xemat û ji Sefarwayim kesên hanî û li bajarên Şomeron bi cih kir, şûna kurên Yisraêl; ew ⟨את⟩ Şomeron girtin û li bajarên wê rûniştin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hanî"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûr"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ji Babîl"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "û ji Kût"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "û ji Ewa"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "û ji Xemat"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "û ji Sefarwayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bi cih kir"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "li bajarên"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "şûna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "rûniştin"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "li bajarên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:37.775517128Z",
+  "model": "glm-5.3"
+}

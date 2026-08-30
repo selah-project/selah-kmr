@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ên xizan dîtine û dilşad dibin; ên ku Elohîm digerin — dila we bijî!",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "dîtine"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ên xizan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "dilşad dibin"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "ên ku digerin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "dila we bijî"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:05.576844323Z",
+  "model": "glm-5.3"
+}

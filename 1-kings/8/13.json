@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Avadan avadî kirim, xaneyeke rûniştinê ji te re, ciheke sabît ji bo rûniştina te, heta hertimî.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "avadan"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "avadî kirim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xane"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "rûniştinê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ciheke sabît"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "ji bo rûniştina te"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:57.308540762Z",
+  "model": "glm-5.3"
+}

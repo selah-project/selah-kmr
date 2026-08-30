@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û wî ji wan re got: Na, lê hûn hatine ku tazetiya welêt bibînin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tazetiya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "hûn hatine"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ku bibînin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:24.022200562Z",
+  "model": "glm-5.3"
+}

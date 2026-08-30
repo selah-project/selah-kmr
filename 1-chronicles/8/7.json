@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "û Naaman, û Ahiya, û Gera — ew ⟨bû⟩ yê ku wan sirgûn kir — û ew bavê ⟨את⟩ Uza û ⟨את⟩ Ahihûd bû.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "û Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "û Ahiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "û Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "yê ku wan sirgûn kir"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "û ... bavê ... bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Ahihûd"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ahihûd"
+    }
+  ],
+  "timestamp": "2026-08-30T06:33:23.993663546Z",
+  "model": "glm-5.3"
+}

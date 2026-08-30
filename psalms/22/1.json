@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ji bo yê ku serdike ⟨⟨the⟩⟩ koroyê (l\/5329), li ser \"Ayelet ha-Şahar\" (Diyara Sibehê) — mezmûrek ji Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo yê ku serdike koroyê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayelet"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Şahar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmûrek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:10.712769556Z",
+  "model": "glm-5.3"
+}

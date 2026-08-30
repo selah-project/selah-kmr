@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Li cem min rûne, netirse; ji ber ku yê ku ⟨את⟩ canê min digere ê ⟨את⟩ canê te jî bigere; ji ber ku tu li cem min dihêparî.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "rûne"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ li cem min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tirse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "digere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê min"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "digere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê te"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "dihêparî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "li cem min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:43:58.131674110Z",
+  "model": "glm-5.3"
+}

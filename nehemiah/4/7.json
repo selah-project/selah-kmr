@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Min di binên cih de, piştî dîwarê, di cihên vekirî de rawestand, û min ⟨את⟩ gelê bi malbatan bi şûrên wan, darikên wan û kevanên wan rawestand.",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "min rawestand"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "di binên"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "cih"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "dîwarê"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "di cihên vekirî"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "û min rawestand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "bi malbatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "şûrên wan"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "darikên wan"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "û kevanên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:27:25.388682656Z",
+  "model": "glm-5.3"
+}

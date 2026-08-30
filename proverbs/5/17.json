@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Bila tenê ji te re bin, û ne ji bo biyanan ⟨את⟩ bi te re.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bila ... bin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tenê ji te"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ji bo biyanan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bi te re",
+      "marks": "bi te re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:53.391019695Z",
+  "model": "glm-5.3"
+}

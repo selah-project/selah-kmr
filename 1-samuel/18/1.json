@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û çawa qediya ku bi Shaul re xeber da, canê Yehonatan bi canê Dawid ve hat girêdan, û Yehonatan jî wî hejiband wek canê xwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û çawa qediya"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "ku qediya"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "xeber da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "û canê"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "hat girêdan"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bi canê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "û … hejiband"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan jî"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "wek canê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:46.908547169Z",
+  "model": "glm-5.3"
+}

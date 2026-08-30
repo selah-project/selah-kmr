@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 34:16",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Lê hûn vegeriyan û ⟨את⟩ navê min xirab kirin, û hûn her kes ⟨את⟩ xulamê xwe û her kes ⟨את⟩ keda xwe, ku we bi dilê wan azad şandibû, vegerandin û hûn ⟨אתם⟩ wan bi ser de çûn ku bibin ji bo we xulam û kedar.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "vegeriyan"
+    },
+    {
+      "surface": "ותחללו",
+      "gloss": "xirab kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê min"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "navê min"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "û vegerandin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamê xwe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê xwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "û her kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keda xwe"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "keda xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "şandibû"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "azad"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "bi dilê wan"
+    },
+    {
+      "surface": "ותכבשו",
+      "gloss": "û bi ser de çûn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ku bibin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "xulam"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "û kedar"
+    }
+  ],
+  "timestamp": "2026-08-30T03:38:49.577096965Z",
+  "model": "glm-5.3"
+}

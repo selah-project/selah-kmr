@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Spasî bibêjin Elohîmê elohiman, çimkî heta dawiyê xesedê wî heye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Spasî bibêjin"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "elohiman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:37.678863522Z",
+  "model": "glm-5.3"
+}

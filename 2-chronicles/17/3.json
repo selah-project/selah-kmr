@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Yahwe bi Yehoşafat re bû, çimkî ew di rêyên Dawid, bavê wî, yên pêşin de çûbû, û ji Baalan lê negeriya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "çûbû"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di rêyên…de"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yên pêşin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û…ne"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "lê negeriya"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ji Baalan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:47:54.140005770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Dua ya Dawid. Yahwe, rastiyê bibihîze, guhê xwe bide bangaweriya min, guh bide duaya min — bêyî lêvên xapîniyê.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Dua"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawid"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "guhê xwe bide"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "bangaweriya min"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bêyî"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "xapîniyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:09.354390405Z",
+  "model": "glm-5.3"
+}

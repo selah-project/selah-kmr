@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Çûnkî wek jineke terkkirî û bi dilşikestî ruhekî, Yahwe gazî kir te; û wek jina ciwaniya te, dema tê înadkirin — waha got Elohîmê te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çûnkî"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "wek jineke"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "terkkirî"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "û dilşikestî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "gazî kir te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "û wek jina"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "ciwaniya te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dema"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "tê înadkirin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:47.230303746Z",
+  "model": "glm-5.3"
+}

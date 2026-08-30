@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û axayê Yosef ⟨את⟩ wî girt û ew dan cihê girtîgehê — cihê ku girtiyên key têne girêdan; û ew li wir di girtîgehê de ma.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "axayê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ew dan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "girtîgehê"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "girtiyên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "têne girêdan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di girtîgehê"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:44.233746288Z",
+  "model": "glm-5.3"
+}

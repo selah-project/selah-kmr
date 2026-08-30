@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û ⟨את⟩ êşa Yehuda hildibijart, ⟨את⟩ çiyayê Siyon ê ku wî evî kir.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "hildibijart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êşa Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "êşa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiyayê Siyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "evî kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:19.050461168Z",
+  "model": "glm-5.3"
+}

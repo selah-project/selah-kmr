@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji eşîra Reûbên: ⟨את⟩ Betser û ⟨את⟩ mêtingeha wê, ⟨את⟩ Yahats û ⟨את⟩ mêtingeha wê.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Û ji eşîra"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reûbên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mêtingeha wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mêtingeha wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yahats"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahats"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mêtingeha wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mêtingeha wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:54.062253358Z",
+  "model": "glm-5.3"
+}

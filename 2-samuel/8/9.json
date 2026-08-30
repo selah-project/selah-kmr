@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Toî, keyê Xematê, bihîst ku Dawid ⟨את⟩ tevahî hêza Hedadezer têk dabû.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toî"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xematê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "têk dabû"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahî hêza Hedadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahî"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêza"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hedadezer"
+    }
+  ],
+  "timestamp": "2026-08-29T19:51:42.522840259Z",
+  "model": "glm-5.3"
+}

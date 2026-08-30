@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Ji bo ahmaq re lêva bilind ne xweş e; çi jî ji bo esîrzade lêva derewê.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "xweş e"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ji bo ahmaq re"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lêva"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "bilind"
+    },
+    {
+      "surface": "אף",
+      "gloss": "çi jî"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ji bo esîrzade"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lêva"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:35.377618521Z",
+  "model": "glm-5.3"
+}

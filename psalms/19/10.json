@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Tirsiya Yahwe paqij ⟨e⟩, heta-hertim radiweste; hukmên Yahwe rastî ⟨ne⟩, hemû bi hev re rast ⟨in⟩.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Tirsiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "radiweste"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "heta-hertim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "rast ⟨in⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re hemû"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:25.660191174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Peyvên devê jîrebî ⟨xweşik⟩ in; lê lêvên govan wî bi xwe re daqurtînin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "jîrebî"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xweşik"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "lêvên"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "govan"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "daqurtînin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:46.415213807Z",
+  "model": "glm-5.3"
+}

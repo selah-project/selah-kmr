@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ez ji xwe re bax û fîrdews çêkirin, û di wan de darên her cure fêkî çandim.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "çêkirim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "û fîrdews"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "û çandim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan de"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "darên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her cure"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fêkî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:29.878731090Z",
+  "model": "glm-5.3"
+}

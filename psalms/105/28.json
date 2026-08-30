@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Tarîtî şand û ew tarî bû, û Peyva ⟨את⟩ wî ji nefret nekirin.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarîtî"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "û ew tarî bû"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ji nefret nekirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peyva wî"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "Peyva wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:03.041423262Z",
+  "model": "glm-5.3"
+}

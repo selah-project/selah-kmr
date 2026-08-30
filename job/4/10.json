@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Hûrîna şêr û dengê şêrê hovîk, û diranên şêrikên ciwan tên qutkirin.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "hûrîna"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "şêr"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "û dengê"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "şêrê hovîk"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "û diranên"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "şêrikên ciwan"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "tên qutkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:23.691102486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û ew koçber kir ⟨את⟩ hemû Yeruşalayimê, ⟨את⟩ hemû mezinan, ⟨את⟩ hemû şervanên hêz — deh hezar dîl — û hemû senetkar û hesinkar; kes nemabû, ji bilî feqîrên gelê welêt.",
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "Û ew koçber kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mezinan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "şervanên"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "dîl"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "senetkar"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "û hesinkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kes"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "nemabû"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "feqîrên"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:43.459149162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Heta kengê, Yahwe, gunehkar? Heta kengê gunehkar şên dibin?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "şên dibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:51.910766163Z",
+  "model": "glm-5.3"
+}

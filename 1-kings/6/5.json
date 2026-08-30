@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Wî li ser dîwarê malê srûnek dora wê ava kir — ⟨את⟩ dîwarên malê dora heîkalê û yên Dêbîrê — û kêlek dora wê çêkir.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dîwarê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "srûnek"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîwarên malê"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "dîwarên"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ji bo heîkalê"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "û ji bo Dêbîrê"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "û çêkir"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "kêlek"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora wê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:03:17.491199022Z",
+  "model": "glm-5.3"
+}

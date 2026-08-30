@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Keça Paroh ji wê re got: «Here!» û keça ciwan çû û ⟨את⟩ dayika zarok gazî kir.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "here"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "û çû"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "keça ciwan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "û gazî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dayika zarok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dayika"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarok"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:03.481465420Z",
+  "model": "glm-5.3"
+}

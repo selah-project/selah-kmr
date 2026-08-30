@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û me gazî Yahwe, Elohîmê bavên xwe kir; Yahwe ⟨את⟩ dengê me bihîst û ⟨את⟩ êşên me û ⟨את⟩ xebata me û ⟨את⟩ çewsandina me dît.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê me"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "dengê me"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êşên me"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "êşên me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xebata me"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "xebata me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çewsandina me"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "çewsandina me"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:08.380298314Z",
+  "model": "glm-5.3"
+}

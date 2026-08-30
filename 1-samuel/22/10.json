@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "û ji bo wî ji Yahwe pirsî, û amelekî rêyê da wî, û ⟨את⟩ şûrê Golyatê Filistînî da wî.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "û pirsî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "û amelekî rêyê"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şûrê Golyatê Filistînî"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûrê"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistînî"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:07.094134238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ma min sê caran ji te re nenivîsî, bi şîretan û zanînê?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma … ne"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "min … nenivîsî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "sê caran"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "bi şîretan"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "û zanînê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:23.439993309Z",
+  "model": "glm-5.3"
+}

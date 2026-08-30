@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "⟨את⟩ ji biyaniyî tu dikarî talab bikî, lê tiştê ku te ⟨את⟩ ji birayê te heye, destê te wê berde.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ji biyaniyî"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "biyaniyî"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "tu dikarî talab bikî"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lê tiştê ku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "heye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ji birayê te"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "wê berde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:57.031017991Z",
+  "model": "glm-5.3"
+}

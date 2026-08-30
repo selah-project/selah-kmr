@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Xwe bişon, xwe paqij bikin, xerabiya kirinên xwe ji ber çavên min rakin; êdî dev ji xerabiyê berdin.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "xwe-bişon"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "xwe-paqij-bikin"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "rakin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabiya"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "kirinên-we"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ji-ber"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên-min"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "êdî-dev-jê-berdin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerabî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:36:01.324008375Z",
+  "model": "glm-5.3"
+}

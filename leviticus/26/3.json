@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ger hûn di hukmên min de biçe rê û ⟨את⟩ fermanên min biparêzin û ⟨את⟩ wan bikin —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "di hukmên min de"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "biçe rê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "fermanên min"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "fermanên min"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "ו עשיתם",
+      "gloss": "û bikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:23.143345933Z",
+  "model": "glm-5.3"
+}

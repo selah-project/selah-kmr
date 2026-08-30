@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Rêya min û extê min tu berdidî, û bi hemû rêyên min re tu aşitayî.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Rêya min"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "û extê min"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "tu berdidî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rêyên min"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "tu aşitayî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:02.701878462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Laşê min ji te ve nehat veşartin, dema ku ez di cihê veşartî de hatime çêkirin, û di kûrên erdê de hatime nexoşandin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "nehat veşartin"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "laşê min"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ji te ve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hatime çêkirin"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di cihê veşartî de"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "hatime nexoşandin"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "di kûrên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:50.293083282Z",
+  "model": "glm-5.3"
+}

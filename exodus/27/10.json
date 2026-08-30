@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û stûnên wê bîst in û bingehên wana bîst, ji pextî; qeyikên stûnan û zincîrên wana ji zîv.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "Û stûnên wê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "Û bingehên wana"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ji pextî"
+    },
+    {
+      "surface": "וקל... ווי",
+      "gloss": "qeyikên"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stûnan"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "Û zincîrên wana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ji zîv"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:29.705888649Z",
+  "model": "glm-5.3"
+}

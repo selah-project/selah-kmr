@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û ‹את› Moab xist, û Moabî bûn xulamên Dawid, yên baco anîn.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabî"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ji bo Dawid \/ ên Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "baco"
+    }
+  ],
+  "timestamp": "2026-08-30T06:39:07.772913644Z",
+  "model": "glm-5.3"
+}

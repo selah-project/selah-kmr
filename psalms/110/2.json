@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 110,
+  "translation": "Çetoya hêza te Yahwe ji Siyonê dişîne: «Hukim bike di nava dijminên te de.»",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "çetoya"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hêza te"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "dişîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ji Siyonê"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "hukim bike"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dijminên te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:23.289967891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Tu tiştê qirêj naxwî.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "naxwî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tiştê"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "qirêj"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:31.866773739Z",
+  "model": "glm-5.3"
+}

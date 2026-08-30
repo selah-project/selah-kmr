@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Tu, Yahwe, wê wan biparêzî; tu wê ⟨ji⟩ vê neslê heta hertimî biparêzî.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "wê wan biparêzî"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "wê ... biparêzî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "vê neslê"
+    },
+    {
+      "surface": "זו",
+      "gloss": "vê"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:02.530225780Z",
+  "model": "glm-5.3"
+}

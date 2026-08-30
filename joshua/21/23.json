@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji eqîla Dan: ⟨את⟩ Elteqe û ⟨את⟩ derdora wê, ⟨את⟩ Gîbeton û ⟨את⟩ derdora wê.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Û ji eqîla"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteqe"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteqe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "derdora wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "derdora wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gîbeton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gîbeton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "derdora wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "derdora wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:58.495089171Z",
+  "model": "glm-5.3"
+}

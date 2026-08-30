@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û ⟨את⟩ yekê ji kûrkan an ji kurên kevokê, ji ya ku destê wî digihîje, dê çêke.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dê çêke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yekê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "kûrkan"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kevokê"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ji ya ku"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "digihîje"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:44.083482507Z",
+  "model": "glm-5.3"
+}

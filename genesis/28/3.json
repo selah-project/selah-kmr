@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Êl Şaday (Êl ê Karîndar) te ⟨את⟩ pîroz bike, te berhemdar bike û zêde bike, û tu bî komek gelan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "û Êl"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şaday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pîroz bike"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "berhemdar bike"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "zêde bike"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "û tu bî"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "komek"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:47:24.387554486Z",
+  "model": "glm-5.3"
+}

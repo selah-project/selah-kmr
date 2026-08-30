@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Di dema pîrbûnê de Avêje min der; dema hêza min xilas dibe, Behêle min.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "behêle (neke)"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "avêje min der"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "di dema"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "pîrbûnê"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "dema... xilas dibe"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "behêle (neke)"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "behêle min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:00.465909923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Û bibîne ger rêyeke bi êş di min de heye, û min bibe ser rêya everê.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "û bibîne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rêyek"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "bi êş"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di min de"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "û min bibe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ser rêya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "everê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:51.654132713Z",
+  "model": "glm-5.3"
+}

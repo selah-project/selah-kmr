@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Ez ê bişînim li ser wan ⟨את⟩ şûr, ⟨את⟩ birçîbûnê û ⟨את⟩ belayê, heta ku ji erdê ku min daye wan û bavên wan biqelin.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ez ê bişînim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şûr"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "şûr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birçîbûnê"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "birçîbûnê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "belayê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "belayê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "biqelin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min daye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "û bavên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:58:21.974496515Z",
+  "model": "glm-5.3"
+}

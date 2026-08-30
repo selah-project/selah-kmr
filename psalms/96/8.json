@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Bidin bo Yahwe rûmeta navê wî; pêşkêşiyê hildin û bo rûyên wî werin.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bo Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "hildin"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pêşkêşî"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "û werin"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "bo rûyên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:57.781700296Z",
+  "model": "glm-5.3"
+}

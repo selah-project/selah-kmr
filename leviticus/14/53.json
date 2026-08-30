@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û teyra zindî ⟨את⟩ ber bi dervayê bajêr, ber bi rûyê zeviyê şand, û ji bo xanî kefîrat kir, û ⟨ew⟩ paqij bû.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Û şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teyra zindî"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "teyra"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dervayê"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "û kefîrat kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "û paqij bû"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:35.885468674Z",
+  "model": "glm-5.3"
+}

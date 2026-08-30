@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Hate serbilindî, û şerm hat, û ⟨bi⟩ ⟨את⟩ xwekirayan re jîrî ⟨heye⟩.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "serbilindî"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û … hat"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "şerm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xwekirayên (tsenû'im)"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "xwekirayan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:31.564482902Z",
+  "model": "glm-5.3"
+}

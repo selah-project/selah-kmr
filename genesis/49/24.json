@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 49:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Kebera wî di metînîyê da maye û destên milê wî ji destên Hêzdarê Yaqûb hatin zexmkirin — ji wir ⟨hat⟩ Şivan, Kevira Îsraêl.",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "ma"
+    },
+    {
+      "surface": "באיתן",
+      "gloss": "di metînîyê da"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "kebera wî"
+    },
+    {
+      "surface": "ויפזו",
+      "gloss": "hatin zexmkirin"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "milê"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ji destên"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Hêzdar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaîqûb"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Şivan"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Kevira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:22.054499013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 82,
+  "translation": "Feqîr û xizan rizgar bikin, ji destê rezilan wan halîn.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "rizgar bikin"
+    },
+    {
+      "surface": "דל",
+      "gloss": "Feqîr"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û xizan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rezilan"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "wan halîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:41.241549Z",
+  "model": "glm-5.3"
+}

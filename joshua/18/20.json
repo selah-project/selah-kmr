@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Yardan wê ⟨את⟩ ji aliyê rojhilat ve sînor dikir. Ev mîratiya zarokên Binyamîn bû, bi sînorên wê dora dor, li gorî malbatên wan.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "û Yardan"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "sînor dikir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ji aliyê"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "rojhilat ve"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mîratîya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamîn"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "bi sînorên wê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora dor"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:20:53.577697825Z",
+  "model": "glm-5.3"
+}

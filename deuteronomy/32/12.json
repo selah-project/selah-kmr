@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Yahwe bi tenê wî rê nîşan da; û Êlêkî biyanî bi wî re nebû.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "bi tenê"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "rê nîşan da"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û… nebû"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êlêkî"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "biyanî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:11:51.741512708Z",
+  "model": "glm-5.3"
+}

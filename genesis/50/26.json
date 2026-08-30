@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Û Yosef çû, kurekî sed û deh salan; û ew hişandin (mumyekirin) û ew danîn di ⟨את⟩ tabûtê de, di Mîtsrayimê de.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Û ... çû (mir)"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurekî"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "û deh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "û ew hişandin (mumyekirin)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî",
+      "marks": "wî (Yosef)"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "û ew danîn"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "di tabûtê de"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mîtsrayimê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:13.279176973Z",
+  "model": "glm-5.3"
+}

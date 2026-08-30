@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û mirov tê çalkirin û mêr tê nîzmîn, û çavên serbilindan jî tên nîzmîn.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "tê çalkirin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "tê nîzmîn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "û çavên"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "serbilindan"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "jî tên nîzmîn"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:06.789995150Z",
+  "model": "glm-5.3"
+}

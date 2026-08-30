@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 125,
+  "translation": "Ji ber ku gurzê sûcdaran li ser parê sîwanan ranabe, da ku sîwan destên xwe berbi sûcê nedin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "disekine"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "gurz"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sûcdar"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "par"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "sîwanan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "nedin"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "sîwan"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "berbi sûcê"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:59.390418202Z",
+  "model": "glm-5.3"
+}

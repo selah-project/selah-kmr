@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Bila li erdê li serê çiyan firehiya genim hebe, berê wî wek Lubnan bizivire, û ji bajaran wek giyayê erdê bihûr bibin.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bila ... hebe"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "firehiya"
+    },
+    {
+      "surface": "בר",
+      "gloss": "genim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erdê"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "li serê"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyan"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "bizivire"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "wek Lubnan"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "berê wî"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "û bihûr bibin"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ji bajaran"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "wek giyayê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:53.766665343Z",
+  "model": "glm-5.3"
+}

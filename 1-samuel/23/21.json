@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Şaul got: «Hûn ji aliyê Yahwe ve bêrûnkirî ne, ji ber ku hûn dilovanî bi min kirin.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "bêrûnkirî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji aliyê Yahwe ve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "hûn dilovanî kirin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bi min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:44.552508434Z",
+  "model": "glm-5.3"
+}

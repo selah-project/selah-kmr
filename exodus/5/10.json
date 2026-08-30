@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û ajeykarên ⟨⟨gel⟩⟩ û serkarên wî derketin, û ji gel re gotin, ku: Waha got Firavn: «Ez ê ji we re nîskî (tebin) nedin.»",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "ajeykarên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "û serkarên wî"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û… gotin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כה",
+      "gloss": "waha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firavn"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ez… ninim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dinim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "tebin (nîskî)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:53.767507770Z",
+  "model": "glm-5.3"
+}

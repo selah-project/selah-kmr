@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Bi stranan şerab nayê vexwarin; ji vexwaran re şeraba tund tal dibe.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "bi stranan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "vexwarin"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şerab"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "tal dibe"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "şeraba tund"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "ji vexwaran re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:02.144442572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 13:21",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û biha ⟨pîm⟩ bû ji bo cûtanan, ji bo omentan, ji bo çangalên sê-diranan, ji bo hêriyan, û ji bo rastkirina mexûran.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "הפצירה",
+      "gloss": "biha"
+    },
+    {
+      "surface": "פים",
+      "gloss": "⟨pîm⟩"
+    },
+    {
+      "surface": "למחרשת",
+      "gloss": "ji bo cûtanan"
+    },
+    {
+      "surface": "ולאתים",
+      "gloss": "û ji bo omentan"
+    },
+    {
+      "surface": "ולשלש",
+      "gloss": "û ji bo sê"
+    },
+    {
+      "surface": "קלשון",
+      "gloss": "diranên çangalê"
+    },
+    {
+      "surface": "ולהקרדמים",
+      "gloss": "û ji bo hêriyan"
+    },
+    {
+      "surface": "ולהציב",
+      "gloss": "û ji bo rastkirina"
+    },
+    {
+      "surface": "הדרבן",
+      "gloss": "mexûr"
+    }
+  ],
+  "timestamp": "2026-08-29T19:39:23.000528744Z",
+  "model": "glm-5.3"
+}

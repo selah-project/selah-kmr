@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ⟨את⟩ Hukok û ⟨את⟩ zozanên wê, û ⟨את⟩ Rehob û ⟨את⟩ zozanên wê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Hukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zozanên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Rehob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zozanên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:12.801516501Z",
+  "model": "glm-5.3"
+}

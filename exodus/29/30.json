@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Heft rojan yê ku şûnda wî ji lawên wî kîn dibe, wê wan li xwe bike, ê ku derbasî çadira civînê dibe da di cihê pîroz de xizmet bike.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "wê wan li xwe bike"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kîn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûnda wî"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ji lawên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "derbasî dibe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "derbasî"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "da xizmet bike"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di cihê pîroz de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:48.410240767Z",
+  "model": "glm-5.3"
+}

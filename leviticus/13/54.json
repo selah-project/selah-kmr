@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û kohen ferman dike ku ⟨את⟩ tiştê ku nexweşî tê de ye bişon, û ⟨ew⟩ heft rojan carekî din dide girtin.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ferman dike"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "bişon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku nexweşî tê de ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nexweşî"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "dide girtin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "roj"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "carekî din"
+    }
+  ],
+  "timestamp": "2026-08-29T18:28:53.052952633Z",
+  "model": "glm-5.3"
+}

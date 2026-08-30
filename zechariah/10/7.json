@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 10:7",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Efrayim ê wek şervanekî be, û dilê wan ê şa be wek şerabê, û zarokên wan ê bibînin û şa bibin, dilê wan ê di Yahwe de bi coş be.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "û ... ê be"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "wek şervanekî"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "û şa be"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wek"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şerabê"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "û zarokên wan"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ê bibînin"
+    },
+    {
+      "surface": "ושמחו",
+      "gloss": "û şa bibin"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "bi coş be"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:09:38.512614438Z",
+  "model": "glm-5.3"
+}

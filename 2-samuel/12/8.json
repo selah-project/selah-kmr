@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "«Û min ⟨את⟩ mala xwediyê te daye te û ⟨את⟩ jinên xwediyê te di baskên te de; û min ⟨את⟩ mala Yisraêl û Yehûdah daye te; û ger ev kêm bûna, min dê vêca û wîsa li te zêde bikira.»",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Û min … daye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala xwediyê te"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "xwediyê te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jinên xwediyê te"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "jinên"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "xwediyê te"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "di baskên te de"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "û min … daye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala Yisraêl û Yehûdah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Û Yehûdah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kêm bûna"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "min dê … zêde bikira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li te"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "vêca"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "û wîsa"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:18.020420464Z",
+  "model": "glm-5.3"
+}

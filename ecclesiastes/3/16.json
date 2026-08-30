@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ê din jî min di binê rojê de dît: di cihê dadê de şerîtî ⟨heye⟩, û di cihê rastiyê de şerîtî ⟨heye⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Û ê din jî"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min … dît"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di binê"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê de"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di cihê"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "dadê de"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "şerîtî"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "û di cihê"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "rastiyê de"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "şerîtî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:52.683179868Z",
+  "model": "glm-5.3"
+}

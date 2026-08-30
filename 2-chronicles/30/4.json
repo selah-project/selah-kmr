@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û peyv di çavên şah de û di çavên tevî civatê de rast derket.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "rast derket"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyv"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên ... de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "û di çavên ... de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevî"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "civatê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:52:42.727146485Z",
+  "model": "glm-5.3"
+}

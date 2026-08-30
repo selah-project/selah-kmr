@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Ew hemû hestiyên wî diparêze; yek ji wan nayê şikandin.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "hestiyên wî"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "tê şikandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:13.133462858Z",
+  "model": "glm-5.3"
+}

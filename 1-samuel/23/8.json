@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Şaul ⟨את⟩ hemû xelkê bi cem kir bo şer, ji bo daketina Qeyîlayê, dorpêça Dawid û mêrên wî bike.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bi cem kir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû xelkê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xelkê"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "bo şer"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ji bo daketina"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeyîlayê"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dorpêç bike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "mêrên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:40.570265258Z",
+  "model": "glm-5.3"
+}

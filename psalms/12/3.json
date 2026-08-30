@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Derewê diaxivin, her kesî bi ⟨את⟩ hevalê xwe re; lêvên nerm û xweşik, bi dil û dil, diaxivin.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "derewê"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "diaxivin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kesî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê xwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lêvên"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "nerm û xweşik"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "bi dil"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "û dil"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "diaxivin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:40.139325750Z",
+  "model": "glm-5.3"
+}

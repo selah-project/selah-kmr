@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 23:22",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "«Hûn herin, ez dixwazim, hîn bêhtir amade bin, û bizanibin û bibînin ⟨את⟩ cihê wî, ku lingê wî li ku derê ye, kî ew li wir dîtiye; ji ber ku ji min re hatiye gotin ku ew pir serrast e.»",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "hûn herin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ez dixwazim"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "amade bin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn bêhtir"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "û bizanibin"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "û bibînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cihê wî"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "cihê wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "lingê wî"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "ראהו",
+      "gloss": "ew dîtiye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hatiye gotin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "serrast"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "pir serrast e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:44.552982962Z",
+  "model": "glm-5.3"
+}

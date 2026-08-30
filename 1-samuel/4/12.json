@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û zilamekî ji Benyamîn ji rêza cengê reviya û wê rojê hat Şîloyê; kincên wî qelişandî bûn û ax li ser serê wî bû.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "Û reviya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamekî"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ji Benyamîn"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "ji rêza cengê"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Şîloyê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê de"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "kincên wî"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "qelişandî"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "û ax"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "serê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:47.465907146Z",
+  "model": "glm-5.3"
+}

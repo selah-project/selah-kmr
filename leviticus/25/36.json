@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Sûd û zêde ji ⟨את⟩ wî negire, û ji Elohîmên xwe bitirse, da ku birayê te bi te re bijî.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "negire"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ji ⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "sûd"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "û zêde"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "bitirse"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ji Elohîmên xwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "bijî"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:51.368182627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 16:24",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û wî çiyayê Şomeronê ji ⟨את⟩ Şemerî bi du kîkaran zîv kirî, û wî çiyê ava kir, û navê bajarê ku wî çêkiribû, li gorî navê Şemer, xwediyê çiyê, Şomeron binav kir.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "kirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiyayê Şomeronê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeronê"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Şemerî"
+    },
+    {
+      "surface": "בככרים",
+      "gloss": "bi du kîkaran"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ava kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiyê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "binav kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Şemer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "xwediyê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:43.755414269Z",
+  "model": "glm-5.3"
+}

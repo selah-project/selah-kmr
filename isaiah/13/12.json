@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ez ê yê fanî ji zêrê ron kêmtir bikim, û mirov jî ji zêrê pak ê Ophîr.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ez ê kêmtir bikim"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yê fanî"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "ji zêrê ron"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ji zêrê pak"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophîr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:18.353467670Z",
+  "model": "glm-5.3"
+}

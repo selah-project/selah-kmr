@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Rûyê xwe berî min bigerîne û ji min re dilovanîyê bike; hêza xwe bide xulamê xwe, û kurê kêlika xwe rizgar bike.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Rûyê xwe bigerîne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "berî min"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "û dilovanîyê bide min"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "bide"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hêza te"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "bo xulamê te"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "û rizgar bike"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bo kurê"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kêlika te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:26.361966094Z",
+  "model": "glm-5.3"
+}

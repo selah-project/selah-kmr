@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Bila şerm bikin û rûreş bibin, bi hev re, lêgerînên giyanê min, yên ku dixwazin wê tunekin; bila paşve vegerin û bila bi rûmetî bin, kêfdarên xerabiya min.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "şerm bikin"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "rûreş bibin"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "lêgerînên"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "giyanê min"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "dixwazin wê tunekin"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "paşve vegerin"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paş"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "bi rûmetî bin"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kêfdarên"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "xerabiya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:03.130797127Z",
+  "model": "glm-5.3"
+}

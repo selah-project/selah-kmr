@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Ew wek şînikekê li ber wî bilind bû û wek reh ji erdeke ziwa; şikil ji bo wî tune bû û ne jî şan, û me wî dît û tu dîmenî tune bû ku em ji wî hez bikin.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bilind bû"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "wek şînikekê"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li ber wî"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "û wek reh"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erd"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ziwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "şikil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "şan"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "û me wî dît"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "dîmen"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "ji wî hez bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:01.021881136Z",
+  "model": "glm-5.3"
+}

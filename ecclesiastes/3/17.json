@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ez di dilê xwe de gotim: Elohîm ê ⟨את⟩ sisdar û ⟨את⟩ gunehkar daraze, çimkî dem ji bo her daxwazî û li ser her karî li wir ⟨heye⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "gotim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "di dilê xwe de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisdar"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "sisdar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gunehkar"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "daraze"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo her"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "daxwazî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "karî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:03.639324362Z",
+  "model": "glm-5.3"
+}

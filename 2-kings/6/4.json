@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ⟨wî⟩ bi ⟨את⟩ wan re çû, û ew hatin Yardenê, û darên jê kirin.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "û ⟨wî⟩ çû"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ … re"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "û ew hatin"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yardenê"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "û jê kirin"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "darên"
+    }
+  ],
+  "timestamp": "2026-08-29T20:15:48.901679931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Li ser te hatime piştgirtîkirinê ji zikê ve; ji hêkên diya min tu ez qut kirim. Pesna min a her timî ji te ⟨derdikeve⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "hatime piştgirtîkirinê"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ji zikê ve"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ji hêkên"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "diya min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ez qut kirim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ji te"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "pesna min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a her timî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:51.789511924Z",
+  "model": "glm-5.3"
+}

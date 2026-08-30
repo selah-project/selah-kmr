@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Di goştê min de tu saxlemî nîne, ji ber qehirê te; di hestiyên min de tu arazî nîne, ji ber gunehê min.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tu … nîne"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "saxlemî"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "di goştê min de"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "qehirê te"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tu … nîne"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "arazî"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "di hestiyên min de"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunehê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:28.489994230Z",
+  "model": "glm-5.3"
+}

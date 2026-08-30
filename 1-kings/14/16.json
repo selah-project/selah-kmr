@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û ê Yisraêl ⟨את⟩ berde, ji ber gunehên Yarav'am — ku wî guneh kir û ku wî bi Yisraêl ⟨את⟩ kirine gunehkar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "berde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "gunehên"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "guneh kir"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ku"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "kirine gunehkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:13.816585857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ji bo ku ez ⟨את⟩ malbata Yisraêlê di dilê wan de bigirim — ew ku bi hemû putên xwe ji min dûr ketine.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "bigirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malbata Yisraêlê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "di dilê wan de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ew ku"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "dûr ketine"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "bi putên xwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemû wan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:47:39.050002379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û mijekî ji erdê bilind dibû û ⟨את⟩ tevahiya rûyê xakê dişiland.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "Û mijekî"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bilind dibû"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "û dişiland"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya rûyê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "xakê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:33.747545699Z",
+  "model": "glm-5.3"
+}

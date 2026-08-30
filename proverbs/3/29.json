@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Li dijî hevalê xwe xerabîyê nexasire, û ew ⟨את⟩ bi ewlehî li cem te rûniştî ye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "nexasire"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "hevalê te"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "rûniştî ye"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bi ewlehî"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "li cem te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:29.601236Z",
+  "model": "glm-5.3"
+}

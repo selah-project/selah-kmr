@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û wî daxwaza wan da wan, lê ziravî şand nav canê wan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Û wî da"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "daxwaza wan"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lê şand"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ziravî"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "nav canê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:40.146694806Z",
+  "model": "glm-5.3"
+}

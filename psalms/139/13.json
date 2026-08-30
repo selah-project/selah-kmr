@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Ji ber ku tu gurçikên min afirand, tu min di zikê diya min de pecivand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "afirand"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "gurçikên min"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "pecivand"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "di zikê de"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "diya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:50.292622639Z",
+  "model": "glm-5.3"
+}

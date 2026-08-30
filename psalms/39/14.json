@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Çav ji min bar bike, da ku ez xwe şa bibînim, berî ku ez biçim û êdî nevim.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "çav bar bike"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "û ez xwe şa bibînim"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "berî ku"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ez biçim"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "û êdî nevim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:22.671364874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji bo kenê didar çêdikin, û şerab jiyanê şa dike, û zîr ⟨את⟩ hemû tiştan bersivê dide.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ji bo kenê"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "çêdikin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "didar"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "û şerab"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "şa dike"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "jiyanê"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "û zîr"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bersivê dide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hemû tişt"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:22.006850827Z",
+  "model": "glm-5.3"
+}

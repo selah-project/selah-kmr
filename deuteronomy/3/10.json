@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Hemû bajaran ên deştê, û hemû Gîleadê, û hemû Başanê heta Salxa û Edreî — bajarên keyatiya Og li Başanê.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "deştê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gîleadê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Başanê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salxa"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "û Edreî"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "keyatiya"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "li Başanê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:31.321416491Z",
+  "model": "glm-5.3"
+}

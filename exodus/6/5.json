@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Her wha ez ⟨את⟩ êşên zarokên Yisraêl bihîstine — yên ku Mitzrayim ⟨את⟩ wan bi zor dixebitîne — û ez ⟨את⟩ peymana xwe bi bîr anî.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Her wha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "bihîstine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êşên zarokên Yisraêl"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "êşên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "bi zor dixebitîne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "û ez bi bîr anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:26.244132514Z",
+  "model": "glm-5.3"
+}

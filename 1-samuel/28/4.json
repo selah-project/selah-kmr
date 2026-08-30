@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Pelîştî kom bûn û hatin û li Şûnem danîn. Û Şaûl ⟨את⟩ hemû Îsraêl civand, û ew li Gîlboa danîn.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "kom bûn"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelîştî"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "li Şûnem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "civand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû Îsraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "li Gîlboa"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:01.320929727Z",
+  "model": "glm-5.3"
+}

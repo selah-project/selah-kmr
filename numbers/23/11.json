@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 23:11",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Balak ji Bilam re got: “Te çi ji min re kir? Min te anî da ku tu dijminên min nifir bikî, û lê wa, tu wan bi rastî pirsimdand.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "לקב",
+      "gloss": "nifir bikî"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "Min te anî"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û lê wa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "tu wan pirsimdand"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bi rastî pirsimdand"
+    }
+  ],
+  "timestamp": "2026-08-29T18:51:19.613867424Z",
+  "model": "glm-5.3"
+}

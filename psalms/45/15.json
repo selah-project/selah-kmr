@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Bi doşemên rengîn tê anîn ber bi keyî ve; di pesbên wê yên keç yên dû re tên li cem te.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "bi doşemên rengîn"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "tê anîn"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ber bi keyî ve"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "keç"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "di … re"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "pesbên wê"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "tên"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li cem te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:00.724468651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Yaaqov serê sibehê rabû, ⟨את⟩ kevirê ku danibû binê serê xwe hilda û wek ⟨את⟩ stûnekê danî, û rûn li ser serê wê rijand.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "serê sibehê rabû"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di sibehê de"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "û hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevir"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kevir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danibû"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "binê serê xwe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "û danî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "stûn"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stûn"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "û rijand"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "serê wê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:19.177238925Z",
+  "model": "glm-5.3"
+}

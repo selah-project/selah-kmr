@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Medyet nede, ey Yahwe, xwestekên şerîzî; planê wî yê şer derneke, da ku bilind nebin. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "xwestekên"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şerîzî"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "planê wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "derneke"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "bilind nebin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:56.249060888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Dem lêgerînê ye û dem windakirinê; dem parastinê ye û dem avêtinê.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "lêgerînê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "windakirinê"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "parastinê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "avêtinê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:47.254307937Z",
+  "model": "glm-5.3"
+}

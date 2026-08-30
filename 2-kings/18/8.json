@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ew ⟨את⟩ Filistînan heta Ezzayê xor kir û ⟨את⟩ sînorên wê, ji birca parêzvanan heta bajarê birca-parastî.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "xor kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistînan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistînan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ezzayê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sînorên wê"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sînorên wê"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "ji birca"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "parêzvanan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "birca-parastî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:51.164515060Z",
+  "model": "glm-5.3"
+}

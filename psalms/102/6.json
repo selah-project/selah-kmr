@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Ji dengê henanîna min hestiyên min li goştê min zeliqîne.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ji dengê"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "henanîna min"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "zeliqîne"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "hestiyên min"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "li goştê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:06.865749338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Wê gavê Yehoşua gazî Reubenîyan, Gadîyan û nîvê êla Menaşê kir.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wê gavê"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "gazî … kir"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Reubenîyan"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "Gadîyan"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "û nîvê"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "êlê"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:23:18.132116659Z",
+  "model": "glm-5.3"
+}

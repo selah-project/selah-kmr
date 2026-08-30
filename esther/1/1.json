@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Qewimî ⟨di⟩ rojên Axweşveroş — ew Axweşveroş keyê ku ji Hîndû heta Kûş ji sed û bîst û heft welatan re keyanî dikir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "qewimî"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "di rojên"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axweşveroş"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axweşveroş"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "keyê ku"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "ji Hîndû"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kûş"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "bîst û"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "sed û"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "welatan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:41.482223669Z",
+  "model": "glm-5.3"
+}

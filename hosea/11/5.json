@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ew ê nê zivire welatê Mîtsrayim, û Ashur — ew ê bibin keyê wî, çimkî ew red kirin ku bizivirin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nê"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bizivire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "û Ashur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "keyê wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "red kirin"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "bizivirin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:25.405823555Z",
+  "model": "glm-5.3"
+}

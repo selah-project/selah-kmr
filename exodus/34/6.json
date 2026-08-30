@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 34:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û Yahwe ji ber rûyê wî derbas bû û bang kir: Yahwe, Yahwe, Êl dilovan û keremdar, dirêj-hêrs, û bi xesedê mezin û rastî.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bang kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "dilovan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "û keremdar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dirêj"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "hêrs"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û mezin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "û rastî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:54.265969989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Moşe ⟨את⟩ jina xwe û ⟨את⟩ kurên xwe girt, wan siwarî kerê kir û vegerîya bo welatê Mîtsrayimê; û Moşe ⟨את⟩ dirêja Elohîm girt di destê xwe de.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina xwe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurên xwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "siwarî kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "kerê"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "vegerîya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "bo welat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirêja Elohîm"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dirêja"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:12.183743811Z",
+  "model": "glm-5.3"
+}

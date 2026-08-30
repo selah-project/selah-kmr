@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Gel bi çala ku çêkirine ve ketine; di toreyê ku ew veşartibûn, lingê wan hatiye girtin.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "ketine"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "bi çala"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "çêkirine"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "di toreyê"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ku ew"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "veşartibûn"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "hatiye girtin"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "lingê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:22.264513444Z",
+  "model": "glm-5.3"
+}

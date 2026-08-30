@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Yarê min bersiv da û ji min re got: Rabe, ya yarê min, ya ya rûda min, were û bi me re here.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "yarê min"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "û … got"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "were û … here"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ya yarê min"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "ya rûda min"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "û here"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bi me re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:12.971257328Z",
+  "model": "glm-5.3"
+}

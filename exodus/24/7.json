@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û pirtûka peymanê hilgirt û di guhên gel de xwend, û ⟨ewan⟩ gotin: \"Hemû tiştê ku Yahwe axivîye, wê em bikin û wê em bihîzin.\"",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hilgirt"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pirtûka"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "peymanê"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "xwend"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di guhên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivîye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "wê em bikin"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "û wê em bihîzin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:27.051650585Z",
+  "model": "glm-5.3"
+}

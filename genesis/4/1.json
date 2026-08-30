@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û mirov ⟨את⟩ Chawa, jîna xwe, nas kir; ew ducan bû û ⟨את⟩ Kaynîn zayî, û got: “Min bi Yahwe ⟨את⟩ mêrek bi dest xist.”",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "û mirov"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nas kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jîna wî"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ducan bû"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaynîn"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaynîn"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "min bi dest xist"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bi",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:03.083672873Z",
+  "model": "glm-5.3"
+}

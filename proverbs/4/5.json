@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Hîkmetê bi dest bixe, têgihîştinê bi dest bixe; ji bîr neke û ji gotinên devê ⟨min⟩ ne zû devê berde.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "bi dest bixe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hîkmetê"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bi dest bixe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "têgihîştinê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ji bîr bike"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ne devçî"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ji gotinên"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:11.383844760Z",
+  "model": "glm-5.3"
+}

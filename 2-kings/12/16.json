@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "û bi ⟨את⟩ wan mêran re, ku ⟨את⟩ zîvê bi destê xwe didan ji bo dayîna bikarhênerên xebatê, hesab nayê kirin, ji ber ku ew bi rastbûnê kar dikin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û nayê"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "hesabkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wan mêran"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wan mêran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "didan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zîvê"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîvê"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ji bo dayîna"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "bikarhênerên"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "xebatê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "bi rastbûnê"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "kar dikin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:08.530413620Z",
+  "model": "glm-5.3"
+}

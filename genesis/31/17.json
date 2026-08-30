@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û Yaakob rabû û ⟨את⟩ kurên xwe û ⟨את⟩ jinên xwe hilda da li ser hêstiran.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên xwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jinên xwe"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jinên xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "hêstiran"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:13.297390383Z",
+  "model": "glm-5.3"
+}

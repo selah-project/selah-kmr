@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Wê çaxê bavê wî û diya wî bigirin wî, û ⟨את⟩ wî derînin ber bi kalên bajêrê wî û ber bi deriyê cihê wî.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "bigirin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "û diya wî"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "û derînin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "bajêrê wî"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ber bi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "cihê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:33.378434916Z",
+  "model": "glm-5.3"
+}

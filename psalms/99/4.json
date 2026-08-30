@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 99,
+  "translation": "Û hêza padîşah dadparî hez dike; ⟨tu⟩ rastî danî, dad û merîyetî li Yaqûbê ⟨tu⟩ kirî.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "û hêz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dad"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hez dike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "danî"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dad"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "û merîyetî"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "li Yaqûbê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:57.041359594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 113,
+  "translation": "Ê xwe nizm dike da ku li ezmanan û li erdê binêre.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ê xwe nizm dike"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da ku binêre"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "li ezmanan"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "û li erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:30.654236780Z",
+  "model": "glm-5.3"
+}

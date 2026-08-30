@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Ji ber ku hûn ⟨את⟩ mêzehên wan dêrin, ⟨את⟩ sûtunên wan dişkînin û ⟨את⟩ darên Aşera yên wan jî dibirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêzehên wan"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mêzehên wan"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "dêrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sûtunên wan"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "sûtunên wan"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "dişkînin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darên Aşera"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "darên Aşera"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "dibirin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:50.666476798Z",
+  "model": "glm-5.3"
+}

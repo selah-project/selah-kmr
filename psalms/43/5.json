@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Çima xwe davêjî jêr, canê min? û çima li ser min dinalî? Li bendê Elohîm bimîne, çunkî ez ê dîsa wî bilind bikim — rizgariya rûyê min û Elohîm ê min.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "xwe davêjî jêr"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "û çima"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "dinalî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "li bendê bimîne"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çunkî"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "wî bilind bikim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "rizgariya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "û Elohîm ê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:49.630009447Z",
+  "model": "glm-5.3"
+}

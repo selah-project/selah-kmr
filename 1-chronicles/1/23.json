@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "û ⟨את⟩ Ofîr, û ⟨את⟩ Havîla, û ⟨את⟩ Yovav — ev hemû kurên Yoktan ⟨bûn⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Ofîr"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofîr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Havîla"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Havîla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:35.610360473Z",
+  "model": "glm-5.3"
+}

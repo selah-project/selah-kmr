@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 23:18",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û wê zînayên xwe eşkere kir û belav kir, û eşkere kir ⟨את⟩ şermêtiya xwe ya tazî, û canê min ji ser wê qetiya û betal bû, wek ku canê min ji ser xûşka wê qetiyabû.",
+  "tokens": [
+    {
+      "surface": "ותגל",
+      "gloss": "û wê eşkere kir û belav kir"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "zînayên xwe"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "û eşkere kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şermêtiya xwe ya tazî"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "şermêtiya xwe ya tazî"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "qetiya û betal bû"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "ji ser wê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wek ku"
+    },
+    {
+      "surface": "נקעה",
+      "gloss": "qetiyabû"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "xûşka wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:03:40.834274413Z",
+  "model": "glm-5.3"
+}

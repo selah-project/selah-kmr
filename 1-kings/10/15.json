@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji pêve ji mêrên seyrahan û ji bazirganiya bazirganan û ji hemû şahên Erebistanê û ji birêveberên welêt.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "ji pêve"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "ji mêrên"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "seyrahan"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "û ji bazirganiya"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "bazirganan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û ji hemû"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "şahên"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Erebistanê"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "û ji birêveberên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:10.829353304Z",
+  "model": "glm-5.3"
+}

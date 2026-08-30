@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 117,
+  "translation": "Hemû gelan, hun ⟨את⟩ Yahwe bilîzin; hemû komelan, hun wî bilîzin.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bilîzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "hun wî bilîzin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "komelan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:11.273596057Z",
+  "model": "glm-5.3"
+}

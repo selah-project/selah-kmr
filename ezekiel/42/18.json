@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "⟨את⟩ aliyê başûr pîvant — pênc sed qamîş — bi qamîşê pîvandinê.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aliyê başûr"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "aliyê"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "başûr"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "pîvant"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "qamîş"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "bi qamîşê"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "pîvandinê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:00:29.907739429Z",
+  "model": "glm-5.3"
+}

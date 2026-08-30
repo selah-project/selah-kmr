@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 142,
+  "translation": "Guh bide qêrîna min, çimkî ez gelek lawaz bûme; ji şopandaran min ez rizgar bike, çimkî wan ji min bi hêztir in.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Guh bide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "qêrîna min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ez lawaz bûme"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ez rizgar bike"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "ji şopandaran min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "bi hêztir in"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:27.873606596Z",
+  "model": "glm-5.3"
+}

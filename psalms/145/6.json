@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Û hêza hêratên dilhetir ên te ew ê bibêjin, û mezinbûna te ez ê bihejmarim.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "û hêza"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "hêratên dilhetir ên te"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ew ê bibêjin"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "û mezinbûna te"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ez ê bihejmarim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:24.439825434Z",
+  "model": "glm-5.3"
+}

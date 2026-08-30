@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û Dawid wekî ku Elohîm fermanî wî kiribû kir, û ⟨את⟩ ordiya Filistî ji Gîb‘on heta Gezer xistin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "fermanî wî kiribû"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "xistin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordiya"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ordiya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "ji Gîb‘on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:09.812992954Z",
+  "model": "glm-5.3"
+}

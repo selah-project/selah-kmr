@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Şellum ⟨את⟩ Yekamya bû destpêk, û Yekamya ⟨את⟩ Elîşama bû destpêk.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Şellum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû destpêk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "û Yekamya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bû destpêk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elîşama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elîşama"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:22.101194803Z",
+  "model": "glm-5.3"
+}

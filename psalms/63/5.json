@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Wusa di jiyana xwe de ez ê te bibêrkitim, di navê te de destên xwe bilind dikim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ez ê te bibêrkitim"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "di jiyana xwe de"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "di navê te de"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "bilind dikim"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "destên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:17.506472645Z",
+  "model": "glm-5.3"
+}

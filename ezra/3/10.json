@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û gava avaher bingehê ⟨את⟩ Xaniya Yahwe danîn, kahînan bi cih kirin — bi xwarinan, bi karnêkan — û Lewiyî, kurên Asaf, bi sengan, ji bo pesnê ⟨את⟩ Yahwe bidin, li gorî destûra Dawid şahê Îsraêl.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "bingeh danîn"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "avaher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xaniya Yahwe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Xaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "û bi cih kirin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahînan"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "bi xwarinan"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "bi karnêkan"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "û Lewiyî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "bi sengan"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "ji bo pesnê bidin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "şahê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T06:23:06.424584741Z",
+  "model": "glm-5.3"
+}

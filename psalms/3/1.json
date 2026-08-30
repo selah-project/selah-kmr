@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Mezmûr ji bo Dawid, dema ew ji ber Avşalom, kurê xwe, direviya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mezmûr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "dema direviya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:50.819045348Z",
+  "model": "glm-5.3"
+}

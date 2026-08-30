@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 99,
+  "translation": "Bilind bikin Yahwe Elohîmê me, û li pêş çiyayê pîrozê wî secde bikin, çimkî pîroz e Yahwe Elohîmê me.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "bilind bikin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "û secde bikin"
+    },
+    {
+      "surface": "להר",
+      "gloss": "li pêş çiyayê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîrozê wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:11.833855603Z",
+  "model": "glm-5.3"
+}

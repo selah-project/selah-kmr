@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Tu tomanehî neke, û li ⟨את⟩ zaravên gelê xwe nefikire xedarî; tu ji hevalê xwe re bizanbî evîna wek ji xwe re; ez Yahwe im.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "tomanehî neke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "nefikire xedarî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaravên gelê xwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zaravên"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "bizanbî evîna"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ji hevalê xwe re"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wek ji xwe re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:22.559535260Z",
+  "model": "glm-5.3"
+}

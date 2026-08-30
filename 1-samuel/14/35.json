@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Şaûl ji bo Yahwe peygehek çêkir; ⟨את⟩ wê ewilîn car dest pê kir ku ji bo Yahwe peygek çê bike.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "peygek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (ewilîn destpêkirin)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "dest pê kir"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bi çêkirina"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "peygek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:58.293484707Z",
+  "model": "glm-5.3"
+}

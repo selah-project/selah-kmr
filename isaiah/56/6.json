@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 56:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Û kurên biyanî yên ku xwe digihînin Yahwe, ji bo ku wî xizet bikin û ji bo ku ⟨את⟩ navê Yahwe hez bikin, ji bo ku bibin xizmetkarên wî — her kesê ku Şebatê diparêze û wî nelovîne, û ên ku bi peymana min dizanin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "הנלוים",
+      "gloss": "yên ku xwe digihînin"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "ji bo ku wî xizet bikin"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "û ji bo ku hez bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ji bo ku bibin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "xizmetkarên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her kesê"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Şebatê"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "wî nelovîne"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "û ên ku dizanin"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "bi peymana min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:23.943338407Z",
+  "model": "glm-5.3"
+}

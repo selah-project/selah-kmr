@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Yahwe bi Moşe re axivî û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Û … axivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:41:21.302631602Z",
+  "model": "glm-5.3"
+}

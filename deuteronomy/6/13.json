@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe Elohîmê xwe bitirse û ⟨אתו⟩ biperestî û bi navê wî sond bixwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohîmê xwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bitirse"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wî (biperestî)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "biperestî"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "û bi navê wî"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "sond bixwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:09.190439710Z",
+  "model": "glm-5.3"
+}

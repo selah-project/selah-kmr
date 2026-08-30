@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Ji Dawid, masîl. Çawa dibê xwezî ji mirovên ku serhildana wan hatiye hilgirtin, xweşbext yê ku gunehê wî hatiye nixumandin.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "masîl (helbesta hînkêr)"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "çawa dibê xwezî"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "hatiye hilgirtin"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "serhildan"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "hatiye nixumandin"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "guneh"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:53.236975436Z",
+  "model": "glm-5.3"
+}

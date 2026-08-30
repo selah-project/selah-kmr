@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 146,
+  "translation": "Çêkerê ezmanan û erdê, ⟨את⟩ deryayê û ⟨את⟩ hemû tiştên ku tê de ne, parêzvanê rastiyê ta hertimî.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Çêkerê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "û erdê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deryayê"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "parêzvanê"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:17.725626757Z",
+  "model": "glm-5.3"
+}

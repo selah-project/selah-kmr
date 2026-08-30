@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Çimkî xewn bi pir xebatan re tê, û dengê kesên-nizan bi pir peyvan e.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tê"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "xewn"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bi pir"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "xebatan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "û dengê"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kesên-nizan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bi pir"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "peyvan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:50.086781740Z",
+  "model": "glm-5.3"
+}

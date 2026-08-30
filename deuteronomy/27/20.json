@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Nefretkirî ye yê ku bi jina bavê xwe ve radize, ji ber ku ew berî bavê xwe vekiriye, û hemû gel ê bêjin: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Nefretkirî"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yê ku… radize"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… ve"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "vekiriye"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "berî"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "û… ê bêjin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:07.021322840Z",
+  "model": "glm-5.3"
+}

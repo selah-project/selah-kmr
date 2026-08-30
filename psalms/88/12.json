@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Ma xesedê te di gorê de tê gotin? Ma emunetê te di Avadonê de?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "tê gotin"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "di gorê de"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "emunetê te"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "di Avadonê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:36.510850926Z",
+  "model": "glm-5.3"
+}

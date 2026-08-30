@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ez im Yahwe, Elohîmê te, ji erda Mîtsrayimê ve; hîn dîsa ez ê te di çadoran de bi cih bikim, wekî rojên dema diyarkirî.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hîn dîsa"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ez ê te bi cih bikim"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "di çadoran de"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "wekî rojên"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "dema diyarkirî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:21.257180526Z",
+  "model": "glm-5.3"
+}

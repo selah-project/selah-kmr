@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û min devê xwe ⟨את⟩ vekir û ew min da xwarin — vê rûnanê ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Û min…vekir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "devê xwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê xwe"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "û ew min da xwarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûnanê"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "rûnanê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:43:46.940215785Z",
+  "model": "glm-5.3"
+}

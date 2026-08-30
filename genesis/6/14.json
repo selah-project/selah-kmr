@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ji xwe re qutiyeke darê gofer çêke; odeyan di qutiyê de çêbike û ⟨את⟩ wê ji hundur û ji der ve bi ziftê bipêçe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "çêke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "qutiyek"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darê"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "odeyan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "çêbike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qutiyê"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "di qutiyê de"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "û bipêçe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ wê"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji hundur"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "û ji der ve"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "bi ziftê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:09.305917580Z",
+  "model": "glm-5.3"
+}

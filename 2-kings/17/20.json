@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Yahwe bi tevahî nifşê Îsraêlê înkar kir, wan zehmet da û wan teslîmî destê talankiran kir, heta ku ew ji ber rûyê xwe avêtin.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "înkar kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nifşê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "wan zehmet da"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "wan teslîmî"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "talankiran"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "avêtin"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ji ber rûyê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:54.261386533Z",
+  "model": "glm-5.3"
+}

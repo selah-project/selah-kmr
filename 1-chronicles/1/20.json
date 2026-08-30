@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Yoktan ⟨את⟩ Almodad û ⟨את⟩ Şelef û ⟨את⟩ Chatsarmavet û ⟨את⟩ Yerach bû bavê.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Şelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:58.285801003Z",
+  "model": "glm-5.3"
+}

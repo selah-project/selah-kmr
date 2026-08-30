@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Ji bo serokê muzîkê, mezmurekî ji Dawid, stranek.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokê muzîkê"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmurekî"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stranek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:29.142288456Z",
+  "model": "glm-5.3"
+}

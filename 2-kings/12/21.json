@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û xulamên wî rabûn û pêşikeşî pêşikeş kirin û ⟨את⟩ Yowaş li Bêta Mîloyê — ya ku ber bi Sîlayê ve dadikeve — xist.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "rabûn"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "pêşikeşî kirin"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "pêşikeşî"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowaş"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowaş"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bêta"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Mîloyê"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "ya ku dadikeve"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sîlayê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:59.774840710Z",
+  "model": "glm-5.3"
+}

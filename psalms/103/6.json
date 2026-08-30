@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Yahwe dadperweriyan dike û dadbarîyan ji bo hemû ên binpêkirî.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "dadperweriyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "û dadbarîyan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ên binpêkirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:27.672246968Z",
+  "model": "glm-5.3"
+}

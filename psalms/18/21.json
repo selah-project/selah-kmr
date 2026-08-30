@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Yahwe li gorî rastiya min ji min re xêrat kir, li gorî paqijiya destên min ji min re vegerand.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "ji min re xêrat kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "li gorî rastiya min"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "li gorî paqijiya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên min"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vegerand"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:37.496666337Z",
+  "model": "glm-5.3"
+}

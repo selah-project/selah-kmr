@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Yoav bersiv da û got: “Dûr be, dûr be ji min — ku ez têfim an xerab bikim!”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Dûr be"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "dûr be"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ez têfim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "an"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "xerab bikim"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:28.062926559Z",
+  "model": "glm-5.3"
+}

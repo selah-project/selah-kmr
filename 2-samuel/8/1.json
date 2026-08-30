@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Piştî wê yekê Dawid ⟨את⟩ Filistî dan û bin xist, û Dawid ⟨את⟩ mîtg-ammah (zingîna serdestiyê) ji destê Filistîyan girt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "qewî"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistî"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "binxist"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîtg-ammah"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "mîtg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ammah"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistîyan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:51:41.006858339Z",
+  "model": "glm-5.3"
+}

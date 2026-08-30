@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Yahwe, mirov çi ye ku tu wî dinasînsî? Kurê nemirê, ku tu wî dihesibînî?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ku tu wî dinasînsî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nemir"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ku tu wî dihesibînî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:17.003560959Z",
+  "model": "glm-5.3"
+}

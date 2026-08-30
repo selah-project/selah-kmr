@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "⟨Ew⟩ yê ji bavê xwe û ji diya xwe re digot: «Ez wî nedîtim», û ⟨את⟩ birayên xwe nas nekir, û ⟨את⟩ zarokên xwe nezanî — çawkî gotina te parastine û peymana te diparêzin.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "yê digot"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ji bavê xwe"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "û ji diya xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "nedîtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birayên xwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nas nekir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên xwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zarokên xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nezanî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çawkî"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "parastine"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "gotina te"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "û peymana te"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "diparêzin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:13:41.471369971Z",
+  "model": "glm-5.3"
+}

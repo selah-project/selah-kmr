@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 44:23",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ji ber ku hûn qetrand û ji ber ku hûn li hember Yahwe guneh kirin û guh neda dengê Yahwe, û di Tora wî de, di biryarên wî de û di şahidiyên wî de negêriya — ji ber wê yekê ev xerabî ⟨את⟩ we rû da, wekî vî rojî.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קטרתם",
+      "gloss": "qetrand"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ji ber ku"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "guneh kirin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "li hember Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "guh neda"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובתרתו",
+      "gloss": "û di Tora wî de"
+    },
+    {
+      "surface": "ובחקתיו",
+      "gloss": "û di biryarên wî de"
+    },
+    {
+      "surface": "ובעדותיו",
+      "gloss": "û di şahidiyên wî de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "gêriya"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê yekê"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "rû da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wekî vî rojî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vî rojî"
+    }
+  ],
+  "timestamp": "2026-08-29T21:08:30.733083994Z",
+  "model": "glm-5.3"
+}

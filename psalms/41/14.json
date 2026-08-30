@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Bereket li Yahwe, Elohîmê Yisraêl, ji hertimî û heta hertimî. Amîn û amîn.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bereket li"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "ji hertimî"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amîn"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "û amîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:23.342707598Z",
+  "model": "glm-5.3"
+}

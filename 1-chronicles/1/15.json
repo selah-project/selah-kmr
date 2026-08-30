@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ⟨את⟩ Hivviyan, û ⟨את⟩ Erqiyan, û ⟨את⟩ Sîniyan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hivviyan"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivviyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Erqiyan"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Erqiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Sîniyan"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sîniyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:44.058062469Z",
+  "model": "glm-5.3"
+}

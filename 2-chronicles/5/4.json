@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û hemû kalên Yisrael hatin, û Lewî ⟨את⟩ sandiqê bilind kir.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Û … hatin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "û … bilind kir"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqê"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandiqê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:05.922483012Z",
+  "model": "glm-5.3"
+}

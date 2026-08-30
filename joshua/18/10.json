@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Yehoşua li Şîloyê li pêş Yahwe ji bo wan tawiz avêt, û Yehoşua li wir ⟨את⟩ erdê ji bo zarokên Îsraêlî li gorî parvekirinên wan parve kir.",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "avêt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "tawiz"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "li Şîloyê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "parve kir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "li gorî parvekirinên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:08.764299233Z",
+  "model": "glm-5.3"
+}

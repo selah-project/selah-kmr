@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û min ji wî ferîşteyê ku bi min diaxivî re got: Ew ber bi ku ve ⟨את⟩ êpayê dibin?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "û min got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ferîşteyê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ku diaxivî"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bi min"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ber bi ku ve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "dibin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êpayê"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "êpayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:07:01.115028598Z",
+  "model": "glm-5.3"
+}

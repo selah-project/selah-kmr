@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Ronak î tu, hêzdar î tu ji çiyayên talanê bilindtir.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ronak î"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "hêzdar î"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ji çiyayên"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "talanê bilindtir"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:38.527823126Z",
+  "model": "glm-5.3"
+}

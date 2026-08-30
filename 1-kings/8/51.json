@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ji ber ku ew gelê te ne û mîrata te ne, ên ku tu ji Mîtsrayim derxistî, ji nav kûra hesin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "û mîrata te"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "tu derxistî"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ji nav"
+    },
+    {
+      "surface": "כור",
+      "gloss": "kûr"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "hesin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:04.798699381Z",
+  "model": "glm-5.3"
+}

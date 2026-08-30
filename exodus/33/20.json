@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û ⟨ew⟩ got: Tu nikarinî ⟨את⟩rûyê min bibînî, ji ber ku mirov nikare min bibîne û bijî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û ⟨ew⟩ got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tu nikarinî"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "bibînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê min"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "nikare min bibîne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "û bijî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:16.712767403Z",
+  "model": "glm-5.3"
+}

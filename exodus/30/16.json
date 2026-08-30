@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û tu dê ⟨את⟩ zîvê nûkirinê ji aliyê ⟨את⟩ zarokên Yisraêl bigire û ⟨את⟩ wî ji bo xizmeta Konê Civînê bidî; û ew dê bibe ji bo zarokên Yisraêl bîranînek berî Yahwe, ji bo nûkirinê li ser canên we.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Û tu dê bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zîvê nûkirinê"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîvê"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "nûkirinê"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên Yisraêl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "û bidî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xizmeta"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Konê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Civînê"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "û ew dê bibe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "bîranînek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ji bo nûkirinê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "canên we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:10.852327006Z",
+  "model": "glm-5.3"
+}

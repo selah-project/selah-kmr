@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 9:15",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Yahwe Sevaot dê wan biparêze, û ew dê devor bikin, û kevirên cebrê binêrin; û dê vexwin, dê qêrînin wek şerabê, û dê wek çanîyan tijî bibin, wek goşeyên mizbêaxê.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "יגן",
+      "gloss": "dê biparêze"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "û dê devor bikin"
+    },
+    {
+      "surface": "וכבשו",
+      "gloss": "û dê binêrin"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "cebrê"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "û dê vexwin"
+    },
+    {
+      "surface": "המו",
+      "gloss": "dê qêrînin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wek"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şerabê"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "û dê tijî bibin"
+    },
+    {
+      "surface": "כמזרק",
+      "gloss": "wek çanîyan"
+    },
+    {
+      "surface": "כזויות",
+      "gloss": "wek goşeyên"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbêaxê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:09:37.262022345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ez mezin bûm û ji hemûyên ku beriya min li Yeruşalayim bûne zêdetir bûm; şîretme min jî bi min re rawestiya.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "ez mezin bûm"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "zêdetir bûm"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemûyên"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ku bûne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "beriya min"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jî"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "şîretme min"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "rawestiya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bi min re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:13.967035137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 9:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ew mêr ji wî re gotin: \"Em ji ber nefêşa mirov nemtî ne; çima em tên bêparhîştin, ku em ⟨את⟩ qurbana Yahwe di dema wî ya destnîşankirî de, di nav zarokên Îsraêlê de, nêzîk nekin?\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Û ... gotin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ew mêr"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "Em"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "nemtî"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ji ber nefêşê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "tên bêparhîştin"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ku ... ne"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nêzîk nekin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana Yahwe"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurbana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעדו",
+      "gloss": "di dema wî ya destnîşankirî de"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:42:57.185493741Z",
+  "model": "glm-5.3"
+}

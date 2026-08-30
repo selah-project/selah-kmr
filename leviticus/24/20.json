@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Şkestin di şûna şkestinê, çav di şûna çav de, dan di şûna dan de; wekî ku wî li mirovî xwarîn daye, wisa bê dayîn pê.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "şkestin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "şkestinê"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çav"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çav de"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dan de"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "daye"
+    },
+    {
+      "surface": "מום",
+      "gloss": "xwarîn"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "li mirovî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "bê dayîn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:04.085763706Z",
+  "model": "glm-5.3"
+}

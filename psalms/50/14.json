@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Qurbana spasîyê ji bo Elohîm pêşkeş bike, û nîzirên xwe ji Êl Elyon re bide cih.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Qurban … pêşkeş bike"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji bo Elohîm"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "spasîyê"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "û … bide cih"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "ji Êl Elyon re"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nîzirên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:08.713320772Z",
+  "model": "glm-5.3"
+}

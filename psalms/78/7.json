@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ji bo ku hêviya xwe li Elohîm bicih bikin, û kirinên Êl ji bîr nekin, û fermanên wî biparêzin.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "bicih bikin"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "li Elohîm"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "hêviya xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ji bîr bikin"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "kirinên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "û fermanên wî"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "biparêzin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:39.821057665Z",
+  "model": "glm-5.3"
+}

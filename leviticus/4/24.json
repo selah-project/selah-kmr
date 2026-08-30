@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Wê destê xwe ser serê çêr de û wê ⟨את⟩ wê li cihê ku ⟨את⟩ qurbana şewatê li pêş Yahwe tê serrkirin serr bike; qurbana gunehê ew e.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "wê de"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "çêr"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "û wê serr bike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (çêr)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "li cihê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "tê serrkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana şewatê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "qurbana gunehê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:42.926904348Z",
+  "model": "glm-5.3"
+}

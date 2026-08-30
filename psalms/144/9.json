@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Elohîm, straneke nû ez ji te re distrêm; bi nevela deh têlan ez ji te re dixilênim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ez distrêm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "bi nevelê"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "deh têl"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ez dixilênim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:18.027811374Z",
+  "model": "glm-5.3"
+}

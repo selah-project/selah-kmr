@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Hûn dînin! Ez ê ji we re ⟨את⟩ toxim bipîsînim, û ez ê ser rûyên we pêş belav bikim — pêşê şahiyên we — û êz ê we bi wê re hildaye.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Hûn dînin! Ez"
+    },
+    {
+      "surface": "גער",
+      "gloss": "bipîsînim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toxim"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "toxim"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "û ez ê belav bikim"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "pêş"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "rûyên we"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "pêşê"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "şahiyên we"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "û êz ê hildaye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bi wê re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:29.565062442Z",
+  "model": "glm-5.3"
+}

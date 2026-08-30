@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 142,
+  "translation": "Dengê min — ber bi Yahwe ez qêrîm; dengê min — ber bi Yahwe ez lava dikim.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Dengê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ez qêrîm"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ez lava dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:18.678917852Z",
+  "model": "glm-5.3"
+}

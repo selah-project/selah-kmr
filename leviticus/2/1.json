@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û gava kesekî qurbanekî minçayekê ji bo Yahwe bîne nêzîk, arva hûr dibe qurbana wî, û wê li ser wê rûn biherikîne û li ser wê libane datîne.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "kesekî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "bîne nêzîk"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurbanekî"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minçayekê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "arva hûr"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbana wî"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "biherikîne"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    },
+    {
+      "surface": "ויצק ונתן",
+      "gloss": "û datîne"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "libane"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:05.431352616Z",
+  "model": "glm-5.3"
+}

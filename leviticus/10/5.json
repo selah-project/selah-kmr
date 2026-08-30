@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Nêzîk bûn û wan bi kêtnên wan de ji derveyî kampê hildan, wekî ku Moşe gotibû.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "nêzîk bûn"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "wan hildan"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "bi kêtnên wan de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "derveyî"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:48.335955487Z",
+  "model": "glm-5.3"
+}

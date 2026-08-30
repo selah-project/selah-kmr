@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Çimkî tu me ceriband, Elohîm; tu me wek zîvê refandin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "tu me ceriband"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "tu me refandin"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "wek refandina"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîvê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:13.275373999Z",
+  "model": "glm-5.3"
+}

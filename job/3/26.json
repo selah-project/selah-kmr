@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Min aramî nedît, û min dilsitînî nedît, û min nefret nedît — û tevizandin hat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלותי",
+      "gloss": "min aramî nedît"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "שקטתי",
+      "gloss": "min dilsitînî nedît"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "נחתי",
+      "gloss": "min nefret nedît"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "tevizandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:33.050160101Z",
+  "model": "glm-5.3"
+}

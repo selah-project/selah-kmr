@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 6:6",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Yehoşua kurê Nun gazî kohnayan kir û ji wan re got: «Sindona ⟨את⟩ peymanê hildin, û heft kohan heft şofarên yovelên li ber sindona Yahwe hilgirin.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "û gazî kir"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohnan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "hildin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sindona peymanê"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sindona"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "peymanê"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "û heft"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hilgirin"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "şofarên"
+    },
+    {
+      "surface": "יובלים",
+      "gloss": "yovelên"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sindona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:06.579867807Z",
+  "model": "glm-5.3"
+}

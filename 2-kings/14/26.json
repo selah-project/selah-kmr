@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Çimkî Yahwe ⟨את⟩ ezanîya Îsraêlê dît — pir tal bû; û êdî ne dabeşkî ma, ne jî berdayî, û tu alîkarî ji bo Îsraêlê tune bû.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dît"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezanîya Îsraêlê"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezanî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "tal"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "û êdî ne"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "dabeşkî"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ne jî"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "berdayî"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "alîkarî"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ji bo Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:21:09.165716464Z",
+  "model": "glm-5.3"
+}

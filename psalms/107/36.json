@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Wî êşyaran li wir bi cih kir, û ew bajarekî ji bo rûniştinê rûniştand.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "bi cih kir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "êşyaran"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "rûniştand"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarekî"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ji bo rûniştinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:46.414077458Z",
+  "model": "glm-5.3"
+}

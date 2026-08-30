@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Kurmancî: Û Mîtsrayim ⟨את⟩ Ludîm û ⟨את⟩ Enamîm û ⟨את⟩ Lehabîm û ⟨את⟩ Naftuhîm bide dunê.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Û Mîtsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bide dunê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludîm"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Enamîm"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Enamîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Lehabîm"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Naftuhîm"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuhîm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:10.003564301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 10:8",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Bilindahiyên Aven wê bên rûxandin — gunehê Îsraêl; gulî û kinar dê li ser mêzergahên wan bilind bibin, û dê bêjin ji çiyan: “Bibin ser me!” û ji giran: “Bikevin ser me!”",
+  "tokens": [
+    {
+      "surface": "ונשמדו",
+      "gloss": "wê bên rûxandin"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bilindahiyên"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "gunehê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "gulî"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "û kinar"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "dê ... bilind bibin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "mêzergahên wan"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "û dê bêjin"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "ji çiyan"
+    },
+    {
+      "surface": "כסונו",
+      "gloss": "bibin ser me"
+    },
+    {
+      "surface": "ולגבעות",
+      "gloss": "û ji giran"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bikevin ser me"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ser me"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:28.151581859Z",
+  "model": "glm-5.3"
+}

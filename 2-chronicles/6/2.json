@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ez jî ji te re xanî ava kirim, cihekî bilind ji bo te, û cihekî sabît ji bo rûniştina te heta hertimî.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ez jî"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ava kirim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "cihê rûniştinê yê bilind"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "û cihekî sabît"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "ji bo rûniştina te"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:01.327686821Z",
+  "model": "glm-5.3"
+}

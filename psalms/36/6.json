@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Yahwe, di ezmanan de xesedê te ⟨ye⟩; dilsoziya te heta ewrên bilind ⟨digihêje⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "dilsoziya te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ewrên bilind"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:42.319915575Z",
+  "model": "glm-5.3"
+}

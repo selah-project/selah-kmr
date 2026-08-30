@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 19:20",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ji key re got: Egîdê min, guneh li ser min hesibîne, û neyîne bîra xwe ⟨את⟩ yê ku xulamê te xerab kirî, roja ku Egîdê min, key, ji Orîşalîmê derket, ji bo ku key wê li dilê xwe de bihêle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hesibîne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Egîdê min"
+    },
+    {
+      "surface": "עון",
+      "gloss": "guneh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "neyîne bîra xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê ku xerab kirî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "xerab kir"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê te"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Egîdê min"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ji Orîşalîmê"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "ji bo ku bihêle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di ... de"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:56:57.118783333Z",
+  "model": "glm-5.3"
+}

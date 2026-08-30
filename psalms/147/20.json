@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Bi tu neteweyî wiha nekir, û hukman wan nas nekiriye. Hêlo Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nekir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bi tu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "neteweyî"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "û hukman"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nas"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "nekiriye"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hêlo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.128508941Z",
+  "model": "glm-5.3"
+}

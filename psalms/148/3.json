@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Wî bilind bikin, roj û hîv; wî bilind bikin, hemû stêrkên ronahiyê!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilind bikin"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "û hîv"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilind bikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "stêrkên"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:35.693897874Z",
+  "model": "glm-5.3"
+}

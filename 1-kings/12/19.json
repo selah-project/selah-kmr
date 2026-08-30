@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Yisraêl serî hilda li dijî mala Dawid, heta roja îro.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "serî hilda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "li dijî mala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:31.143418254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Gej dibêjin ji nefşa min re: \"Xilasî ji bo wî tune ye, di Elohîm de.\" Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Gej"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ji nefşa min re"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "xilasî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di Elohîm de"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:50.819526594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Ji bo serokê muzîkvanan. \"Wêran neke.\" Ji Dawid re, Mîchtam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokê muzîkvanan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "wêran bike"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid re"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mîchtam"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:00.400483112Z",
+  "model": "glm-5.3"
+}

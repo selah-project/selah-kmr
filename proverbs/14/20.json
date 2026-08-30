@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Fakîr ji cîranê xwe re jî tê nefrkirin, û hezkiriyên dewlemend gelek in.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ji cîranê xwe re"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "tê nefrkirin"
+    },
+    {
+      "surface": "רש",
+      "gloss": "fakîr"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "û hezkiriyên"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "dewlemend"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:12.435469611Z",
+  "model": "glm-5.3"
+}

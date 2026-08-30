@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Çimkî canê min ji êşan tijî bûye, û jiyanên min gihiştine Şeolê.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tijî bûye"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "ji êşan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "û jiyanên min"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şeolê"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "gihiştine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:36.009623731Z",
+  "model": "glm-5.3"
+}

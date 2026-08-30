@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Wekîtiya wî mîna şêr e ku ji dirandinê dilgerîn e, û mîna şêrê ciwan ê ku di cihên veşartî de rûniştî ye.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "wekîtiya wî"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "mîna şêr"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "dilgerîn e"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "ji dirandinê"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "û mîna şêrê ciwan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûniştî ye"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di cihên veşartî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:16.479833918Z",
+  "model": "glm-5.3"
+}

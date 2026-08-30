@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Binêre êşên min û min rizgar bike, çimkî Tora te ji bîr nakim.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "êşên min"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "û min rizgar bike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ji bîr nakim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:58.530050590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 99,
+  "translation": "Yahwe li Siyonê mezin e, û ⟨ew⟩ li ser hemû gelan bilind e.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "li Siyonê"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezîn"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "û bilind"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:57.041094244Z",
+  "model": "glm-5.3"
+}

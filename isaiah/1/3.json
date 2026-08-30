@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ga xwediyê xwe nas dike, û ker dora xwediyê xwe; Îsraêl nas nekir, gelê min fam nekir.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "nas dike"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ga"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "xwediyê xwe"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "û ker"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "dora"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "xwediyê xwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nas nekir"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "fam nekir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:24.891808645Z",
+  "model": "glm-5.3"
+}

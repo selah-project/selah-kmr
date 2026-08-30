@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Ji ber ku tu ji berî ⟨את⟩ erdê dibînî, lê tu nayî wir, ⟨heta⟩ erdê ku ez didim ji zarkurên Yisraêl re.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ji berî"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "dibînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "lê wir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tu nayî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨heta⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "didim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji zarkurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:13:39.830609376Z",
+  "model": "glm-5.3"
+}

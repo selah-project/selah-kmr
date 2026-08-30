@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Dem evînê ye û dem nefretê; dem şer e û dem aştî ye.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "evînê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nefretê"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:47.254621553Z",
+  "model": "glm-5.3"
+}

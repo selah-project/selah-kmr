@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "«Bi rastî tu ⟨את⟩ Edomê xist, û dilê te hilgirt te; va xwe giran bike û rûne di malê xwe de. Çima xwe digîrî nav xerabiya ku tu bikevî — tu û Yehûda bi te re?»",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "bi rastî xist"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomê"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomê"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "hilgirt te"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dilê te"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "va xwe giran bike"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "rûne"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di malê xwe de"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "xwe digîrî"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nav xerabiyê"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ku tu bikevî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "û Yehûda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:33.573761262Z",
+  "model": "glm-5.3"
+}

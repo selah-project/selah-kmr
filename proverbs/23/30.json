@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ji bo yên li cem şerabê dirêj dimînin, ji bo yên tên da ku şerabê tevlîkirî bigerin.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "ji bo yên dimînin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li cem"
+    },
+    {
+      "surface": "היין",
+      "gloss": "şerabê"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "ji bo yên tên"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "da ku bigerin"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "şerabê tevlîkirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:25.350632084Z",
+  "model": "glm-5.3"
+}

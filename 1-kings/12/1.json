@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Rehabeam çû Şekemê, ji ber ku li Şekemê tevahiya Îsraêlê hatibû da ⟨את⟩ wî bikey padîşah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemê"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatibû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "bikey padîşah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:05.779108908Z",
+  "model": "glm-5.3"
+}

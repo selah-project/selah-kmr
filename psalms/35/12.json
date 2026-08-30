@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Bedelîna min bi xerabî didin, li şûna qenciyê — sîwîtî ji canê min re.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "bedelîna min didin"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li şûna"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "qenciyê"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "sîwîtî"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ji canê min re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:10.900957589Z",
+  "model": "glm-5.3"
+}

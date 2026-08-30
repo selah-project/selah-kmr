@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Tu yê Yahwe, ne dûr bikeve; hêza min, bi lez were alîkariya min.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tu yê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "dûr bikeve"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "alîkariya min"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "bi lez were"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:36.430442613Z",
+  "model": "glm-5.3"
+}

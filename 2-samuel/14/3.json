@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û herî cem şah Û jê re bi vê peyvê bipeyivî.» Û Yoav ⟨את⟩ peyvan dane devê wê.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "herî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "bipeyivî"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bi vê peyvê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dane"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "devê wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:54:03.138354787Z",
+  "model": "glm-5.3"
+}

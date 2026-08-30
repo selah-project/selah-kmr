@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 150,
+  "translation": "Her ⟨yê⟩ ku henahê wî heye bila Yahwe bilûze; Yahwe bilûzin!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "yê ku henahê wî heye"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "bila … bilûze"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bilûzin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:58.979310479Z",
+  "model": "glm-5.3"
+}

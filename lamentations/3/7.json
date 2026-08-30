@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Bi dîwar dora min girt, ez nikarim derkevim; zencîra min giran kir.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "bi dîwar dora min girt"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "li dora min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nikarim"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "derkevim"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "giran kir"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "zencîra min a paxirî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:07:14.409978501Z",
+  "model": "glm-5.3"
+}

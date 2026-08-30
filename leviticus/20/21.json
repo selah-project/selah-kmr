@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û merîvekî ku jina birayê xwe bigire — ew nîdah e; ew çirîka birayê xwe eşkere kiriye; bêzar ên bêzar dê bin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Û merîvekî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina birayê xwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nîdah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew ... e"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çirîka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "eşkere kiriye"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bêzar ên bêzar"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dê bin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:48.094895786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "כאת ⟨את⟩ zarokên wê nê dilovanî bikim, çi ku zarokên zînayan ⟨in⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "כאת ⟨את⟩",
+      "marks": "zarokên wê"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "zarokên wê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nê"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "dilovanî bikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çi ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zînayan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨in⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:47.356555166Z",
+  "model": "glm-5.3"
+}

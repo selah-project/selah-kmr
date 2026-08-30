@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Û Îsraêl ji nava wê derbas kir, ji ber ku xeseda wî ji bo hertimî ye.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Û…derbas kir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ji nava wê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xeseda wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:52.081834942Z",
+  "model": "glm-5.3"
+}

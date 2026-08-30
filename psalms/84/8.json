@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Wê ji hêzekê ber bi hêzekê herin, wê li ber Elohîm di Siyonê de xuya bibin.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "wê herin"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "ji hêzekê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêzekê"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wê xuya bibin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Siyonê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:58.405766365Z",
+  "model": "glm-5.3"
+}

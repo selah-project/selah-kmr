@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ji ber ku di kevanê xwe de xwe ewle nakim, û şûrê min rizgar nakim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "di kevanê xwe de"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "xwe ewle nakim"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "û şûrê min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "rizgar nakim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:02.840697967Z",
+  "model": "glm-5.3"
+}

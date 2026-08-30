@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Elohîm bêrûket be, ku duaya min û xesedê wî ji min berneda ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bêrûket be"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "berdeda"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "û xesedê wî"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ji min",
+      "marks": "xesedê wî (û duaya min)"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:37.554250703Z",
+  "model": "glm-5.3"
+}

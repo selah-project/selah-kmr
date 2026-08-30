@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û ⟨ew⟩ ji Moşe re got: Ez bavê jina te Yitro me, hatime cem te, û jina te û her du kurên wê bi wê re.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "bavê jina te"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatime"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cem te"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "û jina te"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "û her du"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "kurên wê"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bi wê re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:08:40.590358534Z",
+  "model": "glm-5.3"
+}

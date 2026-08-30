@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Yahwe wî diparêze û wî zinde dihêle; wî li ser ⟨⟨erdê⟩⟩ rast dike, û tu wî nade destê nefesa dijminên wî.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "wî diparêze"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "û wî zinde dihêle"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "rast dike wî"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li ser erdê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "tu nadî wî"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "destê nefesa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dijminên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:28.830290191Z",
+  "model": "glm-5.3"
+}

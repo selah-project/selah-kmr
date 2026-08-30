@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Rûniştina te di nava derewê de ye; bi derewê ji zanîna ⟨את⟩ min rê dan, gotina Yahwe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "rûniştina te"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "derewê de"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "bi derewê"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "rê dan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanîna"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:53:02.319354915Z",
+  "model": "glm-5.3"
+}

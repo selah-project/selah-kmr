@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Yahwe bi destê rastê yê xwe û bi milê hêzê xwe sond xwar: êdî ⟨את⟩ dakên te nadin xwarîn ji dijminên te re, û kurên biyanî êdî şeraba te ya ku tu tê de zehmet kişandiye nexwin.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sond xwar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "bi destê rastê yê xwe"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "û bi milê"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "hêzê xwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "êdî ... ne"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dakên te"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "dakên te"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "xwarîn"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "ji dijminên te re"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "nexwin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "şeraba te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "zehmet kişandiye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:33.434990747Z",
+  "model": "glm-5.3"
+}

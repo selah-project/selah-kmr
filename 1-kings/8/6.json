@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Kohanan sandiqa peymana Yahwe birin ⟨את⟩ cihê wê, ji bo dêra malê, ji bo pîroztirîn ciyê pîroz, ji binê baskên kerûban.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "birin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Kohanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqa peymana Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiqa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "cihê wê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "dêra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroztirîn ciyê pîroz"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ji binê"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "baskên"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerûban"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:32.119450049Z",
+  "model": "glm-5.3"
+}

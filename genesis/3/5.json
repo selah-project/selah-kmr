@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ji ber ku Elohîm dizane ku di roja ku hûn ji wê dixwin, çavên we yê vedibin û hûn dibe wekî Elohîm, dizanîner ên başîyê û şerî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "hûn dixwin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "vedibin"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "çavên we"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "hûn dibe"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "wekî Elohîm"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "dizanîner"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "başîyê"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "û şerî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:06.341178019Z",
+  "model": "glm-5.3"
+}

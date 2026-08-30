@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Ên ku canê min digerin danî pê danîn, û ên ku xerabiya min digerin wêranîyan dibêjin, û hemû rojê fêlbazîyan difikirin.",
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "danî pê danîn"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ên digerin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "û ên digerin"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "xerabiya min"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "wêranîyan"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "û fêlbazîyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "difikirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:59.933196904Z",
+  "model": "glm-5.3"
+}

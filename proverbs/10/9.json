@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Yê ku bi rastiyê digere bi ewlehiyê digere, lê yê ku rêyên wî durûtî ne dê were zanîn.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "digere"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "bi rastiya xwe"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "dê biçe"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bi ewlehiyê"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "û yê ku rêyên xwe durû dike"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "rêyên wî"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tê zanîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:18.122360115Z",
+  "model": "glm-5.3"
+}

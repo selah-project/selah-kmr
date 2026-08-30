@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wî ji gelê xwe re got: “Hûn binêrin, gelê kûrên Yisraêl ji me zêdetir û hêztir ⟨in⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wî … got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hûn binêrin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zêdetir"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "û hêztir"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji me"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:27.020867262Z",
+  "model": "glm-5.3"
+}

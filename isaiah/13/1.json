@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Bara Babîlê ku Yeşayayê kurê Amotsê wê dîtîye.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Bar"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dîtîye"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:23.780036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ⟨את⟩ Mîşkanê li gorî hukmê wî raber bike, wekî ku ji te re li çiyê hat nîşandan.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "raber bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîşkanê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mîşkanê"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "li gorî hukmê wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "hat nîşandan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:46.782195403Z",
+  "model": "glm-5.3"
+}

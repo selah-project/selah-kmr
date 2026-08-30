@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Wê ⟨את⟩ goştê gayê, ⟨את⟩ çermê wî û ⟨את⟩ serrê wî bi agir li derveyî kampê bisewirînî — qurbaniya gunehê ye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "goşt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "gay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çerm"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "çerm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "serr"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "serr"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "bisewirînî"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "li derveyî"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "qurbaniya gunehê"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:56.550883514Z",
+  "model": "glm-5.3"
+}

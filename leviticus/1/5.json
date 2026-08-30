@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wê ⟨את⟩ golekê berî Yahwe ser bike, û kurên Aharon, kên, ⟨את⟩ xwînê bînin, û ⟨את⟩ xwînê li dora qurbangehê bişînin, êya ku li ber deriyê çadira civînê ye.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ser bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golekê"
+    },
+    {
+      "surface": "בן",
+      "gloss": "golek"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "berx"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwînê"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "bişînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwînê"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangehê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "êya ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:11.600083094Z",
+  "model": "glm-5.3"
+}

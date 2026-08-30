@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Yahwe got: «Yehûda dê hilbeve; binêre, min ⟨את⟩ erdê daye destê wî.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "dê hilbeve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min … daye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "destê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:34.630365078Z",
+  "model": "glm-5.3"
+}

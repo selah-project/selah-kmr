@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Lodana we ⟨את⟩ komkirina tirî digihîje, û komkirina tirî ⟨את⟩ dema çandinê digihîje; hûn nanê xwe heta têrbûnê dixwin û bi ewlehî li welatê xwe rûdinin.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "digihîje"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "lodan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komkirina tirî"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "komkirina tirî"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "û komkirina tirî"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "digihîje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dema çandinê"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dema çandinê"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "û hûn dixwin"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "nanê we"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "heta têrbûnê"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "û hûn rûdinin"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bi ewlehî"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "li welatê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:36.821175549Z",
+  "model": "glm-5.3"
+}

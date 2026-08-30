@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Rastî û dadê hez dike; erd ji xesedê Yahwe tije ye.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "hez dike"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "û dadê"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tije ye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:34.201881609Z",
+  "model": "glm-5.3"
+}

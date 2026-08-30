@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û ez ê ⟨את⟩ kêzikan beriya te bişînim, û ew ê ⟨את⟩ Hîwî, ⟨את⟩ Kenaanî û ⟨את⟩ Hetî ji beriya te bavêjin.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "û ez ê bişînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêzikan"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "kêzikan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "beriya te"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "û ew ê bavêjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hîwî"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hîwî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanî"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hetî"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetî"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ji beriya te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:49.643249367Z",
+  "model": "glm-5.3"
+}

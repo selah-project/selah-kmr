@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ew dîsa zayî ⟨bû⟩ — ⟨את⟩ birayê wî, ⟨את⟩ Hevel. Hevel şivanê pez bû, Kaynîn jî cotkarê erdê bû.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "û dîsa zêde kir"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ji bo zayînê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayê wî"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şivanê"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pez"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "û Kaynîn"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "cotkarê"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:03.084195897Z",
+  "model": "glm-5.3"
+}

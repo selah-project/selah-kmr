@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Dawid çû, ê û şeş sed mêr ên ku ⟨את⟩ wî bi xwe re bûn, û gihîştin heta newala Besor; ên mayî jî rawestîn.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ê"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî bi xwe re",
+      "marks": "şeş sed mêr"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gihîştin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "newal"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "ên mayî jî"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "rawestîn"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:51.599113073Z",
+  "model": "glm-5.3"
+}

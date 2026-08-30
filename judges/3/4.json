@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ew man ji bo ku bi wan ⟨את⟩ Îsraêlê bi ceribandin, da ku xuya bibe gelo ⟨את⟩ fermanên Yahwe yên ku bi destê Moşe ⟨את⟩ ji bav û kalên wan re ferman dabû, bi guh dabûn.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Û ew man"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ji bo ceribandinê"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da ku xuya bibe"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "gelo bi guh dabûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên Yahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman dabû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bav û kalên wan"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bav û kalên wan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:25:06.529512690Z",
+  "model": "glm-5.3"
+}

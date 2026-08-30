@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ji ber ku tiştê nefretê yê Yahwe Elohîmê te ye her kesê ku van dike, her kesê ku neheqî dike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "tiştê nefretê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kesê dikê"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kesê dikê"
+    },
+    {
+      "surface": "עול",
+      "gloss": "neheqî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:08:33.236479776Z",
+  "model": "glm-5.3"
+}

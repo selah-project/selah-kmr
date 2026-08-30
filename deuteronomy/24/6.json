@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Destarê dehan û dora jorîn neyîn girtin, çimkî ew jiyanîn ⟨אֵת⟩ wekî destar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neyîn"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "girtin (destar)"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "dehan"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "û dora jorîn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiyanîn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "wekî destar girtin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:08:37.125042137Z",
+  "model": "glm-5.3"
+}

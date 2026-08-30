@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Yahwe, Elohîmê min, tu yî; ez ê bilind bikim, ez ê navê te bidim pesnê, çimkî tu tiştên efxanî kirine — şîretên ji dûr ve, bi dilsozî, rastî.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ez ê te bilind bikim"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ez ê bidim pesnê"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu kirine"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "tiştên efxanî"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "şîretên"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ji dûr ve"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "bi dilsozî"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "rastî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:41.238442113Z",
+  "model": "glm-5.3"
+}

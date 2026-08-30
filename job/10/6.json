@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ku tu digerî guneha min, û sûcê min tu lêkolînê dikî?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "tu digerî"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "guneha min"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "û sûcê min"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "tu lêkolînê dikî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:58.901340718Z",
+  "model": "glm-5.3"
+}

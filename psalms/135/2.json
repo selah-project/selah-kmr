@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Hûn ên di mala Yahwe de radiwestin, di hewşên mala Elohîmê me de.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "radiwestin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mala de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di hewşên de"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:04.341320661Z",
+  "model": "glm-5.3"
+}

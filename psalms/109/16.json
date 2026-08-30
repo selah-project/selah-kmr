@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Ji ber ku ew ne ji bo kirina xesed bi bîr neanî, û zilamê feqîr û pensîdar da pey, û yê dilşikestî ji bo kuştinê.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bi bîr neanî"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ji bo kirina"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "û … da pey"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamê"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîr"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û pensîdar"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "û yê"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dilşikestî"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "ji bo kuştinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:53.971567246Z",
+  "model": "glm-5.3"
+}

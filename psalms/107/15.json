@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Bila ew ji Yahwe re bo xesedê wî spasî bikin, û bo hêmayên wî ji bo zarokên mirovan!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "bila ew spasî bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji Yahwe re"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "bo xesedê wî"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "û bo hêmayên wî"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo zarokên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:11.260848327Z",
+  "model": "glm-5.3"
+}

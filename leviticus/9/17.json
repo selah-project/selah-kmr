@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ⟨את⟩ pêşkêşa ard nêzîk kir, tiltekê xwe ji wê tijî kir û ⟨the⟩ li ser textê şewitand — ji xeynî holokosta sibehê.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nêzîk kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêşkêşa ard"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pêşkêşa ard"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "tijî kir"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "tiltekê wî"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "textê"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ji xeynî"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "holokosta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sibehê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:55.832523672Z",
+  "model": "glm-5.3"
+}

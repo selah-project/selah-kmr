@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û tu ê fermanên Yahwe Elohîmê xwe ⟨את⟩ biparêzî, ku di rêyên wî de bigerî û ji wî bitirse ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Û tu ê biparêzî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên Yahwe Elohîmê xwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ku bigerî"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di rêyên wî de"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "û bitirse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:33.764702776Z",
+  "model": "glm-5.3"
+}

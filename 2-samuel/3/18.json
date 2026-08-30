@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û niha bikin, çimku Yahwe ji Dawid re gotibû: «Bi destê xulamê min Dawid ez ê ⟨את⟩ gelê xwe yê Îsraêl ji destê Filistîniyan û ji destê hemû dijminên wan xilas bikim.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji…re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamê min"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "xilas bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê xwe yê Îsraêl"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yê Îsraêl"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistîniyan"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "û ji destê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "dijminên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:49:50.701091778Z",
+  "model": "glm-5.3"
+}

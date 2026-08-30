@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Canê min biparêze, çimkî ez xwedawer im; bendetê xwe xilas bike, tu yê Elohîmê min, ê ku spêdîyê ji te re dike.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "xwedawer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "im"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "xilas bike"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bendetê te"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "ê ku spêdîyê dike"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ji te re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.201252317Z",
+  "model": "glm-5.3"
+}

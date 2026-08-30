@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Berî ku çiya werin dinyayê û berî ku tu erdê û cîhanê biafirînî, ji hertimî heta hertimî, tu Êl î.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "berî ku"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "werin dinyayê"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "û tu diafirînî"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "û cîhanê"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ji hertimî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl î"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:03.826807393Z",
+  "model": "glm-5.3"
+}

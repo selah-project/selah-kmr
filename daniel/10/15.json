@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û dema ew bi van gotinan bi min re axaft, min rûyê xwe ber bi erdê da û ez bêdeng mam.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "û dema ew axaft"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "bi van gotinên"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min da"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ber bi erdê"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "û ez bêdeng mam"
+    }
+  ],
+  "timestamp": "2026-08-30T06:21:11.432152723Z",
+  "model": "glm-5.3"
+}

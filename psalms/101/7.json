@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 101,
+  "translation": "Yê ku xîyanetê dike, dê di nava malê min de rûne — na; yê ku derewan dibêje, dê li ber çavên min de rabe — na.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûne"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "malê min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yê ku dike"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "xîyanetê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yê ku dibêje"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "derewan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "rabe \/ sabît bibe"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.541900133Z",
+  "model": "glm-5.3"
+}

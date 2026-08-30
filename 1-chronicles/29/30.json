@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 29:30",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Bi tevahiya keyatiya xwe û hêza xwe, û demên ku derbas bûn ser wî û ser Îsraêlê û ser hemû keyatiyan welatan.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "bi tevahiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "keyatiya wî"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "û hêza wî"
+    },
+    {
+      "surface": "והעתים",
+      "gloss": "û demên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "derbas bûn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ser wî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "keyatiyên"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "welatan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:41:29.135789166Z",
+  "model": "glm-5.3"
+}

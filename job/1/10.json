@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ma te ⟨את⟩ dora wî û dora mala wî û dora hemû tiştê wî ji aliyekî ve negerandiye? Karê destên wî te pîroz kiriye û ketinên wî di welêt de belav bûne.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "te"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "negerandî"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "dora wî"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "û dora"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "û dora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ji aliyekî ve"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karê"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "te pîroz kiriye"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "û ketinên wî"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "belav bûne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welêt de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:20.354845533Z",
+  "model": "glm-5.3"
+}

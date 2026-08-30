@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Yahwe Sarahê ⟨את⟩ bi ser danî — wekî ku gotibû — û Yahwe ji bo Sarahê kir, wekî ku axivîbû.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Û Yahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "bi ser danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarahê"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "û kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "ji bo Sarahê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivîbû"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:13.395159853Z",
+  "model": "glm-5.3"
+}

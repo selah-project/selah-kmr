@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Moşe ji Aharon re got: «Nêzîkî keşîşxanê bibe, ⟨את⟩ qurbana gunehê ya xwe û ⟨את⟩ qurbana şewatê ya xwe bike, û ji bo xwe û ji bo gelî xwe biboreke, û ⟨את⟩ qurbana gelî bike û ji bo wan biboreke, wekî ku Yahwe ferman kir.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nêzîkî … bibe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "keşîşxanê"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana gunehê ya xwe"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "gunehê ya xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana şewatê ya xwe"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "qurbana şewatê ya xwe"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "biboreke"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelî"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana gelî"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurbana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelî"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "biboreke"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:53.551600255Z",
+  "model": "glm-5.3"
+}

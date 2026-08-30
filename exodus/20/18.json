@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Hemû gel ⟨את⟩ dengên û ⟨את⟩ mışalan û ⟨את⟩ dengê qernelê û ⟨את⟩ çiyayê dûman diket didîtin; gel dît, lerizî û ji dûr ve sekîtî.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "didîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengên"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "dengên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mışalan"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "mışalan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dengê qernelê"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "qernelê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çiyayê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dûman diket"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "lerizî"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "sekîtî"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ji dûr ve"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:42.109802198Z",
+  "model": "glm-5.3"
+}

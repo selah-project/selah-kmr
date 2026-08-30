@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Kê ji Yerûşalayimê bi koçbûyan re hatibû sirgûnkirin, ên ku bi Yekonya padîşahê Yehûdê re koçdarê hatibûn kirin, ên ku Nevuxadnetsar padîşahê Babîlê sirgûn kiribû.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kê"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "hatibû sirgûnkirin"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "ji Yerûşalayimê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "koçbûyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "koçdarê hatibûn kirin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "sirgûn kiribû"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevuxadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:16.056623611Z",
+  "model": "glm-5.3"
+}

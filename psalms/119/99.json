@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ji hemû hînkerên xwe ez bêtir têgihîştî bûm, çimkî şahidiyên te ramîna min in.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "hînkerên xwe"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ez bêtir têgihîştî bûm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şahidiyên te"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ramîna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min in"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:18.979540889Z",
+  "model": "glm-5.3"
+}

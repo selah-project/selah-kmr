@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Ji ber ku tu min şab kir, Yahwe, bi keda te, ez ê bi kedên destên te bilîzim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "tu min şab kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "bi keda te"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "bi kedên"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "destên te"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ez ê bilîzim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:06.353119335Z",
+  "model": "glm-5.3"
+}

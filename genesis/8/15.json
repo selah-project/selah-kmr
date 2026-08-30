@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Elohîm bi Nuh re axavî kir û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "û axavî kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:19.623331526Z",
+  "model": "glm-5.3"
+}

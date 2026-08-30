@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Ez ê tê biaqil kim û rêya ku wê biçî nîşanî te bidim; ez ê şîretê bidim — çavê min li ser te ye.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "ez ê tê biaqil kim"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "û nîşanî te bidim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rêyê"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wê biçî"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ez ê şîretê bidim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:34.192654730Z",
+  "model": "glm-5.3"
+}

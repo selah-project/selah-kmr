@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Bila şerm bikin û wenda bibin dijberên nefşa min; bila bi çûnî û riswabûnê were pêçan ên ku xerabîya min digerin.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "şerm bikin"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "wenda bibin"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "dijberên"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefşa min"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "were pêçan"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "çûnî"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "û riswabûnî"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ên ku digerin"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "xerabîya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:37.736946803Z",
+  "model": "glm-5.3"
+}

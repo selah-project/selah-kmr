@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û zarok mezin bû, wî ji bo keça Parohê anî û ew bû kurê wê. Û navê wî Moşe kir û got: “Çinku min ew ji avê kişand.”",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "û mezin bû"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "wî anî"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ji bo keça"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji bo wê"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "û nav kir"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "min ew kişand"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:58.599189946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Gava min gazî kir, bersivê bide min, Elohîmê rastiya min; di tengasîyê de te cihê fireh ji min re çêkir; dilovanîya xwe li min bike û duaya min bibihîze.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "gava min gazî kir"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bersivê bide min"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "rastiya min"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "di tengasîyê de"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "te fireh kir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "dilovanîya xwe li min bike"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "û bibihîze"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:50.906668043Z",
+  "model": "glm-5.3"
+}

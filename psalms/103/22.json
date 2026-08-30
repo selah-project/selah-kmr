@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Hemû kirinên wî di hemû cihên desthilatdariya wî de Yahwe bibarkirînin; giyanê min, Yahwe ⟨את⟩ bibarkirîne.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "bibarkirînin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "kirinên wî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "cihan de"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "desthilatdariya wî"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bibarkirîne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "giyanê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:39.786302176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û tu datîne ser masê nanê rûyê, beramberî min, domdar.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "û tu datîne"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masê"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nanê"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "beramberî min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "domdar"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:46.997015068Z",
+  "model": "glm-5.3"
+}

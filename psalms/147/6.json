@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Yahwe xwerûan radike, ên xerab heta erdê danişîne.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "radike"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "xwerûan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "danişîne"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ên xerab"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.760086294Z",
+  "model": "glm-5.3"
+}

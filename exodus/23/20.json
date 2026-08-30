@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Binihêre, ez şandyarekî berî te dişînim ji bo ku te di rê de biparêze û te bîne cihê ku min amade kiriye.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "binihêre"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dişînim"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "şandyarekî"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "berî te"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "te biparêze"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "û te bîne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "min amade kiriye"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:42.556345848Z",
+  "model": "glm-5.3"
+}

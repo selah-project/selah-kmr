@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 3:14",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Bi keyan û şêwirmendên erdê re, ên ku ji bo xwe wêran ava dikin.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "keyan"
+    },
+    {
+      "surface": "ויעצי",
+      "gloss": "û şêwirmendên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ava dikin"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "wêran"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:47.183626310Z",
+  "model": "glm-5.3"
+}

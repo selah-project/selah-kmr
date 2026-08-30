@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Kurên Merarî — li gorî malbatên wan, li gorî malên bavên wan — tu ⟨את⟩ wan bihejmêre.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarî"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên wan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "li gorî malên"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tu bihejmêre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (kurên Merarî)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:13.293209963Z",
+  "model": "glm-5.3"
+}

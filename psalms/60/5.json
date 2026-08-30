@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Tu li gelê xwe tiştekî dijwar nîşan daî; me şerabekî sergêjî da vexwarin.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "nîşan daî"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "li gelê xwe"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tiştekî dijwar"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "me da vexwarin"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şerab"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "sergêjî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:42.366596451Z",
+  "model": "glm-5.3"
+}

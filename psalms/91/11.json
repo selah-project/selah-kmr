@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Ji ber ku wê fermanê bide şandiyan xwe der barê te de, da ku te biparêze di hemû riyan te de.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "şandiyan wî"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "wê fermanê bide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "der barê te de"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "da ku te biparêze"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "riyan te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:15.437866902Z",
+  "model": "glm-5.3"
+}

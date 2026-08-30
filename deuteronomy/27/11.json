@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û Moşe wê rojê ⟨את⟩ gelê ferman kir, ku wê gotin:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wê rojê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku wê gotin"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:55.428271639Z",
+  "model": "glm-5.3"
+}

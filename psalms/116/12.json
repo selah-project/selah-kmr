@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Çi ez ê ji nû ve bide Yahwe, ji bo hemû qenciyên wî yên li ser min?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Çi"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ez ê ji nû ve bide"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "qenciyên wî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:13.110119221Z",
+  "model": "glm-5.3"
+}

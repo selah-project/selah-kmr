@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Rewanên Elohîm bi deh hezaran in, hezaran li pey hezaran; Adonay di nav wan de ye, wek li Sînayê, di pîroziyê de.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "rewanên"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "bi deh hezaran"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "hezaran"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "li pey hezaran"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di nav wan de"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sînayê"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di pîroziyê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:27.991172085Z",
+  "model": "glm-5.3"
+}

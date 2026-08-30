@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "⟨את⟩ ya ku destê wî digihîje: ⟨את⟩ yekê ji bo qurbaniya gunehî û ⟨את⟩ yekê ji bo pêşkêşiya sotinî, ligel pêşkêşiya ard; û kohen dê ji bo yê ku tê pakirin li ber Yahwe kapar çêke.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya ku destê wî digihîje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "digihîje"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yekê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "qurbaniya gunehî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yekê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "pêşkêşiya sotinî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pêşkêşiya ard"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dê kapar çêke"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yê ku tê pakirin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:44.083710503Z",
+  "model": "glm-5.3"
+}

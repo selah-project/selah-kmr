@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Çend caran ew li çolê serî hildidan! Çend caran wî li welatê vala êşdan!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Çend caran"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "ew serî hildidan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "wî êşdan"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "li welatê vala"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:21.887509742Z",
+  "model": "glm-5.3"
+}

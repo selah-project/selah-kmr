@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û destpêka padîşahiya wî Babîl bû, û Erek, û Akad, û Kalneh, di welatê Şîn'ar de.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Û … bû"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "destpêka"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "padîşahiya wî"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîl"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "û Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "û Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "û Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Şîn'ar"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:54.537586862Z",
+  "model": "glm-5.3"
+}

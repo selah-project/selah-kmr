@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Li duaya bêparan vegeriya û ⟨את⟩ duaya wan nebiçûk kir.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "duaya"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "bêparan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "biçûk kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duaya wan"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "duaya wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:59.531642734Z",
+  "model": "glm-5.3"
+}

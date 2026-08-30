@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û ga an pez — ⟨את⟩ wî û ⟨את⟩ kurê wî di rojekê de serjê nekin.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "û ga"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "שה",
+      "gloss": "pez"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nekin"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "serjê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di rojekê de"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:40.123698454Z",
+  "model": "glm-5.3"
+}

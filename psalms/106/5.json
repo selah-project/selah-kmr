@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Ji bo ku ez qenciya bijartiyên te bibînim, bi kêfa netewa te şa bim, û bihevra bi mîrasa te bilind bikim xwe.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "ji bo ku ez bibînim"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "qenciya"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "bijartiyên te"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "şa bim"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "bi kêfa"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "netewa te"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "bilind bikim xwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bihevra"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "bi mîrasa te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:51.057700637Z",
+  "model": "glm-5.3"
+}

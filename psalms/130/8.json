@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 130,
+  "translation": "Û ew Îsraêlê ⟨את⟩ ji hemû gunehên wî rizgar bike.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Û ew"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêlê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "gunehên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:04.674097092Z",
+  "model": "glm-5.3"
+}

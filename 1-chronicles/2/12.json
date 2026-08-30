@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Boaz bavê Oved bû, û Oved bavê Yîşay bû.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Û Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bavê … bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "û Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bavê … bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yîşay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yîşay"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:18.943140473Z",
+  "model": "glm-5.3"
+}

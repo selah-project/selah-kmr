@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "û ⟨את⟩ zêr bi pîvanê ji bo masiyên rêzkirinê, ji bo mase û mase, û zîv ji bo masiyên zîvê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zêr"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "bi pîvanê"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "ji bo masiyên"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "rêzkirinê"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "ji bo mase"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "û mase"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "û zîv"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "ji bo masiyên"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîvê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:42:40.987900557Z",
+  "model": "glm-5.3"
+}

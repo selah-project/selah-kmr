@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Ew digihîje nifşê bavên xwe; heta êdî ronahî nabînin.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "digihîje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nifşê"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:57.250197659Z",
+  "model": "glm-5.3"
+}

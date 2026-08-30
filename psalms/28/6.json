@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Yahwe bêrûket e, ji ber ku dengê lavaziyên min bihîst.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bêrûket e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lavaziyên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:03.144986254Z",
+  "model": "glm-5.3"
+}

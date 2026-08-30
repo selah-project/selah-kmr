@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Cham, bavê Kenaan, ⟨את⟩ çawaniya bavê xwe dit û ji du birayên xwe re, li derve, vegot.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çawaniya bavê xwe"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çawaniya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "vegot"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ji du ... re"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "li derve"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:32.287734495Z",
+  "model": "glm-5.3"
+}

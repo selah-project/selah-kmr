@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Maskîl ji aliyê Asaf. Guh bidin, gelî min, Şerîeta min; guhên xwe beri gotinên devê min vezivirînin.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskîl"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ji aliyê Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Guh bidin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelî min"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Şerîeta min"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "vezivirînin"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "guhên xwe"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "beri gotinên"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:48.560285395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Û Yahwe bû ji bo min kelê-bilind, û Elohîmê min kevirê penahiya min.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kelê-bilind"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "û Elohîmê min"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kevirê"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "penahiya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:45.810925165Z",
+  "model": "glm-5.3"
+}

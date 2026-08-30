@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yahwe hat û rawesta û wekî car bi car bang kir: \"Şemuel, Şemuel!\" Û Şemuel got: \"Bipeyive, ji ber ku dihedîne şêwazê te.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "rawesta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bang kir"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "wekî car"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "bi car"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bipeyive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dihedîne"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "şêwazê te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:01.117929416Z",
+  "model": "glm-5.3"
+}

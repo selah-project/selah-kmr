@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Qencbînî û zanînê fêrî min bike, çimko bi fermanên te bawer kirime.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "qencî"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "qencbînî"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "û zanîn"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "fêrî min bike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimko"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "bi fermanên te"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "bawer kirime"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:51.947532102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 41:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Kî ji rojhilatê yekî hişyar kir û bi rastî gazî wî kir bo lingê wî? Wî gelan da ber wî, û ser keyan hukim kir; wî wan wek tozê da ber şûrê wî, wek kaxizê ji bayê hatiye teqandin da ber kêvanê wî.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "hişyar kir"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ji rojhilatê"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "gazî wî kir"
+    },
+    {
+      "surface": "לרגלו",
+      "gloss": "bo lingê wî"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ber wî"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "û keyan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "hukim kir"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "wek tozê"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ber şûrê wî"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "wek kaxizê"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "ji bayê teqandî"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "da ber kêvanê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:25.625321170Z",
+  "model": "glm-5.3"
+}

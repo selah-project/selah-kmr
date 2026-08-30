@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Roj çê dibe, ew têne civandin û di şikeftên xwe de dirêdibin.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "çê dibe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "têne civandin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û di…de"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "şikeftên xwe"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "dirêdibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:50.032702275Z",
+  "model": "glm-5.3"
+}

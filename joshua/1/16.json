@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û wan bersiv da Yahweşua, wê got: «Hemû tiştê ku te fermana me kirî, emê bikin, û bo her cihê ku te bişîne me, emê biçin.»",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Û wan bersiv da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweşua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahweşua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wê got"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "te fermana me kirî"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "emê bikin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her cihê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "te bişîne me"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "emê biçin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:21.632060269Z",
+  "model": "glm-5.3"
+}

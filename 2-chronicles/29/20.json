@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Hizqiya key bi danê sibê rabû, ⟨את⟩ serokezhên bajêr kom kir û çû ser malpera Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bi danê sibê rabû"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "kom kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serokezhên bajêr"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serokezhên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "çû ser"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:53:41.221336589Z",
+  "model": "glm-5.3"
+}

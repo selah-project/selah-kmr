@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Sipasiya Yahwe bikin, bi navê wî gazî bikin, di nav gelan de kiryarên wî nîşan bidin.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Sipasiya … bikin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "gazî bikin"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "bi navê wî"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "nîşan bidin"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "kiryarên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:03.793594982Z",
+  "model": "glm-5.3"
+}

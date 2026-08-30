@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ger mêrekî ⟨את⟩ keça xwe wekî kenizê bifroşe, ew ê wekî derketina xulamên-nêr dernakeve.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "bifroşe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keça wî"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "keça wî"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "wekî kenizê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "dernekeve"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "wekî derketina"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "xulamên-nêr"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:12.681364769Z",
+  "model": "glm-5.3"
+}

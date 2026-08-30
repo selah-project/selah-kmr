@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Ez ê kirinên Yah bi bîr bînim, çinku ez ê tiştên ecêb ên kevnar ên te bi bîr bînim.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ez ê bi bîr bînim"
+    },
+    {
+      "surface": "מַעַלְלֵי",
+      "gloss": "kirinên"
+    },
+    {
+      "surface": "יָהּ",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "çinku"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ez ê bi bîr bînim"
+    },
+    {
+      "surface": "מִקֶּדֶם",
+      "gloss": "ên kevnar"
+    },
+    {
+      "surface": "פִלְאֶךָ",
+      "gloss": "tiştên ecêb ên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:28.263164181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 79,
+  "translation": "Heta kengê, Yahwe? Ma heta dawiyê gerînî? Ma xeberiya te dê wekî agir bişewite?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "gerînî"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "dê bişewite"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "xeberiya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:58.745300080Z",
+  "model": "glm-5.3"
+}

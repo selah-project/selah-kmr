@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ew ji wî re ⟨את⟩ Simran û ⟨את⟩ Yokshan û ⟨את⟩ Medan û ⟨את⟩ Midyan û ⟨את⟩ Yishbaq û ⟨את⟩ Shuah zayî.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Simran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Simran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishbaq"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shuah"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuah"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:06.724634760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Dadê ⟨the⟩ sêwî û ⟨the⟩ bîbanan dike, û hegerî evî dike — ji bo ku jê re nan û çakêt bide.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Dadê"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sêwî"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "û bîbanan"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "û evî dike"
+    },
+    {
+      "surface": "גר",
+      "gloss": "hegerî"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ji bo ku... bide"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "û çakêt"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:13.072110391Z",
+  "model": "glm-5.3"
+}

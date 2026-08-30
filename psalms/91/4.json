@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Bi perên wî ê te bipêçe, û binê baskên wî bighere penahê; pal û sipara rastiya wî ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "bi perên wî"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ê bipêçe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "û binê"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "baskên wî"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "bighere penahê"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "pal"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "û sipar"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "rastiya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:13.358963565Z",
+  "model": "glm-5.3"
+}

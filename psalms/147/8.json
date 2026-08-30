@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "⟨Yê⟩ ku ezmanan bi ewran dipoşe, ⟨yê⟩ ku ji erdê re baran amade dike, ⟨yê⟩ ku li çiyayan giha şîn dike.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "dipoşe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "bi ewran"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "amade dike"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ji erdê re"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "baran"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "şîn dike"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "li çiyayan"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "giha"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.760422679Z",
+  "model": "glm-5.3"
+}

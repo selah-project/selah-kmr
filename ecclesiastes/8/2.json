@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "⟨Ez dibêjim⟩: devê padîşah biparêze, û ji ber sondê Elohîm.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ji ber"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sondê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:59:45.746138985Z",
+  "model": "glm-5.3"
+}

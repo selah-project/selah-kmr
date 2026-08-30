@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Deviyê דeriyê ji bo azadîhildanê devê wî negirî.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "devê wî negirî"
+    },
+    {
+      "surface": "שור",
+      "gloss": "deviyê"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ji bo azadîhildanê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:08:27.277513381Z",
+  "model": "glm-5.3"
+}

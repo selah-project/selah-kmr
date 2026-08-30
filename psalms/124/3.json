@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 124,
+  "translation": "Wê hingê zinde da bi me, dema ku di pêketina hêrsên wan a li ser me de.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "wê hingê"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zinde"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "da bi me"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "di pêketina…de"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "hêrsên wan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "li ser me"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:04.997095478Z",
+  "model": "glm-5.3"
+}

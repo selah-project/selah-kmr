@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Dîsa hêrsa Yahwe li ser Yisraêl zêde bû, û ew Dawid li dijî wan hildî da ku bêje: “Here, ⟨את⟩ Yisraêl û ⟨את⟩ Yahûda jimêre.”",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "zêde bû"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "li ser Yisraêl şewitî"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li ser Yisraêl"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "hildî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "li dijî wan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "da ku bêje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Here"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "jimêre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yahûda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahûda"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:34.101817339Z",
+  "model": "glm-5.3"
+}

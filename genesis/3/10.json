@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û wî got: «⟨את⟩ dengê te di baxçe de bihîstim û tirsdar bûm, ji ber ku tazî me, û xwe veşartim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wî got"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê te"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "dengê te"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "bihîstim"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di baxçe de"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "û tirsdar bûm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "tazî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "û xwe veşartim"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:20.939434473Z",
+  "model": "glm-5.3"
+}

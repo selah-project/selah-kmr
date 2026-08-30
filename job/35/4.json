@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Ezê bersivê bide te — bi peyvan — û ⟨את⟩ hevalên te bi te re.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "bersivê bidim te"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "bi peyvan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hevalên te"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "hevalên te"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:00:30.568573427Z",
+  "model": "glm-5.3"
+}

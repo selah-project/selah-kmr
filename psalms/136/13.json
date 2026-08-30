@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Ku deryaya qamîş li perçeyan qut kir, ji ber ku xeseda wî ji bo hertimî ye.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Ku…qut kir"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryaya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "qamîş"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "li perçeyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xeseda wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:52.081582724Z",
+  "model": "glm-5.3"
+}

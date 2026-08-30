@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber ku niştecîha Marotê ji bo qenciyê hêviya xwe birûnê, ji ber ku xerabî ji ⟨את⟩ Yahwe daket heta deriyê Yeruşalayimê.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "hêviya xwe birûnê"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ji bo qenciyê"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "niştecîha"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marotê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "daket"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "heta deriyê"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:58.689389283Z",
+  "model": "glm-5.3"
+}

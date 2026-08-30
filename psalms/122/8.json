@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 122,
+  "translation": "Ji ber birayên min û hevalên min, êdî ez ê bibêjim: Aştî di te de be.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayên min"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "û hevalên min"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ez ê bibêjim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "aştî"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:36.426270570Z",
+  "model": "glm-5.3"
+}

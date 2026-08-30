@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Ew berfê wekî hûr didît, seqeyê wekî kûlî belav dike.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "didît"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "berfê"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "wekî hûr"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "seqeyê"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "wekî kûlî"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "belav dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.117280139Z",
+  "model": "glm-5.3"
+}

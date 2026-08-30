@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ⟨את⟩ wê mişkê çarser car dê vegerîne, ji ber ku ew ⟨את⟩ ev kar kirîye û ji ber ku dilê wî nema nerm bûye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wê mişkê"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "wê mişkê"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dê vegerîne"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "çarser car"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kirîye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev kar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "dilê wî nema nerm bûye"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:18.019750824Z",
+  "model": "glm-5.3"
+}

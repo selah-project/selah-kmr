@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Dilê jîr li milê wî yê rastê ⟨ye⟩, dilê ahmaq jî li milê wî yê çepê.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "jîr"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "milê wî yê rastê"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "û dilê"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahmaq"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "milê wî yê çepê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:52.675482808Z",
+  "model": "glm-5.3"
+}

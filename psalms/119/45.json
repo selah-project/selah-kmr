@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Û ez ê di firehiyê de bigerim, ji ber ku min fermanên te lê geriya.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "û ez ê bigerim"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "di firehiyê de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "min lê geriya"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:54.880719703Z",
+  "model": "glm-5.3"
+}

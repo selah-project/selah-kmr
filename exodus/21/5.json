@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ger xulam bi zelalî bêje: “Ez Adonayê xwe ⟨את⟩, ⟨את⟩ jina xwe û ⟨את⟩ zarokên xwe hesibandim; ez ê nakim ku azad derkevim.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "xulam"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "hesibandim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonayê min"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina min"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "jina min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zarokên min"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "derkevim"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "azad"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:12.680634240Z",
+  "model": "glm-5.3"
+}

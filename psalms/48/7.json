@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Lerizîn li wir wan girt, êşên zayînê, wekî jina zayû.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "lerizîn"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "wan girt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "êşên zayînê"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "wekî jina zayû"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:15.511675075Z",
+  "model": "glm-5.3"
+}

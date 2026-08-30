@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Niştecih û karmendê kirêdayî naxwin jê.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "niştecih"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "karmendê kirêdayî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "naxwin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:00.762630104Z",
+  "model": "glm-5.3"
+}

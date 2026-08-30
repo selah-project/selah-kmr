@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û ev in derên ku ew çêbikin: parsûya sîngê û efod û redû û kincê bi motîfan xemilkirî, destmalê serî û kêşê; û ew derên pîroz ji bo Aharon, birayê xwe, û ji bo kûrên wî çêbikin, ji bo ku ew ji bo min xizmetê kahîniyê bike.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Û ev in"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "derên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ew çêbikin"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "parsûya sîngê"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "û efod"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "û redû"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "û kinc"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "bi motîfan xemilkirî"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "destmalê serî"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "û kêşê"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "û ew çêbikin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "derên"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "û ji bo kûrên wî"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "ji bo kahîniyê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:10.543788635Z",
+  "model": "glm-5.3"
+}

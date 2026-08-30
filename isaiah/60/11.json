@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Deriyên ⟨te⟩ her gav vekirî dimînin — roj û şev ne tên girtin — ji bo ku dewleta neteweyan bên înanîn bal te, û keyên wan tên rêvebirin.",
+  "tokens": [
+    {
+      "surface": "ופתחו",
+      "gloss": "vekirî dimînin"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "deriyên te"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "her gav"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "roj"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "û şev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "tên girtin"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ji bo înanîna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bal te"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dewleta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neteweyan"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "û keyên wan"
+    },
+    {
+      "surface": "נהוגים",
+      "gloss": "tên rêvebirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:46:58.109174539Z",
+  "model": "glm-5.3"
+}

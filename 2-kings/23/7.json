@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û ew hilweşand ⟨את⟩ xaneyên qedewan yên ku di mala Yahwe de bûn, ku jin li wir ji bo Aşera dirûtin.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "hilweşand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaneyên qedewan"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "xaneyên"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qedewan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "jin"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "dirûtin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "boyax"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "ji bo Aşera"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:08.501575303Z",
+  "model": "glm-5.3"
+}

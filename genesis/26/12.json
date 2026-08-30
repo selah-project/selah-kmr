@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 26:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Yitshaq di wê erdê de çand kir, û di wê salê de sed caran (sed şeşik) bi dest xist, û Yahwe wî pîroz kir.",
+  "tokens": [
+    {
+      "surface": "ויזרע",
+      "gloss": "çand-kir"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di-wê-erdê-de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "û-bi-dest-xist"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "di-wê-salê-de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "caran"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "û-wî-pîroz-kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:45:37.980176351Z",
+  "model": "glm-5.3"
+}

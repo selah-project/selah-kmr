@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Hûn ⟨את⟩ serê hemû civata zarokên Îsraêlî hildin, li gorî malbatên wan û malên bavên wan, bi hejmara navan, her nêrîk, yek bi yek.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hildin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serê hemû civata zarokên Îsraêlî"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên wan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "malên"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "bi hejmara"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nêrîk"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "yek bi yek (bi serê wan)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:56.353417515Z",
+  "model": "glm-5.3"
+}

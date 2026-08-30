@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Hûn bibînin, roj tên, dibegeha Yahwe, û ez ê ⟨את⟩ mala Yisraêl û ⟨את⟩ mala Yehûda bi tovê mirov û bi tovê ajalan biçînim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "hûn bibînin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "roj"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tên"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "dibegeha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "û ez ê biçînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala Yisraêl"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mala Yehûda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tovê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "û tovê"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ajalan"
+    }
+  ],
+  "timestamp": "2026-08-29T21:01:51.230424052Z",
+  "model": "glm-5.3"
+}

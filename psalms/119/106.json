@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Swêr xwariye û ez ê wê bicîh bînim, ku ez ⟨את⟩ mîşpêtên yên rast yên te biparêzim.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "swêr xwariye"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "û ez ê wê bicîh bînim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ku ez biparêzim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mîşpêtên"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "yên rast yên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:23.873122026Z",
+  "model": "glm-5.3"
+}

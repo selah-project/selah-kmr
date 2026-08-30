@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û Parho (Firavn) zivirî û çû nav mala xwe, û dilê xwe jî ji bo vê yekê nezanî — even ji bo vê.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "û zivirî"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "שת",
+      "gloss": "nezanî"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ji bo vê yekê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:41.407295961Z",
+  "model": "glm-5.3"
+}

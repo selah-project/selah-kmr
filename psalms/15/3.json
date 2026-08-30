@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Ew ê ku bi zimanê xwe dexesî nake, ne xerabiyê ji hevalê xwe re dike û nermetiyê li ser nêzîkê xwe nagire.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "dexesî nake"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "zimanê xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ji hevalê xwe re"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "û nermetî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nagire"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "..."
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nêzîkê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:05.031583761Z",
+  "model": "glm-5.3"
+}

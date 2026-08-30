@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ma mirov dikare Elohîm dexes bike? Lê hûn min ⟨אתי⟩ dexes dikin. Hûn gotin: «Bi çi me tu dexes kir?» Bi deşî û bi pêşkêş.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "ma... dexes bike"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "dexes dikin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "û hûn gotin"
+    },
+    {
+      "surface": "במה",
+      "gloss": "bi çi"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "me tu dexes kir"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "deşî"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "û pêşkêş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:25.380470632Z",
+  "model": "glm-5.3"
+}

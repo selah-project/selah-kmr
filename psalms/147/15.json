@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Ew peyva xwe ber bi erdê dişîne; fermana wî bi lez direve.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "dişîne"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "peyva xwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "bi lez"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "direve"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fermana wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.117134647Z",
+  "model": "glm-5.3"
+}

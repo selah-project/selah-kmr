@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û Avraham xwe li ber gelê welêt serî xwar.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "serî xwar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    }
+  ],
+  "timestamp": "2026-08-29T17:43:28.049313813Z",
+  "model": "glm-5.3"
+}

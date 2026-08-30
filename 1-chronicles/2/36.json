@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Atay bavê Natan bû, û Natan bavê Zabad bû.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Atay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bavê … bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "û Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bavê … bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:15.226901397Z",
+  "model": "glm-5.3"
+}

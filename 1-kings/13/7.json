@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û padîşah bi mêrê Elohîm re axaft: «Were ⟨את⟩ bi min re malê û xwe xêr bike, û ez ê diyarîyekê bidim te.»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Û axaft"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "באה",
+      "gloss": "Were"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bi min re"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "malê"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "û xwe xêr bike"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "û ez ê bidim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "diyarîyekê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:21.721275612Z",
+  "model": "glm-5.3"
+}

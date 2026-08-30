@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Şerîeteke Moşe fermana me kir, ⟨ev⟩ milkê civata Yaqûb e.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Şerîetek"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "milk"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "civata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    }
+  ],
+  "timestamp": "2026-08-29T19:13:34.364051043Z",
+  "model": "glm-5.3"
+}

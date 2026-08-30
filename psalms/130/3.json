@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 130,
+  "translation": "Ger tu, Yah, gunehan bihêsibînî, Adonay, kê dikare raweste?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "gunehan"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "bihêsibînî"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dikare raweste"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:44.156063615Z",
+  "model": "glm-5.3"
+}

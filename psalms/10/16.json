@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Yahwe Padîşah ⟨e⟩ ji bo heyamê û hertî; netewe ji erdê wî helak bûne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Padîşah"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ji bo heyamê"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertî"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "helak bûne"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ji erdê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:54.915294351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ji ber hemû gunehên Başa û gunehên Elah kurê wî — yên ku guneh kirin û yên ku Îsraêl ⟨את⟩ dane gunehkirinê — da ku bi valatiyên xwe Yahwe ⟨את⟩, Elohîmê Îsraêl, bi hêrs bikin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "gunehên"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "û gunehên"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "guneh kirin"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û yên ku"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "dane gunehkirinê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "bi hêrs bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "bi valatiyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T03:36:59.140798598Z",
+  "model": "glm-5.3"
+}

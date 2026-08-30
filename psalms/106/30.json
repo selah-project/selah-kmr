@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û Pîneḥas (Pînaḥas) rabû û navbeynî kir, û webeste hat astengkirin.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pîneḥas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "navbeynî kir"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "hat astengkirin"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "webeste"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:55.603363726Z",
+  "model": "glm-5.3"
+}

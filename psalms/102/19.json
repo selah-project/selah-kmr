@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Ev bila ji bo nifşê paşerojê were nivîsîn, û gelê ku dê were afirandin dê Yah bilûvizîne.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "bila were nivîsîn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ji bo nifşê"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "paşerojê"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û gel"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "dê were afirandin"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "dê bilûvizîne"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:59.531807574Z",
+  "model": "glm-5.3"
+}

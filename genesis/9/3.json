@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Hemû tiştê ku dilive û zindî ye dê ji bo we xwarin be; wek riweka kesk min ⟨את⟩ hemû tiştan ji we re daye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "tiştê ku dilive"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindî ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dê … be"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "wek riweka"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "kesk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min … daye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû tiştan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:22.238844776Z",
+  "model": "glm-5.3"
+}

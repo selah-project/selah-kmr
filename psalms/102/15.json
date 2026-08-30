@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Çimkî xulamên te ⟨את⟩ kevirên wê dixwazin û ⟨את⟩ xweliya wê rehm dikin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "dixwazin"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "xulamên te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevirên wê"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "kevirên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xweliya wê"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "xweliya wê"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "rehm dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:14.234231303Z",
+  "model": "glm-5.3"
+}

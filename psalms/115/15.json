@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Hûn ji aliyê Yahwe bireykî ne, ⟨ku⟩ Çêkerê ezmanan û erdê ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "bireykî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji aliyê Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Çêkerê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "û erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:43.576812388Z",
+  "model": "glm-5.3"
+}

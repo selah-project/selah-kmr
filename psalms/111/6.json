@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 111,
+  "translation": "Hêza kiryarên xwe ji gelê xwe re eşkere kir, da ku mîrata gelan bide wan.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "kiryarên xwe"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "eşkere kir"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ji gelê xwe re"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da ku bide"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mîrata"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:48.371680966Z",
+  "model": "glm-5.3"
+}

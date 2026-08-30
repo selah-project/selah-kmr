@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û her pîşeya kîn bi tevahî ⟨dê⟩ bê kvetin; nayê xwarin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Û her"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "pîşeya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kîn"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨dê bê⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yê xwarin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:39.972011011Z",
+  "model": "glm-5.3"
+}

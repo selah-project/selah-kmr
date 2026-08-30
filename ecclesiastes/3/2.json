@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Dem ji bo zayînê, û dem ji bo mirinê; dem ji bo çandinê, û dem ji derxistina yê çandî.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ji bo zayînê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ji bo mirinê"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ji bo çandinê"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ji bo derxistinê"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "yê çandî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:32.998966304Z",
+  "model": "glm-5.3"
+}

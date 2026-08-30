@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Wê ew ji bo Yaʿqûb wekî qanûn û ji bo Îsraêl wekî peymana ji-dûr-ve danî.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "danî"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ji bo Yaʿqûb"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "wekî qanûn"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ji bo Îsraêl"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peyman"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ji-dûr-ve"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:03.186750074Z",
+  "model": "glm-5.3"
+}

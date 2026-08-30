@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Xerabî vegerîje dijminên min; bi rastiya xwe wan bi dawî bîne.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "vegerîje"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "bi rastiya xwe"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "wan bi dawî bîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:20.060400389Z",
+  "model": "glm-5.3"
+}

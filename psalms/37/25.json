@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Ez ciwan bûm, êdî kal bûm jî, û min tu car ne dî ku rasteqîn hatibe terkkirin, an jî dûvî wî nanê xwe bixwaze.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ciwan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "kal bûm"
+    },
+    {
+      "surface": "ו",
+      "gloss": "û"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min dî"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rasteqîn"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "hatibe terkkirin"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "û dûvî wî"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "bixwaze"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:04.393395889Z",
+  "model": "glm-5.3"
+}

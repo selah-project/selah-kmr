@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û sînor derket aliyê deryayê, Mixmetat ji bakur, û sînor dor bû ji rojhilat heta Tanat-Şîloyê, û wê derbas kir ⟨את⟩ ji rojhilat, heta Janoxayê.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "sînor"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "aliyê deryayê"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "Mixmetat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ji bakur"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "dor bû"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "sînor"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ji rojhilat"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Tanat-"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Şîloyê"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "derbas kir"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (ji rojhilat)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ji rojhilat"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "Janoxayê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:20:29.224861877Z",
+  "model": "glm-5.3"
+}

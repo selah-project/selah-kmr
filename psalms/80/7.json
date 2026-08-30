@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Tu me ji bo cîranên me nakokî çêkir, û dijminên me ji maswegulî ji xwe re dikin.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Tu me çêkir"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "nakokî"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ji bo cîranên me"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "û dijminên me"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "maswegulî dikin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji xwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:59.357745276Z",
+  "model": "glm-5.3"
+}

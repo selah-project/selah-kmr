@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 21:3",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û gotin: Çima, Yahwe, Elohîmê Îsraêlê, ev bûye di Îsraêl de, ku îro êşîrek ji Îsraêlê kêm bûye?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Û gotin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Çima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bûye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Îsraêl de"
+    },
+    {
+      "surface": "להפקד",
+      "gloss": "kêm bûye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ji Îsraêlê"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "êşîrek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "..yek"
+    }
+  ],
+  "timestamp": "2026-08-29T19:33:36.573631132Z",
+  "model": "glm-5.3"
+}

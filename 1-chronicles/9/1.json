@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "û hemû Yisraêl xwe bi nîşandariya xwe tomar kirin, û va, ew li ser kitêba şahên Yisraêl û Yehuda hatine nivîsîn; ew di bin êşîtiya xwe de sirgûnî Babîlê bûn.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "xwe bi nîşandarî tomar kirin"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "û va"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "hatine nivîsîn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitêb"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "şahên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "û Yehuda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "sirgûn bûn"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "di bin êşîtiya xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:40.351553277Z",
+  "model": "glm-5.3"
+}

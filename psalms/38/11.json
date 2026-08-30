@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Dilê min lêdide, hêza min berda min; û ronahîya çavê min jî — ew jî li cem min tunene.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "lêdide"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "berda min"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "û ronahîya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavê min"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tunene"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ li cem min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:40.375475915Z",
+  "model": "glm-5.3"
+}

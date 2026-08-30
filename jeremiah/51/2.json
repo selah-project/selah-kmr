@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Ê min bo Babîlê biyanî şînin, ew ê wê çînînin, û ⟨את⟩ erdê wê vala bikin, çimkî di roja xerabiyê de ji her alî ve li dora wê bûne.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ê min şînin"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "bo Babîlê"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "ew ê wê çînînin"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "û vala bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê wê"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "erdê wê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûne"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li dora wê"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ji her alî ve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:40:58.051746008Z",
+  "model": "glm-5.3"
+}

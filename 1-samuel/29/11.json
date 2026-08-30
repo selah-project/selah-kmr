@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û Dawid, ew û mêrên wî, sibê zû rabin ku di sibê de biçin da vegerin welatê Filistiyan; û Filistî hildan çûn Yizreelê.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "zû rabin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "û mêrên wî"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ku biçin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di sibê de"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "da vegerin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyan"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "û Filistî"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hildan çûn"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreelê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:24.351188422Z",
+  "model": "glm-5.3"
+}

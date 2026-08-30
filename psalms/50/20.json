@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Tu rûdînî, li dijî birayê xwe diaxivî, û li kurê dayika xwe dexaletiyê bar dikî.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "tu rûdînî"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "li dijî birayê xwe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "diaxivî"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "li kurê"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "dayika xwe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bar dikî"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "dexaletiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:17.469693205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Serpêştir di paqijiya xwe de digere, saxî bi zarokên wî yên piştî wî.",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "digere"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "di paqijiya xwe de"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "serpêştir"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "saxî bi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zarokên wî"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "piştî wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:56.977658368Z",
+  "model": "glm-5.3"
+}

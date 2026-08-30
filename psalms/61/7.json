@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 61,
+  "translation": "Rojan li ser rojên padîşah zêde bike; salên wî wekî nifş û nifş bin.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "zêde bike"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "salên wî"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nifş"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "û nifş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:07.284447693Z",
+  "model": "glm-5.3"
+}

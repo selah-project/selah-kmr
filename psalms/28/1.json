@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Ji Dawid. Ber bi te, Yahwe, ez bang dikim; kevirê min, ne ji min bêdeng bî — dê tu ji min bêdeng bî, ez wekî yên ber bi çalê dadikewim bim.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ber bi te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ez bang dikim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kevirê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "bêdeng bî"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dê"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "tu bêdeng bî"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ez wekî … bim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "yên dadikewin"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çalê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:11.635212491Z",
+  "model": "glm-5.3"
+}

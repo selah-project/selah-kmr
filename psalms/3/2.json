@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Yahwe, çawa dijminên min zêde bûn! Gej in yên li ser min radibin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zêde bûn"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Gej"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "radibin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:50.819335842Z",
+  "model": "glm-5.3"
+}

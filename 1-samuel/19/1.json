@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Şaûl bi kurê xwe Yonatan re û bi hemû xulamên xwe re axivî ⟨ku⟩ ⟨את⟩ Dawid bikujin; û Yonatan kurê Şaûl bi Dawid re dilxwaz bû, pir zêde.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bi… re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "⟨ku⟩ bikujin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "û Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dilxwaz bû"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "bi Dawid re"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir zêde"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:52.862571313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 57:11",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Û ⟨את⟩ kê ji duwan digirt û ditirsî, ku tu dixapîsî? Û min bi ⟨את⟩... nebîr kirî, ne anî ser dilê xwe. Ma ez bêdeng im, û ji demekê ve, û ⟨את⟩ min natirsî?",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "דאגת",
+      "gloss": "ji duwan digirtî"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "û ditirsî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תכזבי",
+      "gloss": "dixapîsî"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "û min ⟨את⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "bîr kirî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "anî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dilê te"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מחשה",
+      "gloss": "bêdeng im"
+    },
+    {
+      "surface": "ומעלם",
+      "gloss": "û ji demekê ve"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "û min ⟨את⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ditirsî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:42.623110906Z",
+  "model": "glm-5.3"
+}

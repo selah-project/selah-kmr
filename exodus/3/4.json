@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yahwe dît ku ew rû daye da bibîne; û Elohîm ji nava behîvê bangî wî kir û got: Moşe, Moşe! Û wî got: Ez li vir im!",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "סר",
+      "gloss": "rû daye"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da bibîne"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bangî wî kir"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ji nava"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "behîvê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ez li vir im"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:49.821621505Z",
+  "model": "glm-5.3"
+}

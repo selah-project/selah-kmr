@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Çimkî çiya dê wê bibin dewerî û gir dê bihejin, lê xesedê min ji te ⟨את⟩ naye dewerandin û peymana silava min naye hejandin, got Yê dilovan ê te, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "dê bibin dewerî"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "û gir"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "dê bihejin"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "û xesedê min"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ji te ⟨את⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "naye dewerandin"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "û peymana"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "silava min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "naye hejandin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "Yê dilovan ê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:26.854939289Z",
+  "model": "glm-5.3"
+}

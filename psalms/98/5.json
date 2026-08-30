@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 98,
+  "translation": "Ji bo Yahwe bi kinnorê bilîzin, bi kinnorê û bi dengê stranê.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "bilîzin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bi kinnorê"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bi kinnorê"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "û bi dengê"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "stranê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:24.947844249Z",
+  "model": "glm-5.3"
+}

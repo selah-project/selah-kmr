@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 39:29",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "û ⟨את⟩ keskerê — ketanê şandî, û şîn û ergewan û kirmê sor, xebata brodarîyê — wekî ku Yahwe ferman da ⟨את⟩ Moşe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keskerê"
+    },
+    {
+      "surface": "האבנט",
+      "gloss": "keskerê"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ketanê"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "şandî"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "û şîn"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "û ergewan"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "û kirmê"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sor"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "xebata"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "brodarîyê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:54.376806910Z",
+  "model": "glm-5.3"
+}

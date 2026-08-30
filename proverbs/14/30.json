@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Dilê şifa jiyan e ji goşt re, lê kelandina hestiyan çavnebarî ye.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "jiyan"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "şifa (derman)"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "lê kelandin (kûrbûn)"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestî"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "çavnebarî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:13.837036620Z",
+  "model": "glm-5.3"
+}

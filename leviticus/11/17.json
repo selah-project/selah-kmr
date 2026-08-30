@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "û ⟨את⟩ kûsa biçûk û ⟨את⟩ qijîkê avê û ⟨את⟩ kûsa mezin,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kûsa biçûk"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kûsa biçûk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "qijîkê avê"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "qijîkê avê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kûsa mezin"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "kûsa mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:39.035676428Z",
+  "model": "glm-5.3"
+}

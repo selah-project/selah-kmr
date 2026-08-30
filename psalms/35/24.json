@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Li gorî rastiya xwe min bi dadbarî bike, Yahwe Elohîm ê min; û bila li ser min şabînî nekin.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "min bi dadbarî bike"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "li gorî rastiya xwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîm ê min"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "bila... nekin"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "şabînî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:02.059900183Z",
+  "model": "glm-5.3"
+}

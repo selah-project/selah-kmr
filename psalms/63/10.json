@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Ên ku canê min ji bo wêranîyê digerin, ê dê here binê erdê.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ew (ê ku)"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ji bo wêranîyê"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "digerin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "dê bin"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "binê (cihên herî bin)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:36.287480173Z",
+  "model": "glm-5.3"
+}

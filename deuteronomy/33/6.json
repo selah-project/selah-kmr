@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Reuven bijî û nemire, û mêrên wî bihejmar bin.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "bijî"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "nemire"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û...bin"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "mêrên wî"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bihejmar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:12:56.297874546Z",
+  "model": "glm-5.3"
+}

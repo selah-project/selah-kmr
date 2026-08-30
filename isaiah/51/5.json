@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Nêzîk rastîya min e, rizgarîya min derketiye, û milên min gelan dê darizînin; girav li min hêvî dikin û li milê min çaverawî dikin.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nêzîk"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "rastîya min"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derketiye"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "rizgarîya min"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "û milên min"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "dê darizînin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "איים",
+      "gloss": "girav"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "hêvî dikin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û li"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "milê min"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "çaverawî dikin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:15.958855310Z",
+  "model": "glm-5.3"
+}

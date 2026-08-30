@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Dijminên wî ê ez bi şerm lixalî bikim, lê dê nezerê wî — tacê wî — li ser wî şîn bibe.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Dijminên wî"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ê ez lixalî bikim"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "bi şerm"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "lê li ser wî"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "dê şîn bibe"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "nezerê wî — tacê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:44.450903496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "«Werîn li ser Yehudayê, wê bidîtên, wê ji bo me ve bikin, û keyanekî di nav wê de bi cih bikin — ⟨את⟩ kurê Taval.»",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "werîn"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "li ser Yehudayê"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "wê bidîtên"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "wê ji bo me ve bikin"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ji bo me"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "keyanekî bi cih bikin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyanekî"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "di nav wê de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurê Taval"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Taval"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:46.813711354Z",
+  "model": "glm-5.3"
+}

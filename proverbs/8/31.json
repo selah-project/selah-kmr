@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "di tebelê erda wî de dilîstim, û şahiyên min bi ⟨את⟩ kuranê Adem re bûn.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "dilîstim"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "di tebelê"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "erda wî"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "û şahiyên min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuranê Adem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuranê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adem"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:57.315012815Z",
+  "model": "glm-5.3"
+}

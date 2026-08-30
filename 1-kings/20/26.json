@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û di vegera salê de bû; Ben-Hadad ⟨את⟩ Aramê kom kir û çû Apekê, ji bo şerî bi Îsraêl re.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "di vegera"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "salê"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kom kir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramê"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramê"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "çû"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Apekê"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ji bo şer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi...re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:30.206644202Z",
+  "model": "glm-5.3"
+}

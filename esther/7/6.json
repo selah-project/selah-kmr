@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ester got: Mêrekî zilmetinîker û dijmin — Hamanê xerab ê han. û Haman ji ber padîşah û keybanûyê pê tiptir bû.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "צר",
+      "gloss": "zilmetinîker"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "û dijmin"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerab"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ê han"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "û Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "pê tiptir bû"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "û keybanûyê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:45.771144187Z",
+  "model": "glm-5.3"
+}

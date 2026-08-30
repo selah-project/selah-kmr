@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û çêkir ⟨את⟩ heft çirayên wê, û mêçên wê yên qûtbirînê, û tasên qûtan ên wê — zêrê paqij.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heft çirayên wê"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "çirayên wê"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "û mêçên wê yên qûtbirînê"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "û tasên qûtan ên wê"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:10.769632082Z",
+  "model": "glm-5.3"
+}

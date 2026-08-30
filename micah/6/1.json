@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Bihîsin, dixa axa, tiştê ku Yahwe dibêje: Rabe, ⟨את⟩ li ser çiyan doz bike, û gir dengê te bibihîsin.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "bihîsin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dixa axa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "קום",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "doz bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ li ser",
+      "marks": "çiyan"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "çiyan"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "û bibihîsin"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "gir"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "dengê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:18.307027285Z",
+  "model": "glm-5.3"
+}

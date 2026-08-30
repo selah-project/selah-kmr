@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Nûh sê kur anîn: ⟨את⟩ Şem, ⟨את⟩ Ham û ⟨את⟩ Yafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nûh"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:16.816905108Z",
+  "model": "glm-5.3"
+}

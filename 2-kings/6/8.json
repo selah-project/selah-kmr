@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û keyê Aramê dişerî Îsraêlê dikir, û xwe bi xulamên xwe re şêwirî kir, ji bo gotinê: «Li cihê filanî û falanî hêza min ⟨ye⟩.»",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramê"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dikir"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "dişerî"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "şêwirî kir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ji bo gotinê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "filanî"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "û falanî"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "hêza min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:16:29.416000730Z",
+  "model": "glm-5.3"
+}

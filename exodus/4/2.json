@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Yahwe ji wî re got: \"Ev çi ye di destê te de?\" Û wî got: \"Virçek (matê).\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ji wî re got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ev çi ye"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di destê te de"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "virçek (matê)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:16.949288574Z",
+  "model": "glm-5.3"
+}

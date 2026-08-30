@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Yê ku merivekî dibe û ew dimire — bi mirinê bêye kuştin.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Yê ku ... dibe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "merivekî"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "û ew dimire"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bi mirinê"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bêye kuştin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:26.440363906Z",
+  "model": "glm-5.3"
+}

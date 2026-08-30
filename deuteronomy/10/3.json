@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û min sandûqekî ji darê hişê çêkir, û min du tabletên kevirî yên wekî yên pêşîn birîn, û min rabû serê çiyê, û du tabletên jî di destê min de bûn.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "û min çêkir"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqekî"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ji darê"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "hişê"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "û min birîn"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tabletên"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kevirî"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "yên wekî yên pêşîn"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "û min rabû"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "serê çiyê"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "û du"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabletan"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "di destê min de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:27.234628277Z",
+  "model": "glm-5.3"
+}

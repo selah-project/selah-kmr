@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Bide me alîkariya li hember⟨⟨ה⟩⟩⟨dijmin⟩; û betal ⟨e⟩ rizgariya mirov.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Bide"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "alîkariya"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "li hember dijmin"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "û betal"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "rizgariya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:19.950351125Z",
+  "model": "glm-5.3"
+}

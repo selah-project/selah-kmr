@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Mêrên Îsraêlî derketin şerê li dijî BinYamîn, û mêrên Îsraêlî ⟨את⟩ wan di şer de li ber Gîbayê rêz dan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mêrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "BinYamîn"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "rêz dan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (BinYamîn)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mêrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gîbayê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:06.590975498Z",
+  "model": "glm-5.3"
+}

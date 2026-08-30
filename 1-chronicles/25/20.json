@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Sêzdehêmîn ji bo Şûbael, ew bi xwe, kûrên wî û birayên wî — dwazdeh ⟨bûn⟩.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "sêzdehêmîn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Şûbael"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kûrên wî"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "û birayên wî"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dwazdeh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:17.497857545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Û her kurê yekem di axa wan Lê da, yekemtiya hemû hêza wan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Û Lê da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "kurê yekem"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di axa wan"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "yekemtiya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "hêza wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:29.631964765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 21:2",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ahab bi Nevot re axaft, û got: «Bide min ⟨את⟩ rebê te, û bibe ji min re baxê sebze, ji ber ku ew nêzîkî mala min e; û ez ê şûna wî ji te re keremek ji wê çêtir bidim. Ger di çavên te de baş be, ez ê bi heqê wî zîv bidim te.»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axaft"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nevot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rebê te"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "rebê te"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "sebze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nêzîk e"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mala min"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "keremek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "çêtir"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di çavên te de"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "bi heqê"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:00.213240681Z",
+  "model": "glm-5.3"
+}

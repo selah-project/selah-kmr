@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Min ⟨את⟩ hemû yên zindî yên di bin rojê de digeriyan bi çavê xwe dîtin, bi zarokê duyemîn re, êdî ku dereceke li şûna wî radiweste.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "min ... bi çavê xwe dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû yên zindî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yên zindî"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "digeriyan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bin ... de"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarokê"
+    },
+    {
+      "surface": "השני",
+      "gloss": "duyemîn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "êdî ku"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "radiweste"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "li şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:27.827749957Z",
+  "model": "glm-5.3"
+}

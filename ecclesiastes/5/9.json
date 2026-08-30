@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Yê ku zêrê ditîne ji zêr têr nabe, û yê ku dewlemendiyê ditîne ji berhemê têr nabe; ev jî valatî ye.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ditîne"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "têr dibe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û yê ku"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ditîne"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "dewlemendî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "berhem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "valatî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:49.057666193Z",
+  "model": "glm-5.3"
+}

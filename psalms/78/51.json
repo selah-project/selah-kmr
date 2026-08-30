@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û wî hemû yekemzayên Mîtsrayimê lêdan — destpêka hêza wan di konên Xam de.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Û wî ... lêdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "yekemza"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "destpêka"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "hêza"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "di konên"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xam"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.093233554Z",
+  "model": "glm-5.3"
+}

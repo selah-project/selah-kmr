@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Di roja yekem a meha yekem, di yekê mehê de, wê ⟨את⟩ malbata çadê ya civînê raber bikî.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di rojê de"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "a meh"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yekem"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "di yekê de"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a mehê"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "raber bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malbata çadê ya civînê"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "malbat"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çad"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:00.086253274Z",
+  "model": "glm-5.3"
+}

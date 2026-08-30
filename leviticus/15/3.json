@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û ev ê paqijîyê di dêriya (zavê) wî de dibe: goştê wî ⟨את⟩ dêriya wî diherikîne, an jî goştê wî ji dêriya wî tê girtin — <paqijîya wî ev e>.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "nêpaqîya wî"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "di zavê wî de"
+    },
+    {
+      "surface": "רר",
+      "gloss": "diherikîne"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zavê wî"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "zavê wî"
+    },
+    {
+      "surface": "או",
+      "gloss": "an jî"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "tê girtin\/mohrdan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê wî"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ji zavê wî"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "nêpaqîya wî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:41.955072331Z",
+  "model": "glm-5.3"
+}

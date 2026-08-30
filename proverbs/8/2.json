@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Li ser serê bilindahiyan, li ser rê, di cihê rêyan de radiweste.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "li ser serê"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "bilindahiyan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "rêyan"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "radiweste"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:44.399692574Z",
+  "model": "glm-5.3"
+}

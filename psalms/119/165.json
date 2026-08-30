@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Aştîya mezin a evîndarên Tora te ye, û ji bo wan tu tewang nîne.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "aştî"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "evîndarên"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora te"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û … nîne"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "tewang"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:09.678967284Z",
+  "model": "glm-5.3"
+}

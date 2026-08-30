@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Avraham pîr bûbû, ketibû nav rojan, û Yahwe Avraham bi ⟨את⟩ hemû tiştan bêrî kiribû.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Û Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "pîr bûbû"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ketibû"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nav rojan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "û Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bêrî kiribû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû tiştan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:43:21.757869368Z",
+  "model": "glm-5.3"
+}

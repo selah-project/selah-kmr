@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Mirovê zimanşerîtî çu car li erdê ranebe; mirovê tundûtûjî — şer wî heta xerakirinê bigerîne.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mirovê"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "zimanşerîtî"
+    },
+    {
+      "surface": "בל",
+      "gloss": "çu car"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ranebe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erdê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirovê"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tundûtûjî"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şer"
+    },
+    {
+      "surface": "יצuidנו",
+      "gloss": "wî bigerîne"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "heta xerakirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:56.249580482Z",
+  "model": "glm-5.3"
+}

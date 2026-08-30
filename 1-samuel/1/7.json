@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wisa sala bi salê dikir; her ku ew dihilkiya malê Yahwe, wisa wê hêrsand; êdî ew digirî û nedixwar.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dikir"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "bi salê"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "her ku"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "dihilkiya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "hêrsand"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "û digirî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nedixwar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:19.175770372Z",
+  "model": "glm-5.3"
+}

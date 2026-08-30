@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û li cem tu canekî mirî derbas nebe; ji bo bavê xwe û ji bo diya xwe xwe nepîs bike.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Û li cem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "canekî"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "derbas nebe"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ji bo bavê xwe"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "û ji bo diya xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "xwe nepîs bike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:49.139520320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Tu pêçekên çavên min digirtî; min vejîya û nikarim biaxivim.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "digirtî"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "pêçekên"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "min vejîya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nika"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "rim biaxivim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:03.677167920Z",
+  "model": "glm-5.3"
+}

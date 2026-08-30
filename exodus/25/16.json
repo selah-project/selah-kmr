@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û nav sindanê de ⟨את⟩ şahidiyê ya ku ezê bidim te, deynî.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Û deynî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sindanê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şahidiyê"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şahidiyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ezê bidim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:45.070983867Z",
+  "model": "glm-5.3"
+}

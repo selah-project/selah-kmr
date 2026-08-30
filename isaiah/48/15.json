@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Ez, ez axivîm; erê, min gazî wî kir, min wî anî, û ê ê rêya wî serkeftî dike.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "axivîm"
+    },
+    {
+      "surface": "אף",
+      "gloss": "erê"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "min gazî wî kir"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "min wî anî"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "û ê serkeftî dike"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rêya wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:41.185185414Z",
+  "model": "glm-5.3"
+}

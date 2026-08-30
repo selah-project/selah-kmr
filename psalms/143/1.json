@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Mizmorekê ji Dawid re. Yahwe, duaya min bibihîze, guh bide lavayiyên min, di emûna te de bersivê bide min, di rastîya te de.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmorekê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bibihîze"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lavayiyên min"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "di emûna te de"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bersivê bide min"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "di rastîya te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:26.414685728Z",
+  "model": "glm-5.3"
+}

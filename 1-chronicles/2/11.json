@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Nachshon bavê Salma bû, û Salma bavê Boaz bû.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Û Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bavê … bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "û Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bavê … bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:18.943025923Z",
+  "model": "glm-5.3"
+}

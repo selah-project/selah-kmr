@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ji ber wê ez hemû fermanên te li ser hemû tiştan rast dihesibînim, û her riya derewê ji dilê xwe naqebilînim \/ ji hez dikim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû tiştan"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "rast dihesibînim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "riya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewê"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ji hez dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:39.582478287Z",
+  "model": "glm-5.3"
+}

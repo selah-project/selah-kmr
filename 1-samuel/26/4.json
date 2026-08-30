@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û Dawid casûsan şand û zanî ku Şaul bi rastî hatiye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casûsan"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "û zanî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatiye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "bi rastî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:33.899710713Z",
+  "model": "glm-5.3"
+}

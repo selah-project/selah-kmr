@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Tu wê ⟨את⟩ derzî bigirî û danî ⟨guhê wî⟩ û ⟨derî⟩, û ew ê bibe kolemê te heta-hetayê; û bi kenara kolema-mê ya te re jî wusa bikî.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "bigirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derzî"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "derzî"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "danî"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "guhê wî"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "derî"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ew ê bibe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "heta-hetayê"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "û bi kenara"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "kolema-mê ya te"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wusa bikî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    }
+  ],
+  "timestamp": "2026-08-29T19:05:05.452128243Z",
+  "model": "glm-5.3"
+}

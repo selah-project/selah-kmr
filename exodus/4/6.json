@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Yahwe dîsa ji wî re got: «Êdî destê xwe bike nav sinîna xwe.» Û wî destê xwe kir nav sinîna xwe, û wî derxist — û mêze, destê wî bi kêzê bû, wek berfê spî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "bike"
+    },
+    {
+      "surface": "נא",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "nav sinîna xwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Û wî kir"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "nav sinîna xwe"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "Û wî derxist"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û mêze"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "bi kêzê bû"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "wek berfê spî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:25.022052103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji ⟨את⟩ kûreyê kolê jî ji bo miletekî ez datînime, ji ber ku ew ji toxa te ye.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Û jî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûreyê"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kûreyê"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kolê"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ji bo miletekî"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ez datînime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ji toxa te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-29T17:43:46.180398176Z",
+  "model": "glm-5.3"
+}

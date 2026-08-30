@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Neynîk li wî nexebitîne, û kurê neheqî ê wî çewsîîne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "xebitîne"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neynîk"
+    },
+    {
+      "surface": "בו",
+      "gloss": "li wî"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "û kurê"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "neheqî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "çewsîîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:20.326328225Z",
+  "model": "glm-5.3"
+}

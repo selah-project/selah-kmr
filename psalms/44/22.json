@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ma Elohîm ⟨ev⟩ nîşe nayê, çimkî ew dizane veşartiyên dilê?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "nîşe nayê"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨ev⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "veşartiyên"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:13.231285125Z",
+  "model": "glm-5.3"
+}

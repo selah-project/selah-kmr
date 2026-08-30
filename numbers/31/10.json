@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û ⟨את⟩ hemû bajaran wan di cihên rûniştinê wan de û ⟨את⟩ hemû bircekên wan bi agir şewitandin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû bajaran wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "bajaran wan"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "di cihên rûniştinê wan de"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû bircekên wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "bircekên wan"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "şewitandin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:54:16.129315989Z",
+  "model": "glm-5.3"
+}

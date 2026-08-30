@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Çal kolaye û wî kûr kiriye, û ketiye çala ku bi xwe çêkiriye.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "çal"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "kolaye"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "û kûr kir wî"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "û ket"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "tê çalê"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "çêkiriye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:07.608357478Z",
+  "model": "glm-5.3"
+}

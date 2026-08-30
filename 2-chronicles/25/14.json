@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 25:14",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Piştî ku Amatsyahu ji kuştina ⟨את⟩ Edomiyan vegeriya, ew ⟨את⟩ xudayên kurên Seîr anî, wan ji xwe re rûnişand wek xudayan, û berê wan serî danî û ji bo wan buxrî da.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ku vegeriya"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ji kuştina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomiyan"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "Edomiyan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xudayên kurên Seîr"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "xudayên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seîr"
+    },
+    {
+      "surface": "ויעמידם",
+      "gloss": "wan rûnişand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "wek xudayan"
+    },
+    {
+      "surface": "ולפניהם",
+      "gloss": "berê wan"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "serî danî"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "יקטר",
+      "gloss": "buxrî da"
+    }
+  ],
+  "timestamp": "2026-08-30T06:52:14.721578950Z",
+  "model": "glm-5.3"
+}

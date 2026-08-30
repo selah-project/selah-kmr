@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Rûyê xwe bizivirîne bal min û dilovanî li min bike, çûnkî ez tenê û feqîr im.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "bizivirîne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bal min"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "û dilovanî li min bike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "û feqîr"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:44.157294266Z",
+  "model": "glm-5.3"
+}

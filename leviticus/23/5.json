@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Di meha yekem de, di roja çardehem a meh, di navbera êvaran de, Pêsach ê Yahwe ye.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "di meha"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yekem"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "di çar…"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…dehem"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a meh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "êvaran de"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pêsach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ê Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:00.054823475Z",
+  "model": "glm-5.3"
+}

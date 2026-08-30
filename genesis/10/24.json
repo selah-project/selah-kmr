@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Arpaşkad ⟨את⟩ Şelax bû bav; û Şelax ⟨את⟩ Eber bû bav.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Û Arpaşkad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû bav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelax"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Şelax"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Û Şelax"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû bav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:42.768633400Z",
+  "model": "glm-5.3"
+}

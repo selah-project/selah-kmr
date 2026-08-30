@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Wê wan li ser postên deriyê xanîya xwe û li ser deriyên xwe binivîsîne.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "wê binivîsîne"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "postên deriyê"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "xanîya xwe"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "û li ser deriyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:30.445761365Z",
+  "model": "glm-5.3"
+}

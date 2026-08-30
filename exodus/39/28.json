@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û ⟨את⟩ turbana ketenê spî, û ⟨את⟩ bonêtên xweşik ên ketenê spî, û ⟨את⟩ şalwarên ketenê pêçandî, ketenê spî yê hatî pêçan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "turbana ketenê spî"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ketenê spî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "bonêtên xweşik"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "xweşik"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "bonêtên"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ketenê spî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "şalwarên ketenê pêçandî"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "şalwarên"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "ketenê"
+    },
+    {
+      "surface": "שש",
+      "gloss": "spî"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "hatî pêçan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:38.356381575Z",
+  "model": "glm-5.3"
+}

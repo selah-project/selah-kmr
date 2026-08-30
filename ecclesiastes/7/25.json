@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ez û dilê min guherim ku bizanim, û bigerim, û lê bigerim jîrî û hesab, û ku bizanim ku neyarî kêmxwendî ye, û şaşîtî — dînîtî ye.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "guherim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "û dilê min"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ku bizanim"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "û bigerim"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "û lê bigerim"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrî"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "û hesab"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "û ku bizanim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "neyarî"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kêmxwendî"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "û şaşîtî"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "dînîtî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:09.136322259Z",
+  "model": "glm-5.3"
+}

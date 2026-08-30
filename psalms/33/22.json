@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Bila xesed ê te, Yahwe, li ser me be, wekî ku em li benda te ne.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bila ... be"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesed ê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "li ser me"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "em li benda ... ne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:03.828858Z",
+  "model": "glm-5.3"
+}

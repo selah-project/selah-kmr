@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Tişta bêxwe bê xwê tê xwarin? Ma di şilê hêkan de çêj heye?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "tê xwarin"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "tişta bêxwe"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bê"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "xwê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יש",
+      "gloss": "heye"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "çêj"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "di şilê… de"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "hêkan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:00.119148276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Hemû rojê dibeleyên min dişêwîtînin li ser min; hemû ramana wan ji bo xerabiyê ye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dibeleyên min"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "dişêwîtînin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "ramana wan"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ji bo xerabiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:27.828356447Z",
+  "model": "glm-5.3"
+}

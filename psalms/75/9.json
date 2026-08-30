@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 75,
+  "translation": "Ji ber ku kase di destê Yahwe de ye, û şerab heliyaye, bi têkelî tijî ye, û wî ji wê dirêj kir; êdî tenê dewrên wê hemû sûcdarên erdê dawî dikişînin û vedixwin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kase"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di destê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "û şerab"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "heliya"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tijî"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "bi têkelî"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "û dirêj kir"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "אך",
+      "gloss": "êdî tenê"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "dewrên wê"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "dawî dikişînin"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "vedixwin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "sûcdarên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:40.464573614Z",
+  "model": "glm-5.3"
+}

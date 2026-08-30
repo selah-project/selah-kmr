@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ger mêrek ⟨את⟩ çavê kolyê xwe yan ⟨את⟩ çavê koma wê bibide û wê xera bike, ji bo çava wî êdî azad berde.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "bibide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavê kolyê xwe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çavê"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kolyê xwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "yan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavê koma wê"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çavê"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "koma wê"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "û wê xera bike"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "azad"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "berde"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "çava wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:33.060239898Z",
+  "model": "glm-5.3"
+}

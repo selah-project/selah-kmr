@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Kî wekî zana? û kî şiroveya gotinê dizane? Zanîna mirov rûyê wî ronî dike, û hêza rûyê wî tê guhertin.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "wekî zana"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û kî"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "şiroveya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotinê"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "zanîna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "ronî dike"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "û hêza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "tê guhertin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:59:45.745846553Z",
+  "model": "glm-5.3"
+}

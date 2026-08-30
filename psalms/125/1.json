@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 125,
+  "translation": "Stran ⟨ji bo⟩ hilartinan. Ewên ku bawerî bi Yahwe dikin, wek çiyayê Tsiyon in — nayê hejandin, heta hertimî disekine.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hilartinan"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "bawerî dikin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "wek çiyayê"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tê hejandin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "disekine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:59.390025450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Ew ⟨את⟩ kurên xwe û ⟨את⟩ keçên xwe ji bo şedan (reyan) qurban kirin.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "qurban kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên xwe"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "keçên xwe"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "keçên xwe"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ji bo şedan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:37.706673615Z",
+  "model": "glm-5.3"
+}

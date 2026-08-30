@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Bilam çavên xwe hilda û ⟨את⟩ Yisraêl dît — bi eşîrên xwe rûniştî — û ruhê Elohîm hat ser wî.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavên xwe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên xwe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "rûniştî"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "bi eşîrên xwe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "hat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ser wî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T18:51:19.662802215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "⟨את⟩ evê bixwin ji hemûyên ku di avê de ne: hemûyê ku sîpik û pûrt lê hene, di avê de, di deryayan de û di çeman de — ⟨את⟩ wan bixwin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evê"
+    },
+    {
+      "surface": "זה",
+      "gloss": "evê"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bixwin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemûyên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avê de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemûyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lê"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sîpik"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "û pûrt"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avê de"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di deryayan de"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "û di çeman de"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bixwin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:19.304397647Z",
+  "model": "glm-5.3"
+}

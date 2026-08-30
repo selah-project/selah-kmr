@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 134,
+  "translation": "Strana hilkişînê. Hûr dibînin — hûn ⟨את⟩ Yahwe bibextyar bikin, hemû xulamên Yahwe, ên ku di malê Yahwe de di şevan de radiwestin!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Strana"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hilkişînê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hûr dibînin"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bibextyar bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ên ku radiwestin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "di şevan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:52.748263788Z",
+  "model": "glm-5.3"
+}

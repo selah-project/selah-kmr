@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Arpakşad ⟨את⟩ Şelax bû bavê, û Şelax ⟨את⟩ Êber bû bavê.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpakşad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelax"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Şelax"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "û Şelax"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ëber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ëber"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:58.285460775Z",
+  "model": "glm-5.3"
+}

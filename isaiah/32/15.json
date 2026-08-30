@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Heta ruh ji bilindahiyê li ser me were rijandin, û çol bibe Karmel (axa fireh), û Karmel wek daristanî bê hejmartin.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "were rijandin"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "li ser me"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ji bilindahiyê"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "û bibe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çol"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "û Karmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "wek daristanî"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bê hejmartin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:36:33.892861142Z",
+  "model": "glm-5.3"
+}

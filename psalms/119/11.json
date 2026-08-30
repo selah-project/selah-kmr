@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Di dilê xwe de min peyva veşart — ya te — da ku ez li hember te guneh nekim.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "di dilê min de"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "min veşart"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "peyva te"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ez guneh bikim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li hember te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:47.247475621Z",
+  "model": "glm-5.3"
+}

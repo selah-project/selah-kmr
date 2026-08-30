@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Hêrsa te li ser min sehkirî ye, û bi hemû pêlên xwe te min acidslandiye. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "sehkirî ye"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "hêrsa te"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "pêlên te"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "te min acidslandiye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:17.251062159Z",
+  "model": "glm-5.3"
+}

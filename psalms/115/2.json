@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Bo çi netewan bibêjin: «Ka, dibe, Elohîmê wan li ku ye?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "bo çi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "netewan"
+    },
+    {
+      "surface": "איה",
+      "gloss": "li ku ye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:25.770684450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û mêrên Yehûdayê gotin: “Çima hûn hatine hemberê me?” Û ew gotin: “Ji bo girêdana ⟨את⟩ Şîmşon em hatine hemberê we, ji bo ku em bi wî bikin wekî ku ew bi me kiriye.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûdayê"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "hûn hatin"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hemberê me"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "ji bo girêdanê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şîmşon"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Şîmşon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hemberê we"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ji bo kirinê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bi wî"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ew kiriye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bi me"
+    }
+  ],
+  "timestamp": "2026-08-29T19:31:16.194172152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û meltikê Babîlê wan ⟨אתם⟩ xist û wan kuşt, li Rîblayê, di welatê Ḧematê de; û Yehûda ji ser erdê wî hate sirgûnkirin.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "meltik"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "wan kuşt"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "li Rîblayê"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ḧematê de"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "hate sirgûnkirin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "erdê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:23.863608103Z",
+  "model": "glm-5.3"
+}

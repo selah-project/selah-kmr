@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Yahwe ji Moşe re got: \"Ji Aharon re bêje: Destê xwe bi darikê xwe li ser çeman, li ser kanalan û li ser kûlan dirêj bike, û beqan li ser axa Mîtsrayim bilîne.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "dirêj bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "bi darikê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "çeman"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "kanalan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "kûlan"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "û bilîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beqan"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "beqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "axa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:03.436246131Z",
+  "model": "glm-5.3"
+}

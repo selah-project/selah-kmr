@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ⟨tişt⟩ ji bo tevahiya karê têr dida ku ⟨את⟩ were çêkirin, û jê zêde ma.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "û ⟨tişt⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "דים",
+      "gloss": "têr dida"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo tevahiya"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karê"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku … were çêkirin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (karê)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "û jê zêde ma"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:47.237580146Z",
+  "model": "glm-5.3"
+}

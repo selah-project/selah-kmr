@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Bihevqûtî, Adonay, zimanê wan parve bike, çimku ez şîdet û pevçûn di bajar de dîtime.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "bihevqûtî"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "parve bike"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "zimanê wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimku"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ez dîtime"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "şîdet"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "û pevçûn"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajar de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:24.732736769Z",
+  "model": "glm-5.3"
+}

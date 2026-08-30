@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Mizmor — strana veavakirina ⟨ê⟩ malê, ji bo Dawid.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "veavakirina"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:48.779003450Z",
+  "model": "glm-5.3"
+}

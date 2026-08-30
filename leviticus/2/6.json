@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Wê bi perçeyan parve bike û rûnê jê re barije — ew pîşgeşe ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "bi perçeyan parve bike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "perçeyan"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "perçeyan"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "barije"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pîşgeş"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew ⟨ye⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:12.563079342Z",
+  "model": "glm-5.3"
+}

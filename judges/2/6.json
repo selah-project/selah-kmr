@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Yehoşua ⟨את⟩ gel şand, û şûnwarên Îsraêlê çûn, yek yek bo mîrata xwe, ji bo ku ⟨את⟩ erdê bigirin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "û çûn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "şûnwarên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yek yek"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "bo mîrata xwe"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ji bo ku bigirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:30.383094648Z",
+  "model": "glm-5.3"
+}

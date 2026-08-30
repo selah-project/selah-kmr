@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Di dema xirabiyê de şerm nakin, û di rojên birçîbûnê de têr dibin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "şerm nakin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di dema"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xirabiyê"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "û di rojên"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "birçîbûnê"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "têr dibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:50.913103653Z",
+  "model": "glm-5.3"
+}

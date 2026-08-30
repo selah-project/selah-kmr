@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 112,
+  "translation": "Dilê wî piştgirîdayî ye, natirse, heta ku li ser dijminên xwe binêre.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "piştgirîdayî ye"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "tirse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "li ser dijminên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.644442457Z",
+  "model": "glm-5.3"
+}

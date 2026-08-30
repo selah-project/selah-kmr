@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "û şêniyên pêşîn, ên di milkên xwe, di bajarên xwe de rûniştibûn: Yisraêlî, kahîn, Lîvî û Netînî.",
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "û şêniyên"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "pêşîn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "di milkên xwe de"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "di bajarên xwe de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlî"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lîvî"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "û Netînî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:40.351777977Z",
+  "model": "glm-5.3"
+}

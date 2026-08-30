@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Xwezî ji wî netewê ku Yahwe Elohîmê wî ye — gelê ku ji bo mîrasekê ji bo xwe hilbijart.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "xwezî ji"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "netewê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohîmê wî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "hilbijart"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ji bo mîrasekê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:11.762642039Z",
+  "model": "glm-5.3"
+}

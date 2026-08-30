@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 98,
+  "translation": "Bila deryay bi dengê xwe yê bilind bidere, û tije bûna wê; cîhan û şêniyên wê.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "bidere"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryay"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "û tije bûna wê"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "û şêniyên"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:24.948245033Z",
+  "model": "glm-5.3"
+}

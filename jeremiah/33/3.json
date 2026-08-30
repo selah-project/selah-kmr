@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Gazî min bike û ez ê bersivê bidim te, û ez ê ji te re tiştên mezin û veşartî eşkere bikim, ku tu wan nizane.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Gazî min bike"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "û ez ê bersivê bidim te"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "û ez ê … eşkere bikim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tiştên mezin"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "û veşartî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tu wan nizane"
+    }
+  ],
+  "timestamp": "2026-08-29T21:03:01.814148879Z",
+  "model": "glm-5.3"
+}

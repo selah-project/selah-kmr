@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ⟨את⟩ kirasên xwe derxîne, kirasên din li xwe bike, û ⟨את⟩ kûşeyê derîne derveyî kampê, bo cihekî paqij.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "derxîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirasên xwe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kirasên xwe"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "li xwe bike"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "kirasên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "derîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûşeyê"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kûşeyê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "derveyî"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "derveyî"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihekî"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:51.624126018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Bajarê valatî hate şikandin; her malî girtî ye, ji ⟨têketinê⟩.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "hate şikandin"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "valatî"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "girtî ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malî"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ji têketinê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:02.144760536Z",
+  "model": "glm-5.3"
+}

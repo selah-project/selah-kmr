@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Ji ⟨את⟩ Yahwe ve ev qewimî; ew di çavên me de ecêb e.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "ji ⟨את⟩ Yahwe ve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "qewimî"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ecêb e"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "di çavên me de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:37.538672299Z",
+  "model": "glm-5.3"
+}

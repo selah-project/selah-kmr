@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Agir şandin navenda te ya pîroz; heta erdê cihê rûniştinê yê navê te pîs kirin.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "navenda te ya pîroz"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "heta erdê"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "pîs kirin"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "cihê rûniştinê"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yê navê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:08.324053272Z",
+  "model": "glm-5.3"
+}

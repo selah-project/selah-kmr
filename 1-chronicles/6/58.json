@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ⟨את⟩ Raamot û ⟨את⟩ zozanên wê, û ⟨את⟩ Anem û ⟨את⟩ zozanên wê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zozanên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Anem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zozanên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:12.801159719Z",
+  "model": "glm-5.3"
+}

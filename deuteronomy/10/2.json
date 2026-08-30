@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "«Û ez ê li ser tabletan ⟨את⟩ peyvan — yên ku li ser tabletên pêşîn bûn, yên ku tu şîandibû — binivîsim; û tu wan di sandûqê de deynî.»",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "û ez ê binivîsim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabletan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabletên"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "pêşîn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "tu şîandibû"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "û tu wan deynî"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "di sandûqê de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:27.234405421Z",
+  "model": "glm-5.3"
+}

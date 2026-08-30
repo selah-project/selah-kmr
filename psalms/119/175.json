@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Bila canê min bijî û bila Yahwe bilind bike, û hukmên te alîkariya min bikin.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "bila bijî"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "û bila Yahwe bilind bike"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "û hukmên te"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "alîkariya min bikin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:00.796976780Z",
+  "model": "glm-5.3"
+}

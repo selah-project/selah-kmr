@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Şemûel ⟨את⟩ hemû eşîrên Îsraêl nêzîk kir, û eşîra Binyamîn hat girtin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "û … nêzîk kir"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû eşîrên Îsraêl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "eşîrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "û … hat girtin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "eşîra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamîn"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:03.041479137Z",
+  "model": "glm-5.3"
+}

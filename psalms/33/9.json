@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Çimkî ew got û ⟨ew⟩ bû; ew ferman kir û ⟨ew⟩ rawesta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "rawesta"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:11.762114973Z",
+  "model": "glm-5.3"
+}

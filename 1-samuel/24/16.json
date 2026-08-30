@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Bila Yahwe bibê dadvan û di navbera min û te de hukim bike, û bibîne û ⟨את⟩ doza min parveze û ji destê te min xilas bike.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bila … be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "bibê dadvan"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "û hukim bike"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di navbera min"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "û te de"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "û bibîne"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "û parveze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doza min"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "doza min"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "û min xilas bike"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ji destê te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:03.965260396Z",
+  "model": "glm-5.3"
+}

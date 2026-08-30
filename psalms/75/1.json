@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 75,
+  "translation": "Ji bo serokê muzîkê; “Wêran neke”; mezmurê Asaf; stran.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokê muzîkê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "wêran bike"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ê Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "stran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:21.155136683Z",
+  "model": "glm-5.3"
+}

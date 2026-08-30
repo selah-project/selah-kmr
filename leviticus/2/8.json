@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ⟨את⟩ pîşgeşa ku ji van tê çêkirin bîne ji bo Yahwe, û wê bîne cem kahîn, û ew ⟨wê⟩ nêzîkî mezeltê bike.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pîşgeşa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pîşgeşa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tê çêkirin"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ji van"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "bîne cem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "nêzîkî bike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezeltê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:12.563451782Z",
+  "model": "glm-5.3"
+}

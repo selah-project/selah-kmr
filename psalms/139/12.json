@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Cî tarîtî jî ji te re nê tarî ye; û şev wek rojê dibiriqe — tarîtî wek ronahiyê ye.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarîtî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nê"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "tarî ye"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "û şev"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wek rojê"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "dibiriqe"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "tarîtî wek"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ronahiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:19.527953406Z",
+  "model": "glm-5.3"
+}

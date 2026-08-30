@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Dilovanîyên xwe bibîr bîne, Yahwe, û xesedên xwe (evîna peymanê ya neguhêrbar), ji ber ku ew ji kûdemiyê ve ne.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "bibîr bîne"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dilovanîyên te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "û xesedên te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ji kûdemiyê ve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew in"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:52.605504278Z",
+  "model": "glm-5.3"
+}

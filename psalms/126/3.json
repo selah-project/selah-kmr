@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 126,
+  "translation": "Yahwe bi me re tiştên mezin kir; em bûn şad.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "tiştên mezin kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ji bo kirin"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bi me re"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "em bûn"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "şad"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:08.654097095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Di dema ku Natan pêxember hat bal wî, piştî ku ew çû bal Bat-Şeva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "di dema ku … hat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bal wî"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:04.276832533Z",
+  "model": "glm-5.3"
+}

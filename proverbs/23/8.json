@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Lokê ku xwarî yê bihovê bikî û peyvên xwe yên şîrîn wend bikî.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "lokê te"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ku xwarî"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "yê bihovê bikî"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "û wend bikî"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "peyvên xwe"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "yên şîrîn"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:23.325988745Z",
+  "model": "glm-5.3"
+}

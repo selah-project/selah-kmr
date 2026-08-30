@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Pasdaranên ku dorê bajarê digirtin, min dîtin; «⟨את⟩ yê ku cana min hez dike, we dît?»",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "min dîtin"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "pasdaran"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "dorê digirtin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajarê de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê ku cana min hez dike"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "yê ku... hez dike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "cana min"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "we dît"
+    }
+  ],
+  "timestamp": "2026-08-30T06:03:33.246661220Z",
+  "model": "glm-5.3"
+}

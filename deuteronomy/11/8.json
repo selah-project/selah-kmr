@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "û hûn ⟨את⟩ hemû fermanê yê ku ez îro ji we re ferman dikim biparêzin, ji bo ku hûn bihêz bibin û hûn werin û ⟨את⟩ wê erdê bigirin ku hûn derbas dibin wê derê ji bo ku wê bigirin;",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû fermanê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "fermanê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ferman dikim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "hûn bihêz bibin"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "û hûn werin"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "û bigirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wê erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wê erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "derbas dibin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wê derê"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ji bo ku wê bigirin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:27.832337407Z",
+  "model": "glm-5.3"
+}

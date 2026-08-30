@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Wisa hînî me bike ku em rojên me bihejmarîn, da ku em bighînin dilê jîrîyê.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "ku em bihejmarîn"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "rojên me"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "hînî me bike"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "da ku em bighînin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrîyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:09.911657271Z",
+  "model": "glm-5.3"
+}

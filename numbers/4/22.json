@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Serê kurên Gerşonê bilîne ⟨את⟩, ew jî, li gorî malên bavên wan, li gorî malbatên wan.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "bilîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serê kurên Gerşonê"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerşonê"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "li gorî malên"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:35.580354944Z",
+  "model": "glm-5.3"
+}

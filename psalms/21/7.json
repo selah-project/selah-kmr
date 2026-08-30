@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ji ber ku tu bikî wî berbextiya hertimî; tu tijî dikî wî bi şahiyê ⟨את⟩ rûyên te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "tu bikî wî"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "berbextî"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "tu tijî dikî wî"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "bi şahiyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyên te"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:14.938238414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Û ez, hema hema lingên min hatin berdan (xwar kirin), gavên min wekî tune hatin rijandin.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Û ez"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "hema hema"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "hatin berdan (xwar kirin)"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lingên min"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "wekî tune"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "hatin rijandin"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gavên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:43.549120897Z",
+  "model": "glm-5.3"
+}

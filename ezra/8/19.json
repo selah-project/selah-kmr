@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ Haşavya û ⟨את⟩ bi wî re Yeşaya, ji kurên Merarî, birayên wî û kurên wan — bîst.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haşavya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Haşavya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yeşaya"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeşaya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarî"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên wî"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "û kurên wan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    }
+  ],
+  "timestamp": "2026-08-30T06:24:19.250109195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Navê baş ji rûnê ⟨yê⟩ xweş çêtir e, û roja mirinê ji roja ji dayîkbûnê.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nav"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ji rûnê"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xweş"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "û roja"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mirinê"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ji roja"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ji dayîkbûnê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:21.584516558Z",
+  "model": "glm-5.3"
+}

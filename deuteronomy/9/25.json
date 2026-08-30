@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ez jî berî Yahwe rûdanûmayî kirim — ⟨את⟩ çil rojan û ⟨את⟩ çil şevan, ku min rûdanûmayî kiribû, çimkî Yahwe gotibû ku ⟨⟨את⟩ we⟩ ji holê rake.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "ez rûdanûmayî kirim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çil rojan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çil şevan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "şevan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "min rûdanûmayî kiribû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ku ji holê rake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:59.223294068Z",
+  "model": "glm-5.3"
+}

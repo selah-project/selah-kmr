@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 95,
+  "translation": "Em berî rûyê wî bi spasî bibin pêşwazî, em bi sitranan bi dengê bilind ji bo wî qêrînin.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "em bibin pêşwazî"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "berî rûyê wî"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "bi spasî"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "bi sitranan"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "em qêrînin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:22.642938089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Ji bo rêberê muzîkê, li ser Yedutun, ji Asaf re, mezmûr.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo rêberê muzîkê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ji Asaf re"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmûr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:38.602759801Z",
+  "model": "glm-5.3"
+}

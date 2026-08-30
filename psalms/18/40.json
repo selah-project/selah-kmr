@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Te min bi hêz ji bo şer diqûmand; Te serhedên min di binê min de xwar kir.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Û Te min diqûmand"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bi hêz"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ji bo şer"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "Te xwar kir"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "serhedên min"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "di binê min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:38.205518542Z",
+  "model": "glm-5.3"
+}

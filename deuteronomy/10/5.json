@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Êrî va me geriya û ji çiyê daket, û ⟨את⟩ lewhan danîne di sandiqa ku min çêkiribû; ew li wir in, wekî ku Yahwe fermana min kiribû.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "û êrî va me geriya"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "û daket"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "û danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewhan"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lewhan"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "di sandiqa de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min çêkiribû"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ew in"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "fermana min kiribû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:44.073634993Z",
+  "model": "glm-5.3"
+}

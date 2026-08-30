@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Zaliman çal ji bo min kolîn — yên ku ne li gorî Tora te ne.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "kolîn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "zaliman"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "çal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "li gorî Tora te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:28.723808942Z",
+  "model": "glm-5.3"
+}

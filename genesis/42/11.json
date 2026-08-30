@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Em hemû kurên zilamekî ⟨yek in⟩; em mirovên rast in, gulamên te casûs nîne.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "em hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamekî"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "em in"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "mêrên rast"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "gulamên te"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casûs"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:24.022020399Z",
+  "model": "glm-5.3"
+}

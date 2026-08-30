@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 2:22",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ew kûrtî û veşartîyan vedike, dizane çi di tarîtiyê de ye, û ronahî bi wî re dimîne.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ew"
+    },
+    {
+      "surface": "גלא",
+      "gloss": "vedike"
+    },
+    {
+      "surface": "עמיקתא",
+      "gloss": "kûrtî"
+    },
+    {
+      "surface": "ומסתרתא",
+      "gloss": "û veşartî"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "בחשוכא",
+      "gloss": "di tarîtiyê de"
+    },
+    {
+      "surface": "ונהירא",
+      "gloss": "û ronahî"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "שרא",
+      "gloss": "dimîne"
+    }
+  ],
+  "timestamp": "2026-08-30T06:16:29.625372508Z",
+  "model": "glm-5.3"
+}

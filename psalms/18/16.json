@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û qanalên avan xuya bûn, û bingehên cîhanê hatin eşkerekirin — ji gazinên te, Yahwe, ji sira bêhnika pozê te.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Û xuya bûn"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "qanalên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "û hatin eşkerekirin"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "bingehên"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhanê"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "ji gazinên te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "ji sira"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bêhnika"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "pozê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:40.844982386Z",
+  "model": "glm-5.3"
+}

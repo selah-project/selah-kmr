@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û sê salan rûniştin — şer nîn bû di navbera Aram û Yisraêl de.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "rûniştin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîn bû"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:14:41.847106206Z",
+  "model": "glm-5.3"
+}

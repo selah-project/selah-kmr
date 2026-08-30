@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Şeş salan tu tarîya xwe datîne û şeş salan tu tirîya xwe şûn dike û ⟨את⟩ berhemên wê dicivîne.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Şeş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "datîne"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tarîya xwe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "şûn dike"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "tirîya xwe"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "û dicivîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhemên wê"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "berhemên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:16.537118419Z",
+  "model": "glm-5.3"
+}

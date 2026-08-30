@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "⟨את⟩ Betserê, li çolê, li erda deştê, ji bo Rûbeniyan; û ⟨את⟩ Ramotê, li Gîleadê, ji bo Gadîyan; û ⟨את⟩ Golanan, li Başanê, ji bo Menşaîyan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betserê"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li erda"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "deştê"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ji bo Rûbeniyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ramotê"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "li Gîleadê"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "ji bo Gadîyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Golanan"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "li Başanê"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "ji bo Menşaîyan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:32:17.016943685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Çavên Yahwe ⟨ne⟩ li ser rastan, û guhên wî ⟨ne⟩ ji bo qêrîna wan.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastan"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "û guhên wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "qêrîna wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:02.233237209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û dema ku min ⟨את⟩ qîrina wan û ⟨את⟩ van gotinan bihîst, ez gelek acî bûm.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ez acî bûm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "min bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qîrina wan"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "qîrina wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "van gotinan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "gotinan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-30T06:26:19.949562392Z",
+  "model": "glm-5.3"
+}

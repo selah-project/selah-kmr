@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Qurbana şewatê ⟨את⟩ serber kir; kurên Ahron xwînê ⟨את⟩ anîn cem wî, ew li dora qurbangehê belav kir.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "serber kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana şewatê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cem wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwînê"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "belav kir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangehê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dora"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:53.840812147Z",
+  "model": "glm-5.3"
+}

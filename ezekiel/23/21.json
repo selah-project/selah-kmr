@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Wû tu bîra xwe anî ⟨את⟩ xerabiya ciwantiya xwe, dema Mîtsrayimyan sîyên te diheband, ji ber sîyên ciwantiya te.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "wû tu bîra xwe anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xerabiya ciwantiya te"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "ciwantiya te"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "dema … diheband"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mîtsrayimyan"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "sîyên te"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sîyên"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "ciwantiya te"
+    }
+  ],
+  "timestamp": "2026-08-30T03:52:02.452596165Z",
+  "model": "glm-5.3"
+}

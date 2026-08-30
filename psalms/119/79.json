@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Yên ji te ditirsin vegerin bal min, û şahidîyên te dizanin.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "vegerin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bal min"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "yên ji te ditirsin"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "û dizanin"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şahidîyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:50.743855260Z",
+  "model": "glm-5.3"
+}

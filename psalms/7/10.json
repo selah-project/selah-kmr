@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Bila xerabî ya xeraban niha biqede, û tu yê mafdar bi cî bikî; û Elohîmê mafdar dilan û gurçikan dinirxîne.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "biqede"
+    },
+    {
+      "surface": "נא",
+      "gloss": "niha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya xeraban"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "û tu yê mafdar bi cî bikî"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yê mafdar"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "û dinirxîne"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "û gurçikan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mafdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:55.493025584Z",
+  "model": "glm-5.3"
+}

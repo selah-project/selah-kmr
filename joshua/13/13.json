@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û kurên Îsraêlî ⟨את⟩ Geshurî û ⟨את⟩ Maakatî nedewestandin; Geshur û Maakat heta vê rojê di nav Îsraêlî de dijîn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "dewestandin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geshurî"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geshurî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maakatî"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Maakatî"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rûniştin"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshur"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "Maakat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nav … de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:20:01.464749344Z",
+  "model": "glm-5.3"
+}

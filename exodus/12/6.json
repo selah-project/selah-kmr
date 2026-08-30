@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ji we re be ji bo parastinê heta roja çardehem a vê mehê; û tevahiya civata cemaeta Yisraêl wî ⟨אתו⟩ di navbera êvaran de serjê bike.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Û be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "ji bo parastinê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "çar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a vê mehê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "û serjê bike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "cemaeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "êvaran de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:07.508535636Z",
+  "model": "glm-5.3"
+}

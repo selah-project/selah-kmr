@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Ew ⟨את⟩ hukmên min bi cewrê ji netewiyan bêhtir şaş kir, û ⟨את⟩ qanûnên min ji welatên ku derdora wê ne; ji ber ku ew hukmên min qewirandin û di qanûnên min de negeriyan.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Ew şaş kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukmên min"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmên min"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "bi cewrê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "netewiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "qanûnên min"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "qanûnên min"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "welatên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "derdora wê ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "hukmên min"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "qewirandin"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "û qanûnên min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "geriyan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:45:14.406823556Z",
+  "model": "glm-5.3"
+}

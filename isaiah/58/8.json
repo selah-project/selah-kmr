@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Wê demê ronahîya te wekî sibehê dê derbikeve, şifaya te bilez şîn dibe, rastîya te diçe pêşiya te, rûmeta Yahwe te dicivîne.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "derbikeve"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "wekî sibehê"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ronahîya te"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "û şifaya te"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "bilez"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "şîn dibe"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pêşiya te"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "rastîya te"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "te dicivîne"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:49.304032197Z",
+  "model": "glm-5.3"
+}

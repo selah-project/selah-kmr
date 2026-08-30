@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û min bi we re axivî, lê hûn nebihîstîn; û hûn serî hildan ⟨dijber⟩ ⟨את⟩ devê Yahwe û bi bêperwayî çalak bûn û hûn bilind bûn çîyayê.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Û min axivî"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "bi we re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê ne"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "hûn bihîstîn"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "û hûn serî hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "devê Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "û bi bêperwayî çalak bûn"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "û hûn bilind bûn"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "çîyayê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:00.123606183Z",
+  "model": "glm-5.3"
+}

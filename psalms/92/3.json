@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Ji bo daxuyakirina xesedê te di sibehê de, û baweriya te di şevan de.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "daxuyakirin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di sibehê de"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "û baweriya te"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "di şevan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:09.485513205Z",
+  "model": "glm-5.3"
+}

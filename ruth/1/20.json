@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ew ji wan re got, “Gazî min Niaomi bikin, lê gazî min Mara bikin, çimkî Şaday ji bo min pir tal kir.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Û ew got"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "gazî min… bikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Niaomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "gazî min bikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "המר",
+      "gloss": "tal kir"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şaday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:58.643707768Z",
+  "model": "glm-5.3"
+}

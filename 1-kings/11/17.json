@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Hadad reviya — ew û çend mêrên Edomî ji xulamên bavê wî ⟨את⟩ wî re — ku here Mîtsrayimê; û Hadad zarokekî biçûk bû.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "reviya"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "û çend mêr"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edomî"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ji xulamên"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî re",
+      "marks": "Edomî û xulamên bavê wî — אִתּוֹ li vir pêşnişanê \"bi wî re\" ye, ne nîşana objektê"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ku here"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "û Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zarok"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "biçûk"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:20.827649661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Şahidiyên te ecêb in, ji ber wî canê min wan diparêze.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "ecêb"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şahidiyên te"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wî"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "wan diparêze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:27.140684232Z",
+  "model": "glm-5.3"
+}

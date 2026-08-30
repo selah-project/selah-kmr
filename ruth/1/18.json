@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Êdî ⟨ew⟩ dît ku ⟨ew⟩ bi dilşewat xwe dida tevî wê çûnê ⟨את⟩, û dev ji axaftinê bi wê berda.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Êdî dît"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "bi dilşewat xwe dida"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ew⟩"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "çûnê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tevî wê"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "û dev berda"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ji axaftinê"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "bi wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:58.643384373Z",
+  "model": "glm-5.3"
+}

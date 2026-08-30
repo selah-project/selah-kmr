@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Dawid wê demê li kelê bû, û hêza sekinî ya Filistiyan wê demê li Bet-Lehem bû.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Û Dawid"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "li kelê"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "û hêza sekinî"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Filistiyan"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "li Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:19.549207418Z",
+  "model": "glm-5.3"
+}

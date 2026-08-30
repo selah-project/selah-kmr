@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Erdê ku Yahwe Elohîmê te lê digere — ⟨את⟩wê hertim; çavên Yahwe Elohîmê te li ser wê ne, ji destpêka salê heta dawiya salê.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "lê digere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩wê",
+      "marks": "wê (erd)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "בה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "ji destpêka"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "salê"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dawiya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:54.934946892Z",
+  "model": "glm-5.3"
+}

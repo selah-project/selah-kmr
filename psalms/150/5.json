@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 150,
+  "translation": "Wî bi zengilên deng bilûzin, wî bi zengilên qêrîna bilind bilûzin.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilûzin"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "bi zengilên"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "deng"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilûzin"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "bi zengilên"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "qêrîna bilind"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:58.979028575Z",
+  "model": "glm-5.3"
+}

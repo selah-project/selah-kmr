@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Karên xwe berde ser Yahwe, û armancên te wê bêne rastkirin.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "berde ser"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karên te"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "wê bêne rastkirin"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "armancên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:44:55.584229118Z",
+  "model": "glm-5.3"
+}

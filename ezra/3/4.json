@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û cejna Koverkan çêkirin ⟨את⟩, wek ku hatiye nivîsîn, û qurbana şewatê ya rojane bi rojê bi hejmar, li gorî rêzikê, karê rojê di roja wê de.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Û çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cejna"
+    },
+    {
+      "surface": "חג",
+      "gloss": "cejna"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Koverkan"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "wek ku hatiye nivîsîn"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "û qurbana şewatê"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya rojane"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "bi rojê"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "bi hejmar"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "li gorî rêzikê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "karê"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "di roja wê de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:22:50.485406007Z",
+  "model": "glm-5.3"
+}

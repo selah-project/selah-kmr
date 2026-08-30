@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û ereqê gerîdên wan ji arabên wan rakir û ew bi giranî rêve birin; û Mîtsrayim got: Em direvin ji rûyê Yisraêl, çünkü Yahwe şer dike ji bo wan li dijî Mîtsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "rakir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereqê gerîdên"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "ereqê gerîde"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "ji arabên wan"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "û ew rêve birin"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "bi giranî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "em direvin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji rûyê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "şer dike"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "li dijî Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:20.197844315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Bi hezar û du sed zewreyên şer, û bi şêst hezar siwaran; û ji wî gelê ku bi wî re ji Mîtsrayimê hatibûn re hejmar tune bû — Lûbî, Sûkî û Kûşî.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "bi hezar"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "û du sed"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "zewreyên şer"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "û bi şêst"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "siwaran"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û ... tune bû"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmar"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ji wî gelê re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hatibûn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "Lûbî"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "Sûkî"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "û Kûşî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:46:09.020533875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Lê tu, Adonay, Êlê dilovan û keremdar î, hêrsa te dirêj e, û bi xesed û rastiyê pir.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lê tu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "dilovan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "û keremdar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dirêj"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "hêrs"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û pir"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "û rastî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:26.361755994Z",
+  "model": "glm-5.3"
+}

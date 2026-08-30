@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "⟨את⟩ Goşt û ⟨את⟩ pêst bi agir şewitand, derveyî kampê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goşt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pêst"
+    },
+    {
+      "surface": "העור",
+      "gloss": "pêst"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "derveyî"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:53.840601505Z",
+  "model": "glm-5.3"
+}

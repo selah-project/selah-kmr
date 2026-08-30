@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "û ⟨את⟩ Hîtîyan, û ⟨את⟩ Perizzîyan, û ⟨את⟩ Refaîm",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hîtîyan"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hîtîyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Perizzîyan"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzîyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Refaîm"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Refaîm"
+    }
+  ],
+  "timestamp": "2026-08-29T17:40:10.333043175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Grîna min ji min re guhertî raveyê, ji min re kincê tene vekirî û bi kêfxweşî girêda min.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "guhertî"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "grîna min"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "raveyê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "vekirî"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "kincê tene"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "û girêda min"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bi kêfxweşî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:05.257530423Z",
+  "model": "glm-5.3"
+}

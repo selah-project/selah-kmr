@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Ji ber ku Yahwe ji bilindahiya pîrozbûna xwe berê xwe dada, ji ezmanan ber bi erdê nerî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "berê xwe dada"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ji bilindahiyê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîrozbûna xwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ji ezmanan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nerî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:59.531960679Z",
+  "model": "glm-5.3"
+}

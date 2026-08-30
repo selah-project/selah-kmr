@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Bi civatê re bipeyive û bêje: Hûn ji derdora cîhê Korah, Datan û Avîram dûr rake û bilind bibin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bipeyive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û bêje"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "bilind bibin"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ji derdora"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "cîhê"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "û Avîram"
+    }
+  ],
+  "timestamp": "2026-08-29T18:47:31.946375989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Avraham nêzîk bû û got: “Gelo tu yê rast bi xerab re bimirînî?”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "nêzîk bû"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "האף",
+      "gloss": "gelo"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "tu yê bimirînî"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xerab"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:46.427259876Z",
+  "model": "glm-5.3"
+}

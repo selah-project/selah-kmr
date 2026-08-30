@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Dîna, keça Lêayê — ya ku ew ji Yaqûb ra zayî — derket, ku keçên wî welêt bibîne.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dîna"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lêayê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ji Yaqûb ra"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ku … bibîne"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "keçên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wî welêt"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:44.763345261Z",
+  "model": "glm-5.3"
+}

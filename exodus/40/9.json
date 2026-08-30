@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û tu rûnê mişêyê bigire û Mîşkanê miş bike, û ⟨את⟩ hemû yê tê de ye; ⟨את⟩ û wê pîroz bike, û ⟨את⟩ hemû amûrên wê — û ew ê pîroz be.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûnê mişêyê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mişêyê"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "miş bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîşkanê"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mîşkanê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "pîroz bike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ û wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên wê"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ew ê ... be"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:43.348697823Z",
+  "model": "glm-5.3"
+}

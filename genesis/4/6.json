@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Yahwe ji Qayin re got: «Çima ⟨te⟩ bi hêrs kir û çima rûyê te ket?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bi hêrs kir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "û çima"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ket"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:43.571026825Z",
+  "model": "glm-5.3"
+}

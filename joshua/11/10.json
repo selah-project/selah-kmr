@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yehoşua wê demê vegeriya û ⟨את⟩ Hatsor girt û ⟨את⟩ keyê wê bi şûr xist, ji ber ku Hatsor berê serê hemû van keyaniyan bû.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keyê wê"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "keyê wê"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "xist"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "berê"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "wan keyaniyan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:42.352110890Z",
+  "model": "glm-5.3"
+}

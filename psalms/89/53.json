@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Bêrûket be Yahwe heta-herdem. Amên û amên.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bêrûket be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta-herdem"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amên"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "û amên"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:31.801176256Z",
+  "model": "glm-5.3"
+}

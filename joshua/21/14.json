@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ⟨את⟩ Yatîr û ⟨את⟩ çêzên wê, û ⟨את⟩ Eştemoa û ⟨את⟩ çêzên wê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yatîr"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatîr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêzên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêzên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Eştemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eştemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêzên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêzên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:53.558754613Z",
+  "model": "glm-5.3"
+}

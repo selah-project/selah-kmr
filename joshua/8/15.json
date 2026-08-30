@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Yehoşua û tevahiya Yisraêlê xwe berdan wan û ber bi riya çolê ve reviyan.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "xwe berdan (wekî têkçûyî)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "berî wan"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "reviyan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "riya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çolê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:56.410780413Z",
+  "model": "glm-5.3"
+}

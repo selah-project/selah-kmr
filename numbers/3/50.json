@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ji ⟨את⟩ yekem-zarokên kurên Yisraêl ⟨את⟩ zêrê hildirt: pênc û şêst û sê sed û hezar şiqel, bi şiqelê pîroz.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Ji ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "yekem-zarokên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hildirt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zêrê"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "û şêst"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "û hezar"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bi şiqelê"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:49.041211186Z",
+  "model": "glm-5.3"
+}

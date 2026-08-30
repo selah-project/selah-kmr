@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Ser destên xwe wê hilgirin te, da ku pêyê te li kevirî nexwîne.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "destên"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "wê hilgirin te"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ku ne"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "texwînî"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "li kevirî"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "pêyê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:15.438031951Z",
+  "model": "glm-5.3"
+}

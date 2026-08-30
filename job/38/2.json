@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Kî ye ev ku şîretê tarî dike bi peyvan bê zanîn?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "tarî dike"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "şîret"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "bi peyvan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bê"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanîn"
+    }
+  ],
+  "timestamp": "2026-08-30T06:01:15.556641700Z",
+  "model": "glm-5.3"
+}

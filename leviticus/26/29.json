@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û hûn goştê kurên xwe yê dixwin, û goştê keçên xwe hûnê bixwin.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "hûn…dixwin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "keçên xwe"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hûnê bixwin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:31.300502527Z",
+  "model": "glm-5.3"
+}

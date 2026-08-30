@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û sibeh bû, ruhê wî hat tevlihevkirin; ew şand û gazî hemû falçiyên Mîtsrayimê û ⟨את⟩ hemû zanayên wê kir, û Paroh ji wan re xewna xwe ⟨את⟩... vegot, û kesê ku ji bo Paroh wan şîrove bike tune bû.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibeh"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "hat tevlihevkirin"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruhê wî"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ew şand"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû falçiyên Mîtsrayimê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "falçiyên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû zanayên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "zanayên wê"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "vegot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xewna xwe"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "xewna xwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune bû"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "şîrove bike"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "ji bo Paroh"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ji bo Paroh"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:53.114315812Z",
+  "model": "glm-5.3"
+}

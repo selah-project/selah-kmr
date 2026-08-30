@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û hemû Yisraêl bihîst gotin: 'Şaul ⟨את⟩ posteya Fîlîstiyan êrîş birîye, û Yisraêl jî bêhtir li Fîlîstiyan ketiye dest;' û gel piştî Şaul hewar kir bo Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Û hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "êrîş birîye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posteya Fîlîstiyan"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "posteya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîstiyan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û jî"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "bêhtir ketiye dest"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "li Fîlîstiyan"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "Û hewar kir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "bo Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-29T19:39:21.788381053Z",
+  "model": "glm-5.3"
+}

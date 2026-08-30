@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Da Dawid jê re got: «Xwîna te serê te be, ji ber ku devê te bi ser te de danasî, ku got: Ez ⟨את⟩ Maşîahê Yahwe kuşt.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "xwîna te"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "serê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "devê te"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "danasî"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bi ser te de"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku got"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maşîahê Yahwe"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Maşîahê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:16.240210630Z",
+  "model": "glm-5.3"
+}

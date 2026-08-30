@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û min bersiv da û ji firîşteyê ku bi min re diaxift re gotim: «Ev çi ne, Adonayê min?»",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "Û min bersiv da"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "û gotim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "firîşteyê"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ku diaxift"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dibêjim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:07:18.036027499Z",
+  "model": "glm-5.3"
+}

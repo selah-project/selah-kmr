@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 128,
+  "translation": "Bila Yahwe ji Siyonê te bexşûşîne, û tu qenciya Yeruşalayimê bibînî, hemû rojên jiyana xwe.",
+  "tokens": [
+    {
+      "surface": "יברככה",
+      "gloss": "te bexşûşîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ji Siyonê"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "û tu bibînî"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "qenciya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "חייכה",
+      "gloss": "jiyana te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:42.146389002Z",
+  "model": "glm-5.3"
+}

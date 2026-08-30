@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Peyva ku Yeşayahu, kurê Amots, li ser Yehûda û Yeruşalayimê dîtî.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "peyv"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dîtî"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "û Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:50.073986823Z",
+  "model": "glm-5.3"
+}

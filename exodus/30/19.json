@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û Aharon û kurên wî ji wê ⟨את⟩ destên xwe û ⟨את⟩ lingên xwe bişon.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "bişon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û kurên wî"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lingên xwe"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "lingên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:27.422841587Z",
+  "model": "glm-5.3"
+}

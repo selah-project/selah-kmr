@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Elohîm, bi navê xwe ez rizgar bike, û bi hêza xwe ez dadbarî bike!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "bi navê xwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ez rizgar bike"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "û bi hêza xwe"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ez dadbarî bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:11.159762808Z",
+  "model": "glm-5.3"
+}

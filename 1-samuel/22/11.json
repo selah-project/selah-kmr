@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û şah şand ku gazî ⟨את⟩ Aḥimelex kurê Aḥîtûb kahîn bikin, û ⟨את⟩ hemû mala bavê wî — kahînên ku li Nobê bûn; û hemûyan hatin bal şah.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Û şand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ku gazî… bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥimelex kurê Aḥîtûb kahîn"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aḥimelex"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Aḥîtûb"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû mala bavê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahînên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "li Nobê"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "û hatin"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemûyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:07.094358616Z",
+  "model": "glm-5.3"
+}

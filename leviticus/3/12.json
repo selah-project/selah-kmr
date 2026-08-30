@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ger qurbana wî bizinek be, wê li pêşberî Yahwe bîne.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "עז",
+      "gloss": "bizinek"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbana wî"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "wê bîne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêşberî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:15.604081898Z",
+  "model": "glm-5.3"
+}

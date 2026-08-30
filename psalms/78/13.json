@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Deryayê qeland û wan derbas kir; avan wek girên avê rûnî kir.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "qeland"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "wan derbas kir"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "rûnî kir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wek"
+    },
+    {
+      "surface": "נד",
+      "gloss": "girên avê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:26.353113714Z",
+  "model": "glm-5.3"
+}

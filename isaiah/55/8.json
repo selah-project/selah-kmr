@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Ji ber ku ramînên min ⟨ne⟩ ramînên we ⟨ne⟩, û riyên we ⟨ne⟩ riyên min ⟨in⟩ — got Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ramînên min"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "ramînên we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "riyên we"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "riyên min"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:23.146243329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û xizmetkarên Şaul ji wî re gotin: «Behere, ruha xerab a Elohîm ditirside te.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "û ... gotin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmetkarên"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Behere"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dakî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerab a"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "ditirside te"
+    }
+  ],
+  "timestamp": "2026-08-30T03:34:01.314746665Z",
+  "model": "glm-5.3"
+}

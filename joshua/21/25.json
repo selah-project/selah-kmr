@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji nîvê eşîra Menashe ⟨את⟩ Taanak (Taanak) û ⟨את⟩ çêreza wê û ⟨את⟩ Gath-Rimon (Gath-Rimon) û ⟨את⟩ çêreza wê — du bajar.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "û ji nîvê"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "eşîra"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêreza wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêreza wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Gath-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çêreza wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "çêreza wê"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:52.379753339Z",
+  "model": "glm-5.3"
+}

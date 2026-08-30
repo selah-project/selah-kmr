@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ew derê Yîsraêl, xulamê wî, hûn kurên Yaakov, bijartiyên wî!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "derê (bijartin) — ji bo vê yekê ya \"bijartiyên wî\" tê gotin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsraêl"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê wî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "bijartiyên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:36:28.254053440Z",
+  "model": "glm-5.3"
+}

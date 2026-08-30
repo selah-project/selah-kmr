@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û Mîtsrayim pûç û vala ye; ên bêkêr alîkarî dikin. Ji ber wê min ev bi nav kir: Rahab ê Rawestî.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Û Mîtsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pûç"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "û vala"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "alîkarî dikin"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ji ber wê"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "min bi nav kir"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ê"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Rawestî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:28.852126764Z",
+  "model": "glm-5.3"
+}

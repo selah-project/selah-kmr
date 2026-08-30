@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Bêguman rizgarîya wî nêzîk e yên ku ji wî ditirsin, da ku rûmet di erdê me de bihewîtore.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "bêguman"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nêzîk e"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "yên ku ji wî ditirsin"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "rizgarîya wî"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "da ku bihewîtore"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "di erdê me de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:15.898454794Z",
+  "model": "glm-5.3"
+}

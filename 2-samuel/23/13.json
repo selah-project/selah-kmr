@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 23:13",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û sê ji sîhseran, serê wan, daketin û di dema celalî de hatin cem Dawid, şikefta Adulamê; û hêza Filistîyan li newala Refaîm li cih bicîh bû.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "daketin"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sê ji sîh"
+    },
+    {
+      "surface": "מהשלשים",
+      "gloss": "ji sîhseran"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê wan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "dema celalî de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "şikefta"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulamê"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "û hêza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistîyan"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "li cih bicîh bû"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "li newala"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaîm"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:03.613384470Z",
+  "model": "glm-5.3"
+}

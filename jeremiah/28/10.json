@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û Hananya pêxember ⟨את⟩ yokê ji stûyê Yirmeya pêxember hilda û şiband.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yokê"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "yokê"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji stûyê"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "stû"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "û şiband"
+    }
+  ],
+  "timestamp": "2026-08-29T21:01:12.018157700Z",
+  "model": "glm-5.3"
+}

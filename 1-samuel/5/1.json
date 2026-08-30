@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Fîlîstînan sandûqa Elohîm girt ⟨את⟩ û wê ji Eben-ha-Ezer anîn Ashdodê.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Û Fîlîstînan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "anîn wê"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "ji Eben-ha-Ezer"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Eben-ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdodê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:39.568156554Z",
+  "model": "glm-5.3"
+}

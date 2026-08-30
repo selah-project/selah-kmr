@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ez rûyê xwe li dijî we dinihêrim, hûn berî dijminên xwe dikevin, ên ku ji we nefret dikin li ser we serdest dibin, hûn direvin û tu kes ⟨את⟩ we nadin pey.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ez dinihêrim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "li dijî we"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "hûn dikevin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dijminên we"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "serdest dibin"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "ên ji we nefret dikin"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "hûn direvin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tu kes nîne"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "nadin pey"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:30.020853535Z",
+  "model": "glm-5.3"
+}

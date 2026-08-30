@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Yehûda jê re gotibû: “Ew mêr bi tundî li me sond xwar û got: Hûn rûyê min nabînin, heke birayê we bi we re nebe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "העד",
+      "gloss": "bi tundî"
+    },
+    {
+      "surface": "העד",
+      "gloss": "sond xwar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "li me"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ew mêr"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "dibînin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê min"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "heke… nebe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "birayê we"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bi we re",
+      "marks": "bi we re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:59.125483936Z",
+  "model": "glm-5.3"
+}

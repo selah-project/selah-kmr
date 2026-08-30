@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Vegere, canê min, bo aramiya xwe, çimkî Yahwe bi te xêratî kir ⟨ji bo te⟩.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Vegere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "bo aramiya xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "xêratî kir"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "⟨ji bo te⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:29.403807404Z",
+  "model": "glm-5.3"
+}

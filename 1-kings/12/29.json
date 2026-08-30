@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ⟨את⟩ yekê li Bet-El danî, û ⟨את⟩ yekê jî li Dan bi cih kir.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yekê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekê"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "li Bet-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yekê jî"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekê jî"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bi cih kir"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "li Dan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:54.839010706Z",
+  "model": "glm-5.3"
+}

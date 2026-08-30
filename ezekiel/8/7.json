@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨ew⟩ min anî ⟨את⟩ heta deriyê hewşê, û min dî, û eva, kuneyeke di dîwarê de.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Û ⟨ew⟩ … anî"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heta"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hewşê"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "û min dî"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û eva"
+    },
+    {
+      "surface": "חר",
+      "gloss": "kuneyek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "di dîwarê de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:45:04.708547086Z",
+  "model": "glm-5.3"
+}

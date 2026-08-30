@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Masgarakar derxîne û nîqaş derdikeve; dadvanî û riswaî radiwestin.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "derxîne"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "masgarakar"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "derdikeve"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "nîqaş"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "radiwestin"
+    },
+    {
+      "surface": "דין",
+      "gloss": "dadvanî"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "riswaî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:46:43.747554038Z",
+  "model": "glm-5.3"
+}

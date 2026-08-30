@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Filistî bi awayekî germ li pey Şaûl û li pey kurên wî çûn û Filistî ⟨את⟩ Yonatan û ⟨את⟩ Avinadav û ⟨את⟩ Malkî-Şua, kurên Şaûl, dan kuştin.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "bi germî li pey çûn"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "li pey"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "û li pey"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "û dan kuştin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkî-Şua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkî-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Şua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:45.438458222Z",
+  "model": "glm-5.3"
+}

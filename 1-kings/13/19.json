@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ew bi ⟨את⟩ wî re vegeriya, û li mala wî nan xwar û av vedixwar.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "û ew vegeriya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "û xwar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "li mala wî"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "û vedixwar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:01.897507769Z",
+  "model": "glm-5.3"
+}

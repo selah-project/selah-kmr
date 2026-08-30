@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Nefşa min, Yahwe ⟨את⟩ biberîne! Yahwe, Elohîmê min, tu pir mezin î; tu hûr û şewq li xwe guncan kiriye.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "biberîne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefşa min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "mezin bûyî"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hûr"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "û şewq"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "guncan kiriye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.699566389Z",
+  "model": "glm-5.3"
+}

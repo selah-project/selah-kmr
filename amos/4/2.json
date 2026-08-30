@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Adonay Yahwe di pîriya xwe de sond xwar: hîn bin, roj li ser we tên, û hûn ê bi hûkan werin rakirin ⟨את⟩, û paşmayiya we bi hûkên masîgirtinê.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sond xwar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "di pîriya xwe de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hîn bin, ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hîn bin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "roj"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tên"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "û ... werin rakirin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "hûn (we)"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "bi hûkan"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "û paşmayiya we"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "di ... de (koçikên)"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "hûkên masîgirtinê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:08:30.428964391Z",
+  "model": "glm-5.3"
+}

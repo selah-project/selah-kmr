@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û di kampê de qingasiya Moşe kirin, û ya Aharon, yê pîroz ê Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Û qingasiya ... kirin"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di kampê de"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yê pîroz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:40.146816340Z",
+  "model": "glm-5.3"
+}

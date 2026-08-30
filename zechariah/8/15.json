@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "wêha min vegeriya û min di van rojan de xwest ku başî bikim ⟨את⟩ Yerûşalayimê û ⟨את⟩ malbata Yehûda. Netirsin.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "wêha"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "min vegeriya"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "min xwest"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di rojan de"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ku başî bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerûşalayimê"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerûşalayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "malbata Yehûda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tirsin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:08:24.200356535Z",
+  "model": "glm-5.3"
+}

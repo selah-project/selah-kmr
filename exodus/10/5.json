@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "û dê ⟨את⟩ çavê erdê veşêrin, ku nikare ⟨את⟩ erdê bibîne; û ew dê ⟨את⟩ mayîna ya-filitî ya ji we re mayî ji kelto bixwin, û dê ⟨את⟩ hemû daran ku ji bo we ji zeviyê şîn bûne bixwin.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "û dê veşêrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavê erdê"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çav"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ku nikare"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "nikare"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "bibîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "û dê bixwin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayîna ya-filitî"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mayîna"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "ya-filitî"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "ya ji we re mayî"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "kelto"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "û dê bixwin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû daran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daran"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "şîn bûne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:42.660978069Z",
+  "model": "glm-5.3"
+}

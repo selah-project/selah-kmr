@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Di rêya rastiyê de digerim, di nav rêçên dadê de.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "Di rêya ... de"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "digerim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "rêçên"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:53.545749009Z",
+  "model": "glm-5.3"
+}

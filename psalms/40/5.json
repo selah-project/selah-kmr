@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Xweşbext e mêrê ku Yahwe wek refuja xwe danî, û rûnhêna xwe nekir aliyê serberan û berdanên derewan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xweşbext"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "refuja xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "rûnhêna xwe kir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aliyê"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "serberan"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "û berdanên"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "derewan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:49.425097093Z",
+  "model": "glm-5.3"
+}

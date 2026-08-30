@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Yah hêza min û strana min ⟨e⟩, û ew bû ji min re ⟨⟨⟩⟩rizgarî; ev Êlê min e û ez wî çê dikimşa Kirasê wî; Elohîmê bavê min e, û ez wî bilind dikim.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "hêza min"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "û strana min"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "rizgarî"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "û ez wî bilind dikim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "û ez wî bilind dikim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:31.290943603Z",
+  "model": "glm-5.3"
+}

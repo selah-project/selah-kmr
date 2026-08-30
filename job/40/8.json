@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 40:8",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Qey dê tu dadweriya min betal bikî? Qey tu min gunehkar dideyînî, da ku tu rast derkevî?",
+  "tokens": [
+    {
+      "surface": "האף",
+      "gloss": "qey ... jî"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "tu ... betal bikî"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dadweriya min"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "tu min gunehkar dideyînî"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "tu rast derkevî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:27.867627819Z",
+  "model": "glm-5.3"
+}

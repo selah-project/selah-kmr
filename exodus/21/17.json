@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ê ku bavê xwe û diya xwe dinifirîne, bi mirinê wê bimire.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "û ê ku… dinifirîne"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "û diya xwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bi mirinê"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wê bimire"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:11.956191476Z",
+  "model": "glm-5.3"
+}

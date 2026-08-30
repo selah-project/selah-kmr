@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "ger tu wê wek zîvê digerînî û wek xezîneyên veşartî lê digerînî —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "digerînî"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "wek zîvê"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "û wek xezîneyên veşartî"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "lê digerînî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:18.060919673Z",
+  "model": "glm-5.3"
+}

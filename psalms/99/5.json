@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 99,
+  "translation": "Yahwe, Elohîmê me, bilind bikin û li binpêya lingên wî xwe bicivînin; pîroz e ew.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "bilind bikin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "û xwe bicivînin"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "li binpêya"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wî"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:28.151905533Z",
+  "model": "glm-5.3"
+}

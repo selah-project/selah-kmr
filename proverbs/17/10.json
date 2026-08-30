@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Birînara di mêrê fêmdar de zûtir dadikeve ji sed lêdanên di kesîl de.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "dadikeve"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "birînara"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "di mêrê fêmdar de"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ji lêdanên"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kesîl"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:35.955573406Z",
+  "model": "glm-5.3"
+}

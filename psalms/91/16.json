@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Bi dirêjatiya rojan ez ê wî têr bikim û ez ê yêştîya xwe jê re nîşan bidim.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "dirêjatî"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ez ê wî têr bikim"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ez ê nîşan bidim"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "yêştîya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:00.396514529Z",
+  "model": "glm-5.3"
+}

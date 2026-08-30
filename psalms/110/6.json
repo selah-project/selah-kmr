@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 110,
+  "translation": "⟨Wî⟩ di nav dewletan de dadrî dike, ⟨erderê⟩ bi cendên mirî tije dike, serî li ser erdeke fireh dişkîne.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "dadrî dike"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav dewletan de"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tije dike"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "cendên mirî"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "dişkîne"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdeke"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "fireh"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:01.670519085Z",
+  "model": "glm-5.3"
+}

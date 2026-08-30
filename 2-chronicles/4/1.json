@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ew altaretekî ji sifir çêkir — bîst şinî dirêjahiya wî, û bîst şinî firehiya wî, û deh şinî bilindahiya wî.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û ew çêkir"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ji sifir"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "şinî"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjahiya wî"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "û bîst"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "şinî"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "firehiya wî"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "û deh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "şinî"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bilindahiya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:03.083178525Z",
+  "model": "glm-5.3"
+}

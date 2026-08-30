@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 88,
+  "translation": "Wek avê hemû rojê dor li min girtin, bi hev re li min kom bûn.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "dor li min girtin"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wek avê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "dor berdan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:28.757083517Z",
+  "model": "glm-5.3"
+}

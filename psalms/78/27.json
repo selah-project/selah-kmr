@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 78:27",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û goşt wek tozê li ser wan barand, û çûkên baskdar wek kumên deryayan.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Û barand"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "wek tozê"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "û wek kumên"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "deryayan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "çûkên"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "baskdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:22.563689095Z",
+  "model": "glm-5.3"
+}

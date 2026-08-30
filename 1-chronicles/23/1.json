@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Dawid pîr bû û têrê rojan bûbû, û kürê xwe Şelomo kir serdar ser Îsraêlê.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "pîr bû"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "têrê bûbû"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kir serdar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kürê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:40:01.455052700Z",
+  "model": "glm-5.3"
+}

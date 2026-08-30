@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Me guneh kir, me cewt kirî, me xerabî kirî, me serhildan kirî, û ji fermanên te û ji hukmên te me dev berdan.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "me guneh kir"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "me cewt kirî"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "me xerabî kirî"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "me serhildan kirî"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "me dev berdan"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "ji fermanên te"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "û ji hukmên te"
+    }
+  ],
+  "timestamp": "2026-08-30T06:19:17.278388431Z",
+  "model": "glm-5.3"
+}

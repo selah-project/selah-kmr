@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Kurên Yaakov bi xapînin bersivî Şekem û ⟨את⟩ Hemor bavê wî dan û axivîn, ji ber ku ew ⟨את⟩ Dîna xwîşka wan xerab kiribû.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "bersiv dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hemor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hemor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "bi xapînin"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "û axivîn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "xerab kiribû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dîna"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dîna"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "xwîşka wan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:48.500360137Z",
+  "model": "glm-5.3"
+}

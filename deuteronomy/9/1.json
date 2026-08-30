@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Bihîze, Yisrael: tu î îro ⟨את⟩ Yarden derbas dikî, ji bo ketinê û desteserkirina gelên mezin û hêzdarên ji te bêhtir, bajaran mezin û kelexkirî heta ezmanan.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Bihîze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas dikî"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "ji bo ketinê"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "desteserkirinê"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "û hêzdar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ji te"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "û kelexkirî"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "heta ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:57.214733505Z",
+  "model": "glm-5.3"
+}

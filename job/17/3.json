@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Ka, îcar, êrîştîya min bi te re binî — kî ye ku bi destê min bide dest?",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "binî"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka, îcar"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "êrîştîya min"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "bi destê min"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "bide dest"
+    }
+  ],
+  "timestamp": "2026-08-30T05:54:33.157228218Z",
+  "model": "glm-5.3"
+}

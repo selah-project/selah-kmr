@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Yîşay Avînadav gazî kir û wî derbas kir ber Şemuel; lê got: Yahwe vê jî nehilbijart.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "û gazî kir"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yîşay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avînadav"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "û wî derbas kir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lê got"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "hilbijart"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:30.103708072Z",
+  "model": "glm-5.3"
+}

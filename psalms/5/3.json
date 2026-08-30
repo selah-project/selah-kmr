@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Guh bide dengê qêrîna min, padîşahê min û Elohîmê min, ji ber ku ez ê ji bo te bêtim duayan.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "qêrîna min"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padîşahê min"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "û Elohîmê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ez ê bêtim duayan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:48.256312695Z",
+  "model": "glm-5.3"
+}

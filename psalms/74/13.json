@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Tu bi hêza xwe deryayê qelandî; serê ejderanan li ser ⟨ה⟩avan şikandî.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "qelandî"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "bi hêza xwe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "şikandî"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ejderanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:34.237699042Z",
+  "model": "glm-5.3"
+}

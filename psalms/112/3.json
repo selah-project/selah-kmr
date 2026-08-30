@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 112,
+  "translation": "Dewlemendî û xezine di mala wî de ne, û rastiya wî heta hertimî radiweste.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "dewlemendî"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "û xezine"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di mala wî de"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "û rastiya wî"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "radiweste"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:47.398792663Z",
+  "model": "glm-5.3"
+}

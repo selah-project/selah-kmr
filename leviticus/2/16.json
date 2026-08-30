@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û kahîn ⟨את⟩ beşa-bîranînê ya wê ji genimê têkejkirî yê wê û ji rûnê wê, digel hemû lîban (qdûs) a wê, wekî qurbana agir ji bo Yahwe dişewitîne.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "û dişewitîne (wekî bû)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beşa-bîranînê ya wê"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "beşa-bîranînê ya wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ji genimê têkejkirî yê wê"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "û ji rûnê wê"
+    },
+    {
+      "surface": "על",
+      "gloss": "digel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "lîban (qdûs) a wê"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qurbana agir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:20.482913587Z",
+  "model": "glm-5.3"
+}

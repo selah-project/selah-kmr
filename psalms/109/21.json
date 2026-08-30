@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Lê tu, Yahwe Adonay, ji bo navê xwe bi min re ⟨את⟩ kar bike — çûnka xesedê te baş e — min rizgar bike.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lê tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kar bike"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "bi min re"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "min rizgar bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:37.063650402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û tevahî gelê welêt şa bû, û bajar aram bû; û ⟨את⟩ Atalyahu bi şûrî kuştin.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "û şa bû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "û bajar"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "aram bû"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "kuştin"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûrî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:48:25.102556003Z",
+  "model": "glm-5.3"
+}

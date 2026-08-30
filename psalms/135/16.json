@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Devê wan heye û napeyivin; çavên wan hene û nabînin.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "devê wan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "peyivin"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "çavên wan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:57.126678866Z",
+  "model": "glm-5.3"
+}

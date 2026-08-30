@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ew çirayan berî Yahwe bilind kir, wekî Yahwe fermana Moşe (Mûsa) kiriye ⟨bi ⟨את⟩ Moşe⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "çira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:50.223339232Z",
+  "model": "glm-5.3"
+}

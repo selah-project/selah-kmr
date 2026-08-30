@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û şah got: Lezgîn bin, ⟨את⟩ Haman bînin, da ku ⟨את⟩ bêja Esterê bê cîbicîkirin. Û şah û Haman hatin ser şîvaniyê ku Ester çêkiribû.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û şah got"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "lezgîn bin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da ku bê cîbicîkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bêja Esterê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bêja"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterê"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û hatin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "û Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "şîvanî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:59.440463711Z",
+  "model": "glm-5.3"
+}

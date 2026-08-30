@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Da ku nifşê yê paşerojê bizanibe, zarokên ku werên zayîn, rabin û ji zarokên xwe re vegotinê bikin.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bizanin"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nifş"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "yê paşerojê"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "werên zayîn"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "û vegotinê bikin"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ji zarokên xwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:48.075577847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Bimbarek e yê ku bi navê Yahwe tê; me ji xanîya Yahwe we bibarek kir.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bimbarek e"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "yê ku tê"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "me we bibarek kir"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji xanîya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:38.099795479Z",
+  "model": "glm-5.3"
+}

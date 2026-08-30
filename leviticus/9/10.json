@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "⟨את⟩ Çêjê û ⟨את⟩ gurçikên û ⟨את⟩ pêçeka kezebê ji qurbana gunehan bi agir li ser qurbangehê şewitand, wekî ku Yahwe ferman da ⟨את⟩ Moşe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çêjê"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "çêjê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gurçikên"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "gurçikên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pêçeka kezebê"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "pêçeka kezebê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kezebê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qurbana gunehan"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "bi agir şewitand"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser qurbangehê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:53.840378327Z",
+  "model": "glm-5.3"
+}

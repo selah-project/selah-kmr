@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 28:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û wî qurbanî da û bi xwê danan çêkir — li cihên bilind, li ser giran, û bin her dareke hêşîn.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "wî qurbanî da"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "bi xwê danan çêkir"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "li cihên bilind"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "giran"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "û bin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dareke"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "hêşîn"
+    }
+  ],
+  "timestamp": "2026-08-30T06:50:28.587605102Z",
+  "model": "glm-5.3"
+}

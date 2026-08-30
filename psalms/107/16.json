@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Çunkî wî deriyên paxirê qeland û deznikên hesin jê kir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çunkî"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qeland"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "paxirê"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "û deznikên"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hesin"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "jê kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:11.260997940Z",
+  "model": "glm-5.3"
+}

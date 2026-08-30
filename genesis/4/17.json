@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Kajin jina xwe naskir û ew ducanî bû û ⟨את⟩ Janoḥ zayû; û wî çêkir bajaran û navê bajêr wek navê kurê xwe Janoḥ bi nav kir.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "naskir"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina xwe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina xwe"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ducanî bû"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "zayû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Janoḥ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Janoḥ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û wî çêkir"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bi nav kir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "wek navê"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Janoḥ"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:39.352015407Z",
+  "model": "glm-5.3"
+}

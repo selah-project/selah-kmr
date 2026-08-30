@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Mirov wekî pûçiyê tê danîn; rojên wî wekî siyekê derbas dibe.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "wekî pûçiyê"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "tê danîn"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "rojên wî"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "wekî siyekê"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "derbas dibe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:17.003685427Z",
+  "model": "glm-5.3"
+}

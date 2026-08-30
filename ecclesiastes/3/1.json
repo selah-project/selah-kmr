@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ji bo her tiştî demek heye, û ji bo her armancî demek heye binî ezmanan.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ji bo her tiştî"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "demek"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û demek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo her"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "armancî"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "binî"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:32.998514739Z",
+  "model": "glm-5.3"
+}

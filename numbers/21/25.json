@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Îsraêl ⟨את⟩ van hemû bajaran girt, û Îsraêl li hemû bajarên Emoriyî rûnişt, li Heşbon û li hemû gundên wê.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van hemû bajaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li hemû"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyî"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "li Heşbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û li hemû"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "gundên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:49:36.637587684Z",
+  "model": "glm-5.3"
+}

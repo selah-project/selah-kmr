@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Dergehên wê awaz û şîn dikin, û ew ê valabûyî li ser ⟨⟨erdê⟩⟩ rûne.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "awaz dikin"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "şîn dikin"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "dergehên wê"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "ê valabûyî"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "li ser erdê"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "rûne"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:36.646870247Z",
+  "model": "glm-5.3"
+}

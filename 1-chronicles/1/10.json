@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Kurmancî: Û Kuş ⟨את⟩ Nîmrod bide dunê; ew dest pê kir ku bibe di erdê de şervanekî hêzdar.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Û Kuş"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bide dunê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nîmrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nîmrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "החל",
+      "gloss": "dest pê kir"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ku bibe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "şervanê hêzdar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:31:10.003388774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 123,
+  "translation": "Pir zêde ji wê têr bûye canê me — ji henekên araman û ji biçûkdîtinê yên serberan (לגאיונים).",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Pir zêde"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "têr bûye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canê me"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "henekên"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "araman"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "biçûkdîtinê"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "yên serberan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:40.474254298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Ma tu me ne avêtî, Elohîm? û tu, Elohîm, bi leşkerên me dernakekevî!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma… ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "me avêtî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û… ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "dernakekevî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "bi leşkerên me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.633628835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "û got: Ji kerema xwe, ey Yahwe, niha bi bîr bîne ⟨את⟩ ya ku ez bi rastî û bi dilekî kamil li pêş te meşiyan, û ⟨את⟩ ya qenc di çavên te de min kir. Çizqiya bi girîyê mezin girî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bi bîr bîne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji kerema xwe, niha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya ku ez li pêş te meşiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ez meşiyan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li pêş te"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "û bi dil"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "kamîl"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "û ya qenc"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di çavên te de"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min kir"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "girî"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Çizqiya"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "bi girîyê"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:17.255845799Z",
+  "model": "glm-5.3"
+}

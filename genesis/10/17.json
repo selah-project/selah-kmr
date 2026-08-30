@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ⟨את⟩ Hîwî û ⟨את⟩ Arkî û ⟨את⟩ Sînî,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hîwî"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hîwî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Arkî"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Sînî"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sînî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:45.705542939Z",
+  "model": "glm-5.3"
+}

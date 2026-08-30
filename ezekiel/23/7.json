@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 23:7",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û zînayiya xwe da wan, ji bijartiyên kurên Ashur, hemû wan, û bi her ku bi hewasa dilê xwe lê dinihêrî, bi hemû pûtên wan xwe xiwar kir.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "û … da"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "zînayiya xwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "bijartiyên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemû wan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "û bi hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "her ku"
+    },
+    {
+      "surface": "עגבה",
+      "gloss": "bi hewasa dilê xwe lê dinihêrî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "pûtên wan"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "xwe xiwar kir"
+    }
+  ],
+  "timestamp": "2026-08-30T03:51:17.749424487Z",
+  "model": "glm-5.3"
+}

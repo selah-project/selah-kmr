@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Mordehay ji wî re hemû tiştên ku li ser wî qewimîbûn, û ⟨את⟩ daxuyaniya zîvê ku Heman gotibû ji bo xezîneyên key were pîvan — ji bo Cihûyan, ku ew werin tunekirin — vegot.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "vegot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên ku li ser wî qewimîbûn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "li ser wî qewimîbûn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daxuyaniya zîvê"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "daxuyaniya"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zîvê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Heman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "ji bo ... were pîvan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "xezîneyên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ji bo Cihûyan"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ku ew werin tunekirin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:03.516939512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Ji ber ku min xwelî wek nan xwar, û vexwarina xwe bi girî têkel kir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "xwelî"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "wek nan"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "û vexwarina xwe"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "bi girî"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "têkel kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:01.256727964Z",
+  "model": "glm-5.3"
+}

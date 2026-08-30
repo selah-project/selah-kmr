@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Guhê xwe vedike, Elohîm, duaya min, û xwe nenişîne ji dilehîtiya min.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "guhê xwe vedike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "xwe nenişîne"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "ji dilehîtiya min"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:11.860534650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Li ser asorê (deh-têl) û li ser nabelê, li ser dengê hîgasyonê bi kînorê.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asorê (deh-têl)"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabelê"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "dengê hîgasyonê"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bi kînorê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:09.485683213Z",
+  "model": "glm-5.3"
+}

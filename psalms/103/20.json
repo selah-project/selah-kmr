@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Pîroz bibînin Yahwe,eyê fermankarên wî yên hêzdar, ên peyva wî dikin, guhdanî dengê peyva wî dikin!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pîroz bibînin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "fermankarên wî"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "yên hêzdar"
+    },
+    {
+      "surface": "כח",
+      "gloss": "di hêzê de"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ên dikin"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "peyva wî"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "da ku guhdanî bikin"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "peyva wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:30.733187710Z",
+  "model": "glm-5.3"
+}

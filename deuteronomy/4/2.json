@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 4:2",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Hûn nêçin zêde li ser peyvê ku ez we pê ferman dikim, û hûn jê tiştekê kêm nekin, da ku hûn fermanên Yahwe, Elohîmê xwe, biparêzin — ên ku ez we pê ferman dikim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "zêde nekin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "peyvê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ferman dikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "kêm nekin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "jê"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "da ku ... biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermanên"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermanên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ferman dikim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:27.252364684Z",
+  "model": "glm-5.3"
+}

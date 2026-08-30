@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Nîşanî me de, Yahwe, xesedê xwe, û rizgariya xwe bide me.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Nîşanî me de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "û rizgariya te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:59.909198223Z",
+  "model": "glm-5.3"
+}

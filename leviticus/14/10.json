@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 14:10",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û di roja heştemîn de ew ê du beranên bêkêmasî bigire, û beranekî mê yê keçika salê yê bêkêmasî, û sê dehekên ji arûyê baş ji bo pêşkeşiyê bi rûnê tevdekirî, û yek log rûn.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Û di rojê de"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "heştemîn"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "beranan"
+    },
+    {
+      "surface": "תמימים",
+      "gloss": "bêkêmasî"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "û beranekî mê"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yek"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keçika"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "salê"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "bêkêmasî"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dehekên"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ji arûyê baş"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ji bo pêşkeşiyê"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "tevdekirî"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bi rûnê"
+    },
+    {
+      "surface": "ולג",
+      "gloss": "û yek log"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:26.893090848Z",
+  "model": "glm-5.3"
+}

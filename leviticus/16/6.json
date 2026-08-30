@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Aharon ê ⟨את⟩ nêrê gunehan ê xwe pêşkêş bike, û ji bo wî û ji bo mala wî bibore.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "pêşkêş bike"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nêrê gunehan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "nêr"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunehan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "xwe"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "û bibore"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "û ji bo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:55.396454493Z",
+  "model": "glm-5.3"
+}

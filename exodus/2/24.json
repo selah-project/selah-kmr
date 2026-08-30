@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Elohîm ⟨את⟩ nalîna wan bihîst, û Elohîm ⟨את⟩ peymana xwe bihîrî — ⟨את⟩ Avrahamê re, ⟨את⟩ Yîtshaq û ⟨את⟩ Yaqûb.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nalîna wan"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "nalîna wan"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "bihîrî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yîtshaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtshaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yaqûb"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:38.091837642Z",
+  "model": "glm-5.3"
+}

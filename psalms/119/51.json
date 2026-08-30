@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Serxweş û serbilor ên pesnê min pir kirin, lê ez ji Tora te ne dûr ketime.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "serxweş û serbilor"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "pesnê min kirin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ji Tora te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "dûr ketime"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.105745777Z",
+  "model": "glm-5.3"
+}

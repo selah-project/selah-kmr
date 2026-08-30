@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ester eslê xwe û ⟨את⟩ gelê xwe ne diyar kiribû, wekî Mordexay ji wê re ferman kiribû; û fermana Mordexay Ester pêk hanî, wekî dema ku ew bi ⟨את⟩ wî re di emînatiyê de bû.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "diyar kiribû"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "eslê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gelê xwe"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kiribû"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordexay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fermana"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordexay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pêk hanî"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "di emînatiyê de"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bi ⟨את⟩ wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:44.325704405Z",
+  "model": "glm-5.3"
+}

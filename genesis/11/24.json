@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Nahor new û bîst salan jijî, û ⟨את⟩ Terah bû bav.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jijî"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "new"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "û bîst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bû bav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:40.146331190Z",
+  "model": "glm-5.3"
+}

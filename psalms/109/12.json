@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Bila kesek xesedê ji wî re dirêj neke, û bila kesek li sêwiyên wî dilovanî neke.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bila bibe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "משך",
+      "gloss": "dirêj bike"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bila bibe"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "dilovanî bike"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "li sêwiyên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:02.234442819Z",
+  "model": "glm-5.3"
+}

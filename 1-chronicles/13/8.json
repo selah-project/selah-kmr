@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 13:8",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Dawid û hemû Îsraêl li pêş Elohîm bi hemû hêzê dilîstin, û bi stranan û bi kenaran û bi nevelan û bi defan û bi zengan û bi borîzanan.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "dilîstin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêzê"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "û bi stranan"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "û bi kenaran"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "û bi nevelan"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "û bi defan"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "û bi zengan"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "û bi borîzanan"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:47.915465626Z",
+  "model": "glm-5.3"
+}

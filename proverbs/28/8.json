@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 28:8",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Ên ku dewlemendiya xwe bi berdêl û bi zêdeyê zêde dikin, ji bo ên ku xizanan dilovanî dikin dicivînin.",
+  "tokens": [
+    {
+      "surface": "מרבה",
+      "gloss": "zêde dikin"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "dewlemendiya xwe"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "bi berdêl"
+    },
+    {
+      "surface": "ובתרבית",
+      "gloss": "bi zêdeyê"
+    },
+    {
+      "surface": "לחונן",
+      "gloss": "ku dilovanî dikin"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "xizanan"
+    },
+    {
+      "surface": "יקבצנו",
+      "gloss": "dicivînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:44.320943122Z",
+  "model": "glm-5.3"
+}

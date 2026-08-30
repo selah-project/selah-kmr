@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û ez ê hêrsê xwe li ser Sin, kelatê Mîtsrayim, bar bikim, û ez ê ⟨את⟩ komê Noê jê bibim.",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "Û ez ê…bar bikim"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "hêrsê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kelatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "û ez ê…jê bibim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komê Noê"
+    },
+    {
+      "surface": "המון",
+      "gloss": "komê"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Noê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:54:22.707405122Z",
+  "model": "glm-5.3"
+}

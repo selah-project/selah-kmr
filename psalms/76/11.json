@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 76,
+  "translation": "Çimkî hêrsî mirovan dê pesnê te bike; mayîna hêrsê dê tu wek kêmarê ⟨xwe⟩ girêbî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hêrsî"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "dê pesnê te bike"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "mayîna"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hêrsê"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "dê tu girêbî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:40.184487073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Bila hemû dijminên min şermazar bibin û pir bitirsin; bila vegerin — di çaweke xwabûnê de şermazar bibin!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "şermazar bibin"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "bitirsin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vegerin"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "şermazar bibin"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "di çaweke xwabûnê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:39.450928749Z",
+  "model": "glm-5.3"
+}

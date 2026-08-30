@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û şah Şelomo du sed berevanên zêrê yê lêdanê çêkir; şeş sed şêkel zêr li ser berevaneke bilind dibû.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û ... çêkir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "du sed"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "berevan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "yê lêdanê"
+    },
+    {
+      "surface": "שש",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "şêkel zêr"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bilind dibû"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "berevanê"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:10.829552975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û ger ew bêjin: «Yahwe zindî ye», bêguman ew bi derewan sond dixwin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ew bêjin"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "bêguman"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "bi derewan"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sond dixwin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:50:16.779136434Z",
+  "model": "glm-5.3"
+}

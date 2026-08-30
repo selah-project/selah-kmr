@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û tu sîngê pêşkeşa lerzandinê û ranê pêşkeşa bilindkirinê — ên ku ji berxê pêkbirinê hatine lerzandin û bilindkirin — ên ku ji bo Aharon in û ên ku ji bo kurên wî ne, pîroz dikî.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "Û tu pîroz dikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sîngê"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "sîngê"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "pêşkeşa lerzandinê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ranê"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ranê"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "pêşkeşa bilindkirinê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "hatiye lerzandin"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ên ku"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "hatiye bilindkirin"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "ji berxê"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pêkbirinê"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ji ên ku"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji bo Aharon"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "û ji ên ku"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ji bo kurên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:32.606551545Z",
+  "model": "glm-5.3"
+}

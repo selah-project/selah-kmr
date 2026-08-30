@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û serbilindî ya Îsraêlî li ber çavên wî şahidî kir; ew ne vegeriyan bal Yahwe Elohîmên xwe, û wî negerîyan, bi hemû van tiştan.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "û ... şahidî kir"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "serbilindî"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "li ber çavên wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vegeriyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmên xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "wî negerîyan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "van tiştan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:36.475258606Z",
+  "model": "glm-5.3"
+}

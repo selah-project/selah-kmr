@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ji te re Elohîmên din ×nabin li ser rûyê-min.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "×ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "×nabin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîmên"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "din"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê-min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:21.931506159Z",
+  "model": "glm-5.3"
+}

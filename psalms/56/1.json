@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Ji bo serokê muzîkaran, li ser «Kevoka bêdeng a ji dûr ve», ji Dawid re, Mîchtam; dema Fîlîştî ⟨את⟩ wî di Gat de girtin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ji bo serokê muzîkaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Kevoka"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "bêdeng"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "ji dûr ve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mîchtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "dema ... girtin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîştî"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "di Gat de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:40.677907880Z",
+  "model": "glm-5.3"
+}

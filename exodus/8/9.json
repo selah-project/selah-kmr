@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Yahwe li gorî peyva Moşe çêkir; û beq ji malan, ji baxçeyan û ji zeviyan mirin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û çêkir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "li gorî peyva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "û mirin"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "beq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "malan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "baxçeyan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "zeviyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:59.095312465Z",
+  "model": "glm-5.3"
+}

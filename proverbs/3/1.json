@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Kurê min, Tora min ji bîr neke, û fermanên min dilê te biparêze.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Kurê min"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ji bîr"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "û fermanên min"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dilê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:42.857264991Z",
+  "model": "glm-5.3"
+}

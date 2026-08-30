@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 67,
+  "translation": "Gel te biperçînin, Elohîm; gel, hemû gel, te biperçînin.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "te biperçînin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "te biperçînin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemû gel"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:29.502935331Z",
+  "model": "glm-5.3"
+}

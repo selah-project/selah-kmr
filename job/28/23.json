@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Elohîm rêya wê fêm dike û ew ⟨את⟩ cihê wê dizane.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "fêm dike"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "rêya wê"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cihê wê"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "cihê wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:58:08.816607365Z",
+  "model": "glm-5.3"
+}

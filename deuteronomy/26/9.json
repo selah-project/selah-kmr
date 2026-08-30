@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û me anî î cihê, û da me ⟨את⟩ vê erdê — erdek şîr û hingiv diherike.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "me anî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "î"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û da"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdek"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "diherike"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "şîr"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "û hingiv"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:08.685764685Z",
+  "model": "glm-5.3"
+}

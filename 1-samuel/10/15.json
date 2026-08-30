@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û apê Şaûl got: «Ka ji min re bêje, Şemûêl çi ji we re got?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "apê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:53.071519116Z",
+  "model": "glm-5.3"
+}

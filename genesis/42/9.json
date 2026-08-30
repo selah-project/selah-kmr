@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û Yosef ⟨את⟩ xewnan ku ji bo wan dîtibû bi bîr anî, û ji wan re got: Hûn casûsin — hûn hatine ku ⟨את⟩ tazetiya ⟨the⟩ welêt bibînin.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "bi bîr anî"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xewnan"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "xewnan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "dîtibû"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casûs"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ku bibînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tazetiya welêt"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tazetiya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welêt"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "hûn hatine"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:24.021466737Z",
+  "model": "glm-5.3"
+}

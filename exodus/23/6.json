@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Dadwariya feqîrê xwe di dawa wî de nelivîne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "nelivîne"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dadwarî"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "feqîrê te"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "di dawa wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:28.591216974Z",
+  "model": "glm-5.3"
+}

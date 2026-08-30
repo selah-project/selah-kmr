@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 138,
+  "translation": "Ez ê ber bi perestgeha pîroz a te rakevim, û ⟨את⟩ navê te binimet ji bo xesedê te û ji bo rastiya te; çimkî tu li ser hemû navê te ⟨את⟩ gotina xwe mezin kirîye.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "ez ê rakevim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "perestgeh"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pîroz a te"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "û binimet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê te"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ji bo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "rastiya te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "mezin kirîye"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "gotina xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:32.466181351Z",
+  "model": "glm-5.3"
+}

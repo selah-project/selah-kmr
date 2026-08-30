@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û dijminên Yehûda û Binyamîn bihîstîn ku deştên sirgûnê ji bo Yahwe, Elohîmê Îsraêlê, perestgehê çêdikin.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bihîstîn"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dijminên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "û Binyamîn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "deştên"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sirgûnê"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "çêdikin"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "perestgehê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:01.602343903Z",
+  "model": "glm-5.3"
+}

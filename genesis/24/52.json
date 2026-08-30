@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û gava xulamê Avraham ⟨את⟩ peyvên wan bihîst, ew heta erdê xwar bû — ber bi Yahwe ve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û gava"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gava"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xulamê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên wan"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "peyvên wan"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "xwar bû"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "heta erdê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ber bi Yahwe ve"
+    }
+  ],
+  "timestamp": "2026-08-29T17:44:28.247165776Z",
+  "model": "glm-5.3"
+}

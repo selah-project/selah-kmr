@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Min bar ji milê wî rakir; destên wî ji sebetê derbas bûn.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "min rakir"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "ji bar"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "milê wî"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "destên wî"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "ji sebetê"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "derbas bûn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:11.890772990Z",
+  "model": "glm-5.3"
+}

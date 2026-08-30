@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Hûn ê di dadê de, di pîvanê de, di tanganê de û di pîvana şilahî de neheqî nekin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nê"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nekin"
+    },
+    {
+      "surface": "עול",
+      "gloss": "neheqî"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "di dadê de"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "di pîvanê de"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "di tanganê de"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "û di pîvana şilahî de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:34.218386128Z",
+  "model": "glm-5.3"
+}

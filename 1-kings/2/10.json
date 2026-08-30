@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Dawid bi bavên xwe re raza û li Bajarê Dawid hat definkirin.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "raza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "hat definkirin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "li Bajarê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:16.105903944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Canê min vedigerîne, di hemberê rêyên rast de rêya min dibe, ji bo navê ⟨wî⟩.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "vedigerîne"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "rêya min dibe"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "di hemberê rêyan de"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:38.938901101Z",
+  "model": "glm-5.3"
+}

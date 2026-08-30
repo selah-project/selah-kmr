@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û min di pirtûkê de nivîsî, û min mohr kir, û min şahidan da, û min zêr bi terezûyan pîvan kir.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "û min nivîsî"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di pirtûkê de"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "û min mohr kir"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "û min şahidan da"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "şahidan"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "û min pîvan kir"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "bi terezûyan"
+    }
+  ],
+  "timestamp": "2026-08-29T21:02:52.398211963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Bara Tsorê. Keştiyên Tarşîşê, hûn bilîzin! Çimkî hate wêrankirin, bê mal, bê derî; ji welatê Kîtîm hate eşîrkirin ji bo wan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsorê"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "hûn bilîzin"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "Keştiyên"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşîşê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "hate wêrankirin"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "bê mal"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "bê derî"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatê"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kîtîm"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "hate eşîrkirin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:54.657604290Z",
+  "model": "glm-5.3"
+}

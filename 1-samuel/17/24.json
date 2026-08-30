@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Hemû mêrên Îsraêl dema ⟨את⟩ wî mêrî dîtin, ji ber wî reviyan û gelek tirsiyan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "dema ... dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wî mêrî"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wî mêrî"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "reviyan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ji ber wî"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "tirsiyan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:04.319781091Z",
+  "model": "glm-5.3"
+}

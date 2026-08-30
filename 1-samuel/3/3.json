@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "çiraya Elohîm hîn nevemibû, û Şemûel di perestgeha Yahwe de dirêjkirî bû, a ku li wir sandiqa Elohîm bû.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "û çiraya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hîn ne"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "vemibû"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "û Şemûel"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "dirêjkirî bû"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di perestgeha ... de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiqa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:11.614780532Z",
+  "model": "glm-5.3"
+}

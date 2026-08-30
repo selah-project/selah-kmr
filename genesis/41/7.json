@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û seriyên zirav ⟨את⟩ heft seriyên tije û pîr daqurtandin; û Paroh ji xewê hişyar bû — û vê ye, ⟨ew⟩ xewn ⟨bû⟩.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "daqurtandin"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "seriyên genim"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "zirav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heft seriyên tije û pîr"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "seriyên genim"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "tije"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "û pîr"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "hişyar bû"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û vê ye"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "xewn"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:53.114054721Z",
+  "model": "glm-5.3"
+}

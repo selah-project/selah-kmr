@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Here, bi şahiyê nanê xwe bixwû, û bi dilek baş şerabê xwe vexwû; ji ber ku Elohîm berê ⟨את⟩ kiryarên te bi kêfxweşî pejirandine.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "bixwû"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "bi şahiyê"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "nanê te"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "û vexwû"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "bi dilek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "şerabê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "berê"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "bi kêfxweşî pejirandine"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiryarên te"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "kiryarên te"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:09.014060510Z",
+  "model": "glm-5.3"
+}

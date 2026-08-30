@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Li ku ne xesedên te yên pêşin, Adonay, ku Te ji Dawid re sond xwar bi dilsoziya xwe?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "li ku ne"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "xesedên te"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yên pêşin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Te sond xwar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "bi dilsoziya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:42.211289529Z",
+  "model": "glm-5.3"
+}

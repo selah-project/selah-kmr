@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ez ê peymana xwe ⟨את⟩ bi we re raber bikim: tu goşt jî dîsa ji avên tofanê nayê birîn, û tofanek ji bo talankirina erdê dîsa çênabe.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Û ez ê raber bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana xwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bi we re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nayê"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "birîn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tu ... jî"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ji avên"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tofanê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nebe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "çênabe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "tofan"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ji bo talankirina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:34.366357926Z",
+  "model": "glm-5.3"
+}

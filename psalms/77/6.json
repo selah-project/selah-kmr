@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Min rojên berê hesibandin, salên demên dûr.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "min hesibandin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "berê"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "salên"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "demên dûr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:03.677603487Z",
+  "model": "glm-5.3"
+}

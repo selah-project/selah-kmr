@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û Şemuel got: “Agagê keyê Emaleqî ⟨את⟩ bîne bal min.” Û Agag bi kêfxweşî hat bal wî, û Agag got: “Bêguman talûkeya mirinê derbas bûye.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û Şemuel got"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bal min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Emaleqî"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Û hat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bal wî"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "bi kêfxweşî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Bêguman"
+    },
+    {
+      "surface": "סר",
+      "gloss": "derbas bûye"
+    },
+    {
+      "surface": "מר",
+      "gloss": "talûkeya"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mirinê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:03.026526355Z",
+  "model": "glm-5.3"
+}

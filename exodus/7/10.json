@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Moşe û Aharon hatin cem Paroh û wa kirin, wekî ku Yahwe ferman dabû; Aharon ⟨את⟩ gopala xwe berî Paroh û berî xulamên wî avêt, û ew bû mar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman dabû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "avêt"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gopala xwe"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "gopala xwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "û berî"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên wî"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "mar"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:59.118997537Z",
+  "model": "glm-5.3"
+}

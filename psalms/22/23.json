@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ez navê te dide bin daxuyandin birayên xwe; di nava civatê de te bilind dikim.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ez dide bin daxuyandin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ji birayên xwe re"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civatê de"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "te bilind dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:31.026283058Z",
+  "model": "glm-5.3"
+}

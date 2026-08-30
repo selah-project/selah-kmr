@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Dawid dît ku Şaul derketiye da ku ⟨את⟩ canê wî bigere; Dawid jî li çolê Zîfê, li daristanê bû.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derketiye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "da ku bigere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canê wî"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canê wî"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid jî"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zîfê"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "li daristanê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:13.499873824Z",
+  "model": "glm-5.3"
+}

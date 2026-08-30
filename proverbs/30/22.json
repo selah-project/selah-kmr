@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Binê destdartekî ku dibe key, û binê netûjekî ku ji nan têdibe.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "binê"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "destdartekî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "dibe key"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "û netûjekî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "têdibe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ji nan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:49:38.776662117Z",
+  "model": "glm-5.3"
+}

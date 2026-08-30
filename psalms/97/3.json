@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Agir berî wî diçe û di dora dijminên wî de wan dişewitîne.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "berî wî"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "û dişewitîne"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di dora"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "dijminên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:21.409172066Z",
+  "model": "glm-5.3"
+}

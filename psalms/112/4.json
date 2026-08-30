@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 112,
+  "translation": "Ji bo rastan di tarîtîyê de ronahî çêbûye — dilovan û rehîm û rast e.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "ronahî çêbûye"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "di tarîtîyê de"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ji bo rastan"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "dilovan"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "û rehîm"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "û rast e"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:47.398951566Z",
+  "model": "glm-5.3"
+}

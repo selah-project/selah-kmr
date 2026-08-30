@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Şandina wan a mezinan wekî Oreb û wekî Ze'eb bike; û wekî Zebah û wekî Selmûna, hemû serokên wan.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "bike"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "mezinên wan"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "wekî Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "û wekî Ze'eb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "û wekî Zebah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "û wekî Selmûna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "serokên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:12.605444356Z",
+  "model": "glm-5.3"
+}

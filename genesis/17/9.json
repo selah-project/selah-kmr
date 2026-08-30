@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Elohîm ji Avraham re got: Tu jî ⟨את⟩ peymana min biparêze — tu û zêrê te piştî te, ji nifşên wan re.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tu jî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peymana min"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana min"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "û zêrê te"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "piştî te"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ji nifşên wan re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:40:20.473630754Z",
+  "model": "glm-5.3"
+}

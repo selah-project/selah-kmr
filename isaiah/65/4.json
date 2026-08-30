@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Yên di nav goran de rûdinin û di şûnwarên girtî de şevan derbas dikin; yên ku goştê berazê dixwin — şorawa tiştên pîs di kabên wan de ye.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "Yên rûdinin"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "di nav goran de"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "û di şûnwarên girtî de"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "şevan derbas dikin"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "yên ku dixwin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "berazê"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "û şorawa"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "tiştên pîs"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "kabên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:49:13.330612823Z",
+  "model": "glm-5.3"
+}

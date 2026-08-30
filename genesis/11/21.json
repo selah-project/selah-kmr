@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Rêu piştî ku ⟨את⟩ Serug bû bavê xwe, bi sed û heşt salan jijî, û kûr û keçên wî çêbûn.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jijî"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rêu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "bû bavê xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heşt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "û sed"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "çêbûn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kûr"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "û keçên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:37:40.144578289Z",
+  "model": "glm-5.3"
+}

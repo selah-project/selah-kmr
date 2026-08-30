@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Îbranî derbas bûn ⟨את⟩ Erdênan — erdê Gad û Gîl'adê — Û Şaul hîn li Gîlgalê bû, û tevayî gel bi lerizîn şûnda wî çûn.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Û Îbranî"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "derbas bûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erdênan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Erdênan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "û Gîl'adê"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Û Şaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "li Gîlgalê"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û tevayî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "bi lerizîn"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "şûnda wî çûn"
+    }
+  ],
+  "timestamp": "2026-08-29T19:38:49.438678472Z",
+  "model": "glm-5.3"
+}

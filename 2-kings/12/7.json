@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ⟨bû⟩ di salê bîst û sêyemîn a padîşah Yehoadaş de — kihnan bêdika malê xurt nekir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û ⟨bû⟩"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "di salê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "û sê"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salî"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a padîşah"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoadaş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "xurt nekir"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kihnan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bêdika"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "bêdika"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ê malê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:19.066411241Z",
+  "model": "glm-5.3"
+}

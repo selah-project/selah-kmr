@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Çêtir e ku meriv gazindên zanî bibihîne, ji bo ku kesekî strana kêmtendanan bibihîne.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "çêtir e"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ku meriv bibihîne"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "gazindên"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "zanî"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ji bo ku kesekî"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bibihîne"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "strana"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kêmtendanan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:11.208472218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û di nav kênên Yisraêl de ên ku ⟨את⟩ mîrata xwe ne dabeqkiribûn, heft eşîr mabûn.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "mabûn"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di nav kênên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "dabeqkiribûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîrata xwe"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "mîrata xwe"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "eşîr"
+    }
+  ],
+  "timestamp": "2026-08-29T19:20:35.654681800Z",
+  "model": "glm-5.3"
+}

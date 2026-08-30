@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Mizmorek ji Dawid re. Bidin Yahwe, kurên Êlan, bidin Yahwe rûmet û hêz.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmorek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Bidin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Êlan"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "û hêz"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:45.747966479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Bila bilind bî, ey Elohîm, li ser ezmanan; rûmeta te li ser hemû erdê be.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "bila bilind bî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ey Elohîm"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "rûmeta te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:18.098779767Z",
+  "model": "glm-5.3"
+}

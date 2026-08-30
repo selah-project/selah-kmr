@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "û ji dijminên me xilas me kir, ji bo hertimî xesedê wî ye.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "xilas (me) kir"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ji dijminên me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:52.776249630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Elohîm, bi guhên me bihîst me; bavên me ji me re vegotin ⟨çi⟩ kar tu di rojên wan de kiribû, di rojên kevnar de.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "bi guhên me"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "bihîst me"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "vegotin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "kar"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "tu kiribû"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "di rojên wan de"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "di rojên"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kevnar de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:37.808616606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ez bi wî re temam bûm û ez ji gunehê xwe xwe parast.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "û ez bûm"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "temam"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "û ez xwe parast"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ji gunehê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:37.498231400Z",
+  "model": "glm-5.3"
+}

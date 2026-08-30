@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Ji bo wî stranan bistirênin, ji bo wî bilîzin, li ser hemû efsaneyên wî bihûrînin.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "stranan bistirênin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bilîzin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "bihûrînin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li ser hemû"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "efseneyên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:03.793816887Z",
+  "model": "glm-5.3"
+}

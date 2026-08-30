@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û tu wan hişyar bikî ⟨את⟩ destûran û ⟨את⟩ şerîetan, û tu ji wan re rêya ku wê bi wê bidin çûn û ⟨את⟩ karê ku wê bikin bidî zanîn.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "hişyar bikî"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destûran"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "destûran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şerîetan"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "şerîetan"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "bidî zanîn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rêyê"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rêya"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bidin çûn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bi wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karê"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "karê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "wê bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:08:39.190522494Z",
+  "model": "glm-5.3"
+}

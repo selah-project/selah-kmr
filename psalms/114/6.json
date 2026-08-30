@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 114,
+  "translation": "Çiyoyan, ku we wek nêrênBizinan Govazî? Giravan, weke sehikan?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "çiyoyan"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "govazî"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "wek nêrên-Bizinan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "giravan"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "weke şêwiran"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "êlê-pezan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.699394937Z",
+  "model": "glm-5.3"
+}

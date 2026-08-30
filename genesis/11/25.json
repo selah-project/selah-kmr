@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Nahor piştî zayîna ⟨את⟩ Terach sed û nozdeh salan jîya, û kûran û keç zayî.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jîya"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zayîna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nozdeh"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "sed û"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kûran"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "keç"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:20.139812526Z",
+  "model": "glm-5.3"
+}

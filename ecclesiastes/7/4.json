@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Dilê zanan di mala şînê de ye, û dilê kûran di mala şahiyê de.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "zanan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "şînê"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "û dilê"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kûran"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "şahiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:21.585055014Z",
+  "model": "glm-5.3"
+}

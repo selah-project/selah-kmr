@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Av ê mezin kir, tehom ê bilind kir; ⟨את⟩ çemên xwe didora şînên wî û ⟨את⟩ cûreyên xwe şande bal hemû darên zeviyê.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "Av"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "ê mezin kir"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "ê bilind kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çemên xwe"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "çemên xwe"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "didora"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "dora"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "şînên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cûreyên xwe"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "cûreyên xwe"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "şande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeviyê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:54:45.180972345Z",
+  "model": "glm-5.3"
+}

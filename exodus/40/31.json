@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û jê Moşe û Aharon û kûrên wî ⟨את⟩ destên xwe û ⟨את⟩ lingên xwe şûştin.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "şûştin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "jê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û kûrên wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lingên xwe"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "lingên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:15.733589331Z",
+  "model": "glm-5.3"
+}

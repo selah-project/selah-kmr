@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elohîm ⟨את⟩ ronahiyê dît ku baş e, û Elohîm ronahî ji tarîtiyê qetandin di navbera ronahî û tarîtiyê de.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Û … dît"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ronahiyê"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ronahiyê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş e"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "Û … qetandin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera … de"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û … de"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tarîtiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:59.993872242Z",
+  "model": "glm-5.3"
+}

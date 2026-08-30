@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û hûn ê xizmetî ⟨את⟩ Yahwe, Elohîmê xwe bikin, û ew ê ⟨את⟩ nanê te û ⟨את⟩ ava te bareket bikin, û ez ê nexweşiyê ji nav te rakevim.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "hûn ê xizmetî bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "û ew ê bareket bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanê te"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "nanê te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ava te"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ava te"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "û ez ê rakevim"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "nexweşiyê"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ji nav te"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:49.642497717Z",
+  "model": "glm-5.3"
+}

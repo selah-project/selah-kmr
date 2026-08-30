@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ⟨את⟩ Kîbsayim û ⟨את⟩ derdora wê, û ⟨את⟩ Bet-Xoron û ⟨את⟩ derdora wê — çar bori.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "Kîbsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kîbsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "derdora wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "derdora wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "Bet-Xoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Xoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "derdora wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "derdora wê"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bori"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:58.494889851Z",
+  "model": "glm-5.3"
+}

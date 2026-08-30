@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Dawerîya feqîr û belengaz kir — wê çaxê baş bû. Ma ev nasîna ⟨את⟩ min nîne? gotina Yahwe.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "dadbar kir"
+    },
+    {
+      "surface": "דין",
+      "gloss": "dawerîya"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîr"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "û belengaz"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wê çaxê"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma... nîne"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "nasîna"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:57:10.531054169Z",
+  "model": "glm-5.3"
+}

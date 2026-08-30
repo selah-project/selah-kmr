@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Peyvên Lemuel, key: barekî ku diya wî bi wî hînand.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "משא",
+      "gloss": "barekî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "bi wî hînand"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "diya wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:24.635492440Z",
+  "model": "glm-5.3"
+}

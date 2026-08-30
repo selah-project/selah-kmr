@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Çawa ku Çîzkiyahu key bihîst, ew ⟨את⟩ cilên xwe qeland û xwe bi cilê hiriyê girt û çû malê Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çawa ku"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Çîzkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "qeland"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cilên xwe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "cilên xwe"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "xwe girt"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "bi cilê hiriyê"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "çû"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:23:43.660324970Z",
+  "model": "glm-5.3"
+}

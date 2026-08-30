@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ew kohn wê ⟨את⟩ wan li ser qurbangehê bişewitîne, pêşkêşîya agir ji bo Yahwe; aşam ⟨ew e⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "wê bişewitîne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (ew pişeyên kêrbar)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ew kohn"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser qurbangehê"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pêşkêşîya agir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "aşam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:32.436238553Z",
+  "model": "glm-5.3"
+}

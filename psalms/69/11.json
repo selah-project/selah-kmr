@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ez di roza nefsa xwe de grîyam û ew bû binpêkirin li ser min.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "û ez grîyam"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "di roza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsa xwe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "û ew bû"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "binpêkirin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:57.542049011Z",
+  "model": "glm-5.3"
+}

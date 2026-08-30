@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Çemên wan wergerand xwînê û êrîşên wan jî — newêrin vexwin.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "wergerand"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "bo xwînê"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "çemên wan"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "û êrîşên wan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "newêrin"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "vexwin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.248489529Z",
+  "model": "glm-5.3"
+}

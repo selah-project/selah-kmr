@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û kahin û Lewî xwe pîroz kirin da ku ⟨את⟩ sandîqa Yahwe, Elohîmê Yisrael, bilind bikin.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "xwe pîroz kirin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Û Lewî"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "da ku bilind bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandîqa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandîq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:17.739771047Z",
+  "model": "glm-5.3"
+}

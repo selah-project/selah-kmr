@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ew li ser wê biharatên têj şewitand, wekî Yahwe fermana Moşe kiriye ⟨bi ⟨את⟩ Moşe⟩.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "biharat"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "têj"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:50.223820506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ji kal û pîran bêtir fêm dikim, çimkî ez fermanên te parastine.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ji kal û pîran"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "bêtir fêm dikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ez parastine"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:18.979678348Z",
+  "model": "glm-5.3"
+}

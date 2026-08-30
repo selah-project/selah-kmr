@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Piroz e berê zikê te, û berê axa te, û berê ajalên te — şêrînkên gayên te û bernewalên pêsînan te.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Piroz"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "berê"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "zikê te"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "û berê"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "axa te"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "û berê"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ajalên te"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "şêrînkên"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "gayên te"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "û bernewalên"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "pêsînan te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:12.376746916Z",
+  "model": "glm-5.3"
+}

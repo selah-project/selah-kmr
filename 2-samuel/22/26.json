@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Bi dilsoz re dilsoz dibî, bi yê bêkêmas re bêkêmas dibî.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "dilsoz"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "dilsoz dibî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "şervanê"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bêkêmas"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "bêkêmas dibî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:35.824082703Z",
+  "model": "glm-5.3"
+}

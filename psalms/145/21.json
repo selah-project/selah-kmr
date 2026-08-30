@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Dêviya Yahwe devê min biaxive, û hemû goşt navê pîroz ê wî bibirêkujîne, heta Îstîqamet û hertişt.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "dêviya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "biaxive"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "û bibirêkujîne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroz ê wî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta Îstîqamet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertişt"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:29.765514795Z",
+  "model": "glm-5.3"
+}

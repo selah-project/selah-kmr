@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û ⟨את⟩ Aharon û ⟨את⟩ kurên wî tu yê nêzîk bikî aliyê deriyê Çadira Civînê, û tu yê ⟨את⟩ wan bi avê bişon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "tu yê nêzîk bikî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aliyê"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Civînê"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "Û tu yê bişon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bi avê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:53.696020356Z",
+  "model": "glm-5.3"
+}

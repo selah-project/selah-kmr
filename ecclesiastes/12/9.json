@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û ji bilî vê, ji ber ku Qohelet şareza bû, ew hîn jî hînî zanîna gelê ⟨את⟩ kir; guhdarî kir û lêkolîn kir û gelek pêşînan rast kir.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "û ji bilî vê"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "şareza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn jî"
+    },
+    {
+      "surface": "למד",
+      "gloss": "hînî ... kir"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "û guhdarî kir"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "û lêkolîn kir"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "rast kir"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "pêşîn"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "gelek"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:21.459691135Z",
+  "model": "glm-5.3"
+}

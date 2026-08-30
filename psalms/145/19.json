@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Dilxwaziya yên ku ji wî ditirsin dê bike, û ⟨את⟩ qêrîna wan dê bihîze, û dê xilas bike wan.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "dilxwaziya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "yên ku ji wî ditirsin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dê bike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qêrîna wan"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "qêrîna wan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dê bihîze"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "û dê xilas bike wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:10.271423915Z",
+  "model": "glm-5.3"
+}

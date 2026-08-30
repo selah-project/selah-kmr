@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Ew ⟨את⟩ goristana wî digel reşa dan, û ⟨את⟩ digel dewlemendî di mirina wî de; her çend ew zorî nekiribû jî, û xapîn di devê wî de nebû.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reşayan (reşa)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "reşayan"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "goristana wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dewlemendî"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "dewlemendî"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "di mirina wî de"
+    },
+    {
+      "surface": "על",
+      "gloss": "her çend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorî"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "xapîn"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di devê wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:09.683892528Z",
+  "model": "glm-5.3"
+}

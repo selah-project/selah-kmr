@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Canê bendetê xwe şa bike, çimkî ez, Adonay, canê xwe ber bi te bilind dikim.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "şa bike"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canê"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bendetê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ber bi te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê xwe"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "bilind dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:46.201503209Z",
+  "model": "glm-5.3"
+}

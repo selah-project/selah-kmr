@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Te dilê min ceriband, te şev êvar kir, te min heland — tu tişt nedîtî; bîrên min ji devê min derbas nebûn.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Te … ceriband"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "te … êvar kir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şev"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "Te min heland"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tu tişt nedîtî"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "bîrên min"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nebûn"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "derbas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ji devê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:09.355430358Z",
+  "model": "glm-5.3"
+}

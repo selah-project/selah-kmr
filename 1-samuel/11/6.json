@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ruh Elohîm bi hêz ket ser Şaul gava ew ⟨את⟩ van peyvan bihîst, û hêrsê wî pir germ bû.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "Û bi hêz ket"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "gava ew bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van peyvan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "û … germ bû"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hêrsê wî"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:37:55.499782973Z",
+  "model": "glm-5.3"
+}

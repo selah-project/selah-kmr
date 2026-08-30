@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Yekbûn, bi hev re, da bi Yehoşua û bi Îsraêl re şer bikin — devê yekê ⟨yekbûn⟩.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "yekbûn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "da şer bikin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi… re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "פה",
+      "gloss": "devê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:17:13.124889868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji ber wê yekê tu li ser wan pêxemberî bike, pêxemberî bike, kurê mirov!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ji ber wê yekê"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "pêxemberî bike"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "pêxemberî bike"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    }
+  ],
+  "timestamp": "2026-08-30T03:47:14.637443956Z",
+  "model": "glm-5.3"
+}

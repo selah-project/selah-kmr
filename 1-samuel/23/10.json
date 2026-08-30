@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Dawid got: “Yahwe, Elohîmê Yisraêl, tevdehê te guhdarî bike — helbet guhdarî bike — ku Şaul dixwaze were Qeîlayê, ji ber min bajarî bêrî bike.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guhdarî bike"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "helbet guhdarî bike"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tevdehê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "dixwaze"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "were"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeîlayê"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "bêrî bike"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bajarî"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "ji ber min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:49.934663135Z",
+  "model": "glm-5.3"
+}

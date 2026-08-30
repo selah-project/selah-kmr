@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Lê heta mehekê rojan, heta ku ji pozên we derbikeve û bibe ji we re bêzarî, ji ber ku hûn Yahwe ⟨את⟩, ê di nava we de ye, mexer kirin, û hûn berî wî giriyan û gotin: «Çima em ji Mîtsrayimê derketin?»",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mehekê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derbikeve"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "ji pozên we"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "bêzarî"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "hûn mexer kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di nava we de"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "hûn giriyan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "berî wî"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "em derketin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:45:49.303011617Z",
+  "model": "glm-5.3"
+}

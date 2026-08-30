@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Ev ji bo Yahwe ji çêlekeke bi qoçan û seglan çêtir e.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "çêtir-e"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji-bo-Yahwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ji-çêlekê-re"
+    },
+    {
+      "surface": "פר",
+      "gloss": "çêlekeke"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "bi-qoçan"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "û-seglan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:24.783946785Z",
+  "model": "glm-5.3"
+}

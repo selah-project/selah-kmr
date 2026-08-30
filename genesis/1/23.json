@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û êvar bû, û sibeh bû — roja pêncemîn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "êvar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sibeh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "pêncemîn"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:53.451977688Z",
+  "model": "glm-5.3"
+}

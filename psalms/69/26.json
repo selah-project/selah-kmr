@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Bila kelên wan werin valakirin, û di çadirên wan de tu kes rûne.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "bila bibe"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kelên wan"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "wêran\/bê xwedî"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "di çadirên wan de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûniştî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:53.744455443Z",
+  "model": "glm-5.3"
+}

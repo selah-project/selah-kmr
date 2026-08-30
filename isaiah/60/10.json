@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Kurên biyanî dîwarên te avadikin, û keyên wan xizmetê te dikin; çunkî di hêrsên min de min te da, û di razîbûna min de min dilovanî li te kir.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "avadikin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "dîwarên te"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "û keyên wan"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "xizmetê te dikin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çunkî"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "di hêrsên min de"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "min te da"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "û di razîbûna min de"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "min dilovanî li te kir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:46:58.108953587Z",
+  "model": "glm-5.3"
+}

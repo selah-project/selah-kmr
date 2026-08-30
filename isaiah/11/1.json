@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û ji koka Yîşay dê qencekek derkeve, û ji rehên wî dê şitilek bar bide.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "derkeve"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "qencek"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "ji koka"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yîşay"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "şitil"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "ji rehên wî"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "bar bide"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:54.603139025Z",
+  "model": "glm-5.3"
+}

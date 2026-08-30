@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û ew rûyê xwe ji min zivirînin, ne rûyê xwe; û ez wan di ber devê de hîn kir, radanî û hîn kir, lê ew guh nadin ku şîretê werbigirin.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "zivirînin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "pişt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rû"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "û hîn kir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "di ber devê de radanî"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "û hîn kir"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "lê ew nin"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "guh nadin"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ku werbigirin"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "şîret"
+    }
+  ],
+  "timestamp": "2026-08-29T21:03:19.346993826Z",
+  "model": "glm-5.3"
+}

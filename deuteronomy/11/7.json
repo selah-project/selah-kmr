@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "çimkî çavên we ⟨את⟩ hemû kara mezin a Yahwe dîtine, ya ku wî kir;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "çavên we"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "dîtine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû kara mezin a Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mezin a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:27.832088560Z",
+  "model": "glm-5.3"
+}

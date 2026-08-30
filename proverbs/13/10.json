@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Tenê serbilindî pevraçînê dide, lê ⟨את⟩ şêwirmenan re jîrî heye.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "serbilindî"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "pevraçîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şêwirmen"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "şêwirmen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jîrî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:44:16.810576595Z",
+  "model": "glm-5.3"
+}

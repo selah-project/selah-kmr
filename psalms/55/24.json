@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Lê te, Elohîm, yê wan dixe çala helakê: mêrên xwînê û xiyanetê nîvê rojên xwe nagihînin — lê ez ê di te de êle bikim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lê te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "yê wan dixe"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "çala"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "helakê"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "û xiyanetê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "nagihînin nîvê"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "rojên wan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lê ez"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "êle bikim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:37.850722317Z",
+  "model": "glm-5.3"
+}

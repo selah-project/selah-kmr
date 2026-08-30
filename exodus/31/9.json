@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "û ⟨את⟩ mizgeha pêşkêşkirinê û ⟨את⟩ hemû amûrên wê, û ⟨את⟩ serawa şûştinê û ⟨את⟩ bingehekê wê,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mizgeha pêşkêşkirinê"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizgeha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pêşkêşkirinê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû amûrên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "serawa şûştinê"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "serawa şûştinê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "bingehekê wê"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "bingehekê wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:33.603281425Z",
+  "model": "glm-5.3"
+}

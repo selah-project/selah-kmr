@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û ew ⟨את⟩ avdanekê ya paxirî û ⟨את⟩ binê wê ya paxirî çêkir — ji ayîneyan ên jinên komkar ku li ber derî Çadira Civînê kom dibûn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avdanekê"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "avdane"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "paxirî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "binê wê"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "binê wê"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "paxirî"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ji ayîneyan"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "jinên komkar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "kom dibûn"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ber derî"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:41.968918129Z",
+  "model": "glm-5.3"
+}

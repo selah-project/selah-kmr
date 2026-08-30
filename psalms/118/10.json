@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Hemû gelan dor li min girtin; bi navê Yahwe, bi rastî, ez ê wan qut bikim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "dor li min girtin"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ez ê wan qut bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.259521852Z",
+  "model": "glm-5.3"
+}

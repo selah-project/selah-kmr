@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Yahwe ê ⟨את⟩ barana erda te wekî toz û xwelî bide; ew ê ji ezmanan li ser te bikeve, heta ku tu bi tevahî hilweşî.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ê bide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barana erda te"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "baran"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "erda te"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "toz"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "û xwelî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bibeve"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "tu bi tevahî hilweşî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:22.372119484Z",
+  "model": "glm-5.3"
+}

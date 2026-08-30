@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ma tu ⟨את⟩ wan dadbarî, ma tu dadbarî, kurê mirov? ⟨את⟩ tiştên nefretbar ên bavên wan ji wan re bidê zanîn.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Ma tu dadbarî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "dadbarî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştên nefretbar"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "tiştên nefretbar"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bavên wan"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "ji wan re bidê zanîn"
+    }
+  ],
+  "timestamp": "2026-08-30T03:50:37.188352316Z",
+  "model": "glm-5.3"
+}

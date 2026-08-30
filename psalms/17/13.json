@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Rabe, ey Yahwe, rûyê wî pêş bibîne û wî bidakêşîne; canê min ji ê şerîr bi şûrê te rizgar bike.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahwe"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "pêş bibîne"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "û wî bidakêşîne"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "ji ê şerîr"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "bi şûrê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:22.580391875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Wî ji jor ezmanan û erdê bang kir, da ku gelê xwe darizê bike.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "bang dike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji jor"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "da ku darizê bike"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe yên"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:38.645187587Z",
+  "model": "glm-5.3"
+}

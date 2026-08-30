@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Deryayê dike qewe û ⟨ew⟩ hişk dike, û hemû çemanan hişk dike: Başan hêstirî bûye û Karmel, û kulîlka Libnanê hêstirî bûye.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "dike qewe"
+    },
+    {
+      "surface": "בים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "û hişk dike"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "çemanan"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "hişk dike"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "hêstirî bûye"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Başan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "û Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "û kulîlka"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libnanê"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "hêstirî bûye"
+    }
+  ],
+  "timestamp": "2026-08-30T04:14:09.396096243Z",
+  "model": "glm-5.3"
+}

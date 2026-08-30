@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Tu fermanên xwe daye ku bi tundî bêne parastin.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "daye"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "fermanên xwe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ku bêne parastin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bi tundî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:40.966159720Z",
+  "model": "glm-5.3"
+}

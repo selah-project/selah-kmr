@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û di nameyan de nivîsî ku waha (beje): Rojî banga bikin û Navot bi rûnihînin ⟨di⟩ serî yê gel.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Û nivîsî"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "di nameyan de"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku waha (beje)"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bang bikin"
+    },
+    {
+      "surface": "צום",
+      "gloss": "rojî"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "Û bi rûnihînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di serî yê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:44.969326496Z",
+  "model": "glm-5.3"
+}

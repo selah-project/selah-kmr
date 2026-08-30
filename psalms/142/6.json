@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 142,
+  "translation": "Ez qêrîna xwe birde te, Yahwe; ez got: Tu penahê min î, beşa min di erda jiyanê de.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "qêrîna xwe birde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ez got"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "penahê min"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "beşa min"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erda"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jiyanê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:27.873435190Z",
+  "model": "glm-5.3"
+}

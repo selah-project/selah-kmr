@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Dema wî tê darizandin, ⟨derbikeve⟩ gunehkar, û duaya wî bibe guneh.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Dema wî tê darizandin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derbikeve"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gunehkar"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "û duaya wî"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "guneh"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.277771959Z",
+  "model": "glm-5.3"
+}

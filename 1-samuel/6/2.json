@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Filistînî gazî kahînan û falanan kirin, gotin: “Çi bikin ji bo sandûqa Yahwe? Hûn dibêjin ka em ê wî bi çawa bişînin bo cihê wî?”",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "gazî kirin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistînî"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kahînan"
+    },
+    {
+      "surface": "ויקראו ולקסמים",
+      "gloss": "û falanan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ji bo sandûqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "hûn dibêjin"
+    },
+    {
+      "surface": "במה",
+      "gloss": "bi çawa"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "bişînin"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "bo cihê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:01.775993125Z",
+  "model": "glm-5.3"
+}

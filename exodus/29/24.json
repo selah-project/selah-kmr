@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û tu hemûyan datî ser palên Aharon û ser palên kurên wî, û ⟨את⟩ wan bi hejandinê — tenûfa — li pêş Yahwe dihejînî.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "û datî"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hemûyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ser"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palên"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "û dihejînî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "hejandin (tenûfa)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:12.429528506Z",
+  "model": "glm-5.3"
+}

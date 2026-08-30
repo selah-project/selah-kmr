@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 12:14",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Êrê hemû yên dora wî yên alîkar û hemû bazên wî ji her bayî re belav bikim, û şûrê li pey wan vekêşim.",
+  "tokens": [
+    {
+      "surface": "וְכֹל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "yên"
+    },
+    {
+      "surface": "סְבִיבֹתָיו",
+      "gloss": "dora wî"
+    },
+    {
+      "surface": "עֶזְרָה",
+      "gloss": "alîkar"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "אֶגְפָּיו",
+      "gloss": "bazên wî"
+    },
+    {
+      "surface": "אֲזָרֶה",
+      "gloss": "belav bikim"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ji her re"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "bayî"
+    },
+    {
+      "surface": "וְחֶרֶב",
+      "gloss": "û şûr"
+    },
+    {
+      "surface": "אָרִיק",
+      "gloss": "vekêşim"
+    },
+    {
+      "surface": "אַחֲרֵיהֶם",
+      "gloss": "li pey wan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:47:33.861781171Z",
+  "model": "glm-5.3"
+}

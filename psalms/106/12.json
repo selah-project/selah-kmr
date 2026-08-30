@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û wan bawerî bi peyvên wî anîn; pesnê wî bi stran gotin.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "bawerî anîn"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "bi peyvên wî"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "bi stran gotin"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pesnê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:46.710638709Z",
+  "model": "glm-5.3"
+}

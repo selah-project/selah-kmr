@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Dengê min ber bi Elohîm ve ye û ez digrim; dengê min ber bi Elohîm ve ye, û ⟨Ew⟩ guhê xwe didê min.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi… ve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "û ez digrim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi… ve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "û guhê xwe didê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:38.603056163Z",
+  "model": "glm-5.3"
+}

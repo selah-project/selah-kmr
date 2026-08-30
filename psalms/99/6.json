@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 99,
+  "translation": "Moşe û Aharon di kahînên wî de bûn û Şemûel di yên ku navê wî bang dikin de; ew gazî Yahwe kirin û ew bersivê da wan.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "di kahînên wî de"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "û Şemûel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "di bangkerên"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "bang dikin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "bersivê da wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:28.152171721Z",
+  "model": "glm-5.3"
+}

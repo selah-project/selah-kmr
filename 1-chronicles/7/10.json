@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Kurên Yedîael: Bîlhan; û kurên Bîlhan: Yeûş, û Benyamîn, û Ehûd, û Kenana, û Zeytan, û Tarşîş, û Ahîşahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yedîael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bîlhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bîlhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeûş"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "û Benyamîn"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "û Ehûd"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "û Kenana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "û Zeytan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "û Tarşîş"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "û Ahîşahar"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:47.086040838Z",
+  "model": "glm-5.3"
+}

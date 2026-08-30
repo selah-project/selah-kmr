@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Me ⟨את⟩ masiyê ku li Mîtsrayimê bêpesend dixwarin bi bîr anîn — ⟨את⟩ xiyaran, ⟨את⟩ kunduran, ⟨את⟩ kêrastan, ⟨את⟩ pîvazan û ⟨את⟩ sîran.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "me ... bi bîr anîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiyê"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "masiyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "dixwarin"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "li Mîtsrayimê"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bêpesend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xiyaran"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "xiyaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kunduran"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "kunduran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kêrastan"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "kêrastan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "pîvazan"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "pîvazan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "sîran"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "sîran"
+    }
+  ],
+  "timestamp": "2026-08-29T18:44:13.356554315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 2:9",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Çavên te bin ser zeviyê ku ew diçinin, û tu yê piştî wan biçî; ma min ⟨את⟩ xortan feren nekir ku dest nedine te? Û dema te birîm kir, here cem qatan û ji wê vexwe ku xort dikşînin.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "çavên te"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ser zeviyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יקצרון",
+      "gloss": "ew diçinin"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "û tu yê biçî"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "piştî wan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "min ferman nekir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xortan"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "xortan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ku nedikin"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "dest nedine te"
+    },
+    {
+      "surface": "וצמת",
+      "gloss": "û dema te birîm kir"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "here"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cem"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "qatan"
+    },
+    {
+      "surface": "ושתית",
+      "gloss": "û vexwe"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ji wê"
+    },
+    {
+      "surface": "ישאבון",
+      "gloss": "dikşînin"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "xort"
+    }
+  ],
+  "timestamp": "2026-08-30T06:05:08.209337984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "û Yahwe Elohîmê te wan berî te dide, û tû wan dilê dide — bi tawayî ji holê rake ⟨את⟩ wan; ji wan re peymanê nebeste û li wan merhemet neke.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "û wan berî te dide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "berî te"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "û tû wan dilê dide"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "bi tawayî ji holê rake"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "rake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "beste"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peyman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "li wan merhemet neke"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:02.292507945Z",
+  "model": "glm-5.3"
+}

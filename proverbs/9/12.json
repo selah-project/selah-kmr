@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ger tu jîr bûyî, ji bo xwe jîr bûyî; ger tu lûtî kirî, bi tenê tu wê hildibî.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tu jîr bûyî"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "jîr bûyî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ger tu lûtî kirî"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "bi tenê tu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wê hildibî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:09.196353424Z",
+  "model": "glm-5.3"
+}

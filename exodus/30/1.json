@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û altarekî ji bo pêxistina buxurê çêkî; ji darê şîtî tu yê wî çêkî ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Û …çêkî"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarekî"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ji bo pêxistina"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "buxurê"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ji darê"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîtî"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "çêkî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî (altar)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:04.468837286Z",
+  "model": "glm-5.3"
+}

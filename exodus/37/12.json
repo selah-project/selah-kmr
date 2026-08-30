@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û ji bo wê kêlekeke berdestfireh çêkir — dorhûl; û ji bo kêlê wê dora zêrî çêkir — dorhûl.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wê"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "kêlekeke"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "berdestfireh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dorhûl"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dora"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrî"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "ji bo kêlê wê"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dorhûl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:08.383576674Z",
+  "model": "glm-5.3"
+}

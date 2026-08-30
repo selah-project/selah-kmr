@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Yahwe dengê Elyehu bihîst, û nefesa zarokî vegeriya nav wî, û ⟨ew⟩ jiya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "û bihîst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elyehu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "û vegeriya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarokî"
+    },
+    {
+      "surface": "על",
+      "gloss": "nav"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "û jiya"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:20.550444661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Emûniya min û xesedê min ligel wî ne, û bi navê min wê bilind bibe qerna wî.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "emûniya min"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "xesedê min"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ligel wî"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "û bi navê min"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "wê bilind bibe"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "qerna wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:35.690643956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ez ê ⟨את⟩ welat bi xwe bi xerabî bigihîjînim, û dijminên we yên ku tê de dijîn dê li ser wê betal bibin ji ber wê.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ez ê…bigihîjînim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "welat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welat"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "betal bibin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dijminên we"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yên ku tê de dijîn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:31.301420214Z",
+  "model": "glm-5.3"
+}

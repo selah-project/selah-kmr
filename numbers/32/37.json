@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Şûnê Mînatên Reuben ⟨את⟩ Χeshbon û ⟨את⟩ Elale û ⟨את⟩ Qiryatayim avakirin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Şûnê"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "avakirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Χeshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Χeshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryatayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Qiryatayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:55:06.351445341Z",
+  "model": "glm-5.3"
+}

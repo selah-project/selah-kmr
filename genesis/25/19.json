@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Ev in toledotên Yîtsxak, kurê Avraham: Avraham ⟨את⟩ Yîtsxak bi cih anî.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ev in"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "toledotên"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtsxak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi cih anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yîtsxak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yîtsxak"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:56.119097982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Heke ez biçim nav konê malê xwe, heke ez bilindim ser doşeka rûniştina xwe —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "heke"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ez biçim"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nav konê"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "malê xwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "heke"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ez bilindim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "doşeka"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "rûniştina xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:05.951129922Z",
+  "model": "glm-5.3"
+}

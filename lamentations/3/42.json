@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Em sûc kirin û em serhildan; tu nebexşî.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "sûc kirin"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "û em serhildan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "bexşî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:07:48.060433883Z",
+  "model": "glm-5.3"
+}

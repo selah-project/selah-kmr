@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û nav mala bendertê jî neyîne, ku tevî wan rûnî bike û ⟨את⟩ bixwe û vexwe.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Û nav malê"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "bendertê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "yînî"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bo rûniştinê"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "tevî wan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "bixwe"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "û vexwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:55:35.506295383Z",
+  "model": "glm-5.3"
+}

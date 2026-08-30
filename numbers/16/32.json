@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û erd devê xwe vekir û wan û ⟨את⟩ malên wan û ⟨את⟩ hemû mirovên Koraẍ û ⟨את⟩ hemû milk û dewlemendiya wan biqût da.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "devê xwe vekir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "devê xwe"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "devê wê"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "biqût da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "malên wan"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "malên wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû mirovên Koraẍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirovên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Koraẍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû milk û dewlemendiya wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "milk û dewlemendiya wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:47:29.384204793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Û welatê wan da wek mîras, mîras ji bo Îsraêlê, gelê wî.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Û ... da"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "welatê wan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mîras"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mîras"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ji bo Îsraêlê"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.663821888Z",
+  "model": "glm-5.3"
+}

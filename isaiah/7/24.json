@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Bi tîran û bi kevanê dê bên wê derê, çûnkî hemû erd dê bibe strî û qîjik.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Bi tîran"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "û bi kevanê"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dê bên"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wê derê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "strî"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "û qîjik"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dê bibe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:44.121866542Z",
+  "model": "glm-5.3"
+}

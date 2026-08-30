@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Ez, di lezfî ya min de min got: hemû mirov derewan in.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "di lezfî ya min de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "derewan in"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:13.109972472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Kehn razî bûn ku êdî ji gel zêr hilnedin û ⟨את⟩ xeliyên xaniyê nû nekin.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "razî bûn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kehn"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ku êdî … ne-"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "hilgirtin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ji gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "û ku … ne-"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "nûkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeliyên xaniyê"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "xeliyan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:53.423378362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Di şerê wî de ⟨bi⟩ Eram-Naharayim û ⟨bi⟩ Eram-Tsova, û Yoav vegeriya û li Edom li Newala Xwê bi daxist — ⟨hezarên⟩ duwazdeh.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "di şerê wî de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eram-Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Eram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim (her du çem)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Eram-Tsova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Eram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "û vegeriya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "û bi daxist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "li newalê"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "xwê"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wazdeh (deh)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:03.641280677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Filistî li dijî Îsraêl şer kirin û mêrên Îsraêl ji ber Filistiyan reviyan û li çiyayê Gîlboa birîndar ketin.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "şer kirin"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li dijî Îsraêl"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "û reviyan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyan"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "û ketin"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "birîndar"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyayê"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gîlboa"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:45.438198249Z",
+  "model": "glm-5.3"
+}

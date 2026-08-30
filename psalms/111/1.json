@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 111,
+  "translation": "Spas bikin Yah! Ez ê di civata rastezayan û di cemawerê de bi tevahiya dil spasîya Yahwe bikim.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "spas bikin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "spas dikim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tevahiya"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "di civata veşartî de"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rastezayan"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "û di cemawerê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:54.470498326Z",
+  "model": "glm-5.3"
+}

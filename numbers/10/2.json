@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ji bo xwe du borîyên zîv çêke; ji xistina-çêkirî bên çêkirin, tu wan çêkî; û ew ê ji bo te bin, ji bo komkirina civatê û ji bo hildana ⟨את⟩ kampên.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "çêke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "borîyên"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ji xistina-çêkirî"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "çêkî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "du borîyên zîv"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ew ê bin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "ji bo komkirina"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "û ji bo hildana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampên"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "kampên"
+    }
+  ],
+  "timestamp": "2026-08-29T18:43:20.736054513Z",
+  "model": "glm-5.3"
+}

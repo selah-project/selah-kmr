@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û bû ku gava Yîtsḥaq (Yitsḥaq) pîr bû, çavên wî ji dîtinê ketin xera, wî gazî ⟨את⟩ Eşaw (Esaw) kurê xwe yê mezin kir û ji wî got: «Kurê min!» û ew ji wî re got: «Va ez im!»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku gava"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "pîr bû"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥaq"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "ketin xera"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "ji dîtinê"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wî gazî kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eşaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eşaw"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "yê mezin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Va ez im"
+    }
+  ],
+  "timestamp": "2026-08-29T17:46:38.027406356Z",
+  "model": "glm-5.3"
+}

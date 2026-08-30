@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Min nede destê dilê dijminên min; çimkî şahidên derewîn li ser min rabûn û yê ku tûndî vedeme.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nabe"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "min nede"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "destê dilê"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "rabûn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "şahidên"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewîn"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "û yê ku vedeme"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tûndî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:54.183545292Z",
+  "model": "glm-5.3"
+}

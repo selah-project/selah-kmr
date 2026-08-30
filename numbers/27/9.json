@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û ger keçek ji bo wî nîne, hûn ⟨את⟩ mîrasa wî didin birayên wî.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keçek"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "hûn didin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîrasa wî"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "mîrasa wî"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ji birayên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:08.397648064Z",
+  "model": "glm-5.3"
+}

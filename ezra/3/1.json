@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Meha heftemîn hat û kuren Yisraêl di bajaran de bûn, û gel wek yek meriv li Yeruşalayim civiyan.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "hat"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "meh"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "heftemîn"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kuren"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "di bajaran de"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "û civiyan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "wek meriv"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:22:50.484737286Z",
+  "model": "glm-5.3"
+}

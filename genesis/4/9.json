@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Yahwe ji Kain re got: “Ka Habel, birayê te, li ku ye?” Û wî got: “Ez nizanim; ma ez parêzvanê birayê xwe me?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "אי",
+      "gloss": "li ku"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Habel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wî got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ez nizanim"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "parêzvan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayê min"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:30.516011861Z",
+  "model": "glm-5.3"
+}

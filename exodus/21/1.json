@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ev biryar ⟨in⟩ ku tu yê li pêş wan deyî:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "biryar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "deyî"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "li pêş wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:50.647218130Z",
+  "model": "glm-5.3"
+}

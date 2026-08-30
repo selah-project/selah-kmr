@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Yahwe ên sade diparêze; ez kêm bûm, û ew min rizgar kir.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ên sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ez kêm bûm"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "û ji bo min"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "rizgar kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:29.403680282Z",
+  "model": "glm-5.3"
+}

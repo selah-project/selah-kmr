@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Şahidên zilmê radibin; tiştê ku min nizanibû, ji min dipirsin.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "radibin"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "şahidên"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zilmê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "min nizanibû"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ji min dipirsin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:10.900790026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Guhê xwe berî min rake, bilez rizgar bikim; bibe keleha-xwe parêzvaniya min, bibe keleha-bircan ku xilas bikim.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "rake"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "berî min"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "guhê xwe"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "bilez"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "rizgar bikim"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "keleha-xwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "parêzvaniya min"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bibe keleha"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "bircan"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ku xilas bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:50.416622243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 2:3",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û şagirtên pêxemberan ên ku li Beyt-Êlê bûn derketin bo Elişa û ji wî re gotin: «Ma tu dizanî ku îro Yahwe serê te yê agahdar ji ser serê te digire?» Û wî got: «Ez jî dizanim — bêdeng bin.»",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "derketin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "şagirtên"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êlê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "Ma tu dizanî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "digile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mamosteyê te"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mamosteyê te"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "serê te"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "dizanim"
+    },
+    {
+      "surface": "החשו",
+      "gloss": "bêdeng bin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:56.193032237Z",
+  "model": "glm-5.3"
+}

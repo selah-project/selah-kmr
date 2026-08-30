@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û tu ê ⟨את⟩ bergiyê efodê bi tevahî ji şîn çêkî.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Û tu ê çêkî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bergiyê efodê"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "bergiyê"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodê"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "şîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:50.878421216Z",
+  "model": "glm-5.3"
+}

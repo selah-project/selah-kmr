@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Wêranî bê gazî bi serê wî were, ew nizanibe; û tora wî ya ku veşartibû, wî bigire; di wê wêranîyê de wî bikeve.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "bi serê wî were"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "wêranî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zane"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "û tora wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "veşartibû"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "di wê wêranîyê de"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bikeve"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di wê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:48.614765443Z",
+  "model": "glm-5.3"
+}

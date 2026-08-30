@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û di Horebê de hûn Yahwe aciz kirin ⟨את⟩, û Yahwe bi hêrs bû li we, ji bo ku ⟨את⟩ we tune bike.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Û di Horebê de"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "hûn aciz kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "Û… bi hêrs bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "li we"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ji bo ku… tune bike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:23.106142933Z",
+  "model": "glm-5.3"
+}

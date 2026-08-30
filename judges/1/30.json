@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Zebulun ⟨את⟩ niştecihên Kitronê û ⟨את⟩ niştecihên Nahalalê derne xist; û Kenanî di nava wî de rûnişt û bûn ji bacê.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "derne xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niştecihên Kitronê"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitronê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "niştecihên Nahalalê"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalalê"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "û rûnişt"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanî"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di nava wî de"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "û bûn"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ji bacê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:36.120755469Z",
+  "model": "glm-5.3"
+}

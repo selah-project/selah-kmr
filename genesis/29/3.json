@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 29:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û hemû kerî li wir civiyan, û wan kevir ji ser devê çêlê li aliyê rû got û ⟨את⟩ bizinan dan avdanê, û ⟨את⟩ kevir dîsa li ser devê çêlê dane cihê xwe.",
+  "tokens": [
+    {
+      "surface": "ונאספו",
+      "gloss": "û civiyan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "kerî"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "û wî li aliyê rû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevir"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kevir"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "çêlê"
+    },
+    {
+      "surface": "והשקו",
+      "gloss": "û dan avdanê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizinan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "û dîsa dane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevir"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kevir"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פי",
+      "gloss": "devê"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "çêlê"
+    },
+    {
+      "surface": "למקמה",
+      "gloss": "cihê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:47:44.694702968Z",
+  "model": "glm-5.3"
+}

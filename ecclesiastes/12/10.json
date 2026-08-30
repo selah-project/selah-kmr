@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Qohelet xwest peyvên dilxweş bibîne, û ⟨ya ku⟩ hatiye nivîsîn rast bû — peyvên rastiyê.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "xwest"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "bibîne"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dilxweş"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "û hatiye nivîsîn"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rast"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rastiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:21.460534406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 122,
+  "translation": "Ku wir kabîle bilind dibin — kabîleyên Yah, şahidiya ji bo Îsraêl — ji bo spasîkirina navê Yahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "ku wir"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bilind dibin"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "kabîle"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabîleyên"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "şahidiya"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ji bo Îsraêl"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ji bo spasîkirina"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:39.695579567Z",
+  "model": "glm-5.3"
+}

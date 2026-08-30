@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 126,
+  "translation": "Strana bilindahiyan. Dema Yahwe ⟨את⟩ vegerîna Tsiyonê vegerand, em bûn wek xeyalvanan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Strana"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bilindahiyan"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Dema … vegerand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vegerîna Tsiyonê"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "vegerîna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonê"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "em bûn"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "wek xeyalvanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:08.653672493Z",
+  "model": "glm-5.3"
+}

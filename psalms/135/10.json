@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Ku li gelek gelan xist û şehîdan keyên hêzdar kuştin.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Ku li ... xist"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "û ... kuştin"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "keyên"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "hêzdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.663556468Z",
+  "model": "glm-5.3"
+}

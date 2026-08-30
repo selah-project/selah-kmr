@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ma ez derya me, an marê deryayê, ku tu li ser min şopdarî datînî?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "derya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אם",
+      "gloss": "an"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "marê deryayê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "datînî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "şopdarî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:31.409529920Z",
+  "model": "glm-5.3"
+}

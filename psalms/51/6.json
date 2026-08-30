@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Li hember te, tenê li hember te, ez guneh kirim, û xerabî di çavên te de kirim, da ku tu rast derbibî di peyvên xwe de, tu paqij derbibî di dawe xwe de.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "li hember te"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tenê te"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ez guneh kirim"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "û xerabî"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di çavên te de"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kirim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "rast derbibî"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "di peyvên te de"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "paqij derbibî"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "di dawe te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:01.544462299Z",
+  "model": "glm-5.3"
+}

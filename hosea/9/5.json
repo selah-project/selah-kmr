@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Çi dikin ji bo roja civînê û ji bo roja cejna Yahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dikin"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ji bo roja"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "û ji bo roja"
+    },
+    {
+      "surface": "חג",
+      "gloss": "cejna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:38.975789384Z",
+  "model": "glm-5.3"
+}

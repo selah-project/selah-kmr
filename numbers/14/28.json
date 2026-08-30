@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Ji wan re bêje: Wekî ku min dijî, gotina Yahwe, ger wekî ku hûn bi guhên min re gotiye nebe ku ez wusa ji we re bikim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dijî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebe ku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "Wekî ku"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "hûn … gotiye"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "bi guhên min re"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ez … bikim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    }
+  ],
+  "timestamp": "2026-08-29T18:45:20.828194178Z",
+  "model": "glm-5.3"
+}

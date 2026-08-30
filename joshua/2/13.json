@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "û hûn dê ⟨את⟩ bavê min û ⟨את⟩ diya min û ⟨את⟩ birayên min û ⟨את⟩ xwişkên min û ⟨את⟩ hemû tiştê ku yê wan e zindî bihêlin, û hûn dê ⟨את⟩ canên me ji mirinê rizgar bikin.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "zindî bihêlin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê min"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diya min"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "diya min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birayên min"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xwişkên min"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "xwişkên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştê ku yê wan e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yê wan e"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "rizgar bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canên me"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "canên me"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ji mirinê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:24.979662152Z",
+  "model": "glm-5.3"
+}

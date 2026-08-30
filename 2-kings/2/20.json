@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û wî got: «Ji min re doseke nû bînin û tê de xwê bînin.» Û ew anîn bal wî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "dosek"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nû"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "û… bînin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "xwê"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "û ew anîn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bal wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:21.132615816Z",
+  "model": "glm-5.3"
+}

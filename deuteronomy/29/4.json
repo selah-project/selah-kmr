@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û min hûn ⟨אתכם⟩ çil salan di çolê de meşandin; kincên we li ser we ne xerar bûn û sola te li ser lingê te ne xerar bû.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "û min meşandin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "hûn"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "xerar bûn"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "kincên we"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "û sola te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "xerar bû"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lingê te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:42.622977739Z",
+  "model": "glm-5.3"
+}

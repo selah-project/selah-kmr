@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Ne bila dijminên min bi derewî li min şahî bikin, ne bila yên bê sedem ji min nefret dikin çav bizivirînin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne bila"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "şahî bikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bi derewî"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "yên ji min nefret dikin"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bê sedem"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "çav bizivirînin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çav"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:02.026221697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Destê rastê yê Yahwe bilind bûye, destê rastê yê Yahwe çelengî dike.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "destê rastê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yê Yahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "bilind bûye"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "destê rastê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yê Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "çelengî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:37.368865282Z",
+  "model": "glm-5.3"
+}

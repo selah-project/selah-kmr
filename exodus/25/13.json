@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Tu çê bikî daran ji darên şîtîmê, û ⟨את⟩ wan bi zêr bipêçî.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Tu çê bikî"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "daran"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ji darên"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şîtîmê"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "û bipêçî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bi zêr"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:45.070227989Z",
+  "model": "glm-5.3"
+}

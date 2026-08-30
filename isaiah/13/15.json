@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Her yê ku hate dîtin dê were bijandin, û her yê ku hate girtin dê bi şûr bikeve.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her yê ku"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "hate dîtin"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "dê were bijandin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û her yê ku"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "hate girtin"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "dê bikeve"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bi şûr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:34.975033708Z",
+  "model": "glm-5.3"
+}

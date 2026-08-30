@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "«Û tu, asta ⟨את⟩ çêwî xwe rake û destê xwe li ser ⟨the⟩ deryayê dirêj bike û wê veke; û zarokên Îsraêl êdî di nava ⟨the⟩ deryayê de, di ser bejayî de, derbas bibin.»",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Û tu"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "rake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çêwî te"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "çêwî te"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "û dirêj bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê te"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "û wê veke"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "û … derbas bibin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "di ser bejayî de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:49.777595236Z",
+  "model": "glm-5.3"
+}

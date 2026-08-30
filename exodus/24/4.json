@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û Moşe ⟨את⟩ hemû peyvên Yahwe nivîsî; û sibeh zû çûbû rê, û li binê çiyê altarek ava kir, û dwanzde stûnên rabi ji bo dwanzde eşîrên Yisraêlê.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "û … nivîsî"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû peyvên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "û sibeh zû çûbû rê"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di sibehê de"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "û … ava kir"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarek"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li binê"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "çiyê"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "û dê-û-du"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stûnên rabi"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ji bo dê-û-du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "eşîrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:55.691034924Z",
+  "model": "glm-5.3"
+}

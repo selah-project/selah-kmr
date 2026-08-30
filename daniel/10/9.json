@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Min bihîst ⟨את⟩ dengê peyvên wî, û gava min bihîst ⟨את⟩ dengê peyvên wî, ez bûm xewdar di rûyê xwe de, û rûyê min ber bi erdê ve bû.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "min bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "peyvên wî"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "û gava min bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "peyvên wî"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûm"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "xewdar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di … de"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "û rûyê min"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ber bi erdê ve"
+    }
+  ],
+  "timestamp": "2026-08-30T06:21:29.869586387Z",
+  "model": "glm-5.3"
+}

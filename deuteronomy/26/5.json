@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 26:5",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û tu bersivê didî û beriya Yahwe Elohîmê xwe dibêjî: \"Erameyekî winda bû bavê min, û ew daket Mîtsrayimê û li wir bi kêmjimarîyan xerîb bû, û li wir bû neteweyekî mezin, hêzdar û pir.\"",
+  "tokens": [
+    {
+      "surface": "וענית",
+      "gloss": "bersivê didî"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dibêjî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "beriya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "ארמי",
+      "gloss": "Erameyekî"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "winda bû"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "daket"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "xerîb bû"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "bi kesên"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kêm"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "neteweyekî"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "û pir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:09:08.379687749Z",
+  "model": "glm-5.3"
+}

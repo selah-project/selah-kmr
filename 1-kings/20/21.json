@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û keyê Yisraêlê derket, ⟨את⟩ hespan û ⟨את⟩ sîwaran li dar xist, û li Aramê xistîyeke mezin da.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlê"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "li dar xist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hespan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hespan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "sîwaran"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "sîwaran"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "xist"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "li Aramê"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "xistîyeke"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:51.035657277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji ajalên ⟨paqij⟩ û ji ajalan ku ne ⟨paqij⟩ in, û ji çûkan, û ji her tiştê ku li ser erdê dixezike.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ajalên"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ajalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "çûkan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û ji her"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "dixezike"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:37.384649190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Rojî dan bang kirin û Navot bi rûnihînin ⟨di⟩ serî yê gel.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "bang kirin"
+    },
+    {
+      "surface": "צום",
+      "gloss": "rojî"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "Û bi rûnihînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di serî yê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:44.970066884Z",
+  "model": "glm-5.3"
+}

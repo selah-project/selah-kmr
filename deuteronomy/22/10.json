@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Bi ga û bi kerê re îtişalê erdê nakî.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tişalên erdê nakî"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "bi ga"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "û bi kerê re"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:10.881518234Z",
+  "model": "glm-5.3"
+}

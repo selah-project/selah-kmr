@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 137,
+  "translation": "Bibîrîne, Yahwe, li dijî kurên Edomê ⟨את⟩ roja Yeruşalayimê, ên ku digotin: “Wê rake, wê rake heta binêxetên wê!”",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Bibîrîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "li dijî kurên"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roja Yeruşalayimê"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ên ku digotin"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "wê rake"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "wê rake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "binêxetên wê"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:45.361406382Z",
+  "model": "glm-5.3"
+}

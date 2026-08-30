@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 129,
+  "translation": "Yahwe sîpkûj e, ew rimên (qalikên) bindestan ên nebaş jê birîn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sîpkûj e"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "jê birîn"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "rimên"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nebaş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.178239128Z",
+  "model": "glm-5.3"
+}

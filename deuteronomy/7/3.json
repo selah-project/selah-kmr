@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û bi wan re zewacê neke: keça xwe nede kurê wî, û keça wî nebîne kurê xwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "zewacê neke"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bi wan re"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "keça xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nede"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "û keça wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nebîne"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "kurê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:02.292760710Z",
+  "model": "glm-5.3"
+}

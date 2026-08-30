@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Rêya xwe nîşanî min de, Yahwe, ez ê di rastiya te de bijm; dilê min yek bike ji bo tirsandina navê te.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "nîşanî min de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "rêya te"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ez ê bijm"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "di rastiya te de"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yek bike"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ji bo tirsandina"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.838266825Z",
+  "model": "glm-5.3"
+}

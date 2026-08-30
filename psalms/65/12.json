@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Salê bi qenciya xwe tac dike û riyên te dewlemendî dirijînin.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "tac dike"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "salê"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "bi qenciya xwe"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "û riyên te"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "dirijînin"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "dewlemendî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:06.091300445Z",
+  "model": "glm-5.3"
+}

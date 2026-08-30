@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Dawid ji Şaul re got: \"Çima tu ⟨את⟩ peyvên mirovan dibihîzî ku dibêjin: 'Va ye, Dawid li te xerabiye digere'?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji Şaul re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dibihîzî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku dibêjin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "digere"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "xerabiya te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:45:28.248179713Z",
+  "model": "glm-5.3"
+}

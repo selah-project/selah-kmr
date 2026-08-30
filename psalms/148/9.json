@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Çiya û hemû gir; dara fêkî û hemû sedr.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "gir"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dar"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fêkî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.635035900Z",
+  "model": "glm-5.3"
+}

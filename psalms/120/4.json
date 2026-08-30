@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 120,
+  "translation": "Tîrên tûj ên şervanekî hêzdar, ligel komirên darê retamê.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Tîrên"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "şervanekî hêzdar"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "tûj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "komirên"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "darê retamê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:11.219039562Z",
+  "model": "glm-5.3"
+}

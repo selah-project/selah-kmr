@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Te bi bayê xwe pûsî, derya wan rewand; ew wekî sêwê di avên hêzdar de çûn binê.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "pûsî"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "bi bayê xwe"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "rewand"
+    },
+    {
+      "surface": "ים",
+      "gloss": "derya"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "çûn binê"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "wekî sêwê"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avên"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "hêzdar de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:49.562046764Z",
+  "model": "glm-5.3"
+}

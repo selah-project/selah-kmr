@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Êû yê ku şahînên mezin dan — ji ber ku xesedê wî heta tiredên herî dûn dewam dike.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "êû yê ku dan"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "şahînên"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta tiredên herî dûn"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî dewam dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:55.553507994Z",
+  "model": "glm-5.3"
+}

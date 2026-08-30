@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Di roja şemitîyê de, di her roja şemitîyê de, ew ê wî berî Yahwe rêz bike, domdar; ji aliyê zarokên Yisraêl ve — peymana dawî.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şemitîyê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şemitîyê"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "ew ê wî rêz bike"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "domdar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên Yisraêl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dawî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:54.687654485Z",
+  "model": "glm-5.3"
+}

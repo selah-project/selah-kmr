@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "\"Ka em ⟨את⟩ bendên wan biqelînin û zincîrên wan ji me bavêjin.\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Ka em biqelînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bendên wan"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "bendên wan"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "û bavêjin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji me"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "zincîrên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:28.945552758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Canê min bi daxwazê dişike ⟨û dihelise⟩, ber bi hukmên te, di hemû deman de.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "dişike û dihelise"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "bi daxwazê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmên te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "עת",
+      "gloss": "deman de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:55.184519092Z",
+  "model": "glm-5.3"
+}

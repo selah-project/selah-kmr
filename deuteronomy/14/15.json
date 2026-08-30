@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "û ⟨את⟩ kêza-deştê, ⟨את⟩ şepalê-şev, ⟨את⟩ şaşikê-deryayê û ⟨את⟩ baz li gorî cureyê wî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kêza-deştê"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kêz"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "kêza-deştê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şepalê-şev"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "şepalê-şev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şaşikê-deryayê"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "şaşikê-deryayê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baz"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "baz"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "li gorî cureyê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:01.595468012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Çimkî ez ji her mêrî bêtir bêaqil im, û fêhmên mirovan li min tune.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bêaqil"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ji her mêrî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û … tune"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "fêhmên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:05.467870715Z",
+  "model": "glm-5.3"
+}

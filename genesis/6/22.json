@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Nuh çawa Elohîm fermanî ⟨את⟩ wî kiribû, gorî hemû tiştî wusa kir.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û ... kir"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gorî hemû tiştî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fermanî ... kiribû"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:51.452945646Z",
+  "model": "glm-5.3"
+}

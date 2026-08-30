@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Ne di hêza hesp de kêfxweş dibe, ne jî di lingên zilam de hoş dibîne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "di hêza… de"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hesp"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kêfxweş dibe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne jî"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "di lingên… de"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "zilam"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "hoş dibîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:40.195062338Z",
+  "model": "glm-5.3"
+}

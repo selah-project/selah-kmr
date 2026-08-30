@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Piştî wî Ebdon, kurê Hîlel ê Pîrhatonî, ⟨את⟩ Yisraêl darpê kir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "darpê kir"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "piştî wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Ebdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hîlel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ê Pîrhatonî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:29:25.123034281Z",
+  "model": "glm-5.3"
+}

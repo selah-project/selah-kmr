@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Tu penahî min î; ji tengasiyê digirî û diparêzî min; bi stranên rizgariyê dorpêçê min dikî. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "penah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ji tengasiyê"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "diparêzî min"
+    },
+    {
+      "surface": "רני",
+      "gloss": "bi stranên"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "rizgariyê"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "dorpêçê min dikî"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:34.192517551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û ⟨את⟩ jinên ku tê de bûn girtin, ji biçûk heta mezin; tu kesî nekuştin, lê birin û çûne rêya xwe.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Û ... girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinên"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "jinên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ji biçûk"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "kuştin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tu kesî"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "lê birin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "û çûne"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "rêya xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:25.451614576Z",
+  "model": "glm-5.3"
+}

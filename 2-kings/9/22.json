@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Wê gavê ku Yehoram ⟨את⟩ Yehû dît, got: «Selamî ye, Yehû?» Û wî got: «Çi selamî! hîn zînayiyên Îzebel, diya te, û efsûnên wê yên pir in.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wê gavê"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ku … dît"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehû"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehû"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "selamî ye"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehû"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "selamî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "zînayiyên"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Îzebel"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "diya te"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "û efsûnên wê"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "yên pir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:30.631454118Z",
+  "model": "glm-5.3"
+}

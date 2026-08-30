@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û gelê xwe teslîmî şûrê kir, û li ser mîrasa xwe ji nû ve aciz bû.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "teslîmî kir"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "şûrê"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "li ser mîrasa xwe"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "ji nû ve aciz bû"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:17.936075461Z",
+  "model": "glm-5.3"
+}

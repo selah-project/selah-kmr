@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Bi kêfxweşî û şahiyê tên anîn; wê derkevin qesra keyî.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "tên anîn"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "bi şahiyê"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "û kêfxweşî"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "wê derkevin"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "qesra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:00.724609393Z",
+  "model": "glm-5.3"
+}

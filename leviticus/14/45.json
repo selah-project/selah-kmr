@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Wê ⟨את⟩ xanîyê hilweşîne — ⟨את⟩ kevirên wê, ⟨את⟩ darên wê û ⟨את⟩ tevî tozê xanîyê — û wê wan ji derveyî bajarî derbîne, ji bo cihekî nepaqij.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "hilweşîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xanîyê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanîyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevirên wê"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "kevirên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "darên wê"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "darên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "tevî tozê xanîyê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevî"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xanîyê"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "wê derbîne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "derveyî"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bajarî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nepaqij"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:11.649218617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ne pirweliyê bike û ne jî dîn bimîne — çima bêyî dema te bimirî?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "pirweliyê bike"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne jî"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "bimîne"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "dîn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "bimirî"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bêyî"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "dema te"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:40.961704047Z",
+  "model": "glm-5.3"
+}

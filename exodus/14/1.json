@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û Yahwe bi Moşe re axaft ⟨ ku bibêje ⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axaft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku bibêje"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:50.770976480Z",
+  "model": "glm-5.3"
+}

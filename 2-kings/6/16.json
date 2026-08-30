@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û wî got: \"Netirse, ji ber ku yên bi me re hene ji yên ⟨את⟩ bi wan re ⟨zêdetir in⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wî got"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "netirse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yên zêde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bi me re"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ji yên"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bi wan re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:16:17.843273844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Çemek ji şerwanan deranîn û kevanên xwe dan, da ku xizan û belengaz bikevin û yên rast-rû bi serjêkirin bimirin.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "şer"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "deranîn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "çemek"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "kevanên xwe"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "bikevin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "xizan"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "belengaz"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "bi serjêkirin"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "yên rast-rû"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:00.845600989Z",
+  "model": "glm-5.3"
+}

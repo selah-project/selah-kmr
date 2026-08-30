@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Ji ber ku serhildanên min ez dizanim, û gunehê min her tim li ber min e.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "serhildanên min"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "dizanim"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "û gunehê min"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "li ber min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "her tim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:01.544168452Z",
+  "model": "glm-5.3"
+}

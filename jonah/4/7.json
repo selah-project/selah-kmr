@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Elohîm di bilindbûna sibehê de, ê dinê sibê, kermek amade kir û ⟨את⟩ kîkayonê lêda û wê ziwa kir.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "amade kir"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kermek"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "di bilindbûna"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ê dinê sibê"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "lêda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kîkayonê"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kîkayonê"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ziwa kir"
+    }
+  ],
+  "timestamp": "2026-08-30T04:11:59.039131910Z",
+  "model": "glm-5.3"
+}

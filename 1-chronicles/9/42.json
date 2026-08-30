@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Ajas ⟨את⟩ Yarêa bû bav; û Yarêa ⟨את⟩ Alimet, ⟨את⟩ Azmavet û ⟨את⟩ Zimrî bû bav; û Zimrî ⟨את⟩ Moça bû bav.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Û Ajas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarêa"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yarêa"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "û Yarêa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alimet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alimet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "Zimrî"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimrî"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "û Zimrî"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moça"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Moça"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:36.119468487Z",
+  "model": "glm-5.3"
+}

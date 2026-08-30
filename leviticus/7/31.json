@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û kahîn ⟨את⟩ ê li ser altêrê bişewitîne; û sing dê bibe bo Aharon û bo kurên wî.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "bişewitîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ê"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ê"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser altêrê"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dê bibe"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "bo Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "û bo kurên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:29.727447114Z",
+  "model": "glm-5.3"
+}

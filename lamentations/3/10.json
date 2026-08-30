@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ew ji bo min hirçekî tawan e, şêr di cihên veşartî de.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "hirç"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "tawan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "şêr"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di cihên veşartî de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:06:39.569416389Z",
+  "model": "glm-5.3"
+}

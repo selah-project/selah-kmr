@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Li ser şerabê qîrîn çêdibe di kolanên derve; hemû şahî tarî bûye, kêfa erdê hatiye revandin.",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "qîrîn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "היין",
+      "gloss": "şerabê"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "di kolanên derve de"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "tarî bûye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "şahî"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hatiye revandin"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kêfa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:02.144960108Z",
+  "model": "glm-5.3"
+}

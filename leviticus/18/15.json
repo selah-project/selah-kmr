@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Taziyê bûka te nede nîşandan; ew jina kurê te ye; taziya wê nede nîşandan.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "taziyê"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "bûka te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nede nîşandan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew … e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nede nîşandan"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "taziya wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:48.020245779Z",
+  "model": "glm-5.3"
+}

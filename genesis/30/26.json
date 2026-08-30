@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Jinên min û zarokên min ⟨את⟩ bide min — yên ku ez bi wan bi te re ⟨אתך⟩ xizmet kirim — û ez herim; çimkî tu xizmeta min ⟨את⟩ ya ku min ji te re kirî dizanî.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "bide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinên min"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "jinên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên min"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "zarokên min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "xizmet kirim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩ bi te re"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "bi wan"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "û ez herim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dizanî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xizmeta min"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "xizmeta min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "min ji te re kirî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:49:01.613981061Z",
+  "model": "glm-5.3"
+}

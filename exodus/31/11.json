@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "û ⟨את⟩ rûnê xêzkirinê û ⟨את⟩ bêhna taman ji bo cihê pîroz — hemû tiştên ku Ez fermanî te kirine, wan bila bikin.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûnê xêzkirinê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xêzkirinê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "bêhna taman"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "bêhna"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "taman"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "ji bo cihê pîroz"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hemû tiştên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "Ez fermanî te kirine"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wan bila bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:33.603852533Z",
+  "model": "glm-5.3"
+}

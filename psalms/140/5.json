@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 140,
+  "translation": "Parêze min, Yahwe, ji destên şaşî, ji zilamekî tundûtûj biparêze min, yên ku xeyal kirine ku gavên min bizivirînin.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Parêze min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ji destên"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şaşî"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ji zilamekî"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "tundûtûj"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "biparêze min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "xeyal kirine"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "ku bizivirînin"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "gavên min"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:10.557621927Z",
+  "model": "glm-5.3"
+}

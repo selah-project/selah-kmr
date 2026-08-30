@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û min ⟨את⟩ pirtûka kirînê girt — ⟨את⟩ ya mohrkirî, ⟨את⟩ ya ferman û biryaran, û ⟨את⟩ ya eşkere —",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "û min girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pirtûka kirînê"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pirtûka"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "kirînê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya mohrkirî"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "ya mohrkirî"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ferman"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "û biryar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "ya eşkere"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "ya eşkere"
+    }
+  ],
+  "timestamp": "2026-08-29T21:02:52.421943628Z",
+  "model": "glm-5.3"
+}

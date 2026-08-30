@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û mêr bi tirsê mezin Yahwe ⟨את⟩ tirsiyan, û qurbanekî ji bo Yahwe pêşkêş kirin û soz dan.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Û tirsiyan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bi tirsê"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "û qurban pêşkêş kirin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbanekî"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "û soz dan"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "soz"
+    }
+  ],
+  "timestamp": "2026-08-30T04:09:20.962030753Z",
+  "model": "glm-5.3"
+}

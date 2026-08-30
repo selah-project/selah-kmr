@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 131,
+  "translation": "Bila Îsraêl li bendî Yahwe bimîne, ji niha ve û heta hertimî.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "bila... li bendî bimîne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ji niha ve"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:36.633418837Z",
+  "model": "glm-5.3"
+}

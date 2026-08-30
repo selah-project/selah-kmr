@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Tôû, keyê Hamatê, bihîst ku Dawid ⟨את⟩ teva hêzên Hadadezer, keyê Tsobahê, dayibû ber xwarê.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "û bihîst"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tôû"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "dayibû ber xwarê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teva hêzên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "teva"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêzên"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsobahê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:39:17.740231202Z",
+  "model": "glm-5.3"
+}

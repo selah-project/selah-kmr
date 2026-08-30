@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Ma Adonay heta temamê red dike û dê qet caran din razî nebibe?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "ma heta temamê"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "red dike"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û qet"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "caran din"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "razî bibe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "caran din"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:03.678008741Z",
+  "model": "glm-5.3"
+}

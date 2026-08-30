@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 149,
+  "translation": "Navê wî di dîlanê de bilûzin, bi def û çeng lê bilîzin.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "bilûzin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Navê wî"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "di dîlanê de"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "bi def"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "û çeng"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bilîzin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:09.237175026Z",
+  "model": "glm-5.3"
+}

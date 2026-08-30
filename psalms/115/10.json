@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 115,
+  "translation": "Mala Aharon, hûn bitêxin bi Yahwe; alîkarê wan û sipara wan ew e.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Mala"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "hûn bitêxin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "alîkarê wan"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "û sipara wan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:45.706461542Z",
+  "model": "glm-5.3"
+}

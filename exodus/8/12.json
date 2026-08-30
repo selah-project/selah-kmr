@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Yahwe ji Moşe re got: Ji Aharon re bêje: Darikê xwe dirêj bike û li ⟨את⟩ toza erdê bide, û dê bibe kîmalan li seranserê welatê Mîtsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "dirêj bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darikê xwe"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "darikê xwe"
+    },
+    {
+      "surface": "והך",
+      "gloss": "û bide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toza erdê"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "û dê bibe"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "kîmalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li seranserê"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:59.096062252Z",
+  "model": "glm-5.3"
+}

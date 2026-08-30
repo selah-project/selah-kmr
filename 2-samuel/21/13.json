@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Wî ji wir ⟨את⟩ hestiyên Şaul û ⟨את⟩ hestiyên Yehonatan kurê wî bilind kirin; û wan ⟨את⟩ hestiyên ên hatibûn dalkirin kom kirin.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bilind kirin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên Şaul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hestiyên Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "û wan kom kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên ên hatibûn dalkirin"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "ên hatibûn dalkirin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:58:21.172484373Z",
+  "model": "glm-5.3"
+}

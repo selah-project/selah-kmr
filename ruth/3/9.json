@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Wî got: \"Kî tu?\" Wê got: \"Ez Rût im, kênika te; baskê kincê te li ser kênika te belav bike, ji ber ku tu go'el î.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wî got"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wê got"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rût"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kênika te"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "belav bike"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "baskê kincê te"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kênika te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "go'el"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-08-30T06:05:32.340565726Z",
+  "model": "glm-5.3"
+}

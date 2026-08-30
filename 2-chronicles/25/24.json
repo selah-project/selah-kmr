@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 25:24",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û hemû zêr û zîv, û ⟨את⟩ hemû amûrên ku di mala Elohîm de bi Oved Edom re hatibûn dîtin, û ⟨את⟩ xezîneyên mala key, û ⟨את⟩ zarokên girtiyan, û vegeriya Şemronê.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Û hemû"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "Û zîv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû amûrên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "hatibûn dîtin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xezîneyên"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "xezîneyên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "girtiyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "û vegeriya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şemronê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:51:43.940488091Z",
+  "model": "glm-5.3"
+}

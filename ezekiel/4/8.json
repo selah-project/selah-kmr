@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 4:8",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û va ye, min girêdan li ser te danîne, û tu nikarî ji aliyê xwe beri aliyê xwe yê din veguherî — heta ku tu rojên dorpêça xwe biqedînî.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Û va ye"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min danîne"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "girêdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... na"
+    },
+    {
+      "surface": "תהפך",
+      "gloss": "nikarî veguherî"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ji aliyê xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berî"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "aliyê xwe yê din"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "כלותך",
+      "gloss": "tu biqedînî"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên"
+    },
+    {
+      "surface": "מצורך",
+      "gloss": "dorpêça te"
+    }
+  ],
+  "timestamp": "2026-08-30T03:44:55.775269750Z",
+  "model": "glm-5.3"
+}

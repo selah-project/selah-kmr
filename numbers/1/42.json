@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji zarokên Naftalî, bi nifşên xwe, bi malbatên xwe, bi malê bavên xwe, bi hijmara navan, ji bicihê bîh salan û bilindtir, her kesê ku dikaribû derkeva şer;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalî"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "bi nifşên xwe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "bi malbatên xwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bi malê"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "bi hijmara"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "navan"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ji bicihê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "û bilindtir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her kesê"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derkeva"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "şer"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:18.052084509Z",
+  "model": "glm-5.3"
+}

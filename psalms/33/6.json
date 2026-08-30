@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Bi peyva Yahwe ezman hatine çêkirin, û bi kêfa devê wî hemû leşkerên wan.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "bi peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "hatine çêkirin"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "û bi kêfa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "devê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "leşkerên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:34.202168611Z",
+  "model": "glm-5.3"
+}

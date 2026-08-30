@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Êvî rabûn û di şefaqê de reviyan û ⟨את⟩ çadirmê xwe, ⟨את⟩ hespên xwe û ⟨את⟩ kerên xwe — kamp wekî ku bû — hiştin û ji bo canê xwe reviyan.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "rabûn"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "reviyan"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "di şefaqê de"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "hiştin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadirmê xwe"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "çadirmê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hespên xwe"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "hespên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kerên xwe"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kerên xwe"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ku bû"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "reviyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:16:42.588537917Z",
+  "model": "glm-5.3"
+}

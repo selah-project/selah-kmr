@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û em ⟨את⟩ sandûqê Elohîmê me bizivirînin bal me, çimkî di rojên Şaul de me lê ne lêgeriya.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "Û em…bizivirînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqê Elohîmê me"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqê"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bal me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "me lê lêgeriya"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "di rojên"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:18.779496541Z",
+  "model": "glm-5.3"
+}

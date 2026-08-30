@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ew ⟨את⟩ rûyê wî danî ber xwe heta ku wî şerm kir, û mêrê Elohîm girî.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê wî"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê wî"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "û (rûyê xwe) girt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "בש",
+      "gloss": "şerm kir"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "û girî"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:17.323780589Z",
+  "model": "glm-5.3"
+}

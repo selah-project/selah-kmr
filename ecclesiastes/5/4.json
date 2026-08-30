@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Baştir e ku tu sondê nekî, ji ku tu sondê bikî û têxe cih nekî.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baştir e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "tu sondê dikî"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ji ku tu sondê bikî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "têxe cih"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:50.087159057Z",
+  "model": "glm-5.3"
+}

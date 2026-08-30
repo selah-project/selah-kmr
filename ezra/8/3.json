@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ji kurên Şekanyah, ji kurên Paras, Zekaryah; û bi wî re hatin nifşandin ji nêran sed û pêncî.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Şekanyah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekaryah"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "û bi wî re"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "hatin nifşandin"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "ji nêran"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "û pêncî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:23:37.116031310Z",
+  "model": "glm-5.3"
+}

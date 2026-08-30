@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "⟨את⟩ kevoka min min di ewr de danî, û ew dibe nîşana peymanê di navbera min û di navbera ⟨⟨erdê⟩ de.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevoka min"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "kevoka min"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min danî"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "di ewr de"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "û ew dibe"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ji bo nîşanê"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymanê"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di navbera min"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:59.187484084Z",
+  "model": "glm-5.3"
+}

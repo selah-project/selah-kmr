@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ew çû bal Elî û got: \"Ez vir im, ji ber ku tu gazî min kirî.\" Û ew got: \"Ez gazî te nekim, vegere û rake.\" Û ew çû û raza xwe kir.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ez vir im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tu gazî kirî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ez gazî nekim"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vegere"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "rake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "raza xwe kir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:34.543014726Z",
+  "model": "glm-5.3"
+}

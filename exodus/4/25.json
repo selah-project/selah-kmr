@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Tsippora kevreke tûj girt û ⟨את⟩ pûsta kurê xwe jê kir û pê da ber lingên wî û got: Bi rastî tu zava yê xwînê yî ji bo min.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsippora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kevreke tûj"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "jê kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pûsta kurê xwe"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "pûsta"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kurê xwe"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "pê da"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ber lingên wî"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "zava"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:16.346296704Z",
+  "model": "glm-5.3"
+}

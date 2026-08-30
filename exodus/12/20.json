@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Tiştê hewiyayî nexwin; di hemû niştecihên xwe de hûn ê nanên bê hevîrtirşê bixwin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "her tiştê"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "hewiyayî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "xwin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "niştecihên we de"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hûn ê bixwin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nanên bê hevîrtirşê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:08:00.317464640Z",
+  "model": "glm-5.3"
+}

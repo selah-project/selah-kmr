@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Wî bilind bikin, ezmanên ezmanan; û avên ku li ser ezmanan ne!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "wî bilind bikin"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ezmanên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "û avên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:35.694045042Z",
+  "model": "glm-5.3"
+}

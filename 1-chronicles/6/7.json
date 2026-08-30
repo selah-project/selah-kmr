@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Şuneyên Kehat: Amînadav kurê wî, Korach kurê wî, Asîr kurê wî.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "şuneyên"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amînadav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asîr"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:33:19.484693016Z",
+  "model": "glm-5.3"
+}

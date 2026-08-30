@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û wî bi keviran li ⟨את⟩ Dawid û li ⟨את⟩ hemû xulamên key Dawid avêt; hemû gel û hemû şervanên hoste li aliyê wî yê rastê û yê çepê bûn.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "avêt"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "bi keviran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû xulamên key Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xulamên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "şervanên hoste"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "li aliyê wî yê rastê"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "û yê çepê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:55:58.987320522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û ew ⟨את⟩ Elohîmê Îsraêlê dîtin; û binê lingên wî de mîna karê kevirê safîrê yê spî, û mîna tiştê ezmanan ji bo paqijiya xwe.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Û ew dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîmê Îsraêlê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "û binê"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wî"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "mîna karê"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "yê spî"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "kevirê safîrê"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "û mîna tiştê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ji bo paqijiya xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:12:17.390528075Z",
+  "model": "glm-5.3"
+}

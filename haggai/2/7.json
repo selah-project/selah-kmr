@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ez ê ⟨את⟩ hemû gelan bidirimînim, û hêviya hemû gelan wê were, û ez ê vê malê bi rûmetiyê tijî bikim, dibêje Yahweyê Tsêvaot.",
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "û ez ê bidirimînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gelan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "û wê werin"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "hêviya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "û ez ê tijî bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê malê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmetiyê"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsêvaot"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:08.944379397Z",
+  "model": "glm-5.3"
+}

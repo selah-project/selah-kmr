@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û ji aliyê din yê Yerdanê, li rojhilatê Jerîho, ⟨את⟩ Betser li çolê, li deştê, ji eşîra Reuven, ⟨את⟩ Ramot li Gîlad ji eşîra Gad û ⟨את⟩ Golan li Başan ji eşîra Menaşe dan.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "Û ji aliyê din yê"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Yerdanê"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerîho"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "li rojhilatê"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "li deştê"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ji eşîra"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "li Gîlad"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ji eşîra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Golan"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "li Başan"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ji eşîra"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:23.908070262Z",
+  "model": "glm-5.3"
+}

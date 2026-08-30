@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û di rê de, di cihê rûniştinê de, qewimî ku Yahwe wî rû bi rû lê hat, û xwest ku wî bikuje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û qewimî"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "di cihê rûniştinê de"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "wî rû bi rû lê hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "û xwest"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ku wî bikuje"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:44.361716566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ez te di çolê de nas kir, di erda hişkatiyê de.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "te nas kir"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erda"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "hişkatiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:01.987652150Z",
+  "model": "glm-5.3"
+}

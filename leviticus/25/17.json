@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û hûn kesî ⟨את⟩ hevalê xwe neçewisînin, û hûn ji Elohîmê xwe bitirsin; çimkî ez im Yahwe, Elohîmê we.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "çewisînin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kesî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê xwe"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "û hûn ditirsin"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ji Elohîmê xwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:36.952457546Z",
+  "model": "glm-5.3"
+}

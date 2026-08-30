@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Wê, ew derbasî ser min dibe û ez nabînim; ew dibore û ez ji wî re fêm nakim.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Wê"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ew derbasî ... dibe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ser min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... na"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "bînim"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "ew dibore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... na"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "fêm dikim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:51.985928334Z",
+  "model": "glm-5.3"
+}

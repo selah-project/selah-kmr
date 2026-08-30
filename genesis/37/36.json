@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Medanî wî firotin Mîtsrayimê — ji Potîfar, lenayikê Paroh, serdestê enbazan re ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "Medanî"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "firotin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "ji Potîfar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "lenayik"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serdestê"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "enbazan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:06.527321695Z",
+  "model": "glm-5.3"
+}

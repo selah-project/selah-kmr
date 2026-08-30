@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Ji Yahwe bawerî bike û qencîyê bike; bi ⟨ה⟩erdê de rûne û dilsoziyê biçêrin.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "bawerî bike"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "û ... bike"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "qencîyê"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "rûne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "û biçêrin"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "dilsoziyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:10.847270054Z",
+  "model": "glm-5.3"
+}

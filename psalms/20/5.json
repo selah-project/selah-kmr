@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Bila ji te re li gorî dilê te bide û hemû şêwira te bi cih bîne.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "li gorî dilê te"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "şêwira te"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "bi cih bîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:05.849016989Z",
+  "model": "glm-5.3"
+}

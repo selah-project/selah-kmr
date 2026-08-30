@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Yahwe li ser tofanê rûniştibû, û Yahwe wekî padîşah ji bo hertimî rûnişt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "li ser tofanê"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûniştibû"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "û … rûnişt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:39.920339920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Hemî ew jî ⟨את⟩ ji bo Ashûr tê barkirin, wek pêşkeşekê ji bo keyê Yareb; şerm bigire Efrayim, û Îsraêl ji şêwira xwe bi şerm dike.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hemî ... jî"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ew (dana Bêt-Aven, ji bo Ashûr)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ji bo Ashûr"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "tê barkirin"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "wek pêşkeşekê"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji bo key"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "şerm"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "bi şerm dike"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "ji şêwira xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:28.150942571Z",
+  "model": "glm-5.3"
+}

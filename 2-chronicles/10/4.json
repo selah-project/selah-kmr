@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Bavê te ⟨את⟩ griya me dijwar kir; û niha ji xizmeta dijwar a bavê te û ji gira wî ya giran a ku danî ser me, kêmtir bike, û em ê xizmeta te bikin.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "dijwar kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "griya me"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "griya me"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "û niha"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "kêmtir bike"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ji xizmeta"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "a bavê te"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "dijwar"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "û ji gira wî"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ya giran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ser me"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "û em ê xizmeta te bikin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:02.240140097Z",
+  "model": "glm-5.3"
+}

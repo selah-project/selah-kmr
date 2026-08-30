@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Roniya xwe û rastiya xwe bişîne; ew ê min bi rêya bibin, ew ê min bibin bal çiyayê pîrozê te û bal konên te.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "bişîne"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "roniya te"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "û rastiya te"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ê min bi rêya bibin"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ê min bibin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pîrozê te"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û bal"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "konên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:22.243279452Z",
+  "model": "glm-5.3"
+}

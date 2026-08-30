@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Bi vê dizanim ku tu mayilî min î, ji ber ku dijminê min li ser min qîz nake.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "bi vê"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "dizanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "mayilî min î"
+    },
+    {
+      "surface": "בי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nake"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "qîz"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminê min"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:34.954048853Z",
+  "model": "glm-5.3"
+}

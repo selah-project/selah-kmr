@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Elîyahû ⟨את⟩ palto xwe hilgirt, rûpêç kir, avê da û av her du alîyan veqetiyan; û her du êdî bi bejayî derbas bûn.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Û hilgirt"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elîyahû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palto xwe"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "palto xwe"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "rûpêç kir"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "av"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "veqetiyan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "alîyekî ve"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û alîyê din ve"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "û derbas bûn"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "her du"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "bi bejayî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:24.428083925Z",
+  "model": "glm-5.3"
+}

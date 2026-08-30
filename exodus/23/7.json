@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ji doza derew dûr bibe, û bêşehmet û dadbar nekujî, çimkî ez ê durûta dadbar neke.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "doz"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derew"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "dûr bibe"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "bêşehmet"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "dadbar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "kujî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ez ê ... dadbar bike"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "durût"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:28.591420533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 36:20",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û ew çûn bal key, berdevarî; ⟨את⟩ megîlayê di odeya Elîşama nivîskar de hîştin, û di guhên key de ⟨את⟩ hemû gotinan ragihandin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Û ew çûn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "חצרה",
+      "gloss": "berdevarî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "megîlayê"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "megîlayê"
+    },
+    {
+      "surface": "הפקדו",
+      "gloss": "hîştin"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "di odeya"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elîşama"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "nivîskar"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "û … ragihandin"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di guhên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gotinan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "gotinan"
+    }
+  ],
+  "timestamp": "2026-08-29T21:05:52.303859060Z",
+  "model": "glm-5.3"
+}

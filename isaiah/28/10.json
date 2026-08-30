@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Ji ber ku ferman li ser fermanê, ferman li ser fermanê, çêje li ser çêjeyê, çêje li ser çêjeyê, li vir hindik, li wir hindik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ferman"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "li ser fermanê"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ferman"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "li ser fermanê"
+    },
+    {
+      "surface": "קו",
+      "gloss": "çêje"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "li ser çêjeyê"
+    },
+    {
+      "surface": "קו",
+      "gloss": "çêje"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "li ser çêjeyê"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "hindik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li vir"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "hindik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    }
+  ],
+  "timestamp": "2026-08-29T20:35:19.329762283Z",
+  "model": "glm-5.3"
+}

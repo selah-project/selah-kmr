@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û kahîn wan ⟨את wan⟩ dinihêrîne (tahnûf) — bi nanê pêşînan re, tahnûfek li pêşber Yahwe, bi du beranan re; ew ê pîroz bin ji bo Yahwe, ji bo kahîn.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "û-dinihêrîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nanê-pêşînan-û-du-beranan (wan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "pêşînan"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tahnûf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li-pêşber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "beran"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bila-bibin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji-bo-Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ji-bo-kahîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:08.162471104Z",
+  "model": "glm-5.3"
+}

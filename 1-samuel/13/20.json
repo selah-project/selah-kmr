@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Hemû Yisraêlî dadiçûn ber Pelîştiyan, da ku her kes ⟨את⟩ darikê xwe yê çandiniyê, ⟨את⟩ bela xwe, ⟨את⟩ tevzên xwe û ⟨את⟩ darikê xwe yê kolandinê tûj bike.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "dadiçûn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêlî"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelîştiyan"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "da ku tûj bike"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darikê xwe yê çandiniyê"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "darikê xwe yê çandiniyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bela xwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bela xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tevzên xwe"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "tevzên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darikê xwe yê kolandinê"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "darikê xwe yê kolandinê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:39:34.279357436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 28:45",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û ev hemû lanet dê li ser te werin, dê te bidin û bigihîjin te heta hilweşandina te; ji ber ku tu dengê Yahwe Elohîmê xwe nebihîstî, ku fermanên wî û biryarên wî yên ku ew ji te re ferman kirî, biparêzî.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "dê werin"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הקללות",
+      "gloss": "lanet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "dê te bidin"
+    },
+    {
+      "surface": "והשיגוך",
+      "gloss": "dê te bigihîjin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "hilweşandina te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "bihîstî"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ji bo parastin"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "fermanên wî"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "û biryarên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ferman ji te re kir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:06.976131387Z",
+  "model": "glm-5.3"
+}

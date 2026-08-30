@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û ger ew bi rastî ji destê wî were dizîn, wî dê ji bo xwediyê wê berdêl berbigire.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "were dizîn"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ji destê wî"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "berbigire berdêl"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ji bo xwediyê wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:56.716301988Z",
+  "model": "glm-5.3"
+}

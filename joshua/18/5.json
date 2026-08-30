@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û wê ⟨אתה⟩ dabeşînin bi heft parçan; Yehuda dê li ser sînorê xwe yê başûr raweste, û malê Yosef dê li ser sînorê xwe yê bakur raweste.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "wê dabeşînin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (erd)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "bi heft"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "parçan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dê raweste"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "sînorê xwe"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "yê başûr"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "û malê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "dê rawestin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sînorê xwe"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "yê bakur"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:03.195877385Z",
+  "model": "glm-5.3"
+}

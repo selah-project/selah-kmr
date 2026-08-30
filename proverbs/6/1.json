@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Kurê min, ger tu ji bo hevalê xwe bûyî ewlekar, ger te li ber xerîbî destên xwe daye —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Kurê min"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "bûyî ewlekar"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ji bo hevalê xwe"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "daye"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "li ber xerîbî"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "destên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:17.945978575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Bi Elohîm ez pesnê peyvê didim, bi Yahwe ez pesnê peyvê didim.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Bi Elohîm"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ez pesnê didim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyvê"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ez pesnê didim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyvê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:46.053858642Z",
+  "model": "glm-5.3"
+}

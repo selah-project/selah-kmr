@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Çima deviyên wê dawişandî, û hemû derbasdarên rê wê digrin?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "dawişandî"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "deviyên wê"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "û wê digrin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "derbasdarên"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:29.400122011Z",
+  "model": "glm-5.3"
+}

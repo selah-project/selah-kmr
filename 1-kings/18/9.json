@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Wî got: «Çawa min guneh kir, ku tu xulamê xwe ⟨את⟩ dide destê Ahab, da ku min bikuje?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wî got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "min guneh kir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamê xwe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê xwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "da ku min bikuje"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:39.265023492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 75,
+  "translation": "Ji ber ku Elohîm berhem dide — vê datîne û yê din bilind dike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "berhem dide"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "datîne"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "û yê din"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "bilind dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:37.697622687Z",
+  "model": "glm-5.3"
+}

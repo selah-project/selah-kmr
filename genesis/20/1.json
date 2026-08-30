@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Ji wir Avraham ber bi welatê başûr ve çû, û li di navbera Qedêş û Şûr de rûnişt, û li Gerrarê maye xerîb.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "çû (bi rê)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ber bi welat ve"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "başûr (Negev)"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera … de"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedêş"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera … de"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Şûr"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "maye xerîb"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "li Gerrarê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:28.579823355Z",
+  "model": "glm-5.3"
+}

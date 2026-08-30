@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Yosef ⟨את⟩ birayên xwe dît û wan nas kir, lê xwe ji wan re biyanî nîşan da û bi zimanekî hişk bi wan re axaft û ji wan re got: \"Ji ku derê hûn hatine?\" Wan got: \"Ji welatê Kenan, ji bo kirîna xwarinê.\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birayên xwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "wan nas kir"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "xwe biyanî nîşan da"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "axaft"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bi wan re",
+      "marks": "bi wan re"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "bi zimanekî hişk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ji ku derê"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "hûn hatine"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wan got"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Ji welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ji bo kirîna"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwarinê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:09.546831027Z",
+  "model": "glm-5.3"
+}

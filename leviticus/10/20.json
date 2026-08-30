@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Moşe bihîst, û ew di çavên wî de baş bû.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "û bihîst"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "baş bû"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên wî de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:44.752379133Z",
+  "model": "glm-5.3"
+}

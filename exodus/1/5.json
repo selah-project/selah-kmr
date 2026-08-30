@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Hemû canên derketî ji hêla Yaakov şêh û heft can bûn; û Yosef jî berê xwe li Mîtsrayim bû.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canên"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "derketî"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ji hêla … şêh"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "şêh û heft"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "û Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "li Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:39.803204767Z",
+  "model": "glm-5.3"
+}

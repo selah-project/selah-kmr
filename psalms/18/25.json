@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ji ber vê yekê Yahwe ji min re li gorî rastiya min vegerand, li gorî paqijiya destên min di ber çavên wî de.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vegerand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "li gorî rastiya min"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "li gorî paqijiya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên min"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di ber… de"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "çavên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:47.756144733Z",
+  "model": "glm-5.3"
+}

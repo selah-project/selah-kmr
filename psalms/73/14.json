@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Û tevahiya rojê ez dihatim lihêştin, û rexneya min her sibehê digerîya.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "û bûm"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "dihatim lihêştin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "û rexneya min"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "her sibehê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:08.981778441Z",
+  "model": "glm-5.3"
+}

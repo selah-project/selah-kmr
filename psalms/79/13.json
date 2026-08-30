@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 79,
+  "translation": "Em ûma te û reweyê çêritiya te heta hertimî, ji nifşê heta nifşê, spasdariyê ji te re dikin û pesna te vedibêjin.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "em û"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ûma te"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "û reweyê"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "çêritiya te"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "spasdariyê dikin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifşê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifşê"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "vedibêjin"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pesna te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:06.251107964Z",
+  "model": "glm-5.3"
+}

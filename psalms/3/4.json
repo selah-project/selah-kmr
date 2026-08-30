@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Lê tu, Yahwe, siparê min î, ⟨⟨i⟩> rûmeta min, û bilindkerê serê min.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lê tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sipar"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "li dora min"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "rûmeta min"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "û bilindkerê"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:50.819688569Z",
+  "model": "glm-5.3"
+}

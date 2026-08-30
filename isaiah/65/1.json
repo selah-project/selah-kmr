@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 65,
+  "translation": "Hatim xwestin ji yên ku nepirsîn; hatim dîtin ji yên ku min nekolîn. Min got: Li vir im! Li vir im! Ji bo neteweyekî ku bi navê min gazî nake.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "hatim xwestin"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "nepirsîn"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "hatim dîtin"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "min nekolîn"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Li vir im"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Li vir im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "neteweyekî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gazî dike"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "bi navê min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:49:13.329919836Z",
+  "model": "glm-5.3"
+}

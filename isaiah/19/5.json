@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û av ji deryayê wê kêm bibin, û çem wê were wêrankirin û bihişk bibe.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "wê kêm bibin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "ji deryayê"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "û çem"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "wê were wêrankirin"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "û bihişk bibe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:04.162653606Z",
+  "model": "glm-5.3"
+}

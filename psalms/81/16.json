@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Ên ku Yahwe ji nefret dikin xwe datînin-wî-derew bikin, û dema wan bila heta hertimê were —",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Ên ku ji nefret dikin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "xwe datînin \/ derew bikin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bila bibe"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "dema wan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:58.101511113Z",
+  "model": "glm-5.3"
+}

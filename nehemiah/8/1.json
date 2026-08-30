@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û hemû gel wekî yek mêr li cihê vekirî yê berî deriyê avê civiyan, û ji Ezrâ nivîskar re gotin ku pirtûka Tora Moşe bîne, ku Yahwe fermana Îsraêl dabû ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "wekî mêr"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "cihê vekirî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "שער",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "ji Ezrâ re"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "nivîskar"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ku … bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pirtûk"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pirtûka"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fermana dabû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T06:28:58.613805806Z",
+  "model": "glm-5.3"
+}

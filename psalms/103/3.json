@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 103,
+  "translation": "Yê ku hemû çewtiyên te diboreşîne, yê ku hemû nexweşiyên te dilîne.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "yê ku diboreşîne"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "çewtiyên te"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "yê ku dilîne"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "nexweşiyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.762313675Z",
+  "model": "glm-5.3"
+}

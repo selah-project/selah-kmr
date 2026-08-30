@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Evân navên zarokên Yîsraêlî ne, ku hatinê Mîtsrayimê — ⟨את⟩ Yaakov, her kes û malbata wî hatin.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Evân"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yîsraêlî"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ku hatinê"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "û malbata wî"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hatin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:11.810513553Z",
+  "model": "glm-5.3"
+}

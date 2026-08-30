@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 113,
+  "translation": "Bila navê Yahwe yê pîroz bimîne, ji niha ve û heta ⟨heta⟩ dawiyê nemir.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bila bimîne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "yê pîroz"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ji niha ve"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dawiyê nemir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:40.820804151Z",
+  "model": "glm-5.3"
+}

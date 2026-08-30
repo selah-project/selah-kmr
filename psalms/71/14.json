@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Lê ez ê domdar hêvî bikim, û ez ê li ser hemû pesnê te zêde bikim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "lê ez"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "domdar"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "hêvî bikim"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "û zêde bikim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pesnê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:37.737242467Z",
+  "model": "glm-5.3"
+}

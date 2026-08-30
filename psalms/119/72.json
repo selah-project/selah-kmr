@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Tora devê te ji bo min ji hezaran zêr û zîv çêtir e.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "çêtir e"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "devê te"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ji hezaran"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "û zîv"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:39.099004807Z",
+  "model": "glm-5.3"
+}

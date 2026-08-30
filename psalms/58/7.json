@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Elohîm, dantanên wan di devê wan de bişkîne; Yahwe, çênûsên şêranên ciwan biqelişîne.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "bişkîne"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "dantanên wan"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "di devê wan de"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "çênûsên"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "şêranên ciwan"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "biqelişîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:42.683565544Z",
+  "model": "glm-5.3"
+}

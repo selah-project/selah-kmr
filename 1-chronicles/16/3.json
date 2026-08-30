@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û ji her mêrêkî Yisraêl re, ji mêr heta jinê, ji her kesî re kûreke nanê û pîreke goşt û kûreke tirî belav kir.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "belav kir"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji her... re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ji mêr"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jinê"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ji her kesî re"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kûrek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "pîreke goşt"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "kûreke tirî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:25.713489732Z",
+  "model": "glm-5.3"
+}

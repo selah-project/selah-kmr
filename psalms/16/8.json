@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Min Yahwe hertim li pêş xwe danî; çimkî ⟨Ew⟩ li milê rastê yê min e, ez nayêm hejandin.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "min ... danî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "li pêş xwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "li milê rastê yê min"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nayêm"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "hejandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:08.334751487Z",
+  "model": "glm-5.3"
+}

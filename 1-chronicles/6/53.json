@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ⟨את⟩ Yokmeamê û ⟨את⟩ deştên wê û ⟨את⟩ Beyt-Xoronê û ⟨את⟩ deştên wê",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokmeamê"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Yokmeamê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Xoronê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Xoronê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deştên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "deştên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:01.150363371Z",
+  "model": "glm-5.3"
+}

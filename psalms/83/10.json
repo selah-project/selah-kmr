@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Wekî li Mîdyan, bike ji wan; wekî Sîsra, wekî Yabîn, li newala Qîşon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bike"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "wekî li Mîdyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "wekî Sîsra"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "wekî Yabîn"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "li newala"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Qîşon"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:12.605060265Z",
+  "model": "glm-5.3"
+}

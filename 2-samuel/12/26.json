@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Yoab li dijî Rabbata ya kurên Emmon şer kir, û ⟨את⟩ bajaran keyanî girt.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "û şer kir"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "li dijî Rabbata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Emmon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajaran keyanî"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "keyanî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:14.433466704Z",
+  "model": "glm-5.3"
+}

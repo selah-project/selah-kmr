@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Hûn jî ji cihê veşartî rabin û ⟨את⟩ bajarê zeft bikin; Yahwe, Elohîmê we, wê wê bide di destê we de.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Hûn jî"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "ji cihê veşartî"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "zeft bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bajarê",
+      "marks": "bajarê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "wê bide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "di destê we de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:41.956563718Z",
+  "model": "glm-5.3"
+}

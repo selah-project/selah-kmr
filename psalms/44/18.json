@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Hemû ev li ser me hat ⟨û⟩ em te ji bircên nedikin, û em di peymana te de derewînî nakin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "li ser me hat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nedikin"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "te ji bircên nedikin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... nakin"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "derewînî nakin"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "di peymana te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:55.419172990Z",
+  "model": "glm-5.3"
+}

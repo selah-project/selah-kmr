@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Dawid bi Yahwe re ⟨את⟩ peyvên vê stranê got — di roja ku Yahwe ew ji destê hemû dijminên wî û ji destê Şaûl rizgar kir.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bi Yahwe re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên vê stranê"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "stranê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja ku"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rizgar kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ew",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dijminên wî"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "û ji destê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:12.600153640Z",
+  "model": "glm-5.3"
+}

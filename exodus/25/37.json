@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û tu çêbikî şevçeraxên wê, heft in; û ⟨את⟩ şevçeraxên wê bilind bikî, û ew ronî bidin li ser rûyê ⟨ו⟩ pêşiya wê.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Û tu çêbikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şevçeraxên wê"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "şevçeraxên wê"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "heft in"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "û bilind bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şevçeraxên wê"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "şevçeraxên wê"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "û ew ronî bidin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨rûyê⟩ pêşiya"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:02.212683878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Tu ji nîqaşên gelê rizgar dikî; tu min dikî serê neteweyan; gelekî ku min nas nedikir êdî xizmeta min dike.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "Tu min rizgar dikî"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "ji nîqaşên"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "tu min dikî"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neteweyan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelekî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "min nas nedikir"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "êdî xizmeta min dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:51.053355461Z",
+  "model": "glm-5.3"
+}

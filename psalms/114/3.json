@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 114,
+  "translation": "Deryayê dît û reviya, Yardenê jî vegeriya paş de.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Deryayê"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dît"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "û reviya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenê"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "paş de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.144517958Z",
+  "model": "glm-5.3"
+}

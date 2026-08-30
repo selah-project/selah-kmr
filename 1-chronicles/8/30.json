@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "û kurê wî yê yekem ⟨bû⟩ Avdon, û Tsur, û Kîş, û Baal, û Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "û kurê wî"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "yê yekem"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "û Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "û Kîş"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "û Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "û Nadav"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:18.664970727Z",
+  "model": "glm-5.3"
+}

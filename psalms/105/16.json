@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Û birçîtî li ser ⟨⟨ה⟩⟩ erdê bang kir, tevî darikê nanê şikand.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Û bang kir"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "birçîtî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevî"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "darikê"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nanê"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "şikand"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:10.128697971Z",
+  "model": "glm-5.3"
+}

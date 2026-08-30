@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wî serokeyên karên mecbûrî li ser wan dan, da ku wan bi barên wan bitirsînin; wan ji bo Firêwn ⟨את⟩ Pîtom û ⟨את⟩ Raamses, bajaranên depoyê, çêkir.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "wî … dan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serokeyên"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "karên mecbûrî"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "wan bitirsînin"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "bi barên wan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wan … çêkir"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bajaranên"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "depoyê"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ji bo Firêwn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pîtom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pîtom"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:27.021661114Z",
+  "model": "glm-5.3"
+}

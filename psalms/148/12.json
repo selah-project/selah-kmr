@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Xort û herweha keçên ciwan; kal bi ciwanan re.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "xort"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û herweha"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "keçên ciwan"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ciwanan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:57.635533144Z",
+  "model": "glm-5.3"
+}

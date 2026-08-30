@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Kurê min, fermana bavê xwe biparêze, û hînkariya dayika xwe nehêle.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "hêle"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "hînkariya"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "dayika xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:28.497552949Z",
+  "model": "glm-5.3"
+}

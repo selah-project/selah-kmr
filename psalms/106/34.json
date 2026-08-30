@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Wan gelan nehilandin, yên ku Yahwe ji wan re ferman dabû.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "nehilandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:38.354500202Z",
+  "model": "glm-5.3"
+}

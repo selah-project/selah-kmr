@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Ehab kurê Omrî xerabiya ji hemû yên berî wî zêdetir di çavên Yahwe de kir.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "û ... kir"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ehab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrî"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "berî wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:51.605977272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "malachi 2:7",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji ber ku lêvên kâhinî zanînê diparêzin, û ji devê wî Şerîetê dixwazin; ji ber ku ew şandyarê Yahwe-yê Tsabaot e.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhinî"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "diparêzin"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zanînê"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "û Şerîetê"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "dixwazin"
+    },
+    {
+      "surface": "מפיהו",
+      "gloss": "ji devê wî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "şandyarê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew ... e"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:38.532906175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 149,
+  "translation": "Hallelu-Yah! Ji bo Yahwe strîneke nû bibêjin, pesnê wî di civata xesed-daran de.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "bibêjin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "strîn"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nû"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pesnê wî"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "di civatê de"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "xesed-dar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:09.236652917Z",
+  "model": "glm-5.3"
+}

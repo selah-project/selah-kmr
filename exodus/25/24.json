@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Tu yê ⟨את⟩ wê bi zêrê paqij bipêçî û ji bo wê kembera zêrîn li dora wê çê bikî.",
+  "tokens": [
+    {
+      "surface": "וצצית",
+      "gloss": "bipêçî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (masê)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "çê bikî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wê"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kembera"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêrîn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:37.686047699Z",
+  "model": "glm-5.3"
+}

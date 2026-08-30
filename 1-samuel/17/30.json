@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û ⟨ew⟩ ji cîhê wî zivirî hema ber bi yê din ve, û wekî vê peyvê axa kir; û gel bersivê da wî peyvek, wekî peyva yekemîn.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "zivirî"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "ji cîhê wî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi … ve"
+    },
+    {
+      "surface": "מול",
+      "gloss": "hema ber"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yê din"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û … axa kir"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "wekî peyvê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "û … bersivê da wî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyvek"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "wekî peyva"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yekemîn"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:54.021213532Z",
+  "model": "glm-5.3"
+}

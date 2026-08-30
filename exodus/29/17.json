@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Wê ⟨את⟩ qûbarê parçe bikî be parçeyên wî, û navçê wî û lingên wî bişoyî, û wan deynî li ser parçeyên wî û li ser serê wî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qûbarê"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qûbarê"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "parçe bikî"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "be parçeyên wî"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "û bişoyî"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "navçê wî"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "û lingên wî"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "û deynî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "parçeyên wî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "serê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:06.717780656Z",
+  "model": "glm-5.3"
+}

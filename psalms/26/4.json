@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ez bi mêrên şaştir re nûrûniştim, û bi yên veşartî re naym xwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ez ... rûniştim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "şaştir"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi ... re"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "yên veşartî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "yaym xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:58.645716822Z",
+  "model": "glm-5.3"
+}

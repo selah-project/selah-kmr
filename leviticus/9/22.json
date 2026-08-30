@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Aharon destê xwe berbi ⟨ה⟩ gelê hilda û wan bêrî kir; û ji kirina qurbanê gunehê, qurbanê şewatê û qurbanên aşitiyê daxist.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berbi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "וי׬רכם",
+      "gloss": "wan bêrî kir"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "daxist"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "ji kirina"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qurbanê gunehê"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "qurbanê şewatê"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "qurbanên aşitiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:17.763384917Z",
+  "model": "glm-5.3"
+}

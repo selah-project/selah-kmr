@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Yanzdeh rojan ji Horevê, bi rêya Çiyayê Seîr, heta Kadeş-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "yan-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-zdeh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ji Horevê"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "bi rêya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Çiyayê"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seîr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeş-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:08.161418324Z",
+  "model": "glm-5.3"
+}

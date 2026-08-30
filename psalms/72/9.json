@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Li pêşiya wî da niştecihê çolê ser xwe datînin û dijminên wî toza erdê didinmijîn.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "li pêşiya wî"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ser xwe datînin"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "niştecihê çolê"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "û dijminên wî"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toza erdê"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "dinmijîn"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:33.039339036Z",
+  "model": "glm-5.3"
+}

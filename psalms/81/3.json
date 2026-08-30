@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Hûn rakevie stranekê û xêz bikin def, kînorê xweş bi neyê re.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hûn rakevie"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "stranekê"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "û xêz bikin"
+    },
+    {
+      "surface": "תף",
+      "gloss": "def"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kînorê"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "xweş"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neyê re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:15.460213200Z",
+  "model": "glm-5.3"
+}

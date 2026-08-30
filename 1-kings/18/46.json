@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 18:46",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û destê Yahwe li ser Elya bû, û wî kêmera xwe ya hûndir girêda, û berî Ehab da û rêçik bû heta hatina xwe Yizreêlê.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "û destê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elya"
+    },
+    {
+      "surface": "וישנס",
+      "gloss": "û girêda"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "kêmera xwe ya hûndir"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "û rêçik bû"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ehab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "hatina xwe"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:11.978641485Z",
+  "model": "glm-5.3"
+}

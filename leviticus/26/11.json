@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ez ê koşka xwe di nava we de bidar bikim, û canê min ê ⟨את⟩ we nejiwestîne.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "koşka xwe"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di nava we de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "jiwestîne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:35:23.155592056Z",
+  "model": "glm-5.3"
+}

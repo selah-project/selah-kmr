@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 85,
+  "translation": "Tu ⟨את⟩ gunehê gelê xwe hilgirt, tu hemû gunehên wan girt. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "hilgirt"
+    },
+    {
+      "surface": "עון",
+      "gloss": "guneh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "girt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "gunehên wan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:33.272480310Z",
+  "model": "glm-5.3"
+}

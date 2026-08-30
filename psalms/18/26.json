@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Bi xwediyên xesedê re xesedê nîşan didî, bi mêrê temam re temamî nîşan didî.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "xwediyên xesedê"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "xesedê nîşan didî"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "temam"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "temamî nîşan didî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:47.756694988Z",
+  "model": "glm-5.3"
+}

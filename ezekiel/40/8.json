@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û wî ⟨את⟩ verenganê deriyê ji hûndirê malê pîvan kir — qamçîyekê.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "û wî pîvan kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verenganê deriyê"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "verenganê"
+    },
+    {
+      "surface": "השער",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ji hûndirê malê"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qamçîyekê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-30T03:58:12.662451509Z",
+  "model": "glm-5.3"
+}

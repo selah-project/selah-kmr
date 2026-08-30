@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û Yehu ⟨את⟩ hemû yên ji malbata Ahab mayî di Yizreelê de kuşt, û hemû mezinên wî û nasên wî û kahînên wî — heta ku ji wî re tu mayî nehişt.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "û kuşt"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû yên ji malbata Ahab mayî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "yên mayî"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ji malbata"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "di Yizreelê de"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "mezinên wî"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "û nasên wî"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "û kahînên wî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ku … ne"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "nehişt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "mayî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:06.724552857Z",
+  "model": "glm-5.3"
+}

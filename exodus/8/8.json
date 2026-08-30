@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Moşe û Aharon ji Paroh derketin; û Moşe gazî Yahwe kir ser mijûla beqan ku ⟨ew⟩ danîbû ser Paroh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "û … derketin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ji … der"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "û … gazî kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mijûla"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "beqan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danîbû"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ser Paroh"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:50.763208454Z",
+  "model": "glm-5.3"
+}

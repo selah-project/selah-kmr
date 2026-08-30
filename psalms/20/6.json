@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Em ê di rizgariya te de bilîzin û bi navê Elohîm ê xwe alayan bilind bikin; bila Yahwe hemû daxwazên te bi cih bîne.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "em ê bilîzin"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "di rizgariya te de"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "û bi navê"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîm ê xwe"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "alayan bilind bikin"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "bila … bi cih bîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "daxwazên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:05.849388715Z",
+  "model": "glm-5.3"
+}

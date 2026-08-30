@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ji ber ku bi te ez li ber êrîşkaran direvim, û bi Elohîmê min ez ji ser dîwarî dilîzim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bi te"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "direvim"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "êrîşkar"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "û bi Elohîmê min"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "dilîzim"
+    },
+    {
+      "surface": "שור",
+      "gloss": "dîwar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:28.404058804Z",
+  "model": "glm-5.3"
+}

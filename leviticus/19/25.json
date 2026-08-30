@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û di sala paşinc de hûn ⟨את⟩ fêkiyê wî dixwin, da ku hasila wî ji we re zêde bibe; ez im Yahwe, Elohîmê we.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Û di sala paşinc de"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "paşinc"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hûn dixwin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fêkiyê wî"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "fêkiyê wî"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "da ku zêde bibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "hasila wî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:35.817463653Z",
+  "model": "glm-5.3"
+}

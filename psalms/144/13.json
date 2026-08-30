@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Dolabên me tijî ne, ji cure ji cureyî derdikevin; êlên (flock) me bi hezaran û bi deh-hezaran li kolanên me zêde dibin.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "dolabên me"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "tijî ne"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "derdikevin"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "ji cure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji cureyî"
+    },
+    {
+      "surface": "זן",
+      "gloss": "cureyî"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "êlên (flock) me"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "bi hezaran"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "bi deh-hezaran"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "li kolanên me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:09.626561809Z",
+  "model": "glm-5.3"
+}

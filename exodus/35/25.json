@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "û hemû jinan ên teşê-dil bi destên xwe rijandin û anîn rişeyê ⟨את⟩ şînê û ⟨את⟩ morê, ⟨את⟩ şirîtiya sor û ⟨את⟩ kînîzê",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jinan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "teşê"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "bi destên xwe"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "rijandin"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "û anîn"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "rişeyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şînê"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "şînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "morê"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "morê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şirîtiya sor"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "şirîtiya"
+    },
+    {
+      "surface": "השני",
+      "gloss": "sor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kînîzê"
+    },
+    {
+      "surface": "השש",
+      "gloss": "kînîzê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:51.881174292Z",
+  "model": "glm-5.3"
+}

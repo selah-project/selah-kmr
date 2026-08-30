@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Bîr bike ⟨את⟩ roja Şabatê, ji bo pîrozkirina ⟨wê⟩.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Bîr bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roja Şabatê"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabatê"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ji bo pîrozkirina wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:53.873817860Z",
+  "model": "glm-5.3"
+}

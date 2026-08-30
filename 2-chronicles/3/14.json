@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ⟨ew⟩ perdeyê ⟨את⟩ bi şîna şîn, mor, sor û ketanê rind çêkir, û li ser wê keruban hilda kirin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeyê"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdeyê"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "şîna şîn"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "mor"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "sor"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "ketanê rind"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "hilda kirin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruban"
+    }
+  ],
+  "timestamp": "2026-08-30T07:01:02.244239460Z",
+  "model": "glm-5.3"
+}

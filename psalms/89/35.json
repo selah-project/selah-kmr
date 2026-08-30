@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Peymana xwe pîs nakim û tiştê ji lêvên min derdikeve naguhêrim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "pîs nakim"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "peymana xwe"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "û derketina"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "naguhêrim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:37.477897821Z",
+  "model": "glm-5.3"
+}

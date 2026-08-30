@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Cemedî wekî kêmilî dibe, li ber sarîya wî kî dikare raweste?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "cemedî"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "wekî kêmilî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "sarîya wî"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dikare raweste"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:53.128018822Z",
+  "model": "glm-5.3"
+}

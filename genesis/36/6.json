@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 36:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û Esav ⟨את⟩ jinên xwe û ⟨את⟩ kurên xwe û ⟨את⟩ keçên xwe û ⟨את⟩ hemû canên mala xwe û ⟨את⟩ keriyên xwe û ⟨את⟩ hemû ajalên xwe û ⟨את⟩ hemû milkên xwe, ku ew li welatê Kenakan bi dest xistibûn, hilgirt û ji ber Yaqûb birayê xwe çû ⟨erkeke dûr⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Û ... hilgirt"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinên xwe"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jinên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kurên xwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "keçên xwe"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "keçên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû canên mala xwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "canên"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "keriyên xwe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "keriyên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû ajalên xwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ajalên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû milkên xwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "milkên xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "bi dest xistibûn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welatê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenakan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "û çû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo ... erkeke dûr"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erkeke dûr"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:08.030411213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Demên min di destê te de ne — min rizgar bike ji destê dijminên min û ji ên ku diçin pey min.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "di destê te de"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "demên min"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "min rizgar bike"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "û ji ên ku diçin pey min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:07.639933113Z",
+  "model": "glm-5.3"
+}

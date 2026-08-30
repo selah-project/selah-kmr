@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Kaleb ⟨את⟩ gel heta ber Moşe daxist û got: Emê bilind bibin û ⟨את⟩ wê bistînin, çûnkî em dikarin serî li wê bidin.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "daxist"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heta ber"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bilind bibe"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "emê bilind bibin"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "û emê bistînin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "dikarin"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "em dikarin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "serî li wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:45:21.458260006Z",
+  "model": "glm-5.3"
+}

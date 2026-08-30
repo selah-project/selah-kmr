@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 63,
+  "translation": "Wusa di pîrzînê de min te dît, ji bo dîtina hêza te û rûmeta te.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Wusa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di pîrzînê de"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "min te dît"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ji bo dîtina"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hêza te"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "û rûmeta te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:02.778307656Z",
+  "model": "glm-5.3"
+}

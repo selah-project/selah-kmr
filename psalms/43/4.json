@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Û ez ê biçim bal altara Elohîm, bal Êl, şahiya dilşadiya min; û ez ê bi kenorê sipasî ji te re bikim, ey Elohîm, Elohîmê min.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "û ez ê biçim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "şahiya"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "dilşadiya min"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "û ez ê sipasî ji te re bikim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bi kenorê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:22.243477050Z",
+  "model": "glm-5.3"
+}

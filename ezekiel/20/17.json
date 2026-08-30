@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Lê çavê min dilovantî kir û wan nehewand, û ez ⟨את⟩ wan bi tevahî di çolê de nehewandim.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "dilovantî kir"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavê min"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li wan"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "hewandina wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min kir"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wan",
+      "marks": "wan"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:50:31.620497870Z",
+  "model": "glm-5.3"
+}

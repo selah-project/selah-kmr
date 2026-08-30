@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û jinên dilîze bersiv hev dan û gotin: “Şaul di hezaranên xwe de kişand, û Dawid di dehhezaranên xwe de kişand.”",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "bersiv dan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "jinên"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "dilîze"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kişand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "di hezaranên xwe de"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "û Dawid"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "di dehhezaranên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:56.760605066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Di wê demê de, gotîna Yahwe, ew ê hestiyên ⟨את⟩ şahên Yehûda û ⟨את⟩ hestiyên serokên wî û ⟨את⟩ hestiyên kohan û ⟨את⟩ hestiyên pêxemberan û ⟨את⟩ hestiyên niştecihên Yerûşalaymê ji gorên wan derxin.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Di wê demê de"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gotîna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "ew ê derxin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên şahên Yehûda"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "şahên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên serokên wî"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "serokên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên kohan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên pêxemberan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên niştecihên Yerûşalaymê"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "hestiyên"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerûşalaymê"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "ji gorên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:52:55.978303576Z",
+  "model": "glm-5.3"
+}

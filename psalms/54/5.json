@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Ji ber ku xerîb li dijî min rabûne, û zordest jiyanê min digerin; Elohîm berî xwe bi cî nekirine. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "xerîb"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "rabûne"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li dijî min"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "û zordest"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "digerin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiyanê min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "bi cî nekirine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "berî xwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:20.059855022Z",
+  "model": "glm-5.3"
+}

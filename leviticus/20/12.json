@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û mêrê ku ⟨את⟩ bûka xwe rake, herdu bi mirinê bên kuştin; tevlîbûnekî mixlût kirine ⟨e⟩, xwîna wan li ser wan e.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "û mêrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "rake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bûka wî"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "bûka wî"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirin"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bên kuştin"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevlîbûn"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirine"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "xwîna wan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li ser wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:09.974973694Z",
+  "model": "glm-5.3"
+}

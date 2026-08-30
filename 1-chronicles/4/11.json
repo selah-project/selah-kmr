@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Kelûb (Kêlûb), birayê Şûha, ⟨את⟩ Mexhîr bû bavê wî; ew bavê Eşton bû.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "û Kelûb"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayê"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Şûha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bavê wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mexhîr"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mexhîr"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eşton"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:42.331799140Z",
+  "model": "glm-5.3"
+}

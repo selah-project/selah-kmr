@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ev ⟨ev⟩ ⟨⟨ferman e⟩⟩ — hukman û dadan ku Yahwe, Elohîmê we, ferman da ku ⟨we⟩ bike da ku hûn ew li welêt bikin ku hûn derbas dibin wir wê bigirin.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ferman"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hukman"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "û dadan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ku fê bide"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welêt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "derbas dibin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wir"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "wê bigirin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:24.009804785Z",
+  "model": "glm-5.3"
+}

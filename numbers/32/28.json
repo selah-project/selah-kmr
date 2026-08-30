@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Moşe ji bo wan ferman da ⟨את⟩ Elazar kahîn, ⟨את⟩ Yehoşua kurê Nûn û ⟨את⟩ serokên malbatên êlên zarokên Îsraêl.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar kahîn"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoşua kurê Nûn"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nûn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "serokên malbatên êlên"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "malbatên"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "êlên"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:55:41.544904352Z",
+  "model": "glm-5.3"
+}

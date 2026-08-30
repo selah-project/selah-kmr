@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Dev ji min bernede, Yahwe, Elohîmê min, ji min dûr neke.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "dev ji min bernede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "dûr neke"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:40.623076689Z",
+  "model": "glm-5.3"
+}

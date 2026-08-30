@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Hemû yên ji min nefret dikin bi hev re li dijî min dizane dizîne; li dijî min xerabiyê ji bo min digirin.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li dijî min"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "dizane dizîne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "yên ji min nefret dikin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li dijî min"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "digirin"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:27.306062389Z",
+  "model": "glm-5.3"
+}

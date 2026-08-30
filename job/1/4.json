@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Kurên wî diçûn û li mala her yekî di roja xwe ya taybetî dawet çêdikirin; û dişandin û sê xûşkên xwe gazî dikirin da bi wan re bixwin û vexwin.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "diçûn"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "û çêdikirin"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "dawet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "li mala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her yekî"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "roja wî"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "û dişandin"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "û gazî dikirin"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "xûşkên wan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da bixwin"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "û vexwin"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "bi wan re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:50:33.754906842Z",
+  "model": "glm-5.3"
+}

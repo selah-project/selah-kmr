@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Keça kohnê, ger bi zînêtiyê xwe bihelîne, ⟨את⟩ bavê xwe bihelîne: bi agir were şewitandin.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Keça"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohnê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "xwe bihelîne"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "bi zînêtiyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê xwe"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "bihelîne"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "were şewitandin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:49.138947538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ beranê ji parçeyên wî re parçe kir; Moşe ⟨את⟩ serê wî û ⟨את⟩ parçeyan û ⟨את⟩ rûnê bi dûman kir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "beranê"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "beranê"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "parçe kir"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ji parçeyên wî re"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "bi dûman kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serê wî"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "serê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "parçeyan"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "parçeyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "rûnê"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "rûnê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:49.824228174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 94,
+  "translation": "Gelê te, Yahwe, dişikînin û mîrata te binpê dikin.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "dişikînin"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "û mîrata te"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "binpê dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:56.530904815Z",
+  "model": "glm-5.3"
+}

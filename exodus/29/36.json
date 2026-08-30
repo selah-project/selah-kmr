@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û rojê ji bo kefapatiyan ga yê gunehê çê bikî; tu yê li ser mêzgêhê guneh derbîrî, dema ku tu li ser wî kefapatî dikî, û ⟨את⟩ wî bi rûnê lê dêî da ku wî pîroz bikî.",
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "û ga"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "yê gunehê"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "çê bikî"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "kefapatîyan"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "û ... guneh derbîrî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mêzgêh"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "dema ku ... kefapatî dikî"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "û ... bi rûnê lê dêî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî (mêzgêh)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "da ku wî pîroz bike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:50.802883930Z",
+  "model": "glm-5.3"
+}

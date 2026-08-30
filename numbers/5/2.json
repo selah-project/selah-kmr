@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Kurên Îsraêlê ferman bike ku ji kampê bişînin her beşîyekî, her xudan-herikî, û her yê ji ber canekî (mirî) nejîr.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "ferman bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên Îsraêlê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "bişînin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "beşîyekî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "זב",
+      "gloss": "xudan-herikî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nejîr"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ji ber canekî (mirî)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:41:37.212335066Z",
+  "model": "glm-5.3"
+}

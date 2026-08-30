@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ku Yahwe xuya bû Şelomo re cara duyemîn, wekî ku ew xuya bûbû wî re li Gîb'on.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "xuya bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "cara duyemîn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "xuya bûbû"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wî re"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "li Gîb'on"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:06.238879867Z",
+  "model": "glm-5.3"
+}

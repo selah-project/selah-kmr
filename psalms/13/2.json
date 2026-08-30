@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Heta kengê, Yahwe, ê min ji bîr bikî — heta dawiyê? Heta kengê ⟨את⟩ rûyê xwe ji min vedişêrî?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ê min ji bîr bikî"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "vedişêrî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê xwe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:37.202942459Z",
+  "model": "glm-5.3"
+}

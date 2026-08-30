@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 120,
+  "translation": "Ax li min, ku min wek mêvan li Meşex maye, bi çadirên Qedêr re rûniştiye!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Ax"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "min wek mêvan maye"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meşex"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "rûniştiye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "çadirên"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedêr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:52.377254592Z",
+  "model": "glm-5.3"
+}

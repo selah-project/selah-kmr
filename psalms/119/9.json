@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Bi çi ⟨את⟩ ciwanek ⟨את⟩ rêya xwe paqij bike? Bi parastina wê li gorî peyva te.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "bi çi"
+    },
+    {
+      "surface": "יזזה",
+      "gloss": ""
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "paqij bike"
+    },
+    {
+      "surface": "נער",
+      "gloss": "⟨את⟩ ciwanek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rêya wî"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "rêya wî"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "bi parastina"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "li gorî peyva te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:47.246989344Z",
+  "model": "glm-5.3"
+}

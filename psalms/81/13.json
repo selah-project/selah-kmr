@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Va ez wan di sergirtîya dilê wan de berdidim — êdî di şêwirmendiyên xwe de digerin.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Va ez wan berdidim"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "di sergirtîya"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "digerin"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "di şêwirmendiyên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:58.100849449Z",
+  "model": "glm-5.3"
+}

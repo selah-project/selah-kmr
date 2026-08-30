@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 30:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Aharon ê ser wê bihûna taman biqurtîne — sibeh û sibeh, dema ku fîşîlan rast dike, ê wê biqurtîne.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "biqurtîne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ser wê"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "bihûna"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "taman"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibeh û"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibeh"
+    },
+    {
+      "surface": "בהיטיבו",
+      "gloss": "dema ku rast dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fîşîlan"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "fîşîlan"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "ê wê biqurtîne"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:29.125522502Z",
+  "model": "glm-5.3"
+}

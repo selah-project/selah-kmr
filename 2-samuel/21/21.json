@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Wî Yisraêlêt rexne kir, û Yehonatan kurê Şimeî, birayê Dawid, wî ⟨את⟩ê xist.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "wî… rexne kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wî xist"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Şimeî"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:07.367591229Z",
+  "model": "glm-5.3"
+}

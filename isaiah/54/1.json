@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 54:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Qêrî, ey strîya bêzar ku nezanî; qêrîne bilîze û bang bike, tu ku nejanî; ji ber ku zarokên ⟨ya⟩ wêran zêdetir in ji zarokên ⟨ya⟩ zewicî, got Yahwe.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "qêrî"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "strîya bêzar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zanî"
+    },
+    {
+      "surface": "פצחי",
+      "gloss": "bilîze"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "qêrînê"
+    },
+    {
+      "surface": "וצהלי",
+      "gloss": "û bang bike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "janîn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "zêdetir in"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "שוממה",
+      "gloss": "ya wêran"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ji zarokên"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ya zewicî"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:28.626365730Z",
+  "model": "glm-5.3"
+}

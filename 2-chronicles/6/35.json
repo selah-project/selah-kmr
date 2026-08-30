@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Wê çaxê tu ji ezmanan bibihîze ⟨את⟩ dua wan û ⟨את⟩ lavijîna wan, û mafê wan bicî bîne.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "tu bibihîze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua wan"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "dua wan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lavijîna wan"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "lavijîna wan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "û bicî bîne"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "mafê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:43:51.732641916Z",
+  "model": "glm-5.3"
+}

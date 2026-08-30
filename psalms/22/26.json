@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Sîfta min ji te ⟨את⟩ tê, di civata mezin de; sozên xwe li ber ên ku ji wî ditirsin bi cih tînim.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ji te",
+      "marks": "sîfta min"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "sîfta min"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "di civatê de"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "sozên xwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "bi cih tînim"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ên ku ji wî ditirsin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:21.158824912Z",
+  "model": "glm-5.3"
+}

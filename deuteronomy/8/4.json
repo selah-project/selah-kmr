@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Kincên te li ser te ne kevn bûn û pêy te ne şiş bû — ev çil salan.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Kincên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "kevn bûn"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "û pêy te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "şiş bû"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:02:07.088179893Z",
+  "model": "glm-5.3"
+}

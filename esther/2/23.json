@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Mijar hate lêkolînkirin û rast derket; herdu jî hatin darvekirin û ev yek li pêş padîşah di kitêba rojnivîsên (çîrokên rojan) de hate nivîsîn.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "hate lêkolînkirin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mijar"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "û rast derket"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "hatin darvekirin"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herdu jî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "darê"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "hate nivîsîn"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di kitêba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rojnivîsên (çîrokên)"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padîşah"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:38.147584744Z",
+  "model": "glm-5.3"
+}

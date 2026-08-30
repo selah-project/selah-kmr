@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Hemû newal wê bilind bibin û hemû çiya û gir wê nizm bibin; xwarî wê bibe deşt û girên zozanan wê bibe newlyar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "newal"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "wê bilind bibin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiya"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "û gir"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "wê nizm bibin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wê bibe"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "xwarî"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "deşt"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "û girên zozanan"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "newlyar"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:28.163075507Z",
+  "model": "glm-5.3"
+}

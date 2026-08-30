@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "û hûn dizanin ku bi tevahî hêza xwe min xizmeta bavê we kir ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "û hûn"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "dizanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tevahî"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hêza xwe"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "min xizmet kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê we"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "bavê we"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:25.238637463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Hemû wekî hemû ye: çarenûseke yek ji bo sedsilav û ji bo gunehkar, ji bo baş û ji bo paqij û ji bo nepaqij, ji bo qurbanîker û ji bo yê ku qurbanî nake; wekî baş, wisa gunehkar; yê sond dixwe, wekî yê ku ji sond ditirse.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "çarenûs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ji bo sedsilav"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "û ji bo gunehkar"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ji bo baş"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "û ji bo paqij"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "û ji bo nepaqij"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "û ji bo qurbanîker"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "û ji bo yê ku"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbanî nake"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "wekî baş"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "wisa gunehkar"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "yê sond dixwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "sond"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ditirse"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:46.185064155Z",
+  "model": "glm-5.3"
+}

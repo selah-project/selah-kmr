@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Obed bû bavê ⟨את⟩ Yehu, û Yehu bû bavê ⟨את⟩ Ezarya.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Û Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "û Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bû bavê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ezarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ezarya"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:56.700715527Z",
+  "model": "glm-5.3"
+}

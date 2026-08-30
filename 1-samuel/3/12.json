@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Di wê rojê de ez ê li dijî Elî hemû tiştên ku min li ser mala wî peyivîîne rabike — destpêkirin û bi dawîanînan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di … rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "rabike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "min peyivîîne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    },
+    {
+      "surface": "החל",
+      "gloss": "destpêkirin"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "bi dawîanînan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:01.118460183Z",
+  "model": "glm-5.3"
+}

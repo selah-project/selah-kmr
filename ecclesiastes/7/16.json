@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ne pir rastdar be, û ne jî xwe pir zana bikî; çima xwe wêran bikî?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "be"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne jî"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "xwe zana bikî"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "pir"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "xwe wêran bikî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:07.692842799Z",
+  "model": "glm-5.3"
+}

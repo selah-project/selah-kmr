@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Çemekî heye — şaxên wî bajarê Elohîm bi keyf tê dikin, cihê pîroz ê şûnên rûniştinê yên Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "çemek"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "şaxên wî"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bi keyf tê dikin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "cihê pîroz"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "şûnên rûniştinê"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:47.471266340Z",
+  "model": "glm-5.3"
+}

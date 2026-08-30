@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Dawid ⟨את⟩ serê Filistî hildan û anî Yerûşalayimê, û ⟨את⟩ çekên wî danî di çadê wî de.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serê Filistî"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "û anî"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerûşalayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çekên wî"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "çekên wî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "di çadê wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:04.890584472Z",
+  "model": "glm-5.3"
+}

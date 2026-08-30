@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 130,
+  "translation": "Strana Hilkirinan. Ji kûrahiyan ez gazî te kirim, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Hilkirinan"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "ji kûrahiyan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ez gazî te kirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:44.155531238Z",
+  "model": "glm-5.3"
+}

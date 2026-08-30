@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Ji ber Dawidê xulamê xwe, rûyê Maşîahê xwe nesekîne paş.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Ji ber"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidê"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "nesekîne paş"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maşîahê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:00.251969178Z",
+  "model": "glm-5.3"
+}

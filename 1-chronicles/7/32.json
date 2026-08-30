@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "û Hever ⟨את⟩ Yaflet, ⟨את⟩ Şomer, ⟨את⟩ Hotam û ⟨את⟩ Şua xwişka wan bi cî anî.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "û Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi cî anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Şomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Şua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "xwişka wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:33:29.764674495Z",
+  "model": "glm-5.3"
+}

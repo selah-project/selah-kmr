@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Xwestin û wî selav anî, û bi nanê ezmanan wan têr kir.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Xwestin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û wî … anî"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "selav"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "û bi nanê"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "wan têr kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:21.269192959Z",
+  "model": "glm-5.3"
+}

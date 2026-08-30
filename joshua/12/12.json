@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Padîşahê Eglonê, yek; padîşahê Gezerê, yek;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglonê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerê"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T19:17:59.413057543Z",
+  "model": "glm-5.3"
+}

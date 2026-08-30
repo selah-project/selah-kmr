@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û birayên min ên ku bi min re çûn, dilê gel helandin ⟨את⟩ dilê gel, lê ez bi temamî şopandim piştî Yahwe, Elohîmê min.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "Û birayên min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "helandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "lê ez"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "bi temamî şopandim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:19:25.320549506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û dema hûn ⟨את⟩ civatê kom dikin, hûn deng didin lê çalakiyê nadin.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "dema kom dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "civatê"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "hûn deng didin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "çalakiyê nadin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:43:44.565894826Z",
+  "model": "glm-5.3"
+}

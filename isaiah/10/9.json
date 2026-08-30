@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Gelo Kalno ne wekî Karkemîş e? Ma Hamat ne wekî Arpad e? Ma Şomeron ne wekî Dimaşq e?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "gelo ... ne"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "wekî Karkemîş"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "wekî Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "wekî Dimaşq"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:24.457352422Z",
+  "model": "glm-5.3"
+}

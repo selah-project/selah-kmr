@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Me şa bike li gorî wan rojan ku me tarûmar kirî, û li gorî wan salan ku em xerabiyê dîtî.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Me şa bike"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "li gorî wan rojan"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "ku me tarûmar kirî"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "û li gorî wan salan"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ku em dîtî"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:05.290368916Z",
+  "model": "glm-5.3"
+}

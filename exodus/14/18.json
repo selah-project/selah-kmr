@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û Mîtsriyan ê zanibin ku ez im Yahwe, dema ku ez li ser Firêwn, li ser erebên wî û siwarên wî rûmetdar dibim.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Û… ê zanibin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsriyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "dema ku ez… rûmetdar dibim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "li ser Firêwn"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "erebên wî"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "siwarên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:06:45.181097113Z",
+  "model": "glm-5.3"
+}

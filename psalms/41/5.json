@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Ez gotim: «Yahwe, dilovanî li min bike, canê min xêş bike, çimkî ez li hember te guneh kirime.»",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "gotim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "dilovanî li min bike"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "xêş bike"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "guneh kirime"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li hember te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:27.305484194Z",
+  "model": "glm-5.3"
+}

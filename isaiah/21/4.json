@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Dilê min rê şa bû, tirsek min tirsand; ⟨את⟩ şepê êvarê yê kêfa min ji min re kir lerizîn.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "rê şa bû"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "tirsek"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "min tirsand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şepê êvarê yê kêfa min"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "şepê êvarê"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "yê kêfa min"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "lerizîn"
+    }
+  ],
+  "timestamp": "2026-08-30T03:38:06.374736263Z",
+  "model": "glm-5.3"
+}

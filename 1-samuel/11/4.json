@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û şandiyar hatin Gîbeyaya Şaûl, û ew peyivan di guhên gel de axaftin; û hemû gel dengê xwe bilind kirin û girîyan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "şandiyar"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gîbeyaya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "axaftin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ew peyiv"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di guhên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "bilind kirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengê xwe"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dengê xwe"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "girîyan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:38:12.641865091Z",
+  "model": "glm-5.3"
+}

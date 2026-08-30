@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Şemûel heta sibehê raza, paşê ⟨את⟩ deriyên malbata Yahwe vekir; Şemûel ditirsiya ku ⟨את⟩ dîtinê ji Elî re ragihîne.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "raza"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemûel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "vekir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deriyên"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "deriyên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "û Şemûel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ditirsiya"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "ji ragihandina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîtin"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:38.327879817Z",
+  "model": "glm-5.3"
+}

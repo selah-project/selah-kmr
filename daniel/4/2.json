@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Xewnekê min dît û ew tirsand min; û ramanên li ser parsekanê min û dîtbariyên serê min ez tirsandin.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "xewnekê"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "min dît"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "û ew tirsand min"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "û ramanên"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "parsekanê min"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "û dîtbariyên"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "ez tirsandin"
+    }
+  ],
+  "timestamp": "2026-08-30T06:17:45.033731431Z",
+  "model": "glm-5.3"
+}

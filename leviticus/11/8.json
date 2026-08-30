@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ji goştê wan naxwin û destî nedidin neyalên wan — ⟨ew in⟩ nehal ji bo we.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ji goştê wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "(naxwin)"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "û destî nedidin neyalên wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "(dest nadin)"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "nehal"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:27:51.741610241Z",
+  "model": "glm-5.3"
+}

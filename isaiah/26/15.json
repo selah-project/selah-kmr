@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Tu neteweyê zêde kir, Yahwe, tu neteweyê zêde kir, tu rûmetdar bûyî, tu sînorên hemû erdê dûr kirîne.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "tu zêde kir"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "neteweyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "tu zêde kir"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "neteweyê"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "tu rûmetdar bûyî"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "tu dûr kirîne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sînorên hemû"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "sînorên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:46.111909515Z",
+  "model": "glm-5.3"
+}

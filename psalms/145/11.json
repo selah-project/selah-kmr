@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Rûmeta padîşahiya te dibêjin, û celadeta te vedibêjin.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "padîşahiya te"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "û celadeta te"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vedibêjin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:35.141585561Z",
+  "model": "glm-5.3"
+}

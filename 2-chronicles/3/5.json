@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ⟨את⟩ malpera mezin bi darên sazê dapoş kir, bi zêrê baş wê dapoş kir, û li ser wê palmetên xurmê û zincîr hilda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malpera mezin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malper"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "dapoş kir"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "darên sazê"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "wê dapoş kir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palmetên xurmê"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "zincîr"
+    }
+  ],
+  "timestamp": "2026-08-30T06:43:29.013358219Z",
+  "model": "glm-5.3"
+}

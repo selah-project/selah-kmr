@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ger roj li ser wî bilind bûbe, xwîn ji bo wî ye; bê guman ê temam dayîne; ger tiştê wî nîne, ê ji bo dizîna wî were firotin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "bilind bûbe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bê guman ê temam"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dayîne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tiştê wî"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ê were firotin"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "ji bo dizîna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:30.538788535Z",
+  "model": "glm-5.3"
+}

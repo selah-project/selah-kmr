@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Ji ber ku hemû elohên gelan pût in, û Yahwe ezmanan çêkir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohên"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "pût in"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "û Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:57.781067061Z",
+  "model": "glm-5.3"
+}

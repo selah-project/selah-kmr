@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Me bi kalên xwe re guneh kiriye, me xirabî kiriye, me fesadî kiriye.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "me guneh kiriye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi... re"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "kalên xwe"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "me xirabî kiriye"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "me fesadî kiriye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:51.057943147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Yahwe bi Yahûda re doz darist, û dê ser Yakûv li gorî rêyên wî binihêre; li gorî kirinên wî dê ji wî re bide paşve.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "û doz darist"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi ... re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahûda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "û dê binihêre \/ bisyarbe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakûv"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "li gorî rêyên wî"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "li gorî kirinên wî"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "dê bide paşve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:20.509295223Z",
+  "model": "glm-5.3"
+}

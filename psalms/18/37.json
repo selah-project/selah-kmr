@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Tu gavanên min di binê min de fireh kir, û qorikên min nelivîn.",
+  "tokens": [
+    {
+      "surface": "תרחיב",
+      "gloss": "fireh kir"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "gavanên min"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "di binê min de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "מעדו",
+      "gloss": "nelivîn"
+    },
+    {
+      "surface": "קרסלי",
+      "gloss": "qorikên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:38.204618423Z",
+  "model": "glm-5.3"
+}

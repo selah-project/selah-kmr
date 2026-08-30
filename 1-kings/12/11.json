@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û niha, bavê min barê giran li ser we bar kiribû, û ez ê li ser barê we zêde bikim; bavê min ⟨את⟩ we bi kamçîyan dida, û ez ê ⟨את⟩ we bi skorpîonan bidim.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û niha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "bar kiribû"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "li ser we"
+    },
+    {
+      "surface": "על",
+      "gloss": "barê"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "giran"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Û ez"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "zêde bikim"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "barê we"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "dida"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "bi kamçîyan"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bi kamçîyan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Û ez"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "bidim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "bi skorpîonan"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "bi skorpîonan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:31.979126694Z",
+  "model": "glm-5.3"
+}

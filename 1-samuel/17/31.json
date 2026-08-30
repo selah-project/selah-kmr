@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 17:31",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û peyvên ku Dawid axa kirî bûn hatin bihîstin, Û wan beriya Şaul ve ragihand; Û ewî wî hilgirt.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "hatin bihîstin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axa kirî"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "û … ragihand"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "beriya … ve"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "û ewî wî hilgirt"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:54.021429224Z",
+  "model": "glm-5.3"
+}

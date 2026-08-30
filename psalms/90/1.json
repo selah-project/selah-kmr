@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Dua ya Moşe, mêrê Elohîm. Adonay, cihê-rûniştinê tu bûyî ji me re, di nifşê de û di nifşê de.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ya Moşe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ê Elohîm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "cihê-rûniştinê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bûyî"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "di nifşê de"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "û di nifşê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:03.826494686Z",
+  "model": "glm-5.3"
+}

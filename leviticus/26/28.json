@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û ez ê bi hêrsê dijminatî bi we re bidim meşîn, Û ez ê ⟨את⟩ we bidim şandin, ez jî, heft car ji ber gunehên we.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "Û ez ê bidim meşîn"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bi we re"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "bi hêrsê"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "dijminatî"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "Û ez ê bidim şandin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft car"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "gunehên we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:36:56.788093359Z",
+  "model": "glm-5.3"
+}

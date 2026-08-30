@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Wê ⟨את⟩ yê yekem ferman kir, û got: \"Gava birayê min Esav rastî te were û ji te re bêje: Ji kî yî tu? û diçî ku? û evên beriya te ji kî ne?\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê yekem"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yê yekem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "rastî te were"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayê min"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "û ji te re bêje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ji kî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yî tu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "û… ku"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "diçî"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "û ji kî"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "evên"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "beriya te"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:39.354032919Z",
+  "model": "glm-5.3"
+}

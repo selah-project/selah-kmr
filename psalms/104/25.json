@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Ev derya, mezin û berfirehê destan — li wir remesê bêhejmar, ajalên zînde yên biçûk bi ên mezin re.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "הים",
+      "gloss": "derya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "û berfireh"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "destan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "remes"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û bê"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmar"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ajalên zînde"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "biçûk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mezin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:43.458691456Z",
+  "model": "glm-5.3"
+}

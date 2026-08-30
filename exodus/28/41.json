@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 28:41",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û tu wan li Aharon, birayê xwe, û ⟨את⟩ kurên wî ên bi wî re li xwe dikî, û wan mesh dikî, û destê wan tijî dikî, û wan pîroz dikî, û ew ji bo min kahinî dikin.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "û tu… li xwe dikî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "û tu mesh dikî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "û tu tijî dikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê wan"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "destê wan"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "û tu pîroz dikî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "û ew kahinî dikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:48.082566942Z",
+  "model": "glm-5.3"
+}

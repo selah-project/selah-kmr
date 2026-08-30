@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Wekî wan dê çêkerên wan bin — her kesê ku spêdî dike ⟨ji wan re⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "wekî wan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dê bin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "çêkerên wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her kesê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "spêdî dike"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ji wan re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:04.321182825Z",
+  "model": "glm-5.3"
+}

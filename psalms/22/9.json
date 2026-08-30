@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Wî xwe avêtibû ser Yahwe — bila Yahwe wî rizgar bike, bila wî xilas bike, ji ber ku ew ji wî kêfxweş e.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "xwe avêtibû"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "rizgar bike"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "xilas bike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kêfxweş e"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:35.121930080Z",
+  "model": "glm-5.3"
+}

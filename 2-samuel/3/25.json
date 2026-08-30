@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Tu dizanî Avner (Ebnêr) kurê Nêr, ku ji bo xapandina te hat, û ji bo zanîna ⟨את⟩ derketina te û ⟨את⟩ ketina te, û ji bo zanîna ⟨את⟩ hemû tiştên ku tu dikî.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "tu dizanî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nêr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ji bo xapandina te"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "û ji bo zanîna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derketina te"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "derketina te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ketina te"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ketina te"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "û ji bo zanîna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dikî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:49:28.013108645Z",
+  "model": "glm-5.3"
+}

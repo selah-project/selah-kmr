@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Ebedin hêrsên wan, ji ber ku zor in; ebedin çînên wan, ji ber ku dijwar in; ez ê wan di Yaakov de perçe bikim û di Yisrael de belav bikim.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Ebedin"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "hêrsên wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עז",
+      "gloss": "zor"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "çînên wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "dijwar"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "ez ê wan perçe bikim"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di Yaakov de"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "û ez ê wan belav bikim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:27.779685817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Min karên xwe mezin kir; min ji xwe re xanî çêkir, min ji xwe re rez çand.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "min mezin kir"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karên xwe"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "min çêkir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "xanî"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "min çand"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "rez"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:43.794587877Z",
+  "model": "glm-5.3"
+}

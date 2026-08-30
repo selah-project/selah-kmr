@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Şer kirin ⟨את⟩ Bera keyê Sedomê û ⟨את⟩ Bîrşa keyê Amorayê, Şînab keyê Admayê, û Şemeber keyê Tseboyîm, û keyê Belayê — ew Tsowar e.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "şer kirin"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera keyê Sedomê"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Bîrşa keyê Amorayê"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Bîrşa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorayê"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Şînab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admayê"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "û Şemeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboyîm"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "û keyê"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belayê"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsowar e"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:16.375232380Z",
+  "model": "glm-5.3"
+}

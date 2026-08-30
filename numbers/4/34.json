@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 4:34",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Moşe û Aharon û serokên civatê ⟨את⟩ kurên Kehatî li gorî malbatên wan û li gorî malên bavên wan hejmartin.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "hejmartin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "û serokên"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civatê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên Kehatî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehatî"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên wan"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "û li gorî malên"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:48.198376192Z",
+  "model": "glm-5.3"
+}

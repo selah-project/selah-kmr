@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Zeviyan hês dikin û dizî digirin, û malan hildigrin dûr; zilamekî û mala wî, merivekî û mîrasa wî desteser dikin.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "hês dikin"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "zeviyan"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "dizî digirin"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "malan"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "hildigrin dûr"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "desteser dikin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "zilamekî"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "û mala wî"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "merivekî"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "û mîrasa wî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:12:33.380989652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Yahwe hat ser textê, bila erd keyfî bike, bila giravên gelek şa bibin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hat ser textê"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "bila keyfî bike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bila şa bibin"
+    },
+    {
+      "surface": "איים",
+      "gloss": "giravên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:21.408663926Z",
+  "model": "glm-5.3"
+}

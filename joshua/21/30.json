@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ji êla Aşer ⟨את⟩ Mişal û ⟨את⟩ zemînên wê, ⟨את⟩ Avdon û ⟨את⟩ zemînên wê.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Û ji êla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Aşer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mişal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mişal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zemînên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zemînên wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zemînên wê"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zemînên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:22:04.485239520Z",
+  "model": "glm-5.3"
+}

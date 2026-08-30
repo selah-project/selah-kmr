@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 45,
+  "translation": "Te rastî hez kir û ji neyarî nefret kir; ji ber wê Elohîm, Elohîmê te, te bi rûnê şahiyê ji hemû hevalên te zêdetir mesh kir.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "hez kir"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "û nefret kir"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ji neyarî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "mesh kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "bi rûnê"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "şahiyê"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "ji hemû hevalên te zêdetir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:29.925654269Z",
+  "model": "glm-5.3"
+}

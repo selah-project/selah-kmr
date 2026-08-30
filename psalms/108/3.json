@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 108,
+  "translation": "Şêbike, nêvel û kînor! Ez ê sibehê hişyar bikim.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Şêbike"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nêvel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kînor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "Ez ê ... hişyar bikim"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sibehê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:31.001595539Z",
+  "model": "glm-5.3"
+}

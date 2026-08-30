@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yehoşua ji wan re wiya kir wekî ku Yahwe ji wî re gotibû: çongên ⟨את⟩ hespên wan birîn û ⟨את⟩ mirkabên wan bi agir şewitand.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hespên wan"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "hespên wan"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "çongên wan birîn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mirkabên wan"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "mirkabên wan"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bi agir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:42.351805342Z",
+  "model": "glm-5.3"
+}

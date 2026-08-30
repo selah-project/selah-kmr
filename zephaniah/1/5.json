@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "û ⟨את⟩ yên ku li ser banan serî didin li leşkerê ezmanan, û ⟨את⟩ yên ku serî didin, ên ku bi Yahwe sond dixwin û bi Malcam sond dixwin",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yên ku serî didin"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "serî didin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "banan"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "li leşkerê"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yên ku serî didin"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "serî didin"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ên ku sond dixwin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "û ên ku sond dixwin"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "bi Malcam"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:34.023980180Z",
+  "model": "glm-5.3"
+}

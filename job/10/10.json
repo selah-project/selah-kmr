@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ma wekî şîr min nerijand, û wekî penîr min çêkir?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "wekî şîr"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "min rijand"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "û wekî penîr"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "min çêkir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:59.721074920Z",
+  "model": "glm-5.3"
+}

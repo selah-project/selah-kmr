@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "⟨את⟩ Dû geriyan û ⟨את⟩ çar ga da kurên Gêrşon, li gorî xizmeta wan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dû geriyan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dû"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "geriyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çar ga"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "çar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gêrşon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "li gorî"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "xizmeta wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:40:13.779467705Z",
+  "model": "glm-5.3"
+}

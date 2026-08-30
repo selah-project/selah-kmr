@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û li ên li Xormayê, û li ên li Bor-Aşanê, û li ên li Ataxê",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "û li ên"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Xormayê"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "û li ên"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Aşanê"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "û li ên"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Ataxê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:27.402818858Z",
+  "model": "glm-5.3"
+}

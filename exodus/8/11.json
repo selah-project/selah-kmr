@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Paroh dît ku rehetî hatibû, û ⟨את⟩ dilê wî giran kir û ne guh da wan, wekî ku Yahwe gotibû.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Û dît"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "hatibû"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "rehetî"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "û giran kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilê wî"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "guh da"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:59.095839255Z",
+  "model": "glm-5.3"
+}

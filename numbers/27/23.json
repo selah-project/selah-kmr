@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Û ⟨את⟩ destên xwe li ser wî danî û wî ferman kir, wekî ku Yahwe bi destê Moşe axivîbû.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "û danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "û wî ferman kir"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivîbû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:53.945805369Z",
+  "model": "glm-5.3"
+}

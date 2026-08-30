@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Min keyekî di hêrsa min de da te, û min ew di êrişa min de stand.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Min ... da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyekî"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "di hêrsa min de"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "û min ew ... stand"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "di êrişa min de"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:07.053273242Z",
+  "model": "glm-5.3"
+}

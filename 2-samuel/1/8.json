@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û wî ji min re got: «Tu kî yî?» û min jî bersiva wî da: «Ez Amalekî me.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û wî … got"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "min … got"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekî"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:18.746381796Z",
+  "model": "glm-5.3"
+}

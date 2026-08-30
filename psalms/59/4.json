@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Çimkî binêre, ji bo canê min xwe veşartin; hêzdar li ser min civiyan; ne serhildana min e û ne gunehê min e, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "xwe veşartin"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ji bo canê min"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "civiyan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "serhildana min e"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunehê min e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:28.182436437Z",
+  "model": "glm-5.3"
+}

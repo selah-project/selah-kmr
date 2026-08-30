@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ji bo hertimî peymana wî bi bîr bînin, peyvê ku ferman kir — hezar doran re —",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "bi bîr bînin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertimî"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "peymana wî"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyvê"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "דור",
+      "gloss": "doran re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:36:28.254411828Z",
+  "model": "glm-5.3"
+}

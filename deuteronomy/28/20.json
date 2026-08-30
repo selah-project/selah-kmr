@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Yahwe wê ⟨את⟩ nifirê û ⟨את⟩ tevlihevî û ⟨את⟩ xurînê li te bişîne, di her tiştê ku destê te dirêj dike ku tu bikî, heta ku tu werî rûxandin û heta ku tu zû winda bî, ji ber xerabiya kirinên te, yên ku bi wan tu min berdane.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "wê bişîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "li te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nifirê"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "nifirê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevlihevî"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "tevlihevî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "xurînê"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "xurînê"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di her"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "tiştê ku dirêj dike"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu bikî"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "tu werî rûxandin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta ku"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "tu winda bî"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "zû"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabiya"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "kirinên te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "tu min berdane"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:39.745287395Z",
+  "model": "glm-5.3"
+}

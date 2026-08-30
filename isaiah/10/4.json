@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ne tenê ku di bin girtiyan de çûm ber xwe didin û di bin kuştiyan de dixitin. Bi van hemûyan hêrsê wî ne vegeriya û destê wî hîn jî dirêj e.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "ne tenê ku"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "çûm ber xwe didin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bin"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "girtiyan"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "û di bin"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "kuştiyan"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "dixitin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "van"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hêrsê wî"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "û hîn jî"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "dirêj e"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:06.111737431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û Yehoşua sibehê zû rabû, û kohenan ⟨את⟩ sandûqa Yahwe hilgirt.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "sibehê zû rabû"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di sibehê de"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "û hilgirt"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandûqa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:53.892560601Z",
+  "model": "glm-5.3"
+}

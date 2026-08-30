@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û kohen ⟨את⟩ van nifiran di pirtûkê de binivîse, û wan bi avên tal ji holê rake.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "û binivîse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van nifiran"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "nifirên"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di pirtûkê de"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "û ji holê rake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "מי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "tal"
+    }
+  ],
+  "timestamp": "2026-08-29T18:41:38.853397921Z",
+  "model": "glm-5.3"
+}

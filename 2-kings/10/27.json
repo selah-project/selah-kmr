@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ⟨את⟩ stûna Baʿal hilweşandin û ⟨את⟩ malbêt Baʿal hilweşandin û çêkirin wê cawik heta îro.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "hilweşandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stûna"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stûna"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baʿal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "hilweşandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malbêt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbêt"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baʿal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "çêkirin wê"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "cawik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:32.082043169Z",
+  "model": "glm-5.3"
+}

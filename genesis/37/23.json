@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Çawa ku Yosef hat ba birayên xwe, wan Yosef ⟨את⟩ ji kincê wî xwest, ji kincê ⟨את⟩ pîlan ku li ser wî bû.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "çawa ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayên xwe"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "wan xwist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincê wî"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "kincê wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kincê pîlan"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kincê"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "pîlan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî bû"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:36.966804053Z",
+  "model": "glm-5.3"
+}

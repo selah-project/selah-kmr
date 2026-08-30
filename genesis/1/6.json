@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elohîm got: Bila reqîa ⟨a⟩ di nava avan de bibe, û bila ⟨ew⟩ avan ji avan veqetîne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û … got"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bila … bibe"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "reqîa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avan de"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bila … bibe"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "veqetîne"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ji … ve"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "למים",
+      "gloss": "avan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:26.074868129Z",
+  "model": "glm-5.3"
+}

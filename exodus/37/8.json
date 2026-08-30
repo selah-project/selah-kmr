@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Kerubekî li serê vî alî, û Kerubekî li serê wê alî; ji Sêrbargê çêkir ⟨את⟩ Keruban, li her du serên wê.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Kerubekî"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "li serê"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "vî alî"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "Û Kerubekî"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "li serê"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "wê alî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Sêrbargê"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keruban"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "Keruban"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ji her du"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "serên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:11.448327302Z",
+  "model": "glm-5.3"
+}

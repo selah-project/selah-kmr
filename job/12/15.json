@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Va, Ew avan dide rawestandin û ⟨ewan⟩ ziwa dibin; û Ew wan dişîne û ⟨ewan⟩ erdê dizivirînin.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "va"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "dide rawestandin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "û ziwa dibin"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "û wan dişîne"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "û dizivirînin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-30T05:53:19.927974232Z",
+  "model": "glm-5.3"
+}

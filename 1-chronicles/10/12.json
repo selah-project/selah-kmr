@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Hemû mêrên hêzdar rabûn û ⟨את⟩ laşê Şaul û ⟨את⟩ laşên kurên wî hildan û anîn Yabeşê, û ⟨את⟩ hestiyên wan di bin darê berûyê de li Yabeş veşartin, û heft rojan roza xwe girtin.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "rabûn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laşê Şaul"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "laşê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laşên kurên wî"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "laşên"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "Yabeşê"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "veşartin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên wan"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "hestiyên wan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bin…de"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "darê berûyê"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "li Yabeş"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "roza xwe girtin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:35:31.979819955Z",
+  "model": "glm-5.3"
+}

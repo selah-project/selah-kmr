@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ên ku sîstan dizin da ku ji bo xwe zêde bike, û dide dewlemend — tenê ji bo kêmbûnê.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "dizin"
+    },
+    {
+      "surface": "דל",
+      "gloss": "sîstan"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "zêde bike"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "dewlemend"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ji bo kêmbûnê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:14.109130754Z",
+  "model": "glm-5.3"
+}

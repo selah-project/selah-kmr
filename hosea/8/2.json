@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Ji min re qêrînin: 'Elohîmê me, Îsraêl ⟨te⟩ nas kir!'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "qêrînin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "te nas kir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:07.240712058Z",
+  "model": "glm-5.3"
+}

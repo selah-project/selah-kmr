@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Tenê ⟨את⟩ xwîna wî naxwî; ser erdê wê wekî avê barandî.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tenê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwîna wî"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "xwîna wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bixwî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "wê barandî"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wekî avê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:38.860374515Z",
+  "model": "glm-5.3"
+}

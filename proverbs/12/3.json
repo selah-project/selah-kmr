@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Mirov bi neheqiyê nayê danîn, lê kokê rastanan qet nayên hejandin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "bi neheqiyê"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "lê kokê"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastanan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "qet"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "nayên hejandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:44:13.844452291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û kohen bi qûçê aşamê li pêşberî Yahwe ji bo gunehê wî yê ku kiriye tolbûnê li ser wî dike, û ew ji gunehê wî yê ku kiriye tê lêborîn.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "tolbûnê dike"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "bi qûçê"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "aşamê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêşberî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "gunehê wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kiriye"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "tê lêborîn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ji gunehê wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kiriye"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:28.218464758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Di hemû deman de cilên te spî bin, û rûnê serê serê te nemaye kêm.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "עת",
+      "gloss": "deman de"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bin"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "cilên te"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "spî"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "û rûnê"
+    },
+    {
+      "surface": "על",
+      "gloss": "serê"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "serê te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "mawe kêm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:09.014219343Z",
+  "model": "glm-5.3"
+}

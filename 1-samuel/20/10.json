@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Dawid ji Yehonatan re got: “Kî ê ji min re bêje, an çi ger bavê te bi dijwartî bersiva te bide?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ê bêje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "bersiva te bide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "bi dijwartî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:42:11.384630191Z",
+  "model": "glm-5.3"
+}

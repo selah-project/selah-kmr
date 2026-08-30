@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Yehonatan ⟨את⟩ amûrên xwe da xortê xwe yê bi xwe re û ji wî re got: «Here, bibe bal bajarê.»",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amûrên xwe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "xortê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Here"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:00.397629933Z",
+  "model": "glm-5.3"
+}

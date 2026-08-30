@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ew ê ku gotine: \"Bi zimanê xwe em ê serbikevin; lêvên me bi ⟨את⟩ xwe ne — kî Adonayê ⟨me⟩ ye?\"",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ew ê ku"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gotine"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "bi zimanê xwe"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "em ê serbikevin"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "lêvên me"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "bi xwe (lêvên me)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ê me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:02.529247223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "Spasî bibêjin Adonayê adonayan, çimkî heta dawiyê xesedê wî heye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Spasî bibêjin"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonayê"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "adonayan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:37.679033600Z",
+  "model": "glm-5.3"
+}

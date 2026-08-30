@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Pîroz be Yahwe, ku xesedê wî yê awarte li min xuya kir, di bajareke dorpêçî de.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "pîroz be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "awarte xuya kir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bajarê de"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "dorpêçî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:29.220178470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Ecêbên wî yên ku kir, nîşanên wî û hukmên devê wî, bi bîr bînin!",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "bi bîr bînin"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ecêbên wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "nîşanên wî"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "û hukmên"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "devê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:18.396704858Z",
+  "model": "glm-5.3"
+}

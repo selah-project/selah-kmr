@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Gûnahiya Yehûdah bi pênûsa hesin û bi nûna samîr hatiye nivîsandin, hatiye kolankirin li ser tabloya dilê wan û li ser qerên altarên we.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "gûnahiya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûdah"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "hatiye nivîsandin"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "bi pênûsa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hesin"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "bi nûna"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "samîr"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "hatiye kolankirin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tabloya"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "û li ser qerên"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "altarên we"
+    }
+  ],
+  "timestamp": "2026-08-29T20:56:02.151042973Z",
+  "model": "glm-5.3"
+}

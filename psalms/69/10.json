@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 69,
+  "translation": "Çûnke hînariya mala te min xwar û binpêkirinên binpêkirên te ketin ser min.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çûnke"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "hînariya"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mala te"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "min xwar"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "û binpêkirinên"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "binpêkirên te"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ketin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:57.541880889Z",
+  "model": "glm-5.3"
+}

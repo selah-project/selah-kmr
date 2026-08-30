@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Û Yosef vegeriya Mîtsrayimê (Misir), ew û birayên wî û hemû yên ku ⟨את⟩ bi wî re çûbûn ku ⟨את⟩ bavê wî veşêrin, piştî ku wî ⟨את⟩ bavê xwe veşartibû.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mîtsrayimê (Misir)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "û birayên wî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "yên ku çûbûn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ku veşêrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê wî"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî ku"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "veşartibû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê xwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:22.577957051Z",
+  "model": "glm-5.3"
+}

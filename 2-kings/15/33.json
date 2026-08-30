@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 15:33",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Şazdeh-salî bû ⟨gava⟩ dest bi padîşahî kir — bîst û pênc salî bû di padîşahiya xwe de — û şazdeh salan li Yeruşalayim padîşahî kir; navê diya wî Yeruşa, keça Tsadok, bû.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "salî (kurê)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "û pênc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "di padîşahiya xwe de"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh (şazdeh)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahî kir"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "û nav"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "diya wî"
+    },
+    {
+      "surface": "ירושא",
+      "gloss": "Yeruşa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:17.794189009Z",
+  "model": "glm-5.3"
+}

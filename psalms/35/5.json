@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Bila wek kavlê li ber bayê bin, û ferîşteyê Yahwe wan dû dixe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Bila … bin"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "wek kavlê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bayê"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "û ferîşteyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "dû dixe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:48.614212253Z",
+  "model": "glm-5.3"
+}

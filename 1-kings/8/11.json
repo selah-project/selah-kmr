@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û kahîn nikaribûn li wir rawestin da xizmet bikin, ji ber wê ewrê — ji ber ku rûmeta Yahwe ⟨את⟩ xaniyê Yahwe tijî kiribû.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ... nikaribûn"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nikaribûn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "rawestin"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "xizmet bikin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ewrê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tijî kiribû"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaniyê Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xaniyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:05:31.188775260Z",
+  "model": "glm-5.3"
+}

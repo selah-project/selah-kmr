@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û wan erdê ⟨את⟩ ji xwe re parve kir da ku bi wê derbas bibin; Achab bi rêyeke bi tenê çû, û Ovadyahu bi rêyeke bi tenê çû.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "parve kir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "da ku derbas bibin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bi wê"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "bi rêyeke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "bi tenê"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "û Ovadyahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "bi rêyeke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "bi tenê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:42.538097127Z",
+  "model": "glm-5.3"
+}

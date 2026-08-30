@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Ez ê di berî Yahwe de bi meşim, di welatên jiyanê de.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "ez ê bi meşim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di berî… de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di welatên"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "jiyanê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:13.109494646Z",
+  "model": "glm-5.3"
+}

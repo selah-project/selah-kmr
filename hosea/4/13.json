@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 4:13",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Li ser serên çiyayan ⟨את⟩ qurbanan ser dikin û li ser giran dûd diçirînin; bin hizaran, spîdaran û mêşeyan, ji ber ku saya wan xweş e; ji ber wê keçên we zînayê dikin û bûkên we zînayê dikin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serên"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "çiyayan"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "qurbanan ser dikin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "giran"
+    },
+    {
+      "surface": "יקטרו",
+      "gloss": "dûd diçirînin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "hizaran"
+    },
+    {
+      "surface": "ולבנה",
+      "gloss": "û spîdaran"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "û mêşeyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xweş"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "saya wan"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ji ber wê"
+    },
+    {
+      "surface": "תזנינה",
+      "gloss": "zînayê dikin"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "keçên we"
+    },
+    {
+      "surface": "וכלותיכם",
+      "gloss": "û bûkên we"
+    },
+    {
+      "surface": "תנאפנה",
+      "gloss": "zînayê dikin"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:42.121843458Z",
+  "model": "glm-5.3"
+}

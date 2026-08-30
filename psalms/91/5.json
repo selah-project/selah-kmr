@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Tu natirsî ji tirsê ⟨a⟩ şevê, ji tîrê ku bi rojê difiriwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tu natirsî"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ji tirsê"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "şevê"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ji tîrê"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "difiriwe"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bi rojê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:32.575062296Z",
+  "model": "glm-5.3"
+}

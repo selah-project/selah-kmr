@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ji ber ku tu nefesê min bernadî Şeolê, tu yê xesedê xwe jî nede ku çalê bibîne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "bernadî"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesê min"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şeolê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nede"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "xesedê xwe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ku … bibîne"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çalê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:59.035791648Z",
+  "model": "glm-5.3"
+}

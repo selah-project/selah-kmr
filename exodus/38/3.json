@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Û ⟨את⟩ hemû amûrên mizgeftê çêkir: ⟨את⟩ qazanan, û ⟨את⟩ kulan, û ⟨את⟩ şûştinûşkan, ⟨את⟩ mêşan û ⟨את⟩ pêxurên agir; hemû amûrên wê ji paxirê çêkir.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû amûrên mizgeftê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amûrên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizgeftê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qazanan"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "qazanan"
+    },
+    {
+      "surface": "ו�את",
+      "gloss": "⟨את⟩",
+      "marks": "kulan"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "kulan"
+    },
+    {
+      "surface": "ו�את",
+      "gloss": "⟨את⟩",
+      "marks": "şûştinûşkan"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "şûştinûşkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêşan"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "mêşan"
+    },
+    {
+      "surface": "ו�את",
+      "gloss": "⟨את⟩",
+      "marks": "pêxurên agir"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "pêxurên agir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên wê"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "paxirê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:25.111528386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Stranên hilkirinê. Yahwe, ji bo Dawid bi bîr bîne ⟨את⟩ hemû êşên wî.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ên hilkirinê"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "bi bîr bîne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû êşên wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "êşên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:05.950752606Z",
+  "model": "glm-5.3"
+}

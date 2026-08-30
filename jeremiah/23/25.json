@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ez bihîstim ⟨את⟩ ku pêxemberên ku bi navê min pêxemberîya derewê dikin, dibêjin: «Xewna min dît, xewna min dît.»",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ez bihîstim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dibêjin"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "pêxemberên"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "pêxemberîya...dikin"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "bi navê min"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bero ku gotin"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "xewna min dît"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "xewna min dît"
+    }
+  ],
+  "timestamp": "2026-08-29T21:00:14.455617402Z",
+  "model": "glm-5.3"
+}

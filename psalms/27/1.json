@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ji Dawid. Yahwe ronahiya min û rizgariya min ⟨e⟩ — ji kî bitirsim? Yahwe keleha jiyana min ⟨e⟩ — ji kî ditirsim?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ji Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ronahiya min"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "û rizgariya min"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ji kî"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bitirsim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "keleha"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiyana min"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ji kî"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ditirsim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:26.065473353Z",
+  "model": "glm-5.3"
+}

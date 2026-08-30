@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Wekî berfê di havînê de û wekî baranê di cehinê de, wisa rûmet nabeşe ⟨ji⟩ kîndar re.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "wekî berfê"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "di havînê de"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "û wekî baranê"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "di cehinê de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nabeşe ⟨nabe — hîn red a⟩"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nabeşe"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ji kîndar re"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:38.948067662Z",
+  "model": "glm-5.3"
+}

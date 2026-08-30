@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Hûn hêsîrê dibin bi dêrî, hûn strawan didin dinê; ruhê we ⟨is⟩ agir — dê we bixwe.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "hûn dibin bi dêrî"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "hêsîr"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "hûn didin dinê"
+    },
+    {
+      "surface": "קש",
+      "gloss": "straw"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ruhê we"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "dê we bixwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:36:56.574082816Z",
+  "model": "glm-5.3"
+}

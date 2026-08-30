@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û çê bû, yekî kevanî dadida, û hesin ket nav avê; ew ⟨את⟩ qêrî û got: «Wa, Adonayê min! Û ew ⟨bi deyn⟩ ⟨hate⟩ stendin.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "çê bû"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "dadida"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "kevanî"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "⟨את⟩ qêrî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayê min"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "bi deyn hate stendin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hesin"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "hesin"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:16:29.415318515Z",
+  "model": "glm-5.3"
+}

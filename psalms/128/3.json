@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 128,
+  "translation": "Jina te wekî tirîyekî firemîh dide li hûşkên malê te; lawên te wekî şitilên zeytînan, dor li dora sofrê te.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "jina te"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "wekî tirî"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "firemîh dide"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "li hûşkên"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "malê te"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "lawên te"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "wekî şitilên"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zeytînan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dor li dora"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "sofrê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:14.541089012Z",
+  "model": "glm-5.3"
+}

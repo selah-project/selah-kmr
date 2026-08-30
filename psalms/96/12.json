@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 96,
+  "translation": "Wê demê zevî dê bizivire bi kêfxweşî û hemû tiştê ku tê de; wê demê hemû darên daristanê dê stranan bibêjin.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "bizivire bi kêfxweşî"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zevî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "stranan bibêjin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darên"
+    },
+    {
+      "surface": "יער",
+      "gloss": "daristanê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:54.259358824Z",
+  "model": "glm-5.3"
+}

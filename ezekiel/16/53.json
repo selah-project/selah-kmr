@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezekiel 16:53",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ez ê dîltiya wan bizivirînim — ⟨את⟩ dîltiya Sedomê û keçên wê, û ⟨את⟩ dîltiya Şomeronê û keçên wê — û dîltiya dîlên te di nav wana de.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ez ê bizivirînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîltiya wan"
+    },
+    {
+      "surface": "שביתהן",
+      "gloss": "dîltiya wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîltiya Sedomê"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "dîltiya"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomê"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "û keçên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dîltiya Şomeronê"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "dîltiya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeronê"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "û keçên wê"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "û dîltiya"
+    },
+    {
+      "surface": "שביתיך",
+      "gloss": "dîlên te"
+    },
+    {
+      "surface": "בתוכהנה",
+      "gloss": "di nav wana de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:48:41.436362710Z",
+  "model": "glm-5.3"
+}

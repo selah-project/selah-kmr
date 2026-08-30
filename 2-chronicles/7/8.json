@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Şelomo wê demê ⟨את⟩ cejnê heft rojan pêk anî, û hemû Îsraêl bi wî re — civîneke gelek mezin — ji têketina Hamat heta newala Mîtsrayimê.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "pêk anî"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cejnê"
+    },
+    {
+      "surface": "החג",
+      "gloss": "cejn"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civîn"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "ji têketina"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "newala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:46:23.486453358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û ⟨ez⟩ ê Çadira Civînê û ⟨את⟩ serefê, û ⟨את⟩ Aharon û ⟨את⟩ xortên wî pîroz bikim — ji bo ku ew kînahîtiya min bikin.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "Û ê pîroz bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Çadira Civînê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Civînê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "serefê"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "serefê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "xortên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "xortên wî"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "pîroz dikim"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ji bo ku kînahîtiyê bikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:13.102065849Z",
+  "model": "glm-5.3"
+}

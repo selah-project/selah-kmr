@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Bi Elohîm em ê şoreşê bikin; û ew ê dijminên me bi pê lê bibê.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Bi Elohîm"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "em ê ... bikin"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "şoreşê (hêz)"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "û ew ê"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "bi pê lê bibê"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "dijminên me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:19.950673051Z",
+  "model": "glm-5.3"
+}

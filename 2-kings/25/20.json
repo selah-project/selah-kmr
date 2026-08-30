@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û Nevuzaradan serdarê qelatkaran ⟨את⟩ wan girt û ⟨את⟩ wan bir cem padîşahê Babîlê, Riblata.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (girtî)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "serdarê"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "qelatkaran"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "û bir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (cih biguherîne)"
+    },
+    {
+      "surface": "על",
+      "gloss": "cem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babîlê"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblata"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:01.626104289Z",
+  "model": "glm-5.3"
+}

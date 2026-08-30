@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Ez namirim — lê ê dijî, û ez ê kiryarên Yah beyan bikim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ez namirim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê ê"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ez dijîm"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "û ez ê beyan bikim"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "kiryarên"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:21.441962484Z",
+  "model": "glm-5.3"
+}

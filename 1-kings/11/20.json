@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û xûşka Tahpenesê ji wî re ⟨את⟩ Genubat kurê wî zayî; û Tahpenes wî di nava mala Paro de şîr ji ber da. Û Genubat di mala Paro de di nava kurên Paro de ma.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "xûşka"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahpenesê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat kurê wî"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "wî şîr ji ber da"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di mala"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:20.828493230Z",
+  "model": "glm-5.3"
+}

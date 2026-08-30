@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û wî girt û danî ⟨את⟩ Şahadetê (Edût) ber bi Sandûqê (Aron), û dilopên wî li ser Sandûqê danî, Û rûerdê-Kafarotê li ser Sandûqê danî ji jor ve.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şahadetê (Edût)"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Şahadetê (Edût)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Sandûqê (Aron)"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilopên wî"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dilopên wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Sandûqê (Aron)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûerdê-Kafarotê"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "rûerdê-Kafarotê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Sandûqê (Aron)"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ji jor ve"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:34.944816213Z",
+  "model": "glm-5.3"
+}

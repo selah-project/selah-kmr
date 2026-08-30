@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Eyfa, pîlegeşa Kalêb, ⟨את⟩ Haran û ⟨את⟩ Motza û ⟨את⟩ Gazêz anî dinê; û Haran ⟨את⟩ Gazêz bi cih anî.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Û Eyfa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "pîlegeşa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalêb"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anî dinê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Motza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gazêz"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazêz"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "û Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bi cih anî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazêz"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazêz"
+    }
+  ],
+  "timestamp": "2026-08-30T06:32:43.326213397Z",
+  "model": "glm-5.3"
+}

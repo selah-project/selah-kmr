@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û kînet dê kirasê xwe yê ketanê li xwe bike, û şalwarên ketanê li goştxweyî xwe li xwe bike; û ⟨את⟩ kûşeyê ku êgir ⟨את⟩ qurbanê şewatê li ser altarê xwaribû hildaye, bilivîne, û wê li kêleka altarê bide.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "li xwe bike"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kînet"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "kirasê xwe"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ketanê"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "şalwarên"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ketanê"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "li xwe bike"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştxweyî xwe"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "bilivîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûşeyê"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kûşeyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "xwaribû"
+    },
+    {
+      "surface": "האש",
+      "gloss": "êgir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanê şewatê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbanê şewatê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarê"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "bide"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "li kêleka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:51.623923681Z",
+  "model": "glm-5.3"
+}

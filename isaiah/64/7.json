@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 64,
+  "translation": "Êdî, Yahwe, tu bavê me yî; em xweli ne, û tu çêkerê me yî, û em hemû keda destê te ne.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Êdî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bavê me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "xweli"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "çêkerê me"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "û keda"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "em hemû"
+    }
+  ],
+  "timestamp": "2026-08-29T20:47:16.014076649Z",
+  "model": "glm-5.3"
+}

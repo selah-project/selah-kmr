@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ma şofar li bajêr tê dadan û gel natirse? Ma xerabî li bajêr çêdibe û Yahwe nekirî?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "tê dadan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "li bajêr"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û gel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "tirse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "çêdibe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "li bajêr"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "û Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:07:51.889928187Z",
+  "model": "glm-5.3"
+}

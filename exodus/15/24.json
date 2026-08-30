@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û gel li dijî Moşe xwarûsî kir, gotin: “Em ê çi vexwin?”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "xwarûsî kir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "vexwin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:04.836505398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Refikê te lê dijîn; tu, ey Elohîm, di qenciya xwe de ji bo feqîran amade dikî.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "refikê te"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dijîn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "lê"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "amade dikî"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "di qenciya te de"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ji bo feqîran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:12.238075562Z",
+  "model": "glm-5.3"
+}

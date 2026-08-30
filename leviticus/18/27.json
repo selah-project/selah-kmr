@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ji ber ku hemû tiştên netirsên van ⟨את⟩ mêrên erdê kirin, ên ku berî we bûn, û erd xerab bû.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên netirsên van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "tiştên netirs"
+    },
+    {
+      "surface": "האל",
+      "gloss": "yên van"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "berî we bûn"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "û xerab bû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:50.147732216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Rake dayikê bişîne, lê ⟨את⟩ zarokan ji bo xwe bigire, ji bo ku bi te re baş bibe û te rojên xwe dirêj bike.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "rake"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "bişîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dayikê"
+    },
+    {
+      "surface": "האם",
+      "gloss": "dayikê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zarokan"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "zarokan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "baş bibe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bi te re"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "û te ... dirêj bike"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:36.009525621Z",
+  "model": "glm-5.3"
+}

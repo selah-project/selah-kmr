@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Li mêrên xerabîyê nehesîd bike, û nexwaze ku tu ⟨אתם⟩ bi wan re bibî.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "hesîd bike"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "li mêrên"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabîyê"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "nexwaze"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ku tu bibî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bi wan re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:05.322418602Z",
+  "model": "glm-5.3"
+}

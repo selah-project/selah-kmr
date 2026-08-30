@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ev ⟨⟨e⟩⟩ dilşewatiya min di êşa min de ye, çimkî peyva tê ji nû ve jîyan daye min.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "dilşewatiya min"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "di êşa min de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "peyva tê"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "ji nû ve jîyan daye min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.105605104Z",
+  "model": "glm-5.3"
+}

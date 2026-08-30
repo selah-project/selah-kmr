@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û yê ku merivekî dizîne û difiroşe, û ew di destê wî de were dîtin, bi kuştinê were kuştin.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Û yê ku … dizîne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "merivekî"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "û difiroşe"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "û ew were dîtin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê wî de"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bi kuştinê"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "were kuştin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:26.796396615Z",
+  "model": "glm-5.3"
+}

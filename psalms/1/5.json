@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber wê yê rast nikarin di dadrêsiyê de rabin, û gunehkar jî di civata rastan de.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ji ber wê yê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nakin"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "derewan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "di dadrêsiyê de"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "û gunehkar"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "di civata ... de"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rastan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:13.338616932Z",
+  "model": "glm-5.3"
+}

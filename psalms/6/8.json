@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Çavê min ji ber êşê hişk bûye; ji ber hemû dijminên min kal bûye.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "hişk bûye"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ji ber êşê"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavê min"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "kal bûye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ji ber hemû"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dijminên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:52.039184492Z",
+  "model": "glm-5.3"
+}

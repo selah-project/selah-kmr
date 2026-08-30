@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Di biryaryên te de ez ê kêf bikim, peyva te ez ê ji bîr nakim.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "di biryaryên te de"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ez ê kêf bikim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ez ê ji bîr bikim"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "peyva te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:08.340820254Z",
+  "model": "glm-5.3"
+}

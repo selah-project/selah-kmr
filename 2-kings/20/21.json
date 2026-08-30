@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 20:21",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Hizqiya bi bavên xwe re rûnişt, û Menashe kurê wî şûna wî keyîtî kir.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "rûnişt"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "keyîtî kir"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "şûna wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:23:24.258653940Z",
+  "model": "glm-5.3"
+}

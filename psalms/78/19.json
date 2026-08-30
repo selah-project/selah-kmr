@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Wan li dijî Elohîm axaftin, gotin: Ma Êl dikare di çolê de sofreyekê amade bike?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "axaftin"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "li dijî Elohîm"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "ma dikare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "amade bike"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sofre"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:29.620536022Z",
+  "model": "glm-5.3"
+}

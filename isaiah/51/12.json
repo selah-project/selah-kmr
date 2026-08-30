@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Ez, ez im ê hûn diwarekim; tu kî yî, ku tu ji mirovê dimire ditirsî, û ji kurê mirov, yê wek giha tê dayîn?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "hûn diwarekim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu",
+      "marks": "tu ditirsî"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "ditirsî"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "ji mirovê"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dimire"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "ji kurê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "giha"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "tê dayîn"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:30.962245074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Ew ê qîz neke, dengê xwe bilind neke, û dengê wî li kolanê nebihîzîne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "qîz bike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bilind bike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "bihîzîne"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "li kolanê"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "dengê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:58.341901513Z",
+  "model": "glm-5.3"
+}

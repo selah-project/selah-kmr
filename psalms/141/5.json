@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 141,
+  "translation": "Bila rast bi xesed li min dixe û min dihêle bêrîkê; ev rûnê serê ye, bila serê min wê red neke, çimkî hîn duaya min jî li ser xerabiya wan e.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "li min dixe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "min dihêle bêrîkê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bila… neke"
+    },
+    {
+      "surface": "יני",
+      "gloss": "red bike"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serê min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "duaya min jî"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "li ser xerabiya wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:28.115082270Z",
+  "model": "glm-5.3"
+}

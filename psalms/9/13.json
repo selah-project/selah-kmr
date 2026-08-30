@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ji ber ku yê ku xwînê digerîne ⟨את⟩ wan bi bîr aniye; qîrîna feqîran ji bîr nekiriye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "digerîne"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bi bîr anî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ji bîr kir"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "qîrîna"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "feqîran"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:22.263671508Z",
+  "model": "glm-5.3"
+}

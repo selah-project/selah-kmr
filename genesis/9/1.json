@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Elohîm ⟨את⟩ Noach û ⟨את⟩ kurên wî bêrîvat kir û ji wan re got: “Hêlin û pir bibin û ⟨את⟩ erdê tijî bikin.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "bêrîvat kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurên wî"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "hêlin"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "pir bibin"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "tijî bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:36:22.237979141Z",
+  "model": "glm-5.3"
+}

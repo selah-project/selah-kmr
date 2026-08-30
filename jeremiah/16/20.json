@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ma mirov ji bo xwe xwedayan çêke, û ew ne xwedayan in?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Ma... çêke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xwedayan"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "û ew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xwedayan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:55:55.794921683Z",
+  "model": "glm-5.3"
+}

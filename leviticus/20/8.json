@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û ⟨את⟩ biryarên min biparêzin û ⟨אתם⟩ wan bikin; ez Yahwe me, ê ku we pîroz dike.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Û biparêzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biryarên min"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "biryarên min"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "û bikin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (biryarên min)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ê ku we pîroz dike"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:13.442622674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ew di roja belayê min de pêşiya min ketin, û Yahwe bû piştevanê min.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "pêşiya min ketin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "belayê min"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "piştevan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:23.732451852Z",
+  "model": "glm-5.3"
+}

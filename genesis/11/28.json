@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Haran li ber çavên Terach, bavê xwe, li welatê jidayikbûna xwe, li Ûra Kasdiyan mir.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "çavên"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welatê"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "jidayikbûna xwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "li Ûra"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:38:20.140781142Z",
+  "model": "glm-5.3"
+}

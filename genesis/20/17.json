@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Avraham ji Elohîm re duakir, û Elohîm ⟨את⟩ Avîmelex û ⟨את⟩ jina wî û kinên wî sax kir, û wan zarok anîn.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "duakir"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji … re"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "sax kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avîmelex"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avîmelex"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jina wî"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina wî"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "û kinên wî"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "zarok anîn"
+    }
+  ],
+  "timestamp": "2026-08-29T17:41:41.382511581Z",
+  "model": "glm-5.3"
+}

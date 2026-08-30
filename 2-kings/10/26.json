@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ⟨את⟩ stûnên malbêt Baʿal derxistin û wan şewitandin.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "derxistin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stûnên"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "stûnên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbêt"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baʿal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "şewitandin wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:32.081763152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û te ⟨את⟩ gelê xwe Îsraêl ji xwe re daye wekî gel heta herdemî, û tu, Yahwe, bûyî Elohîmê wan.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "û te daye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê te Îsraêl"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "wekî gel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "herdemî"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bûyî"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T06:39:05.428905563Z",
+  "model": "glm-5.3"
+}

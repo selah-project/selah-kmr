@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Yê devê xwe diparêze nefêşa xwe diparêze; yê lêvên xwe ji hev vedike, wêranî ji wî re ye.",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "yê diparêze"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "devê wî"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefêşa wî"
+    },
+    {
+      "surface": "פושק",
+      "gloss": "ji hev vedike"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lêvên wî"
+    },
+    {
+      "surface": "מחיתה",
+      "gloss": "wêranî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:21.277467612Z",
+  "model": "glm-5.3"
+}

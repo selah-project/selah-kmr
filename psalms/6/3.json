@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ji min re dilovanî bike, Yahwe, çimkî ez bêhêz im; şê bike min, Yahwe, çimkî hestiyên min hatine xemaşkirin.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ji min re dilovanî bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "bêhêz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "şê bike min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "hatine xemaşkirin"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "hestiyên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:47.497262353Z",
+  "model": "glm-5.3"
+}

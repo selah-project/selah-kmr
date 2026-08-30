@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ber bi başûr ve diçe û ber bi bakur ve dizivire; dizivire-dizivire, ba diçe, û li ser pêçalên xwe ba vedigere.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi … ve"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "başûr"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "dizivire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi … ve"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bakur"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "dizivire"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "dizivire"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "diçe"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "pêçalên xwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vedigere"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:26.307727124Z",
+  "model": "glm-5.3"
+}

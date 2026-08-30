@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û ⟨ew⟩ ⟨את⟩ Bîlha — dîzika xwe — ji bo jinan da wî, û Yaqûb çû cem wê.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "û … da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bîlha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bîlha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "dîzika xwe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ji bo jinan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û … çû"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "cem wê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:17.417279820Z",
+  "model": "glm-5.3"
+}

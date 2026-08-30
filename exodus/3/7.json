@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Yahwe got: Dîtinê min ⟨את⟩ eznaviya gelê min yê ku di Mîtsrayimê de ye rast dîtiye, û ⟨את⟩ bangên wan ji ber ên ku wan didin bin bihîstiye, ji ber ku min ⟨את⟩ êşên wan dizane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yahwe got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Dîtinê"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min… rast dîtiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eznaviya gelê min"
+    },
+    {
+      "surface": "עני",
+      "gloss": "eznaviya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mîtsrayimê de"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "bangên wan"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "bangên wan"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "bihîstiye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ên ku wan didin bin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "min… dizane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êşên wan"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "êşên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:14.511682633Z",
+  "model": "glm-5.3"
+}

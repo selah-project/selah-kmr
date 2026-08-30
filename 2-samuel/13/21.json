@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û Dawid ê key ⟨את⟩ hemû van benderan bihîst, û pirr li wî acîh bû.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Û ê key"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû van benderan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "benderan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "acîh bû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "li wî"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pirr"
+    }
+  ],
+  "timestamp": "2026-08-29T19:53:35.126112031Z",
+  "model": "glm-5.3"
+}

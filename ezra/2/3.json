@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Kurên Paroş: du hezar û sed û heftê û du.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Kurên"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroş"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "du hezar"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "heftê"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "Û du"
+    }
+  ],
+  "timestamp": "2026-08-30T06:21:45.982357843Z",
+  "model": "glm-5.3"
+}

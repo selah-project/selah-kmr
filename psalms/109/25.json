@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Ez jî bûme heplokî ji bo wan; gava min dibînin, serê xwe dihejînin.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ez jî"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûme"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "heplokî"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "min dibînin"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "dihejînin"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "serê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:50.309152514Z",
+  "model": "glm-5.3"
+}

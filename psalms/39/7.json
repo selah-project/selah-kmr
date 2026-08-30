@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Tenê wekî sî û xeyal meriv digere; tenê bi valahî dinalin; kom dike, û nizane kî wê ⟨wan⟩ bicivîne.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "di sî û xeyal de"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "digere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meriv"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "bi valahî"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "dinalin"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "kom dike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "wê wan bicivîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:32.503042811Z",
+  "model": "glm-5.3"
+}

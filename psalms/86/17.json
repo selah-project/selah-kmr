@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 86,
+  "translation": "Bi min re nîşanekê ji bo qenciya bike, û yên ji min dihatin nefretkirin wê bibînin û şerm bikin, çimkî tu, Yahwe, alîkariya min kirî û dilê min xweş kirî.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bike"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bi min re"
+    },
+    {
+      "surface": "אות",
+      "gloss": "nîşanekê"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ji bo qenciya"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "û bibînin"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "yên ji min dihatin nefretkirin"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "û şerm bikin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "alîkariya min kirî"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "û dilê min xweş kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:17.122510716Z",
+  "model": "glm-5.3"
+}

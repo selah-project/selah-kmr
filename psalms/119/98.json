@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ji dijminên min fermanên te min çêtir kîn zana, çimkî ew hertim bi min re ye.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "ji dijminên min"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "min çêtir kîn zana"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "fermanên te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bi min re ye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:18.979389250Z",
+  "model": "glm-5.3"
+}

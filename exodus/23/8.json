@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Rûşwet negerîne, çimkî rûşwet çavkêsan kor dike û gotinên dadbaran diçewîne.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "rûşwet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "negerîne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "rûşwet"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "kor dike"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "çavkês"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "diçewîne"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dadbaran"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:28.591609624Z",
+  "model": "glm-5.3"
+}

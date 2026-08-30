@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Baştir e tijiya kefekê bi aramî, ji tijiya herdu destan zehmetî û hovîtiya ba.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baştir e"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tijiya"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kefekê"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "bi aramî"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ji tijiya"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "herdu destan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zehmetî"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "û hovîtî"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:44.014071191Z",
+  "model": "glm-5.3"
+}

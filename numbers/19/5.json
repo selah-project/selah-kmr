@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Ê ⟨את⟩ gawê wê di ber çavên wî de bişewitîne: ⟨את⟩ çermê wê, ⟨את⟩ goştê wê û ⟨את⟩ xwîna wê, bi sergiyê wê re wê bişewitîne.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "bişewitîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawê"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "gawê"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "di ber çavên wî de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çermê wê"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "çermê wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goştê wê"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "goştê wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xwîna wê"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "xwîna wê"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "sergiyê wê"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "wê bişewitîne"
+    }
+  ],
+  "timestamp": "2026-08-29T18:48:44.494042088Z",
+  "model": "glm-5.3"
+}

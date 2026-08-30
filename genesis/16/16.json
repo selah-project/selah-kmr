@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Abram di şeşî û şeş saliya xwe de bû, dema Hagar ⟨את⟩ Yîşmael ji bo Abram ji dayikê çê kir.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Û Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "di ... saliya xwe de bû"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "şeşî"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "û şeş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "dema ... çê kir"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yîşmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yîşmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ji bo Abram"
+    }
+  ],
+  "timestamp": "2026-08-29T17:40:14.866795639Z",
+  "model": "glm-5.3"
+}

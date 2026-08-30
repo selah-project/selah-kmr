@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ji Şaur re hate ragihandin ku Dawid reviyabû Gat; êdî ew zêde nekir ku wî bigere.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "hate ragihandin"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji Şaur re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "reviyabû"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "êdî… ne"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "zêde nekir"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ku wî bigere"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:02.452225167Z",
+  "model": "glm-5.3"
+}

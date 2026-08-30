@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Ev in kurên Esav, û ev in serdarên wan — ew ⟨e⟩ Edom e.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "û ev"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "serdarên wan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:38.335793867Z",
+  "model": "glm-5.3"
+}

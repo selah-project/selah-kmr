@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ev meh ji we re serê mehan ⟨e⟩; ew ⟨e⟩ ji we re yekemîn ji mehên salê.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ev meh"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mehan"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "yekemîn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji we re"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ji mehên"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "salê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:44.065065964Z",
+  "model": "glm-5.3"
+}

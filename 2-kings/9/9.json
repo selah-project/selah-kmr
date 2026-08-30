@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ez ê ⟨את⟩ malbata Ahab wek malbata Yerobeam, kurê Nevat, û wek malbata Başa, kurê Ahiya bidim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ez ê bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malbata Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbat"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "wek malbata"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "û wek malbata"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:59.493961849Z",
+  "model": "glm-5.3"
+}

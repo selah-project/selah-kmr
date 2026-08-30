@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 54,
+  "translation": "Wêne! Elohîm alîkarê min ⟨e⟩; Adonay ⟨e⟩ di nav wan de ku canê min digirin.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wêne!"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "alîkarê min"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "di nav wan de ku digirin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:20.060203769Z",
+  "model": "glm-5.3"
+}

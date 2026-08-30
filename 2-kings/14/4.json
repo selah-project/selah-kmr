@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Tenê cihên bilind nehatin rakirin; hîn gel li wir li cihên bilind qurbanî dida û buxûr dida.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tenê"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "cihên bilind"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "hatin rakirin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "qurbanî dida"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "û buxûr dida"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "li cihên bilind"
+    }
+  ],
+  "timestamp": "2026-08-30T03:36:25.808844023Z",
+  "model": "glm-5.3"
+}

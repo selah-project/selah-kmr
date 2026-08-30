@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û bersiv didin û dibêjin: \"Destên me ev ⟨את⟩ xwîn ne rijand û çavên me wê nedîtin.\"",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "û bersiv didin"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "û dibêjin"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "destên me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev xwîn"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "û çavên me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:21.085906995Z",
+  "model": "glm-5.3"
+}

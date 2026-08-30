@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Di dilê wî de got: «Ez nayêm hejandin, ji nifûrê heta nifûrê ez ê bi qetî ne di xerabiyê de bin.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "di dilê wî de"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bi qetî na"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nayêm hejandin"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ji nifûrê"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "heta nifûrê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "di xerabiyê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:41.195013548Z",
+  "model": "glm-5.3"
+}

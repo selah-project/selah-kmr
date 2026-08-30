@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Ji ber ku em di êrişa te de hatine xerakirin, û di hêrsê te de em hatine heyecanandin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "em hatine xerakirin"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "di êrişa te de"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "di hêrsê te de"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "em hatine heyecanandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:53.547039949Z",
+  "model": "glm-5.3"
+}

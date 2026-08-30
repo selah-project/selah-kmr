@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û mêr wisa kirin: du çêlekên şîrdidane girtin û wan bi erebeyê girêdan, û ⟨את⟩ beranên wan di mal de girtin.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "çêlek"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "şîrdide"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "girêdan"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "bi erebeyê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beranên wan"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "beranên wan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "binexwe kirin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mal de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:23.186820513Z",
+  "model": "glm-5.3"
+}

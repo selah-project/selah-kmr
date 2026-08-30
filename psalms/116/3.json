@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 116,
+  "translation": "Ribên mirinê dor li min girtin, û tengasiyên Şeolê min dîtin; ez tengasî û keder dîtîm.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "dor li min girtin"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ribên"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirinê"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "û tengasiyên"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeolê"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "min dîtin"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tengasî"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "û keder"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ez dîtîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:22.824526Z",
+  "model": "glm-5.3"
+}

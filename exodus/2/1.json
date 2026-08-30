@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ji malbata Lêwî mêrek çû, û ⟨את⟩ keçika Lêwî girt.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "çû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrek"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji malbata"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lêwî"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçika Lêwî"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keçika"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lêwî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:45.557578016Z",
+  "model": "glm-5.3"
+}

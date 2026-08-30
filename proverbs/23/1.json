@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Gava tu rûnî dibî ji bo xwarinê ⟨את⟩ bi serokekî serwer re, bizane bi rastezayî ⟨את⟩ yê ku li ber te ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "rûnî dibî"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ji bo xwarinê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serokekî serwer"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "serokekî serwer"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bizane"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "bi rastezayî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê ku li ber te ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li ber te ye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:19.136696490Z",
+  "model": "glm-5.3"
+}

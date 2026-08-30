@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 147,
+  "translation": "Hallelû Yah! Çawa xweş e ku ji Elohîmê me re bên gotin, ji ber ku xweş e û rêzdar e pesindan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hallelû"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xweş e"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ku bên gotin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "xweş e"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "rêzdar e"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pesindan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:22.039748657Z",
+  "model": "glm-5.3"
+}

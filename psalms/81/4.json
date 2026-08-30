@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Hûn bi kerî bikin di mehê de şofar, di destpêka-mehê de, roja cejna me.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "hûn bi kerî bikin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "di mehê de"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "di destpêka-mehê de"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "cejna me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:15.460367213Z",
+  "model": "glm-5.3"
+}

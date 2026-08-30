@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ji bilind şand, wî min girt; min ji avên pir derkêşand.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ji bilind"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "wî min girt"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "min derkêşand"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ji avên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:59:07.221808726Z",
+  "model": "glm-5.3"
+}

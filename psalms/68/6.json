@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Bavê sêwîyan û dadwerê jina-bîmayan ⟨ye⟩ Elohîm, di cihe pîroz ê xwe de.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sêwîyan"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "û dadwerê"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "jina-bîmayan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "di cihe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîroz ê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:05.581210406Z",
+  "model": "glm-5.3"
+}

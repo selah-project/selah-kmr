@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û Yahwe ji wî re got: \"Here, veger riya xwe(ber bi) çolê dikeve Şamê(ber bi); û tûyê were û tû ⟨את⟩ Ḥazaêl(bijê) ji bo keyatiyê(ser) Eramê(Çiyayî) bi rûn(miş bikî).\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "here"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "veger"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "riya xwe"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "çolê ber bi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Şam"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "û tûyê were"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "û tû miş bikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥazaêl"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Ḥazaêl"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ji bo key"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Eram"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:40.866141308Z",
+  "model": "glm-5.3"
+}

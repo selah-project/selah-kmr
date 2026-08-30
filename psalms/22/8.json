@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Hemû yên min dibînin pê kenî dikin; bi lêv xwe dirêj dikin, serê xwe dihejînin,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "yên min dibînin"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "pê kenî dikin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "dirêj dikin"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "bi lêv"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "dihejînin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ser"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:11.717370486Z",
+  "model": "glm-5.3"
+}

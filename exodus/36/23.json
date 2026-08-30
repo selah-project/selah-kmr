@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Û wî ⟨את⟩ textên Mişkanê çêkir; bîst text ji aliyê başûr, ber bi başûr ve.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "û wî çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "textên Mişkanê"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "textên"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mişkanê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "text"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ji aliyê"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "başûr"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ber bi başûr ve"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:28.546969120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Dengê bangekê di çolê de: Rêya Yahwe amade bikin, di deştê de rêyekê rast bikin ji Elohîmê re.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Dengê"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "bangekê"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "amade bikin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Rêya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "rast bikin"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di deştê de"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "rêyekê"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ji Elohîmê me re"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:28.162819726Z",
+  "model": "glm-5.3"
+}

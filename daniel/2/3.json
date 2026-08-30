@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û key ji wan re got: Ez xeynek dîtim û ruhê min jihevhat, da ku ez ⟨את⟩ xeynê bizanim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û key ji wan re got"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "xeynek"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "dîtim"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "û jihevhat"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhê min"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da ku ez bizanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeynê"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "xeynê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:28.416711627Z",
+  "model": "glm-5.3"
+}

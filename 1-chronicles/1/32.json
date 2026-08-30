@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û kurên Qeture, dilbera Avraham: ew ⟨bi⟩ Zimran û Yoqşan û Medan û Mîdyan û Yîşbaq û Şuah ⟨dayîn⟩; û kurên Yoqşan: Şeva û Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Qeture"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "dilbera"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ew dayîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "û Yoqşan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "û Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "û Mîdyan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "û Yîşbaq"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "û Şuah"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yoqşan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "û Dedan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:49.828637127Z",
+  "model": "glm-5.3"
+}

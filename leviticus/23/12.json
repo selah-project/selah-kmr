@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û roja ku hûn ⟨את⟩ omerê dilîvînin, wê wekî pêşkeşa şewatê ji bo Yahwe qezîçekî bê kêmasî, yek-salî, amade bikin.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "wê … amade bikin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ku hûn dilîvînin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerê"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerê"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "qezîçekî"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bê kêmasî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yek-salî"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "saliya xwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "wekî pêşkeşa şewatê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:22.095379487Z",
+  "model": "glm-5.3"
+}

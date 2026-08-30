@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û zirê bide der, rê li ber xwefilên min bigire, bêje ji canê min re: ez rizgariya te me.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Û bide der"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "zirê"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "rê bigire"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "xwefilên min"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ji canê min re"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "rizgariya te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:40.373039387Z",
+  "model": "glm-5.3"
+}

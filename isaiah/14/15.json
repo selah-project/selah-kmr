@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Lê belkî tu yê werî daxistin bo Şeol, bo kûrên çal.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lê belkî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "tu yê werî daxistin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çal"
+    }
+  ],
+  "timestamp": "2026-08-29T20:31:06.860420991Z",
+  "model": "glm-5.3"
+}

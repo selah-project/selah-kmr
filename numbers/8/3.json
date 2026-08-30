@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Aharon wisa kir: çirên wê li hemberî rûyê çiragê bilind kir, wekî ku Yahwe ferman da ⟨את⟩ Moşe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û kir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "מול",
+      "gloss": "hemberî"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "çiragê"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "çirên wê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:43:15.986718049Z",
+  "model": "glm-5.3"
+}

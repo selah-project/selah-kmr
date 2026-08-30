@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ji dengê yê ku rexne dike û ku qehrim dike, ji ber neyar û torevan.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ji dengê"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "yê ku rexne dike"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "û yê ku qehrim dike"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neyar"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "û torevan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:55.418849597Z",
+  "model": "glm-5.3"
+}

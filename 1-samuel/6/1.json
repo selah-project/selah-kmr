@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û sandûqa Yahwe heft meh li zeviya Filistîniyan ma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandûqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "li zeviya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistîniyan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "heft"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "meh"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:01.775711574Z",
+  "model": "glm-5.3"
+}

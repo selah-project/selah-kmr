@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Hûn bi nêrînê tên nêrîn û hûn ⟨את⟩ min didizîn — netewe, hemû wê.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "bi nêrînê"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "tên nêrîn"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ min",
+      "marks": "min"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "didizîn"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hemû wê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:24.428975677Z",
+  "model": "glm-5.3"
+}

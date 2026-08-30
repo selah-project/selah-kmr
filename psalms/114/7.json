@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 114,
+  "translation": "Ji ber Adonay ve be dilar Erdê, ji ber Eloha Ya'akov!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ji ber ... ve"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "be dilar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erdê"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ji ber ... ve"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:12.699524643Z",
+  "model": "glm-5.3"
+}

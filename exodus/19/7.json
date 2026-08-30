@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Moşe hat û kalên gel bi nav kir, û li ber ⟨berî⟩ wan hemû van gotinan danî, yên ku Yahwe fermanî wî kiribû.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bi nav kir"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "li ber wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû van gotinan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "gotinan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "fermanî wî kiribû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:01.821238988Z",
+  "model": "glm-5.3"
+}

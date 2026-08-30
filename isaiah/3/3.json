@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "serokê pêncîyan û yê rûmetgirtî, mêşweretkar û zanyarê hunermendan, û aqilmendê efsûnê.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "serokê"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pêncîyan"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "û yê"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rûmetgirtî"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "û mêşweretkar"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "û zanyarê"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "hunermendan"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "û aqilmendê"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "efsûnê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:31.577781499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Çi şîrîn e ji bo dêwika min gotina te — ji hingivê zêdetir li devê min!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "şîrîn e"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ji bo dêwika min"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "gotina te"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "ji hingivê"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "li devê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:51.348914413Z",
+  "model": "glm-5.3"
+}

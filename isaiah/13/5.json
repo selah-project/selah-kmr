@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Têne ji welatekî dûr, ji dawiya ezmanan — Yahwe û ⟨את⟩ amûrên hêrsê wî, da ku ⟨את⟩ hemû welat hilweşînin.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "têne"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji welatekî"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dûr"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ji dawiya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "û amûrên"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "hêrsê wî"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "da ku hilweşînin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "welat"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:34.092971508Z",
+  "model": "glm-5.3"
+}

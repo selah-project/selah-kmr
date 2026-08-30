@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û min ⟨את⟩ kêmerê kirî, li gorî peyva Yahwe, û min ew li kêlega xwe danî.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Û min kirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kêmerê"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kêmerê"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "li gorî peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "û min danî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "kêlega min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:54:19.815134904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û yekî ⟨ji wan⟩ got: Ji kerema xwe razî be û bi ⟨את⟩ kûrên xwe va biçe. Û ⟨wî⟩ got: Ez ê biçim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û … got"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "razî be"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ji kerema xwe"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "va biçe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûrên xwe"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kûrên xwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û ⟨wî⟩ got"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ê biçim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:15:48.901439321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Cana min tevî gunehkaran nehevîne, û jiyanê min tevî mêrên xwînê.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "nehevîne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tevî"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunehkaran"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "cana min"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û tevî"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jiyanê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:47.874703833Z",
+  "model": "glm-5.3"
+}

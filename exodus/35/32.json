@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "û ji bo pêşnûmayan(çêkirinê) ku bi zêr, bi zîv û bi paxir bikixe.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "û ji bo pêşnûmayan(çêkirinê)"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "pêşnûma"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "bikixe"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "bi zêr"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "û bi zîv"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "û bi paxir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:30.853467712Z",
+  "model": "glm-5.3"
+}

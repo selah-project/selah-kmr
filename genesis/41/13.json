@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û çawa ji me re şirove kir, wisa bû: min ⟨את⟩ şûnde li ser cîhê xwe dan, û ew ⟨את⟩ darve kir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û bû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "şirove kir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji me re"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wisa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "qewimî"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "şûnde dan"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כני",
+      "gloss": "cîhê min"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ew"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "darve kir"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:31.206197556Z",
+  "model": "glm-5.3"
+}

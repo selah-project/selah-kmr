@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Di sêyemîn saliya keyaniya wî de, wî ji bo hemû serokên xwe û xulamên xwe mehmantiyek çêkir — hêza Pars û Madyan, partem û serokên welatan li ber wî.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "di saliya ... de"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "keyaniya wî"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mehmantiyek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "serokên xwe"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "û xulamên xwe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hêza"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Pars"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "û Madyan"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "partem"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "û serokên"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "welatan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "li ber wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:41.482622569Z",
+  "model": "glm-5.3"
+}

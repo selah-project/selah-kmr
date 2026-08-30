@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Peyva ku ji Yahwe ⟨את⟩ ve hatibu bo Yirmeyahu, dibêje:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Peyva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hatibu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ji Yahwe ve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dibêje"
+    }
+  ],
+  "timestamp": "2026-08-29T20:58:02.644253822Z",
+  "model": "glm-5.3"
+}

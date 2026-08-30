@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Keça Paroh daket ji bo avdanê li ser çemê, û keniyên wê diçûn li kêleka çemê; ew ⟨את⟩ qutiya di nav qemberan de dît, û ⟨את⟩ keniza xwe şand û ew girt.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "daket"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "ji bo avdanê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çemê"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "û keniyên wê"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "diçûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li kêleka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kêlek"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çemê"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ew dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qutiya"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "qutiya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "qemberan"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "û şand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keniza xwe"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "keniza xwe"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "û ew girt"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:03.480291524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Êrîşkên wî li ber rûyê wî dişkûjînim, û yên ji wî nefret dikin bi tavan didelim.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "dişkûjînim"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "li ber rûyê wî"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "êrîşkên wî"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "û yên ji wî nefret dikin"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "bi tawan didelim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:20.326486080Z",
+  "model": "glm-5.3"
+}

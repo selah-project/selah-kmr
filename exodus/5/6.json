@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Paroh wê rojê ferman da zordarên li ser gelê û ⟨את⟩ serkarên wan, ku bêjin:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "û ferman da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wê rojê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zordaran"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "zordar"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "li ser gel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "serkarên wan"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "serkarên wan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku bêjin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:31.066684449Z",
+  "model": "glm-5.3"
+}

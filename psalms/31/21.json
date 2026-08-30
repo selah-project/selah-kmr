@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Tu wan di veşartiya rûyê xwe de digirî ji xelayeta mêr, tu wan di konê de vedişêrî ji nakokiya zimanên êrîşkar.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "digirî-veşartî wan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di veşartiyê de"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "ji xelayeta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "vedişêrî wan"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "di konê de"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ji nakokiya"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "zimanên"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:29.219917591Z",
+  "model": "glm-5.3"
+}

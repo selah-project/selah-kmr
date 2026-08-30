@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û niha sibê zû rabo, tu û xulamên telûheyê te yên ku ⟨את⟩ te hatine; û sibê zû hûn rabin, û roj li we ronî bibe û herin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "û niha"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "zû rabo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibê"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "û xulamên"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "telûheyê te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hatine"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "hûn rabin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibê zû"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "û roj ronî bibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "li we"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "û herin"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:24.350995114Z",
+  "model": "glm-5.3"
+}

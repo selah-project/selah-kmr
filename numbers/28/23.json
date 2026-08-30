@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Ji bilî pêşkêşiya sotî ya sibêhê — a ku ew ji bo pêşkêşiya sotî ya domdar e — hûn ⟨את⟩ van çêbikin.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "pêşkêşiya sotî"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sibêhê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ku"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ji bo pêşkêşiya sotî"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "domdar"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hûn çêbikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    }
+  ],
+  "timestamp": "2026-08-29T18:53:26.627455804Z",
+  "model": "glm-5.3"
+}

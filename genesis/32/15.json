@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Du sed çêbizin û bîst nêrbizin, du sed mişk û bîst beran.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "çêbizin"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "du sed"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "û nêrbizin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "mişk"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "du sed"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "û beran"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    }
+  ],
+  "timestamp": "2026-08-29T17:50:50.192691966Z",
+  "model": "glm-5.3"
+}

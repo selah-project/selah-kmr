@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Dor li min girtin wekî mêşên hingiv; wekî agirê diriyan hatin vemirandin; bi navê Yahwe, bi rastî, ez ê wan qut bikim.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "dor li min girtin"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "wekî mêşên hingiv"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "hatin vemirandin"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "wekî agir"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ê diriyan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ez ê wan qut bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.259823872Z",
+  "model": "glm-5.3"
+}

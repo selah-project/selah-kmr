@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ev bi erebe û ev bi hespan; lê em navê Yahwe Elohîm ê xwe bi bîr tînin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "bi erebe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "û ev"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "bi hespan"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "lê em"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîm ê xwe"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "bi bîr tînin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:05.850008748Z",
+  "model": "glm-5.3"
+}

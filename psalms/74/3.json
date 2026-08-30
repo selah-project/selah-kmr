@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Gavan xwe bilind bike ber bi wêranên ⟨hertimî⟩ — ⟨her tiştê⟩ ku dijmin di Cihê-Pîroz de xirab kiriye.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "bilind bike"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "Gavan xwe"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ber bi wêranên"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "hertimî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "her tiştê"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xirab kiriye"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di Cihê-Pîroz de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:44.887949605Z",
+  "model": "glm-5.3"
+}

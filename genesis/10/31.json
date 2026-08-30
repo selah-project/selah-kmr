@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Ev kurên Şem in, li gorî malbatên xwe, li gorî zimanên xwe, di welatên xwe de, li gorî neteweyên xwe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ev"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên xwe"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "li gorî zimanên xwe"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di welatên xwe de"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "li gorî neteweyên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:16.645439402Z",
+  "model": "glm-5.3"
+}

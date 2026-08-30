@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Xelas bûn duayên Dawid, kurê Yîşay.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "xelas bûn"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "duayên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yîşay"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:50.176097019Z",
+  "model": "glm-5.3"
+}

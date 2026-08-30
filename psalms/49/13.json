@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Lê mirov bi rûmetê namîne; ew wek dewaran tê berawakirin — ew tên têkbirin.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Lê mirov"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "bi rûmetê"
+    },
+    {
+      "surface": "בל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "namîne"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "tê berawakirin"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "wek dewaran"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "tên têkbirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:08.893353053Z",
+  "model": "glm-5.3"
+}

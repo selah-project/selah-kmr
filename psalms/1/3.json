@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ew ê bibiwe wek darê ku li kêleka kaniyên avê hatiye çandin, ku fêkiyê xwe di dema xwe de dide û pelê wî nayê hişkandin; û her tiştê ku dike bi ser dikeve.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "û ew ê bibiwe"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "wek darê"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "hatiye çandin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li kêleka"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "kaniyên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "fêkiyê xwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "di dema xwe de"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "û pelê wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "hişkandin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û her tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "bi ser dikeve"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:42.731796876Z",
+  "model": "glm-5.3"
+}

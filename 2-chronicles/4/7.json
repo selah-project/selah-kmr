@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ⟨את⟩ deh çiralavên zêrîn çêkir, li gorî rêza wan; û di perestgehê de dan: pênc ji aliyê rastê û pênc ji aliyê çepê.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Û çêkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deh çiralavên zêrîn"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "çiralavên"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêrîn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deh"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "li gorî rêza wan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û dan"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di perestgehê de"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ji aliyê rastê"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "û pênc"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "ji aliyê çepê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:43:09.700483607Z",
+  "model": "glm-5.3"
+}

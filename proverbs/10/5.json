@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Yê ku di havînê de berhev dike kurmekî ⟨bijartok⟩ e; yê ku di dema çininê de radize kurmekî eibenê tîne.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "berhev dike"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "di havînê de"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurmekî"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bijartok"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "radize"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "di dema çininê de"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurmekî"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "eibenê tîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:10.328760622Z",
+  "model": "glm-5.3"
+}

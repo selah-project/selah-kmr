@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û êdî gelî niştecihên Yeruşalaymê û gelî mêrên Yehûda, hûn dadwerî bikin na! di navbera min û reza min de.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "û êdî"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "niştecih"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalaymê"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "hûn dadwerî bikin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na!"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di navbera min"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "reza min de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:01.819076756Z",
+  "model": "glm-5.3"
+}

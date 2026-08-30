@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Kî vê kir û pêk anî, ji destpêkê ve nifşan gazî dike? Ez im Yahwe, yê yekem, û ⟨את⟩ yên dawiyê — ez im ê.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "kir"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "û pêk anî"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gazî dike"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "nifşan"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ji destpêkê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "yê yekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yên dawiyê"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "yên dawiyê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im ê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:25.625777093Z",
+  "model": "glm-5.3"
+}

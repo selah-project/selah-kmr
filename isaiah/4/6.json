@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û xaniyeke sîwanê ⟨ye⟩ ji bo sîya rojhê ji germahiyê, û ji bo penagehê û ji bo veşartinê ji bagerê û ji baranê.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "û xaniyeke sîwanê"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "ji bo sîya"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "rojhê"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ji germahiyê"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "û ji bo penagehê"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "û ji bo veşartinê"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "ji bagerê"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "û ji baranê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:39.221960889Z",
+  "model": "glm-5.3"
+}

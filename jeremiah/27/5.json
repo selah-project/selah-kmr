@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Ez ⟨את⟩ erdê, ⟨את⟩ mirov û ⟨את⟩ ajalên ku li rûyê erdê ne, bi hêza min a mezin û bi milê min a dirêjkirî çêkirim, û ewê didim ê ku di çavên min de rast be.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "çêkirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirov"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ajalên"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ajalên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "bi hêza min"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "a mezin"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "û bi milê min"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "a dirêjkirî"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "û ewê didim"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rast be"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên min de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:59:01.443141166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Ez ê te bilind bikim, Yahwe, ji ber ku te min hilda û te nehişt dijminên ⟨min⟩ li ser min şên bibin.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "ez ê te bilind bikim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "te min hilda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nehişt"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "şên bibin"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dijminên"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li ser min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:48.779306726Z",
+  "model": "glm-5.3"
+}

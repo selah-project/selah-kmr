@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û Hamor, bavê Şekem, derket ba Ya'qûb da ku bi ⟨את⟩ wî re biaxive.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'qûb"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "da ku… biaxive"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:09.452241472Z",
+  "model": "glm-5.3"
+}

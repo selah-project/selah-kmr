@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Piştî van karan şah Ahaşveroş ⟨את⟩ Hamanê kurê Medata yê Agagî mezin kir û bilind kir, û ⟨את⟩ textê wî li ser hemû serokeşan ên ⟨את⟩ bi wî re danî.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "karan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mezin kir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaşveroş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "yê Agagî"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "û bilind kir"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "textê wî"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "textê wî"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "serokeşan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re",
+      "marks": "bi wî re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:33.657722618Z",
+  "model": "glm-5.3"
+}

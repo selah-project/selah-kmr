@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Nefşê min di nava şêran de ye, di nav ên şewatî de radewim — kurên mirovan, dirên wan diranî tûj û tir in, û zimanên wan şûrê tûj e.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefşa min"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "şêran"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "radewim"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "şewatî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dirên wan"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "diranî"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "û tir"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "û zimanên wan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûrê"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "tûj"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:18.098479284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 11:37",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ez ê ⟨את⟩ te bibim, û tu yê serdestiyê li ser hemû tiştên ku canê te dixwaze bikî, û tu yê bibe key ser Îsraêlê.",
+  "tokens": [
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te (objekta 'bibim')"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ez ê bibim"
+    },
+    {
+      "surface": "ומלכת",
+      "gloss": "û tu yê serdest bikî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li ser hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştên ku"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "dixwaze"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canê te"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "û tu yê bibe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:42.894013441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û Betsalel sandiqê ⟨את⟩ ji darê şitan çêkir: dirêjahiya wî du ame û nîv bû, firehiya wî amekek û nîv, bilindahiya wî jî amekek û nîv.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqê"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandiqê"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ji darê"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitan"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "du ame"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "û nîv"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjahiya wî"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "amekek"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "û nîv"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "firehiya wî"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "amekek"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "û nîv"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bilindahiya wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:09.723204380Z",
+  "model": "glm-5.3"
+}

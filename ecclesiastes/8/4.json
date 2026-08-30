@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Çi ku peyiva key e, hukim ⟨e⟩, û kî ji wî re bibêje: \"Çi dixwazî bikî?\"",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "çi ku ... e"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyiva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "hukim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û kî"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bibêje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çî"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dixwazî bikî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:59:21.224077695Z",
+  "model": "glm-5.3"
+}

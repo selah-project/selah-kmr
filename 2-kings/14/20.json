@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û wî ⟨אתו⟩ hilda ser hespan, ew hat veşartin li Yeruşalayimê bi bavên xwe re, li bajarê Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hespan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "hat veşartin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayimê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi... re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bavên xwe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "li bajarê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:19.475699822Z",
+  "model": "glm-5.3"
+}

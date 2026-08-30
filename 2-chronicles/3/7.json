@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ⟨את⟩ malperê — tîreyên wê, astanên wê, dîwarên wê û deriyên wê — bi zêrê dapoş kir, û li ser dîwaran keruban hûnand.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "dapoş kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malperê"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "malper"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "tîreyên wê"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "astanên wê"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "û dîwarên wê"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "û deriyên wê"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "hûnand"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "dîwaran"
+    }
+  ],
+  "timestamp": "2026-08-30T06:43:29.013725548Z",
+  "model": "glm-5.3"
+}

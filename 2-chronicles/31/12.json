@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Û ⟨את⟩ pêşkeyan, ⟨את⟩ dehan û ⟨את⟩ tiştên-pîroz bi dilsozî anîna xwe; serwanê wan Konanyahu Lewî bû, û Şimêî birayê wî duyem bû.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "û anîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêşkeyan"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "pêşke"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "û deh"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "û tiştên-pîroz"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "bi dilsozî"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "serwanê wan"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "serwan"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "Konanyahu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Lewî"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "û Şimêî"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "duyem"
+    }
+  ],
+  "timestamp": "2026-08-30T06:52:37.299367209Z",
+  "model": "glm-5.3"
+}

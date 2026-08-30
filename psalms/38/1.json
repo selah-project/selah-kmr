@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 38,
+  "translation": "Mezmûreke ji aliyê Dawid, ji bo bîranînê.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mezmûreke"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji aliyê Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ji bo bîranînê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:28.489449073Z",
+  "model": "glm-5.3"
+}

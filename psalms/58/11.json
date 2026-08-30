@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Sidaq wê şa bibe dema ku tolê bibîne; pêlavên xwe wê di xwîna belengaz de bişon.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "şa bibe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sidaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "bibîne"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "tol"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "pêlavên wî"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "bişon"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "di xwînê de"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "belengaz\/reş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:52.399251025Z",
+  "model": "glm-5.3"
+}

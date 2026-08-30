@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ji ber wê ezman li ser we şebê girt û erd jî berhemê xwe girt.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ji ber wê"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "we"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "girt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "şeb"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "û erd"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "girt"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "berhemê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:45.688455781Z",
+  "model": "glm-5.3"
+}

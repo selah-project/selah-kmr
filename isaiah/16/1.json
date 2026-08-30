@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Beranan bişînin ji bo serwerê erdê, ji Selaya çolê heta çiyayê keça Siyonê.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "bişînin"
+    },
+    {
+      "surface": "כר",
+      "gloss": "beran"
+    },
+    {
+      "surface": "משל",
+      "gloss": "serwerê"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Selaya"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:32:22.109560837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Dawid ⟨את⟩ qeleha Tsiyonê girt — ⟨ew⟩ ⟨e⟩ bajarê Dawid.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Û … girt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qeleha Tsiyonê"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "qeleha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonê"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ew⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:45.830864157Z",
+  "model": "glm-5.3"
+}

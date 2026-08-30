@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Dawid û mêrên wî bilind bûn û êrîşî Geşûrî, Gîrzî û Emaleqî kirin; çênkî ew ji kevnar ve niştecihên wê welêt bûn, ji hata te ⟨⟨heta⟩⟩ Şûrê û heta welatê Mîtsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bilind bûn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "û mêrên wî"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "êrîş kirin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geşûrî"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "Gîrzî"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "Emaleqî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çênkî"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wê welêt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ji kevnar ve"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ji hata te"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "Şûrê"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:56.434977219Z",
+  "model": "glm-5.3"
+}

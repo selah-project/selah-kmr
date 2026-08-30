@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Bêjin yên ji hêla Yahwe ve hatine rizdarkirin, yên wî ji destê dijmen rizdar kiriye.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Bêjin"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "yên hatine rizdarkirin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "rizdar kiriye"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dijmen"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:27.099821308Z",
+  "model": "glm-5.3"
+}

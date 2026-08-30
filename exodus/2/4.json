@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û xwîşka wî ji dûr ve sekinî, da ku bizaniba dê çi bi wî were kirin.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "sekinî"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "xwîşka wî"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ji dûr ve"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "da ku bizaniba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "were kirin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bi wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:45.558386878Z",
+  "model": "glm-5.3"
+}

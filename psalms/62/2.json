@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Tenê Elohîm e; giyanê min li ber wî bêdeng e — ji wî rizgarîya min tê.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "bêdeng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "giyanê min"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "rizgarîya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:44.064198707Z",
+  "model": "glm-5.3"
+}

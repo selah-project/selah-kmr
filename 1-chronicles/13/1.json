@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Dawid bi serkeyên hezaran û yên sedan re ji bo her serokekî şêwirî.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "şêwirî"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi…re"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serkeyên"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "hezaran"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "û yên sedan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo her"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "serokekî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:37:18.779089609Z",
+  "model": "glm-5.3"
+}

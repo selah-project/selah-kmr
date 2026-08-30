@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Şûr ê li bajarên wî xirab bike, ê darikên wî biqedîne û ê ji şêwirmendiyên wan bixwe.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "ê xirab bike"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûr"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "li bajarên wî"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "ê biqedîne"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "darikên wî"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ê bixwe"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ji şêwirmendiyên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:06:25.406159832Z",
+  "model": "glm-5.3"
+}

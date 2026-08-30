@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Kohînê ku wê ⟨את⟩ dixwe, wê li cîhê pîroz bixwe, di hewşa çadê civînê de.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Kohînê"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "ku gunehê pêşkêş dike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê (qurbana gunehê)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "dixwe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "li cîhê"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bixwe"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di hewşê de"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:38.792713029Z",
+  "model": "glm-5.3"
+}

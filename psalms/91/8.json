@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Tenê bi çavên xwe binihêrî, û xelata wan şaşan bibînî.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "bi çavên xwe"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "binihêrî"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "û xelata"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wan şaşan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bibînî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:32.575867915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Peyva xwe ya ji bo xulamê xwe rûnişîne, ⟨ku⟩ ji bo tirsandina te ye.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "rûnişîne"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ji bo xulamê xwe"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "peyva xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "ji bo tirsandina te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:11.679028920Z",
+  "model": "glm-5.3"
+}

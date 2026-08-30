@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 125,
+  "translation": "Başî bike, ey Yahwe, ji bo başan û ji bo rastan di dilên wan de.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "başî bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "başan"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "û ji bo rastan"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "di dilên wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:59.390545254Z",
+  "model": "glm-5.3"
+}

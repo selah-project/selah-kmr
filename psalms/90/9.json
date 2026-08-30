@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 90,
+  "translation": "Çimkî hemû rojên me di hêrsa te de derbas bûn, salên me wekî henanekê bi dawî hatin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "rojên me"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "derbas bûn"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "di hêrsa te de"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "bi dawî hatin"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "salên me"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "henanekê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:09.911086129Z",
+  "model": "glm-5.3"
+}

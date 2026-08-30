@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û ⟨את⟩ qurbana xwe ya şewatê û ⟨את⟩ pêşkeşa xwe bi dûman kir, ⟨את⟩ libasyonên xwe rijand, û ⟨את⟩ xwîna aştiyên xwe yên ku ji wî re bûn li ser qurbangehê rişand.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "bi dûman kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbana wî ya şewatê"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "qurbana wî ya şewatê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pêşkeşa wî"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "pêşkeşa wî"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libasyonên wî"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "libasyonên wî"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "rişand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwîn"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "aştiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangeh"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:51.937423299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û min sandoqê — ku tê de peymana Yahwe, ya ku ew bi kûrên Yisraêl re birîbû — wir danî.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "min danî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandoqê"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandoqê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "birîbû"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-30T06:43:35.859064671Z",
+  "model": "glm-5.3"
+}

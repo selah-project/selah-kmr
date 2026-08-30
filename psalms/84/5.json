@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 84,
+  "translation": "Çawa bextiyar in ewên ku di mala te de rûdinin; dîsa û hertim wê talibên bidin te. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "çawa bextiyar in"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ewên ku rûdinin"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "di mala te de"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dîsa û hertim"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "wê talibên bidin te"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:58.405071245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Destên xwe ji bilindahiyê dirêj bike; ji avên pirr min rizgar bike û ji destê kuren biyaniyan min xilas bike.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "dirêj bike"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "destên te"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ji bilindahiyê"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "rizgar bike min"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "û xilas bike min"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ji avên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pirr"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuren"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "biyaniyan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:23.403392797Z",
+  "model": "glm-5.3"
+}

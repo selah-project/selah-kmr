@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û xwe tevlî neteweyan kirin û kirinên wan hîn bûn.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "xwe tevlî kirin"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav neteweyan de"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "hîn bûn"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "kirinên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:38.354639897Z",
+  "model": "glm-5.3"
+}

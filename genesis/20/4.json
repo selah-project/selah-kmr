@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Avîmelex nêzîkê wê nebûbû, û got: «Adonay, gelî rast jî dikujî?»",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Û Avîmelex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nêzîkê wê nebûbû"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "nêzîkê wê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "gelî"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rast"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "dikujî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:28.581414830Z",
+  "model": "glm-5.3"
+}

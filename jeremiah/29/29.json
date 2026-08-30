@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û Tsefanyah kahîn ⟨את⟩ vê nameyê di guhên Yirmeyahû pêxember de xwend.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "xwend"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê nameyê"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "nameyê"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di guhên … de"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahû"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pêxember"
+    }
+  ],
+  "timestamp": "2026-08-29T21:00:40.320279668Z",
+  "model": "glm-5.3"
+}

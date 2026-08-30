@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Ew ⟨את⟩ qutiya Elohîm danîna ser erezeyeke nû, ji malê Avînadav birîn; Ûzay û birayê wî diajonîn erezeyê.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "danîna ser… birîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qutiya Elohîm"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "qutî"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "ereze"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nû"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji malê"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avînadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Ûzay"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "û birayê wî"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "diajonîn"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "erezeyê"
+    }
+  ],
+  "timestamp": "2026-08-30T07:00:47.915122137Z",
+  "model": "glm-5.3"
+}

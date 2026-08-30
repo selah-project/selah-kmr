@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Elohîmê Tsovaot, vegerîne me, rûyê xwe bi ronahî bike, û em bên rizgarkirin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsovaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "vegerîne me"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "û bi ronahî bike"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "û em bên rizgarkirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:59.357910185Z",
+  "model": "glm-5.3"
+}

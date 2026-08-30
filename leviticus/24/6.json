@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û tuê wan li ser du rêzan deyne, şeş li ser her rêzekê, li ser sofra paqij berî Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "û tuê deyne"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (du rêz)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "du"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rêz"
+    },
+    {
+      "surface": "שש",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "her rêzekê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "sofra"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:54.687244672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Tu destê xwe ⟨yê⟩ ⟨את⟩ vedikî, û daxwaza hemû tiştên zînde têr dikî.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "vedikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "û têr dikî"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tiştên zînde"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "daxwazê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:39.452360566Z",
+  "model": "glm-5.3"
+}

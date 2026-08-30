@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 51:35",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "\"Zilma li min û laşê min li ser Babilê be\", bêje niştecîha Siyonê; \"û xûna min li ser niştecîhên Kasdayan be\", bêje Orîşelîm.",
+  "tokens": [
+    {
+      "surface": "חמסי",
+      "gloss": "zilma li min"
+    },
+    {
+      "surface": "ושארי",
+      "gloss": "û laşê min"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilê"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "niştecîha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonê"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "û xûna min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecîhên"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdayan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "bêje"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Orîşelîm"
+    }
+  ],
+  "timestamp": "2026-08-30T03:40:41.960569396Z",
+  "model": "glm-5.3"
+}

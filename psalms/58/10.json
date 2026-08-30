@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 58,
+  "translation": "Berî ku dikên we bihêlin ku girih têde bizanibin, Ew ê wekî bahozê, ya şîn û ya pêtkirî, bi xezebê bimeşîne.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "berî ku"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bizanibin"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "dikên we"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "girih"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "חי",
+      "gloss": "şîn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "pêtkirî\/xezeb"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "bimeşîne-bahozê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:52.399080039Z",
+  "model": "glm-5.3"
+}

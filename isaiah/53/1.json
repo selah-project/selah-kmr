@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Kî bawer kir bihîstina me? û zora Yahwe li kî hatiye eşkerekirin?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kî"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "bawer kir"
+    },
+    {
+      "surface": "לשמעתנu",
+      "gloss": "bihîstina me"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "û zora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "hatiye eşkerekirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:01.021488396Z",
+  "model": "glm-5.3"
+}

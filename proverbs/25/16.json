@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Hûnir dîtî? Bi qasî ku bes e bixwe, da ku têr nebî û wî bizîqînî.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "hûnir"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "dîtî"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "bixwe"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "bes"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ku ... nebî"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "têr nebî"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "wî bizîqînî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:26.862832928Z",
+  "model": "glm-5.3"
+}

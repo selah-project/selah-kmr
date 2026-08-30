@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 137,
+  "translation": "Xwebibexş e yê ku digire û ⟨את⟩ zarokên te li ser kevirê dişikîne.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xwebibexş e"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "yê ku digire"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "û dişikîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên te"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "zarokên te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kevirê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:45.711077324Z",
+  "model": "glm-5.3"
+}

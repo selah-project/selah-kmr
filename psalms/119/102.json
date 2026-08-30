@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez ji hukmên te dûr neketim, çimkî Tu fêrî min kirî.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "ji hukmên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "dûr neketim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "fêrî min kirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:51.348701169Z",
+  "model": "glm-5.3"
+}

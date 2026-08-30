@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez ê bi rastîya dil sûd bidime te, dema ez hukmên rastîya te hîn dibim.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "sûd bidime te"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "bi rastîya"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "dema ez hîn dibim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmên"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "rastîya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.697172592Z",
+  "model": "glm-5.3"
+}

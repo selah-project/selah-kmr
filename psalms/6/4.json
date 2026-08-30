@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û canê min bi qasî pir tirsandiye; û tu, Yahwe — heta kengê?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Û canê min"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "tirsandiye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bi qasî pir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:47.497478389Z",
+  "model": "glm-5.3"
+}

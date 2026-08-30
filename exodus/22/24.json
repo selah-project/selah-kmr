@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Ger tu zîvê deynî ⟨את⟩ gelê min — ⟨את⟩ feqîrê bi te re, tu ji bo wî nebî wek deyndêr; faîzê li ser wî nenihêrin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîvê"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "deynî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê min"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feqîrê bi te re"
+    },
+    {
+      "surface": "העני",
+      "gloss": "feqîrê"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nebî"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "wek deyndêr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "nenihêrin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faîzê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:22.923528315Z",
+  "model": "glm-5.3"
+}

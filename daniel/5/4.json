@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Şerab vexwarin û xudawendên zêr û zîv, paxir, hesin, dar û kevir pesnand.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "vexwarin"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "şerab"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "û… pesnand"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "xudawendên"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "û zîv"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "paxir"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "hesin"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "û kevir"
+    }
+  ],
+  "timestamp": "2026-08-30T06:17:01.634748155Z",
+  "model": "glm-5.3"
+}

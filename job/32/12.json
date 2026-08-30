@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Êdî bi we re min têgihişt, û binêre, ji bo Eyyûb tu bersivdêrekî ⟨rasteqîn⟩ tune ku bersiva peyvên wî ji we bide.",
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "Êdî bi we re"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "têgihişt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û binêre"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ji bo Eyyûb"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "bersivdêrekî"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "bersivê bide"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "peyvên wî"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ji we"
+    }
+  ],
+  "timestamp": "2026-08-30T05:59:44.592116351Z",
+  "model": "glm-5.3"
+}

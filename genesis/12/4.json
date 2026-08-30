@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Avram çû, wekî ku Yahwe pê re peyivî bû, û Lot ⟨את⟩ wî re çû. Avram bi heftê û pênc salan bû dema ku ji Xarran derket.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "û çû"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyivî"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pê re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "û çû"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wî re"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "û Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "û heftê"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "dema ku derket"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "ji Xarran"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:43.567557031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 112,
+  "translation": "Belav kir, daye pencpêsan; rastiya wî hertim radiweste; qerpa wî bi rûmetiyê bilind dibe.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "belav kir"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daye"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "pencpêsan"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "rastiya wî"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "radiweste"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "qerpa wî"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "bilind dibe"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "bi rûmetiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:58.539260839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Wî min ji neyarekî xurt xilas kir û ji dijminên min, ji ber ku ew ji min bi hêztir bûn.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "wî min xilas kir"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ji neyarekî"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xurt"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "û ji dijminên min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "bi hêztir bûn"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:23.732021664Z",
+  "model": "glm-5.3"
+}

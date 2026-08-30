@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Rabe, çimkî kar li ser te ye, û em bi te re ne; xurt be û bike.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "li ser te"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bi te re"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "xurt be"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "bike"
+    }
+  ],
+  "timestamp": "2026-08-30T06:24:42.643320025Z",
+  "model": "glm-5.3"
+}

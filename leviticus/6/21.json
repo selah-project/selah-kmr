@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û amanî seramîkê ku tê de hatibe kelandin dê were şikestîn; û ger di amanî sifir de hatibe kelandin, dê were pûjkirin û di avê de were şûştin.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "û amanî"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "seramîk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "hatibe kelandin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "dê were şikestîn"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "di amanî"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sifir"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "hatibe kelandin"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "dê were pûjkirin"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "were şûştin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:24:26.882693917Z",
+  "model": "glm-5.3"
+}

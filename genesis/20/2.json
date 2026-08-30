@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û Avraham derbarê Saray jina xwe de got: «Ew xwişka min e.» Û Avîmelex mîrê Gerrarê şand û ⟨את⟩ Saray girt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "derbarê … de"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jina xwe"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "xwişka min e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avîmelex"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mîrê"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Gerrarê"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saray"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saray"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:28.580568123Z",
+  "model": "glm-5.3"
+}

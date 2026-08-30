@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û Ester zêde kir û li ber key axavî kir, û ket ber lingên wî, û grî û ji wî re dilovînî xwest, ku ⟨את⟩ xerabiya Hamanê Agagî û ⟨את⟩ fikra wî ya ku li ser Cihûyan geriyabû, biîne ser.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "zêde kir"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "axavî kir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ket"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lingên wî"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "grî"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "dilovînî xwest"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ku ... biîne ser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xerabiya Haman"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "xerabiya"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanê"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fikra wî"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "fikra wî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "geriyabû"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Cihûyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:52.853721403Z",
+  "model": "glm-5.3"
+}

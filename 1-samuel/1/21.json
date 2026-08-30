@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û mêr Elqana û tevahiya mala wî çûn bilind ji bo ku ji bo Yahwe ⟨את⟩ qurbaniya salane û ⟨את⟩ soza wî pêşkêş bikin.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "çû bilind"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "û tevahiya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mala wî"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ji bo qurbankirinê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbaniya salane"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbaniya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "salane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "soza wî"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "soza wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:34:33.563600931Z",
+  "model": "glm-5.3"
+}

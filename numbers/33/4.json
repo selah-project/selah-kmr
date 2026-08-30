@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û Mîtsrayî veşartin ⟨את⟩ wan ên ku Yahwe li wan dabet kiribû — ⟨her⟩ kurên-yekem — û li ser Elohîmên wan Yahwe hukim darî kir.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "û Mîtsrayî"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "veşartin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wan ên ku Yahwe li wan dabet kiribû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "dabet kiribû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "li wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "kurê-yekem"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "û li ser Elohîmên wan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darî kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:56:30.933642349Z",
+  "model": "glm-5.3"
+}

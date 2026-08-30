@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Kî ⟨ev⟩ e, ya ku mîna şêfqê dinêre? Rûnas e wekî hîvê, ronahî e wekî rojê, hêzdar e wekî hêzên bi alayan.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨ev⟩"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "ya ku dinêre"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mîna"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "şêfqê"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "rûnas"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "wekî hîvê"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "wekî rojê"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "hêzdar"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "wekî hêzên bi alayan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:42.854840676Z",
+  "model": "glm-5.3"
+}

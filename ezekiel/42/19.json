@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Zivirî ber bi aliyê rojava ve; pîvant — pênc sed qamîş — bi qamîşê pîvandinê.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "zivirî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi ... ve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "aliyê"
+    },
+    {
+      "surface": "הים",
+      "gloss": "rojava"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "pîvant"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "qamîş"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "bi qamîşê"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "pîvandinê"
+    }
+  ],
+  "timestamp": "2026-08-30T04:00:29.907966882Z",
+  "model": "glm-5.3"
+}

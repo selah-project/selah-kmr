@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û Yahwe ⟨את⟩ qencdîtinê da ku gel di çavên Misriyan de bihata dîtin, û Misriyan tiştên xwestî dan wan û wan ⟨את⟩ Misrê vala kirin.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Û Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qencdîtin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "qencdîtin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misriyan de"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "û dan wan tiştên xwestî"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "û vala kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misr"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-29T18:07:07.558062759Z",
+  "model": "glm-5.3"
+}

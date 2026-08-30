@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Zêrê xwe bi berdêl nade, û şûdeyekî li dijî bêgunehan nahîne. Yê van dike, heta hertimî nayê hejandin.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "zêrê xwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nade"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "bi berdêl"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "û şûdeyekî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li dijî"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "bêgunehan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hilde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nayê"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hejandin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:57.002523339Z",
+  "model": "glm-5.3"
+}

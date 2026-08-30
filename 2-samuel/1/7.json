@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û wî paşê xwe da û min dît û gazî min kir, û ez gotim: «Li vir im.»",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Û wî … da"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "paşê xwe"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "min dît"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "gazî kir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ez gotim"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Li vir im"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:18.746231722Z",
+  "model": "glm-5.3"
+}

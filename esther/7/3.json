@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û Estêr ⟨a⟩ malbanê bersiv da û got: \"Ger ez di çavên te de, gelî ⟨padîşah⟩, kerem dîtibe, û ger li ber ⟨padîşah⟩ baş be, bila canê min bi daxwaza min û gelê min bi lavaşa min were dayîn.\"",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "û … bersiv da"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estêr"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨a⟩ malbanê"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ez dîtibe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kerem"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di çavên te de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨padîşah⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨padîşah⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş be"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "bila … were dayîn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "bi daxwaza min"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "û gelê min"
+    },
+    {
+      "surface": "בבקשתי",
+      "gloss": "bi lavaşa min"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:58.117989471Z",
+  "model": "glm-5.3"
+}

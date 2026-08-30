@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û Eyûb piştî vê sed û çil salan jiyî, û ⟨את⟩ kurên xwe û ⟨את⟩ kurên kurên xwe, çar nifş dît.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jiyî"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Eyûb"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sed"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "û çil"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên xwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurên kurên xwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "çar"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "nifş"
+    }
+  ],
+  "timestamp": "2026-08-30T06:02:48.708341741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Ji ber wê ez derketim pêşwaziya te, da ku rûyê te bigerim, û min te dît.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ez derketim"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "pêşwaziya te"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "da ku bigerim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "û min te dît"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:53.872250814Z",
+  "model": "glm-5.3"
+}

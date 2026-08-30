@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 5:8",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Heke min rûmet dîtiye di çavên şah de, û heke li ser şah baş be ku ⟨את⟩ daxwaza min bide û ⟨את⟩ xwestina min bê cîbicîanîn — bila şah û Haman bên ser şîvaniya ku ezê ji wan re çêkim, û sibê ezê gorî bêja şah bikim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "heke"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "min dîtiye"
+    },
+    {
+      "surface": "חן",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah de"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û heke"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş be"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ku bide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daxwaza min"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "daxwaza min"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "û bê cîbicîanîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwestina min"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "xwestina min"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bila bên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "û Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "şîvaniyê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ezê çêkim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "û sibê"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ezê bikim"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gorî bêja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:59.441037510Z",
+  "model": "glm-5.3"
+}

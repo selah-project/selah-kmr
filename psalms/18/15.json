@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û tîrên xwe şand û wan belav kir, û birûskên pir — û wan hejandin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Û şand"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "tîrên xwe"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "û wan belav kir"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "û birûskên"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "û wan hejandin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:40.844190321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Çimkî Yahwe Elohîmê we, Ew ê bi we re diçe, ji bo we bi dijminên we re şer bike, ji bo xilas bike ⟨את⟩ we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Ew ê diçe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bi we re"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "şer bike"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dijminên we re"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ji bo xilas bike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:06:50.245377035Z",
+  "model": "glm-5.3"
+}

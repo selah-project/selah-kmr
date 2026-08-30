@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Heta ku ez bên û hûn bibim ⟨את⟩ welatekî wekî welatê we, welatê genim û moşekî ⟨⟨nû⟩⟩, welatê nan û rezan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ez bên"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "û bibim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hûn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatekî"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "wekî welatê we"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "genim"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "û moşekî nû"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "û rezan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:56.384284143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ji bo rêberê muzîkê, ji zarokên Korah, maşkîl ⟨helbestek înstirûktîf⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo rêberê muzîkê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji zarokên"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maşkîl"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:37.808346856Z",
+  "model": "glm-5.3"
+}

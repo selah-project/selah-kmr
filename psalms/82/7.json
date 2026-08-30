@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 82,
+  "translation": "Lê wekî mirov hûn ê bimirin, û wekî yek ji serokekî hûn ê bikevin.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Lê"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "wekî mirov"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "hûn ê bimirin"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "û wekî yek ji"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "serokekî"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "hûn ê bikevin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:54.726202743Z",
+  "model": "glm-5.3"
+}

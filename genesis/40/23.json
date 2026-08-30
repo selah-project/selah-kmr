@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û serê kedxweşê vexwarinê ⟨את⟩ Yosef bi bîr neanî, û wî ji bîr kir.",
+  "tokens": [
+    {
+      "surface": "וילא",
+      "gloss": "Û ... ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bi bîr anî"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serê"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "kedxweşê vexwarinê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "Û wî ji bîr kir"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:28.658901172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û serê mêzdaran bi Paro re axivî, got: \"Îro ez gunehên xwe ⟨את⟩ bi bîr tînim.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serê"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mêzdaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bi Paro re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunehên xwe"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "gunehên xwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "bi bîr tînim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:11.114338107Z",
+  "model": "glm-5.3"
+}

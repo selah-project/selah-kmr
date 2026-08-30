@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ez ê Yahwe bi tevî dilê xwe pesnê bidim, ez ê hemû hûriyên te bibêjim.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ez ê ... pesnê bidim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi tevî"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ez ê ... bibêjim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "hûriyên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:15.155437714Z",
+  "model": "glm-5.3"
+}

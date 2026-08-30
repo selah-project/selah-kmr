@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Ji ber ku ji berfê re dibêje: 'Bibe ser erdê'; û ji barana biçûk, û ji baranên hêza wî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "ji berfê re"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ser erdê"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "û ji baran"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "baran"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "û ji baran"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "baranên"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "hêza wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:01:07.442343832Z",
+  "model": "glm-5.3"
+}

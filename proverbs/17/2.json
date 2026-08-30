@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Xulamekî agah serwerî li ser kurê şermdar dike, û di nav birayan de mîratî dabeş dike.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "xulamekî"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "agah"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "serwerî dike"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "li ser kurê"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "şermdar"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "û di nav"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "birayan"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "dabeş dike"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mîratî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:45:07.098401438Z",
+  "model": "glm-5.3"
+}

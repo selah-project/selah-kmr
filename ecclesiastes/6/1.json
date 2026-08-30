@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Xerabiyeke wiha heye ku min di bin rojê de dîtîye, û ew li ser mirovî giran e.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "heye"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "min dîtîye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bin … de"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "û ew giran"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirovî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:14.426067240Z",
+  "model": "glm-5.3"
+}

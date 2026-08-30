@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Nefretet lihevhatinên dijminiyê çêdike, lê evîn li ser hemû sûcan vedişêre.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "nefret"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "lihevhatinên dijminiyê çêdike"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "lihevhatinên dijminiyê"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lê li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "sûcan"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "vedişêre"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "evîn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:18.122864203Z",
+  "model": "glm-5.3"
+}

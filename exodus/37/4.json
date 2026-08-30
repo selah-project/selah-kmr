@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û wî diranên darê şitan çêkir û wan ⟨את⟩ bi zêr xemiland.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "diranên"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "darê"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitan"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "bi zêr xemiland"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:09.724023328Z",
+  "model": "glm-5.3"
+}

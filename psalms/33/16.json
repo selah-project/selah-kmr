@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Key bi pir leşkeran rizgar nabe; şervan bi pir hêz rizgar nabe.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nabe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "rizgar dibe"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bi pir"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "leşker"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "şervan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "rizgar dibe"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bi pir"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hêz"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:10.640509600Z",
+  "model": "glm-5.3"
+}

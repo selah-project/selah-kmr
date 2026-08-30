@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Tu qenc î û qenciyê dikî; destûrên netewandî yên te fêrî min bike.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "qenc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "û qenciyê dikî"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "fêrî min bike"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "destûrên netewandî yên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:51.947953422Z",
+  "model": "glm-5.3"
+}

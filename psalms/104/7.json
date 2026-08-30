@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Ji Qêrîna te direvin, ji dengê birûskên te bilez diçin dûr.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "Qêrîna te"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "direvin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "birûskên te"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "bilez diçin dûr"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:17.599184927Z",
+  "model": "glm-5.3"
+}

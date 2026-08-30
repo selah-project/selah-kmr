@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û Yahwe di wê rojê de Îsraêl ⟨את⟩ xilas kir; û şer derbas bû heta Bet-Awen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Û ... xilas kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di wê rojê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "Û şer"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "derbas bû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:13.633538819Z",
+  "model": "glm-5.3"
+}

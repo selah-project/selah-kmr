@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 61,
+  "translation": "Bihîze, Elohîm, qêrîna min; guh bide duaya min.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "bihîze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "qêrîna min"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duaya min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:38.044019505Z",
+  "model": "glm-5.3"
+}

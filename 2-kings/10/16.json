@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ew got: \"Were ⟨את⟩ cem min û binêre çawa ez ji bo Yahwe dilşewat im.\" Û ew ⟨את⟩ wî li ser gerîdeya wî siwar kirin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û ew got"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Were"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cem min"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "û binêre"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "dilşewatiya min"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "siwar kirin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "li ser gerîdeya wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:28.632021907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û mêr ⟨את⟩ destê xwe dirêj kirin û ⟨את⟩ Lût ber bi xwe ve, nav malê anîn, û ⟨את⟩ derî girtin.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Û … dirêj kirin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "destê wan"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "û anîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lût"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lût"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ber bi wan"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "nav malê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "derî"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "derî"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "girtin"
+    }
+  ],
+  "timestamp": "2026-08-29T17:41:21.509651816Z",
+  "model": "glm-5.3"
+}

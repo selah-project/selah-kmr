@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Û ⟨Ahab⟩ li hejmartin girt ⟨את⟩ ciwanên serokên herêman, û bûn du sed û sî û du; û piştî wan ew li hejmartin girt ⟨את⟩ hemû gelî, hemû zarokên Îsraêl, heft hezar.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "û li hejmartin girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciwanên serokên herêman"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ciwanên"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serokên"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "herêman"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "û bûn"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "du sed"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "û sî"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "û piştî wan"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "li hejmartin girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû gelî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gelî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    }
+  ],
+  "timestamp": "2026-08-29T20:12:26.545974326Z",
+  "model": "glm-5.3"
+}

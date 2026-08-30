@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Çimkî ro û şev destê te li ser min giran bû; şêlaniya min bû ziwayîdana havînê. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ro"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "û şev"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "giran bû"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "li ser min"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "bû"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "şêlaniya min"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "ziwayîdan"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "havînê"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:53.237644572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Û hûn ⟨את⟩ wê wisa dixwin: lingbendên we girêdayî, solên we di lingên we de, darikên we di destên we de; û hûn ⟨את⟩ wê bi lez û bezên dixwin — Pêsach ew e, ê Yahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "û wisa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hûn dixwin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (goştê pêşachê)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "lingbendên we"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "girêdayî"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "solên we"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "di lingên we de"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "û darikên we"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "di destên we de"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "û hûn dixwin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "bi lez û bezên"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pêsach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ê Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:53.172684613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û av ji tirqeyê xilas bû, û ew ⟨את⟩ zarokî binî yekî ji beran avêt.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "xilas bû"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "tirqeyê"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "avêt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokî"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zarokî"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "binî"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "ji beran"
+    }
+  ],
+  "timestamp": "2026-08-29T17:43:46.181222936Z",
+  "model": "glm-5.3"
+}

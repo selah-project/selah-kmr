@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Û ji welatan kom kir wan, ji rojhilatê û ji rojava, ji bakur û ji deryayê.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "Û ji welatan"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "kom kir wan"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ji rojhilatê"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "û ji rojava"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ji bakur"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "û ji deryayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:27.100067660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ji ber ku ⟨את⟩ zula barê wî û ⟨את⟩ çemê milê wî, dirîya ê ku wî dike tacîz — şikandin, wek roja Mîdyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zula barê wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "zul"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "barê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çemê milê wî"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "çem"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "milê wî"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "dirî"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ê ku tacîz dike"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "şikandin"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wek roja"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Mîdyan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:29:30.032829043Z",
+  "model": "glm-5.3"
+}

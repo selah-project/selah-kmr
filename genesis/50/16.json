@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Û şandin [peyamek] Yosef re, gotin: \"Bavê te berî mirina xwe ferman kir, got:\"",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "û şandin [ferman]"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yosef re"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gotin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "mirina xwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:00:22.578593105Z",
+  "model": "glm-5.3"
+}

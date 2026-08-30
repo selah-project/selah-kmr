@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Elohîm di wê rojê de ⟨את⟩ Yabîn, padîşahê Kenaan, berî zarokên Îsraêl xwar kir.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "xwar kir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabîn, padîşahê Kenaan"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabîn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahê"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:25:51.937651383Z",
+  "model": "glm-5.3"
+}

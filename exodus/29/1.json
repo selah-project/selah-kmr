@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Û ev e ⟨the⟩ tiştê ku tu yê ji bo wan bikî da ku wan pîroz bikî, da ku ew bibin kahanên min: bigre yek ga, kurê çêlekê, û du beranên bêkêmasî.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Û ev e"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu yê bikî"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "da ku pîroz bikî"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "da ku bibin kahan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ên min"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "bigre"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "çêlekê"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "û du beranên"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "bêkêmasî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:15:53.694833374Z",
+  "model": "glm-5.3"
+}

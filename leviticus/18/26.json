@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û hûn bi xwe fermandên min ⟨את⟩ û hukmên min ⟨את⟩ biparêzin, û ji van hemû tiştên netirs yên han nekin — ne xwecihiyê ⟨the⟩ û ne mêvanê ku di nava we de dimîne.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Û … biparêzin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn bi xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fermandên min"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "fermandên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hukmên min"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmên min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û … ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nekin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji van hemû"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "tiştên netirs"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yên han"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "xwecihiyê"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "û mêvanê"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ku dimîne"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di nava we de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:50.147492927Z",
+  "model": "glm-5.3"
+}

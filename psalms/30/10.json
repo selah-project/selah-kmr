@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Çi fêde di xwîna min de heye, dema ez diçim bal çalê? Ma toz şikirê ji te re dike? Ma rastiya te dide zanîn?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "fêde"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "di xwîna min de"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "dema ez diçim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çalê"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "şikirê ji te re dike"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "dide zanîn"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "rastiya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:05.257246076Z",
+  "model": "glm-5.3"
+}

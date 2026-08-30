@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Paroh jî gazan kir ji zanan û ji efsûnkaran re; xwînegirtiyên Mîtsrayim jî ew bi efsûnên xwe wa kirin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gazan kir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ji zanan re"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "û ji efsûnkaran re"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "her wiha"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "xwînegirtiyên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "bi efsûnên xwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:59.119265050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Ez destên xwe berpal ji te re vekirîm; canê min ji bo te wekî erdekî westiyayî ye. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "berpal vekirîm"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "wekî erdekî"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "westiyayî"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:56.401731789Z",
+  "model": "glm-5.3"
+}

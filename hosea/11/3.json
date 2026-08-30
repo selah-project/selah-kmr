@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Ez bûm yê ku Efrayimê meşandinê hîn kir, wan li ser milên wan girt — lê ew nizanîn ku min şîna wan kir.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "hîn kirim meşandinê"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "wan girt"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "milên wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "zanîn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "şîna wan kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:04:30.378054887Z",
+  "model": "glm-5.3"
+}

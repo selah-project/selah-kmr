@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û wî sê hezar mişel got; û stranên wî pênc û hezar bûn.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mişel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bûn"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "stranên wî"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "û hezar"
+    }
+  ],
+  "timestamp": "2026-08-29T20:04:27.563851259Z",
+  "model": "glm-5.3"
+}

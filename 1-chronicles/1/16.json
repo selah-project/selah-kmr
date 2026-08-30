@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ⟨את⟩ Arwadiyan, û ⟨את⟩ Tsemariyan, û ⟨את⟩ Hamatiyan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Arwadiyan"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Tsemariyan"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemariyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Hamatiyan"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamatiyan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:30:44.058209009Z",
+  "model": "glm-5.3"
+}

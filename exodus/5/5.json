@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û Paroh got: “Va, niha gelek in gelê ⟨ה⟩ erdê, û hûn wan ji barên wan sekinandine.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "va"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek in"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "niha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "û hûn sekinandine"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ji barên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:31.066224920Z",
+  "model": "glm-5.3"
+}

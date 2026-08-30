@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Va, ez li gorî peyvên te kirîye; va, ez ji te re dilê zana û têgihîştî daye, ku mîna te berî te nebûye û piştî te wekî te ranebe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Va"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ez kirîye"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "li gorî peyvên te"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ez daye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "û têgihîştî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "mîna te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bûye"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "berî te"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "piştî te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "rabe"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wekî te"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:21.094311461Z",
+  "model": "glm-5.3"
+}

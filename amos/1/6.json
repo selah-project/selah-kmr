@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wusa got Yahwe: Ji ber sê sûcên Ezzayê û ji ber çaran, ez ê wê neguhêzim; ji ber ku wan sirgûneke temam sirgûn kirin, da wan teslîmî Edom bikin.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Wusa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "sê"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "sûcên"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ezzayê"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ji ber"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "çaran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ez ê neguhêzim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "wan sirgûn kirin"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "sirgûneke"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "temam"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "teslîmî … bikin"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-30T04:07:59.289900209Z",
+  "model": "glm-5.3"
+}

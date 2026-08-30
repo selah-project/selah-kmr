@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û radestî hailê kir dewarên wan, û keriyên wan (dêlên êgir) birûskên vêjeyî.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "û radest kir"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "ji bo hailê"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "dewarên wan"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "û keriyên wan"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "ji bo birûskên vêjeyî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:49.692864151Z",
+  "model": "glm-5.3"
+}

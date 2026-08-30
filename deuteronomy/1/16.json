@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Wê demê min ⟨את⟩ darizêrên we ferman kir ku bibêjin: Guhdarîkirina di navbera birayên we, û hûn ê bi rastdariyê darizîn bikin — di navbera mêr û birayê wî û di navbera penabera wî.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darizêrên we"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "darizêrên we"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "Wê demê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku bibêjin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Guhdarîkirina"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "birayên we"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "û hûn ê darizîn bikin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bi rastdariyê"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birayê wî"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û di navbera"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "penabera wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:16.175055225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û di şêşemîn roja heftê de, avên Tûfanê li ser erdê bûn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "di şêşemîn roja heftê de"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "avên"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Tûfanê"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:35:13.895890741Z",
+  "model": "glm-5.3"
+}

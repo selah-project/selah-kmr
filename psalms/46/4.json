@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Avên wê dideng bilind kirin, ditewin, çiya bi serbilindiya wê didilivin. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "dideng bilind kirin"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ditewin"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "avên wê"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "didilivin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çıya"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "bi serbilindiya wê"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:16.518338323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "û ⟨את⟩ bêhnan û ⟨את⟩ rûnê ji bo ronahiyê û ji bo rûnê-xelatkirinê û ji bo buxûrê hdîsyan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "bêhnan"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "bêhnan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "rûnê"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ji bo ronahiyê"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "û ji bo rûnê"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xelatkirinê"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "û ji bo buxûrê"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "hdîsyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:51.882095010Z",
+  "model": "glm-5.3"
+}

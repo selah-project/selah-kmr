@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Gelî gelan, Elohîmê me bibêrîkin û dengê pesnê wî bidin bihîstin!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "bibêrîkin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Gelî gelan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîmê me"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "û bidin bihîstin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pesnê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:27.844074630Z",
+  "model": "glm-5.3"
+}

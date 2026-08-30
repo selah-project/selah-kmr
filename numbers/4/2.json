@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "„Serê kurên Qehatê ji nav kurên Lêwî hilbide, li gorî malbatên wan û mala bavên wan.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "hilbide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serê kurên Qehatê"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehatê"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ji nav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lêwî"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "li gorî malbatên wan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "û mala"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bavên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:34.875404178Z",
+  "model": "glm-5.3"
+}

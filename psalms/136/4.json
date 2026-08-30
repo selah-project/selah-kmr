@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 136,
+  "translation": "⟨Ji⟩ wî yê ku tenê bi tenê tiştên ecêb ên mezin dike, çimkî heta dawiyê xesedê wî heye.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ji wî yê ku dike"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "tiştên ecêb"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ên mezin"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tenê bi tenê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta dawiyê"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:37.679176788Z",
+  "model": "glm-5.3"
+}

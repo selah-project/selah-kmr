@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 55,
+  "translation": "Êvar û sibeh û nîvro ez ê bitistî bidim û girî bikim, û ⟨ew⟩ dengê min bihîst.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Êvar"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "û sibeh"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "û nîvro"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "bitistî bidim"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "û girî bikim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "û ⟨ew⟩ bihîst"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:56.710033393Z",
+  "model": "glm-5.3"
+}

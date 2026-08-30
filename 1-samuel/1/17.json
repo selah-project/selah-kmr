@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elî bersiv da û got: \"Her bi aşitiyê, û Elohîmê Yisraêl bila ⟨את⟩ daxwaza te bide te, ya ku tu ji wî xwestiye.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elî"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "her"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "bi aşitiyê"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "û Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daxwaza te"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "daxwaza te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "xwestiye"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ji wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:33:36.615532563Z",
+  "model": "glm-5.3"
+}

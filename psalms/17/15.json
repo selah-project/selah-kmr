@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Ez ê di rastiyê de rûyê te bibînim; dema ez şiyar bim, ê di şeklê te de têr bim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "di rastiyê de"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "bibînim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê te"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "têr bim"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "dema ez şiyar bim"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "di şeklê te de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:22.581263357Z",
+  "model": "glm-5.3"
+}

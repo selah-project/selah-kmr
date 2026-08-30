@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Moşe şand, xulamê xwe, û Aharonê ku wî hilbijartibû.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê xwe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "hilbijartibû"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:03.041088693Z",
+  "model": "glm-5.3"
+}

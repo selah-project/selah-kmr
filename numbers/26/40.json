@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Kurên Bela bûn Erd û Naaman; ji Erd malbata Erdî, ji Naaman malbata Naamî.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bûn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Kurên"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Erd"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "û Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "Erdî"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "ji Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "Naamî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:52:10.114201287Z",
+  "model": "glm-5.3"
+}

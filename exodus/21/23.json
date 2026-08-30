@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ger ziyan çê bibe, tu ê can bidî — can di şûna can de.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ziyan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "çê bibe"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "tu ê bidî"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di şûna ... de"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:44.711586590Z",
+  "model": "glm-5.3"
+}

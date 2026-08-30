@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Yahwe ⟨את⟩ ev gotin roja din çêkir, û hemûmalewanê Mîtsrayimê mirin; ji malewanên zarokên Yisraêl jî ne yekî mir.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev gotin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ev gotin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "roja din"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û mirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "malewan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "ji malewanên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yekî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:40.147703910Z",
+  "model": "glm-5.3"
+}

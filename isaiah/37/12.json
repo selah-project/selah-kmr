@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Ma ew ⟨את⟩ Elohîmên gelan ewan xilas kirin, yên ku bavên min bi wan vîna dan — ⟨את⟩ Gozan û ⟨את⟩ Haran û Reçef û kurên Eden ên ku li Telassarê bûn?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Ma … xilas kirin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Elohîmên gelan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmên"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "bi wan vîna dan"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "bavên min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "û Reçef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "li Telassarê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:19.244195028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Bihîzin ⟨את⟩ peyvên vê peymanê û biaxivin bi mêrên Yehûda û bi rûniştevanên Yeruşalayimê:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Bihîzin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyvên vê peymanê"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "vê peymanê"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "û biaxivin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û bi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "rûniştevanên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:53:57.051495666Z",
+  "model": "glm-5.3"
+}

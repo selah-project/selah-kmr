@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 1:7",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û serokê sarîsan nav li wan kir: ji Daniyel re Beltşatsar, ji Hananya re Şadrak, ji Mîşaêl re Meyşax û ji Azarya re Avêd-Nego.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nav ... kir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "li wan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serokê"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarîsan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nav"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kir"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "ji Daniyel re"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltşatsar"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "û ji Hananya re"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Şadrak"
+    },
+    {
+      "surface": "ולמישאל",
+      "gloss": "û ji Mîşaêl re"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyşax"
+    },
+    {
+      "surface": "ולעזריה",
+      "gloss": "û ji Azarya re"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Avêd"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:32.897798465Z",
+  "model": "glm-5.3"
+}

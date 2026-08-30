@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ez ê ciwanan bikim serwanên wan, û zarokên serrûk li ser wan hukim bikin.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ez ê ... bikim"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ciwanan"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "serwanên wan"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "û zarokên serrûk"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "hukim bikin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li ser wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:27:31.577969476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Yêhoşûa ferman da ⟨את⟩ kohnan, got: \"Hûn derkevin ji Jirdanê.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yêhoşûa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohnan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohnan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hûn derkevin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jirdanê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:15:26.783385520Z",
+  "model": "glm-5.3"
+}

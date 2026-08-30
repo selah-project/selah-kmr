@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Baş tevî kedxwiyê xwe yî tevkir, Yahwe, li gorî peyva te.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tevkir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tevî"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kedxwiyê te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "li gorî peyva te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:51.947218139Z",
+  "model": "glm-5.3"
+}

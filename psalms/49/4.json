@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Devê min ê jîraniyan biaxive, û ramanên dilê min ê têgihîştinan bin.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "devê min"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ê biaxive"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "jîraniyan"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "û ramanên"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "dilê min"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "têgihîştinan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:19:51.983420244Z",
+  "model": "glm-5.3"
+}

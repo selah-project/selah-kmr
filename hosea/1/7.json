@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û ⟨את⟩ mala Yehûda ez ê dilovanî bikim û ez ê wan bi Yahwe, Elohîmê wan, xilas bikim; lê ez ê wan bi kevan, bi şûr, bi şer, bi hespan û bi siwaran xilas nekim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mala Yehûda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mal"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ez ê dilovanî bikim"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ez ê wan xilas bikim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmê wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê…ne"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "ez ê wan xilas bikim"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "bi kevan"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "bi şûr"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "bi şer"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "bi hespan"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "bi siwaran"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:41.156830499Z",
+  "model": "glm-5.3"
+}

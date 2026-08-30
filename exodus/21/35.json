@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ger gayê merivekî gayê ⟨hevalê⟩ wî ⟨את⟩ bide û ⟨ew⟩ bimire, dê gayê zindî bifiroşin û zîrê wî parve bikin, û herweha ⟨את⟩ yê mirî jî parve bikin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "bide"
+    },
+    {
+      "surface": "שור",
+      "gloss": "gayê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "merivekî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gayê"
+    },
+    {
+      "surface": "שור",
+      "gloss": "gayê"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê wî"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "û bimire"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "bifiroşin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gayê zindî"
+    },
+    {
+      "surface": "השור",
+      "gloss": "gayê"
+    },
+    {
+      "surface": "החי",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "û parve bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zîrê wî"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "zîrê wî"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û herweha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yê mirî"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yê mirî"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "parve bikin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:45.092023973Z",
+  "model": "glm-5.3"
+}

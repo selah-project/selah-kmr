@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ji bo Mîtsrayimê tu kar nîne ku ser an jî dûvik, şîp an jî qamîş, bikin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Û ... nîne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "heye"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ji bo Mîtsrayimê"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bike"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ser"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "û dûvik"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "şîp"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "û qamîş"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:06.413324776Z",
+  "model": "glm-5.3"
+}

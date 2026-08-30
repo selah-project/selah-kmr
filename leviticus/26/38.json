@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Û hûn ê di nav gelan de winda bibin, û erdê dijminên we ⟨את⟩ we dê bixwe.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "û hûn ê winda bibin"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav gelan de"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "û dê bixwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dijminên we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:10.657639770Z",
+  "model": "glm-5.3"
+}

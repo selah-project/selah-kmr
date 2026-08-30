@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Ên ku goştê gelê min xwar; çermê wan ji ser wan pûç kirin, ⟨את⟩ hestiyên wan şikand û wan wek ên di qazanê de, wek goşt di nava kazane de belav kirin.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Ên ku"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "xwar"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "goştê"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "û çermê wan"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ji ser wan"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "pûç kirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hestiyên wan"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "hestiyên wan"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "şikand"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "û belav kirin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wek ên ku"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "di qazanê de"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "û wek goşt"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kazane"
+    }
+  ],
+  "timestamp": "2026-08-30T04:12:20.664133474Z",
+  "model": "glm-5.3"
+}

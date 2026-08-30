@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Û hemû giha di axa wan xwar, û fêkiya axa wan xwar.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Û xwar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "giha"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di axa wan"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "û xwar"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fêkiya"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "axa wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:29.631769542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Yahwe ji Moşe re peyivî û got:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "û peyivî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:40.485837477Z",
+  "model": "glm-5.3"
+}

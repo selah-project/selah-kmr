@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û çil û yek salan keyîtî li Yeruşalayimê kir; û navê diya wî Maaxa bû, keça Avîşalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Û çil"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "û yek"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "salan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyîtî kir"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayimê"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "Û navê"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "diya wî"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaxa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avîşalom"
+    }
+  ],
+  "timestamp": "2026-08-29T20:09:13.004417916Z",
+  "model": "glm-5.3"
+}

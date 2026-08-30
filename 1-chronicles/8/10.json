@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ Yeuts û ⟨את⟩ Şukya û ⟨את⟩ Mirmah. Ev birayên wî bûn, serên malbatan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Şukya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Şukya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "birayên wî"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serên"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "malbatan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:33:29.104114016Z",
+  "model": "glm-5.3"
+}

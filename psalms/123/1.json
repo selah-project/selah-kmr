@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 123,
+  "translation": "Stranên Hilkirinê. Ber bi te ve ⟨את⟩ çavên min hildaye, yê ku di ezmanan de rûniştiye.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stranên"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Hilkirinê"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ber bi te ve"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "hildaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çavên min"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavên min"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "yê ku rûniştiye"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:40.473555894Z",
+  "model": "glm-5.3"
+}

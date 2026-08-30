@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û ⟨את⟩ Moşe û ⟨את⟩ Aharon dîsa anîn bal Paroh, û wî ji wan re got: Herin, Yahwe Elohîmê xwe bi xizmet bikin — kî û kî ne ên diçin?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Û dîsa anîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî ji wan re got"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Herin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bi xizmet bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û kî"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ên diçin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:42.662264736Z",
+  "model": "glm-5.3"
+}

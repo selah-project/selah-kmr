@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û zarokên Yisraêl di nava Kenanî, Hetî, Emorî û Perîzî û Hîwî û Yebûsî de dijiyan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Û zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dijiyan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nava"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanî"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetî"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "û Emorî"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "û Perîzî"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "û Hîwî"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "û Yebûsî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:52.853564797Z",
+  "model": "glm-5.3"
+}

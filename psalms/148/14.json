@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 148,
+  "translation": "Wî ji bo gelê xwe qerx bilind kir — pesnê ji bo hemû xesed-darên wî, ji bo kurên Îsraêl, gelê nêzîkî wî. Halêlû Yah!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Wî bilind kir"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "qerx"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ji bo gelê xwe"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pesnê"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "xesed-darên wî"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nêzîkî wî"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halêlû"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:08.495686862Z",
+  "model": "glm-5.3"
+}

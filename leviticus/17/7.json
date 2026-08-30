@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û êdî ⟨את⟩ qurbanên xwe ji bo tîpên kerihî yên ku ew venalînin paş wan, namirin serjê bikin; ev ⟨⟨a⟩⟩ ji bo wan statûyek dawî ye heta neslan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ... na"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "serjê bikin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanên xwe"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "qurbanên xwe"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "ji bo tîpên kerihî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "venalînin"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paş wan"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "statût"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dawî"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "heta neslan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:32:15.586706855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û erd nikaribû ⟨את⟩ wan hilgirta ku bi hev re bijîn, ji ber ku malên wan pirr bûn û nikarîbûn bi hev re bijîn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hilgirt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "erd (wan)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ku bijîn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "malên wan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pirr"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nikarîbûn"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bijîn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:00.357224959Z",
+  "model": "glm-5.3"
+}

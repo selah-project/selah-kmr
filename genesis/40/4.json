@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Serdestê sertijan Yosef kir alîkarê wan û ⟨את⟩ ew xizmet kir; û ew rojan domandin bin çavdêriyê.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "kir"
+    },
+    {
+      "surface": "שר",
+      "gloss": "serdestê"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "sertijan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bi wan re ⟨את⟩"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "xizmet kir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ew (du kurek)"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "domandin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "bin çavdêriyê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:54:18.354638424Z",
+  "model": "glm-5.3"
+}

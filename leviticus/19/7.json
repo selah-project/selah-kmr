@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û ger ew bi rastî roja sêyemîn bê xwarin, pîs e; namê were pejirandin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Û ger"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "bi rastî bê xwarin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bê xwarin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sêyemîn"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pîs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "mê were pejirandin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:57.206125977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Wê çaxê em ⟨את⟩ keçên xwe didin we, û ⟨את⟩ keçên we ji xwe re digirin, û em ⟨את⟩ bi we re dijîn, û em dibin yek gel.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Wê çaxê em didin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçên xwe"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "keçên xwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "keçên we"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "keçên we"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "digirin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "û em dijîn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bi we re"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "û em dibin"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    }
+  ],
+  "timestamp": "2026-08-29T17:52:48.501307238Z",
+  "model": "glm-5.3"
+}

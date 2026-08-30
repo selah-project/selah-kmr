@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Xweşî û serkeftin ji bo wî yê hêviya dike û digihîje hezar û sê sed û sî û pênc rojan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xweşî"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "yê hêviya dike"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "û digihîje"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "rojan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sê"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sî"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "û pênc"
+    }
+  ],
+  "timestamp": "2026-08-30T06:20:59.855288901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Ez kolan kol û avê vexwam, û bi taca pêyên xwe hemû kanalên Mîtsrayim hişk dikim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "kolan kol"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "û avê vexwam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "û hişk dikim"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "bi taca"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "pêyên min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "kanalên"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:38:35.512887543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Bidê, roj tên û ez ê ⟨את⟩ zençê te û ⟨את⟩ zençê mala bavê te bibirin, ku kal û pîrekî di mala te de nemîne.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bidê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "roj"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tên"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "û ez ê bibirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zençê te"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zençê te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zençê mala bavê te"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zençê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mala"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ku nebe"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kal û pîrekî"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di mala te de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:35:31.098455273Z",
+  "model": "glm-5.3"
+}

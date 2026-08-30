@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Çimkî tu bajaran kirîn vedix, bajarên birêkirî ji hevxistinê re, kelehên biyaniyan ji bajarekî re — heta timêtî êdî nayê avakirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tu kirî"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "vedix"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "bajarên"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "birêkirî"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "ji hevxistinê re"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "kelehan"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "biyaniyan"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ji bajarekî re"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta timêtî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "avakirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:41.238782391Z",
+  "model": "glm-5.3"
+}

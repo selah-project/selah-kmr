@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û key ji Dimaşqê hat; û key ⟨את⟩ axaçê dît, û key nêzîkî axaçê bû û li ser wî pêşkeş kir.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ji Dimaşqê"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axaçê"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "axaçê"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "nêzîkî bû"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "על",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "axaçê"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "pêşkeş kir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:21:48.623940256Z",
+  "model": "glm-5.3"
+}

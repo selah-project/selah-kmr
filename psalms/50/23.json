@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Qurbankera spasdaniyê min rûmet dike; û yê ku rêya xwe rast dike, ez ê wî rehnim rizgariya Elohîm.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "qurbanker"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "spasdanî"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "min rûmet dike"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "û rast dike"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rêy"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ez ê wî rehnim"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "rizgariya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:24.280352020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Yahwe ji hemûyan re ba ye, û dilovanî wî li ser hemû karên wî ne.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ba ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji hemûyan re"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "û dilovanî wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:35.141181494Z",
+  "model": "glm-5.3"
+}

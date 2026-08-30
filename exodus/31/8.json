@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "û ⟨את⟩ sofrê û ⟨את⟩ amûrên wî, û ⟨את⟩ çiraya paqij û ⟨את⟩ hemû amûrên wê, û ⟨את⟩ mêzera bûyê;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "sofrê"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "sofre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "amûrên wî"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amûrên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "çiraya paqij"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "çira"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû amûrên wê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "amûrên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mêzera bûyê"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mêzera"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "bûyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:02.196268959Z",
+  "model": "glm-5.3"
+}

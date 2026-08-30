@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û şande çû, hat û ji Dawid re ⟨את⟩ hemû tiştên ku Yoab ew şandibû ragihand.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "û çû"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "şande"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "û ragihand"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji Dawid re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştên ku"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "şandibû"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-08-29T19:52:56.771399040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Bi navê pîrozê wî serbilind bin, dilê yên Yahwe digerin şa dibe.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "serbilind bin"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bi navê"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pîrozê wî"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "şa dibe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "yên … digerin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:03.793972367Z",
+  "model": "glm-5.3"
+}

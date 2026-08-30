@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 97,
+  "translation": "Ezman rastiya wî ragihand, û hemû gel rûmeta wî dîtin.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezman"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "rastiya wî"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "û dîtin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "rûmeta wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:28.049828044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Çimkî ew di zikê xwe de rehetî nas nakir û di hûrsiya xwe de tu tiştî xilas nake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nas dike"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "rehetî"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "di zikê xwe de"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "di hûrsiya xwe de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "xilas dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:56:16.695965050Z",
+  "model": "glm-5.3"
+}

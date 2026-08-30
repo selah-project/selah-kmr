@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Ji ber ku dijmin canê min şopand, jiyanê min li erdê xist û xist, min di tarîtiyan de bi cih kir, wek miriyên demên dirêj derbasbûyî.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "şopand"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dijmin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "li erdê xist û xist"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "li erdê"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "jiyanê min"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "min bi cih kir"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "di tarîtiyan de"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "wek miriyên"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "demên dirêj derbasbûyî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:26.415211120Z",
+  "model": "glm-5.3"
+}

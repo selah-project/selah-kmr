@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Di roja Şabatê de ji hun di hemû rûniştgehên xwe de agir neyê pêxistin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "neyê pêxistin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "rûniştgehên xwe de"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabatê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:40.158108277Z",
+  "model": "glm-5.3"
+}

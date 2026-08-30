@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "û zimanê min ê rastiya te bibe ziman, tevahiya rojê pesna te.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "û zimanê min"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ê … bibe ziman"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "rastiya te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pesna te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:18.746604321Z",
+  "model": "glm-5.3"
+}

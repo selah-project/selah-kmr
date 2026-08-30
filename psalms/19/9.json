@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Fermanên Yahwe rast ⟨in⟩, dil şad dikin; fermana Yahwe paqij ⟨e⟩, çavan ronî dike.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Fermanên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rast"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "şad dikin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "fermana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "ronî dike"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "çavan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:25.659808133Z",
+  "model": "glm-5.3"
+}

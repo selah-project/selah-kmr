@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Şerab dilê mirov şad dike, ji rûnê rû dipesinîne, û nan dilê mirov hêz dide.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "û şerab"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "şad dike"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "dipesinîne"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rû"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ji rûnê"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "û nan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "hêz dide"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:15.118180605Z",
+  "model": "glm-5.3"
+}

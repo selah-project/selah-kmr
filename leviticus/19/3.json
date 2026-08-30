@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Her kes dê xwe û bavê xwe bitirse, û ⟨את⟩ Şemiyên min biparêze — ez im Yahwe, Elohîmê we.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "dê xwe"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "û bavê xwe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bitirse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şemiyên min"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Şemiyên min"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-30T03:31:57.336990538Z",
+  "model": "glm-5.3"
+}

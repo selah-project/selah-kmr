@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ⟨את⟩ deryayê danî li milê rastê, aliyê rojhilat, beramberî başûr.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deryayê"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "li milê"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "rastê"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "aliyê rojhilat"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "beramberî"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "başûr"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:27.938716951Z",
+  "model": "glm-5.3"
+}

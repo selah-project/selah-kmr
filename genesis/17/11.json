@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Hûn ê ⟨את⟩ goştê pêsta xwe sunnet bikin û ⟨ew⟩ dê bibe nîşana peymanekê di nav min û we de.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "hûn ê sunnet bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goştê pêsta we"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "pêsta we"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "û dê bibe"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nîşan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peyman"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di nav min de"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "û di nav we de"
+    }
+  ],
+  "timestamp": "2026-08-29T17:40:20.474237040Z",
+  "model": "glm-5.3"
+}

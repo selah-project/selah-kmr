@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Kenaanî ji rojhilat û ji rojava, û Emorî, û Hetîtî, û Perîzî, û Yebusî li çiyê, û Hewîtî li binê Chermonê, di welatê Mîspahê.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanî"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ji rojhilat"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "û ji rojava"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "û Emorî"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "û Hetîtî"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "û Perîzî"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "û Yebusî"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "li çiyê"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "û Hewîtî"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "li binê"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermonê"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatê"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mîspahê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:18:29.859185789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "Li wê derê ê ez qerna Dawid biçimînim, ji bo Maşîahê min çirayek danîne.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Li wê derê"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "ê ez biçimînim"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "qern"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "danîne"
+    },
+    {
+      "surface": "נר",
+      "gloss": "çirayek"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "ji bo Maşîahê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:44.450615096Z",
+  "model": "glm-5.3"
+}

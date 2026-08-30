@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û êdî ⟨את⟩ Mîtsrayimê di nav netewiyan de belav dikim, û wan di welatan de belav dikim.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "û belav dikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîtsrayimê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di nav netewiyan de"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "û belav dikim wan"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di welatan de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:53:59.509634876Z",
+  "model": "glm-5.3"
+}

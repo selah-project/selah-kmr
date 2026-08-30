@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Şêt piştî zayîna ⟨את⟩ Enoş heft sal û heşt sed sal jî dijiya, û kur û keç zayîn.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dijiya"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Şêt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zayîna wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoş"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoş"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "û heşt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sed"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "zayîn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "û keç"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:49.235284515Z",
+  "model": "glm-5.3"
+}

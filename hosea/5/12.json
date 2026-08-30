@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Êdî ez ê ji bo Efrayim wekî kermê kincan, û ji bo malbata Yehûda wekî kel bim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "êdî ez"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "wekî kermê kincan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ji bo Efrayim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "û wekî kel"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ji bo malbata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:20.538165218Z",
+  "model": "glm-5.3"
+}

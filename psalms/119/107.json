@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez pir zêde hatime êşandin, Yahwe; tu ji bo min dîsa bidesînî, li gorî peyva xwe.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "ez hatime êşandin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir zêde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "tu ji bo min dîsa bidesînî"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "li gorî peyva xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:23.873244189Z",
+  "model": "glm-5.3"
+}

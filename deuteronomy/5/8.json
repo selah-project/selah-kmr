@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Ji bo te nikare çikolek, kîjanî tiştê ku di ezmanan de ji jor e, çêbibe; an kîjanî tiştê ku di erdê de ji jêr e; an kîjanî tiştê ku di avê de ji jêrê erdê e.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nikare çêbibe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "çikolek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kîjanî tiştê"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "kîjanî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ji jor"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "an ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di erdê de"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ji jêr"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "an ku"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avê de"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ji jêrê"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:59:55.812962485Z",
+  "model": "glm-5.3"
+}

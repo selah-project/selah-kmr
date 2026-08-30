@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ew bar kir û hat bajarê, û xezûya wê ⟨את⟩ tiştê ku kom kiribû dît, Û ew derxist û da wê ⟨את⟩ tiştê ku ji têrbbûna xwe zêde mabû.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "û ew bar kir"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajarê"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "û dît"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "xezûya wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku kom kiribû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "kom kiribû"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "û derxist"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "û da"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku ji têrbbûna xwe zêde mabû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "zêde mabû"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "ji têrbbûna xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:05:11.016663857Z",
+  "model": "glm-5.3"
+}

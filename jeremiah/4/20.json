@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Şikestî li ser şikestî tê bangkirin, çimkî hemû erd hatîye wêrankirin; nişkeva çadên min hatine wêrankirin — di çekekê de perdeyên min.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Şikestî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "şikestî"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "tê bangkirin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "hatîye wêrankirin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "nişkeva"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "hatine wêrankirin"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "çadên min"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "di çekekê de"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "perdeyên min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:50:46.005413493Z",
+  "model": "glm-5.3"
+}

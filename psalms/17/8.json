@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Min wekî taviya çavê ℘keça çavê℘ biparêze, di siya baskên te de min veşêre.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "min biparêze"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "wekî taviya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "עין",
+      "gloss": "çavê"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di siya"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baskên te"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "min veşêre"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:19.978504648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û wî ⟨את⟩ van bajaran û ⟨את⟩ hemû deştê û ⟨את⟩ hemû niştecihên bajaran veguhast, û çêja erdê.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "veguhast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van bajaran"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "האל",
+      "gloss": "van"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû deştê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "deştê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû niştecihên bajaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "û çêj"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:41:58.222584321Z",
+  "model": "glm-5.3"
+}

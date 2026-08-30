@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û key Achashveroş li ser erdê û li ser giravên deryayê bac danî.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashveroş"
+    },
+    {
+      "surface": "מס",
+      "gloss": "bac"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ויאי",
+      "gloss": "û giravên"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:13:51.713877659Z",
+  "model": "glm-5.3"
+}

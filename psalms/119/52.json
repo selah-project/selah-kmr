@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ew dadbariyên ji êvaran bîrî min anîn, Yahwe, û min xwe dilşewat kir.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "bîrî min anîn"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dadbariyên te"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ji êvaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "min xwe dilşewat kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:04.105874436Z",
+  "model": "glm-5.3"
+}

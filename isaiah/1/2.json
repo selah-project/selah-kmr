@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Bihîsin, gelî ezmanan, û guh bidê, gelî erdê, çi ku Yahwe axivîye: kurên mezin kirin, bilind kirin, lê ew li dijî min serî hildan.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "bihîsin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "gelî ezmanan"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "û guh bidê"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "gelî erdê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çi ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivîye"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mezin kirin"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "bilind kirin"
+    },
+    {
+      "surface": "והם",
+      "gloss": "lew ew"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "serî hildan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "li dijî min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:24.891604857Z",
+  "model": "glm-5.3"
+}

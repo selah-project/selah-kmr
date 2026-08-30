@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Ji ber ku îdi dijminên te qîrînan bilind dikin, û ên ji hez nakî serê xwe hildaye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ji ber ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "îdi"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dijminên te"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "qîrînan bilind dikin"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "û ên ji hez nakî"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "serê hildaye"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ser"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:17.151280406Z",
+  "model": "glm-5.3"
+}

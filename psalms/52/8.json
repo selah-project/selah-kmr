@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Û sîta bi wî bibînin, xwe bidin hirsan, û li ser wî kenê bikin.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Û bibînin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sîta"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "xwe bidin hirsan"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "kenê bikin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:20.646443119Z",
+  "model": "glm-5.3"
+}

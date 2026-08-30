@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û wî ji zêrê paqij ji hundir û ji der ve bi zêr xemiland, û ji bo wî kembera zêr li dora wî çêkir.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "bi zêr xemiland"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji hundir"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ji der ve"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji bo wî"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kembera"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "li dora wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:19:09.723570338Z",
+  "model": "glm-5.3"
+}

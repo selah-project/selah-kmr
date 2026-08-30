@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Balindeyên ezmanan û masiyên deryayê, ê ku rêyên deryayan derbas dikin.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "balindeyên"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "û masiyên"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas dikin"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "rêyên"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "deryayan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:55.761219143Z",
+  "model": "glm-5.3"
+}

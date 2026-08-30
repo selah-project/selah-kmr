@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Wê çaxê kahîn bibîne, û çawa, ger tsaraat ⟨את⟩ hemû goştê wî dagirtibe, kahîn ⟨את⟩ birîndarî paqij bibîne; hemû veguheriye spî — ew paqij e.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "bibîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û çawa"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "dagirtibe"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû goştê wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê wî"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "paqij bibîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birîndarî"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "birîndarî"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "veguheriye"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "spî"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    }
+  ],
+  "timestamp": "2026-08-29T18:28:20.389819118Z",
+  "model": "glm-5.3"
+}

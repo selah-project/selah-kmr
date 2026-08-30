@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ewî bi rêyekî din çû, û ne ji rêya ku bi wê hatibû Beyt-El vegeriya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "û ewî çû"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "bi rêyekî"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "din"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vegeriya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ji rêya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hatibû"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bi wê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:00.728432266Z",
+  "model": "glm-5.3"
+}

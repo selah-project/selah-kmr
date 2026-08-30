@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Êwî got: «Te tiştekî zehmet xwast. Ger tu min bibînî ku ⟨את⟩ ez ji te tê girtin, wê evî be ji te re; ger na, wê nebe.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "zehmet kir"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ji bo xwestinê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu bibînî"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ez"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tê girtin"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ji te"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "be"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wêha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-29T20:13:45.020984925Z",
+  "model": "glm-5.3"
+}

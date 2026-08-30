@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Wî Deryaya Sûf rexne kir û ⟨ew⟩ ziwa bû, û wan wekî çolê di kûriyan de rê kir.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "rexne kir"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di deryayê de"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sûf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ziwa bû"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "wan rê kir"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "di kûriyan de"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "wekî çolê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:46.710107100Z",
+  "model": "glm-5.3"
+}

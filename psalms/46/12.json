@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Yahwe yên-Tewan bi me re ye; kelha me Elohîmê Yaqûb e. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "yên-Tewan"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bi me re ye"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kelha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqûb"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:57.146595890Z",
+  "model": "glm-5.3"
+}

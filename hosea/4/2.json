@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Çûn-sekkirin û derewan, kuştin û dizî û zînakirî — derbasî sînor bûne, û xwîn bi xwînê rû dide.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Çûn-sekkirin"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "û derewan"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "û kuştin"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "û dizî"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "û zînakirî"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "derbasî sînor bûne"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "û xwîn"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "bi xwînê"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "rû dide"
+    }
+  ],
+  "timestamp": "2026-08-30T04:04:16.061686979Z",
+  "model": "glm-5.3"
+}

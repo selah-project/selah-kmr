@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Sarah înkar kir, got: \"Ez nekenîm\" — ji ber ku ditirsiya. Û ⟨ew⟩ got: \"Na, lê te kenî.\"",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "û înkar kir"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "ez nekenîm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ditirsiya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û ⟨ew⟩ got"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "te kenî"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:48.492497383Z",
+  "model": "glm-5.3"
+}

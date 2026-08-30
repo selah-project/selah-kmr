@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Rûyê Yahwe li dijî ên ku xerabiyê dikin e, ji bo ku ji erdê bîra wan biqedîne.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ên ku dikin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xerabiyê"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ji bo ku biqedîne"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erdê"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "bîra wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:50.137463086Z",
+  "model": "glm-5.3"
+}

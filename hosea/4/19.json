@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ba wê di baskên ⟨את⟩ ⟨אותה⟩ xwe de girtiye, û ew ê ji qurbanên xwe bi şerm ketin.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "girtiye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ⟨אותה⟩",
+      "marks": "di baskên xwe de"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "di baskên xwe de"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "bi şerm ketin"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ji qurbanên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T04:03:14.379625260Z",
+  "model": "glm-5.3"
+}

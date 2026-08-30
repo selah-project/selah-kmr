@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ger mêr tekoşîn bikin û yekî ⟨את⟩ hevalê xwe bi kevirî an bi mûçeyê berivê, ew bimire, lê bikeve nivînanê —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "tekoşîn bikin"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "û yekî… berivê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yekî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê xwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "bi kevirî"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "bi mûçeyê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ew… na"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bimire"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "lê bikeve"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "nivînanê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:11.956579305Z",
+  "model": "glm-5.3"
+}

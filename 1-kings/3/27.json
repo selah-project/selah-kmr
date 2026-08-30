@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û şah bersiv da û got: «Bidin wê zaroyê zindî, û nehêlin ku ew bimirin — ew dayika wî ye.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaroyê zindî"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "zaroyê"
+    },
+    {
+      "surface": "החי",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "û bimirin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nehêlin"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "ku ew bimirin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "dayika wî ye"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:06.337330073Z",
+  "model": "glm-5.3"
+}

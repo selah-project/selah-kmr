@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Êz ê bi hêrs û bi acizî tomtî li ser ⟨את⟩ gelan bikim, ên ku guh neda ne.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Êz ê… bikim"
+    },
+    {
+      "surface": "באף",
+      "gloss": "bi hêrs"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "û bi acizî"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "tomtî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "guh neda ne"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:21.395550191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Ev feqîr qêrî, û Yahwe bihîst, û ji hemû tengasiyên wî wî rizgar kir.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "עני",
+      "gloss": "feqîr"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qêrî"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "û Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bihîst"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "û ji hemû"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "tengasiyên wî"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "wî rizgar kir"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:22.113759899Z",
+  "model": "glm-5.3"
+}

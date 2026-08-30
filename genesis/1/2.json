@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Erd bû vala û betal, û tarîtî li ser rûyê tihê bû, û ruhê Elohîm li ser rûyê avê difirî û dihêliya.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Erd"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "vala"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "û betal"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "û tarîtî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tihê"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "û ruhê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "difirî û dihêliya"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:59.992137867Z",
+  "model": "glm-5.3"
+}

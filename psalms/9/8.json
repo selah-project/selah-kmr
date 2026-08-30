@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û Yahwe heta hertimî rûniştî ⟨ye⟩; textê xwe ji bo dîwanê rûniştandiye.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Û Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rûniştî"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "rûniştandiye"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ji bo dîwanê"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "textê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:56.374598528Z",
+  "model": "glm-5.3"
+}

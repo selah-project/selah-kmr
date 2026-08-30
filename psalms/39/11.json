@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Lêdana xwe ji ser min rake; ji tundiya destê Te ez têma.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "rake"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ji ser min"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "lêdana Te"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "ji tundiya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê Te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "têma"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:35.412499527Z",
+  "model": "glm-5.3"
+}

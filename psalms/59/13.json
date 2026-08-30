@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 59,
+  "translation": "Ji ber gunehê devê wan û peyva lêvên wan bila di serberiya xwe de werin girtin; û ji nifirê û ji derewan diaxivin.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "gunehê"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "devê wan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lêvên wan"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "bila werin girtin"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "di serberiya xwe de"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "û ji nifirê"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "û ji derewan"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "diaxivin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:31.829873370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û nebin wekî bavên xwe — nifşekî serhildêr û serokeder; nifşekî ku dilê xwe rast nekir, û ruhê wî bi Êl re dilsoz nebû ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nebin"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "wekî bavên xwe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nifşekî"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "serhildêr"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "û serokeder"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nifşekî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "rast nekir"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "dilsoz nebû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Êl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruhê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:39.821349115Z",
+  "model": "glm-5.3"
+}

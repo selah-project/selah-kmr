@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Wî hêrsê, hêrsa Îbrahî ya poz bi şer ve û hêza şer li ser wî rijand; ew li dora wî pelişt da û wî nas kir — ew di wî de şewitand û wî ne danî ser dil.",
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "rijand"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "hêrs"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hêrsa poz"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "û hêz"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "û pelişt da"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dora wî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zanî"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "û şewitî"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di wî de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "danî"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:13.173163472Z",
+  "model": "glm-5.3"
+}

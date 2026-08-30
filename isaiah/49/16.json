@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 49,
+  "translation": "Va, li ser kêlêfên destan min nîşanî te kir; çolên te hertim berî çavên min in.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Va"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "kêlêfên destan"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "min nîşanî te kir"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "çolên te"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "berî çavên min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hertim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:42.016527052Z",
+  "model": "glm-5.3"
+}

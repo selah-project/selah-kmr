@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Û kahîn ferman dike ku ⟨את⟩ çûka yekê li ser kelîyekî ji axê, li ser avên zindî, serjê bike.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ferman dike"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "serjê bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çûka yekê"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "çûk"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ya yekê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kelî"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ji axê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zindî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:29:19.175168613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Piştî wê re kûrên Moab û kûrên Emon û bi wan re ji Meûniyan [hin kes] hatin ser Yehoşafat bo şerkirinê.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kûrên"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kûrên"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Emon"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "û bi wan re"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "ji Meûniyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "bo şerkirinê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:49:25.784392140Z",
+  "model": "glm-5.3"
+}

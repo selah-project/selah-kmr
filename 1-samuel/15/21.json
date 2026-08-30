@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 15:21",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û gel ji şertan pez û ga hildan — yê herî serê ji tiştên herêmî — ji bo ku li Gilgal ji bo Yahwe, Elohîmê te, qurbanî bikin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "מהשלל",
+      "gloss": "ji şertan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pez"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "û ga"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "yê herî serê"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tiştên herêmî"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ji bo qurbanîkirinê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "li Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-29T19:40:05.584691918Z",
+  "model": "glm-5.3"
+}

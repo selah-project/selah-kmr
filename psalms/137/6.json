@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 137,
+  "translation": "Zimanê min li dêwê devê min bizeliqe, eger ez te nenîşan bidim, eger ez ⟨את⟩ Yeruşalayimê li ser serê şahîya xwe bilind nekim.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "bizeliqe"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "zimanê min"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "li dêwê devê min"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ez te nenîşan bidim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "bilind nekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayimê"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "şahîya xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:45.361195723Z",
+  "model": "glm-5.3"
+}

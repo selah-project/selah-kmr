@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 80,
+  "translation": "Yahwe, Elohîmê leşkeran, vegerîne me; rûyê xwe ronî bike, û em ê xilas bibin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "leşkeran"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "vergerîne me"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ronî bike"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "em ê xilas bibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.316452848Z",
+  "model": "glm-5.3"
+}

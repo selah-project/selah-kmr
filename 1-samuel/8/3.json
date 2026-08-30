@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Kurên wî di rêyên wî de ne çûn, lê xwe berdan pey qezencê fileh, xwariyan hildan û darizê xwarî dan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "di rêyên wî de"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "xwe berdan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pey"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "qezencê fileh"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hildan"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "xwariyan"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "dan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "darizê xwarî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:35.604927472Z",
+  "model": "glm-5.3"
+}

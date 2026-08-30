@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "hûn bibînin çêtirîn û rasttirîn ji kurên begê xwe, û hûn wî li ser textê bavê wî rûnişînin, û hûn ji bo malbata begê xwe şer bikin.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "hûn bibînin"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "çêtirîn"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "û rasttirîn"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ji kurên"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "begê we"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "hûn ... bi cih bikin"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "textê"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "û hûn şer bikin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "begê we"
+    }
+  ],
+  "timestamp": "2026-08-29T20:18:36.019226636Z",
+  "model": "glm-5.3"
+}

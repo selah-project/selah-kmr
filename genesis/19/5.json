@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û gazî Lot kirin û ji wî re gotin: „Mêrên ku vê şevê hatine bal te, li ku ne? Wan derîne bala me, da ku em ⟨את⟩ wan bizanibin.“",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Û gazî … kirin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber … ve"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "û … gotin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "איה",
+      "gloss": "li ku ne?"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hatine"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bal te"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "vê şevê"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "Wan derîne"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bala me"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "da ku em … bizanibin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    }
+  ],
+  "timestamp": "2026-08-29T17:41:37.797331277Z",
+  "model": "glm-5.3"
+}

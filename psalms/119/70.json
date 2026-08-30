@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Dilê wan wek çiriyan stûr bûye ⟨⟩; ez di Tora te de dilşad im.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "stûr bûye"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "wek çiriyan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "di Tora te de"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "dilşad im"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:39.098723322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û li ser masa rûyî dê bergidek şîn belav bikin û li ser wê ⟨את⟩ tasan û ⟨את⟩ kefçiyan û ⟨את⟩ qedehan û ⟨את⟩ kûzeyên rêdanê deynin, û nanê domdar li ser wê dê hebe.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "rûyî"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "belav bikin"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bergidek"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "şîn"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "deynin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tasan"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "tasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kefçiyan"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "kefçiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "qedehan"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "qedehan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "kûzeyên"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "kûzeyên"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "rêdanê"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "û nanê"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "domdar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dê hebe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:39:30.082785076Z",
+  "model": "glm-5.3"
+}

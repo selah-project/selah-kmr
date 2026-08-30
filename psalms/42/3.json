@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Nefsa min ji bo Elohîm tîh ketiye, ji bo Êlê zinde — kengê ezê were û rûyê Elohîm bibînim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "tîh ketiye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsa min"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji bo Elohîm"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ji bo Êl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zinde"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kengê"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ezê were"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "û bibînim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:25.564667934Z",
+  "model": "glm-5.3"
+}

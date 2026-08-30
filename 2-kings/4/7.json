@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û hat û ji bo mêrê Elohîm ragihand; û wî got: “Here, rûnê ⟨את⟩ bifroşe, û deynên xwe ⟨את⟩ bide, û tu û kurên xwe ji yên mayî bijîn.”",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "û ragihand"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ji bo mêrê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Here"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "bifroşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûnê"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "rûnê"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "û deynan bide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deynên te"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "deynên te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "kurên te"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "bijî"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "ji yên mayî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:17:05.437154008Z",
+  "model": "glm-5.3"
+}

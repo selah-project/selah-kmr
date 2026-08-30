@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Moşe ji cem Parho derket, ji ⟨את⟩ bajaran, û destên xwe ber bi Yahwe ve belav kir; û deng û tofa felahî rawestiyan û baran nehate rijandin ser erdê.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "derket"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ji cem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ji bajaran"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "belav kir"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi ... ve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "û rawestiyan"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "deng"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "û tofa felahî"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "û baran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "hate rijandin"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ser erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:29.817958816Z",
+  "model": "glm-5.3"
+}

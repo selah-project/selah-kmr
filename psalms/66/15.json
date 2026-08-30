@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Ezê ji te re şewatên çêjdar bilind bikim, ligel bûhûna bizinan; ezê ga ligel nêrên bizinan çêkim. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "şewatan"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "çêjdar"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ezê bilind bikim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "bûhûna"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "bizinan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ezê çêkim"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "nêrên bizinan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:28.706445011Z",
+  "model": "glm-5.3"
+}

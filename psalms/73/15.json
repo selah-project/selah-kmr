@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Ger min gotiba ku ez wusa bibêjim, mêze bike, min li nifşê zarokên te xîyanet kiriba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min gotiba"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ez bibêjim"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wusa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mêze bike"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nifşê"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "zarokên te"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "min xîyanet kiriba"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:08.981945935Z",
+  "model": "glm-5.3"
+}

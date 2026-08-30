@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 48:20",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Hemû pêşkeş pênc û bîst hezar bi pênc û bîst hezar ⟨e⟩; çar alî wekhev hilda ⟨את⟩ pêşkeşa pîroz ligel milkê bajêr.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hemû"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "pêşkeş"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pênc"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "û bîst"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "bi pênc"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "û bîst"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "çar alî wekhev"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêşkeşa pîroz"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "pêşkeşa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pîroz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "milkê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    }
+  ],
+  "timestamp": "2026-08-30T04:02:03.162786013Z",
+  "model": "glm-5.3"
+}

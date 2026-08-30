@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û wê demê em ⟨את⟩ erd ji destê her du keyên Emoriyan, ku li aliyê wê yê Yerdenê bûn, girt — ji newala Arnonê heta çiyayê Hermonê.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "û em girt"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erd"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "שני",
+      "gloss": "her du"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "keyên"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "li aliyê wê yê"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yerdenê"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "ji newala"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnonê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermonê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:08.114130443Z",
+  "model": "glm-5.3"
+}

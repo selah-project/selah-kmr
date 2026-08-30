@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Wey li çêwanên ku ⟨את⟩ pezê çêwiniya xwe winda dikin û belav dikin — daxuyaniya Yahwe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wey"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "li çêwanên"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "winda dikin"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "û belav dikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pez"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pezê"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "çêwiniya min"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "daxuyaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:57:41.229587423Z",
+  "model": "glm-5.3"
+}

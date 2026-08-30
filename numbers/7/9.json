@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Û ji kurên Qehat re tu tiştî neda, ji ber ku xizmeta tiştên pîroz li ser wan bû — bi milan dixebin (hilgirtin).",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Û ji kurên"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xizmeta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tiştên pîroz"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "bi milan"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hilgirtin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:41:33.193488176Z",
+  "model": "glm-5.3"
+}

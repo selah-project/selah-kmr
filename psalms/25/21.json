@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Paqijî û rastî biparêzin min, çimku ez li benda te me.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "paqijî"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "û rastî"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "biparêzin min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimku"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ez li benda te me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:30.458508665Z",
+  "model": "glm-5.3"
+}

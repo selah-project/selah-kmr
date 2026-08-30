@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Ji ber gunehên Yarovam ku ew kirî û ku ew Yisraêlê kir gunehkar, bi hêrsê xwe ya ku ew Yahwe, Elohîmê Yisraêl, hêrsand.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ji ber"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "gunehên"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kirî"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ku"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "kir gunehkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "bi hêrsê xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "hêrsand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:28.788603407Z",
+  "model": "glm-5.3"
+}

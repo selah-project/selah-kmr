@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Ji bilî ji bo xizmêta wî ya nêzîk — ji bo diya wî û ji bo bavê wî, ji bo kurê wî û ji bo keça wî û ji bo birayê wî —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "ji bo xizmêta wî"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ya nêzîk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "ji bo diya wî"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "û ji bo bavê wî"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "û ji bo kurê wî"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "û ji bo keça wî"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "û ji bo birayê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:06.376136818Z",
+  "model": "glm-5.3"
+}

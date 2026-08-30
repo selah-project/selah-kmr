@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 53,
+  "translation": "Ma kiryarên neqenciyê nizanin? — ên ku gelê min dixwin, wekî ku nan dixwin — Elohîm gazî nakin.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nizanin"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kiryarên"
+    },
+    {
+      "surface": "און",
+      "gloss": "neqenciyê"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ên ku dixwin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "dixwin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "gazî nakin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:06.098841347Z",
+  "model": "glm-5.3"
+}

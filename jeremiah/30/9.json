@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Ew ê ⟨את⟩ Yahwe, Elohîmê xwe, û ⟨את⟩ Dawid, keyê xwe, yê ku ez ê ji bo wan rabînim, xizmetî bikin.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ew ê xizmetî bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "keyê xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê ku"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ez ê rabînim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji bo wan"
+    }
+  ],
+  "timestamp": "2026-08-29T21:01:47.840151451Z",
+  "model": "glm-5.3"
+}

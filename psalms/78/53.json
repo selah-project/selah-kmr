@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Wan bi ewlehî rêbir û ditirsin, û deryayê ⟨את⟩ dijminên wan nixemitand.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "rêbir wan"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bi ewlehî"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û û"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ditirsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dijminên wan"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dijminên wan"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nixemitand"
+    },
+    {
+      "surface": "הים",
+      "gloss": "deryayê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:32.645736461Z",
+  "model": "glm-5.3"
+}

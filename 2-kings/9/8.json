@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "û hemû malbata Ahab dê winda bibe, û ez dê ji Ahab re her yê ku di dîwar re mîz dike bibirînim — girtî û ê padîdabûyî, di Yisraêlê de.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "dê winda bibe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malbata"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "û ez dê bibirînim"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ji Ahab re"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "yê ku mîz dike"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "di dîwar re"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "girtî"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ê padîdabûyî"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisraêlê de"
+    }
+  ],
+  "timestamp": "2026-08-29T20:19:08.355368730Z",
+  "model": "glm-5.3"
+}

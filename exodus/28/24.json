@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Û tu ê ⟨את⟩ du qalikên zêrê li ser du mohran, berbi dawiyên pêşiyê, bidî.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "bidî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du qalikên zêrê"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "qalikên"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zêrê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mohran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berbi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dawiyên"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pêşiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:43.316414129Z",
+  "model": "glm-5.3"
+}

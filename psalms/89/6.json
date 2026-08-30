@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Û ezmanên rehma te ya Yahwe yê rû bi rûn dikin, û ewlehî û dilsoziya te di civata pîrozan re.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "û yê rû bi rûn dikin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanên"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "rehma te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "û"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ewlehî û dilsoziya te"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "di civata"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pîrozan re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:28:17.726394003Z",
+  "model": "glm-5.3"
+}

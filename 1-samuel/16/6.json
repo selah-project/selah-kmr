@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û dema ew hatin, ew ⟨את⟩ Elîav dît û got: Bi rastî, berî Yahwe Maşîahê wî ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û dema"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ew hatin"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ew dît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elîav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elîav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Maşîahê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:30.103261138Z",
+  "model": "glm-5.3"
+}

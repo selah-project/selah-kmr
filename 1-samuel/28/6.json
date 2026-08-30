@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Şaul ji Yahwe pirsî, lê Yahwe bersîvê neda wî — ne di xewnanda, ne bi Ûrîm, ne jî bi pêxemberan.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "pirsî"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ji Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê…ne"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "bersîvê neda wî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "di xewnanda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "bi Ûrîm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne jî"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "bi pêxemberan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:46:14.414423514Z",
+  "model": "glm-5.3"
+}

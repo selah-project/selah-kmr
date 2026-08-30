@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Ew nas nakin û fam nakin, ji ber ku çavên wan hatine xişandin ku ranebînin, û dilên wan ji famkirinê hatine girtin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nas nakin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "fam nakin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "טח",
+      "gloss": "hatine xişandin"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ji dîtinê (çavên)"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "ji famkirinê"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "dilên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:43.761663879Z",
+  "model": "glm-5.3"
+}

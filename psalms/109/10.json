@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Bila kurên wî bêrawestan bidgerin û xwestkarî bikin, û ji wêranên xwe nanê xwe bigerin.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "û bila bidgerin"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "bidgerin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "û xwestkarî bikin"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "û bigerin"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "ji wêranên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:02.234084711Z",
+  "model": "glm-5.3"
+}

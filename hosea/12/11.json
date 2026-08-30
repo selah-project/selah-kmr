@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 12:11",
+  "book": "hosea",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Ez bi pêxemberan peyivîm û dîdan pirr kirin, û ez bi destê pêxemberan mînan datînim.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "ez peyivîm"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "dîdan"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "pirr kirin"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pêxemberan"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "mînan datînim"
+    }
+  ],
+  "timestamp": "2026-08-30T04:05:21.257374154Z",
+  "model": "glm-5.3"
+}

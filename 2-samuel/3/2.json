@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ji bo Dawid li Hevronê kur çêbûn; û yê ewil ê wî Amnon bû, ji Ajînoam a Yizreelîtî.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "çêbûn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ji bo Dawid"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kur"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "li Hevronê"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "yê ewil ê wî"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "ji Ajînoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "a Yizreelîtî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:49:14.820697877Z",
+  "model": "glm-5.3"
+}

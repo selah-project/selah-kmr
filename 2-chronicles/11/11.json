@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û wî xurt kir ⟨את⟩ ⟨→⟩ birçûnan, û danî ser wan serokeşkêran û embarek xwarinan, rûnê zeytê û şerabê",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Û wî xurt kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birçûn"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "birçûn"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û danî"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ser wan"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "serokeşkêr"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "û embark"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "rûnê zeytê"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "şerab"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:58.210407863Z",
+  "model": "glm-5.3"
+}

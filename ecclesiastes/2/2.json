@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji kenê re min got: dîn e; û ji kêfê re min got: ev çi dike?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ji kenê re"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min got"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "dîn e"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "û ji kêfê re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:43.794208534Z",
+  "model": "glm-5.3"
+}

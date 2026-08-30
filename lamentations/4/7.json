@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Nazîrîyên wê ji berfê zêdetir paqij bûn, ji şîrê zêdetir spî û ron bûn; hestiyên wan ji murwariyan bêhtir sor bûn, şiklê wan wek safîr bû.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "paqij bûn"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "Nazîrîyên wê"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "ji berfê"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "spî û ron bûn"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ji şîr"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "sor bûn"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "hestiyên wan"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ji murwariyan"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "safîr"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "şiklê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:07:59.068337775Z",
+  "model": "glm-5.3"
+}

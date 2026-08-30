@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Dilê wan bi wî re rast nebû û di peymana wî de nepêbawer nebin.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "dilê wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "rast nebû"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "nepêbawer nebin"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "di peymana wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:21.886878113Z",
+  "model": "glm-5.3"
+}

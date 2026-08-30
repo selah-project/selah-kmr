@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Wekî qorbanekî berhemên-pêşîn hûn ⟨את⟩ wan ji bo Yahwe datînin, lê ew ji bo bêhneke xweş li ser qurbangehê nabalin.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "qorban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "berhemên-pêşîn"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "hûn datînin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangeh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "nabalin"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ji bo bêhn"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xweş"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:38.540349832Z",
+  "model": "glm-5.3"
+}

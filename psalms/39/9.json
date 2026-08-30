@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Ji hemû sûcên min rizgar bike min; min çêneke wekî serişkeya nedyar.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "sûcên min"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "rizgar bike min"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "serişke"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nedyar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "çêneke min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:35.412090642Z",
+  "model": "glm-5.3"
+}

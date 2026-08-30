@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Dema ku gel bi hev kom dibin, û keyanî, ji bo ku ⟨את⟩ Yahwe bi xizmet bikin.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "dema ku ... kom dibin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gel"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "û keyanî"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ji bo ku bi xizmet bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:43.504315930Z",
+  "model": "glm-5.3"
+}

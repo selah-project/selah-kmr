@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û ew kurekî zayî, û ew ⟨את⟩ navê wî Gerşom lê kir, ji ber ku wî got: “Ez di welatê ⟨the⟩ biyaniyan de biyanî bûm.”",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nav lê kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê wî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerşom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "גר",
+      "gloss": "biyanî"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ez bûm"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di welatî de"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "biyanî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:38.091334147Z",
+  "model": "glm-5.3"
+}

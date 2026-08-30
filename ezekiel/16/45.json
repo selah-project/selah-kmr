@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Tu ⟨את⟩ keça diya te yî, ya ku mêrê xwe û zarokên xwe dîstand; û tu ⟨את⟩ xûşka xûşkên te yî, ên ku mêrên xwe û zarokên xwe dîstandin: diya we Hîtî bû û bavê we Emorî.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "keça"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "diya te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya ku mêrê xwe û zarokên xwe dîstand"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "dîstand"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mêrê xwe"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "û zarokên xwe"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "û xûşka"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "xûşkên te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ê",
+      "אנשיהן": null
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "dîstandin"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "mêrên xwe"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "û zarokên xwe"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "diya we"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hîtî"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "û bavê we"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Emorî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:49:14.163872674Z",
+  "model": "glm-5.3"
+}

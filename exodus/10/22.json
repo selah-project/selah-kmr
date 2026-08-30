@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Moşe destê xwe ⟨את⟩ ber bi ezmanan ve dirêj kir, û li ser hemû welatê Mîtsrayimê sê rojan tarîtiya tarît çêbû.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "dirêj kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ber bi… ve"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "çêbû"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tarîtî"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "tarît"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "li ser hemû"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:23.760965859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Şemuel gazî Yahwe kir, û Yahwe di wê rojê de deng û baranê da; û tevayî gel pir bi tirs ⟨את⟩ Yahwe û ⟨את⟩ Şemuel êsirand.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "û gazî kir"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(li bal)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "û da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "deng"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "û baran"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di roja"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê de"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "û êsirand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevayî"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir bi tirs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Şemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    }
+  ],
+  "timestamp": "2026-08-29T19:38:50.949463356Z",
+  "model": "glm-5.3"
+}

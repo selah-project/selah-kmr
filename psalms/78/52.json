@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û wî gelê xwe wekî mêhan derxist û wekî keriyekî li çolê rêya wan bir.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Û wî ... derxist"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "wekî mêhan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "û rêya wan bir"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "wekî keriyekî"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "li çolê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:47.093412154Z",
+  "model": "glm-5.3"
+}

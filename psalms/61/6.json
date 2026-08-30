@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 61,
+  "translation": "Ji ber ku tu, Elohîm, sozên min bihîstî; tu mîrata yên ku navê te ditirsin dayî ⟨min re⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "bihîstî"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "sozên min"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "dayî"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "mîrata"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "yên ku ditirsin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:07.284258407Z",
+  "model": "glm-5.3"
+}

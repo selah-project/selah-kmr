@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ⟨⟨qurbangeh⟩⟩ hate qutkirin û kulav ji qurbangehê rişt, li gorî nîşanê ku mêrê Elohîm bi peyva Yahwe dabû.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "Û qurbangeh"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "hate qutkirin"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "û rişt"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kulav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangehê"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "li gorî nîşanê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dabû"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bi peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:08:21.720693614Z",
+  "model": "glm-5.3"
+}

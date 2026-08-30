@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Baya Rojhilatê di ezmanan de rêya ger kir, û bi hêza xwe baya Başûrê hanî.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "rêya ger kir"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "Baya Rojhilatê"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di ezmanan de"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "hanî"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "bi hêza xwe"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "baya Başûrê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:22.563524186Z",
+  "model": "glm-5.3"
+}

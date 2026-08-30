@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ew ⟨את⟩ perdeya derî ji bo çadirê danî.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeya derî"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perde"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "derî"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ji bo çadirê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:50.224005248Z",
+  "model": "glm-5.3"
+}

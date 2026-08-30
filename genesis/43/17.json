@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Mêr wekî Yosef gotî kir, û mêr mêrên ⟨את⟩ malê Yosef anî.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kir"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gotî"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "anî"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mêrên"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "malê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-29T17:57:38.343949727Z",
+  "model": "glm-5.3"
+}

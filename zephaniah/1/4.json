@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Êdî destê xwe dirêjîm ser Yahuda û ser hemû niştecihên Yeruşalayimê, û ji vê cihî ⟨את⟩ mayînda Baal û ⟨את⟩ navê kumaran ligel kahînan qut bikim.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "û ez ê dirêjîm"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û ser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "û ez ê qut bikim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "cihî"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayînda Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mayînda"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê kumaran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "kumaran"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ligel"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahînan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:05:17.741991269Z",
+  "model": "glm-5.3"
+}

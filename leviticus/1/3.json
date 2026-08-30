@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ger qurbanîya wî qurbana şewatê be ji ga, nêrîkî bêkêmasî, wî ⟨את⟩ bîne; wî li ber deriyê çadirê civînê bîne, ji bo qebûlkirinê li ber Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbanîya wî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nêrîkî"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bêkêmasî"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "wî bîne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "bîne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wî (nêrîkî)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "ji bo qebûlkirinê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:03.110679372Z",
+  "model": "glm-5.3"
+}

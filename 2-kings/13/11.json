@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Wî tiştê şermezar di çavên Yahwe de kir; ji hemû gunehên Yarovam kurê Nevat — ê ku ⟨את⟩ Yisrael kir gunehkar — ne zûva bû, di wan de meşiya.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "kir"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "tiştê şermezar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di çavên… de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "zûva bû"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ji hemû"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "gunehên"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "kir gunehkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di wan de"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "meşiya"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:40.152155643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Û ⟨את⟩ pêrdên Yehûdayê rakir, û te di wê rojê de li çekên Mala Daristanê nihêrî.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "rakir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pêrdên Yehûdayê"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pêde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "nihêrî"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di rojê de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "çekên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Mala"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Daristanê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:33:39.215229200Z",
+  "model": "glm-5.3"
+}

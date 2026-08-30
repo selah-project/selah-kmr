@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Wêha keyê Ashûrê ⟨את⟩ dîlîtiya Mîtsrayimê û ⟨את⟩ sirgûniya Kûşê dibe — ciwan û kal, tazî û bêpêlav, bi rûniştinê vekirî — şermiya Mîtsrayimê.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "wêha"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashûr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîlîtiya Mîtsrayimê"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "dîlîtî"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sirgûniya Kûşê"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "sirgûnî"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kûş"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ciwan"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "û kal"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "tazî"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "û bêpêlav"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "û vekirî"
+    },
+    {
+      "surface": "שת",
+      "gloss": "bi rûniştinê"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "şermî"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:01.279107600Z",
+  "model": "glm-5.3"
+}

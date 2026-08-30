@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 75,
+  "translation": "Ez got: Ji êrîşkaran re—erîş nekin! û ji bedkaran re—qernê bilind nekin!",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ez got"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "ji êrîşkaran re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "erîş nekin"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "û ji bedkaran re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "bilind nekin"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "qern"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:37.696801911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 36:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 36,
+  "translation": "Ez gotim: Tenê peyva lêvan e! Şîret û hêz ji bo şer in. Êdî li kê bawer kirî, ku te li diwî min serî hilda?",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ez gotim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyv"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lêvan"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "şîret"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "û hêz"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ji bo şer"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kê"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "bawer kirî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "serî hilda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "li diwî min"
+    }
+  ],
+  "timestamp": "2026-08-30T03:38:54.793631504Z",
+  "model": "glm-5.3"
+}

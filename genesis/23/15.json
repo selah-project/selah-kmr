@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "“Adonayê min, guhê min bigire: erd ⟨is⟩ çar sed şeqel zêr — ev çi ye di navbera min û te de? Û ⟨את⟩ miriyê xwe veşêre.”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "guhê min bigire"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "çar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sed"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şeqel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di navbera min"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "û te"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ye⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miriyê te"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "miriyê te"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "veşêre"
+    }
+  ],
+  "timestamp": "2026-08-29T17:44:10.483591530Z",
+  "model": "glm-5.3"
+}

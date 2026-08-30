@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û xwîna bêguneh rijandin — xwîna kurên xwe û keçên xwe — ku ew wan ji bo pûtên Kenêan qurban kirin, û erd bi xwînê xerp bû.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "rijandin"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "bêguneh"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwîn"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "kurên xwe"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "û keçên xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "qurban kirin"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "ji bo pûtên"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenêan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "xerp bû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "bi xwînê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:37.707048696Z",
+  "model": "glm-5.3"
+}

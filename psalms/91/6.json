@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 91,
+  "translation": "Ji nexweşiya ku di tarîtiyê de digere, ji wêrankerê ku di nîvro de tê.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ji nexweşiya"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "di tarîtiyê de"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "digere"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ji wêrankerê"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "tê"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "di nîvro de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:32.575507084Z",
+  "model": "glm-5.3"
+}

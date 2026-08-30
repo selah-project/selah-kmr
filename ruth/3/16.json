@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ew hat ba dêsa xwe, û ⟨ew⟩ got: Tu kî yî, keçika min? Û ⟨ew⟩ ji wê re ⟨את⟩ hemû tiştên ku mêr ji wê re kiribû vegot.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "û hat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "dêsa xwe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "keçika min"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "û vegot"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû tiştên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kiribû"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji wê re"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mêr"
+    }
+  ],
+  "timestamp": "2026-08-30T06:06:24.610527772Z",
+  "model": "glm-5.3"
+}

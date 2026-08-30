@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Moşe û Aharon ⟨את⟩ van mêran hildan — ên ku bi navan hatibûn destnîşankirin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Û … hildan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "û Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van mêran"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "van mêran"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên ku"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "hatibûn destnîşankirin"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "bi navan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:37:54.180803412Z",
+  "model": "glm-5.3"
+}

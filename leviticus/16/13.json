@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û ew ⟨את⟩ qetorê li ser agir berî Yahwe dide, û ewrê qetorê ⟨את⟩ Kaporetê ku li ser ⟨את⟩ Şahadetê ye dipoşe, û ew namire.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qetorê"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "qetorê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "dipoşe"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ewr"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "qetorê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaporetê"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporetê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Şahadetê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dimire"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:56.260600604Z",
+  "model": "glm-5.3"
+}

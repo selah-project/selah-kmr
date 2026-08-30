@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Û Yahwe wan dihêle alîkarî û wan rizgar dike, wan ji wên bed rizgar dike û xilas dike, çûnkî ew penah di wî de girtine.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "û wan dihêle alîkarî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "û wan rizgar dike"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "rizgar dike"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ji wên bed"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "û xilas dike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "penah girtine"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:25.129918664Z",
+  "model": "glm-5.3"
+}

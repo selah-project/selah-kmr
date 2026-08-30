@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ji Huşim ⟨את⟩ Avituv û ⟨את⟩ Elpaal bi cih kir.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "û ji Huşim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bi cih kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-08-30T06:33:29.104232827Z",
+  "model": "glm-5.3"
+}

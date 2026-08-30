@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Çimkî heseda te heta ezmanan mezin e, û rastiya te heta ewran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mezin e"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heseda te"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ewran"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "rastiya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:11.862008382Z",
+  "model": "glm-5.3"
+}

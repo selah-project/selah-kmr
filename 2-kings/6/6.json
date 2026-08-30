@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û mêrê Elohîm got: «Li ku ⟨derbû⟩?» Û ⟨wî⟩ ⟨את⟩ cih nîşanî wî da; ew darî qut kir û avêt wê derê, û hesin ⟨li ser avê⟩ rûnişt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "li ku"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "derbû"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "nîşanî wî da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cih"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "cih"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "qut kir"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "darî"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "avêt"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wê derê"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "li ser avê rûnişt"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "hesin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:16:29.415607461Z",
+  "model": "glm-5.3"
+}

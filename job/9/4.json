@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Ew ji dilê xwe jîr û di hêzê de zor e; kî li ber wî serî hilda û selametiyê dibînit?",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "jîr"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ji dilê xwe"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "û zor e"
+    },
+    {
+      "surface": "כח",
+      "gloss": "di hêzê de"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "serî hilda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "li ber wî"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "û selametiyê dibînit"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:30.313494991Z",
+  "model": "glm-5.3"
+}

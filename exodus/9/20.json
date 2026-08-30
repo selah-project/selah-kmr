@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Yê ku ⟨את⟩ peyva Yahwe ditirsiya, ji xulamên Paro, ⟨את⟩ xulamên xwe û ⟨את⟩ dewarên xwe ber bi xaniyan revand.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "yê ku ditirsiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyva Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ji xulamên"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "revand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên xwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "dewarên xwe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dewarên xwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "xaniyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:18.707852897Z",
+  "model": "glm-5.3"
+}

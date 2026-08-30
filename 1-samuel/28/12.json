@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Jin ⟨את⟩ Şemuêl dît, û bi dengê mezin qêrî; jin ji Şaûl re got: \"Çima tu xapandinî min? Êdî tu — Şaûl — yî.\"",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şemuêl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuêl"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "qêrî"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bi dengê"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "xapandinî min"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "û tu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaûl"
+    }
+  ],
+  "timestamp": "2026-08-29T19:47:42.782066390Z",
+  "model": "glm-5.3"
+}

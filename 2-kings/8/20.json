@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Di rojên wî de Edom serî hilda ji bin destê Yehûda, û ew danin keyekî li ser xwe.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "di rojên wî de"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "serî hilda"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ji bin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "û ew danin keyekî"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li ser xwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyekî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:35:06.686107714Z",
+  "model": "glm-5.3"
+}

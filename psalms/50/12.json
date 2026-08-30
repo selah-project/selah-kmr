@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Ger ez birçî bim, ji te re nabêjim; çinko cîhan ê min e û tijebûna wê.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ger"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "birçî bim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bêjim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çinko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ê min"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "û tijebûna wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:08.805409326Z",
+  "model": "glm-5.3"
+}

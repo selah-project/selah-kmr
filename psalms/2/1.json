@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Çima milet ji hev hurriyan û gelan tiştê vala difikirin?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Çima"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ji hev hurriyan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "milet"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "û gelan"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "difikirin"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tiştê vala"
+    }
+  ],
+  "timestamp": "2026-08-30T05:10:28.944987832Z",
+  "model": "glm-5.3"
+}

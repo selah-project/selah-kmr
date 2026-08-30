@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "Û ew çêkirin ⟨את⟩ kevirên şohamê, di çarçoveyên zêr de girtî, bi kolandinên mohrê kolandin, li ser navên kurên Îsraêl.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "û ew çêkirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kevirên şohamê"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kevirên"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "şohamê"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "di çarçoveyan de girtî"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "çarçoveyên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "kolandin"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "kolandinên"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "mohrê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    }
+  ],
+  "timestamp": "2026-08-29T18:20:48.931775335Z",
+  "model": "glm-5.3"
+}

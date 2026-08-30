@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 71,
+  "translation": "Di te de, Yahwe, min sita xwe girt; bila ez heta hertimî ne şerm bim.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "di te de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "min sita xwe girt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bila ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ez şerm bim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:48.679133686Z",
+  "model": "glm-5.3"
+}

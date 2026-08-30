@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Mirovekî bêaqil nizane, û gewr jî ⟨את⟩ vê fah nake.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mirovekî"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bêaqil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zane"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "û gewr jî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "fah dike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vê (ze't ev tiştê berê)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:06.353500072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Hemû erd êdî li ber te danûstandinê radiwestin û ji te re mizmarî dikin, navê te bilind dikin. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "danûstandinê radiwestin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "li ber te"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "û mizmarî dikin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji te re"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bilind dikin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:51.255846726Z",
+  "model": "glm-5.3"
+}

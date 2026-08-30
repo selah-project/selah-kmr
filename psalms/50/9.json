@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Ez ji mala te ga nagirim û ji hewşên te tehtikan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nagirim"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ji mala te"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ji hewşên te"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "tehtikan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:14.779759203Z",
+  "model": "glm-5.3"
+}

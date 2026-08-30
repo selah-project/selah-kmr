@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Moşe ji Aharon re ⟨את⟩ hemû peyvên Yahwe yên ku wî şandibû û ⟨את⟩ hemû nîşanên ku wî ferman kiribû ragihand.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ragihand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ji Aharon re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû peyvên Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "peyvên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "şandibû"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû nîşanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "nîşanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ferman kiribû"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:16.347053224Z",
+  "model": "glm-5.3"
+}

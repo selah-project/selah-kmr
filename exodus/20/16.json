@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Tu li dijî hevalê ⟨xwe⟩ şahidiya derewîn nakevî.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tû bersiv didî"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "li dijî hevalê te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahidî"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "derewîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:33.000079199Z",
+  "model": "glm-5.3"
+}

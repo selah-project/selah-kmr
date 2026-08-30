@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Wî bersiv da û got: “Ma ne ⟨את⟩ ya ku Yahwe di devê min de dixe, ⟨את⟩ wê ez biparêzim ku ez biaxivim?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bersiv da"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya ku Yahwe di devê min de dixe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "dixe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di devê min de"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ez biparêzim"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ku ez biaxivim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:51:19.614052766Z",
+  "model": "glm-5.3"
+}

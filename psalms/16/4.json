@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Êşên wan ên ku bi lez diçin pey Xwedayên din pir dibin; libasyonên wan ên ji xwînê naçem bikim, û navên wan ⟨את⟩ nahelim ser lêvên xwe.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "pir dibin"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "êşên wan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yên din"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "bi lez diçin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "naçem bikim"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "libasyonên wan"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ji xwînê"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "û na"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nahelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navên wan"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "navên wan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lêvên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:56:56.661657236Z",
+  "model": "glm-5.3"
+}

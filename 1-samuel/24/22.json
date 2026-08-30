@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Û êdî, sonda li min bide bi Yahwe, ku tu yê ⟨את⟩ toxa min piştî min nenabikî, û ku tu yê ⟨את⟩ navê min ji mala bavê min nejîxînî.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Û êdî"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sonda bide"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bi Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "tu yê nenabikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toxa min"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "toxa min"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî min"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "û ku"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "tu yê nejîxînî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê min"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "navê min"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:44:50.740539352Z",
+  "model": "glm-5.3"
+}

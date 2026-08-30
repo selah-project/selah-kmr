@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û zarokên Yisraêl ⟨את⟩ xemlên xwe ji xwe dan hilanîn, ji Çiyayê Horev û pê ve.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "û-ji xwe dan hilanîn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xemlên xwe"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "xemlên xwe"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ji Çiyayê"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horev"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:05.697733435Z",
+  "model": "glm-5.3"
+}

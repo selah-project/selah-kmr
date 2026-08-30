@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Tu me dikî ruspetî li ber cîranên me, hênokî û pêkenînek ji bo yên dorberî me.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "tu me datînî"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ruspetî"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "li ber cîranên me"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "hênokî"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "û pêkenîn"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "ji bo yên dorberî me"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:59.040159048Z",
+  "model": "glm-5.3"
+}

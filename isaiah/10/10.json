@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Wekî ku destê min gihîşt ⟨את⟩ padîşahiyên pûtan û ⟨את⟩ pûtên wan ên ji Yeruşalayim û ji Şomeron zêdetir",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "gihîşt"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê min"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "padîşahiyên"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "pûtan"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "û pûtên wan"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ji Yeruşalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "û ji Şomeron"
+    }
+  ],
+  "timestamp": "2026-08-29T20:30:24.457695032Z",
+  "model": "glm-5.3"
+}

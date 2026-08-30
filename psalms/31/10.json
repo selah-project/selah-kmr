@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Yahwe, dilovaniya min bike, çimkî tengasî li min e; çavê min bi êş xelas bûye, canê min û zikê min jî.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "dilovaniya min bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tengasî"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li min"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "xelas bûye"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "bi êş"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "çavê min"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "û zikê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:06.507966584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Wê ⟨את⟩ deweyî ber bi derveyê kampê bibe der, û wê wê wekî deweyê yekem ê şewitandî bişewitîne; qurbana gunehê ya civatê ew e.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "wê bibe der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deweyî"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "deweyî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "derveyê"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "וושרף",
+      "gloss": "û wê bişewitîne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wê (dewe)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "şewitand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deweyê"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "deweyê"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yekem"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "qurbana gunehê"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew e"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:42.926189055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Û ew ⟨את⟩ omerê berî Yahwe dilîvîne, ji bo ku hûn werin qebûlkirin; roja piştî şebatê kahîn wê dilîvîne.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Û ew dilîvîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerê"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ji bo ku hûn werin qebûlkirin"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "roja piştî"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şebatê"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "wê dilîvîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:34:22.095131792Z",
+  "model": "glm-5.3"
+}

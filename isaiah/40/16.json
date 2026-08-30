@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û Lubnan bo şewatê nîn e, û ajalên wî bo qurbanê-şewatê nîn in.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "Û Lubnan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîn e"
+    },
+    {
+      "surface": "די",
+      "gloss": "têre"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bo şewatê"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "û ajalên wî"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîn in"
+    },
+    {
+      "surface": "די",
+      "gloss": "têre"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "qurbanê-şewatê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:00.588655786Z",
+  "model": "glm-5.3"
+}

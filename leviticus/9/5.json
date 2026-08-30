@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ⟨את⟩ tiştê ku Moşe ferman kir anîn ber ruhuqa çadiriya civînê, û tevahiya civînê nêzîk bûn û li ber Yahwe rawestandin.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ruhuqa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadirê"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "nêzîk bûn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civînê"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "rawestandin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:25:53.551069144Z",
+  "model": "glm-5.3"
+}

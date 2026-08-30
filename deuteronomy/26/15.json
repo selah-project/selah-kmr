@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "\"Ji cihê pîrozê xwe, ji ezmanan binêre, û ⟨את⟩ gelê xwe — ⟨את⟩ Yisraêl — biresîket bike, û ⟨את⟩ erdê ku te daye me, wekî ku te ji bavên me sond xwar — erdeke şîr û hunir diherike.\"",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "ji cihê"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pîrozê xwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "û biresîket bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê xwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "te da"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "te sond xwar"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ji bavên me"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdekî"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "diherike"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "şîr"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "û hunir"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:06.837555554Z",
+  "model": "glm-5.3"
+}

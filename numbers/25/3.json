@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û Îsraêl xwe girêda Baal-Pêor, û hêrsa Yahwe li hemberÎ Îsraêlê pêt ket.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "xwe girêda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pêor"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "pêt ket"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hêrsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li hember Îsraêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:51:57.574533284Z",
+  "model": "glm-5.3"
+}

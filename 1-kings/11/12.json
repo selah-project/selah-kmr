@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Tenê di rojên te de ê nakim, ji bo Dawid bavê te; ji destê kurê te wê ez ⟨את⟩ wê biqelişînim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "di rojên te de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ê nakim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bavê te"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kurê te"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "biqelişînim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:07:10.241567623Z",
+  "model": "glm-5.3"
+}

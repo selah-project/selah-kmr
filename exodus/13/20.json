@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Û ji Sukkot rêwîtî kirin û li Êtam, li ser sinorê çolê, danan.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "û…rêwîtî kirin"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "ji Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "û danan (kanî danîn)"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "li Êtam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "li ser sinorê"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çolê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:30:42.024772300Z",
+  "model": "glm-5.3"
+}

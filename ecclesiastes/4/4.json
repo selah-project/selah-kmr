@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ez dîm ⟨את⟩ hemû xebatê û ⟨את⟩ hemû serkeftina karê — ji ber ku ew hesûdiya mirov ji hevalê xwe re ye; ev jî pûçîtî ye û nêçîra bayê.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ez dîm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû xebatê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "xebatê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû serkeftina karê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "serkeftina"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "karê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "hesûdiya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ji hevalê xwe re"
+    },
+    {
+      "surface": "גם",
+      "gloss": "her wiha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pûçîtî ye"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "û nêçîr"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bayê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:34.447734696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Şênrûyên ciwan beredayî û birçîbûn; lê ên ku Yahwe digerin dê ji tiştê baş kêmasî nebînin.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "şênrûyên ciwan"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "beredayî ketin"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "û birçîbûn"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ên ku digerin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "kêmasî dibînin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tiştê"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:16:25.987573134Z",
+  "model": "glm-5.3"
+}

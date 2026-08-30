@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ez ê destê xwe dirêj bikim û Mîtsrayim bi hemû ecêbayên xwe yên ku ez ê di nava wî de bikim bibêm — û piştî wê, ew ê ⟨את⟩ we şande.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "û ez ê dirêj bikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "û ez ê bibêm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mîtsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bi hemû"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "ecêbayên xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ez ê bikim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di nava wî de"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "û piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ew ê şande"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:02:35.954370972Z",
+  "model": "glm-5.3"
+}

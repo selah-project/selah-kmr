@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Qurbangehek ji axê ji bo min çê bike, û li ser wê ⟨את⟩ qurbaniyên sotinê yên xwe û ⟨את⟩ qurbaniyên aştiyê yên xwe — ⟨את⟩ milfên xwe û ⟨את⟩ ga yên xwe — biqurbani bike. Di hemû cihên ku ez ⟨את⟩ navê xwe bidim bîranîn, ez ê were cem te û te barekat bikim.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangehek"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ji axê"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "çê bike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "û biqurbani bike"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbaniyên sotinê"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "qurbaniyên sotinê yên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "qurbaniyên aştiyê"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "qurbaniyên aştiyê yên xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milfên xwe"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "milfên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ga yên xwe"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "ga yên xwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di hemû"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "cihên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "bidim bîranîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê xwe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "navê xwe"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ez ê were"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cem te"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "û te barekat bikim"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:31.563423049Z",
+  "model": "glm-5.3"
+}

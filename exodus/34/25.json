@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Tu li ser hamets xwînê qurbanîya min nenikujîn, û qurbanîya cejna Pesaḥ heta sibehê nemîne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "nenikujîn"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "hamets"
+    },
+    {
+      "surface": "דם",
+      "gloss": "xwînê"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanîya min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nemîne"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "heta sibehê"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbanîya"
+    },
+    {
+      "surface": "חג",
+      "gloss": "cejna"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:10.112700247Z",
+  "model": "glm-5.3"
+}

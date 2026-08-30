@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Ew şandiyanên xwe ba çêdike, xizmetkarên xwe jî agirê pêlênî dikuje.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "çêdike"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "şandiyanên wî"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "xizmetkarên wî"
+    },
+    {
+      "surface": "אש",
+      "gloss": "agir"
+    },
+    {
+      "surface": "להט",
+      "gloss": "pêlênî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:30:55.700122583Z",
+  "model": "glm-5.3"
+}

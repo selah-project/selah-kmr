@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Her roj ez ê te pîroz bikim, û navê te ji bo hertim û hertim pesindan bikim.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "her"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ez te pîroz bikim"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "û pesindan bikim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "navê te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ji bo hertim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:16.500748292Z",
+  "model": "glm-5.3"
+}

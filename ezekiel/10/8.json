@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û di keruban de xuya bû şibhêta destê mirovî di binê baskên wan de.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "xuya bû"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "di keruban de"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "şibhêta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovî"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di binê"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "baskên wan de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:45:02.900973980Z",
+  "model": "glm-5.3"
+}

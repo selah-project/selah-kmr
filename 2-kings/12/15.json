@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "ji ber ku ewê didan bikarhênerên xebatê, û bi wê ⟨את⟩ malê Yahwe xurt dikirin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "bikarhênerên"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "xebatê"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "ewê didan"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "û xurt dikirin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bi wê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malê"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:08.530206495Z",
+  "model": "glm-5.3"
+}

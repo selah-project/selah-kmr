@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Ez, ez ⟨im⟩ ê ku sûcên te ji dibitim, ji bo xwe, û gunehên te êdî nabîm bîr.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ji dibitim"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "sûcên te"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "û gunehên te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nabîm bîr"
+    }
+  ],
+  "timestamp": "2026-08-29T20:40:51.093362452Z",
+  "model": "glm-5.3"
+}

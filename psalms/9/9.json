@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Û ew dê cîhanê bi rastî bibire, gelan bi rastiyê bide ber dadê.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Û ew"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dê ... bibire"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "cîhanê"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "bide ber dadê"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "bi rastiyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:07.468753665Z",
+  "model": "glm-5.3"
+}

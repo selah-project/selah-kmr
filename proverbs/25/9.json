@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Doza xwe bi ⟨את⟩ hevalê xwe re bide, û razîya yê din eşkere neke.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "doza te"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "bide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê te"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "hevalê te"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "û razî"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yê din"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "eşkere bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:48:18.337821197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Ji ber ku min tu ji tozê rakir û te kir serdar ser gelê min Yisraêl, te rêya Yarovam meşiya û te ⟨את⟩ gelê min Yisraêl kirîye gunehkar, ku hêrsa min bi gunehên wan bîninî.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "min tu rakir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "tozê"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "te kir"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "serdar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "te meşiya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "rêya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "te kirîye gunehkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê min Yisraêl"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "ku hêrsa min bîninî"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "bi gunehên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:10:14.687846928Z",
+  "model": "glm-5.3"
+}

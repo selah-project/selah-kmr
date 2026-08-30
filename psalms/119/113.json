@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ez ji ramanên ducar nefret dikim û Tora te ez evî dikim.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "ramanên ducar"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nefret dikim"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "û Tora te"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ez evî dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:13.828628551Z",
+  "model": "glm-5.3"
+}

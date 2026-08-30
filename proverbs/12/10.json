@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Sadiq canê ajalê xwe dizane, û dilovaniyên êrşîvanan dijwar in.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sadiq"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canê"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ajalê wî"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "û dilovaniyên"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "êrşîvanan"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "dijwar in"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:55.680016122Z",
+  "model": "glm-5.3"
+}

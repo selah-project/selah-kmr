@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Bi Aharon re biaxive û jê re bêje: gava tu ⟨את⟩ çirên bilind dikî, li hemberî rûyê çiragê çirên heftan ronî bikin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "biaxive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "û bêje"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "gava tu bilind dikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çirên"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "çirên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "מול",
+      "gloss": "hemberî"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "çiragê"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "ronî bikin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heftên"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "çira"
+    }
+  ],
+  "timestamp": "2026-08-29T18:43:15.986467959Z",
+  "model": "glm-5.3"
+}

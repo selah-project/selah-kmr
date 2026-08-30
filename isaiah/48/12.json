@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Guh bide min, ey Yaqob, û Yisraêl yê ku min bi nav kirî: Ez im ⟨Ew⟩; ez ê yekemîn im, hîn ez im ê dawîn.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "guh bide"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "û Yisraêl"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "yê ku min bi nav kirî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ê yekemîn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ê dawîn"
+    }
+  ],
+  "timestamp": "2026-08-29T20:43:40.498661683Z",
+  "model": "glm-5.3"
+}

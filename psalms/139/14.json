@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Ez ê sipasî te bikim, ji ber ku ez bi tirs û hêjayî hatime çêkirin; karên te balkêş in, û canê min ev pir baş dizane.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ez ê sipasî te bikim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "bi tirs û hêjayî"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "hatime çêkirin"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "balkêş"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karên te"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "û canê min"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir baş"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:50.292911807Z",
+  "model": "glm-5.3"
+}

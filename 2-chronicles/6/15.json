@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ku tu ji bo bendavê xwe Dawid, bavê min, parêzî ⟨את⟩ ya ku tu ji wî re gotibû; û tu bi devê xwe qal kirî û bi destê xwe pêk anî, wekî roja îro.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "parêzî"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ji bo bendavê xwe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bavê min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya ku tu ji wî re gotibû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "û qal kirî"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "bi devê xwe"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "û bi destê xwe"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "pêk anî"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wekî roja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "îro"
+    }
+  ],
+  "timestamp": "2026-08-30T06:44:51.587369962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û hûn ⟨את⟩ van gotinên min li ser dilê xwe û li ser canê xwe bidin, û ⟨את⟩ wan wek nîşaneyê li ser destê xwe girêdin, û ew bibin xelef li nav çavên we.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van gotinên min"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gotinên"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dilê xwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "canê xwe"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "û girêdin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "wek nîşaneyê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "û ew bibin"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "xelef"
+    },
+    {
+      "surface": "בין",
+      "gloss": "li nav"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "çavên we"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:08.509933250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Şerîeta Elohîm a wî di dilê wî de ye — gavên wî nalîvin.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Şerîeta"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohîm a wî"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "di dilê wî de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "lalîvin"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "gavên wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:36.045819942Z",
+  "model": "glm-5.3"
+}

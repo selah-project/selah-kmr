@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Sibehê, dema pêşkeşa sibehê pêşkêş dibû, eiştanan — ji riya Edomê ve av dihat, û erd bi ⟨את⟩ avê hat dagirtin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sibehê"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "dema…pêşkêş dibû"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pêşkeş"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "eiştanan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dihat"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ji riya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomê"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hat dagirtin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avê"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:15:14.267072323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Parêzvanê fermanê tiştê şerî nizane, û dem û dadwerî dilê zana dizane.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "parêzvanê"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "fermanê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bizane"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tiştê"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şerî"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "û dem"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "û dadwerî"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dilê"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "zana"
+    }
+  ],
+  "timestamp": "2026-08-30T06:10:15.412387041Z",
+  "model": "glm-5.3"
+}

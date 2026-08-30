@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Û di tengasiya xwe de gazî Yahwe kirin, û ew ji zextên wan derxist.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "û gazî kirin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "di tengasiyê de"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a wan"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "û ji zextên wan"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "derdixe wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:55.586867202Z",
+  "model": "glm-5.3"
+}

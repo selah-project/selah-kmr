@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û tu yê Lêwîyan ⟨את⟩ li ber Yahwe nêzîkî bîne, û zarokên Yisraêl destên xwe ⟨את⟩ li ser Lêwiyan danîne.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "û tu yê nêzîkî bîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lêwîyan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêwîyan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "û … danîne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destên xwe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "destên xwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lêwiyan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:42:58.011895699Z",
+  "model": "glm-5.3"
+}

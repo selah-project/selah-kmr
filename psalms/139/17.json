@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 139,
+  "translation": "Û ji min re — çawa biha ne ramanên Te, Êl! Çawa pir bûne serên wan!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "û ji min re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "biha ne"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ramanên Te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "pir bûne"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "serên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:23.775068045Z",
+  "model": "glm-5.3"
+}

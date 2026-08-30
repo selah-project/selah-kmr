@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û şah şand û ⟨את⟩ hemû kalên Yehûda û Yerûşalayim kom kirin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "şand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "kom kirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû kalên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "û Yerûşalayim"
+    }
+  ],
+  "timestamp": "2026-08-30T06:55:36.804261070Z",
+  "model": "glm-5.3"
+}

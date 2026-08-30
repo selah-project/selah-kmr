@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Çêkerê tiştên mezin — heta ku tu lêkolîn nîne — û efsanan heta ku tu hejmar nîne.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Çêkerê"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tiştên mezin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tu ... nîne"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "lêkolîn"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "û efsanan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tu ... nîne"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hejmar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:51:51.985758114Z",
+  "model": "glm-5.3"
+}

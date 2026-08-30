@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Şer li ser Şaul giran bû, û kevanvan — mêrên bi kevanê — wî peyda kirin, û wî ji kevanvanan gelek diwestiya.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "giran bû"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "şer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "wî peyda kirin"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "kevanvan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "bi kevanê"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "diwestiya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "ji kevanvanan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:39.431605155Z",
+  "model": "glm-5.3"
+}

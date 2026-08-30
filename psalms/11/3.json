@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Çimkî bingeh tên hilweşandin — rastdar çi kiriye?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "bingeh"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "tên hilweşandin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rastdar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "kiriye"
+    }
+  ],
+  "timestamp": "2026-08-30T05:12:28.292132541Z",
+  "model": "glm-5.3"
+}

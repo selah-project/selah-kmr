@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Kaçin û bibînin kiryarên Elohîm — yê tirsnak ⟨e⟩ di çalakiyên wî de li ser zariyên mirovan.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kaçin"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "û bibînin"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "kiryarên"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "yê tirsnak"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "çalakiyên wî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zariyên"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:27.843465213Z",
+  "model": "glm-5.3"
+}

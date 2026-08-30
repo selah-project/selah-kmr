@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Moşe got: Ez ê niha rû bidim û ⟨את⟩ vê dîtina mezin bibînim — çima behîv nadişewite?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ez ê rû bidim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "niha"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "bibînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dîtina mezin"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "dîtina"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vê"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "çima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "nadişewite"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "behîv"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:49.821398720Z",
+  "model": "glm-5.3"
+}

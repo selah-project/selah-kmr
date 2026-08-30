@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û Sarah kûrê Hagarê Mîtsrayimî, ku ew ji bo Avrahamê zayî bû, xist qencîkê.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Û … dît"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kûrê Hagarê Mîtsrayimî"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kûrê"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagarê"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mîtsrayimî"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zayî bû"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ji bo Avrahamê"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "xist qencîkê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:42:53.761365705Z",
+  "model": "glm-5.3"
+}

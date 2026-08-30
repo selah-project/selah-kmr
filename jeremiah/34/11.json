@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "Û piştî wê vegeriyan û wan ew xulam ⟨את⟩ û ew kenên ⟨את⟩ ku azad şandibûn vegerandin û bi zor kirin kûl û ken.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "û vegeriyan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wê"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "û vegerandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ew xulam"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ew xulam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ew kenên"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ew kenên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "şandibûn"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "azad"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "û bi zor kirin"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "kûl"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "û ken"
+    }
+  ],
+  "timestamp": "2026-08-29T21:02:53.239817222Z",
+  "model": "glm-5.3"
+}

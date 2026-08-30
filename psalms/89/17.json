@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 89,
+  "translation": "Bi navê te teva rojê kêfxweş dibin, û bi rastîya te bilind dibin.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "bi navê te"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "kêfxweş dibin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "teva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "û bi rastîya te"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "bilind dibin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:53.988954117Z",
+  "model": "glm-5.3"
+}

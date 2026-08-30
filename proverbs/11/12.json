@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Yê ku hevalê xwe biçûk dibîne kêm-dil ⟨ye⟩, lê zilamê têgihîştî bêdeng dimîne.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "biçûk dibîne"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kêm"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lê zilamê"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "têgihîştî"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "bêdeng dimîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:43:19.435992395Z",
+  "model": "glm-5.3"
+}

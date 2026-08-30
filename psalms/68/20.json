@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Bibirêtkirî be Adonay, roj bi roj barê me li ser xwe hildide; Êl ê rizgariya me ye. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bibirêtkirî be"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bi roj"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "li ser xwe hildide"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "barê me"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Êl ê"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "rizgariya me ye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:27.991486538Z",
+  "model": "glm-5.3"
+}

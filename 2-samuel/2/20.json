@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Avner ruhûiya paş xwe û got: «Ma tu yî Asahel?» Û ⟨ew⟩ got: «Ez im.»",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ruhûiya"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "paş xwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yî"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ez im"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:52.997560136Z",
+  "model": "glm-5.3"
+}

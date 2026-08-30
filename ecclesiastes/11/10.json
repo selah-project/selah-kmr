@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û risiyanê ji dilê te bihurîne, û xerabîyê ji laşê te bidûr bike, ku zarokî û porreşî heb in.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "û bihurîne"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "risiyan"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "ji dilê te"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "û bidûr bike"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xerabî"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "ji laşê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "zarokî"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "porreşî"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heb"
+    }
+  ],
+  "timestamp": "2026-08-30T06:11:37.423508832Z",
+  "model": "glm-5.3"
+}

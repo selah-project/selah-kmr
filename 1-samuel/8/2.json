@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Navê kurê wî yê yekemîn Yoêl bû, û navê yê duyemîn Aviya; ewdar bûn darizdar li Bêr-Şeva.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kurê wî"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "yê yekemîn"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoêl"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "û navê"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "yê duyemîn"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "darizdar"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "li Bêr"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    }
+  ],
+  "timestamp": "2026-08-29T19:36:35.604694105Z",
+  "model": "glm-5.3"
+}

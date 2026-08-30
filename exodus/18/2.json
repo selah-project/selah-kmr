@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û Yîtro, zava yê Moşe, ⟨את⟩ Sîpora, jina Moşe, piştî şandina wê, girt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yîtro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "zava yê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sîpora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Sîpora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "jina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "piştî"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "şandina wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:08.163669803Z",
+  "model": "glm-5.3"
+}

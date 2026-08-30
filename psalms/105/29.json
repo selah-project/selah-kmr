@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Zivirand ⟨את⟩ avên wan bo xwînê, û ⟨את⟩ masiyên wan dimirandin.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "zivirand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avên wan"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "avên wan"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "bo xwînê"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "û dimirandin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiyên wan"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "masiyên wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:11.024492110Z",
+  "model": "glm-5.3"
+}

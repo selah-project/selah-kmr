@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Yehûda hilbû; û Yahwe ⟨את⟩ Kenananî û Perîzî daye destê wan, û wan li Bezek deh hezar mêr li dar xist.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "hilbû"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehûda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "daye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenananî"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenananî"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "û Perîzî"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "destê wan"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "li dar xist"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "li Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    }
+  ],
+  "timestamp": "2026-08-29T19:24:34.630835820Z",
+  "model": "glm-5.3"
+}

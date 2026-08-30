@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 83,
+  "translation": "Stran, mezmur ji bo Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Stran"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ji bo Asaf"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:17.150745306Z",
+  "model": "glm-5.3"
+}

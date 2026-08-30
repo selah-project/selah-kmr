@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û tu ⟨את⟩ cilên nexşandî yên xwe girtin û wan dapêçand, û rûnê min û qetîra min danî pêş wan.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cilên nexşandî"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "cilên"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "nexşandî yên te"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "dapêçand"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "û rûnê min"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "û qetîra min"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "danî"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pêş wan"
+    }
+  ],
+  "timestamp": "2026-08-30T03:48:08.677618529Z",
+  "model": "glm-5.3"
+}

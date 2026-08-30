@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Ji bîr neke ⟨את⟩ ku Yahwe Elohîmê te çi kir bi Mîryamê re, di rê de, di dema derketina we ji Mîtsrayimê.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ji bîr neke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku Yahwe Elohîmê te çi kir bi Mîryamê re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çi kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîmê te"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "bi Mîryamê re"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di rê de"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "di dema derketina we"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:58.472647305Z",
+  "model": "glm-5.3"
+}

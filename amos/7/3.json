@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Yahwe ji bo vê poşman bû; ew nabe, got Yahwe.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "poşman bû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji bo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yê bûye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T04:09:54.469911237Z",
+  "model": "glm-5.3"
+}

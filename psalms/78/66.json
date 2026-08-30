@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û dijminên xwe ber bi paş ve xist, rispariya-aîdîkî li wan danî.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "xist"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "dijminên xwe"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ber bi paş ve"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "rispariya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "aîdîkî"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "למו",
+      "gloss": "li wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:19.050157332Z",
+  "model": "glm-5.3"
+}

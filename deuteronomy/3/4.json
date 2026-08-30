@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û me ⟨את⟩ hemû bajarên wî wê demê girt; tu bajaran nemabû ku me ji wan negirtibûya — şêst bajar, hemû herêma Ergobê, keyaniya Ogê li Başanê.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "û me ... girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "bajarên wî"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wê demê"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nemabû"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "bajaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne... (negirtibûya)"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "me ... girtibû"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ji wan ⟨את⟩"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "şêst"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bajar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "herêma"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Ergobê"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "keyaniya"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogê"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "li Başanê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:25.861659250Z",
+  "model": "glm-5.3"
+}

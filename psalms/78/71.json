@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ji pey mêşinên şîrdan wî anî, da ku li Yakub gelê wî û li Yisraêl mîrata wî çêwanî bike.",
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "ji pey"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mêşinên şîrdan"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wî anî"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "çêwanî bike"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "li Yakub"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "û li Yisraêl"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "mîrata wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:21.198201681Z",
+  "model": "glm-5.3"
+}

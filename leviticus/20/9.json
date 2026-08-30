@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 20,
+  "translation": "Ji ber ku îş îşê ku ⟨את⟩ bavê xwe û ⟨את⟩ diya xwe nifirî bike, bi mirinê bê kuştin; bavê xwe û diya xwe nifirand ⟨e⟩, xwîna wî li ser wî ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "nifirî bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavê wî"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diya wî"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "diya wî"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bê kuştin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê xwe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "û diya xwe"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "nifirand"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "xwîna wî"
+    },
+    {
+      "surface": "בו",
+      "gloss": "li ser wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:09.974256630Z",
+  "model": "glm-5.3"
+}

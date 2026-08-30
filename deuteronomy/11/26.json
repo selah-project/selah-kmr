@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Binêre, ez îro li ber we barekat û lanet datirim.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "datirim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "li ber we"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barekat"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "û lanet"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:15.418503113Z",
+  "model": "glm-5.3"
+}

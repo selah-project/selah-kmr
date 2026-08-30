@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Bi şîreta xwe rê nîşanî min didî, û paşê bi rûmetî wê min bigirî.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "bi şîreta xwe"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "rê nîşanî min didî"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "û paşê"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "bi rûmetî"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "wê min bigirî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:12.548815418Z",
+  "model": "glm-5.3"
+}

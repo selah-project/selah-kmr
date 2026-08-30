@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û zarokên Îsraêlî ji bo Lewiyan ⟨את⟩ van bajaran û ⟨את⟩ mêrgên wan dan, wekî ku Yahwe bi destê Moşe ferman kiribû, bi gilî.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "û … dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêlî"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ji bo Lewiyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "van bajaran"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "van bajaran"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "mêrgên wan"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mêrgên wan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wekî ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman kiribû"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bi destê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "bi gilî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:21:44.693464782Z",
+  "model": "glm-5.3"
+}

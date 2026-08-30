@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 52,
+  "translation": "Û serokê sotaran ⟨את⟩ Serajyah kâhinê ser û ⟨את⟩ Tsefanyah kâhinê duyem û ⟨את⟩ sê parêzvanên deriyê girt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Û girt"
+    },
+    {
+      "surface": "רב",
+      "gloss": "serokê"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "sotaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajyah kâhinê ser"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhinê"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanyah kâhinê duyem"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kâhinê"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "duyem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sê parêzvanên deriyê"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "parêzvanên"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "deriyê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:42:43.138917209Z",
+  "model": "glm-5.3"
+}

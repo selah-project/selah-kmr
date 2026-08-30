@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Di tengasiyê de ya min min gazî Yahwe kir û ji Elohîmê xwe re qîrî; ew ji perestgeha xwe dengê min bihîst û qîrîna min gehîst guhên wî.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "di tengasiyê de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya min"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "gazî … kir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ji … re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê xwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qîrî"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ew bihîst"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "ji perestgeha wî"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengê min"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "û qîrîna min"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "gehîst guhên wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:57:13.546820283Z",
+  "model": "glm-5.3"
+}

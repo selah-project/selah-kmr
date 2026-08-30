@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ev ⟨⟨e⟩⟩ terûmaya ku ji wan bistînin ev in: zêr, û zîv, û paxir.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Û ev"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "terûmaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "bistînin"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ji wan ⟨את⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "Û zîv"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "Û paxir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:24.712509681Z",
+  "model": "glm-5.3"
+}

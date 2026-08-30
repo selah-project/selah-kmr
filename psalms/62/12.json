@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 62,
+  "translation": "Carekê Elohîm axivî, du caran min ev bihîst: ku hêz ji Elohîm re ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "carekê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "axivî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "du caran"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ev"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "min bihîst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêz"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ji Elohîm re"
+    }
+  ],
+  "timestamp": "2026-08-30T05:22:02.841709760Z",
+  "model": "glm-5.3"
+}

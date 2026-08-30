@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û her wiha destê Yahwe ⟨li ser wan⟩ bû, ji bo ku ji nava kampê were tunekirin, heta ku bi dawî bûn.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "û her wiha"
+    },
+    {
+      "surface": "יד",
+      "gloss": "destê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bû"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "ji bo tunekirin"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ji nava"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "bi dawî bûn"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:06.784283354Z",
+  "model": "glm-5.3"
+}

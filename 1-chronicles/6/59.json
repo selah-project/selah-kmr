@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ji eşîra Aşer ⟨את⟩ Maşal û ⟨את⟩ zozanên wê, û ⟨את⟩ Avdon û ⟨את⟩ zozanên wê.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "û ji eşîra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Aşer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maşal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Maşal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zozanên wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zozanên wê"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zozanên wê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:34:12.801377225Z",
+  "model": "glm-5.3"
+}

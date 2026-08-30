@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 31,
+  "translation": "Yehizqiya ji kohnan û Lewiyan derbarê komên (hepan) da pirsî.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "pirsî"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizqiya"
+    },
+    {
+      "surface": "על",
+      "gloss": "derbarê … da"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohnan"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Lewiyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "derbarê … da"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "komên (hepan)"
+    }
+  ],
+  "timestamp": "2026-08-30T06:52:37.298103526Z",
+  "model": "glm-5.3"
+}

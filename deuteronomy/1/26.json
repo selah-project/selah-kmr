@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û hûn nexwest bilîvin, û we ⟨את⟩ dêvî Yahwe Elohîmê xwe betal kir (serhildan).",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ... ne"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "nexwest"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "bilîvin"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "serhildan\/betal kir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dêvî"
+    },
+    {
+      "surface": "פי",
+      "gloss": "dêvî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:59.395203495Z",
+  "model": "glm-5.3"
+}

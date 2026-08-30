@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Xwe hîşyar bike, da ku tu Yahwe-yê ⟨את⟩ ji bîn nekebî, êy ku te ji erda Mîtsrayim, ji mala koletiyê derxist.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Xwe hîşyar bike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji xwe re"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ku… ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ji bîn nekebî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "êy ku"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "te derxist"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ji mala"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "koletiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:00:30.446523106Z",
+  "model": "glm-5.3"
+}

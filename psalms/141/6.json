@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 141,
+  "translation": "Hakimên wan ji kêleka kevirî hatine avêtin, ew dê gotinên min bibihîzin, çimkî ew xweş in.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "hatine avêtin"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ji kêleka"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kevirî"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "hakimên wan"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ew dê bibihîzin"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "gotinên min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "ew xweş in"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:28.115406152Z",
+  "model": "glm-5.3"
+}

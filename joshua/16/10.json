@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û Kenaanîyê ku li Gezer dijiya ne derxist — ⟨את⟩ Kenaanî — û Kenaanî di nav Efrajîm de heta îro rûnişt û bû cerdevan û xulam.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ne derxist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanî"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanî"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ku dijiya"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "li Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "û rûnişt"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanî"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajîm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "למס",
+      "gloss": "cerdevan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xulam"
+    }
+  ],
+  "timestamp": "2026-08-29T19:20:25.207806596Z",
+  "model": "glm-5.3"
+}

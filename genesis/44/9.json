@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Kî ji \u0003xulamên te re ⟨את⟩-ê were dîtin, bila bimire, û em jî bibin xulamên Adonayê te.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "were dîtin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ê"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "ji xulamên te"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "û bimire"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û em jî"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "bibin"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ji bo Adonay"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ji bo xulaman"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:54.598199483Z",
+  "model": "glm-5.3"
+}

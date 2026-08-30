@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Yê ku ⟨את⟩we ji erda Mîtsrayim derxist, da ku ez ji bo we bibim Elohîm — ez im Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Yê ku derxist"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩we",
+      "marks": "we — ji erda Mîtsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ji erda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "da ku ez bibim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ji bo we"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:33:05.565326333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û ew ducanî bû û kurekî anî dinê, û got: Elohîm ⟨את⟩ riswatiya min rakir.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ducanî bû"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "anî dinê"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurekî"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "rakir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riswatiya min"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "riswatiya min"
+    }
+  ],
+  "timestamp": "2026-08-29T17:48:16.118094202Z",
+  "model": "glm-5.3"
+}

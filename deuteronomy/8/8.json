@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Welatê genim û ceh, tirî û ençir û hinaran; welatê zeytê, rûnê wî û hingivîn.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Welatê"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "genim"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "û ceh"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "tirî"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ençir"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "hinaran"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "welatê"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê wî"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "û hingivîn"
+    }
+  ],
+  "timestamp": "2026-08-29T19:01:33.765263443Z",
+  "model": "glm-5.3"
+}

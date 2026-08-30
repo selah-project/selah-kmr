@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 67,
+  "translation": "Netewe kêfxweş dibin û bilîzin, çûnkî tu gelan bi rastayiyê dadbarî dikî û neteweyên li ser erdê bi rê ve dibî. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "kêfxweş dibin"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "û bilîzin"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "netewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çûnkî"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "dadbarî dikî"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "gelan"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "bi rastayiyê"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "û neteweyên"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li ser erdê"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "bi rê ve dibî"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:29.502667676Z",
+  "model": "glm-5.3"
+}

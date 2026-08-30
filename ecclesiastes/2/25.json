@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Ji ber ku kî dikare bixwe, û kî dikare dilşad bibe — ji bilî min?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kî"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bixwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "û kî"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "dilşad bibe"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:31.641202932Z",
+  "model": "glm-5.3"
+}

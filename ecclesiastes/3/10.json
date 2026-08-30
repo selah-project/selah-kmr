@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Min ⟨את⟩ xebatê dîtiye ku Elohîm daye kurên mirovan, da ku tê de bilîzin.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "min dîtiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xebatê"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "xebatê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ji bo kurên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirovan"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "da ku bilîzin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tê de"
+    }
+  ],
+  "timestamp": "2026-08-30T06:08:58.008603748Z",
+  "model": "glm-5.3"
+}

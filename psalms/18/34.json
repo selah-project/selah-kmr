@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 18:34",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Pêyên min wekê yên keçikên kovî dike yeksan, û li ser bilindahiyên min ranê min datîne.",
+  "tokens": [
+    {
+      "surface": "משוה",
+      "gloss": "dike yeksan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pêyên min"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "wekê yên keçikên kovî"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û li ser"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "bilindahiyên min"
+    },
+    {
+      "surface": "יעמידני",
+      "gloss": "ranê min datîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:47.073783360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ji ber ku ger bikevin, yek ⟨את⟩ hevalê xwe radike; wê li yê ku dikeve û duyemîn tune ye ku wî rade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bikevin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "radike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevalê xwe"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "hevalê xwe"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "wê li wî"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yê"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ku dikeve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duyemîn"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ku wî rade"
+    }
+  ],
+  "timestamp": "2026-08-30T06:09:52.437059590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û wî ⟨את⟩ dirêjahiya wê pîvand, bîst sirîşî, û firehî bîst sirîşî, berî rûyê perestgehê; û wî ji min re got: \"Ev Pîrozê-Pîrozanan e.\"",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "û wî pîvand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirêjahiya wê"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dirêjahiya wê"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sirîşî"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "û firehî"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bîst"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sirîşî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "berî"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rûyê"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "perestgehê"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û wî got"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Pîrozê"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "Pîrozanan"
+    }
+  ],
+  "timestamp": "2026-08-30T04:00:06.886650079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û min te di avê de şûşt, xwîna te ji ser te şûşt û hilavêt, û min te bi rûnê mêrand.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "û min te şûşt"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avê de"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "şûşt û hilavêt"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "xwîna te"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ji ser te"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "û min te mêrand"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bi rûnê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:48:22.147378173Z",
+  "model": "glm-5.3"
+}

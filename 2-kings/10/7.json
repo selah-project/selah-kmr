@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Û bû, dema name ji wan re hat, ⟨את⟩ kurên key girtin û heftê mêr serjê kirin, û ⟨את⟩ serên wan danîn di sepetan de û şandin ji wî re bo Yizreêlê.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "dema … hat"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "name"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "serjê kirin"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "heftê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêr"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "danîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serên wan"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "serên wan"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "di sepetan de"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "şandin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "bo Yizreêlê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:20:08.201124380Z",
+  "model": "glm-5.3"
+}

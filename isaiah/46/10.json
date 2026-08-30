@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Dawîyê ji destpêkê didim zanîn û ji kevnarîyê ve tiştên ku hîn nehatine kirin; dibêjm: şîreta min dê rûniştî bimîne û hemû dilxwaziya xwe ezê bikim.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "didim-zanîn"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "ji-destpêkê"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dawîyê"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "û-ji-kevnarîyê-ve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "hatine-kirin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibêjm"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "şîreta-min"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "dê-rûniştî-bimîne"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û-hemû"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "dilxwaziya-min"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ezê-bikim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:42:44.929414851Z",
+  "model": "glm-5.3"
+}

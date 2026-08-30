@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Hûn ê wekî tiştên ku em îro li vir dikin nekin — her kes ⟨the⟩ rastiya çi ku di çavên xwe de rasteke.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "Hûn ê ... nekin"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "wekî hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "em"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "dikin"
+    },
+    {
+      "surface": "פה",
+      "gloss": "li vir"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "rastiya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-29T19:03:39.991453957Z",
+  "model": "glm-5.3"
+}

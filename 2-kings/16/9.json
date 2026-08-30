@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û keyê Aşûrê bi guhdarî da wî; keyê Aşûrê çû ser Dimaşqê, ew girt, ew rexist Kirê, û ⟨את⟩ Retsîn kuşt.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bi guhdarî da"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wî"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "çû ser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ser"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimaşqê"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "ew girt"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ew rexist"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kirê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsîn"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsîn"
+    },
+    {
+      "surface": "המית",
+      "gloss": "kuşt"
+    }
+  ],
+  "timestamp": "2026-08-29T20:21:48.622909771Z",
+  "model": "glm-5.3"
+}

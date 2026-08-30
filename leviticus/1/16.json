@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û hewika wê bi perên wê derdibe û wê davêje nêzîkî altârê, aliyê rojhilatê, ⟨bi> cihê kûlan ⟨re⟩.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "derdibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hewika wê"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "hewika wê"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "bi perên wê"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "davêje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "nêzîkî"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altârê"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "aliyê rojhilatê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi… re"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihê"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kûlan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:22:59.552250301Z",
+  "model": "glm-5.3"
+}

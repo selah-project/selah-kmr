@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 34,
+  "translation": "«Ji bo xwe ⟨את⟩ tiştê ku ez îro fermanî te dikim biparêze; ho, ez ⟨את⟩ Emorî, û Kenanî, û Hetî, û Perîzî, û Hewî û Yebusî ji ber te derdixim.»",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "biparêze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo xwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiştê ku ez fermanî te dikim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "fermanî te dikim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ho, ez"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "derdixim"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ji ber te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorî"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorî"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "û Kenanî"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "û Hetî"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "û Perîzî"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "û Hewî"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "û Yebusî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:18:03.933339595Z",
+  "model": "glm-5.3"
+}

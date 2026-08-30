@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Û ⟨את⟩ mêzera sofretê û ⟨את⟩ hemû amanetên wî, û ⟨את⟩ avdankê û ⟨את⟩ bingeha wî.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "mêzera sofretê"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mêzera"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sofretê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "hemû amanetên wî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amanetên wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "avdankê"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "avdankê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Û ⟨את⟩",
+      "marks": "bingeha wî"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "bingeha wî"
+    }
+  ],
+  "timestamp": "2026-08-29T18:16:09.116264323Z",
+  "model": "glm-5.3"
+}

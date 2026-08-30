@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 109,
+  "translation": "Li ser wî kesekî xerab bike, û Şetan li milê wî yê rastê raweste.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "bike (bi destvanî bike)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kesekî xerab"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "û Şetan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "raweste"
+    },
+    {
+      "surface": "על",
+      "gloss": "li"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "milê wî yê rastê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:11.277616549Z",
+  "model": "glm-5.3"
+}

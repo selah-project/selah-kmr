@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Meltsar ⟨את⟩ xwarinên wan ên delal û şeraba vexwarina wan digirt û ji wan re zerzevat dida.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Û"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "Meltsar"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "digirt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xwarinên wan ên delal"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "xwarinên wan ên delal"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "û şerab"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "vexwarina wan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "û... dida"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ji wan re"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "zerzevat"
+    }
+  ],
+  "timestamp": "2026-08-30T06:14:43.473716881Z",
+  "model": "glm-5.3"
+}

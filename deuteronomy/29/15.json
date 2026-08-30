@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 29,
+  "translation": "Ji ber ku hûn dizanin ⟨את⟩ ka me çawa li welatê Mîtsrayimê jiya û ⟨את⟩ ka me çawa di nav miletan re derbas bû, yên ku hûn bi wan re derbas bûne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "dizanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka me çawa li Mîtsrayimê jiya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "me jiya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "li welatê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayimê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ka me çawa di nav miletan re derbas bû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "me derbas bû"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di nav"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "miletan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yên ku"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "hûn derbas bûne"
+    }
+  ],
+  "timestamp": "2026-08-29T19:10:39.871653782Z",
+  "model": "glm-5.3"
+}

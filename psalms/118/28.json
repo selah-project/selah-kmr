@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 118,
+  "translation": "Tu Êlê min î û ezê sipasî te bikim; Elohîmê min, ezê te bilind bikim.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Êlê min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "û ezê sipasî te bikim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ezê te bilind bikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:34:38.100112516Z",
+  "model": "glm-5.3"
+}

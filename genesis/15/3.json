@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û Avram got: \"Binêre, tu ji min re zar nedayî, û era, yê ji malê min ⟨אתי⟩ dê mîrasdarê min bigire.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û Avram got"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Binêre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dayî"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zar"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û era"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yê ji malê"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "dê mîrasdarê min bigire"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "min"
+    }
+  ],
+  "timestamp": "2026-08-29T17:39:42.276278149Z",
+  "model": "glm-5.3"
+}

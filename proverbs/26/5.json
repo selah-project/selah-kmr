@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Bersiva kesanekî li gorî kesaniya wî bide, da ku ew di çavên xwe de neba zana.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "bersivê bide"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kesanekî"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "li gorî kesaniya wî"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ku … ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "zana"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:47:51.873795264Z",
+  "model": "glm-5.3"
+}

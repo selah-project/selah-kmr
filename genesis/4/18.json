@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ji bo Janoḥ, ⟨את⟩ Îrad ji dayik bû; Îrad ⟨את⟩ Meḥuyael bû der; Meḥuyael ⟨את⟩ Metûşael bû der; û Metûşael ⟨את⟩ Lemeḵ bû der.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ji dayik bû"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "ji bo Janoḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îrad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Îrad"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "Îrad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meḥuyael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Meḥuyael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "Meḥuyael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metûşael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metûşael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "Metûşael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bû der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemeḵ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemeḵ"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:39.352849770Z",
+  "model": "glm-5.3"
+}

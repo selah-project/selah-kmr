@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Rastî, rastî bişopîne, da ku tu bijîî û ⟨את⟩ erdê ku Yahwe Elohîm ê te dide te bi mîras bigirî.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rastî"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "bişopîne"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "tu bijîî"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "û bi mîras bigirî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohîm ê te"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-29T19:05:13.345735852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Elohîm ⟨את⟩ kirinên wan dît — ku vegeriyan ji rêya xwe ya xirab — û Elohîm poşman bû ji şerê ku gotibû ku dê bike wan re, û nekir.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "û dît"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirinên wan"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "kirinên wan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vegeriyan"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ji rêya xwe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ya xirab"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "û poşman bû"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "şerê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotibû"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ku dê bike"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nekir"
+    }
+  ],
+  "timestamp": "2026-08-30T04:10:34.634040236Z",
+  "model": "glm-5.3"
+}

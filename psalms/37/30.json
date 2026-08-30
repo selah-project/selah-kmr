@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 37,
+  "translation": "Devê sedîq xirabiyê digirî û zimanê wî mafê dibeje.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Devê"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sedîq"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "digirî"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xirabiyê"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "û zimanê wî"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dibeje"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mafê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:36.045658385Z",
+  "model": "glm-5.3"
+}

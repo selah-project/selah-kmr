@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û ⟨את⟩ birayê xwe yê biçûk bînin ba min, da ku gotinên we bêne piştrastkirin û hûn nemirin. Û wusa kirin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birayê xwe yê biçûk"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "birayê xwe"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yê biçûk"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "bînin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba min"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "bêne piştrastkirin"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "gotinên we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "nemirin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Û kirin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wusa"
+    }
+  ],
+  "timestamp": "2026-08-29T17:55:48.580710536Z",
+  "model": "glm-5.3"
+}

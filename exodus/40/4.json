@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û ⟨את⟩ masê tîne û ⟨את⟩ rêza wî bi cih dikî, Û ⟨את⟩ çiraya-Moşe tîne Û ⟨את⟩ çirayên wê pêşkêş dikî.",
+  "tokens": [
+    {
+      "surface": "ווהבאת",
+      "gloss": "tîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masê"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mas"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "bi cih dikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rêza wî"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "rêza wî"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "tîne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiraya-Moşe"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "çiraya-Moşe"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "pêşkêş dikî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çirayên wê"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "çirayên wê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:00.086631476Z",
+  "model": "glm-5.3"
+}

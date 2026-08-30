@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "kmr",
+  "chapter": 12,
+  "translation": "Hîn roj û ronahî û hîv û stêrk tarî nebûne, û ewr paşê baranê venegerin.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "tarî nebûne"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "roj"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ronahî"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "hîv"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "stêrk"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "venegerin"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ewr"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "paşê"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "baranê"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:32.142673530Z",
+  "model": "glm-5.3"
+}

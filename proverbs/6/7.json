@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ku ne serokekî ji bo wê heye, ne çavdêr û ne jî hukmdar",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne…heye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji bo wê"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "serok"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "çavdêr"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "hukmdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:41:55.975295578Z",
+  "model": "glm-5.3"
+}

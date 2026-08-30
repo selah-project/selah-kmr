@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 57,
+  "translation": "Di dirêjiya rêya xwe de westiyayî; nebêjî: 'Hêvî nîne.' Zindî ya destê xwe dîtî; ji ber wî nexweş nebûyî.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "di piraniyê de"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "rêya te"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "westiyayî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "bêjî"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "hêvî nîne"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zindî"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "destê te"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "dîtî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wî"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "nexweş ketî"
+    }
+  ],
+  "timestamp": "2026-08-29T20:45:42.622849203Z",
+  "model": "glm-5.3"
+}

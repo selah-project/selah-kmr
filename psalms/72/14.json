@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 72,
+  "translation": "Ji destê zilmê û ji tundiyê canên wan rês bike, û xwîna wan di çavên wî de bi qîmet e.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "ji destê"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "û ji tundiyê"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "rês bike"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canên wan"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "û bi qîmet"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "xwîna wan"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di çavên wî de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:23:53.766295921Z",
+  "model": "glm-5.3"
+}

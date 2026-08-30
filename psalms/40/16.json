@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Bila wêran û seqet bibin beriya şerma xwe yên ku ji min re dibêjin: “Ha! Ha!”",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "wêran û seqet bibin"
+    },
+    {
+      "surface": "על",
+      "gloss": "beriya"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "beriya"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "şerma xwe"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yên ku dibêjin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha!"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:03.130962246Z",
+  "model": "glm-5.3"
+}

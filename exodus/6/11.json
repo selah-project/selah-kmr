@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Here, bi Fîrʿawn keyê Mîtsrayim re bipeyive, û wî ⟨את⟩ zarokên Îsraêl ji erdê wî berde.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Here"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bipeyive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bi... re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fîrʿawn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "û berde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarokên Îsraêl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ji erdê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:43.133670771Z",
+  "model": "glm-5.3"
+}

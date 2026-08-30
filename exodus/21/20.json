@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ger zilamek ⟨את⟩ xulamê xwe an ⟨את⟩ kîna xwe bi darûkê lê dide û ew di bin destê wî de bimire, bi celatê wê bên celatkirin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "û ger"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lê dide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zilamek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamê xwe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xulamê xwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kîna xwe"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "kîna xwe"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bi darûkê"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "û… bimire"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bin… de"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê wî"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "bi celatê"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "wê bên celatkirin"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:11.957248243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Dawid got: \"Ma ji malbeta Şaul kesî maye, da ku ez bi wî re xesedê bikim, ji ber Yehonatanan?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יש",
+      "gloss": "heye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hîn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kesî"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "maye"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ji malbeta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "da ku ez bikim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bi wî re"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesedê"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanan"
+    }
+  ],
+  "timestamp": "2026-08-29T19:51:47.568708456Z",
+  "model": "glm-5.3"
+}

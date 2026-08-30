@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Û ez ê ⟨את⟩ çiyayê Seîr bidim wêranî û talankirinê, û ez ê ji wî derbasdar û vegerî bibirime.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "û ez ê bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiyayê Seîr"
+    },
+    {
+      "surface": "הר",
+      "gloss": "çiyayê"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seîr"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "wêranî"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "û talankirinê"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "û ez ê bibirim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbasdar"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "û vegerî"
+    }
+  ],
+  "timestamp": "2026-08-30T03:56:46.941604187Z",
+  "model": "glm-5.3"
+}

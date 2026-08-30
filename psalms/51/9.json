@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Bi zûfê min pak bike û ez ê pak bibim; min bişo û ez ê ji berfê spîtir bibim.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "min pak bike"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "bi zûfê"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "û ez ê pak bibim"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "min bişo"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "û ji berfê"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ez ê spîtir bibim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:05.619515509Z",
+  "model": "glm-5.3"
+}

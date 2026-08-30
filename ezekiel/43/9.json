@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 43,
+  "translation": "Niha bila zînayî wan û cesedên şahên wan ji min dûd bikin, û ez ê di nav wan de heta hertimî rûnim.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Niha"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "bila ... dûd bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zînayî wan"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "zînayî wan"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "û cesedên"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "şahên wan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ez ê rûnim"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di nav wan de"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T04:00:33.781998272Z",
+  "model": "glm-5.3"
+}

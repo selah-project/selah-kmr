@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Nîşanên me em nabînin; êdî pêxember nîne, û kesekî ⟨bi⟩ me re nîne ku dizane heta kengê.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "nîşanên me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "em nabînin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pêxember"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nîne"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bi me re"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dizane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kengê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:58.223022543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 144,
+  "translation": "Birûskê barandinê bike û wan belav bike; tîrên xwe bişîne û wan tevlihev bike.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "birûskê barandinê bike"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "birûsk"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "û wan belav bike"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bişîne"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "tîrên te"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "û wan tevlihev bike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:39:23.403212102Z",
+  "model": "glm-5.3"
+}

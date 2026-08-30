@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Riya baweriyê hilbijartim, hukmên te li ber çavên xwe danî.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "riya"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "baweriyê"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "hilbijartim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmên te"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "li ber çavên xwe danî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:03.155456248Z",
+  "model": "glm-5.3"
+}

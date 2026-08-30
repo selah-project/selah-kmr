@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Hemû ji ber gelêkî ewi bûn — gelê ku nikanî ji bo wan bikêrhatina; ne ji bo alîkariyê û ne ji bo kêrhatinê, lê ji bo şermê û herwiha ji bo rûreşiyê.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ewi bûn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nikanî"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "bikêrhatina"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ji bo wan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ji bo alîkariyê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "ji bo kêrhatinê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lê"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ji bo şermê"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "û herwiha"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "ji bo rûreşiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:37:28.851472160Z",
+  "model": "glm-5.3"
+}

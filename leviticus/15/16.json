@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 15,
+  "translation": "Û gava ji mêrekî derketina tovan derdikeve, wî ⟨את⟩ tevahiya goştê xwe di avê de dişo û heta êvarê nepaqij dimîne.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "û mêrekî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gava"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "derdikeve"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "derketina"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tovan"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dişo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di avê de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahiya goştê xwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tevahiya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goştê xwe"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nepaqij dimîne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "êvarê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:31:22.956155016Z",
+  "model": "glm-5.3"
+}

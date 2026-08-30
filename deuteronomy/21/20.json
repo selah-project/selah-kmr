@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û dê ji kalên bajêrê wî re bibêjin: Ev kurê me serhildêr û bêfermand e, goh nade dengê me; ew kurekî xwarkêş û vexwe ye.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Û dê bibêjin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kalên"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "bajêrê wî"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "kurê me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "serhildêr"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "û bêfermand"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nîne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gohdare"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "bi dengê me"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "xwarkêş"
+    },
+    {
+      "surface": "וססבא",
+      "gloss": "û vexwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:07:33.378637572Z",
+  "model": "glm-5.3"
+}

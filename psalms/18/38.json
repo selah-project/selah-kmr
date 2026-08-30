@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Ez diavêtim dijminên xwe û digihîştim wan, û ez venegeriyam heta ku ew bi dawî bûn.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "ez diavêtim"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dijminên xwe"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "û digihîştim wan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ez venegeriyam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta ku"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ew bi dawî bûn"
+    }
+  ],
+  "timestamp": "2026-08-30T05:13:38.205037575Z",
+  "model": "glm-5.3"
+}

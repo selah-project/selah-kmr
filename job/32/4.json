@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 32,
+  "translation": "Û Elihu li benda ⟨את⟩ Iyob ma bi peyvan, çimkî ew ji wî bi rojan pirtir bûn.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Û Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "li benda ... ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "bi peyvan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "pirtir bûn"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ew"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ji wî"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "bi rojan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:59:27.632938183Z",
+  "model": "glm-5.3"
+}

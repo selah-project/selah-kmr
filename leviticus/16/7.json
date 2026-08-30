@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 16,
+  "translation": "Û ew ê ⟨את⟩ du nêrên bizinan bigire û ⟨את⟩ wan li pêş Yahwe, li deriyê çadira civînê bisekinîne.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du nêrên bizinan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "nêrên bizinan"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "bisekinîne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "li deriyê"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civînê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:30:55.396759761Z",
+  "model": "glm-5.3"
+}

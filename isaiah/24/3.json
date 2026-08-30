@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Bi valahî tê valakirin ⟨⟨erd⟩⟩ û bi talanê tê talankirin, çimkî Yahwe ⟨את⟩ ev peyiv gotiye.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Bi valahî"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "tê valakirin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erd"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "û bi talanê"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "tê talankirin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gotiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev peyiv"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ev peyiv"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-08-29T20:34:24.463262116Z",
+  "model": "glm-5.3"
+}

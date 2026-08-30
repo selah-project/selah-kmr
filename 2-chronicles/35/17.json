@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 35,
+  "translation": "Kurên Îsraêl ên ku li wir hatibûn dîtin ⟨את⟩ Pessah di wê demê de û ⟨את⟩ cejna hostahiyan heft rojan çêkirin.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "çêkirin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Kurên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ên ku hatibûn dîtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pessah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pessah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di wê demê de"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cejn"
+    },
+    {
+      "surface": "חג",
+      "gloss": "cejna"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "hostahiyan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "heft"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojan"
+    }
+  ],
+  "timestamp": "2026-08-30T06:55:38.094800321Z",
+  "model": "glm-5.3"
+}

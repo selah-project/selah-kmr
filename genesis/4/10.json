@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û ⟨ew⟩ got: “Çi kiriye ⟨tu⟩? Dengê xwîna birayê te qêrîna min ra dike ji erdê.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kiriye"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengê"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "xwîna"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birayê te"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "qêrîna… dike"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ra min"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ji"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "erdê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:30.516939907Z",
+  "model": "glm-5.3"
+}

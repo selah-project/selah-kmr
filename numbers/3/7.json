@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û ew ê parêzvaniya wî û ⟨את⟩ parêzvaniya hemû civatê li ber Çadîrê Rûniştinê bigirin, da ku xizmeta Sêwangehê bikin.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "û ew ê bigirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parêzvaniya wî"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "parêzvaniya wî"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parêzvaniya hemû civatê"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "parêzvaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "civata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Çadîra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Rûniştinê"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "da ku… bikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xizmeta Sêwangehê"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xizmeta"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Sêwangehê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:38:40.486378967Z",
+  "model": "glm-5.3"
+}

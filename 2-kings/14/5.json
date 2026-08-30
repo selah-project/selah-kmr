@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 14,
+  "translation": "Wextê ku keyanî di destê wî de rûnişt û bihêz bû, ew xulamên xwe yên ku keyê bavê wî kuştibûn, kuşt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wextê ku"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "bihêz bû"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "keyanî"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di destê wî de"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kuşt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamên xwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "yên ku kuştibûn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keyê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bavê wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:03:16.719751445Z",
+  "model": "glm-5.3"
+}

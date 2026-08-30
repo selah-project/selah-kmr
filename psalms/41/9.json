@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Bûyerekî Belial li ser wî hatiye rijandin, û ê ku ketiye razê, êdî ranabe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bûyerekî"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "hatiye rijandin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ê ku"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ketiye razê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nabe"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "êdî"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ranabe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:17:34.953274248Z",
+  "model": "glm-5.3"
+}

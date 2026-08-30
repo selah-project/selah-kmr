@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 82,
+  "translation": "Rabe, ey Elohîm, ⟨את⟩ erdê bibihure, çimkî tu ê hemû netewayan mîras bigrî.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rabe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "bibihure"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "ê mîras bigrî"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "netewayan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:54.726354172Z",
+  "model": "glm-5.3"
+}

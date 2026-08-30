@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ⟨את⟩ sînga-pêşiyê li ser wî danî, û li ser sînga-pêşiyê ⟨את⟩ Urîm û ⟨את⟩ Tumîm danî.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "li ser wî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sînga-pêşiyê"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sînga-pêşiyê"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "danî"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sînga-pêşiyê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urîm"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urîm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tumîm"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumîm"
+    }
+  ],
+  "timestamp": "2026-08-29T18:26:17.644028402Z",
+  "model": "glm-5.3"
+}

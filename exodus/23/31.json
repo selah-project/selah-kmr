@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 23,
+  "translation": "Ez sînorê te ji Deryaya Qamiran heta Deryaya Fîlîstiyan, û ji çolê heta Çemê datînim, çimkî ez niştecihên erdê ⟨את⟩ di destên we de didim û hûn wan ji ber we vedigerînin.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ez datînim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sînorê te"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "sînorê te"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Deryaya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamiran"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û heta"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Deryaya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fîlîstiyan"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "û ji çolê"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Çemê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ez didim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "di destên we de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niştecihên erdê"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "û hûn wan vedigerînin"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ji ber we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:11:53.715206329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 73,
+  "translation": "Wan dibirisînin û bi cîrî zilumetiyê diaxivin; ji bilindahiyê diaxivin.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "dibirisînin"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "û diaxivin"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bi cîrî"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "zilumetiyê"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ji bilindahiyê"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "diaxivin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:40.920350731Z",
+  "model": "glm-5.3"
+}

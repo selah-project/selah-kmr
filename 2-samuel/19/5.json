@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 19,
+  "translation": "Û key ⟨את⟩ rûyê xwe dagirt, û key bi dengê mezin qîrî: kurê min, Avşalûm! Avşalûm, kurê min, kurê min!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Û key"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "dagirt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rûyê xwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "û qîrî"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "key"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bi deng"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalûm"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalûm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kurê min"
+    }
+  ],
+  "timestamp": "2026-08-29T19:58:00.534968235Z",
+  "model": "glm-5.3"
+}

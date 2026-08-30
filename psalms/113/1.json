@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 113,
+  "translation": "Hallelû Yah! Hallelû, gelî xizmetkarên Yahwe! Hallelû ⟨את⟩ navê Yahwe!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hallelû"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelû"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmetkarên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelû"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navê Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:40.820558289Z",
+  "model": "glm-5.3"
+}

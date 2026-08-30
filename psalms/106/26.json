@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 106,
+  "translation": "Û destê xwe bilind kir li ser wan, ji bo ku ⟨את⟩ wan di çolê de bixîne xwarê.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "li ser wan"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ji bo ku ... bixîne xwarê"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di çolê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:47.983023919Z",
+  "model": "glm-5.3"
+}

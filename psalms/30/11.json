@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Bihîze, Yahwe, û dilovanîya min bike, Yahwe, bibin alîkarê min.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Bihîze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "û dilovanîya min bike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bibin"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "alîkar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ê min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:05.257384932Z",
+  "model": "glm-5.3"
+}

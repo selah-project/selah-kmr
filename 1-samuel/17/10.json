@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û Filistî got: Ez îro ⟨את⟩ safên Îsraêl êrîş kirine; ji min re mêrekî bidin, em rû bi rû şer bikin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistî"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "êrîş kirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "safên Îsraêl"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "safên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "היום",
+      "gloss": "îro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrekî"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "em şer bikin"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "rû bi rû"
+    }
+  ],
+  "timestamp": "2026-08-29T19:41:56.280651524Z",
+  "model": "glm-5.3"
+}

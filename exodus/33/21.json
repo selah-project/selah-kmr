@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Û Yahwe got: “Va, cihekî ⟨את⟩ ligelê min heye, û tu yê li ser kevirê rawestî.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "û-got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "va"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "cihekî"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ligelê-min"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "û-tu-yê-rawestî"
+    },
+    {
+      "surface": "על",
+      "gloss": "li-ser"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "kevirê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:17:47.377067771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 3:28",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û hemû Îsraêl ⟨את⟩ hukmê ku şah dabû, bihîst û ji ber şah ditirsiyan, çimkî dîtin ku çewahiya Elohîm di dilê wî de ye, da ku mafê bide.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Û ... bihîst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukmê"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukmê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dabû hukim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ditirsiyan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dîtin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "çewahî"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di dilê wî de"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da ku ... bide"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "maf"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:06.337582456Z",
+  "model": "glm-5.3"
+}

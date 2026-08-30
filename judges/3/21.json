@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Ehud ⟨את⟩ destê xwe yê çepê dirêj kir, ⟨את⟩ şûr ji rana xwe ya rastê girt, û wê nav zikê wî da.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dirêj kir"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe yê çepê"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dest"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "çepê wî"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şûr"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "şûr"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ji ser"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ran"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "rastê wî"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "wê da"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "nav zikê wî"
+    }
+  ],
+  "timestamp": "2026-08-29T19:25:35.756613849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Ez serîyên êlên we girtin ⟨את⟩ — mêrên bijîrek û naskirî — û wan ⟨את⟩ wekirin serên we serwe ji hezaran, serwe ji sedan, serwe ji pêncî û serwe ji dehan, û çavdêr ji bo êlên we.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ez girtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serîyên êlên we"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "serîyên"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "êlên we"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mêrên"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bijîrek"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "û naskirî"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "û wan wekirin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "serên we"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "serên we"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ser"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "serwe ji"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hezaran"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "serwe ji"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "serwe ji"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pêncî"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "serwe ji"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dehan"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "û çavdêr"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "ji bo êlên we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:57:16.174811728Z",
+  "model": "glm-5.3"
+}

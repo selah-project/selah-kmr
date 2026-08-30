@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Moşe ⟨את⟩ daran berî Yahwe, di çadira şahidiyê de hêlan.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "hêlan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daran"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "daran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di çadira"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şahidiyê de"
+    }
+  ],
+  "timestamp": "2026-08-29T18:48:14.331886608Z",
+  "model": "glm-5.3"
+}

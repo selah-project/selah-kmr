@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 30,
+  "translation": "Bû — dema Raxel Yosef ⟨את⟩ zayî, Yaakov ji Lavan re got: \"Bişîne min, da ku ez herim bal cihê xwe û bal erdê xwe.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dema ku"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zayî"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raxel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "û got"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji ... re"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "bişîne min"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "û ez herim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "cihê xwe"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "û bal erdê xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:49:01.613586100Z",
+  "model": "glm-5.3"
+}

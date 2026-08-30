@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 145,
+  "translation": "Diparêze Yahwe ⟨את⟩ hemû evîndarên xwe, lê ⟨את⟩ hemû sûrî dê rûxîne.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "diparêze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû evîndarên xwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "evîndarên xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemû sûrî"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "sûrî"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "dê rûxîne"
+    }
+  ],
+  "timestamp": "2026-08-30T05:40:10.271588266Z",
+  "model": "glm-5.3"
+}

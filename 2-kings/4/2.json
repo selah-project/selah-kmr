@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 4:2",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Elîşa jê re got: \"Çi bikim ji bo te? Ji min re beyan bike, çi di mal de ji bo te heye?\" Û wî got: \"Ji rebenika te re ⟨tu tişt tune⟩ di mal de, ji bilî qedeşekê rûnê.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Û got"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "jê re"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elîşa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Çi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bikim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "beyan bike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ji min re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "heye"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ji bo te"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mal de"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Û wî got"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tune"
+    },
+    {
+      "surface": "לשפחתך",
+      "gloss": "ji rebenika te re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tu tişt"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di mal de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji bilî"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tenê"
+    },
+    {
+      "surface": "אסוך",
+      "gloss": "qedeşekê"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rûnê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:15:25.062059077Z",
+  "model": "glm-5.3"
+}

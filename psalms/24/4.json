@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 24,
+  "translation": "Yê destên paqij û dilê saf, ku nefşa xwe ji bo valatiyê hil nake û bi felatî sond naxwe.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "paqij"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "destên"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "û saf"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hil nake"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ji bo valatiyê"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefşa xwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û na"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sond naxwe"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "bi felatî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:58.721675222Z",
+  "model": "glm-5.3"
+}

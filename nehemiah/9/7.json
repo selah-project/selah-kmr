@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "kmr",
+  "chapter": 9,
+  "translation": "Tu ⟨ew⟩ yî, Yahwe Elohîm, ê ku Avram hilbijartî û wî ji Ûrê Kesdiyan derxistî, û navê wî kirî Avraham.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ew⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "hilbijartî"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "û derxistî wî"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ji Ûr"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kesdî"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "û kirî"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-30T06:29:39.503360878Z",
+  "model": "glm-5.3"
+}

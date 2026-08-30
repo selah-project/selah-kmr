@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 28,
+  "translation": "Gelê xwe xilas bike û ⟨את⟩ mîrata xwe bibarek bike; wan çêdere bike û wan heta hertimî hilgire.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "xilas bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelê xwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê xwe"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "û bibarek bike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mîrata xwe"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mîrata xwe"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "wan çêdere bike"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "û wan hilgire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "hertimî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:14:24.662332815Z",
+  "model": "glm-5.3"
+}

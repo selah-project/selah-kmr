@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Û Ahîşar serdariya maleyê dikir, û Adoniram kurê Avda serdariya bac û zehmetiyê dikir.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "Û Ahîşar"
+    },
+    {
+      "surface": "על",
+      "gloss": "serdariya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "maleyê"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "û Adoniram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kurê"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Avda"
+    },
+    {
+      "surface": "על",
+      "gloss": "serdariya"
+    },
+    {
+      "surface": "המס",
+      "gloss": "bac û zehmetiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T20:01:36.693810016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 138,
+  "translation": "Yahwe ê ji bo min biqedîne. Yahwe, xesedê te heta hetayê ye; kirinên destên te bernede!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "ê biqedîne"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ji bo min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedê te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hetayê"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "kirinên"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "destên te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "bernede"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:57.195865723Z",
+  "model": "glm-5.3"
+}

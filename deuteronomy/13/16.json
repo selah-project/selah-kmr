@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 13,
+  "translation": "Şêniyên ⟨את⟩ wê bajarî bi devê şûr bê guman bikujî; wê û ⟨את⟩ hemû tiştê ku tê de, û ⟨את⟩ ajalên wê bi devê şûr biqir bikî.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "bê guman"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "kujî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şêniyên wê bajarî"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "şêniyên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wê bajarî"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bi devê"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûr"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "biqir bikî"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ wê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "hemû tiştê ku tê de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştê ku"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tê de"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "ajalên wê"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "ajalên wê"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bi devê"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "şûr"
+    }
+  ],
+  "timestamp": "2026-08-29T19:04:41.109710494Z",
+  "model": "glm-5.3"
+}

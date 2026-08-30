@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 124,
+  "translation": "Wê hingê avan me diavêta, rêbarekî ser giyanê me derbas dibû.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "wê hingê"
+    },
+    {
+      "surface": "המים",
+      "gloss": "avan"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "me diavêta"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "rêbarekî"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "derbas dibû"
+    },
+    {
+      "surface": "על",
+      "gloss": "ser"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "giyanê me"
+    }
+  ],
+  "timestamp": "2026-08-30T06:58:04.997379526Z",
+  "model": "glm-5.3"
+}

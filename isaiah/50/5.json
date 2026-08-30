@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 50,
+  "translation": "Adonay Yahwe gohê min vekir û ez serî nehandim, paş de jî ne geriyan.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vekir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gohê"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "û ez"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "serî nehandim"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paş de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "geriyan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:44:31.867697029Z",
+  "model": "glm-5.3"
+}

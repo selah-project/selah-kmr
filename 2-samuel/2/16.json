@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 2:16",
+  "book": "2-samuel",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û her yekî bi hêz serê hevalê xwe girt û şûrê wî di aliyê hevalê wî de bû, û bi hev re ketin; û navê wî cihî hat dayîn Helkat HaTsurim, ê ku li Giv'onê ye.",
+  "tokens": [
+    {
+      "surface": "ויחזקו",
+      "gloss": "Û bi hêz girtin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her yekî"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "serê"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê wî"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "û şûrê wî"
+    },
+    {
+      "surface": "בצד",
+      "gloss": "di aliyê"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hevalê wî"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "û ketin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bi hev re"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "û ... hat dayîn"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "navê wî cihî"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wî yê"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Helkat"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "HaTsurim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ê ku"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "li Giv'onê"
+    }
+  ],
+  "timestamp": "2026-08-29T19:48:58.622460835Z",
+  "model": "glm-5.3"
+}

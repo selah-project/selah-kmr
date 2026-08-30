@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û Yahwe Elohîm xewa kûr li ser Adam daxist, û ew xew da; û yek ji qalikên wî girt û goşt li şûna wê da.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "daxist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "xewa kûr"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "û ew xew da"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "û girt"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yek"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "ji qalikên wî"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "û da (girt)"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goşt"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "li şûna wê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:34:06.970282360Z",
+  "model": "glm-5.3"
+}

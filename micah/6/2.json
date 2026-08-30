@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Çiyo, ⟨את⟩ doza Yahwe bihîsin, û hêzên bingehên erdê; çimkî dozeka Yahwe bi gelê wî re heye, û ew bi Yisrael re tê munazerekirin.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "bihîsin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "çiyano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doza Yahwe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "doz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "û hêzên"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "bingehên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "doz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bi … re"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gelê wî"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi … re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "tê munazerekirin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:06:18.307564062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 105,
+  "translation": "Dema ku ew bi hejmarekê kêm bûn — pir kêm — û biyanî di wê de bûn.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Dema ku ew bûn"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bi hejmarekê"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kêm"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "pir kêm"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "û biyanî"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di wê de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:32:20.369726657Z",
+  "model": "glm-5.3"
+}

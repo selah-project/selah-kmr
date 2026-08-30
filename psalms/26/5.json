@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 26,
+  "translation": "Ez nefretî civata xirabkaran dikim, û bi bedreyan re nanîşim.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ez nefretî ... dikim"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "civata"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "xirabkaran"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "û bi ... re"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bedreyan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "nîşim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:30.839211231Z",
+  "model": "glm-5.3"
+}

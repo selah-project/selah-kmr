@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 107,
+  "translation": "Çolê dike kendalên avê, û erdê ziwa dike kanên avê.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "dike"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "kendalên avê"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "û erdê"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ziwa"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "kanên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:46.413931897Z",
+  "model": "glm-5.3"
+}

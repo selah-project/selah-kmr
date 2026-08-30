@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Zarokên wî û lingên wî bila bi avê were şûştin; û kahîn ê ⟨את⟩ tevahî li ser mîzbeahê bisewitîne — qurbana şewatê, pêşkeşa agir, bêhneke xweş ji bo Yahwe.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "zarokên wî"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "û lingên wî"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "bila were şûştin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "bi avê"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "bisewitîne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevahî"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tevahî"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "li ser mîzbeahê"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qurbana şewatê"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pêşkeşa agir"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bêhn"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "xweş"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ji bo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:23:14.861337113Z",
+  "model": "glm-5.3"
+}

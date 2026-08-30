@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Ji bo serokekî muzîkê, li ser ⟨alavê Gîtît⟩, ji bo Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ji bo serokekî muzîkê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "alavê Gîtît"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ji bo Asaf"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:15.459543853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 46,
+  "translation": "Kurên wî û kurên kurên wî ⟨bi⟩ wî re, keçên wî û keçên kurên wî, û hemû zurewî wî — hanê wî bi xwe hanî Mîtsrayimê.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "keçên wî"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "û keçên"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kurên wî"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zurewî wî"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "hanî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bi wî re"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-30T03:29:19.554018807Z",
+  "model": "glm-5.3"
+}

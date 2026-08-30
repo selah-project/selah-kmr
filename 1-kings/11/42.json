@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û rojên ku Şelomo li Yeruşalayim seranserê hemû Yisraêl padîşahî kir çil sal bûn.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Û rojên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padîşahî kir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "li Yeruşalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "seranserê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "çil"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sal"
+    }
+  ],
+  "timestamp": "2026-08-29T20:06:52.882934612Z",
+  "model": "glm-5.3"
+}

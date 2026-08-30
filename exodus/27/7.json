@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 27,
+  "translation": "Darên wê werin danîn ⟨את⟩ nav gustîkan, û dar li ser herdu alên êlikê bin, dema ⟨ew⟩ tê hilgirtin.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "werin danîn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darên wê (בדיו)"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "darên wê"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "nav gustîkan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dar"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "herdu"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "alên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "êlikê"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "dema tê hilgirtin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "êlikê (ew)"
+    }
+  ],
+  "timestamp": "2026-08-29T18:14:17.926815625Z",
+  "model": "glm-5.3"
+}

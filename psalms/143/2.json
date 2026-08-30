@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 143,
+  "translation": "Û di dozê de neyê ser ⟨את⟩ xulamê te, ji ber kê tu yên zindî li pêş te rast nayê dîtin.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "neyê ser"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "di dozê de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xulamê te"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xulamê te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "rast nayê dîtin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "li pêş te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tu yên"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zindî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:38:26.415031124Z",
+  "model": "glm-5.3"
+}

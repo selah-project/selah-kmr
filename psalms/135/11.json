@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 135,
+  "translation": "Sîhon keyê Emoriyan û Og keyê Başan û hemû keyaniyên Kenaan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sîhon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyan"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "û Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Başan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "û hemû"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "keyaniyên"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:19.663694417Z",
+  "model": "glm-5.3"
+}

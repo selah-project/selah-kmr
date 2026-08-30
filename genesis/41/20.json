@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 41,
+  "translation": "Û mêntiyên ezwer û xirab ⟨את⟩ heft mêntiyên pêşîn ên qelew xwarin.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "mêntiyên"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "ezwer"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "û xirab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heft mêntiyên pêşîn ên qelew"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heft"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "mêntiyên"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "pêşîn"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "qelew"
+    }
+  ],
+  "timestamp": "2026-08-29T17:53:59.294769890Z",
+  "model": "glm-5.3"
+}

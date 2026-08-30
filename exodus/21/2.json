@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Çawa tu kirekî Îbranî bikirî, şeş salan xizmetê dike, û di ya şêşemîn de azad û bêpare derdikeve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çawa"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "tu bikirî"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kirekî"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Îbranî"
+    },
+    {
+      "surface": "שש",
+      "gloss": "şeş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "salan"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "xizmetê dike"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "di ya şêşemîn de"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "derdikeve"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "azad"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bêpare"
+    }
+  ],
+  "timestamp": "2026-08-29T18:10:50.647489191Z",
+  "model": "glm-5.3"
+}

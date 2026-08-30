@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 48,
+  "translation": "Wî wan roja wê pilez kir û got: 'Îsraêl bi te pilez dike û dibêje: Elohîm te wekî Efrayim û wekî Menashe bike.' Û wî ⟨את⟩ Efrayim li pêş Menashe danî.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "wî wan pilez kir"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "û got"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bi te"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pilez dike"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dibêje"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "te bike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "wekî Efrayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "û wekî Menashe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêş"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-29T17:59:48.631338412Z",
+  "model": "glm-5.3"
+}

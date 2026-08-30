@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û jêhatiyên efsûnê bi hunerên xwe yên veşartî hewl dan ku qamîşokan ⟨⟨derxin⟩⟩, lê nekarîn; û qamîşok li ser mirov û li ser ajalan man.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "kirin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wiha"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "jêhatiyên efsûnê"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "bi hunerên xwe yên veşartî"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ku derxin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qamîşokan"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "qamîşokan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "karîn"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "man"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "qamîşok"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "li ser mirov"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "û li ser ajalan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:04:15.942315437Z",
+  "model": "glm-5.3"
+}

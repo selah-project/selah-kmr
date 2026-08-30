@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Binêre êşîtîya min û jandina min, û hemû gunehên min bibore.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "êşîtîya min"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "û jandina min"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "bibore"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "gunehên min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:15:45.988664989Z",
+  "model": "glm-5.3"
+}

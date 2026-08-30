@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 42,
+  "translation": "Û deh birayên Yosef daketin da ku ji Mîtsrayimê genim bikirînin.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "û daketin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "birayên"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deh"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "da ku bikirînin"
+    },
+    {
+      "surface": "בר",
+      "gloss": "genim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    }
+  ],
+  "timestamp": "2026-08-29T17:56:02.688799618Z",
+  "model": "glm-5.3"
+}

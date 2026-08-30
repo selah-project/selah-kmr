@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 11:14",
+  "book": "2-chronicles",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Çimkî Laviyan ⟨את⟩ zozanên xwe û milkên xwe hiştin û çûn Yehudayê û Yeruşalayimê, çimkî Yarov'am û zarokên wî wan ji kahîntiya Yahwe dûr xistibûn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çimkî"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hiştin"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laviyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zozanên xwe"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "zozanên xwe"
+    },
+    {
+      "surface": "ואחזתם",
+      "gloss": "û milkên xwe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "çûn"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudayê"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "û Yeruşalayimê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "הזניחם",
+      "gloss": "dûr xistibûn"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "û zarokên wî"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "ji kahîntiyê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:45:25.654165802Z",
+  "model": "glm-5.3"
+}

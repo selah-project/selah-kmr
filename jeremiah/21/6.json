@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 21,
+  "translation": "Û ez ê niştecihên vê bajêrî, ⟨את⟩ mirov û ⟨את⟩ ajal, bi têbûyeke mezin bikujim — ew ê bimirin.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "û ez ê lê bidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niştecihên vê bajêrî"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "niştecihên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bajêr"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vê"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mirov"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mirov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ajal"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bi têbûyê"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mezin"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ew ê bimirin"
+    }
+  ],
+  "timestamp": "2026-08-29T20:57:25.096201584Z",
+  "model": "glm-5.3"
+}

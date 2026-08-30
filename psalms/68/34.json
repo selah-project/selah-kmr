@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 68,
+  "translation": "Ji bo Yê ku li ser ezmanên ezmanên kevnar siwar dibe — wê balê, dengdêrî bi dengê xwe dide, dengekî hêzdar.",
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "Ji bo Yê ku siwar dibe"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "li ser ezmanên"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ezmanên"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kevnar"
+    },
+    {
+      "surface": "הן",
+      "gloss": "wê balê"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "bi dengê xwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "deng"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hêzdar"
+    }
+  ],
+  "timestamp": "2026-08-30T05:24:10.672036822Z",
+  "model": "glm-5.3"
+}

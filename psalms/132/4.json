@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 132,
+  "translation": "heke ez xewê bidim çavên xwe, ji çavbirwanên xwe dîlbûnê —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "heke"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ez bidim"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "xewê"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "çavên xwe"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ji çavbirwanên xwe"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "dîlbûnê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:37:05.951257812Z",
+  "model": "glm-5.3"
+}

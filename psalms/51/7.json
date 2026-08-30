@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 51,
+  "translation": "Bidîne, di gunehê de hatime dinyayê, û di sûcê de dayika min min ducanî kir.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bidîne"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "di gunehê de"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "hatime dinyayê"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "û di sûcê de"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ducanî min kir"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "dayika min"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:01.544622668Z",
+  "model": "glm-5.3"
+}

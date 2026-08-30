@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Û ji wir hindik bi hejmar bigre, û ⟨את⟩ wan di qunciyên libasê xwe de bizikîne.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "û bigre"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ji wir"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hindik"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "bi hejmar"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "û bizikîne"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan (mûyên hindik)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "di qunciyên libasê xwe de"
+    }
+  ],
+  "timestamp": "2026-08-30T03:45:35.608028254Z",
+  "model": "glm-5.3"
+}

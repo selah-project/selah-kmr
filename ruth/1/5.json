@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û herduwan jî – Maxlon û Kilyon – mirin; û ⟨ev⟩ jin ji herdu zarokên xwe û ji mêrê xwe ra ma.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "û mirin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "herduwan"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maxlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "û Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "û ma"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "jin"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ji herdu"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "zarokên xwe"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "û ji mêrê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:05:17.708963011Z",
+  "model": "glm-5.3"
+}

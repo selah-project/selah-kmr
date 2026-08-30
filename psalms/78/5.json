@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ew şahideytek li Yaakov çêkir û Torekê li Yisrael danî, ku ferman da bavên me ⟨את⟩, da ku ew ji zarokên xwe re bidana zanîn.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "şahidet"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "li Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "û Torekê"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danî"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "li Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ferman da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavên me"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bavên me"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "da ku bidana zanîn"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ji zarokên xwe re"
+    }
+  ],
+  "timestamp": "2026-08-30T06:57:48.075250009Z",
+  "model": "glm-5.3"
+}

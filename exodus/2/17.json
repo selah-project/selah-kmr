@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 2,
+  "translation": "Û şêvan hatin û wan xist dûr — û Moşe (Mûsa) rabû û xilas kir wan û av da ⟨את⟩ remedalên wan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hatin"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "şêvan"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "wan xist dûr"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "rabû"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "xilas kir wan"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "av da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "remedalên wan"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "remedalên wan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:01:35.433599919Z",
+  "model": "glm-5.3"
+}

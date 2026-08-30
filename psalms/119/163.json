@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Derewê ez ji hez nakim û ji dil qirêj dibînim, lê Şerîeta te ez hez dikim.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Derewê"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ji hez nakim"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "û ji dil qirêj dibînim"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Şerîeta te"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ez hez dikim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:36:01.375487540Z",
+  "model": "glm-5.3"
+}

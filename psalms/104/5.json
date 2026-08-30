@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 104,
+  "translation": "Erdê li ser bingehên wê danî — êdî tu caran nêleive, hertim û hertiştî.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "danî"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "bingehên wê"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tu caran"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "nêleive"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hertim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "û hertiştî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:17.598768637Z",
+  "model": "glm-5.3"
+}

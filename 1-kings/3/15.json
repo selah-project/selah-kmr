@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 3:15",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Û Şelomo hişyar bû — û binêre, xewnek bû. Û ew hat Yeruşalayimê û çû ber li pêşiya sandiqa peymana Adonay, û pêşkeşên şewatê bilind kir û pêşkeşên aştiyê çêkir, û ji bo hemû xulamên xwe dewetek çêkir.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "hişyar bû"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û binêre"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "xewnek"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimê"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "çû ber sekinî"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li pêşiya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiqa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "peymana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "bilind kir"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "pêşkeşên şewatê"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "pêşkeşên aştiyê"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "çêkir"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "dewetek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ji bo hemû"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xulamên xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T20:02:10.260374786Z",
+  "model": "glm-5.3"
+}

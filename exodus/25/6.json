@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "rûn ji bo çirayan, bêhnan ji bo rûnê meshkirinê, û ji bo buhûra bêhnan,",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "rûn"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "ji bo çirayan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bêhnan"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "ji bo rûnê"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "meshkirinê"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "û ji bo buhûra"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "bêhnan"
+    }
+  ],
+  "timestamp": "2026-08-29T18:13:20.540178609Z",
+  "model": "glm-5.3"
+}

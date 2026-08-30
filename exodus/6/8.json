@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "û ez ê ⟨אתכם⟩ bînim bo ⟨את⟩ wê erdê ku min ⟨את⟩ destê xwe hilda da wê bidim Avraham, Yîtshaq û Yaqûb; û ez ê ⟨אתה⟩ wê wek mîrasiyekê bidim we. Ez im Yahwe.”",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "û ez ê bînim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wê erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "min hilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destê xwe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "destê xwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da ... bidim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yîtshaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "û Yaqûb"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "û ez ê bidim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "wê"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "we"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "wek mîrasiyekê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T18:03:26.245117320Z",
+  "model": "glm-5.3"
+}

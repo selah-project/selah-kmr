@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Ji kevirî çemên herikî derxist û av wek çeman daxist.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "derxist"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "çemên herikî"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ji kevirî"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "daxist"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "wek çeman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:26.354076768Z",
+  "model": "glm-5.3"
+}

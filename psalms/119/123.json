@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Çavên min betal bûne li benda rizgariya te û li benda gotina rastî ya te.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Çavên min"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "betal bûne"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "li benda rizgariya te"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "û li benda gotina"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "rastî ya te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:24.661154417Z",
+  "model": "glm-5.3"
+}

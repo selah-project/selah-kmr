@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Û Elohîm ⟨את⟩ hemû tiştên ku çêkiribû dît, û va ye — pir baş e. Û êvar bû, û sibeh bû — roja şêşemîn.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "û dît"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hemû tiştên ku çêkiribû"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiştên ku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêkiribû"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "û va ye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "êvar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "û bû"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sibeh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roja"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "şêşemîn"
+    }
+  ],
+  "timestamp": "2026-08-29T17:33:09.012564931Z",
+  "model": "glm-5.3"
+}

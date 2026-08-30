@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 33,
+  "translation": "Ev bêrûka ye ku Moşe, mêrê Elohîm, ⟨את⟩ kuren Yisraêl pîroz kir berî mirina xwe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bêrûka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pîroz kir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mêrê"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuren"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraêl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "berî"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "mirina xwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:13:34.363246218Z",
+  "model": "glm-5.3"
+}

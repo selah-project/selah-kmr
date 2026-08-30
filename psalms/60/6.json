@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 60,
+  "translation": "Tu ji bo yên ji te ditirse al daye, ku ji ber rastiyê bila bê rakirin. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "daye"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ji bo yên ji te ditirse"
+    },
+    {
+      "surface": "נס",
+      "gloss": "al"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "bila bê rakirin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ji ber"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "rastiyê"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:42.366910414Z",
+  "model": "glm-5.3"
+}

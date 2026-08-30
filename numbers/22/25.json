@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "kmr",
+  "chapter": 22,
+  "translation": "Hêstir ferîşteya Yahwe dît û xwe ber bi ⟨ה⟩dîvê da û lingê Bilam ⟨את⟩ li dîvê da, û ew dîsa lê da.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dît"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "hêstir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ferîşteya Yahwe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ferîşteya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "xwe ber bi dîvê da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dîvê"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "da (li dîvê)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lingê Bilam"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lingê"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "li"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dîvê"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dîsa"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "lê da"
+    }
+  ],
+  "timestamp": "2026-08-29T18:51:28.210675236Z",
+  "model": "glm-5.3"
+}

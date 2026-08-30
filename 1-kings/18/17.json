@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Û bû, dema Ahab ⟨את⟩ Eliyahu dît, Ahab ji wî re got: \"Tu yî, ev yê ku Yisrael ditirşîne?\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bû"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "dem ku dît"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ji wî re"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev yê"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "ditirşîne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-29T20:11:20.837204178Z",
+  "model": "glm-5.3"
+}

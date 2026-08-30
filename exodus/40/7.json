@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Û tu dê ⟨את⟩ çemegdanê di navbera çadira civînê û mizbexê de deyî, û wir avê deyî.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "û tu dê … deyî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çemegdanê"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "çemegdan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di navbera"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "civîn"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "û"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbexê"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "deyî"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:21:47.762592303Z",
+  "model": "glm-5.3"
+}

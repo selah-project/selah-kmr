@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 77,
+  "translation": "Tu yî ⟨h⟩Êlê ku pêlê çêdike; hêza xwe ji gelan re daxuyandî.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu yî"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "çêdike"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "pêlê"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "daxuyandî"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ji gelan re"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hêza te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:00.278421928Z",
+  "model": "glm-5.3"
+}

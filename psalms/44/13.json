@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 44,
+  "translation": "Tu gelê xwe bê diravan difiroşî û bi bihayê wan tu zêde nayî.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "difirosî"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gelê te"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bê"
+    },
+    {
+      "surface": "הון",
+      "gloss": "diravan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "û nayî"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "zêde"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "bi bihayê wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:59.039901871Z",
+  "model": "glm-5.3"
+}

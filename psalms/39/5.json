@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 39,
+  "translation": "“Yahwe, bidûnî kirinê min û pîvana rojên min — çi ⟨ew e⟩ — da ku ez bizanim çawa welav ⟨im⟩ ez.”",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "bidûnî min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "kirinê min"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "û pîvana"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "rojên min"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ew e⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "da ku ez bizanim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "welav"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-08-30T05:18:32.502598233Z",
+  "model": "glm-5.3"
+}

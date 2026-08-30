@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 25,
+  "translation": "Û ⟨את⟩ bexûrdan û ⟨את⟩ kaseyan — ên zêr, zêr, û ên zîv, zîv — serdarê pasdaran girt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bexûrdan"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "bexûrdan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaseyan"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "kaseyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zêr"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "û ên"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zîv"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "girt"
+    },
+    {
+      "surface": "רב",
+      "gloss": "serdarê"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "pasdaran"
+    }
+  ],
+  "timestamp": "2026-08-29T20:26:58.901755279Z",
+  "model": "glm-5.3"
+}

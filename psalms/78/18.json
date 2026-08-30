@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Wan Êl di dilê xwe de ceriband, ku ji bo canê xwe xwarinê bixwazin.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ceriband"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Êl"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "di dilê xwe de"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "bixwazin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "xwarin"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "ji bo canê xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:29.620384593Z",
+  "model": "glm-5.3"
+}

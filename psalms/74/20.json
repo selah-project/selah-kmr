@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 74,
+  "translation": "Li peymanê binêre; çimkî cihên tarî yên erdê ji malên zorkariyê tijî bûne.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "binêre"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "li peymanê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çimkî"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "tijî bûne"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "cihên tarî"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "malên"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorkariyê"
+    }
+  ],
+  "timestamp": "2026-08-30T05:25:09.596504638Z",
+  "model": "glm-5.3"
+}

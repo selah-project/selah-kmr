@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Bihizarin û guneh nekin; di dilê xwe de, di bedoyên xwe de bêjin û bêdeng bin. Selah",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "bihizarin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ne"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "guneh bikin"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bêjin"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "di dilê xwe de"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "bedoyên xwe de"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "û bêdeng bin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:23.865684889Z",
+  "model": "glm-5.3"
+}

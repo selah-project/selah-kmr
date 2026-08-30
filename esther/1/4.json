@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "kmr",
+  "chapter": 1,
+  "translation": "Dema ku ew ⟨את⟩ dewlemendiya rûmeta keyaniya xwe û ⟨את⟩ hêjabûna bedewiya mezinahiya xwe nîşan da — rojên gelek, heşted û sed roj.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "dema ku ew nîşan da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewlemendiya rûmeta keyaniya xwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dewlemendî"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "keyaniya xwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hêjabûna bedewiya mezinahiya xwe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "hêjabûn"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "bedewî"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "mezinahiya xwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rojn"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gelek"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "heşted"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "û sed"
+    },
+    {
+      "surface": "יום",
+      "gloss": "roj"
+    }
+  ],
+  "timestamp": "2026-08-30T06:12:41.482799772Z",
+  "model": "glm-5.3"
+}

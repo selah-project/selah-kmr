@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 119,
+  "translation": "Ba min bû ku min ezîtet darist, ji bo ku ez destûrên te hîn bibim.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baş\/ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ezîtet darist"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ji bo ku"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "hîn bibim"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "destûrên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:35:39.098865043Z",
+  "model": "glm-5.3"
+}

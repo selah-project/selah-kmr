@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 81,
+  "translation": "Ji ber ku ew qanûnekî ji bo Îsraêl e, hukmekî ji bo Elohîmê Yaqûb.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ji ber ku"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanûnekî"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ji bo Îsraêl"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ew"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukmekî"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ji bo Elohîmê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'qûb"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:11.890242360Z",
+  "model": "glm-5.3"
+}

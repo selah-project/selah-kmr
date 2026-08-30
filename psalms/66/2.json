@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 66,
+  "translation": "Mizmarî bikin ji rûmeta navê wî, rûmet bidin pesna wî!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "mizmarî bikin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "navê wî"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "bidin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rûmet"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pesna wî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:21:51.255565171Z",
+  "model": "glm-5.3"
+}

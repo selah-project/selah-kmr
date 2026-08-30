@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 11,
+  "translation": "Û Yahwe ji Moşe re got: «Hê yek xezabê din ez ê bi ser Firawn û bi ser Mîtsrayim re bînim; piştre ew ê ⟨את⟩ we ji vir bişîne. Dema ku we bişîne, bi tundî ew ê ⟨את⟩ we ji vir derxîne.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji… re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hê"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "xezab"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yek"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ez ê bînim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bi ser… re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "û bi ser… re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mîtsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "piştre"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ew ê bişîne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩we",
+      "marks": "we ji vir bişîne"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ji vir"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "dema ku wî bişand"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bi tundî"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "derxîne"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "derdixe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩we",
+      "marks": "we ji vir derxîne"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ji vir"
+    }
+  ],
+  "timestamp": "2026-08-29T18:05:28.814816209Z",
+  "model": "glm-5.3"
+}

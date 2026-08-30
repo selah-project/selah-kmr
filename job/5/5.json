@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "kmr",
+  "chapter": 5,
+  "translation": "Birçî kêza wî dixwe, û ji nav devîkan tê girtin, û yên tî hêza wan diqurtînin.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "kêza wî"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "birçî"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dixwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "devîkan"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "tê girtin"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "û diqurtînin"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "yên tî"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hêza wan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:52:29.024011918Z",
+  "model": "glm-5.3"
+}

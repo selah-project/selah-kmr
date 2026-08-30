@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "kmr",
+  "chapter": 17,
+  "translation": "Û gel li wir ji ber avê tê bû û gel li ser Moşe gilî kir û got: “Çima te me ji Mîtsrayimê derxist, ku ⟨את⟩ min û ⟨את⟩ zarokên min û ⟨את⟩ dewarên min bi têtiyê bikujî?”",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "tê bû"
+    },
+    {
+      "surface": "שם",
+      "gloss": "li wir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ji ber avê"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "gilî kir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel"
+    },
+    {
+      "surface": "על",
+      "gloss": "li ser"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "got"
+    },
+    {
+      "surface": "למה",
+      "gloss": "çima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ev"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "te me derxist"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ji Mîtsrayimê"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ji bo kuştinê"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "zarokên min"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zarokên min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "û ⟨את⟩",
+      "marks": "dewarên min"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "dewarên min"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "bi têtiyê"
+    }
+  ],
+  "timestamp": "2026-08-29T18:09:16.503338143Z",
+  "model": "glm-5.3"
+}

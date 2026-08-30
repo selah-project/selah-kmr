@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 8:20",
+  "book": "ezra",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Û ji Netînînan, ku Dawid û seroken şandibûn ji bo xizmeta Lewiyan, Netînîn — du sed û bîst; hemû bi navên xwe hatibûn nîşankirin.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "û ji"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "Netînînan"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "ku şandibûn"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "û seroken"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ji bo xizmeta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiyan"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "Netînîn"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "du sed"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "û bîst"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hemû"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "hatibûn nîşankirin"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "bi navên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T06:24:19.250250986Z",
+  "model": "glm-5.3"
+}

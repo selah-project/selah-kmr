@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Tevahî rojê dijminên min min dexesandin; ên li dijî min dîn bûne, bi ⟨min⟩ sond xwarin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tevahî"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rojê"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "min dexesandin"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dijminên min"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ên li dijî min dîn bûne"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bi ⟨min⟩"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "sond xwarin"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:01.256422521Z",
+  "model": "glm-5.3"
+}

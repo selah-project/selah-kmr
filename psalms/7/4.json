@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 7,
+  "translation": "Yahwe, Elohîmê min, ger min ev kiribe, ger di destên min de cewr ⟨hebe⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohîmê min"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min ... kiri"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨hebe⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "cewr"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "di destên min de"
+    }
+  ],
+  "timestamp": "2026-08-30T05:11:50.473301170Z",
+  "model": "glm-5.3"
+}

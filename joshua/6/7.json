@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Û ji gel re gotin: «Derbas bibin, û li dora ⟨את⟩ bajêr bizivirin, û çekdar dê li ber sindona Yahwe derbas bibe.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "û gotin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gel re"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "derbas bibin"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "û bizivirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajêr"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dora bajêr"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "û çekdar"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "dê derbas bibe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "li ber"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sindona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-29T19:16:06.580070394Z",
+  "model": "glm-5.3"
+}

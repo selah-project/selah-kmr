@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 40,
+  "translation": "Siwar hişk dibe, gul winda dibe, lê peyva Elohîm ê me dê hertim rabe.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "hişk dibe"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "siwar"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "winda dibe"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "gul"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "lê peyva"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohîm ê me"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "dê … rabe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hertim"
+    }
+  ],
+  "timestamp": "2026-08-29T20:39:52.554175573Z",
+  "model": "glm-5.3"
+}

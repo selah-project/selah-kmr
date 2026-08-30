@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 102,
+  "translation": "Min xwe wekî qûta çolê dît, bûm wekû kûtirkê wêranan.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "min xwe wekî dît"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "qûta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çolê"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bûm"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "wekû kûtirkê"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "wêranan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:31:06.865893922Z",
+  "model": "glm-5.3"
+}

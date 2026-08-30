@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "kmr",
+  "chapter": 10,
+  "translation": "Destê têvalî xizan dike, lê destê dilovan dewlemend dike.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "xizan dike"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dike"
+    },
+    {
+      "surface": "כף",
+      "gloss": "destê"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "têvalî"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "lê destê"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "dilovan"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "dewlemend dike"
+    }
+  ],
+  "timestamp": "2026-08-30T05:42:34.287700544Z",
+  "model": "glm-5.3"
+}

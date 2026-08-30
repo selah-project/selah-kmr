@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 111,
+  "translation": "⟨Ew⟩ disekinin herta-i-dawî û heta hertim; bi rastî û rastdariyê hatine çêkirin.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "disekinin"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "herta-i-dawî"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "heta hertim"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "hatine çêkirin"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "bi rastî"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "û rastdarî"
+    }
+  ],
+  "timestamp": "2026-08-30T05:33:48.372027548Z",
+  "model": "glm-5.3"
+}

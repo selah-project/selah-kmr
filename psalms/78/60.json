@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 78,
+  "translation": "Û şikefta Şîloy terk kir, çadira ku wî nav mirovan bicîh kiribû.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "terk kir"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "şikefta"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Şîloy"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadira"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bicîh kiribû"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nav mirovan"
+    }
+  ],
+  "timestamp": "2026-08-30T05:27:00.674056024Z",
+  "model": "glm-5.3"
+}

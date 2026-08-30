@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "kmr",
+  "chapter": 18,
+  "translation": "Keyê Aşûrê Îsraêl ⟨את⟩ sirgûnî Aşûrê kir û wan li Balah û li Habôr, çemê Gozan, û li bajarên Maday bi cih kir.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "sirgûn kir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "keyê"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşûrê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Îsraêl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Îsraêl"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "bo Aşûrê"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "bi cih kir"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "li Balah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "û li Habôr"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "çemê"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "û li bajarên"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maday"
+    }
+  ],
+  "timestamp": "2026-08-29T20:22:21.402416171Z",
+  "model": "glm-5.3"
+}

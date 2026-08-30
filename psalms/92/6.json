@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 92,
+  "translation": "Çend mezin in kedên te, Yahwe, pir kûr in ramanên te!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "çend"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "mezin in"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "kedên te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pir"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "kûr in"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ramanên te"
+    }
+  ],
+  "timestamp": "2026-08-30T05:29:06.353354999Z",
+  "model": "glm-5.3"
+}

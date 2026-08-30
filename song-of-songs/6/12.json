@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "kmr",
+  "chapter": 6,
+  "translation": "Ez nizanibûm — canê min min wekî erebên gelê min ên bi rûmet dan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ez nizanibûm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canê min"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "min dan"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "erebên"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gelê min"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ên bi rûmet"
+    }
+  ],
+  "timestamp": "2026-08-30T06:04:42.855321438Z",
+  "model": "glm-5.3"
+}

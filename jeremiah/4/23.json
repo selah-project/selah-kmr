@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "kmr",
+  "chapter": 4,
+  "translation": "Ez dîm ⟨את⟩ erdê, û lê — vala û betal e; û li ezmanan — û ronahiya wan tune.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ez dîm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "ווהנה",
+      "gloss": "û lê"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "vala"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "û betal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "û li"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezmanan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "û tune"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ronahiya wan"
+    }
+  ],
+  "timestamp": "2026-08-29T20:50:21.456718151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Wê gavê qîrîna ber bi Yahwe dikin, lê ew ⟨את⟩ wan bersîv nade; rûyê xwe ji wan vedişêre di wê demê de, çawa kirînên xwe bi xerabî kirin.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wê gavê"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "qîrîna ... dikin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ber bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lê ... na"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bersîv nade"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wan"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "û vedişêre"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rûyê xwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ji wan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di ... demê"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wê"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "çawa"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "bi xerabî kirin"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "kirînên xwe"
+    }
+  ],
+  "timestamp": "2026-08-30T04:12:20.664563735Z",
+  "model": "glm-5.3"
+}

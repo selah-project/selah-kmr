@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 82,
+  "translation": "Ez gotim: hûn elohîm in, û hûn hemû kurên Êl Elyon in.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "gotim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohîm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hûn"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "û kurên"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Êl Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hûn hemû"
+    }
+  ],
+  "timestamp": "2026-08-30T05:26:54.726057880Z",
+  "model": "glm-5.3"
+}

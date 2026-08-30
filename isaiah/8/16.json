@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "kmr",
+  "chapter": 8,
+  "translation": "Şahidiyê girêde, Tora-yê li şagirtên min mohr bike.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "girêde"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "Şahidiyê"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "mohr bike"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora-yê"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "li şagirtên min"
+    }
+  ],
+  "timestamp": "2026-08-29T20:28:34.422736419Z",
+  "model": "glm-5.3"
+}

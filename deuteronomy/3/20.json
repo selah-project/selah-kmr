@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 3:20",
+  "book": "deuteronomy",
+  "lang": "kmr",
+  "chapter": 3,
+  "translation": "Heta ku Yahwe ji birayên we re — wekî we — aramî bidin û ew jî ⟨את⟩ erdê ku Yahwe Elohîmê we wan re dide, li alê dûrî Yardenê bistînin; û hûn ê vegerin, her kesî bo mîrata xwe ya min daye we.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "aramî bidin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ji birayên we re"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "wekî we"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "û ew bistînin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jî"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erdê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erdê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohîmê we"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dide"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wan re"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "li alê dûrî"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenê"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "û hûn ê vegerin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "her kesî"
+    },
+    {
+      "surface": "לירשתו",
+      "gloss": "bo mîrata xwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yê"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min daye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-08-29T18:58:51.853036257Z",
+  "model": "glm-5.3"
+}

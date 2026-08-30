@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "kmr",
+  "chapter": 56,
+  "translation": "Rojê ku ez ditirsim, ez ê xwe bispêrim te.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Rojê"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ez ditirsim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "xwe bispêrim"
+    }
+  ],
+  "timestamp": "2026-08-30T05:20:40.678532035Z",
+  "model": "glm-5.3"
+}
