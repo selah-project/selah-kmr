@@ -79,3 +79,9 @@ Xwendevan, xwendekarên Îbranî, wergêr, ên ku Kurmancî zimanê wan
 ê dayikê ye — hûn hemû bi xêr hatin. Berî ku hûn çewtiyekê
 rapor bikin an sererastkirinekê pêşniyar bikin,
 [CONTRIBUTING.md](CONTRIBUTING.md) bixwînin.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
