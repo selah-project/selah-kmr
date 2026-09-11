@@ -45,3 +45,8 @@ Bi beşdariyê hûn dipejirînin ku her tiştê pejirandî di bin
 [CC BY-SA 4.0](LICENSE.md) de tê weşandin. Dîroka Git tomar û
 delîlan vekirî diparêze. Venihêr pêşniyaran li gorî Îbranî,
 rêzikan, çavkaniyan û walsimanê dinirxînin.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
